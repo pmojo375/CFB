@@ -1,0 +1,1927 @@
+<fbgame source="Tas Football" version="4.16.07" generated="9/20/2015">
+ <venue gameid="UTEP919" visid="UTEP" homeid="NMSU" visname="UTEP" homename="New Mexico State"
+      date="9/19/2015" location="Las Cruces, N.M." stadium="Aggie Memorial"
+      start="6:07 pm" end="9:48 pm" nitegame="Y"
+      duration="3:41" attend="17210" temp="71 deg" wind="SSE 7mph" weather="cloudy; 73% humidity">
+  <officials ref="Steve LaMantia" ump="Mike Moten" line="Max Causey" lj="Walter Flowers" bj="Tom Healy" fj="Scott Gasaway" sj="Eric Steen" cj="Kevin Randall" alt="Kevin Randall"></officials>
+  <rules qtrs="4" mins="15" downs="4" yds="10" kospot="35" tbspot="20" kotbspot="25" patspot="3" safspot="20" td="6" fg="3" pat="1" patx="2" saf="2" defpat="2" rouge="1" field="100" toh="3" sackrush="Y" fgaplay="Y" netpunttb="Y"></rules>
+ </venue>
+ <team vh="V" code="704" id="UTEP" name="UTEP" record="1-2" abb="T">
+  <linescore prds="5" line="9,0,7,28,6" score="50">
+   <lineprd prd="1" score="9"></lineprd>
+   <lineprd prd="2" score="0"></lineprd>
+   <lineprd prd="3" score="7"></lineprd>
+   <lineprd prd="4" score="28"></lineprd>
+   <lineprd prd="5" score="6"></lineprd>
+  </linescore>
+  <totals totoff_plays="78" totoff_yards="542" totoff_avg="6.9">
+   <firstdowns no="27" rush="9" pass="12" penalty="6"></firstdowns>
+   <penalties no="11" yds="90"></penalties>
+   <conversions thirdconv="7" thirdatt="15" fourthconv="0" fourthatt="0"></conversions>
+   <fumbles no="1" lost="1"></fumbles>
+   <misc yds="0" top="35:38" ona="0" onm="0" ptsto="0"></misc>
+   <redzone att="2" scores="2" points="13" tdrush="1" tdpass="1" fgmade="0" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="44" yds="269" gain="271" loss="2" td="3" long="66"></rush>
+   <pass comp="25" att="34" int="1" yds="273" td="3" long="48" sacks="0" sackyds="0"></pass>
+   <rcv no="25" yds="273" td="3" long="48"></rcv>
+   <punt no="6" yds="227" long="53" blkd="0" tb="0" fc="0" plus50="1" inside20="3" avg="37.8"></punt>
+   <ko no="7" yds="455" ob="0" tb="5"></ko>
+   <pat kickatt="6" kickmade="6"></pat>
+   <defense tackua="31" tacka="28" tot_tack="59" tflua="5" tfla="4" tflyds="23" sacks="2" sackyds="11" brup="2" qbh="1" saf="1" int="1" intyds="0"></defense>
+   <kr no="3" yds="77" td="0" long="31"></kr>
+   <pr no="1" yds="64" td="1" long="64"></pr>
+   <ir no="1" yds="0" td="0" long="0"></ir>
+   <scoring td="7" saf="1" patkick="6"></scoring>
+  </totals>
+  <player name="Trent Trammell" shortname="Trent Trammell" checkname="TRAMMELL,TRENT" uni="1" class="SR" gp="1" code="1">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="Nathan Stukes" shortname="Nathan Stukes" checkname="STUKES,NATHAN" uni="1S" class="SR" gp="1" code="1S"></player>
+  <player name="Ryan Metz" shortname="Ryan Metz" checkname="METZ,RYAN" uni="1M" class="FR" gp="1" code="1M">
+   <rush att="2" yds="9" gain="9" loss="0" td="1" long="8"></rush>
+   <pass comp="15" att="19" int="1" yds="218" td="3" long="48" sacks="0" sackyds="0"></pass>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="I. Harrison" shortname="I. Harrison" checkname="HARRISON,I" uni="2" class="SR" gp="1" gs="1" dpos="WS" code="2">
+   <defense tackua="1" tacka="2" tot_tack="3"></defense>
+  </player>
+  <player name="Traun Roberson" shortname="Traun Roberson" checkname="ROBERSON,TRAUN" uni="3R" class="SR" gp="1" code="3R">
+   <defense tackua="4" tacka="0" tot_tack="4" brup="1"></defense>
+  </player>
+  <player name="Treyvon Hughes" shortname="Treyvon Hughes" checkname="HUGHES,TREYVON" uni="3" class="FR" gp="1" gs="1" dpos="CB" code="3">
+   <rush att="1" yds="-1" gain="0" loss="1" td="0" long="0"></rush>
+  </player>
+  <player name="J. Laufasa" shortname="J. Laufasa" checkname="LAUFASA,J" uni="4" class="SR" gp="1" gs="1" opos="TB" code="4">
+   <rush att="5" yds="26" gain="26" loss="0" td="0" long="11"></rush>
+   <rcv no="2" yds="16" td="0" long="10"></rcv>
+  </player>
+  <player name="Warren Redix" shortname="Warren Redix" checkname="REDIX,WARREN" uni="5R" class="FR" gp="1" code="5R">
+   <rush att="1" yds="9" gain="9" loss="0" td="0" long="9"></rush>
+   <rcv no="3" yds="3" td="0" long="4"></rcv>
+  </player>
+  <player name="Leon Hayes" shortname="Leon Hayes" checkname="HAYES,LEON" uni="5" class="JR" gp="1" code="5"></player>
+  <player name="L. Dowell" shortname="L. Dowell" checkname="DOWELL,L" uni="7" class="SR" gp="1" code="7">
+   <rush att="11" yds="76" gain="76" loss="0" td="1" long="40"></rush>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Luke Elsner" shortname="Luke Elsner" checkname="ELSNER,LUKE" uni="8E" class="SO" gp="1" code="8E"></player>
+  <player name="Autrey Golden" shortname="Autrey Golden" checkname="GOLDEN,AUTREY" uni="8" class="SR" gp="1" gs="1" opos="WR" code="8">
+   <rush att="1" yds="1" gain="1" loss="0" td="0" long="1"></rush>
+   <rcv no="4" yds="54" td="1" long="26"></rcv>
+   <kr no="3" yds="77" td="0" long="31"></kr>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="K. Fisher Jr" shortname="K. Fisher Jr" checkname="JR,K FISHER" uni="8F" class="SR" gp="1" gs="1" dpos="FS" code="8F">
+   <defense tackua="5" tacka="0" tot_tack="5" int="1" intyds="0"></defense>
+   <ir no="1" yds="0" td="0" long="0"></ir>
+  </player>
+  <player name="Jaquan White" shortname="Jaquan White" checkname="WHITE,JAQUAN" uni="9" class="JR" gp="1" code="9">
+   <rush att="2" yds="6" gain="6" loss="0" td="0" long="3"></rush>
+   <rcv no="5" yds="44" td="0" long="21"></rcv>
+   <pr no="1" yds="64" td="1" long="64"></pr>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Jimmy Musgrave" shortname="Jimmy Musgrave" checkname="MUSGRAVE,JIMMY" uni="10" class="SR" gp="1" gs="1" dpos="MLB" code="10">
+   <defense tackua="1" tacka="2" tot_tack="3"></defense>
+  </player>
+  <player name="Mack Leftwich" shortname="Mack Leftwich" checkname="LEFTWICH,MACK" uni="11" class="SO" gp="1" gs="1" opos="QB" code="11">
+   <rush att="4" yds="18" gain="18" loss="0" td="0" long="14"></rush>
+   <pass comp="7" att="11" int="0" yds="52" td="0" long="21" sacks="0" sackyds="0"></pass>
+   <punt no="1" yds="31" long="31" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="31.0"></punt>
+   <fumbles no="1" lost="1"></fumbles>
+  </player>
+  <player name="Adrian Hynson" shortname="Adrian Hynson" checkname="HYNSON,ADRIAN" uni="12" class="FR" gp="1" code="12">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="Mookie Carlile" shortname="Mookie Carlile" checkname="CARLILE,MOOKIE" uni="13" class="FR" gp="1" code="13">
+   <defense tackua="0" tacka="2" tot_tack="2"></defense>
+  </player>
+  <player name="Kavika Johnson" shortname="Kavika Johnson" checkname="JOHNSON,KAVIKA" uni="14" class="FR" gp="1" code="14">
+   <rush att="9" yds="40" gain="40" loss="0" td="0" long="15"></rush>
+   <pass comp="3" att="4" int="0" yds="3" td="0" long="4" sacks="0" sackyds="0"></pass>
+  </player>
+  <player name="Darrin Laufasa" shortname="Darrin Laufasa" checkname="LAUFASA,DARRIN" uni="15" class="JR" gp="1" gs="1" opos="FB" code="15">
+   <rush att="8" yds="85" gain="86" loss="1" td="1" long="66"></rush>
+   <rcv no="2" yds="15" td="0" long="8"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Alvin Jones" shortname="Alvin Jones" checkname="JONES,ALVIN" uni="16" class="SO" gp="1" gs="1" dpos="WLB" code="16">
+   <defense tackua="5" tacka="6" tot_tack="11" tflua="4" tfla="2" tflyds="14" sackua="1" sacka="1" sackyds="7" saf="1"></defense>
+   <scoring saf="1"></scoring>
+  </player>
+  <player name="Garrett Simpson" shortname="Garrett Simpson" checkname="SIMPSON,GARRETT" uni="17" class="JR" gp="1" code="17"></player>
+  <player name="Daniel Siller" shortname="Daniel Siller" checkname="SILLER,DANIEL" uni="19" class="SR" gp="1" code="19">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Nik Needham" shortname="Nik Needham" checkname="NEEDHAM,NIK" uni="20" class="FR" gp="1" gs="1" dpos="SS" code="20">
+   <defense tackua="3" tacka="3" tot_tack="6" tflua="0" tfla="2" tflyds="6" sackua="0" sacka="1" sackyds="4" brup="1"></defense>
+  </player>
+  <player name="Dashone Smith" shortname="Dashone Smith" checkname="SMITH,DASHONE" uni="21" class="JR" gp="1" code="21">
+   <defense tackua="1" tacka="0" tot_tack="1" qbh="1"></defense>
+  </player>
+  <player name="Sloan Spiller" shortname="Sloan Spiller" checkname="SPILLER,SLOAN" uni="25" class="FR" gp="1" code="25">
+   <rcv no="1" yds="8" td="0" long="8"></rcv>
+  </player>
+  <player name="Kalon Beverly" shortname="Kalon Beverly" checkname="BEVERLY,KALON" uni="32" class="FR" gp="1" gs="1" dpos="CB" code="32">
+   <defense tackua="2" tacka="4" tot_tack="6"></defense>
+  </player>
+  <player name="Trey Brown" shortname="Trey Brown" checkname="BROWN,TREY" uni="35" class="SR" gp="1" code="35">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Nick Usher" shortname="Nick Usher" checkname="USHER,NICK" uni="36" class="JR" gp="1" gs="1" dpos="DE" code="36">
+   <defense tackua="2" tacka="0" tot_tack="2" tflua="1" tfla="0" tflyds="3"></defense>
+  </player>
+  <player name="Mikael Sroka" shortname="Mikael Sroka" checkname="SROKA,MIKAEL" uni="37" class="SO" gp="1" code="37"></player>
+  <player name="Michael Lewis" shortname="Michael Lewis" checkname="LEWIS,MICHAEL" uni="39" class="FR" gp="1" code="39"></player>
+  <player name="Roy Robertson" shortname="Roy Robertson" checkname="ROBERTSON,ROY" uni="43" class="SR" gp="1" gs="1" dpos="DE" code="43">
+   <defense tackua="2" tacka="2" tot_tack="4"></defense>
+  </player>
+  <player name="Cooper Foster" shortname="Cooper Foster" checkname="FOSTER,COOPER" uni="44" class="JR" gp="1" code="44"></player>
+  <player name="Alan Luna" shortname="Alan Luna" checkname="LUNA,ALAN" uni="46" class="SO" gp="1" code="46">
+   <punt no="5" yds="196" long="53" blkd="0" tb="0" fc="0" plus50="1" inside20="2" avg="39.2"></punt>
+  </player>
+  <player name="Jay Mattox" shortname="Jay Mattox" checkname="MATTOX,JAY" uni="47" class="JR" gp="1" code="47">
+   <ko no="7" yds="455" ob="0" tb="5"></ko>
+   <pat kickatt="6" kickmade="6"></pat>
+   <scoring patkick="6"></scoring>
+  </player>
+  <player name="Tyler Leasau" shortname="Tyler Leasau" checkname="LEASAU,TYLER" uni="50" class="JR" gp="1" code="50"></player>
+  <player name="Silas Firstley" shortname="Silas Firstley" checkname="FIRSTLEY,SILAS" uni="54" class="JR" gp="1" code="54"></player>
+  <player name="Eric Lee" shortname="Eric Lee" checkname="LEE,ERIC" uni="60" class="SR" gp="1" gs="1" opos="C" code="60"></player>
+  <player name="Gino Bresolin" shortname="Gino Bresolin" checkname="BRESOLIN,GINO" uni="63" class="JR" gp="1" gs="1" dpos="NT" code="63">
+   <defense tackua="0" tacka="3" tot_tack="3"></defense>
+  </player>
+  <player name="Nick Dooley" shortname="Nick Dooley" checkname="DOOLEY,NICK" uni="64" class="SR" gp="1" code="64"></player>
+  <player name="C. Harper" shortname="C. Harper" checkname="HARPER,C" uni="66" class="JR" gp="1" code="66"></player>
+  <player name="Anthony Kyles" shortname="Anthony Kyles" checkname="KYLES,ANTHONY" uni="67" class="JR" gp="1" code="67"></player>
+  <player name="Josh Silvas" shortname="Josh Silvas" checkname="SILVAS,JOSH" uni="68" class="SR" gp="1" code="68"></player>
+  <player name="Jerome Daniels" shortname="Jerome Daniels" checkname="DANIELS,JEROME" uni="70" class="JR" gp="1" gs="1" opos="LT" code="70"></player>
+  <player name="D. Elmendorff" shortname="D. Elmendorff" checkname="ELMENDORFF,D" uni="75" class="SO" gp="1" gs="1" opos="RG" code="75"></player>
+  <player name="Will Hernandez" shortname="Will Hernandez" checkname="HERNANDEZ,WILL" uni="76" class="SO" gp="1" gs="1" opos="LG" code="76"></player>
+  <player name="Chris Thomas" shortname="Chris Thomas" checkname="THOMAS,CHRIS" uni="77" class="SR" gp="1" gs="1" opos="RT" code="77"></player>
+  <player name="C. Misaalefua" shortname="C. Misaalefua" checkname="MISAALEFUA,C" uni="79" class="FR" gp="1" code="79"></player>
+  <player name="Cedrick Lang" shortname="Cedrick Lang" checkname="LANG,CEDRICK" uni="80" class="SR" gp="1" code="80">
+   <rcv no="1" yds="6" td="1" long="6"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Sterling Napier" shortname="Sterling Napier" checkname="NAPIER,STERLING" uni="81" class="SO" gp="1" code="81"></player>
+  <player name="Tyler Batson" shortname="Tyler Batson" checkname="BATSON,TYLER" uni="83" class="FR" gp="1" gs="1" opos="WR" code="83">
+   <rcv no="4" yds="61" td="0" long="30"></rcv>
+  </player>
+  <player name="Cole Freytag" shortname="Cole Freytag" checkname="FREYTAG,COLE" uni="84" class="JR" gp="1" code="84">
+   <rcv no="2" yds="58" td="1" long="48"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Hayden Plinke" shortname="Hayden Plinke" checkname="PLINKE,HAYDEN" uni="85" class="JR" gp="1" gs="1" opos="TE" code="85">
+   <rcv no="1" yds="8" td="0" long="8"></rcv>
+  </player>
+  <player name="V. Czerniewski" shortname="V. Czerniewski" checkname="CZERNIEWSKI,V" uni="91" class="SR" gp="1" code="91"></player>
+  <player name="Alex Villarreal" shortname="Alex Villarreal" checkname="VILLARREAL,ALEX" uni="92" class="SR" gp="1" gs="1" dpos="DT" code="92">
+   <defense tackua="1" tacka="2" tot_tack="3"></defense>
+  </player>
+  <player name="Team" shortname="Team" checkname="TEAM" uni="TM" class="FR" gp="1" code="198"></player>
+ </team>
+ <team vh="H" code="472" id="NMSU" name="New Mexico State" record="0-3" abb="N">
+  <linescore prds="5" line="13,3,14,14,3" score="47">
+   <lineprd prd="1" score="13"></lineprd>
+   <lineprd prd="2" score="3"></lineprd>
+   <lineprd prd="3" score="14"></lineprd>
+   <lineprd prd="4" score="14"></lineprd>
+   <lineprd prd="5" score="3"></lineprd>
+  </linescore>
+  <totals totoff_plays="63" totoff_yards="551" totoff_avg="8.7">
+   <firstdowns no="21" rush="11" pass="8" penalty="2"></firstdowns>
+   <penalties no="13" yds="149"></penalties>
+   <conversions thirdconv="4" thirdatt="13" fourthconv="0" fourthatt="0"></conversions>
+   <fumbles no="0" lost="0"></fumbles>
+   <misc yds="0" top="24:22" ona="0" onm="0" ptsto="7"></misc>
+   <redzone att="6" scores="6" points="37" tdrush="2" tdpass="3" fgmade="1" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="35" yds="266" gain="289" loss="23" td="2" long="82"></rush>
+   <pass comp="14" att="28" int="1" yds="285" td="3" long="78" sacks="2" sackyds="11"></pass>
+   <rcv no="14" yds="285" td="3" long="78"></rcv>
+   <punt no="5" yds="248" long="64" blkd="0" tb="1" fc="0" plus50="3" inside20="1" avg="49.6"></punt>
+   <ko no="9" yds="573" ob="1" tb="5"></ko>
+   <fg made="2" att="2" long="44" blkd="0"></fg>
+   <pat kickatt="6" kickmade="5"></pat>
+   <defense tackua="36" tacka="54" tot_tack="90" tflua="3" tfla="2" tflyds="4" sacks="0" sackyds="0" brup="3" qbh="1" ff="1" fr="1" fryds="0" int="1" intyds="41"></defense>
+   <kr no="2" yds="29" td="0" long="15"></kr>
+   <pr no="2" yds="30" td="0" long="17"></pr>
+   <ir no="1" yds="41" td="1" long="41"></ir>
+   <scoring td="6" fg="2" patkick="5"></scoring>
+  </totals>
+  <player name="Morgan, T" shortname="Morgan, T" checkname="MORGAN,T" uni="1" class="JR" gp="1" gs="1" opos="WR" code="1">
+   <rush att="1" yds="9" gain="9" loss="0" td="0" long="9"></rush>
+   <rcv no="4" yds="151" td="1" long="78"></rcv>
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+   <kr no="1" yds="15" td="0" long="15"></kr>
+   <pr no="2" yds="30" td="0" long="17"></pr>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Owens, DeMarcus" shortname="Owens, DeMarcus" checkname="OWENS,DEMARCUS" uni="1C" class="FR" gp="1" gs="1" dpos="CB" code="1C">
+   <defense tackua="3" tacka="3" tot_tack="6"></defense>
+  </player>
+  <player name="Nwangwa, Jacob" shortname="Nwangwa, Jacob" checkname="NWANGWA,JACOB" uni="1D" class="SO" gp="1" gs="1" dpos="FS" code="1D">
+   <defense tackua="2" tacka="2" tot_tack="4" tflua="1" tfla="0" tflyds="1" int="1" intyds="41"></defense>
+   <ir no="1" yds="41" td="1" long="41"></ir>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Hanks, Terrill" shortname="Hanks, Terrill" checkname="HANKS,TERRILL" uni="2D" class="FR" gp="1" gs="1" dpos="SLB" code="2D">
+   <defense tackua="2" tacka="5" tot_tack="7" brup="1"></defense>
+  </player>
+  <player name="Hogan, Gregory" shortname="Hogan, Gregory" checkname="HOGAN,GREGORY" uni="2" class="SO" gp="1" code="2">
+   <rcv no="2" yds="27" td="1" long="19"></rcv>
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Rose III, Larry" shortname="Rose III, Larry" checkname="ROSE III,LARRY" uni="3" class="SO" gp="1" gs="1" opos="TB" code="3">
+   <rush att="20" yds="196" gain="204" loss="8" td="1" long="82"></rush>
+   <rcv no="2" yds="5" td="0" long="3"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Ibekwe, Derek" shortname="Ibekwe, Derek" checkname="IBEKWE,DEREK" uni="3D" class="SO" gp="1" gs="1" dpos="MLB" code="3D">
+   <defense tackua="4" tacka="8" tot_tack="12" tflua="1" tfla="0" tflyds="1" ff="1"></defense>
+  </player>
+  <player name="Rose, Winston" shortname="Rose, Winston" checkname="ROSE,WINSTON" uni="4D" class="SR" gp="1" code="4D">
+   <defense tackua="6" tacka="1" tot_tack="7" brup="1"></defense>
+  </player>
+  <player name="Taylor, Tyrain" shortname="Taylor, Tyrain" checkname="TAYLOR,TYRAIN" uni="5" class="JR" gp="1" gs="1" opos="WR" code="5">
+   <rush att="1" yds="-2" gain="0" loss="2" td="0" long="0"></rush>
+   <rcv no="2" yds="39" td="1" long="26"></rcv>
+   <defense tackua="3" tacka="0" tot_tack="3"></defense>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Bowen, Joshua" shortname="Bowen, Joshua" checkname="BOWEN,JOSHUA" uni="6" class="SR" gp="1" code="6">
+   <rcv no="1" yds="29" td="0" long="29"></rcv>
+  </player>
+  <player name="Clark, OJ" shortname="Clark, OJ" checkname="CLARK,OJ" uni="7" class="FR" gp="1" code="7">
+   <kr no="1" yds="14" td="0" long="14"></kr>
+  </player>
+  <player name="Allen, Andrew" shortname="Allen, Andrew" checkname="ALLEN,ANDREW" uni="8" class="SO" gp="1" code="8">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Reese, Jassavia" shortname="Reese, Jassavia" checkname="REESE,JASSAVIA" uni="8D" class="FR" gp="1" code="8D">
+   <defense tackua="0" tacka="3" tot_tack="3"></defense>
+  </player>
+  <player name="Bradley, Stody" shortname="Bradley, Stody" checkname="BRADLEY,STODY" uni="9D" class="SO" gp="1" gs="1" dpos="LE" code="9D">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Moore, Rayvean" shortname="Moore, Rayvean" checkname="MOORE,RAYVEAN" uni="9" class="FR" gp="1" code="9"></player>
+  <player name="Caldwell, Royce" shortname="Caldwell, Royce" checkname="CALDWELL,ROYCE" uni="10" class="FR" gp="1" code="10"></player>
+  <player name="Bergstrom, J" shortname="Bergstrom, J" checkname="BERGSTROM,J" uni="11" class="SR" gp="1" gs="1" opos="WR" code="11">
+   <rcv no="2" yds="26" td="0" long="14"></rcv>
+  </player>
+  <player name="Rogers, Tyler" shortname="Rogers, Tyler" checkname="ROGERS,TYLER" uni="17" class="JR" gp="1" gs="1" opos="QB" code="17">
+   <rush att="8" yds="27" gain="38" loss="11" td="1" long="14"></rush>
+   <pass comp="14" att="28" int="1" yds="285" td="3" long="78" sacks="2" sackyds="11"></pass>
+   <punt no="1" yds="33" long="33" blkd="0" tb="1" fc="0" plus50="0" inside20="0" avg="33.0"></punt>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Locklin, Tymon" shortname="Locklin, Tymon" checkname="LOCKLIN,TYMON" uni="18" class="FR" gp="1" code="18"></player>
+  <player name="Wright, Jaden" shortname="Wright, Jaden" checkname="WRIGHT,JADEN" uni="21" class="SO" gp="1" gs="1" dpos="SS" code="21">
+   <defense tackua="7" tacka="8" tot_tack="15"></defense>
+  </player>
+  <player name="Hall, Xavier" shortname="Hall, Xavier" checkname="HALL,XAVIER" uni="22" class="JR" gp="1" code="22">
+   <rush att="5" yds="36" gain="38" loss="2" td="0" long="19"></rush>
+  </player>
+  <player name="Burton, Jerrion" shortname="Burton, Jerrion" checkname="BURTON,JERRION" uni="23" class="SO" gp="1" code="23"></player>
+  <player name="Slater, Sy" shortname="Slater, Sy" checkname="SLATER,SY" uni="24" class="FR" gp="1" code="24">
+   <ko no="9" yds="573" ob="1" tb="5"></ko>
+   <fg made="2" att="2" long="44" blkd="0"></fg>
+   <pat kickatt="6" kickmade="5"></pat>
+   <scoring fg="2" patkick="5"></scoring>
+  </player>
+  <player name="Hill, Lewis" shortname="Hill, Lewis" checkname="HILL,LEWIS" uni="29" class="SR" gp="1" gs="1" dpos="CB" code="29">
+   <defense tackua="3" tacka="4" tot_tack="7" brup="1"></defense>
+  </player>
+  <player name="Herrington, D" shortname="Herrington, D" checkname="HERRINGTON,D" uni="31" class="SO" gp="1" code="31">
+   <defense tackua="2" tacka="1" tot_tack="3" tflua="0" tfla="1" tflyds="1"></defense>
+  </player>
+  <player name="Leonard, B" shortname="Leonard, B" checkname="LEONARD,B" uni="34" class="FR" gp="1" code="34"></player>
+  <player name="Demby, Malik" shortname="Demby, Malik" checkname="DEMBY,MALIK" uni="35" class="FR" gp="1" code="35"></player>
+  <player name="Wagner, Robert" shortname="Wagner, Robert" checkname="WAGNER,ROBERT" uni="40" class="JR" gp="1" code="40"></player>
+  <player name="Hood, Jonathan" shortname="Hood, Jonathan" checkname="HOOD,JONATHAN" uni="42" class="FR" gp="1" code="42">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Clement, Will" shortname="Clement, Will" checkname="CLEMENT,WILL" uni="44" class="FR" gp="1" code="44"></player>
+  <player name="Hutchins, Greg" shortname="Hutchins, Greg" checkname="HUTCHINS,GREG" uni="45" class="FR" gp="1" code="45"></player>
+  <player name="Kenney, Andrew" shortname="Kenney, Andrew" checkname="KENNEY,ANDREW" uni="47" class="JR" gp="1" code="47"></player>
+  <player name="Holland, Abram" shortname="Holland, Abram" checkname="HOLLAND,ABRAM" uni="50" class="JR" gp="1" gs="1" opos="RG" code="50"></player>
+  <player name="Butler, Rodney" shortname="Butler, Rodney" checkname="BUTLER,RODNEY" uni="53" class="SO" gp="1" gs="1" dpos="WLB" code="53">
+   <defense tackua="1" tacka="5" tot_tack="6" tflua="1" tfla="0" tflyds="1" fr="1" fryds="0"></defense>
+  </player>
+  <player name="Brown, Noah" shortname="Brown, Noah" checkname="BROWN,NOAH" uni="57" class="JR" gp="1" code="57">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Candelaria, D." shortname="Candelaria, D." checkname="CANDELARIA,D" uni="58" class="SO" gp="1" code="58"></player>
+  <player name="Folasa-Lutui, I" shortname="Folasa-Lutui, I" checkname="FOLASA-LUTUI,I" uni="62" class="SR" gp="1" gs="1" opos="LG" code="62"></player>
+  <player name="McMeans, A" shortname="McMeans, A" checkname="MCMEANS,A" uni="67" class="JR" gp="1" gs="1" opos="C" code="67"></player>
+  <player name="Trujillo, A" shortname="Trujillo, A" checkname="TRUJILLO,A" uni="69" class="SR" gp="1" gs="1" dpos="NG" code="69">
+   <defense tackua="0" tacka="4" tot_tack="4"></defense>
+  </player>
+  <player name="Cunningham, A." shortname="Cunningham, A." checkname="CUNNINGHAM,A" uni="70" class="SR" gp="1" gs="1" opos="RT" code="70"></player>
+  <player name="Clemente, H." shortname="Clemente, H." checkname="CLEMENTE,H" uni="77" class="SR" gp="1" gs="1" opos="LE" code="77"></player>
+  <player name="Atencio, Ty" shortname="Atencio, Ty" checkname="ATENCIO,TY" uni="82" class="JR" gp="1" gs="1" opos="TE" code="82">
+   <rcv no="1" yds="8" td="0" long="8"></rcv>
+  </player>
+  <player name="Granch, Clayton" shortname="Granch, Clayton" checkname="GRANCH,CLAYTON" uni="88" class="JR" gp="1" code="88"></player>
+  <player name="Solbeck, J" shortname="Solbeck, J" checkname="SOLBECK,J" uni="89" class="FR" gp="1" code="89"></player>
+  <player name="Banegas, Jacob" shortname="Banegas, Jacob" checkname="BANEGAS,JACOB" uni="91" class="SO" gp="1" gs="1" dpos="DT" code="91"></player>
+  <player name="James, Drew" shortname="James, Drew" checkname="JAMES,DREW" uni="93" class="JR" gp="1" code="93">
+   <defense tackua="0" tacka="2" tot_tack="2"></defense>
+  </player>
+  <player name="Torres, Anthony" shortname="Torres, Anthony" checkname="TORRES,ANTHONY" uni="96" class="SR" gp="1" code="96">
+   <punt no="4" yds="215" long="64" blkd="0" tb="0" fc="0" plus50="3" inside20="1" avg="53.8"></punt>
+  </player>
+  <player name="Gibbs, Josh" shortname="Gibbs, Josh" checkname="GIBBS,JOSH" uni="98" class="SR" gp="1" code="98"></player>
+  <player name="Meredith, S" shortname="Meredith, S" checkname="MEREDITH,S" uni="99" class="JR" gp="1" gs="1" dpos="DE" code="99">
+   <defense tackua="2" tacka="2" tot_tack="4" tflua="0" tfla="1" tflyds="0" qbh="1"></defense>
+  </player>
+ </team>
+ <scores>
+  <score vh="H" team="NMSU" qtr="1" clock="11:40" type="TD" how="RUSH" yds="4" scorer="Rose III, Larry" patby="Slater, Sy" pattype="KICK" patres="FAIL" plays="7" drive="75" top="3:20" vscore="0" hscore="6" driveindex="1"></score>
+  <score vh="V" team="UTEP" qtr="1" clock="08:38" type="TD" how="RUSH" yds="40" scorer="L. Dowell" patby="Jay Mattox" pattype="KICK" patres="GOOD" plays="6" drive="90" top="3:03" vscore="7" hscore="6" driveindex="2"></score>
+  <score vh="H" team="NMSU" qtr="1" clock="05:51" type="TD" how="RUSH" yds="10" scorer="Rogers, Tyler" patby="Slater, Sy" pattype="KICK" patres="GOOD" plays="7" drive="75" top="2:47" vscore="7" hscore="13" driveindex="3"></score>
+  <score vh="V" team="UTEP" qtr="1" clock="01:45" type="SAF" yds="2" scorer="Alvin Jones" vscore="9" hscore="13" driveindex="5"></score>
+  <score vh="H" team="NMSU" qtr="2" clock="03:12" type="FG" yds="38" scorer="Slater, Sy" plays="6" drive="55" top="3:06" vscore="9" hscore="16" driveindex="11"></score>
+  <score vh="H" team="NMSU" qtr="3" clock="07:46" type="TD" how="INT" yds="41" scorer="Nwangwa, Jacob" patby="Slater, Sy" pattype="KICK" patres="GOOD" vscore="9" hscore="23" driveindex="16"></score>
+  <score vh="V" team="UTEP" qtr="3" clock="06:11" type="TD" how="RUSH" yds="66" scorer="Darrin Laufasa" patby="Jay Mattox" pattype="KICK" patres="GOOD" plays="3" drive="75" top="1:15" vscore="16" hscore="23" driveindex="17"></score>
+  <score vh="H" team="NMSU" qtr="3" clock="05:29" type="TD" how="PASS" yds="8" scorer="Hogan, Gregory" passer="Rogers, Tyler" patby="Slater, Sy" pattype="KICK" patres="GOOD" plays="2" drive="86" top="0:42" vscore="16" hscore="30" driveindex="18"></score>
+  <score vh="V" team="UTEP" qtr="4" clock="14:54" type="TD" how="PASS" yds="26" scorer="Autrey Golden" passer="Ryan Metz" patby="Jay Mattox" pattype="KICK" patres="GOOD" plays="12" drive="75" top="5:35" vscore="23" hscore="30" driveindex="19"></score>
+  <score vh="V" team="UTEP" qtr="4" clock="13:28" type="TD" how="PUNT" yds="64" scorer="Jaquan White" patby="Jay Mattox" pattype="KICK" patres="GOOD" vscore="30" hscore="30" driveindex="21"></score>
+  <score vh="H" team="NMSU" qtr="4" clock="09:34" type="TD" how="PASS" yds="13" scorer="Taylor, Tyrain" passer="Rogers, Tyler" patby="Slater, Sy" pattype="KICK" patres="GOOD" plays="2" drive="95" top="0:42" vscore="30" hscore="37" driveindex="24"></score>
+  <score vh="H" team="NMSU" qtr="4" clock="04:07" type="TD" how="PASS" yds="19" scorer="Morgan, T" passer="Rogers, Tyler" patby="Slater, Sy" pattype="KICK" patres="GOOD" plays="7" drive="82" top="3:28" vscore="30" hscore="44" driveindex="26"></score>
+  <score vh="V" team="UTEP" qtr="4" clock="03:08" type="TD" how="PASS" yds="48" scorer="Cole Freytag" passer="Ryan Metz" patby="Jay Mattox" pattype="KICK" patres="GOOD" plays="3" drive="75" top="0:59" vscore="37" hscore="44" driveindex="27"></score>
+  <score vh="V" team="UTEP" qtr="4" clock="00:42" type="TD" how="RUSH" yds="8" scorer="Ryan Metz" patby="Jay Mattox" pattype="KICK" patres="GOOD" plays="8" drive="98" top="1:19" vscore="44" hscore="44" driveindex="29"></score>
+  <score vh="H" team="NMSU" qtr="5" clock="15:00" type="FG" yds="44" scorer="Slater, Sy" plays="4" drive="9" top="0:00" vscore="44" hscore="47" driveindex="31"></score>
+  <score vh="V" team="UTEP" qtr="5" clock="15:00" type="TD" how="PASS" yds="6" scorer="Cedrick Lang" passer="Ryan Metz" plays="5" drive="25" top="0:00" vscore="50" hscore="47" driveindex="32"></score>
+ </scores>
+ <fgas>
+  <fga vh="H" team="NMSU" kicker="Slater, Sy" qtr="2" clock="03:12" distance="38" result="good"></fga>
+  <fga vh="H" team="NMSU" kicker="Slater, Sy" qtr="5" clock="15:00" distance="44" result="good"></fga>
+ </fgas>
+ <drives>
+  <drive vh="H" team="NMSU" start="KO,1,15:00,25" end="TD,1,11:40,100" plays="7" yards="75" top="3:20" start_how="KO" start_qtr="1" start_time="15:00" start_spot="NMSU25" end_how="TD" end_qtr="1" end_time="11:40" end_spot="UTEP00" rz="1" driveindex="1"></drive>
+  <drive vh="V" team="UTEP" start="KO,1,11:41,10" end="TD,1,08:38,100" plays="6" yards="90" top="3:03" start_how="KO" start_qtr="1" start_time="11:41" start_spot="UTEP10" end_how="TD" end_qtr="1" end_time="08:38" end_spot="NMSU00" driveindex="2"></drive>
+  <drive vh="H" team="NMSU" start="KO,1,08:38,25" end="TD,1,05:51,100" plays="7" yards="75" top="2:47" start_how="KO" start_qtr="1" start_time="08:38" start_spot="NMSU25" end_how="TD" end_qtr="1" end_time="05:51" end_spot="UTEP00" rz="1" driveindex="3"></drive>
+  <drive vh="V" team="UTEP" start="KO,1,05:51,35" end="PUNT,1,01:52,67" plays="6" yards="32" top="3:59" start_how="KO" start_qtr="1" start_time="05:51" start_spot="UTEP35" end_how="PUNT" end_qtr="1" end_time="01:52" end_spot="NMSU33" driveindex="4"></drive>
+  <drive vh="H" team="NMSU" start="PUNT,1,01:52,2" end="SAF,1,01:45,0" plays="1" yards="-2" top="0:07" start_how="PUNT" start_qtr="1" start_time="01:52" start_spot="NMSU02" end_how="SAF" end_qtr="1" end_time="01:45" end_spot="NMSU00" driveindex="5"></drive>
+  <drive vh="V" team="UTEP" start="KO,1,01:45,45" end="PUNT,2,14:08,51" plays="3" yards="6" top="2:37" start_how="KO" start_qtr="1" start_time="01:45" start_spot="UTEP45" end_how="PUNT" end_qtr="2" end_time="14:08" end_spot="NMSU49" driveindex="6"></drive>
+  <drive vh="H" team="NMSU" start="PUNT,2,14:08,21" end="PUNT,2,13:19,25" plays="3" yards="4" top="0:49" start_how="PUNT" start_qtr="2" start_time="14:08" start_spot="NMSU21" end_how="PUNT" end_qtr="2" end_time="13:19" end_spot="NMSU25" driveindex="7"></drive>
+  <drive vh="V" team="UTEP" start="PUNT,2,13:19,20" end="PUNT,2,11:46,23" plays="3" yards="3" top="1:33" start_how="PUNT" start_qtr="2" start_time="13:19" start_spot="UTEP20" end_how="PUNT" end_qtr="2" end_time="11:46" end_spot="UTEP23" driveindex="8"></drive>
+  <drive vh="H" team="NMSU" start="PUNT,2,11:46,57" end="PUNT,2,08:40,67" plays="6" yards="10" top="3:06" start_how="PUNT" start_qtr="2" start_time="11:46" start_spot="UTEP43" end_how="PUNT" end_qtr="2" end_time="08:40" end_spot="UTEP33" driveindex="9"></drive>
+  <drive vh="V" team="UTEP" start="PUNT,2,08:40,20" end="PUNT,2,06:18,29" plays="3" yards="9" top="2:22" start_how="PUNT" start_qtr="2" start_time="08:40" start_spot="UTEP20" end_how="PUNT" end_qtr="2" end_time="06:18" end_spot="UTEP29" driveindex="10"></drive>
+  <drive vh="H" team="NMSU" start="PUNT,2,06:18,25" end="FG,2,03:12,80" plays="6" yards="55" top="3:06" start_how="PUNT" start_qtr="2" start_time="06:18" start_spot="NMSU25" end_how="FG" end_qtr="2" end_time="03:12" end_spot="UTEP20" rz="1" driveindex="11"></drive>
+  <drive vh="V" team="UTEP" start="KO,2,03:12,25" end="HALF,2,00:00,66" plays="10" yards="41" top="3:12" start_how="KO" start_qtr="2" start_time="03:12" start_spot="UTEP25" end_how="HALF" end_qtr="2" end_time="00:00" end_spot="NMSU34" driveindex="12"></drive>
+  <drive vh="V" team="UTEP" start="KO,3,15:00,32" end="FUMB,3,11:28,72" plays="7" yards="40" top="3:32" start_how="KO" start_qtr="3" start_time="15:00" start_spot="UTEP32" end_how="FUMB" end_qtr="3" end_time="11:28" end_spot="NMSU28" driveindex="13"></drive>
+  <drive vh="H" team="NMSU" start="FUMB,3,11:28,28" end="PUNT,3,09:29,27" plays="3" yards="-1" top="1:59" start_how="FUMB" start_qtr="3" start_time="11:28" start_spot="NMSU28" end_how="PUNT" end_qtr="3" end_time="09:29" end_spot="NMSU27" driveindex="14"></drive>
+  <drive vh="V" team="UTEP" start="PUNT,3,09:29,22" end="INT,3,07:46,17" plays="3" yards="-5" top="1:43" start_how="PUNT" start_qtr="3" start_time="09:29" start_spot="UTEP22" end_how="INT" end_qtr="3" end_time="07:46" end_spot="UTEP17" driveindex="15"></drive>
+  <drive vh="H" team="NMSU" start="INT,3,07:46,100" end="TD,3,07:46,100" plays="0" yards="0" top="0:00" start_how="INT" start_qtr="3" start_time="07:46" start_spot="UTEP00" end_how="TD" end_qtr="3" end_time="07:46" end_spot="UTEP00" driveindex="16"></drive>
+  <drive vh="V" team="UTEP" start="KO,3,07:26,25" end="TD,3,06:11,100" plays="3" yards="75" top="1:15" start_how="KO" start_qtr="3" start_time="07:26" start_spot="UTEP25" end_how="TD" end_qtr="3" end_time="06:11" end_spot="NMSU00" driveindex="17"></drive>
+  <drive vh="H" team="NMSU" start="KO,3,06:11,14" end="TD,3,05:29,100" plays="2" yards="86" top="0:42" start_how="KO" start_qtr="3" start_time="06:11" start_spot="NMSU14" end_how="TD" end_qtr="3" end_time="05:29" end_spot="UTEP00" rz="1" driveindex="18"></drive>
+  <drive vh="V" team="UTEP" start="KO,3,05:29,25" end="TD,4,14:54,100" plays="12" yards="75" top="5:35" start_how="KO" start_qtr="3" start_time="05:29" start_spot="UTEP25" end_how="TD" end_qtr="4" end_time="14:54" end_spot="NMSU00" driveindex="19"></drive>
+  <drive vh="H" team="NMSU" start="KO,4,14:54,15" end="PUNT,4,13:28,19" plays="3" yards="4" top="1:26" start_how="KO" start_qtr="4" start_time="14:54" start_spot="NMSU15" end_how="PUNT" end_qtr="4" end_time="13:28" end_spot="NMSU19" driveindex="20"></drive>
+  <drive vh="V" team="UTEP" start="PUNT,4,13:28,100" end="TD,4,13:28,100" plays="0" yards="0" top="0:00" start_how="PUNT" start_qtr="4" start_time="13:28" start_spot="NMSU00" end_how="TD" end_qtr="4" end_time="13:28" end_spot="NMSU00" driveindex="21"></drive>
+  <drive vh="H" team="NMSU" start="KO,4,13:28,25" end="INT,4,12:27,16" plays="3" yards="-9" top="1:01" start_how="KO" start_qtr="4" start_time="13:28" start_spot="NMSU25" end_how="INT" end_qtr="4" end_time="12:27" end_spot="NMSU16" driveindex="22"></drive>
+  <drive vh="V" team="UTEP" start="INT,4,12:27,55" end="PUNT,4,10:16,62" plays="3" yards="7" top="2:11" start_how="INT" start_qtr="4" start_time="12:27" start_spot="NMSU45" end_how="PUNT" end_qtr="4" end_time="10:16" end_spot="NMSU38" driveindex="23"></drive>
+  <drive vh="H" team="NMSU" start="PUNT,4,10:16,5" end="TD,4,09:34,100" plays="2" yards="95" top="0:42" start_how="PUNT" start_qtr="4" start_time="10:16" start_spot="NMSU05" end_how="TD" end_qtr="4" end_time="09:34" end_spot="UTEP00" rz="1" driveindex="24"></drive>
+  <drive vh="V" team="UTEP" start="KO,4,09:34,25" end="PUNT,4,07:35,33" plays="3" yards="8" top="1:59" start_how="KO" start_qtr="4" start_time="09:34" start_spot="UTEP25" end_how="PUNT" end_qtr="4" end_time="07:35" end_spot="UTEP33" driveindex="25"></drive>
+  <drive vh="H" team="NMSU" start="PUNT,4,07:35,18" end="TD,4,04:07,100" plays="7" yards="82" top="3:28" start_how="PUNT" start_qtr="4" start_time="07:35" start_spot="NMSU18" end_how="TD" end_qtr="4" end_time="04:07" end_spot="UTEP00" rz="1" driveindex="26"></drive>
+  <drive vh="V" team="UTEP" start="KO,4,04:07,25" end="TD,4,03:08,100" plays="3" yards="75" top="0:59" start_how="KO" start_qtr="4" start_time="04:07" start_spot="UTEP25" end_how="TD" end_qtr="4" end_time="03:08" end_spot="NMSU00" driveindex="27"></drive>
+  <drive vh="H" team="NMSU" start="KO,4,03:08,25" end="PUNT,4,02:01,34" plays="3" yards="9" top="1:07" start_how="KO" start_qtr="4" start_time="03:08" start_spot="NMSU25" end_how="PUNT" end_qtr="4" end_time="02:01" end_spot="NMSU34" driveindex="28"></drive>
+  <drive vh="V" team="UTEP" start="PUNT,4,02:01,2" end="TD,4,00:42,100" plays="8" yards="98" top="1:19" start_how="PUNT" start_qtr="4" start_time="02:01" start_spot="UTEP02" end_how="TD" end_qtr="4" end_time="00:42" end_spot="NMSU00" rz="1" driveindex="29"></drive>
+  <drive vh="H" team="NMSU" start="KO,4,00:42,25" end="POSS,4,00:00,57" plays="8" yards="32" top="0:42" start_how="KO" start_qtr="4" start_time="00:42" start_spot="NMSU25" end_how="POSS" end_qtr="4" end_time="00:00" end_spot="UTEP43" driveindex="30"></drive>
+  <drive vh="H" team="NMSU" start="POSS,5,15:00,65" end="FG,5,15:00,74" plays="4" yards="9" top="0:00" start_how="POSS" start_qtr="5" start_time="15:00" start_spot="UTEP35" end_how="FG" end_qtr="5" end_time="15:00" end_spot="UTEP26" driveindex="31"></drive>
+  <drive vh="V" team="UTEP" start="POSS,5,15:00,75" end="TD,5,15:00,100" plays="5" yards="25" top="0:00" start_how="POSS" start_qtr="5" start_time="15:00" start_spot="NMSU25" end_how="TD" end_qtr="5" end_time="15:00" end_spot="NMSU00" rz="1" driveindex="32"></drive>
+ </drives>
+ <plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP35" context="V,1,10,V35" playid="0,1,0" tokens="CMT:NM State capitans: 1-Morgan; 40-Wagner; 53-Butler; 69-Trujillo;"
+      text="NM State capitans: 1-Morgan; 40-Wagner; 53-Butler; 69-Trujillo;" newcontext="V,1,10,V35">
+   </play>
+   <comment text="NM State capitans: 70-Cunningham"></comment>
+   <comment text="UTEP capitans: 8-Golden; 10-Musgrave"></comment>
+   <comment text="NM State won toss"></comment>
+   <comment text="NM State will recieve; UTEP defends south goal"></comment>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP35" context="V,1,10,V35" playid="0,2,5" tokens="SPOT:V,V35,N"
+      text="UTEP ball on UTEP35." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP35" context="V,1,10,V35" playid="0,3,6" type="K" tokens="KO:47,H00 TB:"
+      text="Jay Mattox kickoff 65 yards to the NMSU0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Jay Mattox" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,15:00" vh="H" spot="H25" clock="15:00" driveindex="1,6"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU25" context="H,1,10,H25" playid="1,1,7" type="R" tokens="RUSH:3,H24, TACK:16"
+      text="Rose III, Larry rush for loss of 1 yard to the NMSU24 (Alvin Jones)." newcontext="H,2,11,H24">
+    <p_ru vh="H" name="Rose III, Larry" gain="-1"></p_ru>
+    <p_tk vh="V" name="Alvin Jones"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="11" spot="NMSU24" context="H,2,11,H24" playid="1,2,8" type="R" first="R" tokens="RUSH:3,H36, TACK:8F"
+      text="Rose III, Larry rush for 12 yards to the NMSU36, 1ST DOWN NMSU (K. Fisher Jr)." newcontext="H,1,10,H36">
+    <p_ru vh="H" name="Rose III, Larry" gain="12"></p_ru>
+    <p_tk vh="V" name="K. Fisher Jr"></p_tk>
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU36" context="H,1,10,H36" playid="1,3,9" type="R" first="R" tokens="RUSH:3,V49, TACK:32,16"
+      text="Rose III, Larry rush for 15 yards to the UTEP49, 1ST DOWN NMSU (Kalon Beverly;Alvin Jones)." newcontext="H,1,10,V49">
+    <p_ru vh="H" name="Rose III, Larry" gain="15"></p_ru>
+    <p_tk vh="V" name="Kalon Beverly" assist="Y"></p_tk>
+    <p_tk vh="V" name="Alvin Jones" assist="Y"></p_tk>
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="UTEP49" context="H,1,10,V49" playid="1,4,10" type="P" first="P" tokens="PASS:17,C,5,V23 OB: TACK:32"
+      text="Rogers, Tyler pass complete to Taylor, Tyrain for 26 yards to the UTEP23, 1ST DOWN NMSU, out-of-bounds (Kalon Beverly)." ob="Y" newcontext="H,1,10,V23">
+    <p_pa vh="H" qb="Rogers, Tyler" result="COMP" rcv="Taylor, Tyrain" gain="26"></p_pa>
+    <p_tk vh="V" name="Kalon Beverly"></p_tk>
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="UTEP23" context="H,1,10,V23" playid="1,5,11" type="R" first="R" tokens="RUSH:22,V12, TACK:32"
+      text="Hall, Xavier rush for 11 yards to the UTEP12, 1ST DOWN NMSU (Kalon Beverly)." newcontext="H,1,10,V12">
+    <p_ru vh="H" name="Hall, Xavier" gain="11"></p_ru>
+    <p_tk vh="V" name="Kalon Beverly"></p_tk>
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="UTEP12" context="H,1,10,V12" playid="1,6,12" type="R" tokens="RUSH:3,V04, TACK:8F"
+      text="Rose III, Larry rush for 8 yards to the UTEP4 (K. Fisher Jr)." newcontext="H,2,2,V04">
+    <p_ru vh="H" name="Rose III, Larry" gain="8"></p_ru>
+    <p_tk vh="V" name="K. Fisher Jr"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="2" spot="UTEP04" context="H,2,2,V04" playid="1,7,13" type="R" first="R" score="Y" vscore="0" hscore="6" clock="11:40" tokens="RUSH:3,V00, T:11:40"
+      text="Rose III, Larry rush for 4 yards to the UTEP0, 1ST DOWN NMSU, TOUCHDOWN, clock 11:40." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Rose III, Larry" gain="4"></p_ru>
+   </play>
+   <play hasball="NMSU" down="1" togo="0" spot="UTEP03" context="H,1,0,V03" playid="1,8,14" type="X" tokens="PAT:K,24,M"
+      text="Slater, Sy kick attempt failed." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Slater, Sy" qb="Slater, Sy" type="K" result="MISSED"></p_pat>
+   </play>
+   <score V="0" H="6"></score>
+   <play hasball="NMSU" down="1" togo="0" spot="NMSU35" context="H,1,0,H35" playid="1,9,15" tokens="SPOT:H,H35,N"
+      text="NMSU ball on NMSU35." newcontext="H,1,0,H35">
+   </play>
+   <drivesum plays="7" yards="75" top="3:20" driveindex="1" complete="Y"></drivesum>
+   <play hasball="NMSU" down="1" togo="0" spot="NMSU35" context="H,1,0,H35" playid="1,10,16" type="K" tokens="KO:24,V00 RET:8,V20 TACK:5 PEN:V,HO,A,16,V10,N D:1,10 SPOT:V,V10,Y"
+      text="Slater, Sy kickoff 65 yards to the UTEP0, Autrey Golden return 20 yards to the UTEP20 (Taylor, Tyrain), PENALTY UTEP holding (Alvin Jones) 10 yards to the UTEP10, 1st and 10, UTEP ball on UTEP10." newcontext="V,1,10,V10">
+    <p_ko vh="H" name="Slater, Sy" gain="65"></p_ko>
+    <p_kr vh="V" name="Autrey Golden" gain="20"></p_kr>
+    <p_tk vh="H" name="Taylor, Tyrain"></p_tk>
+    <p_pn vh="V" code="HO" type="holding" name="Alvin Jones" result="ACCEPT" at="V20" yards="10"></p_pn>
+   </play>
+   <drivestart poss="V,V10,11:41" vh="V" spot="V10" clock="11:41" driveindex="2,16"></drivestart>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP10" context="V,1,10,V10" playid="2,1,17" clock="11:41" tokens="{DRIVE}:11:41"
+      text="UTEP drive start at 11:41." newcontext="V,1,10,V10">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP10" context="V,1,10,V10" playid="2,2,18" type="P" tokens="PASS:11,C,8,V17 TACK:29"
+      text="Mack Leftwich pass complete to Autrey Golden for 7 yards to the UTEP17 (Hill, Lewis)." newcontext="V,2,3,V17">
+    <p_pa vh="V" qb="Mack Leftwich" result="COMP" rcv="Autrey Golden" gain="7"></p_pa>
+    <p_tk vh="H" name="Hill, Lewis"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="3" spot="UTEP17" context="V,2,3,V17" playid="2,3,19" type="P" first="E" tokens="PASS:11,I,8,* PEN:H,RP,A,9D,V32,1"
+      text="Mack Leftwich pass incomplete to Autrey Golden, PENALTY NMSU roughing passer (Bradley, Stody) 15 yards to the UTEP32, 1ST DOWN UTEP." newcontext="V,1,10,V32">
+    <p_pa vh="V" qb="Mack Leftwich" result="INC" rcv="Autrey Golden"></p_pa>
+    <p_pn vh="H" code="RP" type="roughing passer" name="Bradley, Stody" result="ACCEPT" at="V17" yards="15"></p_pn>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP32" context="V,1,10,V32" playid="2,4,20" tokens="D:1,10"
+      text="1st and 10." newcontext="V,1,10,V32">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP32" context="V,1,10,V32" playid="2,5,21" type="R" tokens="RUSH:15,V36, TACK:1,2"
+      text="Darrin Laufasa rush for 4 yards to the UTEP36 (Morgan, T;Hogan, Gregory)." newcontext="V,2,6,V36">
+    <p_ru vh="V" name="Darrin Laufasa" gain="4"></p_ru>
+    <p_tk vh="H" name="Morgan, T" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hogan, Gregory" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="6" spot="UTEP36" context="V,2,6,V36" playid="2,6,22" type="R" tokens="RUSH:7,V39, TACK:69,99"
+      text="L. Dowell rush for 3 yards to the UTEP39 (Trujillo, A;Meredith, S)." newcontext="V,3,3,V39">
+    <p_ru vh="V" name="L. Dowell" gain="3"></p_ru>
+    <p_tk vh="H" name="Trujillo, A" assist="Y"></p_tk>
+    <p_tk vh="H" name="Meredith, S" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="3" togo="3" spot="UTEP39" context="V,3,3,V39" playid="2,7,23" type="P" first="P" tokens="PASS:11,C,9,H40 TACK:1C"
+      text="Mack Leftwich pass complete to Jaquan White for 21 yards to the NMSU40, 1ST DOWN UTEP (Owens, DeMarcus)." newcontext="V,1,10,H40">
+    <p_pa vh="V" qb="Mack Leftwich" result="COMP" rcv="Jaquan White" gain="21"></p_pa>
+    <p_tk vh="H" name="Owens, DeMarcus"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="NMSU40" context="V,1,10,H40" playid="2,8,24" type="R" first="R" score="Y" vscore="6" hscore="6" clock="08:38" tokens="RUSH:7,H00, T:08:38"
+      text="L. Dowell rush for 40 yards to the NMSU0, 1ST DOWN UTEP, TOUCHDOWN, clock 08:38." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="L. Dowell" gain="40"></p_ru>
+   </play>
+   <play hasball="UTEP" down="1" togo="0" spot="NMSU03" context="V,1,0,H03" playid="2,9,25" type="X" score="Y" vscore="7" hscore="6" tokens="PAT:K,47,G"
+      text="Jay Mattox kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Jay Mattox" qb="Jay Mattox" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="6"></score>
+   <play hasball="UTEP" down="1" togo="0" spot="UTEP35" context="V,1,0,V35" playid="2,10,26" tokens="SPOT:V,V35,N"
+      text="UTEP ball on UTEP35." newcontext="V,1,0,V35">
+   </play>
+   <drivesum plays="6" yards="90" top="3:03" driveindex="2" complete="Y"></drivesum>
+   <play hasball="UTEP" down="1" togo="0" spot="UTEP35" context="V,1,0,V35" playid="2,11,27" type="K" tokens="KO:47,H00 TB:"
+      text="Jay Mattox kickoff 65 yards to the NMSU0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Jay Mattox" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,08:38" vh="H" spot="H25" clock="08:38" driveindex="3,27"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU25" context="H,1,10,H25" playid="3,1,28" clock="08:38" tokens="{DRIVE}:08:38"
+      text="NEW MEXICO STATE drive start at 08:38." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU25" context="H,1,10,H25" playid="3,2,29" type="R" first="R" tokens="RUSH:17,H39, OB:"
+      text="Rogers, Tyler rush for 14 yards to the NMSU39, 1ST DOWN NMSU, out-of-bounds." ob="Y" newcontext="H,1,10,H39">
+    <p_ru vh="H" name="Rogers, Tyler" gain="14"></p_ru>
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU39" context="H,1,10,H39" playid="3,3,30" type="R" first="R" tokens="RUSH:3,H49, TACK:8F"
+      text="Rose III, Larry rush for 10 yards to the NMSU49, 1ST DOWN NMSU (K. Fisher Jr)." newcontext="H,1,10,H49">
+    <p_ru vh="H" name="Rose III, Larry" gain="10"></p_ru>
+    <p_tk vh="V" name="K. Fisher Jr"></p_tk>
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU49" context="H,1,10,H49" playid="3,4,31" type="P" tokens="PASS:17,C,1,V46 TACK:3R"
+      text="Rogers, Tyler pass complete to Morgan, T for 5 yards to the UTEP46 (Traun Roberson)." newcontext="H,2,5,V46">
+    <p_pa vh="H" qb="Rogers, Tyler" result="COMP" rcv="Morgan, T" gain="5"></p_pa>
+    <p_tk vh="V" name="Traun Roberson"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="5" spot="UTEP46" context="H,2,5,V46" playid="3,5,32" type="P" tokens="PASS:17,C,3,V44 TACK:20 PEN:H,PF,A,70,H41,N"
+      text="Rogers, Tyler pass complete to Rose III, Larry for 2 yards to the UTEP44 (Nik Needham), PENALTY NMSU personal foul (Cunningham, A.) 15 yards to the NMSU41." newcontext="H,2,18,H41">
+    <p_pa vh="H" qb="Rogers, Tyler" result="COMP" rcv="Rose III, Larry" gain="2"></p_pa>
+    <p_tk vh="V" name="Nik Needham"></p_tk>
+    <p_pn vh="H" code="PF" type="personal foul" name="Cunningham, A." result="ACCEPT" at="V44" yards="15"></p_pn>
+   </play>
+   <play hasball="NMSU" down="2" togo="18" spot="NMSU41" context="H,2,18,H41" playid="3,6,33" tokens="D:3,18"
+      text="3rd and 18." newcontext="H,3,18,H41">
+   </play>
+   <play hasball="NMSU" down="3" togo="18" spot="NMSU41" context="H,3,18,H41" playid="3,7,34" type="P" first="P" tokens="PASS:17,C,1,V10 TACK:8F"
+      text="Rogers, Tyler pass complete to Morgan, T for 49 yards to the UTEP10, 1ST DOWN NMSU (K. Fisher Jr)." newcontext="H,1,0,V10">
+    <p_pa vh="H" qb="Rogers, Tyler" result="COMP" rcv="Morgan, T" gain="49"></p_pa>
+    <p_tk vh="V" name="K. Fisher Jr"></p_tk>
+   </play>
+   <play hasball="NMSU" down="1" togo="0" spot="UTEP10" context="H,1,0,V10" playid="3,8,35" type="P" tokens="PASS:17,D,22,*"
+      text="Rogers, Tyler pass incomplete to Hall, Xavier, dropped pass." newcontext="H,2,0,V10">
+    <p_pa vh="H" qb="Rogers, Tyler" result="DROP" rcv="Hall, Xavier"></p_pa>
+   </play>
+   <play hasball="NMSU" down="2" togo="0" spot="UTEP10" context="H,2,0,V10" playid="3,9,36" type="R" score="Y" vscore="7" hscore="12" clock="05:51" tokens="RUSH:17,V00, T:05:51"
+      text="Rogers, Tyler rush for 10 yards to the UTEP0, TOUCHDOWN, clock 05:51." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Rogers, Tyler" gain="10"></p_ru>
+   </play>
+   <play hasball="NMSU" down="1" togo="0" spot="UTEP03" context="H,1,0,V03" playid="3,10,37" type="X" score="Y" vscore="7" hscore="13" tokens="PAT:K,24,G"
+      text="Slater, Sy kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Slater, Sy" qb="Slater, Sy" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="13"></score>
+   <play hasball="NMSU" down="1" togo="0" spot="NMSU35" context="H,1,0,H35" playid="3,11,38" tokens="SPOT:H,H35,N"
+      text="NMSU ball on NMSU35." newcontext="H,1,0,H35">
+   </play>
+   <drivesum plays="7" yards="75" top="2:47" driveindex="3" complete="Y"></drivesum>
+   <play hasball="NMSU" down="1" togo="0" spot="NMSU35" context="H,1,0,H35" playid="3,12,39" type="K" tokens="KO:24,V12 OB: SPOT:V,V35,Y"
+      text="Slater, Sy kickoff 53 yards to the UTEP12, out-of-bounds, UTEP ball on UTEP35." ob="Y" newcontext="V,1,10,V35">
+    <p_ko vh="H" name="Slater, Sy" gain="53" result="O"></p_ko>
+   </play>
+   <drivestart poss="V,V35,05:51" vh="V" spot="V35" clock="05:51" driveindex="4,39"></drivestart>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP35" context="V,1,10,V35" playid="4,1,40" clock="05:51" tokens="{DRIVE}:05:51"
+      text="UTEP drive start at 05:51." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP35" context="V,1,10,V35" playid="4,2,41" type="P" tokens="PASS:11,C,8,V39 TACK:2D,29"
+      text="Mack Leftwich pass complete to Autrey Golden for 4 yards to the UTEP39 (Hanks, Terrill;Hill, Lewis)." newcontext="V,2,6,V39">
+    <p_pa vh="V" qb="Mack Leftwich" result="COMP" rcv="Autrey Golden" gain="4"></p_pa>
+    <p_tk vh="H" name="Hanks, Terrill" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hill, Lewis" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="6" spot="UTEP39" context="V,2,6,V39" playid="4,3,42" type="#" clock="05:21" tokens="TOUT:V T:05:21"
+      text="Timeout UTEP, clock 05:21." newcontext="V,2,6,V39">
+    <p_to vh="V" team="UTEP"></p_to>
+   </play>
+   <play hasball="UTEP" down="2" togo="6" spot="UTEP39" context="V,2,6,V39" playid="4,4,43" type="R" first="R" tokens="RUSH:7,V46, TACK:21"
+      text="L. Dowell rush for 7 yards to the UTEP46, 1ST DOWN UTEP (Wright, Jaden)." newcontext="V,1,10,V46">
+    <p_ru vh="V" name="L. Dowell" gain="7"></p_ru>
+    <p_tk vh="H" name="Wright, Jaden"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP46" context="V,1,10,V46" playid="4,5,44" type="R" first="R" tokens="RUSH:7,H34, TACK:29,2D"
+      text="L. Dowell rush for 20 yards to the NMSU34, 1ST DOWN UTEP (Hill, Lewis;Hanks, Terrill)." newcontext="V,1,10,H34">
+    <p_ru vh="V" name="L. Dowell" gain="20"></p_ru>
+    <p_tk vh="H" name="Hill, Lewis" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hanks, Terrill" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="NMSU34" context="V,1,10,H34" playid="4,6,45" type="R" tokens="RUSH:9,H31, TACK:21"
+      text="Jaquan White rush for 3 yards to the NMSU31 (Wright, Jaden)." newcontext="V,2,7,H31">
+    <p_ru vh="V" name="Jaquan White" gain="3"></p_ru>
+    <p_tk vh="H" name="Wright, Jaden"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="7" spot="NMSU31" context="V,2,7,H31" playid="4,7,46" type="R" tokens="RUSH:3,H32, TACK:31,99"
+      text="Treyvon Hughes rush for loss of 1 yard to the NMSU32 (Herrington, D;Meredith, S)." newcontext="V,3,8,H32">
+    <p_ru vh="V" name="Treyvon Hughes" gain="-1"></p_ru>
+    <p_tk vh="H" name="Herrington, D" assist="Y"></p_tk>
+    <p_tk vh="H" name="Meredith, S" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="3" togo="8" spot="NMSU32" context="V,3,8,H32" playid="4,8,47" type="P" tokens="PASS:11,C,9,H33 TACK:1D"
+      text="Mack Leftwich pass complete to Jaquan White for loss of 1 yard to the NMSU33 (Nwangwa, Jacob)." newcontext="V,4,9,H33">
+    <p_pa vh="V" qb="Mack Leftwich" result="COMP" rcv="Jaquan White" gain="-1"></p_pa>
+    <p_tk vh="H" name="Nwangwa, Jacob"></p_tk>
+   </play>
+   <play hasball="UTEP" down="4" togo="9" spot="NMSU33" context="V,4,9,H33" playid="4,9,48" type="U" tokens="PUNT:11,H02 DN:"
+      text="Mack Leftwich punt 31 yards to the NMSU2, downed." newcontext="H,1,10,H02">
+    <p_pu vh="V" name="Mack Leftwich" gain="31" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="32" top="3:59" driveindex="4" complete="Y"></drivesum>
+   <drivestart poss="H,H02,01:52" vh="H" spot="H02" clock="01:52" driveindex="5,48"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU02" context="H,1,10,H02" playid="5,1,49" clock="01:52" tokens="{DRIVE}:01:52"
+      text="NEW MEXICO STATE drive start at 01:52." newcontext="H,1,10,H02">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU02" context="H,1,10,H02" playid="5,2,50" type="P" score="Y" vscore="9" hscore="13" clock="01:45" tokens="PASS:17,S,TM,H00 SACK:16 SAF:V,16 T:01:45"
+      text="Rogers, Tyler sacked for loss of 2 yards to the NMSU0 (Alvin Jones), Alvin Jones safety, clock 01:45." newcontext="H,1,0,H20">
+    <p_pa vh="H" qb="Rogers, Tyler" result="SACK" gain="-2"></p_pa>
+    <p_tk vh="V" name="Alvin Jones" sack="Y"></p_tk>
+   </play>
+   <score V="9" H="13"></score>
+   <play hasball="NMSU" down="1" togo="0" spot="NMSU20" context="H,1,0,H20" playid="5,3,51" tokens="SPOT:H,H20,N"
+      text="NMSU ball on NMSU20." newcontext="H,1,0,H20">
+   </play>
+   <drivesum plays="1" yards="-2" top="0:07" driveindex="5" complete="Y"></drivesum>
+   <play hasball="NMSU" down="1" togo="0" spot="NMSU20" context="H,1,0,H20" playid="5,4,52" type="K" tokens="KO:24,V19 RET:8,V45 TACK:5"
+      text="Slater, Sy kickoff 61 yards to the UTEP19, Autrey Golden return 26 yards to the UTEP45 (Taylor, Tyrain)." newcontext="V,1,10,V45">
+    <p_ko vh="H" name="Slater, Sy" gain="61"></p_ko>
+    <p_kr vh="V" name="Autrey Golden" gain="26"></p_kr>
+    <p_tk vh="H" name="Taylor, Tyrain"></p_tk>
+   </play>
+   <drivestart poss="V,V45,01:45" vh="V" spot="V45" clock="01:45" driveindex="6,52"></drivestart>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP45" context="V,1,10,V45" playid="6,1,53" clock="01:45" tokens="{DRIVE}:01:45"
+      text="UTEP drive start at 01:45." newcontext="V,1,10,V45">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP45" context="V,1,10,V45" playid="6,2,54" type="R" tokens="RUSH:7,V47, TACK:93,2D"
+      text="L. Dowell rush for 2 yards to the UTEP47 (James, Drew;Hanks, Terrill)." newcontext="V,2,8,V47">
+    <p_ru vh="V" name="L. Dowell" gain="2"></p_ru>
+    <p_tk vh="H" name="James, Drew" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hanks, Terrill" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="8" spot="UTEP47" context="V,2,8,V47" playid="6,3,55" type="E" tokens="PEN:V,FS,A,60,V42,N"
+      text="PENALTY UTEP false start (Eric Lee) 5 yards to the UTEP42." newcontext="V,2,13,V42">
+    <p_pn vh="V" code="FS" type="false start" name="Eric Lee" result="ACCEPT" at="V47" yards="5"></p_pn>
+   </play>
+   <play hasball="UTEP" down="2" togo="13" spot="UTEP42" context="V,2,13,V42" playid="6,4,56" type="P" tokens="PASS:11,C,15,V50 TACK:4D"
+      text="Mack Leftwich pass complete to Darrin Laufasa for 8 yards to the 50 yardline (Rose, Winston)." newcontext="V,3,5,V50">
+    <p_pa vh="V" qb="Mack Leftwich" result="COMP" rcv="Darrin Laufasa" gain="8"></p_pa>
+    <p_tk vh="H" name="Rose, Winston"></p_tk>
+   </play>
+   <score qtr="1" V="9" H="13"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UTEP">
+    <firstdowns no="5" rush="3" pass="1" penalty="1"></firstdowns>
+    <penalties no="2" yds="15"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:46"></misc>
+    <rush att="8" yds="78" gain="79" loss="1" td="1" long="40"></rush>
+    <pass comp="5" att="6" int="0" yds="39" td="0" long="21" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="39" td="0" long="21"></rcv>
+    <punt no="1" yds="31" long="31" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="31.0"></punt>
+    <ko no="2" yds="130" ob="0" tb="2"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="10" tacka="2" tot_tack="12" tflua="2" tfla="0" tflyds="3" sacks="1" sackyds="2" saf="1"></defense>
+    <kr no="2" yds="46" td="0" long="26"></kr>
+    <scoring td="1" saf="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="NMSU">
+    <firstdowns no="8" rush="6" pass="2" penalty="0"></firstdowns>
+    <penalties no="2" yds="30"></penalties>
+    <conversions thirdconv="1" thirdatt="1" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:14"></misc>
+    <rush att="10" yds="81" gain="84" loss="3" td="2" long="15"></rush>
+    <pass comp="4" att="5" int="0" yds="82" td="0" long="49" sacks="1" sackyds="2"></pass>
+    <rcv no="4" yds="82" td="0" long="49"></rcv>
+    <ko no="3" yds="179" ob="1" tb="0"></ko>
+    <pat kickatt="2" kickmade="1"></pat>
+    <defense tackua="8" tacka="12" tot_tack="20" tflua="1" tfla="2" tflyds="2" sacks="0" sackyds="0"></defense>
+    <scoring td="2" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="UTEP" down="3" togo="5" spot="UTEP50" context="V,3,5,V50" playid="6,5,57" type="#" clock="15:00" tokens="Q:2 T:15:00"
+      text="Start of 2nd quarter, clock 15:00." newcontext="V,3,5,V50">
+   </play>
+   <play hasball="UTEP" down="3" togo="5" spot="UTEP50" context="V,3,5,V50" playid="6,6,58" type="R" tokens="RUSH:7,H49, TACK:3D,93"
+      text="L. Dowell rush for 1 yard to the NMSU49 (Ibekwe, Derek;James, Drew)." newcontext="V,4,4,H49">
+    <p_ru vh="V" name="L. Dowell" gain="1"></p_ru>
+    <p_tk vh="H" name="Ibekwe, Derek" assist="Y"></p_tk>
+    <p_tk vh="H" name="James, Drew" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="4" togo="4" spot="NMSU49" context="V,4,4,H49" playid="6,7,59" type="U" tokens="PUNT:46,H08 RET:1,H21 TACK:8F"
+      text="Alan Luna punt 41 yards to the NMSU8, Morgan, T return 13 yards to the NMSU21 (K. Fisher Jr)." newcontext="H,1,10,H21">
+    <p_pu vh="V" name="Alan Luna" gain="41"></p_pu>
+    <p_pr vh="H" name="Morgan, T" gain="13"></p_pr>
+    <p_tk vh="V" name="K. Fisher Jr"></p_tk>
+   </play>
+   <drivesum plays="3" yards="6" top="2:37" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="H,H21,14:08" vh="H" spot="H21" clock="14:08" driveindex="7,59"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU21" context="H,1,10,H21" playid="7,1,60" clock="14:08" tokens="{DRIVE}:14:08"
+      text="NEW MEXICO STATE drive start at 14:08." newcontext="H,1,10,H21">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU21" context="H,1,10,H21" playid="7,2,61" type="P" tokens="PASS:17,I,11,* BRUP:3R"
+      text="Rogers, Tyler pass incomplete to Bergstrom, J (Traun Roberson)." newcontext="H,2,10,H21">
+    <p_pa vh="H" qb="Rogers, Tyler" result="INC" rcv="Bergstrom, J"></p_pa>
+    <p_bu vh="V" name="Traun Roberson"></p_bu>
+   </play>
+   <play hasball="NMSU" down="2" togo="10" spot="NMSU21" context="H,2,10,H21" playid="7,3,62" type="R" tokens="RUSH:3,H25, TACK:1,20"
+      text="Rose III, Larry rush for 4 yards to the NMSU25 (Trent Trammell;Nik Needham)." newcontext="H,3,6,H25">
+    <p_ru vh="H" name="Rose III, Larry" gain="4"></p_ru>
+    <p_tk vh="V" name="Trent Trammell" assist="Y"></p_tk>
+    <p_tk vh="V" name="Nik Needham" assist="Y"></p_tk>
+   </play>
+   <play hasball="NMSU" down="3" togo="6" spot="NMSU25" context="H,3,6,H25" playid="7,4,63" type="P" tokens="PASS:17,B,1,* BRUP:20"
+      text="Rogers, Tyler pass incomplete to Morgan, T (Nik Needham)." newcontext="H,4,6,H25">
+    <p_pa vh="H" qb="Rogers, Tyler" result="BRUP" rcv="Morgan, T"></p_pa>
+    <p_bu vh="V" name="Nik Needham"></p_bu>
+   </play>
+   <play hasball="NMSU" down="4" togo="6" spot="NMSU25" context="H,4,6,H25" playid="7,5,64" type="U" tokens="PUNT:96,V20 DN:"
+      text="Torres, Anthony punt 55 yards to the UTEP20, downed." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="Torres, Anthony" gain="55"></p_pu>
+   </play>
+   <drivesum plays="3" yards="4" top="0:49" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="V,V20,13:19" vh="V" spot="V20" clock="13:19" driveindex="8,64"></drivestart>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP20" context="V,1,10,V20" playid="8,1,65" clock="13:19" tokens="{DRIVE}:13:19"
+      text="UTEP drive start at 13:19." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP20" context="V,1,10,V20" playid="8,2,66" type="R" tokens="RUSH:15,V23, TACK:1C,8D"
+      text="Darrin Laufasa rush for 3 yards to the UTEP23 (Owens, DeMarcus;Reese, Jassavia)." newcontext="V,2,7,V23">
+    <p_ru vh="V" name="Darrin Laufasa" gain="3"></p_ru>
+    <p_tk vh="H" name="Owens, DeMarcus" assist="Y"></p_tk>
+    <p_tk vh="H" name="Reese, Jassavia" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="7" spot="UTEP23" context="V,2,7,V23" playid="8,3,67" type="R" tokens="RUSH:7,V23, TACK:8,53"
+      text="L. Dowell rush for no gain to the UTEP23 (Allen, Andrew;Butler, Rodney)." newcontext="V,3,7,V23">
+    <p_ru vh="V" name="L. Dowell" gain="0"></p_ru>
+    <p_tk vh="H" name="Allen, Andrew" assist="Y"></p_tk>
+    <p_tk vh="H" name="Butler, Rodney" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="3" togo="7" spot="UTEP23" context="V,3,7,V23" playid="8,4,68" type="P" tokens="PASS:11,D,9,*"
+      text="Mack Leftwich pass incomplete to Jaquan White, dropped pass." newcontext="V,4,7,V23">
+    <p_pa vh="V" qb="Mack Leftwich" result="DROP" rcv="Jaquan White"></p_pa>
+   </play>
+   <play hasball="UTEP" down="4" togo="7" spot="UTEP23" context="V,4,7,V23" playid="8,5,69" type="U" tokens="PUNT:46,V43 DN:"
+      text="Alan Luna punt 20 yards to the UTEP43, downed." newcontext="H,1,10,V43">
+    <p_pu vh="V" name="Alan Luna" gain="20"></p_pu>
+   </play>
+   <drivesum plays="3" yards="3" top="1:33" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="H,V43,11:46" vh="H" spot="V43" clock="11:46" driveindex="9,69"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="UTEP43" context="H,1,10,V43" playid="9,1,70" clock="11:46" tokens="{DRIVE}:11:46"
+      text="NEW MEXICO STATE drive start at 11:46." newcontext="H,1,10,V43">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="UTEP43" context="H,1,10,V43" playid="9,2,71" type="R" tokens="RUSH:1,V34, TACK:3R"
+      text="Morgan, T rush for 9 yards to the UTEP34 (Traun Roberson)." newcontext="H,2,1,V34">
+    <p_ru vh="H" name="Morgan, T" gain="9"></p_ru>
+    <p_tk vh="V" name="Traun Roberson"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="1" spot="UTEP34" context="H,2,1,V34" playid="9,3,72" type="P" tokens="PASS:17,I,7,* QBH:V,21"
+      text="Rogers, Tyler pass incomplete to Clark, OJ, QB hurry by Dashone Smith." newcontext="H,3,1,V34">
+    <p_pa vh="H" qb="Rogers, Tyler" result="INC" rcv="Clark, OJ"></p_pa>
+    <p_qbh vh="V" name="Dashone Smith"></p_qbh>
+   </play>
+   <play hasball="NMSU" down="3" togo="1" spot="UTEP34" context="H,3,1,V34" playid="9,4,73" type="R" first="R" tokens="RUSH:3,V30, TACK:35"
+      text="Rose III, Larry rush for 4 yards to the UTEP30, 1ST DOWN NMSU (Trey Brown)." newcontext="H,1,10,V30">
+    <p_ru vh="H" name="Rose III, Larry" gain="4"></p_ru>
+    <p_tk vh="V" name="Trey Brown"></p_tk>
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="UTEP30" context="H,1,10,V30" playid="9,5,74" type="P" tokens="PASS:17,C,82,V22 TACK:16"
+      text="Rogers, Tyler pass complete to Atencio, Ty for 8 yards to the UTEP22 (Alvin Jones)." newcontext="H,2,2,V22">
+    <p_pa vh="H" qb="Rogers, Tyler" result="COMP" rcv="Atencio, Ty" gain="8"></p_pa>
+    <p_tk vh="V" name="Alvin Jones"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="2" spot="UTEP22" context="H,2,2,V22" playid="9,6,75" type="R" tokens="RUSH:22,V24, TACK:16"
+      text="Hall, Xavier rush for loss of 2 yards to the UTEP24 (Alvin Jones)." newcontext="H,3,4,V24">
+    <p_ru vh="H" name="Hall, Xavier" gain="-2"></p_ru>
+    <p_tk vh="V" name="Alvin Jones"></p_tk>
+   </play>
+   <play hasball="NMSU" down="3" togo="4" spot="UTEP24" context="H,3,4,V24" playid="9,7,76" type="P" tokens="PASS:17,S,TM,V33 SACK:16,20"
+      text="Rogers, Tyler sacked for loss of 9 yards to the UTEP33 (Alvin Jones;Nik Needham)." newcontext="H,4,13,V33">
+    <p_pa vh="H" qb="Rogers, Tyler" result="SACK" gain="-9"></p_pa>
+    <p_tk vh="V" name="Alvin Jones" sack="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Nik Needham" sack="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="NMSU" down="4" togo="13" spot="UTEP33" context="H,4,13,V33" playid="9,8,77" type="U" tokens="PUNT:17,V00 TB:"
+      text="Rogers, Tyler punt 33 yards to the UTEP0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="Rogers, Tyler" gain="33" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="10" top="3:06" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="V,V20,08:40" vh="V" spot="V20" clock="08:40" driveindex="10,77"></drivestart>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP20" context="V,1,10,V20" playid="10,1,78" clock="08:40" tokens="{DRIVE}:08:40"
+      text="UTEP drive start at 08:40." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP20" context="V,1,10,V20" playid="10,2,79" type="R" tokens="RUSH:15,V26, TACK:3D"
+      text="Darrin Laufasa rush for 6 yards to the UTEP26 (Ibekwe, Derek)." newcontext="V,2,4,V26">
+    <p_ru vh="V" name="Darrin Laufasa" gain="6"></p_ru>
+    <p_tk vh="H" name="Ibekwe, Derek"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="4" spot="UTEP26" context="V,2,4,V26" playid="10,3,80" type="R" tokens="RUSH:15,V28, TACK:9D,3D"
+      text="Darrin Laufasa rush for 2 yards to the UTEP28 (Bradley, Stody;Ibekwe, Derek)." newcontext="V,3,2,V28">
+    <p_ru vh="V" name="Darrin Laufasa" gain="2"></p_ru>
+    <p_tk vh="H" name="Bradley, Stody" assist="Y"></p_tk>
+    <p_tk vh="H" name="Ibekwe, Derek" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="3" togo="2" spot="UTEP28" context="V,3,2,V28" playid="10,4,81" type="R" tokens="RUSH:7,V29, TACK:53,3D"
+      text="L. Dowell rush for 1 yard to the UTEP29 (Butler, Rodney;Ibekwe, Derek)." newcontext="V,4,1,V29">
+    <p_ru vh="V" name="L. Dowell" gain="1"></p_ru>
+    <p_tk vh="H" name="Butler, Rodney" assist="Y"></p_tk>
+    <p_tk vh="H" name="Ibekwe, Derek" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="4" togo="1" spot="UTEP29" context="V,4,1,V29" playid="10,5,82" type="U" tokens="PUNT:46,H18 RET:1,H35 OB: PEN:H,HO,A,TM,H25,N D:1,10 SPOT:H,H25,Y"
+      text="Alan Luna punt 53 yards to the NMSU18, Morgan, T return 17 yards to the NMSU35, out-of-bounds, PENALTY NMSU holding 10 yards to the NMSU25, 1st and 10, NMSU ball on NMSU25." ob="Y" newcontext="H,1,10,H25">
+    <p_pu vh="V" name="Alan Luna" gain="53"></p_pu>
+    <p_pr vh="H" name="Morgan, T" gain="17"></p_pr>
+    <p_pn vh="H" code="HO" type="holding" result="ACCEPT" at="H35" yards="10"></p_pn>
+   </play>
+   <drivesum plays="3" yards="9" top="2:22" driveindex="10" complete="Y"></drivesum>
+   <drivestart poss="H,H25,06:18" vh="H" spot="H25" clock="06:18" driveindex="11,82"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU25" context="H,1,10,H25" playid="11,1,83" clock="06:18" tokens="{DRIVE}:06:18"
+      text="NEW MEXICO STATE drive start at 06:18." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU25" context="H,1,10,H25" playid="11,2,84" type="P" first="P" tokens="PASS:17,C,2,H44 TACK:92,16"
+      text="Rogers, Tyler pass complete to Hogan, Gregory for 19 yards to the NMSU44, 1ST DOWN NMSU (Alex Villarreal;Alvin Jones)." newcontext="H,1,10,H44">
+    <p_pa vh="H" qb="Rogers, Tyler" result="COMP" rcv="Hogan, Gregory" gain="19"></p_pa>
+    <p_tk vh="V" name="Alex Villarreal" assist="Y"></p_tk>
+    <p_tk vh="V" name="Alvin Jones" assist="Y"></p_tk>
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU44" context="H,1,10,H44" playid="11,3,85" type="P" first="P" tokens="PASS:17,C,6,V27 OB: TACK:21 PEN:V,UC,A,21,V13,1"
+      text="Rogers, Tyler pass complete to Bowen, Joshua for 29 yards to the UTEP27, 1ST DOWN NMSU, out-of-bounds (Dashone Smith), PENALTY UTEP unsportsmanlike conduct (Dashone Smith) 14 yards to the UTEP13, 1ST DOWN NMSU." ob="Y" newcontext="H,1,10,V13">
+    <p_pa vh="H" qb="Rogers, Tyler" result="COMP" rcv="Bowen, Joshua" gain="29"></p_pa>
+    <p_tk vh="V" name="Dashone Smith"></p_tk>
+    <p_pn vh="V" code="UC" type="unsportsmanlike conduct" name="Dashone Smith" result="ACCEPT" at="V27" yards="14"></p_pn>
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="UTEP13" context="H,1,10,V13" playid="11,4,86" tokens="D:1,10"
+      text="1st and 10." newcontext="H,1,10,V13">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="UTEP13" context="H,1,10,V13" playid="11,5,87" type="E" first="E" tokens="PASS:17,I,1,* PEN:V,PI,A,20,V02,1 NOPLAY:"
+      text="Rogers, Tyler pass incomplete to Morgan, T, PENALTY UTEP pass interference (Nik Needham) 11 yards to the UTEP2, 1ST DOWN NMSU, NO PLAY." newcontext="H,1,0,V02">
+    <p_pn vh="V" code="PI" type="pass interference" name="Nik Needham" result="ACCEPT" at="V13" yards="11"></p_pn>
+   </play>
+   <play hasball="NMSU" down="1" togo="0" spot="UTEP02" context="H,1,0,V02" playid="11,6,88" type="R" tokens="RUSH:3,V01, TACK:63,10"
+      text="Rose III, Larry rush for 1 yard to the UTEP1 (Gino Bresolin;Jimmy Musgrave)." newcontext="H,2,0,V01">
+    <p_ru vh="H" name="Rose III, Larry" gain="1"></p_ru>
+    <p_tk vh="V" name="Gino Bresolin" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jimmy Musgrave" assist="Y"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="0" spot="UTEP01" context="H,2,0,V01" playid="11,7,89" type="#" clock="05:01" tokens="T:05:01"
+      text="Clock 05:01." newcontext="H,2,0,V01">
+   </play>
+   <play hasball="NMSU" down="2" togo="0" spot="UTEP01" context="H,2,0,V01" playid="11,8,90" type="E" tokens="PEN:H,FS,A,62,V06,N"
+      text="PENALTY NMSU false start (Folasa-Lutui, I) 5 yards to the UTEP6." newcontext="H,2,0,V06">
+    <p_pn vh="H" code="FS" type="false start" name="Folasa-Lutui, I" result="ACCEPT" at="V01" yards="5"></p_pn>
+   </play>
+   <play hasball="NMSU" down="2" togo="0" spot="UTEP06" context="H,2,0,V06" playid="11,9,91" type="R" tokens="RUSH:3,V10, TACK:20,16"
+      text="Rose III, Larry rush for loss of 4 yards to the UTEP10 (Nik Needham;Alvin Jones)." newcontext="H,3,0,V10">
+    <p_ru vh="H" name="Rose III, Larry" gain="-4"></p_ru>
+    <p_tk vh="V" name="Nik Needham" assist="Y"></p_tk>
+    <p_tk vh="V" name="Alvin Jones" assist="Y"></p_tk>
+   </play>
+   <play hasball="NMSU" down="3" togo="0" spot="UTEP10" context="H,3,0,V10" playid="11,10,92" type="E" clock="03:30" tokens="PASS:17,C,5,V00 T:03:30 PEN:H,HO,A,70,V20,N NOPLAY:"
+      text="Rogers, Tyler pass complete to Taylor, Tyrain for 10 yards to the UTEP0, clock 03:30, PENALTY NMSU holding (Cunningham, A.) 10 yards to the UTEP20, NO PLAY." newcontext="H,3,0,V20">
+    <p_pn vh="H" code="HO" type="holding" name="Cunningham, A." result="ACCEPT" at="V10" yards="10"></p_pn>
+   </play>
+   <play hasball="NMSU" down="3" togo="0" spot="UTEP20" context="H,3,0,V20" playid="11,11,93" type="P" tokens="PASS:17,D,1,* PEN:H,HO,D"
+      text="Rogers, Tyler pass incomplete to Morgan, T, dropped pass, PENALTY NMSU holding declined." newcontext="H,4,0,V20">
+    <p_pa vh="H" qb="Rogers, Tyler" result="DROP" rcv="Morgan, T"></p_pa>
+    <p_pn vh="H" code="HO" type="holding" name="Morgan, T" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="NMSU" down="4" togo="0" spot="UTEP20" context="H,4,0,V20" playid="11,12,94" type="F" score="Y" vscore="9" hscore="16" clock="03:12" tokens="FGA:24,38,G T:03:12"
+      text="Slater, Sy field goal attempt from 38 GOOD, clock 03:12." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="Slater, Sy" distance="38" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="9" H="16"></score>
+   <play hasball="NMSU" down="1" togo="0" spot="NMSU35" context="H,1,0,H35" playid="11,13,95" tokens="SPOT:H,H35,N"
+      text="NMSU ball on NMSU35." newcontext="H,1,0,H35">
+   </play>
+   <drivesum plays="6" yards="55" top="3:06" driveindex="11" complete="Y"></drivesum>
+   <play hasball="NMSU" down="1" togo="0" spot="NMSU35" context="H,1,0,H35" playid="11,14,96" type="K" tokens="KO:24,V00 TB:"
+      text="Slater, Sy kickoff 65 yards to the UTEP0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Slater, Sy" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,03:12" vh="V" spot="V25" clock="03:12" driveindex="12,96"></drivestart>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP25" context="V,1,10,V25" playid="12,1,97" clock="03:12" tokens="{DRIVE}:03:12"
+      text="UTEP drive start at 03:12." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP25" context="V,1,10,V25" playid="12,2,98" type="P" tokens="PASS:11,C,85,V33 TACK:3D,53"
+      text="Mack Leftwich pass complete to Hayden Plinke for 8 yards to the UTEP33 (Ibekwe, Derek;Butler, Rodney)." newcontext="V,2,2,V33">
+    <p_pa vh="V" qb="Mack Leftwich" result="COMP" rcv="Hayden Plinke" gain="8"></p_pa>
+    <p_tk vh="H" name="Ibekwe, Derek" assist="Y"></p_tk>
+    <p_tk vh="H" name="Butler, Rodney" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="2" spot="UTEP33" context="V,2,2,V33" playid="12,3,99" type="R" first="R" tokens="RUSH:14,V36, TACK:2D,21"
+      text="Kavika Johnson rush for 3 yards to the UTEP36, 1ST DOWN UTEP (Hanks, Terrill;Wright, Jaden)." newcontext="V,1,10,V36">
+    <p_ru vh="V" name="Kavika Johnson" gain="3"></p_ru>
+    <p_tk vh="H" name="Hanks, Terrill" assist="Y"></p_tk>
+    <p_tk vh="H" name="Wright, Jaden" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP36" context="V,1,10,V36" playid="12,4,100" type="#" clock="02:30" tokens="T:02:30"
+      text="Clock 02:30." newcontext="V,1,10,V36">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP36" context="V,1,10,V36" playid="12,5,101" type="P" clock="02:01" tokens="PASS:11,B,80,* BRUP:2D T:02:01"
+      text="Mack Leftwich pass incomplete to Cedrick Lang (Hanks, Terrill), clock 02:01." newcontext="V,2,10,V36">
+    <p_pa vh="V" qb="Mack Leftwich" result="BRUP" rcv="Cedrick Lang"></p_pa>
+    <p_bu vh="H" name="Hanks, Terrill"></p_bu>
+   </play>
+   <play hasball="UTEP" down="2" togo="10" spot="UTEP36" context="V,2,10,V36" playid="12,6,102" type="R" first="R" clock="01:48" tokens="RUSH:4,V47, TACK:2D,21 T:01:48"
+      text="J. Laufasa rush for 11 yards to the UTEP47, 1ST DOWN UTEP (Hanks, Terrill;Wright, Jaden), clock 01:48." newcontext="V,1,10,V47">
+    <p_ru vh="V" name="J. Laufasa" gain="11"></p_ru>
+    <p_tk vh="H" name="Hanks, Terrill" assist="Y"></p_tk>
+    <p_tk vh="H" name="Wright, Jaden" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP47" context="V,1,10,V47" playid="12,7,103" type="R" tokens="RUSH:11,V49, RUSH:11,V49, PEN:V,FP,A,11,V44,+"
+      text="Mack Leftwich rush for 2 yards to the UTEP49, Mack Leftwich rush for no gain to the UTEP49, PENALTY UTEP illegal forward pass (Mack Leftwich) 5 yards to the UTEP44." newcontext="V,2,13,V44">
+    <p_ru vh="V" name="Mack Leftwich" gain="0"></p_ru>
+    <p_pn vh="V" code="FP" type="illegal forward pass" name="Mack Leftwich" result="ACCEPT" at="V49" yards="5"></p_pn>
+   </play>
+   <play hasball="UTEP" down="2" togo="13" spot="UTEP44" context="V,2,13,V44" playid="12,8,104" tokens="D:2,13"
+      text="2nd and 13." newcontext="V,2,13,V44">
+   </play>
+   <play hasball="UTEP" down="2" togo="13" spot="UTEP44" context="V,2,13,V44" playid="12,9,105" type="R" tokens="RUSH:4,V47, TACK:8D,57"
+      text="J. Laufasa rush for 3 yards to the UTEP47 (Reese, Jassavia;Brown, Noah)." newcontext="V,3,10,V47">
+    <p_ru vh="V" name="J. Laufasa" gain="3"></p_ru>
+    <p_tk vh="H" name="Reese, Jassavia" assist="Y"></p_tk>
+    <p_tk vh="H" name="Brown, Noah" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="3" togo="10" spot="UTEP47" context="V,3,10,V47" playid="12,10,106" type="R" first="R" clock="00:25" tokens="RUSH:11,H39, OB: TACK:4D T:00:25"
+      text="Mack Leftwich rush for 14 yards to the NMSU39, 1ST DOWN UTEP, out-of-bounds (Rose, Winston), clock 00:25." ob="Y" newcontext="V,1,10,H39">
+    <p_ru vh="V" name="Mack Leftwich" gain="14"></p_ru>
+    <p_tk vh="H" name="Rose, Winston"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="NMSU39" context="V,1,10,H39" playid="12,11,107" type="P" tokens="PASS:11,C,9,H34 TACK:29"
+      text="Mack Leftwich pass complete to Jaquan White for 5 yards to the NMSU34 (Hill, Lewis)." newcontext="V,2,5,H34">
+    <p_pa vh="V" qb="Mack Leftwich" result="COMP" rcv="Jaquan White" gain="5"></p_pa>
+    <p_tk vh="H" name="Hill, Lewis"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="5" spot="NMSU34" context="V,2,5,H34" playid="12,12,108" type="#" clock="00:19" tokens="TOUT:V T:00:19"
+      text="Timeout UTEP, clock 00:19." newcontext="V,2,5,H34">
+    <p_to vh="V" team="UTEP"></p_to>
+   </play>
+   <play hasball="UTEP" down="2" togo="5" spot="NMSU34" context="V,2,5,H34" playid="12,13,109" type="E" tokens="PASS:11,C,4,H38 TACK:3D PEN:V,BL,A,75,H49,N NOPLAY:"
+      text="Mack Leftwich pass complete to J. Laufasa for loss of 4 yards to the NMSU38 (Ibekwe, Derek), PENALTY UTEP illegal block (D. Elmendorff) 15 yards to the NMSU49, NO PLAY." newcontext="V,2,20,H49">
+    <p_pn vh="V" code="BL" type="illegal block" name="D. Elmendorff" result="ACCEPT" at="H34" yards="15"></p_pn>
+   </play>
+   <play hasball="UTEP" down="2" togo="20" spot="NMSU49" context="V,2,20,H49" playid="12,14,110" type="E" first="E" tokens="PEN:H,UC,A,3D,H34,1"
+      text="PENALTY NMSU unsportsmanlike conduct (Ibekwe, Derek) 15 yards to the NMSU34, 1ST DOWN UTEP." newcontext="V,1,10,H34">
+    <p_pn vh="H" code="UC" type="unsportsmanlike conduct" name="Ibekwe, Derek" result="ACCEPT" at="H49" yards="15"></p_pn>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="NMSU34" context="V,1,10,H34" playid="12,15,111" type="#" clock="00:04" tokens="T:00:04"
+      text="Clock 00:04." newcontext="V,1,10,H34">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="NMSU34" context="V,1,10,H34" playid="12,16,112" type="P" tokens="PASS:11,I,84,* BRUP:4D"
+      text="Mack Leftwich pass incomplete to Cole Freytag (Rose, Winston)." newcontext="V,2,10,H34">
+    <p_pa vh="V" qb="Mack Leftwich" result="INC" rcv="Cole Freytag"></p_pa>
+    <p_bu vh="H" name="Rose, Winston"></p_bu>
+   </play>
+   <play hasball="UTEP" down="2" togo="10" spot="NMSU34" context="V,2,10,H34" playid="12,17,113" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of half, clock 00:00." newcontext="V,2,10,H34">
+   </play>
+   <drivesum plays="10" yards="41" top="3:12" driveindex="12" complete="Y"></drivesum>
+   <score qtr="2" V="9" H="16"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UTEP">
+    <firstdowns no="4" rush="3" pass="0" penalty="1"></firstdowns>
+    <penalties no="4" yds="45"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:59"></misc>
+    <rush att="12" yds="46" gain="46" loss="0" td="0" long="0"></rush>
+    <pass comp="2" att="5" int="0" yds="13" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="13" td="0" long="0"></rcv>
+    <punt no="3" yds="114" long="22" blkd="0" tb="0" fc="0" plus50="1" inside20="0" avg="38.0"></punt>
+    <defense tackua="6" tacka="10" tot_tack="16" tflua="1" tfla="4" tflyds="15" sacks="1" sackyds="9" brup="2" qbh="1"></defense>
+   </qtrsummary>
+   <qtrsummary vh="H" id="NMSU">
+    <firstdowns no="5" rush="1" pass="2" penalty="2"></firstdowns>
+    <penalties no="4" yds="40"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:01"></misc>
+    <rush att="7" yds="3" gain="18" loss="15" td="0" long="0"></rush>
+    <pass comp="3" att="7" int="0" yds="56" td="0" long="0" sacks="1" sackyds="9"></pass>
+    <rcv no="3" yds="56" td="0" long="0"></rcv>
+    <punt no="2" yds="88" long="55" blkd="0" tb="1" fc="0" plus50="1" inside20="0" avg="44.0"></punt>
+    <ko no="1" yds="65" ob="0" tb="1"></ko>
+    <fg made="1" att="1" long="38" blkd="0"></fg>
+    <defense tackua="3" tacka="18" tot_tack="21" sacks="0" sackyds="0" brup="2"></defense>
+    <pr no="2" yds="30" td="0" long="17"></pr>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="UTEP" down="2" togo="10" spot="NMSU34" context="V,2,10,H34" playid="12,18,114" type="#" clock="15:00" tokens="Q:3 T:15:00 SPOT:H,H35,N"
+      text="Start of 3rd quarter, clock 15:00, NMSU ball on NMSU35." newcontext="H,2,10,H35">
+   </play>
+   <play hasball="NMSU" down="2" togo="10" spot="NMSU35" context="H,2,10,H35" playid="12,19,115" type="E" tokens="KO:24,V00 RET:8,V26 TACK:31 PEN:H,OS,A,TM,H30,N NOPLAY:"
+      text="Slater, Sy kickoff 65 yards to the UTEP0, Autrey Golden return to the UTEP26 (Herrington, D), PENALTY NMSU offside 5 yards to the NMSU30, NO PLAY." newcontext="H,2,15,H30">
+    <p_pn vh="H" code="OS" type="offside" result="ACCEPT" at="H35" yards="5"></p_pn>
+   </play>
+   <play hasball="NMSU" down="2" togo="15" spot="NMSU30" context="H,2,15,H30" playid="12,20,116" type="K" tokens="KO:24,V01 RET:8,V32 TACK:5"
+      text="Slater, Sy kickoff 69 yards to the UTEP1, Autrey Golden return 31 yards to the UTEP32 (Taylor, Tyrain)." newcontext="V,1,10,V32">
+    <p_ko vh="H" name="Slater, Sy" gain="69"></p_ko>
+    <p_kr vh="V" name="Autrey Golden" gain="31"></p_kr>
+    <p_tk vh="H" name="Taylor, Tyrain"></p_tk>
+   </play>
+   <drivestart poss="V,V32,15:00" vh="V" spot="V32" clock="15:00" driveindex="13,116"></drivestart>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP32" context="V,1,10,V32" playid="13,1,117" clock="15:00" tokens="{DRIVE}:15:00"
+      text="UTEP drive start at 15:00." newcontext="V,1,10,V32">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP32" context="V,1,10,V32" playid="13,2,118" type="R" tokens="RUSH:15,V36, TACK:21,1C"
+      text="Darrin Laufasa rush for 4 yards to the UTEP36 (Wright, Jaden;Owens, DeMarcus)." newcontext="V,2,6,V36">
+    <p_ru vh="V" name="Darrin Laufasa" gain="4"></p_ru>
+    <p_tk vh="H" name="Wright, Jaden" assist="Y"></p_tk>
+    <p_tk vh="H" name="Owens, DeMarcus" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="6" spot="UTEP36" context="V,2,6,V36" playid="13,3,119" type="R" first="E" tokens="RUSH:9,V39, TACK:2D PEN:H,FM,A,2D,H44,1"
+      text="Jaquan White rush for 3 yards to the UTEP39 (Hanks, Terrill), PENALTY NMSU face mask (Hanks, Terrill) 17 yards to the NMSU44, 1ST DOWN UTEP." newcontext="V,1,10,H44">
+    <p_ru vh="V" name="Jaquan White" gain="3"></p_ru>
+    <p_tk vh="H" name="Hanks, Terrill"></p_tk>
+    <p_pn vh="H" code="FM" type="face mask" name="Hanks, Terrill" result="ACCEPT" at="V39" yards="17"></p_pn>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="NMSU44" context="V,1,10,H44" playid="13,4,120" tokens="D:1,10"
+      text="1st and 10." newcontext="V,1,10,H44">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="NMSU44" context="V,1,10,H44" playid="13,5,121" type="R" tokens="RUSH:5R,H35 OB: TACK:99"
+      text="Warren Redix rush for 9 yards to the NMSU35, out-of-bounds (Meredith, S)." ob="Y" newcontext="V,2,1,H35">
+    <p_ru vh="V" name="Warren Redix" gain="9"></p_ru>
+    <p_tk vh="H" name="Meredith, S"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="1" spot="NMSU35" context="V,2,1,H35" playid="13,6,122" type="R" first="R" tokens="RUSH:14,H34, TACK:99"
+      text="Kavika Johnson rush for 1 yard to the NMSU34, 1ST DOWN UTEP (Meredith, S)." newcontext="V,1,10,H34">
+    <p_ru vh="V" name="Kavika Johnson" gain="1"></p_ru>
+    <p_tk vh="H" name="Meredith, S"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="NMSU34" context="V,1,10,H34" playid="13,7,123" type="R" tokens="RUSH:4,H26, TACK:31"
+      text="J. Laufasa rush for 8 yards to the NMSU26 (Herrington, D)." newcontext="V,2,2,H26">
+    <p_ru vh="V" name="J. Laufasa" gain="8"></p_ru>
+    <p_tk vh="H" name="Herrington, D"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="2" spot="NMSU26" context="V,2,2,H26" playid="13,8,124" type="R" tokens="RUSH:7,H25, TACK:1D,69"
+      text="L. Dowell rush for 1 yard to the NMSU25 (Nwangwa, Jacob;Trujillo, A)." newcontext="V,3,1,H25">
+    <p_ru vh="V" name="L. Dowell" gain="1"></p_ru>
+    <p_tk vh="H" name="Nwangwa, Jacob" assist="Y"></p_tk>
+    <p_tk vh="H" name="Trujillo, A" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="3" togo="1" spot="NMSU25" context="V,3,1,H25" playid="13,9,125" type="E" tokens="PEN:V,SU,A,TM,H30,N"
+      text="PENALTY UTEP substitution infraction 5 yards to the NMSU30." newcontext="V,3,6,H30">
+    <p_pn vh="V" code="SU" type="substitution infraction" result="ACCEPT" at="H25" yards="5"></p_pn>
+   </play>
+   <play hasball="UTEP" down="3" togo="6" spot="NMSU30" context="V,3,6,H30" playid="13,10,126" type="R" turnover="F" tokens="RUSH:11,H28, FORCE:3D FUMB:H,H28,53"
+      text="Mack Leftwich rush for 2 yards to the NMSU28, fumble forced by Ibekwe, Derek, fumble by Mack Leftwich recovered by NMSU Butler, Rodney at NMSU28." newcontext="H,1,10,H28">
+    <p_ru vh="V" name="Mack Leftwich" gain="2"></p_ru>
+    <p_fumb vh="V" name="Mack Leftwich" at="H28" frvh="H" frname="Butler, Rodney"></p_fumb>
+    <p_tk vh="H" name="Ibekwe, Derek" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="7" yards="40" top="3:32" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="H,H28,11:28" vh="H" spot="H28" clock="11:28" driveindex="14,126"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU28" context="H,1,10,H28" playid="14,1,127" clock="11:28" tokens="{DRIVE}:11:28"
+      text="NEW MEXICO STATE drive start at 11:28." newcontext="H,1,10,H28">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU28" context="H,1,10,H28" playid="14,2,128" type="E" tokens="RUSH:3,H32, TACK:10 PEN:H,HO,A,67,H18,N NOPLAY:"
+      text="Rose III, Larry rush for 4 yards to the NMSU32 (Jimmy Musgrave), PENALTY NMSU holding (McMeans, A) 10 yards to the NMSU18, NO PLAY." newcontext="H,1,20,H18">
+    <p_pn vh="H" code="HO" type="holding" name="McMeans, A" result="ACCEPT" at="H28" yards="10"></p_pn>
+   </play>
+   <play hasball="NMSU" down="1" togo="20" spot="NMSU18" context="H,1,20,H18" playid="14,3,129" type="R" tokens="RUSH:5,H16, TACK:16"
+      text="Taylor, Tyrain rush for loss of 2 yards to the NMSU16 (Alvin Jones)." newcontext="H,2,22,H16">
+    <p_ru vh="H" name="Taylor, Tyrain" gain="-2"></p_ru>
+    <p_tk vh="V" name="Alvin Jones"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="22" spot="NMSU16" context="H,2,22,H16" playid="14,4,130" type="R" tokens="RUSH:3,H13, TACK:36"
+      text="Rose III, Larry rush for loss of 3 yards to the NMSU13 (Nick Usher)." newcontext="H,3,25,H13">
+    <p_ru vh="H" name="Rose III, Larry" gain="-3"></p_ru>
+    <p_tk vh="V" name="Nick Usher"></p_tk>
+   </play>
+   <play hasball="NMSU" down="3" togo="25" spot="NMSU13" context="H,3,25,H13" playid="14,5,131" type="P" tokens="PASS:17,C,11,H27 OB:"
+      text="Rogers, Tyler pass complete to Bergstrom, J for 14 yards to the NMSU27, out-of-bounds." ob="Y" newcontext="H,4,11,H27">
+    <p_pa vh="H" qb="Rogers, Tyler" result="COMP" rcv="Bergstrom, J" gain="14"></p_pa>
+   </play>
+   <play hasball="NMSU" down="4" togo="11" spot="NMSU27" context="H,4,11,H27" playid="14,6,132" type="U" tokens="PUNT:96,V22 DN:"
+      text="Torres, Anthony punt 51 yards to the UTEP22, downed." newcontext="V,1,10,V22">
+    <p_pu vh="H" name="Torres, Anthony" gain="51"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-1" top="1:59" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="V,V22,09:29" vh="V" spot="V22" clock="09:29" driveindex="15,132"></drivestart>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP22" context="V,1,10,V22" playid="15,1,133" clock="09:29" tokens="{DRIVE}:09:29"
+      text="UTEP drive start at 09:29." newcontext="V,1,10,V22">
+   </play>
+   <comment text="12-Metz in at QB for UTEP"></comment>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP22" context="V,1,10,V22" playid="15,2,135" type="R" tokens="RUSH:8,V23, TACK:29,8D"
+      text="Autrey Golden rush for 1 yard to the UTEP23 (Hill, Lewis;Reese, Jassavia)." newcontext="V,2,9,V23">
+    <p_ru vh="V" name="Autrey Golden" gain="1"></p_ru>
+    <p_tk vh="H" name="Hill, Lewis" assist="Y"></p_tk>
+    <p_tk vh="H" name="Reese, Jassavia" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="9" spot="UTEP23" context="V,2,9,V23" playid="15,3,136" type="P" tokens="PASS:14,C,5R,V27 TACK:21,1C"
+      text="Kavika Johnson pass complete to Warren Redix for 4 yards to the UTEP27 (Wright, Jaden;Owens, DeMarcus)." newcontext="V,3,5,V27">
+    <p_pa vh="V" qb="Kavika Johnson" result="COMP" rcv="Warren Redix" gain="4"></p_pa>
+    <p_tk vh="H" name="Wright, Jaden" assist="Y"></p_tk>
+    <p_tk vh="H" name="Owens, DeMarcus" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="3" togo="5" spot="UTEP27" context="V,3,5,V27" playid="15,4,137" type="E" tokens="PEN:V,SU,A,TM,V22,N"
+      text="PENALTY UTEP substitution infraction 5 yards to the UTEP22." newcontext="V,3,10,V22">
+    <p_pn vh="V" code="SU" type="substitution infraction" result="ACCEPT" at="V27" yards="5"></p_pn>
+   </play>
+   <play hasball="UTEP" down="3" togo="10" spot="UTEP22" context="V,3,10,V22" playid="15,5,138" type="E" tokens="PEN:V,SU,A,TM,V17,N"
+      text="PENALTY UTEP substitution infraction 5 yards to the UTEP17." newcontext="V,3,15,V17">
+    <p_pn vh="V" code="SU" type="substitution infraction" result="ACCEPT" at="V22" yards="5"></p_pn>
+   </play>
+   <play hasball="UTEP" down="3" togo="15" spot="UTEP17" context="V,3,15,V17" playid="15,6,139" type="P" score="Y" vscore="9" hscore="22" turnover="I" clock="07:46" tokens="PASS:1M,X,1D,V41 RET:1D,V00 T:07:46"
+      text="Ryan Metz pass intercepted by Nwangwa, Jacob at the UTEP41, Nwangwa, Jacob return 41 yards to the UTEP0, TOUCHDOWN, clock 07:46." newcontext="H,1,0,V03">
+    <p_pa vh="V" qb="Ryan Metz" result="INT"></p_pa>
+    <p_ir vh="H" name="Nwangwa, Jacob" at="V41" gain="41"></p_ir>
+   </play>
+   <drivesum plays="3" yards="-5" top="1:43" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="H,V03,07:46" vh="H" spot="V03" clock="07:46" driveindex="16,139"></drivestart>
+   <play hasball="NMSU" down="1" togo="0" spot="UTEP03" context="H,1,0,V03" playid="16,1,140" type="X" score="Y" vscore="9" hscore="23" tokens="PAT:K,24,G"
+      text="Slater, Sy kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Slater, Sy" qb="Slater, Sy" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="9" H="23"></score>
+   <play hasball="NMSU" down="1" togo="0" spot="NMSU35" context="H,1,0,H35" playid="16,2,141" tokens="SPOT:H,H35,N"
+      text="NMSU ball on NMSU35." newcontext="H,1,0,H35">
+   </play>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="16" complete="Y"></drivesum>
+   <play hasball="NMSU" down="1" togo="0" spot="NMSU35" context="H,1,0,H35" playid="16,3,142" type="K" tokens="KO:24,V00 TB:"
+      text="Slater, Sy kickoff 65 yards to the UTEP0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Slater, Sy" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,07:26" vh="V" spot="V25" clock="07:26" driveindex="17,142"></drivestart>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP25" context="V,1,10,V25" playid="17,1,143" clock="07:26" tokens="{DRIVE}:07:26"
+      text="UTEP drive start at 07:26." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP25" context="V,1,10,V25" playid="17,2,144" type="R" tokens="RUSH:14,V34, TACK:21"
+      text="Kavika Johnson rush for 9 yards to the UTEP34 (Wright, Jaden)." newcontext="V,2,1,V34">
+    <p_ru vh="V" name="Kavika Johnson" gain="9"></p_ru>
+    <p_tk vh="H" name="Wright, Jaden"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="1" spot="UTEP34" context="V,2,1,V34" playid="17,3,145" type="P" tokens="PASS:14,C,5R,V34 TACK:3D"
+      text="Kavika Johnson pass complete to Warren Redix for no gain to the UTEP34 (Ibekwe, Derek)." newcontext="V,3,1,V34">
+    <p_pa vh="V" qb="Kavika Johnson" result="COMP" rcv="Warren Redix" gain="0"></p_pa>
+    <p_tk vh="H" name="Ibekwe, Derek"></p_tk>
+   </play>
+   <play hasball="UTEP" down="3" togo="1" spot="UTEP34" context="V,3,1,V34" playid="17,4,146" type="R" first="R" score="Y" vscore="15" hscore="23" clock="06:11" tokens="RUSH:15,H00, T:06:11"
+      text="Darrin Laufasa rush for 66 yards to the NMSU0, 1ST DOWN UTEP, TOUCHDOWN, clock 06:11." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Darrin Laufasa" gain="66"></p_ru>
+   </play>
+   <play hasball="UTEP" down="1" togo="0" spot="NMSU03" context="V,1,0,H03" playid="17,5,147" type="X" score="Y" vscore="16" hscore="23" tokens="PAT:K,47,G"
+      text="Jay Mattox kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Jay Mattox" qb="Jay Mattox" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="16" H="23"></score>
+   <play hasball="UTEP" down="1" togo="0" spot="UTEP35" context="V,1,0,V35" playid="17,6,148" tokens="SPOT:V,V35,N"
+      text="UTEP ball on UTEP35." newcontext="V,1,0,V35">
+   </play>
+   <drivesum plays="3" yards="75" top="1:15" driveindex="17" complete="Y"></drivesum>
+   <play hasball="UTEP" down="1" togo="0" spot="UTEP35" context="V,1,0,V35" playid="17,7,149" type="K" tokens="KO:47,H00 RET:7,H14 TACK:19"
+      text="Jay Mattox kickoff 65 yards to the NMSU0, Clark, OJ return 14 yards to the NMSU14 (Daniel Siller)." newcontext="H,1,10,H14">
+    <p_ko vh="V" name="Jay Mattox" gain="65"></p_ko>
+    <p_kr vh="H" name="Clark, OJ" gain="14"></p_kr>
+    <p_tk vh="V" name="Daniel Siller"></p_tk>
+   </play>
+   <drivestart poss="H,H14,06:11" vh="H" spot="H14" clock="06:11" driveindex="18,149"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU14" context="H,1,10,H14" playid="18,1,150" clock="06:11" tokens="{DRIVE}:06:11"
+      text="NEW MEXICO STATE drive start at 06:11." newcontext="H,1,10,H14">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU14" context="H,1,10,H14" playid="18,2,151" type="P" first="P" tokens="PASS:17,C,1,V08 TACK:2"
+      text="Rogers, Tyler pass complete to Morgan, T for 78 yards to the UTEP8, 1ST DOWN NMSU (I. Harrison)." newcontext="H,1,0,V08">
+    <p_pa vh="H" qb="Rogers, Tyler" result="COMP" rcv="Morgan, T" gain="78"></p_pa>
+    <p_tk vh="V" name="I. Harrison"></p_tk>
+   </play>
+   <play hasball="NMSU" down="1" togo="0" spot="UTEP08" context="H,1,0,V08" playid="18,3,152" type="P" score="Y" vscore="16" hscore="29" clock="05:29" tokens="PASS:17,C,2,V00 T:05:29"
+      text="Rogers, Tyler pass complete to Hogan, Gregory for 8 yards to the UTEP0, TOUCHDOWN, clock 05:29." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Rogers, Tyler" result="COMP" rcv="Hogan, Gregory" gain="8"></p_pa>
+   </play>
+   <play hasball="NMSU" down="1" togo="0" spot="UTEP03" context="H,1,0,V03" playid="18,4,153" type="X" score="Y" vscore="16" hscore="30" tokens="PAT:K,24,G"
+      text="Slater, Sy kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Slater, Sy" qb="Slater, Sy" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="16" H="30"></score>
+   <play hasball="NMSU" down="1" togo="0" spot="NMSU35" context="H,1,0,H35" playid="18,5,154" tokens="SPOT:H,H35,N"
+      text="NMSU ball on NMSU35." newcontext="H,1,0,H35">
+   </play>
+   <drivesum plays="2" yards="86" top="0:42" driveindex="18" complete="Y"></drivesum>
+   <play hasball="NMSU" down="1" togo="0" spot="NMSU35" context="H,1,0,H35" playid="18,6,155" type="K" tokens="KO:24,V00 TB:"
+      text="Slater, Sy kickoff 65 yards to the UTEP0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Slater, Sy" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,05:29" vh="V" spot="V25" clock="05:29" driveindex="19,155"></drivestart>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP25" context="V,1,10,V25" playid="19,1,156" clock="05:29" tokens="{DRIVE}:05:29"
+      text="UTEP drive start at 05:29." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP25" context="V,1,10,V25" playid="19,2,157" type="P" tokens="PASS:1M,I,8,*"
+      text="Ryan Metz pass incomplete to Autrey Golden." newcontext="V,2,10,V25">
+    <p_pa vh="V" qb="Ryan Metz" result="INC" rcv="Autrey Golden"></p_pa>
+   </play>
+   <play hasball="UTEP" down="2" togo="10" spot="UTEP25" context="V,2,10,V25" playid="19,3,158" type="E" tokens="PEN:V,FS,A,60,V20,N"
+      text="PENALTY UTEP false start (Eric Lee) 5 yards to the UTEP20." newcontext="V,2,15,V20">
+    <p_pn vh="V" code="FS" type="false start" name="Eric Lee" result="ACCEPT" at="V25" yards="5"></p_pn>
+   </play>
+   <play hasball="UTEP" down="2" togo="15" spot="UTEP20" context="V,2,15,V20" playid="19,4,159" type="R" first="R" tokens="RUSH:14,V35, TACK:69,29"
+      text="Kavika Johnson rush for 15 yards to the UTEP35, 1ST DOWN UTEP (Trujillo, A;Hill, Lewis)." newcontext="V,1,10,V35">
+    <p_ru vh="V" name="Kavika Johnson" gain="15"></p_ru>
+    <p_tk vh="H" name="Trujillo, A" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hill, Lewis" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP35" context="V,1,10,V35" playid="19,5,160" type="R" tokens="RUSH:14,V39, TACK:1C"
+      text="Kavika Johnson rush for 4 yards to the UTEP39 (Owens, DeMarcus)." newcontext="V,2,6,V39">
+    <p_ru vh="V" name="Kavika Johnson" gain="4"></p_ru>
+    <p_tk vh="H" name="Owens, DeMarcus"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="6" spot="UTEP39" context="V,2,6,V39" playid="19,6,161" type="P" tokens="PASS:14,I,8,*"
+      text="Kavika Johnson pass incomplete to Autrey Golden." newcontext="V,3,6,V39">
+    <p_pa vh="V" qb="Kavika Johnson" result="INC" rcv="Autrey Golden"></p_pa>
+   </play>
+   <play hasball="UTEP" down="3" togo="6" spot="UTEP39" context="V,3,6,V39" playid="19,7,162" type="#" clock="04:29" tokens="T:04:29"
+      text="Clock 04:29." newcontext="V,3,6,V39">
+   </play>
+   <play hasball="UTEP" down="3" togo="6" spot="UTEP39" context="V,3,6,V39" playid="19,8,163" type="P" first="P" tokens="PASS:1M,C,9,V46 TACK:21,1D"
+      text="Ryan Metz pass complete to Jaquan White for 7 yards to the UTEP46, 1ST DOWN UTEP (Wright, Jaden;Nwangwa, Jacob)." newcontext="V,1,10,V46">
+    <p_pa vh="V" qb="Ryan Metz" result="COMP" rcv="Jaquan White" gain="7"></p_pa>
+    <p_tk vh="H" name="Wright, Jaden" assist="Y"></p_tk>
+    <p_tk vh="H" name="Nwangwa, Jacob" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP46" context="V,1,10,V46" playid="19,9,164" type="R" tokens="RUSH:14,H49, TACK:21,69"
+      text="Kavika Johnson rush for 5 yards to the NMSU49 (Wright, Jaden;Trujillo, A)." newcontext="V,2,5,H49">
+    <p_ru vh="V" name="Kavika Johnson" gain="5"></p_ru>
+    <p_tk vh="H" name="Wright, Jaden" assist="Y"></p_tk>
+    <p_tk vh="H" name="Trujillo, A" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="5" spot="NMSU49" context="V,2,5,H49" playid="19,10,165" type="R" tokens="RUSH:14,H49, TACK:2D"
+      text="Kavika Johnson rush for no gain to the NMSU49 (Hanks, Terrill)." newcontext="V,3,5,H49">
+    <p_ru vh="V" name="Kavika Johnson" gain="0"></p_ru>
+    <p_tk vh="H" name="Hanks, Terrill"></p_tk>
+   </play>
+   <play hasball="UTEP" down="3" togo="5" spot="NMSU49" context="V,3,5,H49" playid="19,11,166" type="E" first="E" tokens="PEN:H,OS,A,2D,H44,N"
+      text="PENALTY NMSU offside (Hanks, Terrill) 5 yards to the NMSU44, 1ST DOWN UTEP." newcontext="V,1,10,H44">
+    <p_pn vh="H" code="OS" type="offside" name="Hanks, Terrill" result="ACCEPT" at="H49" yards="5"></p_pn>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="NMSU44" context="V,1,10,H44" playid="19,12,167" type="P" tokens="PASS:14,C,5R,H45 TACK:3D"
+      text="Kavika Johnson pass complete to Warren Redix for loss of 1 yard to the NMSU45 (Ibekwe, Derek)." newcontext="V,2,11,H45">
+    <p_pa vh="V" qb="Kavika Johnson" result="COMP" rcv="Warren Redix" gain="-1"></p_pa>
+    <p_tk vh="H" name="Ibekwe, Derek"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="11" spot="NMSU45" context="V,2,11,H45" playid="19,13,168" type="R" tokens="RUSH:15,H44, TACK:31"
+      text="Darrin Laufasa rush for 1 yard to the NMSU44 (Herrington, D)." newcontext="V,3,10,H44">
+    <p_ru vh="V" name="Darrin Laufasa" gain="1"></p_ru>
+    <p_tk vh="H" name="Herrington, D"></p_tk>
+   </play>
+   <play hasball="UTEP" down="3" togo="10" spot="NMSU44" context="V,3,10,H44" playid="19,14,169" type="P" first="P" tokens="PASS:1M,C,8,H27 TACK:4D"
+      text="Ryan Metz pass complete to Autrey Golden for 17 yards to the NMSU27, 1ST DOWN UTEP (Rose, Winston)." newcontext="V,1,10,H27">
+    <p_pa vh="V" qb="Ryan Metz" result="COMP" rcv="Autrey Golden" gain="17"></p_pa>
+    <p_tk vh="H" name="Rose, Winston"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="NMSU27" context="V,1,10,H27" playid="19,15,170" type="#" clock="00:46" tokens="T:00:46"
+      text="Clock 00:46." newcontext="V,1,10,H27">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="NMSU27" context="V,1,10,H27" playid="19,16,171" type="R" tokens="RUSH:1M,H26, TACK:4D"
+      text="Ryan Metz rush for 1 yard to the NMSU26 (Rose, Winston)." newcontext="V,2,9,H26">
+    <p_ru vh="V" name="Ryan Metz" gain="1"></p_ru>
+    <p_tk vh="H" name="Rose, Winston"></p_tk>
+   </play>
+   <score qtr="3" V="16" H="30"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UTEP">
+    <firstdowns no="7" rush="3" pass="2" penalty="2"></firstdowns>
+    <penalties no="4" yds="20"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="12:19"></misc>
+    <rush att="16" yds="130" gain="130" loss="0" td="1" long="26"></rush>
+    <pass comp="5" att="8" int="1" yds="27" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="27" td="0" long="0"></rcv>
+    <ko no="1" yds="65" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="4" tacka="0" tot_tack="4" tflua="2" tfla="0" tflyds="5" sacks="0" sackyds="0"></defense>
+    <kr no="1" yds="31" td="0" long="5"></kr>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="NMSU">
+    <firstdowns no="1" rush="0" pass="1" penalty="0"></firstdowns>
+    <penalties no="4" yds="37"></penalties>
+    <conversions thirdconv="0" thirdatt="1" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="02:41"></misc>
+    <rush att="2" yds="-5" gain="0" loss="5" td="0" long="0"></rush>
+    <pass comp="3" att="3" int="0" yds="100" td="1" long="29" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="100" td="1" long="29"></rcv>
+    <punt no="1" yds="51" long="0" blkd="0" tb="0" fc="0" plus50="1" inside20="0" avg="51.0"></punt>
+    <ko no="3" yds="199" ob="0" tb="2"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="14" tacka="14" tot_tack="28" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" ff="1" fr="1" fryds="0" int="1" intyds="41"></defense>
+    <kr no="1" yds="14" td="0" long="14"></kr>
+    <ir no="1" yds="41" td="1" long="41"></ir>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="UTEP" down="2" togo="9" spot="NMSU26" context="V,2,9,H26" playid="19,17,172" type="#" clock="15:00" tokens="Q:4 T:15:00"
+      text="Start of 4th quarter, clock 15:00." newcontext="V,2,9,H26">
+   </play>
+   <play hasball="UTEP" down="2" togo="9" spot="NMSU26" context="V,2,9,H26" playid="19,18,173" type="P" first="P" score="Y" vscore="22" hscore="30" clock="14:54" tokens="PASS:1M,C,8,H00 T:14:54"
+      text="Ryan Metz pass complete to Autrey Golden for 26 yards to the NMSU0, 1ST DOWN UTEP, TOUCHDOWN, clock 14:54." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Ryan Metz" result="COMP" rcv="Autrey Golden" gain="26"></p_pa>
+   </play>
+   <play hasball="UTEP" down="1" togo="0" spot="NMSU03" context="V,1,0,H03" playid="19,19,174" type="X" score="Y" vscore="23" hscore="30" tokens="PAT:K,47,G"
+      text="Jay Mattox kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Jay Mattox" qb="Jay Mattox" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="23" H="30"></score>
+   <play hasball="UTEP" down="1" togo="0" spot="UTEP35" context="V,1,0,V35" playid="19,20,175" tokens="SPOT:V,V35,N"
+      text="UTEP ball on UTEP35." newcontext="V,1,0,V35">
+   </play>
+   <drivesum plays="12" yards="75" top="5:35" driveindex="19" complete="Y"></drivesum>
+   <play hasball="UTEP" down="1" togo="0" spot="UTEP35" context="V,1,0,V35" playid="19,21,176" type="K" tokens="KO:47,H00 RET:1,H15 TACK:16,10"
+      text="Jay Mattox kickoff 65 yards to the NMSU0, Morgan, T return 15 yards to the NMSU15 (Alvin Jones;Jimmy Musgrave)." newcontext="H,1,10,H15">
+    <p_ko vh="V" name="Jay Mattox" gain="65"></p_ko>
+    <p_kr vh="H" name="Morgan, T" gain="15"></p_kr>
+    <p_tk vh="V" name="Alvin Jones" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jimmy Musgrave" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H15,14:54" vh="H" spot="H15" clock="14:54" driveindex="20,176"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU15" context="H,1,10,H15" playid="20,1,177" clock="14:54" tokens="{DRIVE}:14:54"
+      text="NEW MEXICO STATE drive start at 14:54." newcontext="H,1,10,H15">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU15" context="H,1,10,H15" playid="20,2,178" type="R" tokens="RUSH:3,H19, TACK:63,32"
+      text="Rose III, Larry rush for 4 yards to the NMSU19 (Gino Bresolin;Kalon Beverly)." newcontext="H,2,6,H19">
+    <p_ru vh="H" name="Rose III, Larry" gain="4"></p_ru>
+    <p_tk vh="V" name="Gino Bresolin" assist="Y"></p_tk>
+    <p_tk vh="V" name="Kalon Beverly" assist="Y"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="6" spot="NMSU19" context="H,2,6,H19" playid="20,3,179" type="P" tokens="PASS:17,D,5,*"
+      text="Rogers, Tyler pass incomplete to Taylor, Tyrain, dropped pass." newcontext="H,3,6,H19">
+    <p_pa vh="H" qb="Rogers, Tyler" result="DROP" rcv="Taylor, Tyrain"></p_pa>
+   </play>
+   <play hasball="NMSU" down="3" togo="6" spot="NMSU19" context="H,3,6,H19" playid="20,4,180" type="R" tokens="RUSH:17,H19, TACK:20 PEN:H,PF,D"
+      text="Rogers, Tyler rush for no gain to the NMSU19 (Nik Needham), PENALTY NMSU personal foul declined." newcontext="H,4,6,H19">
+    <p_ru vh="H" name="Rogers, Tyler" gain="0"></p_ru>
+    <p_tk vh="V" name="Nik Needham"></p_tk>
+    <p_pn vh="H" code="PF" type="personal foul" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="NMSU" down="4" togo="6" spot="NMSU19" context="H,4,6,H19" playid="20,5,181" type="U" score="Y" vscore="29" hscore="30" clock="13:28" tokens="PUNT:96,V36 RET:9,H00 T:13:28"
+      text="Torres, Anthony punt 45 yards to the UTEP36, Jaquan White return 64 yards to the NMSU0, TOUCHDOWN, clock 13:28." newcontext="V,1,0,H03">
+    <p_pu vh="H" name="Torres, Anthony" gain="45"></p_pu>
+    <p_pr vh="V" name="Jaquan White" gain="64"></p_pr>
+   </play>
+   <drivesum plays="3" yards="4" top="1:26" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="V,H03,13:28" vh="V" spot="H03" clock="13:28" driveindex="21,181"></drivestart>
+   <play hasball="UTEP" down="1" togo="0" spot="NMSU03" context="V,1,0,H03" playid="21,1,182" type="X" score="Y" vscore="30" hscore="30" tokens="PAT:K,47,G"
+      text="Jay Mattox kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Jay Mattox" qb="Jay Mattox" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="30" H="30"></score>
+   <play hasball="UTEP" down="1" togo="0" spot="UTEP35" context="V,1,0,V35" playid="21,2,183" tokens="SPOT:V,V35,N"
+      text="UTEP ball on UTEP35." newcontext="V,1,0,V35">
+   </play>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="21" complete="Y"></drivesum>
+   <play hasball="UTEP" down="1" togo="0" spot="UTEP35" context="V,1,0,V35" playid="21,3,184" type="K" tokens="KO:47,H00 TB:"
+      text="Jay Mattox kickoff 65 yards to the NMSU0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Jay Mattox" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,13:28" vh="H" spot="H25" clock="13:28" driveindex="22,184"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU25" context="H,1,10,H25" playid="22,1,185" clock="13:28" tokens="{DRIVE}:13:28"
+      text="NEW MEXICO STATE drive start at 13:28." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU25" context="H,1,10,H25" playid="22,2,186" type="E" tokens="PASS:17,I,5,* PEN:H,PI,A,5,H13,N NOPLAY:"
+      text="Rogers, Tyler pass incomplete to Taylor, Tyrain, PENALTY NMSU pass interference (Taylor, Tyrain) 12 yards to the NMSU13, NO PLAY." newcontext="H,1,22,H13">
+    <p_pn vh="H" code="PI" type="pass interference" name="Taylor, Tyrain" result="ACCEPT" at="H25" yards="12"></p_pn>
+   </play>
+   <play hasball="NMSU" down="1" togo="22" spot="NMSU13" context="H,1,22,H13" playid="22,3,187" type="R" tokens="RUSH:3,H16, TACK:43"
+      text="Rose III, Larry rush for 3 yards to the NMSU16 (Roy Robertson)." newcontext="H,2,19,H16">
+    <p_ru vh="H" name="Rose III, Larry" gain="3"></p_ru>
+    <p_tk vh="V" name="Roy Robertson"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="19" spot="NMSU16" context="H,2,19,H16" playid="22,4,188" type="#" clock="13:01" tokens="T:13:01"
+      text="Clock 13:01." newcontext="H,2,19,H16">
+   </play>
+   <play hasball="NMSU" down="2" togo="19" spot="NMSU16" context="H,2,19,H16" playid="22,5,189" type="P" tokens="PASS:17,I,1,* PEN:H,PI,D"
+      text="Rogers, Tyler pass incomplete to Morgan, T, PENALTY NMSU pass interference declined." newcontext="H,3,19,H16">
+    <p_pa vh="H" qb="Rogers, Tyler" result="INC" rcv="Morgan, T"></p_pa>
+    <p_pn vh="H" code="PI" type="pass interference" name="Morgan, T" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="NMSU" down="3" togo="19" spot="NMSU16" context="H,3,19,H16" playid="22,6,190" type="P" turnover="I" tokens="PASS:17,X,8F,H35 RET:8F,H35 TACK:17 PEN:V,BL,A,2,H45,N D:1,10 SPOT:V,H45,Y"
+      text="Rogers, Tyler pass intercepted by K. Fisher Jr at the NMSU35, K. Fisher Jr return 0 yards to the NMSU35 (Rogers, Tyler), PENALTY UTEP illegal block (I. Harrison) 10 yards to the NMSU45, 1st and 10, UTEP ball on NMSU45." newcontext="V,1,10,H45">
+    <p_pa vh="H" qb="Rogers, Tyler" result="INT"></p_pa>
+    <p_ir vh="V" name="K. Fisher Jr" at="H35" gain="0"></p_ir>
+    <p_tk vh="H" name="Rogers, Tyler"></p_tk>
+    <p_pn vh="V" code="BL" type="illegal block" name="I. Harrison" result="ACCEPT" at="H35" yards="10"></p_pn>
+   </play>
+   <drivesum plays="3" yards="-9" top="1:01" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="V,H45,12:27" vh="V" spot="H45" clock="12:27" driveindex="23,190"></drivestart>
+   <play hasball="UTEP" down="1" togo="10" spot="NMSU45" context="V,1,10,H45" playid="23,1,191" clock="12:27" tokens="{DRIVE}:12:27"
+      text="UTEP drive start at 12:27." newcontext="V,1,10,H45">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="NMSU45" context="V,1,10,H45" playid="23,2,192" type="R" tokens="RUSH:4,H41, TACK:1D"
+      text="J. Laufasa rush for 4 yards to the NMSU41 (Nwangwa, Jacob)." newcontext="V,2,6,H41">
+    <p_ru vh="V" name="J. Laufasa" gain="4"></p_ru>
+    <p_tk vh="H" name="Nwangwa, Jacob"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="6" spot="NMSU41" context="V,2,6,H41" playid="23,3,193" type="R" tokens="RUSH:14,H39, TACK:3D,53"
+      text="Kavika Johnson rush for 2 yards to the NMSU39 (Ibekwe, Derek;Butler, Rodney)." newcontext="V,3,4,H39">
+    <p_ru vh="V" name="Kavika Johnson" gain="2"></p_ru>
+    <p_tk vh="H" name="Ibekwe, Derek" assist="Y"></p_tk>
+    <p_tk vh="H" name="Butler, Rodney" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="3" togo="4" spot="NMSU39" context="V,3,4,H39" playid="23,4,194" type="#" clock="11:08" tokens="TOUT:V T:11:08"
+      text="Timeout UTEP, clock 11:08." newcontext="V,3,4,H39">
+    <p_to vh="V" team="UTEP"></p_to>
+   </play>
+   <play hasball="UTEP" down="3" togo="4" spot="NMSU39" context="V,3,4,H39" playid="23,5,195" type="R" tokens="RUSH:7,H38, TACK:3D,42"
+      text="L. Dowell rush for 1 yard to the NMSU38 (Ibekwe, Derek;Hood, Jonathan)." newcontext="V,4,3,H38">
+    <p_ru vh="V" name="L. Dowell" gain="1"></p_ru>
+    <p_tk vh="H" name="Ibekwe, Derek" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hood, Jonathan" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="4" togo="3" spot="NMSU38" context="V,4,3,H38" playid="23,6,196" type="U" tokens="PUNT:46,H05 DN:"
+      text="Alan Luna punt 33 yards to the NMSU5, downed." newcontext="H,1,10,H05">
+    <p_pu vh="V" name="Alan Luna" gain="33" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="7" top="2:11" driveindex="23" complete="Y"></drivesum>
+   <drivestart poss="H,H05,10:16" vh="H" spot="H05" clock="10:16" driveindex="24,196"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU05" context="H,1,10,H05" playid="24,1,197" clock="10:16" tokens="{DRIVE}:10:16"
+      text="NEW MEXICO STATE drive start at 10:16." newcontext="H,1,10,H05">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU05" context="H,1,10,H05" playid="24,2,198" type="R" first="R" tokens="RUSH:3,V13, TACK:43"
+      text="Rose III, Larry rush for 82 yards to the UTEP13, 1ST DOWN NMSU (Roy Robertson)." newcontext="H,1,10,V13">
+    <p_ru vh="H" name="Rose III, Larry" gain="82"></p_ru>
+    <p_tk vh="V" name="Roy Robertson"></p_tk>
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="UTEP13" context="H,1,10,V13" playid="24,3,199" type="P" first="P" score="Y" vscore="30" hscore="36" clock="09:34" tokens="PASS:17,C,5,V00 T:09:34"
+      text="Rogers, Tyler pass complete to Taylor, Tyrain for 13 yards to the UTEP0, 1ST DOWN NMSU, TOUCHDOWN, clock 09:34." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Rogers, Tyler" result="COMP" rcv="Taylor, Tyrain" gain="13"></p_pa>
+   </play>
+   <play hasball="NMSU" down="1" togo="0" spot="UTEP03" context="H,1,0,V03" playid="24,4,200" type="X" score="Y" vscore="30" hscore="37" tokens="PAT:K,24,G"
+      text="Slater, Sy kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Slater, Sy" qb="Slater, Sy" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="30" H="37"></score>
+   <play hasball="NMSU" down="1" togo="0" spot="NMSU35" context="H,1,0,H35" playid="24,5,201" tokens="SPOT:H,H35,N"
+      text="NMSU ball on NMSU35." newcontext="H,1,0,H35">
+   </play>
+   <drivesum plays="2" yards="95" top="0:42" driveindex="24" complete="Y"></drivesum>
+   <play hasball="NMSU" down="1" togo="0" spot="NMSU35" context="H,1,0,H35" playid="24,6,202" type="K" tokens="KO:24,V00 TB:"
+      text="Slater, Sy kickoff 65 yards to the UTEP0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Slater, Sy" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,09:34" vh="V" spot="V25" clock="09:34" driveindex="25,202"></drivestart>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP25" context="V,1,10,V25" playid="25,1,203" clock="09:34" tokens="{DRIVE}:09:34"
+      text="UTEP drive start at 09:34." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP25" context="V,1,10,V25" playid="25,2,204" type="P" tokens="PASS:1M,C,25,V33 OB: TACK:21"
+      text="Ryan Metz pass complete to Sloan Spiller for 8 yards to the UTEP33, out-of-bounds (Wright, Jaden)." ob="Y" newcontext="V,2,2,V33">
+    <p_pa vh="V" qb="Ryan Metz" result="COMP" rcv="Sloan Spiller" gain="8"></p_pa>
+    <p_tk vh="H" name="Wright, Jaden"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="2" spot="UTEP33" context="V,2,2,V33" playid="25,3,205" type="R" tokens="RUSH:14,V34, TACK:21,3D"
+      text="Kavika Johnson rush for 1 yard to the UTEP34 (Wright, Jaden;Ibekwe, Derek)." newcontext="V,3,1,V34">
+    <p_ru vh="V" name="Kavika Johnson" gain="1"></p_ru>
+    <p_tk vh="H" name="Wright, Jaden" assist="Y"></p_tk>
+    <p_tk vh="H" name="Ibekwe, Derek" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="3" togo="1" spot="UTEP34" context="V,3,1,V34" playid="25,4,206" type="R" tokens="RUSH:15,V33, TACK:53"
+      text="Darrin Laufasa rush for loss of 1 yard to the UTEP33 (Butler, Rodney)." newcontext="V,4,2,V33">
+    <p_ru vh="V" name="Darrin Laufasa" gain="-1"></p_ru>
+    <p_tk vh="H" name="Butler, Rodney"></p_tk>
+   </play>
+   <play hasball="UTEP" down="4" togo="2" spot="UTEP33" context="V,4,2,V33" playid="25,5,207" type="U" tokens="PUNT:46,H18 DN:"
+      text="Alan Luna punt 49 yards to the NMSU18, downed." newcontext="H,1,10,H18">
+    <p_pu vh="V" name="Alan Luna" gain="49" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="8" top="1:59" driveindex="25" complete="Y"></drivesum>
+   <drivestart poss="H,H18,07:35" vh="H" spot="H18" clock="07:35" driveindex="26,207"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU18" context="H,1,10,H18" playid="26,1,208" clock="07:35" tokens="{DRIVE}:07:35"
+      text="NEW MEXICO STATE drive start at 07:35." newcontext="H,1,10,H18">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU18" context="H,1,10,H18" playid="26,2,209" type="R" tokens="RUSH:3,H23, TACK:20"
+      text="Rose III, Larry rush for 5 yards to the NMSU23 (Nik Needham)." newcontext="H,2,5,H23">
+    <p_ru vh="H" name="Rose III, Larry" gain="5"></p_ru>
+    <p_tk vh="V" name="Nik Needham"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="5" spot="NMSU23" context="H,2,5,H23" playid="26,3,210" type="R" first="R" tokens="RUSH:3,V50, OB: TACK:1"
+      text="Rose III, Larry rush for 27 yards to the 50 yardline, 1ST DOWN NMSU, out-of-bounds (Trent Trammell)." ob="Y" newcontext="H,1,10,H50">
+    <p_ru vh="H" name="Rose III, Larry" gain="27"></p_ru>
+    <p_tk vh="V" name="Trent Trammell"></p_tk>
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU50" context="H,1,10,H50" playid="26,4,211" type="R" tokens="RUSH:22,V44, TACK:92"
+      text="Hall, Xavier rush for 6 yards to the UTEP44 (Alex Villarreal)." newcontext="H,2,4,V44">
+    <p_ru vh="H" name="Hall, Xavier" gain="6"></p_ru>
+    <p_tk vh="V" name="Alex Villarreal"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="4" spot="UTEP44" context="H,2,4,V44" playid="26,5,212" type="R" tokens="RUSH:22,V42, TACK:13,43"
+      text="Hall, Xavier rush for 2 yards to the UTEP42 (Mookie Carlile;Roy Robertson)." newcontext="H,3,2,V42">
+    <p_ru vh="H" name="Hall, Xavier" gain="2"></p_ru>
+    <p_tk vh="V" name="Mookie Carlile" assist="Y"></p_tk>
+    <p_tk vh="V" name="Roy Robertson" assist="Y"></p_tk>
+   </play>
+   <play hasball="NMSU" down="3" togo="2" spot="UTEP42" context="H,3,2,V42" playid="26,6,213" type="R" first="R" tokens="RUSH:22,V23, TACK:12"
+      text="Hall, Xavier rush for 19 yards to the UTEP23, 1ST DOWN NMSU (Adrian Hynson)." newcontext="H,1,10,V23">
+    <p_ru vh="H" name="Hall, Xavier" gain="19"></p_ru>
+    <p_tk vh="V" name="Adrian Hynson"></p_tk>
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="UTEP23" context="H,1,10,V23" playid="26,7,214" type="R" tokens="RUSH:3,V19, TACK:13,92"
+      text="Rose III, Larry rush for 4 yards to the UTEP19 (Mookie Carlile;Alex Villarreal)." newcontext="H,2,6,V19">
+    <p_ru vh="H" name="Rose III, Larry" gain="4"></p_ru>
+    <p_tk vh="V" name="Mookie Carlile" assist="Y"></p_tk>
+    <p_tk vh="V" name="Alex Villarreal" assist="Y"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="6" spot="UTEP19" context="H,2,6,V19" playid="26,8,215" type="P" first="P" score="Y" vscore="30" hscore="43" clock="04:07" tokens="PASS:17,C,1,V00 T:04:07"
+      text="Rogers, Tyler pass complete to Morgan, T for 19 yards to the UTEP0, 1ST DOWN NMSU, TOUCHDOWN, clock 04:07." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Rogers, Tyler" result="COMP" rcv="Morgan, T" gain="19"></p_pa>
+   </play>
+   <play hasball="NMSU" down="1" togo="0" spot="UTEP03" context="H,1,0,V03" playid="26,9,216" type="X" score="Y" vscore="30" hscore="44" tokens="PAT:K,24,G"
+      text="Slater, Sy kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Slater, Sy" qb="Slater, Sy" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="30" H="44"></score>
+   <drivesum plays="7" yards="82" top="3:28" driveindex="26" complete="Y"></drivesum>
+   <play hasball="NMSU" down="1" togo="0" spot="NMSU35" context="H,1,0,H35" playid="26,10,217" type="K" tokens="KO:24,V00 TB:"
+      text="Slater, Sy kickoff 65 yards to the UTEP0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Slater, Sy" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,04:07" vh="V" spot="V25" clock="04:07" driveindex="27,217"></drivestart>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP25" context="V,1,10,V25" playid="27,1,218" clock="04:07" tokens="{DRIVE}:04:07"
+      text="UTEP drive start at 04:07." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP25" context="V,1,10,V25" playid="27,2,219" type="E" first="E" tokens="PASS:1M,B,83,* BRUP:1C PEN:H,PI,A,1C,V40,1 NOPLAY:"
+      text="Ryan Metz pass incomplete to Tyler Batson (Owens, DeMarcus), PENALTY NMSU pass interference (Owens, DeMarcus) 15 yards to the UTEP40, 1ST DOWN UTEP, NO PLAY." newcontext="V,1,10,V40">
+    <p_pn vh="H" code="PI" type="pass interference" name="Owens, DeMarcus" result="ACCEPT" at="V25" yards="15"></p_pn>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP40" context="V,1,10,V40" playid="27,3,220" type="P" tokens="PASS:1M,C,4,V46 TACK:21"
+      text="Ryan Metz pass complete to J. Laufasa for 6 yards to the UTEP46 (Wright, Jaden)." newcontext="V,2,4,V46">
+    <p_pa vh="V" qb="Ryan Metz" result="COMP" rcv="J. Laufasa" gain="6"></p_pa>
+    <p_tk vh="H" name="Wright, Jaden"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="4" spot="UTEP46" context="V,2,4,V46" playid="27,4,221" type="P" first="P" clock="03:35" tokens="T:03:35 PASS:1M,C,83,H48 OB: TACK:1C"
+      text="Clock 03:35, Ryan Metz pass complete to Tyler Batson for 6 yards to the NMSU48, 1ST DOWN UTEP, out-of-bounds (Owens, DeMarcus)." ob="Y" newcontext="V,1,10,H48">
+    <p_pa vh="V" qb="Ryan Metz" result="COMP" rcv="Tyler Batson" gain="6"></p_pa>
+    <p_tk vh="H" name="Owens, DeMarcus"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="NMSU48" context="V,1,10,H48" playid="27,5,222" type="P" first="P" score="Y" vscore="36" hscore="44" clock="03:08" tokens="T:03:17 PASS:1M,C,84,H00 T:03:08"
+      text="Clock 03:17, Ryan Metz pass complete to Cole Freytag for 48 yards to the NMSU0, 1ST DOWN UTEP, TOUCHDOWN, clock 03:08." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Ryan Metz" result="COMP" rcv="Cole Freytag" gain="48"></p_pa>
+   </play>
+   <play hasball="UTEP" down="1" togo="0" spot="NMSU03" context="V,1,0,H03" playid="27,6,223" type="X" score="Y" vscore="37" hscore="44" tokens="PAT:K,47,G"
+      text="Jay Mattox kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Jay Mattox" qb="Jay Mattox" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="37" H="44"></score>
+   <drivesum plays="3" yards="75" top="0:59" driveindex="27" complete="Y"></drivesum>
+   <play hasball="UTEP" down="1" togo="0" spot="UTEP35" context="V,1,0,V35" playid="27,7,224" type="K" tokens="KO:47,H00 TB:"
+      text="Jay Mattox kickoff 65 yards to the NMSU0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Jay Mattox" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,03:08" vh="H" spot="H25" clock="03:08" driveindex="28,224"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU25" context="H,1,10,H25" playid="28,1,225" clock="03:08" tokens="{DRIVE}:03:08"
+      text="NEW MEXICO STATE drive start at 03:08." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU25" context="H,1,10,H25" playid="28,2,226" type="R" tokens="RUSH:17,H30, TACK:2,32"
+      text="Rogers, Tyler rush for 5 yards to the NMSU30 (I. Harrison;Kalon Beverly)." newcontext="H,2,5,H30">
+    <p_ru vh="H" name="Rogers, Tyler" gain="5"></p_ru>
+    <p_tk vh="V" name="I. Harrison" assist="Y"></p_tk>
+    <p_tk vh="V" name="Kalon Beverly" assist="Y"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="5" spot="NMSU30" context="H,2,5,H30" playid="28,3,227" type="R" clock="02:29" tokens="T:02:29 RUSH:3,H31, TACK:16,63"
+      text="Clock 02:29, Rose III, Larry rush for 1 yard to the NMSU31 (Alvin Jones;Gino Bresolin)." newcontext="H,3,4,H31">
+    <p_ru vh="H" name="Rose III, Larry" gain="1"></p_ru>
+    <p_tk vh="V" name="Alvin Jones" assist="Y"></p_tk>
+    <p_tk vh="V" name="Gino Bresolin" assist="Y"></p_tk>
+   </play>
+   <play hasball="NMSU" down="3" togo="4" spot="NMSU31" context="H,3,4,H31" playid="28,4,228" type="#" clock="02:22" tokens="TOUT:V T:02:22"
+      text="Timeout UTEP, clock 02:22." newcontext="H,3,4,H31">
+    <p_to vh="V" team="UTEP"></p_to>
+   </play>
+   <play hasball="NMSU" down="3" togo="4" spot="NMSU31" context="H,3,4,H31" playid="28,5,229" type="P" tokens="PASS:17,C,3,H34 TACK:10"
+      text="Rogers, Tyler pass complete to Rose III, Larry for 3 yards to the NMSU34 (Jimmy Musgrave)." newcontext="H,4,1,H34">
+    <p_pa vh="H" qb="Rogers, Tyler" result="COMP" rcv="Rose III, Larry" gain="3"></p_pa>
+    <p_tk vh="V" name="Jimmy Musgrave"></p_tk>
+   </play>
+   <play hasball="NMSU" down="4" togo="1" spot="NMSU34" context="H,4,1,H34" playid="28,6,230" type="#" clock="02:13" tokens="TOUT:V T:02:13"
+      text="Timeout UTEP, clock 02:13." newcontext="H,4,1,H34">
+    <p_to vh="V" team="UTEP"></p_to>
+   </play>
+   <play hasball="NMSU" down="4" togo="1" spot="NMSU34" context="H,4,1,H34" playid="28,7,231" type="U" tokens="PUNT:96,V02 DN:"
+      text="Torres, Anthony punt 64 yards to the UTEP2, downed." newcontext="V,1,10,V02">
+    <p_pu vh="H" name="Torres, Anthony" gain="64" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="9" top="1:07" driveindex="28" complete="Y"></drivesum>
+   <drivestart poss="V,V02,02:01" vh="V" spot="V02" clock="02:01" driveindex="29,231"></drivestart>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP02" context="V,1,10,V02" playid="29,1,232" clock="02:01" tokens="{DRIVE}:02:01"
+      text="UTEP drive start at 02:01." newcontext="V,1,10,V02">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP02" context="V,1,10,V02" playid="29,2,233" type="E" first="E" tokens="PASS:1M,I,83,* PEN:H,PI,A,29,V17,1 NOPLAY:"
+      text="Ryan Metz pass incomplete to Tyler Batson, PENALTY NMSU pass interference (Hill, Lewis) 15 yards to the UTEP17, 1ST DOWN UTEP, NO PLAY." newcontext="V,1,10,V17">
+    <p_pn vh="H" code="PI" type="pass interference" name="Hill, Lewis" result="ACCEPT" at="V02" yards="15"></p_pn>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP17" context="V,1,10,V17" playid="29,3,234" type="P" first="P" clock="01:55" tokens="T:01:55 PASS:1M,C,84,V27 OB:"
+      text="Clock 01:55, Ryan Metz pass complete to Cole Freytag for 10 yards to the UTEP27, 1ST DOWN UTEP, out-of-bounds." ob="Y" newcontext="V,1,10,V27">
+    <p_pa vh="V" qb="Ryan Metz" result="COMP" rcv="Cole Freytag" gain="10"></p_pa>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP27" context="V,1,10,V27" playid="29,4,235" type="P" first="P" clock="01:51" tokens="T:01:51 PASS:1M,C,4,V37 OB: TACK:4D"
+      text="Clock 01:51, Ryan Metz pass complete to J. Laufasa for 10 yards to the UTEP37, 1ST DOWN UTEP, out-of-bounds (Rose, Winston)." ob="Y" newcontext="V,1,10,V37">
+    <p_pa vh="V" qb="Ryan Metz" result="COMP" rcv="J. Laufasa" gain="10"></p_pa>
+    <p_tk vh="H" name="Rose, Winston"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP37" context="V,1,10,V37" playid="29,5,236" type="P" first="P" clock="01:45" tokens="T:01:45 PASS:1M,C,83,H33 OB:"
+      text="Clock 01:45, Ryan Metz pass complete to Tyler Batson for 30 yards to the NMSU33, 1ST DOWN UTEP, out-of-bounds." ob="Y" newcontext="V,1,10,H33">
+    <p_pa vh="V" qb="Ryan Metz" result="COMP" rcv="Tyler Batson" gain="30"></p_pa>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="NMSU33" context="V,1,10,H33" playid="29,6,237" type="#" clock="01:38" tokens="T:01:38"
+      text="Clock 01:38." newcontext="V,1,10,H33">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="NMSU33" context="V,1,10,H33" playid="29,7,238" type="P" first="P" tokens="PASS:1M,C,83,H23 TACK:4D"
+      text="Ryan Metz pass complete to Tyler Batson for 10 yards to the NMSU23, 1ST DOWN UTEP (Rose, Winston)." newcontext="V,1,10,H23">
+    <p_pa vh="V" qb="Ryan Metz" result="COMP" rcv="Tyler Batson" gain="10"></p_pa>
+    <p_tk vh="H" name="Rose, Winston"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="NMSU23" context="V,1,10,H23" playid="29,8,239" type="P" clock="01:33" tokens="T:01:33 PASS:1M,B,84,* BRUP:29"
+      text="Clock 01:33, Ryan Metz pass incomplete to Cole Freytag (Hill, Lewis)." newcontext="V,2,10,H23">
+    <p_pa vh="V" qb="Ryan Metz" result="BRUP" rcv="Cole Freytag"></p_pa>
+    <p_bu vh="H" name="Hill, Lewis"></p_bu>
+   </play>
+   <play hasball="UTEP" down="2" togo="10" spot="NMSU23" context="V,2,10,H23" playid="29,9,240" type="P" clock="01:25" tokens="T:01:25 PASS:1M,I,84,* QBH:H,99"
+      text="Clock 01:25, Ryan Metz pass incomplete to Cole Freytag, QB hurry by Meredith, S." newcontext="V,3,10,H23">
+    <p_pa vh="V" qb="Ryan Metz" result="INC" rcv="Cole Freytag"></p_pa>
+    <p_qbh vh="H" name="Meredith, S"></p_qbh>
+   </play>
+   <play hasball="UTEP" down="3" togo="10" spot="NMSU23" context="V,3,10,H23" playid="29,10,241" type="P" first="P" clock="01:19" tokens="T:01:19 PASS:1M,C,83,H08 TACK:21"
+      text="Clock 01:19, Ryan Metz pass complete to Tyler Batson for 15 yards to the NMSU8, 1ST DOWN UTEP (Wright, Jaden)." newcontext="V,1,0,H08">
+    <p_pa vh="V" qb="Ryan Metz" result="COMP" rcv="Tyler Batson" gain="15"></p_pa>
+    <p_tk vh="H" name="Wright, Jaden"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="0" spot="NMSU08" context="V,1,0,H08" playid="29,11,242" type="R" score="Y" vscore="43" hscore="44" clock="00:42" tokens="T:00:47 RUSH:1M,H00, T:00:42"
+      text="Clock 00:47, Ryan Metz rush for 8 yards to the NMSU0, TOUCHDOWN, clock 00:42." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Ryan Metz" gain="8"></p_ru>
+   </play>
+   <play hasball="UTEP" down="1" togo="0" spot="NMSU03" context="V,1,0,H03" playid="29,12,243" type="X" score="Y" vscore="44" hscore="44" tokens="PAT:K,47,G"
+      text="Jay Mattox kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Jay Mattox" qb="Jay Mattox" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="44" H="44"></score>
+   <drivesum plays="8" yards="98" top="1:19" driveindex="29" complete="Y"></drivesum>
+   <play hasball="UTEP" down="1" togo="0" spot="UTEP35" context="V,1,0,V35" playid="29,13,244" type="K" tokens="KO:47,H00 TB:"
+      text="Jay Mattox kickoff 65 yards to the NMSU0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Jay Mattox" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,00:42" vh="H" spot="H25" clock="00:42" driveindex="30,244"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU25" context="H,1,10,H25" playid="30,1,245" clock="00:42" tokens="{DRIVE}:00:42"
+      text="NEW MEXICO STATE drive start at 00:42." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU25" context="H,1,10,H25" playid="30,2,246" type="R" tokens="RUSH:17,H34, OB: TACK:3R"
+      text="Rogers, Tyler rush for 9 yards to the NMSU34, out-of-bounds (Traun Roberson)." ob="Y" newcontext="H,2,1,H34">
+    <p_ru vh="H" name="Rogers, Tyler" gain="9"></p_ru>
+    <p_tk vh="V" name="Traun Roberson"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="1" spot="NMSU34" context="H,2,1,H34" playid="30,3,247" type="P" first="P" clock="00:38" tokens="T:00:38 PASS:17,C,11,H46 OB: TACK:3R"
+      text="Clock 00:38, Rogers, Tyler pass complete to Bergstrom, J for 12 yards to the NMSU46, 1ST DOWN NMSU, out-of-bounds (Traun Roberson)." ob="Y" newcontext="H,1,10,H46">
+    <p_pa vh="H" qb="Rogers, Tyler" result="COMP" rcv="Bergstrom, J" gain="12"></p_pa>
+    <p_tk vh="V" name="Traun Roberson"></p_tk>
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU46" context="H,1,10,H46" playid="30,4,248" type="P" clock="00:33" tokens="T:00:33 PASS:17,I,5,*"
+      text="Clock 00:33, Rogers, Tyler pass incomplete to Taylor, Tyrain." newcontext="H,2,10,H46">
+    <p_pa vh="H" qb="Rogers, Tyler" result="INC" rcv="Taylor, Tyrain"></p_pa>
+   </play>
+   <play hasball="NMSU" down="2" togo="10" spot="NMSU46" context="H,2,10,H46" playid="30,5,249" type="P" clock="00:26" tokens="T:00:26 PASS:17,I,1,*"
+      text="Clock 00:26, Rogers, Tyler pass incomplete to Morgan, T." newcontext="H,3,10,H46">
+    <p_pa vh="H" qb="Rogers, Tyler" result="INC" rcv="Morgan, T"></p_pa>
+   </play>
+   <play hasball="NMSU" down="3" togo="10" spot="NMSU46" context="H,3,10,H46" playid="30,6,250" type="R" first="R" clock="00:20" tokens="T:00:20 RUSH:3,V43, TACK:43,2"
+      text="Clock 00:20, Rose III, Larry rush for 11 yards to the UTEP43, 1ST DOWN NMSU (Roy Robertson;I. Harrison)." newcontext="H,1,10,V43">
+    <p_ru vh="H" name="Rose III, Larry" gain="11"></p_ru>
+    <p_tk vh="V" name="Roy Robertson" assist="Y"></p_tk>
+    <p_tk vh="V" name="I. Harrison" assist="Y"></p_tk>
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="UTEP43" context="H,1,10,V43" playid="30,7,251" type="#" clock="00:15" tokens="TOUT:H T:00:15"
+      text="Timeout New Mexico State, clock 00:15." newcontext="H,1,10,V43">
+    <p_to vh="H" team="New Mexico State"></p_to>
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="UTEP43" context="H,1,10,V43" playid="30,8,252" type="P" tokens="PASS:17,I,6,*"
+      text="Rogers, Tyler pass incomplete to Bowen, Joshua." newcontext="H,2,10,V43">
+    <p_pa vh="H" qb="Rogers, Tyler" result="INC" rcv="Bowen, Joshua"></p_pa>
+   </play>
+   <play hasball="NMSU" down="2" togo="10" spot="UTEP43" context="H,2,10,V43" playid="30,9,253" type="P" clock="00:10" tokens="T:00:10 PASS:17,I,11,*"
+      text="Clock 00:10, Rogers, Tyler pass incomplete to Bergstrom, J." newcontext="H,3,10,V43">
+    <p_pa vh="H" qb="Rogers, Tyler" result="INC" rcv="Bergstrom, J"></p_pa>
+   </play>
+   <play hasball="NMSU" down="3" togo="10" spot="UTEP43" context="H,3,10,V43" playid="30,10,254" type="P" clock="00:05" tokens="T:00:05 PASS:17,I,5,*"
+      text="Clock 00:05, Rogers, Tyler pass incomplete to Taylor, Tyrain." newcontext="H,4,10,V43">
+    <p_pa vh="H" qb="Rogers, Tyler" result="INC" rcv="Taylor, Tyrain"></p_pa>
+   </play>
+   <score qtr="4" V="44" H="44"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UTEP">
+    <firstdowns no="10" rush="0" pass="8" penalty="2"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="3" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:34"></misc>
+    <rush att="6" yds="15" gain="16" loss="1" td="1" long="0"></rush>
+    <pass comp="10" att="12" int="0" yds="169" td="2" long="27" sacks="0" sackyds="0"></pass>
+    <rcv no="10" yds="169" td="2" long="27"></rcv>
+    <punt no="2" yds="82" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="2" avg="41.0"></punt>
+    <ko no="4" yds="260" ob="0" tb="3"></ko>
+    <pat kickatt="4" kickmade="4"></pat>
+    <defense tackua="10" tacka="14" tot_tack="24" sacks="0" sackyds="0" int="1" intyds="0"></defense>
+    <pr no="1" yds="64" td="1" long="64"></pr>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <scoring td="4" patkick="4"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="NMSU">
+    <firstdowns no="7" rush="4" pass="3" penalty="0"></firstdowns>
+    <penalties no="3" yds="42"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:26"></misc>
+    <rush att="14" yds="178" gain="178" loss="0" td="0" long="67"></rush>
+    <pass comp="4" att="12" int="1" yds="47" td="2" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="47" td="2" long="0"></rcv>
+    <punt no="2" yds="109" long="9" blkd="0" tb="0" fc="0" plus50="1" inside20="1" avg="54.5"></punt>
+    <ko no="2" yds="130" ob="0" tb="2"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="9" tacka="6" tot_tack="15" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" brup="1" qbh="1"></defense>
+    <kr no="1" yds="15" td="0" long="1"></kr>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="5" text="OT">
+   <comment text="UTEP wins toss, chooses defense. NM State chose to play South end."></comment>
+   <play hasball="NMSU" down="4" togo="10" spot="UTEP43" context="H,4,10,V43" playid="30,11,255" type="#" clock="15:00" tokens="Q:5 T:15:00"
+      text="Start of OT  quarter, clock 15:00." newcontext="H,4,10,V43">
+   </play>
+   <play hasball="NMSU" down="4" togo="10" spot="UTEP43" context="H,4,10,V43" playid="30,12,257" tokens="POSS: SPOT:H,V35,Y D:1,10"
+      text="Change of possession, NMSU ball on UTEP35, 1st and 10." newcontext="H,1,10,V35">
+   </play>
+   <drivesum plays="8" yards="32" top="0:42" driveindex="30" complete="Y"></drivesum>
+   <drivestart poss="H,V35,15:00" vh="H" spot="V35" clock="15:00" driveindex="31,257"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="UTEP35" context="H,1,10,V35" playid="31,1,258" type="R" tokens="RUSH:3,V26, TACK:36"
+      text="Rose III, Larry rush for 9 yards to the UTEP26 (Nick Usher)." newcontext="H,2,1,V26">
+    <p_ru vh="H" name="Rose III, Larry" gain="9"></p_ru>
+    <p_tk vh="V" name="Nick Usher"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="1" spot="UTEP26" context="H,2,1,V26" playid="31,2,259" tokens="SPOT:H,V26,N"
+      text="NMSU ball on UTEP26." newcontext="H,2,1,V26">
+   </play>
+   <play hasball="NMSU" down="2" togo="1" spot="UTEP26" context="H,2,1,V26" playid="31,3,260" type="P" tokens="PASS:17,I,82,*"
+      text="Rogers, Tyler pass incomplete to Atencio, Ty." newcontext="H,3,1,V26">
+    <p_pa vh="H" qb="Rogers, Tyler" result="INC" rcv="Atencio, Ty"></p_pa>
+   </play>
+   <play hasball="NMSU" down="3" togo="1" spot="UTEP26" context="H,3,1,V26" playid="31,4,261" type="R" tokens="RUSH:17,V26, TACK:32,12"
+      text="Rogers, Tyler rush for no gain to the UTEP26 (Kalon Beverly;Adrian Hynson)." newcontext="H,4,1,V26">
+    <p_ru vh="H" name="Rogers, Tyler" gain="0"></p_ru>
+    <p_tk vh="V" name="Kalon Beverly" assist="Y"></p_tk>
+    <p_tk vh="V" name="Adrian Hynson" assist="Y"></p_tk>
+   </play>
+   <play hasball="NMSU" down="4" togo="1" spot="UTEP26" context="H,4,1,V26" playid="31,5,262" type="F" score="Y" vscore="44" hscore="47" clock="15:00" tokens="FGA:24,44,G T:15:00"
+      text="Slater, Sy field goal attempt from 44 GOOD, clock 15:00." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="Slater, Sy" distance="44" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="44" H="47"></score>
+   <play hasball="NMSU" down="1" togo="0" spot="NMSU35" context="H,1,0,H35" playid="31,6,263" tokens="POSS: SPOT:V,H25,Y D:1,10"
+      text="Change of possession, UTEP ball on NMSU25, 1st and 10." newcontext="V,1,10,H25">
+   </play>
+   <drivesum plays="4" yards="9" top="0:00" driveindex="31" complete="Y"></drivesum>
+   <drivestart poss="V,H25,15:00" vh="V" spot="H25" clock="15:00" driveindex="32,263"></drivestart>
+   <play hasball="UTEP" down="1" togo="10" spot="NMSU25" context="V,1,10,H25" playid="32,1,264" type="R" tokens="RUSH:7,H25, TACK:21"
+      text="L. Dowell rush for no gain to the NMSU25 (Wright, Jaden)." newcontext="V,2,10,H25">
+    <p_ru vh="V" name="L. Dowell" gain="0"></p_ru>
+    <p_tk vh="H" name="Wright, Jaden"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="10" spot="NMSU25" context="V,2,10,H25" playid="32,2,265" tokens="D:2,10"
+      text="2nd and 10." newcontext="V,2,10,H25">
+   </play>
+   <play hasball="UTEP" down="2" togo="10" spot="NMSU25" context="V,2,10,H25" playid="32,3,266" type="P" tokens="PASS:1M,C,15,H18 TACK:4D,3D"
+      text="Ryan Metz pass complete to Darrin Laufasa for 7 yards to the NMSU18 (Rose, Winston;Ibekwe, Derek)." newcontext="V,3,3,H18">
+    <p_pa vh="V" qb="Ryan Metz" result="COMP" rcv="Darrin Laufasa" gain="7"></p_pa>
+    <p_tk vh="H" name="Rose, Winston" assist="Y"></p_tk>
+    <p_tk vh="H" name="Ibekwe, Derek" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="3" togo="3" spot="NMSU18" context="V,3,3,H18" playid="32,4,267" type="P" first="P" tokens="PASS:1M,C,9,H06 OB: TACK:29"
+      text="Ryan Metz pass complete to Jaquan White for 12 yards to the NMSU6, 1ST DOWN UTEP, out-of-bounds (Hill, Lewis)." ob="Y" newcontext="V,1,0,H06">
+    <p_pa vh="V" qb="Ryan Metz" result="COMP" rcv="Jaquan White" gain="12"></p_pa>
+    <p_tk vh="H" name="Hill, Lewis"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="0" spot="NMSU06" context="V,1,0,H06" playid="32,5,268" type="R" tokens="RUSH:4,H06, TACK:21,53"
+      text="J. Laufasa rush for no gain to the NMSU6 (Wright, Jaden;Butler, Rodney)." newcontext="V,2,0,H06">
+    <p_ru vh="V" name="J. Laufasa" gain="0"></p_ru>
+    <p_tk vh="H" name="Wright, Jaden" assist="Y"></p_tk>
+    <p_tk vh="H" name="Butler, Rodney" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="0" spot="NMSU06" context="V,2,0,H06" playid="32,6,269" type="P" score="Y" vscore="50" hscore="47" clock="15:00" tokens="PASS:1M,C,80,H00 T:15:00"
+      text="Ryan Metz pass complete to Cedrick Lang for 6 yards to the NMSU0, TOUCHDOWN, clock 15:00." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Ryan Metz" result="COMP" rcv="Cedrick Lang" gain="6"></p_pa>
+   </play>
+   <score V="50" H="47"></score>
+   <drivesum plays="5" yards="25" top="0:00" driveindex="32" complete="Y"></drivesum>
+   <score V="50" H="47"></score>
+   <qtrsummary vh="V" id="UTEP">
+    <firstdowns no="1" rush="0" pass="1" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="1" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="00:00"></misc>
+    <rush att="2" yds="0" gain="0" loss="0" td="0" long="0"></rush>
+    <pass comp="3" att="3" int="0" yds="25" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="25" td="1" long="0"></rcv>
+    <defense tackua="1" tacka="2" tot_tack="3" sacks="0" sackyds="0"></defense>
+    <scoring td="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="NMSU">
+    <firstdowns no="0" rush="0" pass="0" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="00:00"></misc>
+    <rush att="2" yds="9" gain="9" loss="0" td="0" long="0"></rush>
+    <pass comp="0" att="1" int="0" yds="0" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <fg made="1" att="1" long="6" blkd="0"></fg>
+    <defense tackua="2" tacka="4" tot_tack="6" sacks="0" sackyds="0"></defense>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="V" id="UTEP" down="1" togo="0" spot="NMSU03" context="V,1,0,H03" qtr="5" clock="00:00"
+       lastplay="Ryan Metz pass complete to Cedrick Lang for 6 yards to the NMSU0, TOUCHDOWN, clock 15:00."></downtogo>
+ </plays>
+ <message text=""></message>
+ <dnp vh="V" id="UTEP">
+  <player name="Elliot Oldham" checkname="OLDHAM,ELLIOT" uni="1O" class="JR" gp="0" code="1O"></player>
+  <player name="TK Powell" checkname="POWELL,TK" uni="1P" class="FR" gp="0" code="1P"></player>
+  <player name="Terry Juniel" checkname="JUNIEL,TERRY" uni="2J" class="SO" gp="0" code="2J"></player>
+  <player name="MOSS, Brandon" checkname="MOSS,BRANDON" uni="4M" class="JR" gp="0" code="4M"></player>
+  <player name="D. Renfro" checkname="RENFRO,D" uni="6" class="SR" gp="0" code="6"></player>
+  <player name="H. McEachern" checkname="MCEACHERN,H" uni="18" class="FR" gp="0" code="18"></player>
+  <player name="Noah Siegrist" checkname="SIEGRIST,NOAH" uni="22" class="FR" gp="0" code="22"></player>
+  <player name="Donovan Walker" checkname="WALKER,DONOVAN" uni="23" class="SO" gp="0" code="23"></player>
+  <player name="Brendan Royal" checkname="ROYAL,BRENDAN" uni="24" class="JR" gp="0" code="24"></player>
+  <player name="Justen Tatum" checkname="TATUM,JUSTEN" uni="26" class="FR" gp="0" code="26"></player>
+  <player name="Devin Cockrell" checkname="COCKRELL,DEVIN" uni="27" class="JR" gp="0" code="27"></player>
+  <player name="Aaron Jones" checkname="JONES,AARON" uni="29" class="JR" gp="0" code="29"></player>
+  <player name="Brad Zaffram" checkname="ZAFFRAM,BRAD" uni="30" class="FR" gp="0" code="30"></player>
+  <player name="Matthew Heard" checkname="HEARD,MATTHEW" uni="31" class="SR" gp="0" code="31"></player>
+  <player name="L. Montegut" checkname="MONTEGUT,L" uni="33" class="SO" gp="0" code="33"></player>
+  <player name="S. Forester" checkname="FORESTER,S" uni="34" class="FR" gp="0" code="34"></player>
+  <player name="N. Rodriguez" checkname="RODRIGUEZ,N" uni="38" class="SR" gp="0" code="38"></player>
+  <player name="Jerrell Brown" checkname="BROWN,JERRELL" uni="40" class="FR" gp="0" code="40"></player>
+  <player name="Devin Simmons" checkname="SIMMONS,DEVIN" uni="42" class="SO" gp="0" code="42"></player>
+  <player name="Omar Lloyd" checkname="LLOYD,OMAR" uni="45" class="FR" gp="0" code="45"></player>
+  <player name="Jayson VanHook" checkname="VANHOOK,JAYSON" uni="52" class="FR" gp="0" code="52"></player>
+  <player name="Johnny Jones" checkname="JONES,JOHNNY" uni="53" class="JR" gp="0" code="53"></player>
+  <player name="Mike Sota" checkname="SOTA,MIKE" uni="55" class="FR" gp="0" code="55"></player>
+  <player name="Sky Logan" checkname="LOGAN,SKY" uni="56" class="SO" gp="0" code="56"></player>
+  <player name="David Jackson" checkname="JACKSON,DAVID" uni="57" class="JR" gp="0" code="57"></player>
+  <player name="Chris Jones" checkname="JONES,CHRIS" uni="58" class="FR" gp="0" code="58"></player>
+  <player name="Chance Bishop" checkname="BISHOP,CHANCE" uni="62" class="FR" gp="0" code="62"></player>
+  <player name="Derron Gatewood" checkname="GATEWOOD,DERRON" uni="65" class="FR" gp="0" code="65"></player>
+  <player name="Erik Ramirez" checkname="RAMIREZ,ERIK" uni="71" class="SO" gp="0" code="71"></player>
+  <player name="Jerrod Brooks" checkname="BROOKS,JERROD" uni="72" class="FR" gp="0" code="72"></player>
+  <player name="Chris Thummel" checkname="THUMMEL,CHRIS" uni="73" class="SO" gp="0" code="73"></player>
+  <player name="John De La Rosa" checkname="ROSA,JOHN DE LA" uni="74" class="JR" gp="0" code="74"></player>
+  <player name="Dylan Kittrell" checkname="KITTRELL,DYLAN" uni="82" class="SO" gp="0" code="82"></player>
+  <player name="Cole Ford" checkname="FORD,COLE" uni="86" class="FR" gp="0" code="86"></player>
+  <player name="Augie Touris" checkname="TOURIS,AUGIE" uni="88" class="FR" gp="0" code="88"></player>
+  <player name="Cole Rogers" checkname="ROGERS,COLE" uni="89" class="SO" gp="0" code="89"></player>
+  <player name="Gene Hopkins" checkname="HOPKINS,GENE" uni="90" class="FR" gp="0" code="90"></player>
+  <player name="D. Richardson" checkname="RICHARDSON,D" uni="95" class="JR" gp="0" code="95"></player>
+  <player name="Brian Madunezim" checkname="MADUNEZIM,BRIAN" uni="97" class="JR" gp="0" code="97"></player>
+  <player name="Foster Dixson" checkname="DIXSON,FOSTER" uni="98" class="FR" gp="0" code="98"></player>
+  <player name="C. Richardson" checkname="RICHARDSON,C" uni="99" class="FR" gp="0" code="99"></player>
+ </dnp>
+ <dnp vh="H" id="NMSU">
+  <player name="Smith, Charles" checkname="SMITH,CHARLES" uni="1B" class="FR" gp="0" code="1B"></player>
+  <player name="Thomas-Davis Ka" checkname="KA,THOMAS-DAVIS" uni="1J" class="SR" gp="0" code="1J"></player>
+  <player name="Henrique, Dion" checkname="HENRIQUE,DION" uni="1K" class="FR" gp="0" code="1K"></player>
+  <player name="Louthan, Alex" checkname="LOUTHAN,ALEX" uni="1S" class="FR" gp="0" code="1S"></player>
+  <player name="Parnell, Travis" checkname="PARNELL,TRAVIS" uni="1G" class="JR" gp="0" code="1G"></player>
+  <player name="Wilcoxen, Tre" checkname="WILCOXEN,TRE" uni="1A" class="SO" gp="0" code="1A"></player>
+  <player name="Houston, D" checkname="HOUSTON,D" uni="2H" class="FR" gp="0" code="2H"></player>
+  <player name="Davidson, P" checkname="DAVIDSON,P" uni="2S" class="FR" gp="0" code="2S"></player>
+  <player name="Corley, Cassius" checkname="CORLEY,CASSIUS" uni="4" class="SO" gp="0" code="4"></player>
+  <player name="Gibson, C" checkname="GIBSON,C" uni="5D" class="FR" gp="0" code="5D"></player>
+  <player name="Davis III, King" checkname="DAVIS III,KING" uni="6D" class="JR" gp="0" code="6D"></player>
+  <player name="Fergurson, J" checkname="FERGURSON,J" uni="7D" class="FR" gp="0" code="7D"></player>
+  <player name="Jeanty, Nick" checkname="JEANTY,NICK" uni="12" class="FR" gp="0" code="12"></player>
+  <player name="Allen, Justin" checkname="ALLEN,JUSTIN" uni="13" class="SR" gp="0" code="13"></player>
+  <player name="Fitzpatrick, Ja" checkname="FITZPATRICK,JA" uni="14" class="FR" gp="0" code="14"></player>
+  <player name="Kowalski, Brett" checkname="KOWALSKI,BRETT" uni="15" class="FR" gp="0" code="15"></player>
+  <player name="Johnson, Kawe" checkname="JOHNSON,KAWE" uni="16" class="JR" gp="0" code="16"></player>
+  <player name="Perkins, Austin" checkname="PERKINS,AUSTIN" uni="19" class="FR" gp="0" code="19"></player>
+  <player name="Selders, J" checkname="SELDERS,J" uni="20" class="SR" gp="0" code="20"></player>
+  <player name="Oyenuga, Samuel" checkname="OYENUGA,SAMUEL" uni="25" class="SR" gp="0" code="25"></player>
+  <player name="Chatman, Iman" checkname="CHATMAN,IMAN" uni="26" class="FR" gp="0" code="26"></player>
+  <player name="Burke, King" checkname="BURKE,KING" uni="28" class="FR" gp="0" code="28"></player>
+  <player name="Ricks, Otis" checkname="RICKS,OTIS" uni="30" class="FR" gp="0" code="30"></player>
+  <player name="Rocha, Dalton" checkname="ROCHA,DALTON" uni="32" class="SO" gp="0" code="32"></player>
+  <player name="Jackson, Shane" checkname="JACKSON,SHANE" uni="36" class="FR" gp="0" code="36"></player>
+  <player name="Acosta, Chris" checkname="ACOSTA,CHRIS" uni="38" class="FR" gp="0" code="38"></player>
+  <player name="Nipp, Billy" checkname="NIPP,BILLY" uni="43" class="FR" gp="0" code="43"></player>
+  <player name="Nunez, Kennon" checkname="NUNEZ,KENNON" uni="46" class="FR" gp="0" code="46"></player>
+  <player name="Salopek, G" checkname="SALOPEK,G" uni="49" class="FR" gp="0" code="49"></player>
+  <player name="McGwire, Thomas" checkname="MCGWIRE,THOMAS" uni="51" class="SO" gp="0" code="51"></player>
+  <player name="Wilcots II, C" checkname="WILCOTS II,C" uni="52" class="FR" gp="0" code="52"></player>
+  <player name="Ueli-Faatoalia" checkname="UELI-FAATOALIA" uni="54" class="SO" gp="0" code="54"></player>
+  <player name="Anderson, S" checkname="ANDERSON,S" uni="55" class="FR" gp="0" code="55"></player>
+  <player name="Agomuo, Brandon" checkname="AGOMUO,BRANDON" uni="59" class="SO" gp="0" code="59"></player>
+  <player name="Ledoux, Nick" checkname="LEDOUX,NICK" uni="63" class="SO" gp="0" code="63"></player>
+  <player name="Bello, Tony" checkname="BELLO,TONY" uni="65" class="FR" gp="0" code="65"></player>
+  <player name="Foreman, Peter" checkname="FOREMAN,PETER" uni="72" class="JR" gp="0" code="72"></player>
+  <player name="Higgins, Keanu" checkname="HIGGINS,KEANU" uni="73" class="SO" gp="0" code="73"></player>
+  <player name="Smith, Jaymin" checkname="SMITH,JAYMIN" uni="74" class="SO" gp="0" code="74"></player>
+  <player name="Ortega, Antonio" checkname="ORTEGA,ANTONIO" uni="75" class="JR" gp="0" code="75"></player>
+  <player name="Fierro, Raymond" checkname="FIERRO,RAYMOND" uni="76" class="FR" gp="0" code="76"></player>
+  <player name="Trujillo, Brian" checkname="TRUJILLO,BRIAN" uni="78" class="FR" gp="0" code="78"></player>
+  <player name="Muse, Anthony" checkname="MUSE,ANTHONY" uni="80" class="FR" gp="0" code="80"></player>
+  <player name="Absaumoh, I." checkname="ABSAUMOH,I" uni="83" class="SR" gp="0" code="83"></player>
+  <player name="Johns, Montrice" checkname="JOHNS,MONTRICE" uni="85" class="FR" gp="0" code="85"></player>
+  <player name="Posey, Troy" checkname="POSEY,TROY" uni="86" class="SO" gp="0" code="86"></player>
+  <player name="Lottie, Izaiah" checkname="LOTTIE,IZAIAH" uni="87" class="FR" gp="0" code="87"></player>
+  <player name="Busby, K." checkname="BUSBY,K" uni="90" class="SO" gp="0" code="90"></player>
+  <player name="Nash, Garron" checkname="NASH,GARRON" uni="95" class="FR" gp="0" code="95"></player>
+  <player name="Renteria, H" checkname="RENTERIA,H" uni="97" class="FR" gp="0" code="97"></player>
+ </dnp>
+ <longplays thresh="70">
+  <longplay vh="H" id="NMSU" yds="82" play="RUSH" players="Rose III, Larry" td="N"></longplay>
+  <longplay vh="H" id="NMSU" yds="78" play="PASS" players="Rogers, Tyler to Morgan, T" td="N"></longplay>
+ </longplays>
+</fbgame>

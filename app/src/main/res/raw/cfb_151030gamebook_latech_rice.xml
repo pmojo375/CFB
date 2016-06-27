@@ -1,0 +1,1516 @@
+<fbgame source="Tas Football" version="4.16.07" generated="11/1/2015">
+ <venue gameid="LT_RICE" visid="LATECH" homeid="RICE" visname="Louisiana Tech" homename="Rice"
+      date="10/30/2015" location="Houston, Texas" stadium="Rice Stadium"
+      start="7:00 pm" end="10:14 pm" leaguegame="Y" nitegame="Y"
+      duration="3:14" attend="18010" temp="75 F" wind="19 SE" weather="71% Humidity">
+  <officials ref="Rodney Burnette" ump="Sheldon Davis" line="Bryan Baker" lj="Josh Fath" bj="Trawick Boger" fj="Brandon Spencer" sj="Tony Lombardo" cj="Glen Fucik" alt="Glen Fucik"></officials>
+  <rules qtrs="4" mins="15" downs="4" yds="10" kospot="35" tbspot="20" kotbspot="25" patspot="3" safspot="20" td="6" fg="3" pat="1" patx="2" saf="2" defpat="2" rouge="1" field="100" toh="3" sackrush="Y" fgaplay="Y" netpunttb="Y"></rules>
+ </venue>
+ <team vh="V" code="366" id="LATECH" name="Louisiana Tech" record="6-3" conf-record="4-1" abb="L">
+  <linescore prds="4" line="14,14,7,7" score="42">
+   <lineprd prd="1" score="14"></lineprd>
+   <lineprd prd="2" score="14"></lineprd>
+   <lineprd prd="3" score="7"></lineprd>
+   <lineprd prd="4" score="7"></lineprd>
+  </linescore>
+  <totals totoff_plays="60" totoff_yards="455" totoff_avg="7.6">
+   <firstdowns no="21" rush="7" pass="12" penalty="2"></firstdowns>
+   <penalties no="2" yds="20"></penalties>
+   <conversions thirdconv="5" thirdatt="10" fourthconv="0" fourthatt="0"></conversions>
+   <fumbles no="1" lost="0"></fumbles>
+   <misc yds="0" top="29:35" ona="0" onm="0" ptsto="0"></misc>
+   <redzone att="5" scores="4" points="28" tdrush="2" tdpass="2" fgmade="0" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="1" endgame="0"></redzone>
+   <rush att="33" yds="135" gain="149" loss="14" td="2" long="22"></rush>
+   <pass comp="17" att="27" int="0" yds="320" td="4" long="63" sacks="2" sackyds="7"></pass>
+   <rcv no="17" yds="320" td="4" long="63"></rcv>
+   <punt no="4" yds="171" long="56" blkd="0" tb="0" fc="2" plus50="1" inside20="3" avg="42.8"></punt>
+   <ko no="7" yds="401" ob="0" tb="2"></ko>
+   <pat kickatt="6" kickmade="6"></pat>
+   <defense tackua="43" tacka="6" tot_tack="49" tflua="9" tfla="0" tflyds="29" sacks="3" sackyds="16" brup="3" qbh="2"></defense>
+   <kr no="2" yds="61" td="0" long="57"></kr>
+   <pr no="2" yds="1" td="0" long="1"></pr>
+   <scoring td="6" patkick="6"></scoring>
+  </totals>
+  <player name="HENDERSON, C." shortname="HENDERSON, C." checkname="HENDERSON,C" uni="1" class="SO" gp="1" gs="1" opos="WR" code="1">
+   <rcv no="6" yds="115" td="2" long="26"></rcv>
+   <kr no="1" yds="57" td="0" long="57"></kr>
+   <scoring td="2"></scoring>
+  </player>
+  <player name="BARNES,Jonathan" shortname="BARNES,Jonathan" checkname="BARNES,JONATHAN" uni="1J" class="SO" gp="1" code="1J">
+   <ko no="6" yds="344" ob="0" tb="2"></ko>
+   <pat kickatt="6" kickmade="6"></pat>
+   <scoring patkick="6"></scoring>
+  </player>
+  <player name="SHOUSE,Gerald" shortname="SHOUSE,Gerald" checkname="SHOUSE,GERALD" uni="2H" class="SR" gp="1" code="2H">
+   <punt no="4" yds="171" long="56" blkd="0" tb="0" fc="2" plus50="1" inside20="3" avg="42.8"></punt>
+  </player>
+  <player name="COOPER,Secdrick" shortname="COOPER,Secdrick" checkname="COOPER,SECDRICK" uni="2" class="SO" gp="1" code="2">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="SCOTT, Boston" shortname="SCOTT, Boston" checkname="SCOTT,BOSTON" uni="3J" class="SO" gp="1" code="3J">
+   <rush att="4" yds="21" gain="21" loss="0" td="0" long="15"></rush>
+  </player>
+  <player name="TURNER, Paul" shortname="TURNER, Paul" checkname="TURNER,PAUL" uni="3" class="SR" gp="1" gs="1" opos="WR" code="3">
+   <rcv no="4" yds="39" td="0" long="21"></rcv>
+  </player>
+  <player name="TAYLOR, Trent" shortname="TAYLOR, Trent" checkname="TAYLOR,TRENT" uni="5" class="JR" gp="1" gs="1" opos="WR" code="5">
+   <rcv no="5" yds="142" td="2" long="63"></rcv>
+   <pr no="1" yds="1" td="0" long="1"></pr>
+   <scoring td="2"></scoring>
+  </player>
+  <player name="HOGAN, Frasier" shortname="HOGAN, Frasier" checkname="HOGAN,FRASIER" uni="5E" class="SO" gp="1" code="5E"></player>
+  <player name="FITTE, Beau" shortname="FITTE, Beau" checkname="FITTE,BEAU" uni="6Z" class="SR" gp="1" gs="1" dpos="LB" code="6Z">
+   <defense tackua="2" tacka="2" tot_tack="4" tflua="1" tfla="0" tflyds="1"></defense>
+  </player>
+  <player name="DRISKEL, Jeff" shortname="DRISKEL, Jeff" checkname="DRISKEL,JEFF" uni="6" class="SR" gp="1" gs="1" opos="QB" code="6">
+   <rush att="2" yds="-7" gain="0" loss="7" td="0" long="0"></rush>
+   <pass comp="17" att="26" int="0" yds="320" td="4" long="63" sacks="2" sackyds="7"></pass>
+  </player>
+  <player name="WOODS, Xavier" shortname="WOODS, Xavier" checkname="WOODS,XAVIER" uni="7" class="JR" gp="1" gs="1" dpos="S" code="7"></player>
+  <player name="DORA,Vontarrius" shortname="DORA,Vontarrius" checkname="DORA,VONTARRIUS" uni="8" class="SR" gp="1" gs="1" dpos="DE" code="8">
+   <defense qbh="1"></defense>
+  </player>
+  <player name="BUTLER, Vernon" shortname="BUTLER, Vernon" checkname="BUTLER,VERNON" uni="9Z" class="SR" gp="1" gs="1" dpos="DT" code="9Z">
+   <defense tackua="4" tacka="0" tot_tack="4" tflua="2" tfla="0" tflyds="4" sackua="1" sacka="0" sackyds="3" brup="1"></defense>
+  </player>
+  <player name="WATTS, Marlon" shortname="WATTS, Marlon" checkname="WATTS,MARLON" uni="13" class="SO" gp="1" code="13"></player>
+  <player name="HIGGINS, Ryan" shortname="HIGGINS, Ryan" checkname="HIGGINS,RYAN" uni="14" class="JR" gp="1" code="14">
+   <pass comp="0" att="1" int="0" yds="0" td="0" long="0" sacks="0" sackyds="0"></pass>
+  </player>
+  <player name="ABRAHAM, Bryson" shortname="ABRAHAM, Bryson" checkname="ABRAHAM,BRYSON" uni="15" class="SR" gp="1" gs="1" dpos="CB" code="15">
+   <defense tackua="3" tacka="0" tot_tack="3" tflua="1" tfla="0" tflyds="7" sackua="1" sacka="0" sackyds="7" brup="2"></defense>
+  </player>
+  <player name="GAINES, Marcus" shortname="GAINES, Marcus" checkname="GAINES,MARCUS" uni="16" class="SO" gp="1" code="16">
+   <pr no="1" yds="0" td="0" long="0"></pr>
+   <fumbles no="1" lost="0"></fumbles>
+  </player>
+  <player name="DANCY, Jaqwis" shortname="DANCY, Jaqwis" checkname="DANCY,JAQWIS" uni="20" class="FR" gp="1" code="20"></player>
+  <player name="BARNES,Adairius" shortname="BARNES,Adairius" checkname="BARNES,ADAIRIUS" uni="21" class="SR" gp="1" gs="1" dpos="CB" code="21">
+   <defense tackua="3" tacka="0" tot_tack="3"></defense>
+   <kr no="1" yds="4" td="0" long="4"></kr>
+  </player>
+  <player name="CRAFT, Jarred" shortname="CRAFT, Jarred" checkname="CRAFT,JARRED" uni="22" class="SO" gp="1" code="22">
+   <rush att="6" yds="24" gain="24" loss="0" td="0" long="11"></rush>
+  </player>
+  <player name="BRICE, Kentrell" shortname="BRICE, Kentrell" checkname="BRICE,KENTRELL" uni="23" class="SR" gp="1" gs="1" dpos="S" code="23">
+   <defense tackua="7" tacka="0" tot_tack="7"></defense>
+  </player>
+  <player name="THOMASON, Nick" shortname="THOMASON, Nick" checkname="THOMASON,NICK" uni="24" class="SR" gp="1" gs="1" dpos="LB" code="24">
+   <defense tackua="2" tacka="2" tot_tack="4" tflua="1" tfla="0" tflyds="5"></defense>
+  </player>
+  <player name="MARTIN, Blake" shortname="MARTIN, Blake" checkname="MARTIN,BLAKE" uni="25" class="SR" gp="1" code="25">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="SEETS, Marlon" shortname="SEETS, Marlon" checkname="SEETS,MARLON" uni="27" class="SR" gp="1" code="27"></player>
+  <player name="DIXON, Kenneth" shortname="DIXON, Kenneth" checkname="DIXON,KENNETH" uni="28" class="SR" gp="1" gs="1" opos="RB" code="28">
+   <rush att="19" yds="92" gain="99" loss="7" td="2" long="22"></rush>
+   <rcv no="1" yds="16" td="0" long="16"></rcv>
+   <scoring td="2"></scoring>
+  </player>
+  <player name="CLEVELAND, C.J." shortname="CLEVELAND, C.J." checkname="CLEVELAND,CJ" uni="29" class="SR" gp="1" gs="1" dpos="LB" code="29">
+   <defense tackua="3" tacka="2" tot_tack="5"></defense>
+  </player>
+  <player name="FARRIS, Russell" shortname="FARRIS, Russell" checkname="FARRIS,RUSSELL" uni="31" class="SO" gp="1" code="31">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="SPENCER, Trey" shortname="SPENCER, Trey" checkname="SPENCER,TREY" uni="32" class="FR" gp="1" code="32">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="JONES, Ricky" shortname="JONES, Ricky" checkname="JONES,RICKY" uni="33" class="SR" gp="1" code="33">
+   <rush att="2" yds="5" gain="5" loss="0" td="0" long="5"></rush>
+  </player>
+  <player name="WILLIAMS, T." shortname="WILLIAMS, T." checkname="WILLIAMS,T" uni="34" class="FR" gp="1" code="34">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="LEWIS, Darryl" shortname="LEWIS, Darryl" checkname="LEWIS,DARRYL" uni="38" class="FR" gp="1" code="38"></player>
+  <player name="FISCHER, Kyle" shortname="FISCHER, Kyle" checkname="FISCHER,KYLE" uni="39" class="JR" gp="1" code="39">
+   <ko no="1" yds="57" ob="0" tb="0"></ko>
+  </player>
+  <player name="GASTON, Josh" shortname="GASTON, Josh" checkname="GASTON,JOSH" uni="44" class="SR" gp="1" code="44"></player>
+  <player name="FERGUSON, J." shortname="FERGUSON, J." checkname="FERGUSON,J" uni="45" class="FR" gp="1" gs="1" dpos="DE" code="45">
+   <defense tackua="5" tacka="0" tot_tack="5" tflua="3" tfla="0" tflyds="8" sackua="1" sacka="0" sackyds="6" qbh="1"></defense>
+  </player>
+  <player name="BLANKENSHIP, E." shortname="BLANKENSHIP, E." checkname="BLANKENSHIP,E" uni="49" class="SO" gp="1" code="49">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="CANTY, Deldrick" shortname="CANTY, Deldrick" checkname="CANTY,DELDRICK" uni="50" class="SO" gp="1" code="50"></player>
+  <player name="DURMAN, Brandon" shortname="DURMAN, Brandon" checkname="DURMAN,BRANDON" uni="54" class="FR" gp="1" code="54">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="MAHAFFEY, David" shortname="MAHAFFEY, David" checkname="MAHAFFEY,DAVID" uni="55" class="JR" gp="1" gs="1" opos="C" code="55"></player>
+  <player name="WASHINGTON, D." shortname="WASHINGTON, D." checkname="WASHINGTON,D" uni="56" class="FR" gp="1" code="56">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="CARPENTER,Shane" shortname="CARPENTER,Shane" checkname="CARPENTER,SHANE" uni="66" class="FR" gp="1" code="66"></player>
+  <player name="ROBINSON, Josh" shortname="ROBINSON, Josh" checkname="ROBINSON,JOSH" uni="68" class="SR" gp="1" gs="1" opos="RG" code="68"></player>
+  <player name="DUGAS, O'Shea" shortname="DUGAS, O'Shea" checkname="DUGAS,O'SHEA" uni="74" class="FR" gp="1" gs="1" opos="LG" code="74"></player>
+  <player name="BROWN, Darrell" shortname="BROWN, Darrell" checkname="BROWN,DARRELL" uni="75" class="JR" gp="1" gs="1" opos="LT" code="75"></player>
+  <player name="LANDRY, Clayton" shortname="LANDRY, Clayton" checkname="LANDRY,CLAYTON" uni="76" class="JR" gp="1" code="76"></player>
+  <player name="DANIELSEN, Jens" shortname="DANIELSEN, Jens" checkname="DANIELSEN,JENS" uni="77" class="SR" gp="1" gs="1" opos="RT" code="77"></player>
+  <player name="MCKNIGHT, K." shortname="MCKNIGHT, K." checkname="MCKNIGHT,K" uni="80" class="FR" gp="1" gs="1" opos="WR" code="80">
+   <rcv no="1" yds="8" td="0" long="8"></rcv>
+  </player>
+  <player name="OLIVER, DeJuawn" shortname="OLIVER, DeJuawn" checkname="OLIVER,DEJUAWN" uni="81" class="JR" gp="1" code="81"></player>
+  <player name="BRASWELL, P." shortname="BRASWELL, P." checkname="BRASWELL,P" uni="88" class="FR" gp="1" code="88"></player>
+  <player name="DUNIGAN, Dolan" shortname="DUNIGAN, Dolan" checkname="DUNIGAN,DOLAN" uni="89" class="SR" gp="1" code="89"></player>
+  <player name="WALLACE, C." shortname="WALLACE, C." checkname="WALLACE,C" uni="90" class="FR" gp="1" code="90"></player>
+  <player name="BRADFORD, J." shortname="BRADFORD, J." checkname="BRADFORD,J" uni="94" class="FR" gp="1" code="94">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="PORTER, Tyler" shortname="PORTER, Tyler" checkname="PORTER,TYLER" uni="96" class="SR" gp="1" code="96">
+   <defense tackua="2" tacka="0" tot_tack="2" tflua="1" tfla="0" tflyds="4"></defense>
+  </player>
+  <player name="BROWN, Aaron" shortname="BROWN, Aaron" checkname="BROWN,AARON" uni="98" class="JR" gp="1" gs="1" dpos="DT" code="98"></player>
+ </team>
+ <team vh="H" code="574" id="RICE" name="Rice" record="4-4" conf-record="2-2" abb="R">
+  <linescore prds="4" line="7,0,3,7" score="17">
+   <lineprd prd="1" score="7"></lineprd>
+   <lineprd prd="2" score="0"></lineprd>
+   <lineprd prd="3" score="3"></lineprd>
+   <lineprd prd="4" score="7"></lineprd>
+  </linescore>
+  <totals totoff_plays="61" totoff_yards="281" totoff_avg="4.6">
+   <firstdowns no="15" rush="5" pass="9" penalty="1"></firstdowns>
+   <penalties no="8" yds="62"></penalties>
+   <conversions thirdconv="4" thirdatt="12" fourthconv="0" fourthatt="0"></conversions>
+   <fumbles no="0" lost="0"></fumbles>
+   <misc yds="0" top="30:25" ona="0" onm="0" ptsto="0"></misc>
+   <redzone att="3" scores="3" points="17" tdrush="0" tdpass="2" fgmade="1" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="33" yds="101" gain="130" loss="29" td="0" long="13"></rush>
+   <pass comp="14" att="28" int="0" yds="180" td="2" long="33" sacks="3" sackyds="16"></pass>
+   <rcv no="14" yds="180" td="2" long="33"></rcv>
+   <punt no="7" yds="318" long="69" blkd="0" tb="1" fc="3" plus50="2" inside20="1" avg="45.4"></punt>
+   <ko no="4" yds="200" ob="0" tb="2"></ko>
+   <fg made="1" att="1" long="40" blkd="0"></fg>
+   <pat kickatt="2" kickmade="2"></pat>
+   <defense tackua="42" tacka="8" tot_tack="50" tflua="5" tfla="2" tflyds="14" sacks="2" sackyds="7" qbh="1"></defense>
+   <kr no="5" yds="83" td="0" long="24"></kr>
+   <scoring td="2" fg="1" patkick="2"></scoring>
+  </totals>
+  <player name="IBE, JT" shortname="IBE, JT" checkname="IBE,JT" uni="1S" class="FR" gp="1" gs="1" dpos="FS" code="1S">
+   <defense tackua="2" tacka="1" tot_tack="3"></defense>
+  </player>
+  <player name="THOMPSON, JP" shortname="THOMPSON, JP" checkname="THOMPSON,JP" uni="1D" class="FR" gp="1" code="1D">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="DILLARD, Darik" shortname="DILLARD, Darik" checkname="DILLARD,DARIK" uni="1" class="JR" gp="1" code="1">
+   <rush att="8" yds="32" gain="33" loss="1" td="0" long="13"></rush>
+  </player>
+  <player name="GERMAN, Nate" shortname="GERMAN, Nate" checkname="GERMAN,NATE" uni="1B" class="SO" gp="1" code="1B">
+   <rcv no="2" yds="62" td="0" long="33"></rcv>
+  </player>
+  <player name="FOX, Jack" shortname="FOX, Jack" checkname="FOX,JACK" uni="2S" class="FR" gp="1" code="2S">
+   <ko no="3" yds="185" ob="0" tb="2"></ko>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="MAYDEN, James" shortname="MAYDEN, James" checkname="MAYDEN,JAMES" uni="2" class="SO" gp="1" code="2">
+   <rcv no="1" yds="15" td="1" long="15"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="FARRIMOND, Jame" shortname="FARRIMOND, Jame" checkname="FARRIMOND,JAME" uni="3S" class="SR" gp="1" code="3S">
+   <punt no="7" yds="318" long="69" blkd="0" tb="1" fc="3" plus50="2" inside20="1" avg="45.4"></punt>
+   <ko no="1" yds="15" ob="0" tb="0"></ko>
+  </player>
+  <player name="DAVIS, Jowan" shortname="DAVIS, Jowan" checkname="DAVIS,JOWAN" uni="3" class="JR" gp="1" gs="1" opos="RB" code="3">
+   <rush att="7" yds="17" gain="22" loss="5" td="0" long="6"></rush>
+   <rcv no="1" yds="4" td="0" long="4"></rcv>
+  </player>
+  <player name="PARKS, Dennis" shortname="PARKS, Dennis" checkname="PARKS,DENNIS" uni="4" class="SR" gp="1" code="4">
+   <rcv no="2" yds="22" td="0" long="18"></rcv>
+  </player>
+  <player name="LYONS, Alex" shortname="LYONS, Alex" checkname="LYONS,ALEX" uni="4D" class="JR" gp="1" gs="1" dpos="SLB" code="4D">
+   <defense tackua="4" tacka="0" tot_tack="4" tflua="1" tfla="0" tflyds="4" sackua="1" sacka="0" sackyds="4"></defense>
+  </player>
+  <player name="ESPINOSA, Zach" shortname="ESPINOSA, Zach" checkname="ESPINOSA,ZACH" uni="6D" class="SR" gp="1" code="6D"></player>
+  <player name="JACKSON, Driphu" shortname="JACKSON, Driphu" checkname="JACKSON,DRIPHU" uni="6" class="SR" gp="1" gs="1" opos="QB" code="6">
+   <rush att="11" yds="31" gain="48" loss="17" td="0" long="13"></rush>
+   <pass comp="14" att="28" int="0" yds="180" td="2" long="33" sacks="3" sackyds="16"></pass>
+  </player>
+  <player name="BICKHAM, Justin" shortname="BICKHAM, Justin" checkname="BICKHAM,JUSTIN" uni="7" class="FR" gp="1" gs="1" dpos="LCB" code="7">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="BROWN, Derek" shortname="BROWN, Derek" checkname="BROWN,DEREK" uni="8" class="JR" gp="1" gs="1" dpos="RE" code="8">
+   <defense tackua="4" tacka="0" tot_tack="4" tflua="1" tfla="0" tflyds="3" sackua="1" sacka="0" sackyds="3" qbh="1"></defense>
+  </player>
+  <player name="WRIGHT, Zach" shortname="WRIGHT, Zach" checkname="WRIGHT,ZACH" uni="9" class="JR" gp="1" gs="1" opos="WR" code="9">
+   <rcv no="2" yds="20" td="0" long="12"></rcv>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="FUHRMAN, Garret" shortname="FUHRMAN, Garret" checkname="FUHRMAN,GARRET" uni="11" class="SR" gp="1" code="11">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="ALAKA, Temi" shortname="ALAKA, Temi" checkname="ALAKA,TEMI" uni="12" class="SO" gp="1" gs="1" opos="WR" code="12">
+   <rcv no="4" yds="49" td="0" long="17"></rcv>
+  </player>
+  <player name="WHITE, Destri" shortname="WHITE, Destri" checkname="WHITE,DESTRI" uni="13" class="SO" gp="1" gs="1" dpos="KAT" code="13">
+   <defense tackua="4" tacka="0" tot_tack="4" tflua="1" tfla="0" tflyds="1"></defense>
+  </player>
+  <player name="SMITH, Parker" shortname="SMITH, Parker" checkname="SMITH,PARKER" uni="17" class="FR" gp="1" code="17"></player>
+  <player name="TOBOLA, Hayden" shortname="TOBOLA, Hayden" checkname="TOBOLA,HAYDEN" uni="18" class="FR" gp="1" code="18">
+   <fg made="1" att="1" long="40" blkd="0"></fg>
+   <pat kickatt="2" kickmade="2"></pat>
+   <scoring fg="1" patkick="2"></scoring>
+  </player>
+  <player name="BANKS, VJ" shortname="BANKS, VJ" checkname="BANKS,VJ" uni="19" class="SO" gp="1" gs="1" dpos="RCB" code="19">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="CLARK, Jorian" shortname="CLARK, Jorian" checkname="CLARK,JORIAN" uni="20" class="FR" gp="1" code="20"></player>
+  <player name="URETSKY, Nick" shortname="URETSKY, Nick" checkname="URETSKY,NICK" uni="21" class="SO" gp="1" code="21"></player>
+  <player name="POLLARD, Ryan" shortname="POLLARD, Ryan" checkname="POLLARD,RYAN" uni="22" class="SR" gp="1" gs="1" dpos="SS" code="22">
+   <defense tackua="4" tacka="1" tot_tack="5" tflua="1" tfla="0" tflyds="2"></defense>
+  </player>
+  <player name="STEWART, Samuel" shortname="STEWART, Samuel" checkname="STEWART,SAMUEL" uni="24" class="FR" gp="1" code="24">
+   <rush att="7" yds="21" gain="27" loss="6" td="0" long="8"></rush>
+   <rcv no="1" yds="4" td="1" long="4"></rcv>
+   <kr no="3" yds="65" td="0" long="24"></kr>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="MCGASKEY, Tabar" shortname="MCGASKEY, Tabar" checkname="MCGASKEY,TABAR" uni="25" class="JR" gp="1" gs="1" dpos="WLB" code="25">
+   <defense tackua="4" tacka="1" tot_tack="5" tflua="1" tfla="0" tflyds="3"></defense>
+  </player>
+  <player name="DOUGLAS, Brando" shortname="DOUGLAS, Brando" checkname="DOUGLAS,BRANDO" uni="26" class="FR" gp="1" code="26">
+   <defense tackua="3" tacka="0" tot_tack="3"></defense>
+  </player>
+  <player name="WALTER, Austin" shortname="WALTER, Austin" checkname="WALTER,AUSTIN" uni="27" class="FR" gp="1" gs="1" opos="RB" code="27">
+   <rcv no="1" yds="4" td="0" long="4"></rcv>
+   <kr no="2" yds="18" td="0" long="11"></kr>
+  </player>
+  <player name="RAHMAN, Josh" shortname="RAHMAN, Josh" checkname="RAHMAN,JOSH" uni="30" class="SO" gp="1" code="30"></player>
+  <player name="NWAKAMMA, Marti" shortname="NWAKAMMA, Marti" checkname="NWAKAMMA,MARTI" uni="31" class="FR" gp="1" code="31"></player>
+  <player name="BALLARD, Joe" shortname="BALLARD, Joe" checkname="BALLARD,JOE" uni="34" class="SO" gp="1" code="34"></player>
+  <player name="TURNER, Luke" shortname="TURNER, Luke" checkname="TURNER,LUKE" uni="35" class="SR" gp="1" code="35"></player>
+  <player name="CORBETT, Ford" shortname="CORBETT, Ford" checkname="CORBETT,FORD" uni="37" class="FR" gp="1" code="37"></player>
+  <player name="JOHNSON, JD" shortname="JOHNSON, JD" checkname="JOHNSON,JD" uni="38" class="FR" gp="1" code="38"></player>
+  <player name="WRIGHT, Brady" shortname="WRIGHT, Brady" checkname="WRIGHT,BRADY" uni="40" class="FR" gp="1" code="40"></player>
+  <player name="ELLERBEE, Emman" shortname="ELLERBEE, Emman" checkname="ELLERBEE,EMMAN" uni="42" class="SO" gp="1" code="42">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="WOMAC, Brian" shortname="WOMAC, Brian" checkname="WOMAC,BRIAN" uni="44" class="SO" gp="1" gs="1" dpos="LE" code="44">
+   <defense tackua="1" tacka="1" tot_tack="2" tflua="0" tfla="1" tflyds="0"></defense>
+  </player>
+  <player name="ELDER, Nick" shortname="ELDER, Nick" checkname="ELDER,NICK" uni="46" class="SR" gp="1" code="46">
+   <defense tackua="3" tacka="0" tot_tack="3"></defense>
+  </player>
+  <player name="GREEN, DJ" shortname="GREEN, DJ" checkname="GREEN,DJ" uni="49" class="SO" gp="1" code="49">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="WATKINS, Chandl" shortname="WATKINS, Chandl" checkname="WATKINS,CHANDL" uni="50" class="SR" gp="1" code="50"></player>
+  <player name="GODBER, Peter" shortname="GODBER, Peter" checkname="GODBER,PETER" uni="51" class="SO" gp="1" gs="1" opos="LG" code="51"></player>
+  <player name="MARTIN, Trey" shortname="MARTIN, Trey" checkname="MARTIN,TREY" uni="54" class="SO" gp="1" gs="1" opos="RG" code="54"></player>
+  <player name="KLINGLER, Cory" shortname="KLINGLER, Cory" checkname="KLINGLER,CORY" uni="56" class="FR" gp="1" code="56"></player>
+  <player name="GORDON, Preston" shortname="GORDON, Preston" checkname="GORDON,PRESTON" uni="57" class="FR" gp="1" gs="1" dpos="DT" code="57"></player>
+  <player name="HENESSEE, Cody" shortname="HENESSEE, Cody" checkname="HENESSEE,CODY" uni="58" class="JR" gp="1" code="58"></player>
+  <player name="CARTER, Ty" shortname="CARTER, Ty" checkname="CARTER,TY" uni="64" class="SO" gp="1" code="64"></player>
+  <player name="ANDERSON, Calvi" shortname="ANDERSON, Calvi" checkname="ANDERSON,CALVI" uni="66" class="FR" gp="1" gs="1" opos="LT" code="66"></player>
+  <player name="THOMPSON, Kenne" shortname="THOMPSON, Kenne" checkname="THOMPSON,KENNE" uni="70" class="SO" gp="1" code="70"></player>
+  <player name="PATTERSON, Conn" shortname="PATTERSON, Conn" checkname="PATTERSON,CONN" uni="71" class="JR" gp="1" code="71"></player>
+  <player name="REUE, Andrew" shortname="REUE, Andrew" checkname="REUE,ANDREW" uni="73" class="SR" gp="1" gs="1" opos="C" code="73"></player>
+  <player name="WILLIAMS, Caleb" shortname="WILLIAMS, Caleb" checkname="WILLIAMS,CALEB" uni="75" class="SR" gp="1" gs="1" opos="RT" code="75"></player>
+  <player name="PIERCE, Sam" shortname="PIERCE, Sam" checkname="PIERCE,SAM" uni="76" class="FR" gp="1" code="76"></player>
+  <player name="HUNT, Cole" shortname="HUNT, Cole" checkname="HUNT,COLE" uni="82" class="SO" gp="1" code="82"></player>
+  <player name="CELLA, Connor" shortname="CELLA, Connor" checkname="CELLA,CONNOR" uni="87" class="JR" gp="1" gs="1" opos="TE" code="87"></player>
+  <player name="PADGETT, Blain" shortname="PADGETT, Blain" checkname="PADGETT,BLAIN" uni="90" class="FR" gp="1" code="90">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="THOMPSON, Carl" shortname="THOMPSON, Carl" checkname="THOMPSON,CARL" uni="91" class="FR" gp="1" code="91"></player>
+  <player name="HANUSA, Parker" shortname="HANUSA, Parker" checkname="HANUSA,PARKER" uni="93" class="FR" gp="1" code="93"></player>
+  <player name="ABERCRUMBIA, Za" shortname="ABERCRUMBIA, Za" checkname="ABERCRUMBIA,ZA" uni="96" class="FR" gp="1" code="96">
+   <defense tackua="2" tacka="2" tot_tack="4" tflua="0" tfla="1" tflyds="1"></defense>
+  </player>
+  <player name="MOUCHANTAF, Stu" shortname="MOUCHANTAF, Stu" checkname="MOUCHANTAF,STU" uni="97" class="SR" gp="1" code="97">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="JOHNSON, Connor" shortname="JOHNSON, Connor" checkname="JOHNSON,CONNOR" uni="98" class="SO" gp="1" code="98"></player>
+  <player name="WINSHIP, Ross" shortname="WINSHIP, Ross" checkname="WINSHIP,ROSS" uni="99" class="SR" gp="1" gs="1" dpos="NT" code="99"></player>
+ </team>
+ <scores>
+  <score vh="V" team="LATECH" qtr="1" clock="11:15" type="TD" how="PASS" yds="47" scorer="TAYLOR, Trent" passer="DRISKEL, Jeff" patby="BARNES,Jonathan" pattype="KICK" patres="GOOD" plays="5" drive="62" top="1:58" vscore="7" hscore="0" driveindex="2"></score>
+  <score vh="H" team="RICE" qtr="1" clock="07:35" type="TD" how="PASS" yds="4" scorer="STEWART, Samuel" passer="JACKSON, Driphu" patby="TOBOLA, Hayden" pattype="KICK" patres="GOOD" plays="8" drive="75" top="3:40" vscore="7" hscore="7" driveindex="3"></score>
+  <score vh="V" team="LATECH" qtr="1" clock="04:53" type="TD" how="PASS" yds="14" scorer="HENDERSON, C." passer="DRISKEL, Jeff" patby="BARNES,Jonathan" pattype="KICK" patres="GOOD" plays="5" drive="38" top="2:42" vscore="14" hscore="7" driveindex="4"></score>
+  <score vh="V" team="LATECH" qtr="2" clock="03:40" type="TD" how="RUSH" yds="2" scorer="DIXON, Kenneth" patby="BARNES,Jonathan" pattype="KICK" patres="GOOD" plays="10" drive="80" top="4:51" vscore="21" hscore="7" driveindex="10"></score>
+  <score vh="V" team="LATECH" qtr="2" clock="00:59" type="TD" how="RUSH" yds="4" scorer="DIXON, Kenneth" patby="BARNES,Jonathan" pattype="KICK" patres="GOOD" plays="4" drive="89" top="1:37" vscore="28" hscore="7" driveindex="12"></score>
+  <score vh="V" team="LATECH" qtr="3" clock="11:47" type="TD" how="PASS" yds="24" scorer="HENDERSON, C." passer="DRISKEL, Jeff" patby="BARNES,Jonathan" pattype="KICK" patres="GOOD" plays="7" drive="75" top="3:13" vscore="35" hscore="7" driveindex="14"></score>
+  <score vh="H" team="RICE" qtr="3" clock="05:17" type="FG" yds="40" scorer="TOBOLA, Hayden" plays="13" drive="50" top="6:30" vscore="35" hscore="10" driveindex="15"></score>
+  <score vh="V" team="LATECH" qtr="4" clock="08:56" type="TD" how="PASS" yds="10" scorer="TAYLOR, Trent" passer="DRISKEL, Jeff" patby="BARNES,Jonathan" pattype="KICK" patres="GOOD" plays="7" drive="52" top="4:07" vscore="42" hscore="10" driveindex="20"></score>
+  <score vh="H" team="RICE" qtr="4" clock="03:52" type="TD" how="PASS" yds="15" scorer="MAYDEN, James" passer="JACKSON, Driphu" patby="TOBOLA, Hayden" pattype="KICK" patres="GOOD" plays="11" drive="75" top="5:04" vscore="42" hscore="17" driveindex="21"></score>
+ </scores>
+ <fgas>
+  <fga vh="H" team="RICE" kicker="TOBOLA, Hayden" qtr="3" clock="05:17" distance="40" result="good"></fga>
+ </fgas>
+ <drives>
+  <drive vh="H" team="RICE" start="KO,1,15:00,30" end="PUNT,1,13:13,27" plays="3" yards="-3" top="1:47" start_how="KO" start_qtr="1" start_time="15:00" start_spot="RICE30" end_how="PUNT" end_qtr="1" end_time="13:13" end_spot="RICE27" driveindex="1"></drive>
+  <drive vh="V" team="LATECH" start="PUNT,1,13:13,38" end="TD,1,11:15,100" plays="5" yards="62" top="1:58" start_how="PUNT" start_qtr="1" start_time="13:13" start_spot="LATECH38" end_how="TD" end_qtr="1" end_time="11:15" end_spot="RICE00" driveindex="2"></drive>
+  <drive vh="H" team="RICE" start="KO,1,11:15,25" end="TD,1,07:35,100" plays="8" yards="75" top="3:40" start_how="KO" start_qtr="1" start_time="11:15" start_spot="RICE25" end_how="TD" end_qtr="1" end_time="07:35" end_spot="LATECH00" rz="1" driveindex="3"></drive>
+  <drive vh="V" team="LATECH" start="KO,1,07:35,62" end="TD,1,04:53,100" plays="5" yards="38" top="2:42" start_how="KO" start_qtr="1" start_time="07:35" start_spot="RICE38" end_how="TD" end_qtr="1" end_time="04:53" end_spot="RICE00" rz="1" driveindex="4"></drive>
+  <drive vh="H" team="RICE" start="KO,1,04:53,24" end="PUNT,1,03:26,18" plays="4" yards="-6" top="1:27" start_how="KO" start_qtr="1" start_time="04:53" start_spot="RICE24" end_how="PUNT" end_qtr="1" end_time="03:26" end_spot="RICE18" driveindex="5"></drive>
+  <drive vh="V" team="LATECH" start="PUNT,1,03:26,52" end="PUNT,1,01:09,54" plays="3" yards="2" top="2:17" start_how="PUNT" start_qtr="1" start_time="03:26" start_spot="RICE48" end_how="PUNT" end_qtr="1" end_time="01:09" end_spot="RICE46" driveindex="6"></drive>
+  <drive vh="H" team="RICE" start="PUNT,1,01:09,8" end="PUNT,2,14:00,29" plays="5" yards="21" top="2:09" start_how="PUNT" start_qtr="1" start_time="01:09" start_spot="RICE08" end_how="PUNT" end_qtr="2" end_time="14:00" end_spot="RICE29" driveindex="7"></drive>
+  <drive vh="V" team="LATECH" start="PUNT,2,14:00,33" end="PUNT,2,12:17,34" plays="3" yards="1" top="1:43" start_how="PUNT" start_qtr="2" start_time="14:00" start_spot="LATECH33" end_how="PUNT" end_qtr="2" end_time="12:17" end_spot="LATECH34" driveindex="8"></drive>
+  <drive vh="H" team="RICE" start="PUNT,2,12:17,20" end="PUNT,2,08:31,52" plays="7" yards="32" top="3:46" start_how="PUNT" start_qtr="2" start_time="12:17" start_spot="RICE20" end_how="PUNT" end_qtr="2" end_time="08:31" end_spot="LATECH48" driveindex="9"></drive>
+  <drive vh="V" team="LATECH" start="PUNT,2,08:31,20" end="TD,2,03:40,100" plays="10" yards="80" top="4:51" start_how="PUNT" start_qtr="2" start_time="08:31" start_spot="LATECH20" end_how="TD" end_qtr="2" end_time="03:40" end_spot="RICE00" rz="1" driveindex="10"></drive>
+  <drive vh="H" team="RICE" start="KO,2,03:40,24" end="PUNT,2,02:36,20" plays="3" yards="-4" top="1:04" start_how="KO" start_qtr="2" start_time="03:40" start_spot="RICE24" end_how="PUNT" end_qtr="2" end_time="02:36" end_spot="RICE20" driveindex="11"></drive>
+  <drive vh="V" team="LATECH" start="PUNT,2,02:36,11" end="TD,2,00:59,100" plays="4" yards="89" top="1:37" start_how="PUNT" start_qtr="2" start_time="02:36" start_spot="LATECH11" end_how="TD" end_qtr="2" end_time="00:59" end_spot="RICE00" rz="1" driveindex="12"></drive>
+  <drive vh="H" team="RICE" start="KO,2,00:59,31" end="HALF,2,00:00,40" plays="2" yards="9" top="0:59" start_how="KO" start_qtr="2" start_time="00:59" start_spot="RICE31" end_how="HALF" end_qtr="2" end_time="00:00" end_spot="RICE40" driveindex="13"></drive>
+  <drive vh="V" team="LATECH" start="KO,3,15:00,25" end="TD,3,11:47,100" plays="7" yards="75" top="3:13" start_how="KO" start_qtr="3" start_time="15:00" start_spot="LATECH25" end_how="TD" end_qtr="3" end_time="11:47" end_spot="RICE00" driveindex="14"></drive>
+  <drive vh="H" team="RICE" start="KO,3,11:47,28" end="FG,3,05:17,78" plays="13" yards="50" top="6:30" start_how="KO" start_qtr="3" start_time="11:47" start_spot="RICE28" end_how="FG" end_qtr="3" end_time="05:17" end_spot="LATECH22" rz="1" driveindex="15"></drive>
+  <drive vh="V" team="LATECH" start="KO,3,05:17,25" end="PUNT,3,03:21,57" plays="6" yards="32" top="1:56" start_how="KO" start_qtr="3" start_time="05:17" start_spot="LATECH25" end_how="PUNT" end_qtr="3" end_time="03:21" end_spot="RICE43" driveindex="16"></drive>
+  <drive vh="H" team="RICE" start="PUNT,3,03:21,12" end="PUNT,3,00:59,14" plays="3" yards="2" top="2:22" start_how="PUNT" start_qtr="3" start_time="03:21" start_spot="RICE12" end_how="PUNT" end_qtr="3" end_time="00:59" end_spot="RICE14" driveindex="17"></drive>
+  <drive vh="V" team="LATECH" start="PUNT,3,00:59,34" end="PUNT,4,14:40,42" plays="3" yards="8" top="1:19" start_how="PUNT" start_qtr="3" start_time="00:59" start_spot="LATECH34" end_how="PUNT" end_qtr="4" end_time="14:40" end_spot="LATECH42" driveindex="18"></drive>
+  <drive vh="H" team="RICE" start="PUNT,4,14:40,2" end="PUNT,4,13:03,7" plays="3" yards="5" top="1:37" start_how="PUNT" start_qtr="4" start_time="14:40" start_spot="RICE02" end_how="PUNT" end_qtr="4" end_time="13:03" end_spot="RICE07" driveindex="19"></drive>
+  <drive vh="V" team="LATECH" start="PUNT,4,13:03,48" end="TD,4,08:56,100" plays="7" yards="52" top="4:07" start_how="PUNT" start_qtr="4" start_time="13:03" start_spot="LATECH48" end_how="TD" end_qtr="4" end_time="08:56" end_spot="RICE00" rz="1" driveindex="20"></drive>
+  <drive vh="H" team="RICE" start="KO,4,08:56,25" end="TD,4,03:52,100" plays="11" yards="75" top="5:04" start_how="KO" start_qtr="4" start_time="08:56" start_spot="RICE25" end_how="TD" end_qtr="4" end_time="03:52" end_spot="LATECH00" rz="1" driveindex="21"></drive>
+  <drive vh="V" team="LATECH" start="KO,4,03:52,54" end="HALF,4,00:00,87" plays="7" yards="33" top="3:52" start_how="KO" start_qtr="4" start_time="03:52" start_spot="RICE46" end_how="HALF" end_qtr="4" end_time="00:00" end_spot="RICE13" rz="1" driveindex="22"></drive>
+ </drives>
+ <plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="LATECH" down="1" togo="10" spot="LATECH35" context="V,1,10,V35" playid="0,1,0" tokens="CMT:La Tech wins toss and defers. Rice will receive and defend north goal."
+      text="La Tech wins toss and defers. Rice will receive and defend north goal." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="LATECH35" context="V,1,10,V35" playid="0,2,1" tokens="SPOT:V,V35,N"
+      text="LATECH ball on LATECH35." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="LATECH35" context="V,1,10,V35" playid="0,3,2" type="K" tokens="KO:1J,H09 RET:24,H30 TACK:31"
+      text="BARNES,Jonathan kickoff 56 yards to the RICE9, STEWART, Samuel return 21 yards to the RICE30 (FARRIS, Russell)." newcontext="H,1,10,H30">
+    <p_ko vh="V" name="BARNES,Jonathan" gain="56"></p_ko>
+    <p_kr vh="H" name="STEWART, Samuel" gain="21"></p_kr>
+    <p_tk vh="V" name="FARRIS, Russell"></p_tk>
+   </play>
+   <drivestart poss="H,H30,15:00" vh="H" spot="H30" clock="15:00" driveindex="1,2"></drivestart>
+   <play hasball="RICE" down="1" togo="10" spot="RICE30" context="H,1,10,H30" playid="1,1,3" type="R" tokens="RUSH:3,H33, TACK:45"
+      text="DAVIS, Jowan rush for 3 yards to the RICE33 (FERGUSON, J.)." newcontext="H,2,7,H33">
+    <p_ru vh="H" name="DAVIS, Jowan" gain="3"></p_ru>
+    <p_tk vh="V" name="FERGUSON, J."></p_tk>
+   </play>
+   <play hasball="RICE" down="2" togo="7" spot="RICE33" context="H,2,7,H33" playid="1,2,4" type="P" tokens="PASS:6,S,TM,H27 SACK:45"
+      text="JACKSON, Driphu sacked for loss of 6 yards to the RICE27 (FERGUSON, J.)." newcontext="H,3,13,H27">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="SACK" gain="-6"></p_pa>
+    <p_tk vh="V" name="FERGUSON, J." sack="Y"></p_tk>
+   </play>
+   <play hasball="RICE" down="3" togo="13" spot="RICE27" context="H,3,13,H27" playid="1,3,5" type="P" tokens="PASS:6,I,35,* QBH:V,8"
+      text="JACKSON, Driphu pass incomplete to TURNER, Luke, QB hurry by DORA,Vontarrius." newcontext="H,4,13,H27">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="INC" rcv="TURNER, Luke"></p_pa>
+    <p_qbh vh="V" name="DORA,Vontarrius"></p_qbh>
+   </play>
+   <play hasball="RICE" down="4" togo="13" spot="RICE27" context="H,4,13,H27" playid="1,4,6" type="U" tokens="PUNT:3S,V38 FC:5"
+      text="FARRIMOND, Jame punt 35 yards to the LATECH38, fair catch by TAYLOR, Trent." newcontext="V,1,10,V38">
+    <p_pu vh="H" name="FARRIMOND, Jame" gain="35" fc="TAYLOR, Trent"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-3" top="1:47" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="V,V38,13:13" vh="V" spot="V38" clock="13:13" driveindex="2,6"></drivestart>
+   <play hasball="LATECH" down="1" togo="10" spot="LATECH38" context="V,1,10,V38" playid="2,1,7" clock="13:13" tokens="{DRIVE}:13:13"
+      text="LOUISIANA TECH drive start at 13:13." newcontext="V,1,10,V38">
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="LATECH38" context="V,1,10,V38" playid="2,2,8" type="R" tokens="RUSH:28,V42, TACK:25"
+      text="DIXON, Kenneth rush for 4 yards to the LATECH42 (MCGASKEY, Tabar)." newcontext="V,2,6,V42">
+    <p_ru vh="V" name="DIXON, Kenneth" gain="4"></p_ru>
+    <p_tk vh="H" name="MCGASKEY, Tabar"></p_tk>
+   </play>
+   <play hasball="LATECH" down="2" togo="6" spot="LATECH42" context="V,2,6,V42" playid="2,3,9" type="R" first="R" tokens="RUSH:28,H46, TACK:13"
+      text="DIXON, Kenneth rush for 12 yards to the RICE46, 1ST DOWN LATECH (WHITE, Destri)." newcontext="V,1,10,H46">
+    <p_ru vh="V" name="DIXON, Kenneth" gain="12"></p_ru>
+    <p_tk vh="H" name="WHITE, Destri"></p_tk>
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="RICE46" context="V,1,10,H46" playid="2,4,10" type="P" tokens="PASS:6,I,1,*"
+      text="DRISKEL, Jeff pass incomplete to HENDERSON, C.." newcontext="V,2,10,H46">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="INC" rcv="HENDERSON, C."></p_pa>
+   </play>
+   <play hasball="LATECH" down="2" togo="10" spot="RICE46" context="V,2,10,H46" playid="2,5,11" type="R" tokens="RUSH:28,H47, TACK:13"
+      text="DIXON, Kenneth rush for loss of 1 yard to the RICE47 (WHITE, Destri)." newcontext="V,3,11,H47">
+    <p_ru vh="V" name="DIXON, Kenneth" gain="-1"></p_ru>
+    <p_tk vh="H" name="WHITE, Destri"></p_tk>
+   </play>
+   <play hasball="LATECH" down="3" togo="11" spot="RICE47" context="V,3,11,H47" playid="2,6,12" type="P" first="P" score="Y" vscore="6" hscore="0" clock="11:15" tokens="PASS:6,C,5,H00 T:11:15"
+      text="DRISKEL, Jeff pass complete to TAYLOR, Trent for 47 yards to the RICE0, 1ST DOWN LATECH, TOUCHDOWN, clock 11:15." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="COMP" rcv="TAYLOR, Trent" gain="47"></p_pa>
+   </play>
+   <play hasball="LATECH" down="1" togo="0" spot="RICE03" context="V,1,0,H03" playid="2,7,13" type="X" score="Y" vscore="7" hscore="0" tokens="PAT:K,1J,G"
+      text="BARNES,Jonathan kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="BARNES,Jonathan" qb="BARNES,Jonathan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="0"></score>
+   <drivesum plays="5" yards="62" top="1:58" driveindex="2" complete="Y"></drivesum>
+   <play hasball="LATECH" down="1" togo="0" spot="LATECH35" context="V,1,0,V35" playid="2,8,14" type="K" tokens="KO:1J,H00 TB:"
+      text="BARNES,Jonathan kickoff 65 yards to the RICE0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="BARNES,Jonathan" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,11:15" vh="H" spot="H25" clock="11:15" driveindex="3,14"></drivestart>
+   <play hasball="RICE" down="1" togo="10" spot="RICE25" context="H,1,10,H25" playid="3,1,15" clock="11:15" tokens="{DRIVE}:11:15"
+      text="RICE drive start at 11:15." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="RICE" down="1" togo="10" spot="RICE25" context="H,1,10,H25" playid="3,2,16" type="R" tokens="RUSH:24,H24, TACK:45"
+      text="STEWART, Samuel rush for loss of 1 yard to the RICE24 (FERGUSON, J.)." newcontext="H,2,11,H24">
+    <p_ru vh="H" name="STEWART, Samuel" gain="-1"></p_ru>
+    <p_tk vh="V" name="FERGUSON, J."></p_tk>
+   </play>
+   <play hasball="RICE" down="2" togo="11" spot="RICE24" context="H,2,11,H24" playid="3,3,17" type="P" tokens="PASS:6,C,9,H32 TACK:21"
+      text="JACKSON, Driphu pass complete to WRIGHT, Zach for 8 yards to the RICE32 (BARNES,Adairius)." newcontext="H,3,3,H32">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="COMP" rcv="WRIGHT, Zach" gain="8"></p_pa>
+    <p_tk vh="V" name="BARNES,Adairius"></p_tk>
+   </play>
+   <play hasball="RICE" down="3" togo="3" spot="RICE32" context="H,3,3,H32" playid="3,4,18" type="P" first="P" tokens="PASS:6,C,9,H44 TACK:21"
+      text="JACKSON, Driphu pass complete to WRIGHT, Zach for 12 yards to the RICE44, 1ST DOWN RICE (BARNES,Adairius)." newcontext="H,1,10,H44">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="COMP" rcv="WRIGHT, Zach" gain="12"></p_pa>
+    <p_tk vh="V" name="BARNES,Adairius"></p_tk>
+   </play>
+   <play hasball="RICE" down="1" togo="10" spot="RICE44" context="H,1,10,H44" playid="3,5,19" type="P" first="P" tokens="PASS:6,C,1B,V23 TACK:23"
+      text="JACKSON, Driphu pass complete to GERMAN, Nate for 33 yards to the LATECH23, 1ST DOWN RICE (BRICE, Kentrell)." newcontext="H,1,10,V23">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="COMP" rcv="GERMAN, Nate" gain="33"></p_pa>
+    <p_tk vh="V" name="BRICE, Kentrell"></p_tk>
+   </play>
+   <play hasball="RICE" down="1" togo="10" spot="LATECH23" context="H,1,10,V23" playid="3,6,20" type="R" tokens="RUSH:24,V28, TACK:24"
+      text="STEWART, Samuel rush for loss of 5 yards to the LATECH28 (THOMASON, Nick)." newcontext="H,2,15,V28">
+    <p_ru vh="H" name="STEWART, Samuel" gain="-5"></p_ru>
+    <p_tk vh="V" name="THOMASON, Nick"></p_tk>
+   </play>
+   <play hasball="RICE" down="2" togo="15" spot="LATECH28" context="H,2,15,V28" playid="3,7,21" type="P" first="P" tokens="PASS:6,C,12,V12 OB: TACK:29,24"
+      text="JACKSON, Driphu pass complete to ALAKA, Temi for 16 yards to the LATECH12, 1ST DOWN RICE, out-of-bounds (CLEVELAND, C.J.;THOMASON, Nick)." ob="Y" newcontext="H,1,10,V12">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="COMP" rcv="ALAKA, Temi" gain="16"></p_pa>
+    <p_tk vh="V" name="CLEVELAND, C.J." assist="Y"></p_tk>
+    <p_tk vh="V" name="THOMASON, Nick" assist="Y"></p_tk>
+   </play>
+   <play hasball="RICE" down="1" togo="10" spot="LATECH12" context="H,1,10,V12" playid="3,8,22" type="R" tokens="RUSH:24,V04, TACK:23"
+      text="STEWART, Samuel rush for 8 yards to the LATECH4 (BRICE, Kentrell)." newcontext="H,2,2,V04">
+    <p_ru vh="H" name="STEWART, Samuel" gain="8"></p_ru>
+    <p_tk vh="V" name="BRICE, Kentrell"></p_tk>
+   </play>
+   <play hasball="RICE" down="2" togo="2" spot="LATECH04" context="H,2,2,V04" playid="3,9,23" type="P" first="P" score="Y" vscore="7" hscore="6" clock="07:35" tokens="PASS:6,C,24,V00 T:07:35"
+      text="JACKSON, Driphu pass complete to STEWART, Samuel for 4 yards to the LATECH0, 1ST DOWN RICE, TOUCHDOWN, clock 07:35." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="COMP" rcv="STEWART, Samuel" gain="4"></p_pa>
+   </play>
+   <play hasball="RICE" down="1" togo="0" spot="LATECH03" context="H,1,0,V03" playid="3,10,24" type="X" score="Y" vscore="7" hscore="7" tokens="PAT:K,18,G"
+      text="TOBOLA, Hayden kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="TOBOLA, Hayden" qb="TOBOLA, Hayden" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="7"></score>
+   <drivesum plays="8" yards="75" top="3:40" driveindex="3" complete="Y"></drivesum>
+   <play hasball="RICE" down="1" togo="0" spot="RICE35" context="H,1,0,H35" playid="3,11,25" type="K" tokens="KO:2S,V05 RET:1,H38 TACK:2S"
+      text="FOX, Jack kickoff 60 yards to the LATECH5, HENDERSON, C. return 57 yards to the RICE38 (FOX, Jack)." newcontext="V,1,10,H38">
+    <p_ko vh="H" name="FOX, Jack" gain="60"></p_ko>
+    <p_kr vh="V" name="HENDERSON, C." gain="57"></p_kr>
+    <p_tk vh="H" name="FOX, Jack"></p_tk>
+   </play>
+   <drivestart poss="V,H38,07:35" vh="V" spot="H38" clock="07:35" driveindex="4,25"></drivestart>
+   <play hasball="LATECH" down="1" togo="10" spot="RICE38" context="V,1,10,H38" playid="4,1,26" clock="07:35" tokens="{DRIVE}:07:35"
+      text="LOUISIANA TECH drive start at 07:35." newcontext="V,1,10,H38">
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="RICE38" context="V,1,10,H38" playid="4,2,27" type="R" tokens="RUSH:28,H41, TACK:25"
+      text="DIXON, Kenneth rush for loss of 3 yards to the RICE41 (MCGASKEY, Tabar)." newcontext="V,2,13,H41">
+    <p_ru vh="V" name="DIXON, Kenneth" gain="-3"></p_ru>
+    <p_tk vh="H" name="MCGASKEY, Tabar"></p_tk>
+   </play>
+   <play hasball="LATECH" down="2" togo="13" spot="RICE41" context="V,2,13,H41" playid="4,3,28" type="R" tokens="RUSH:28,H37, TACK:4D"
+      text="DIXON, Kenneth rush for 4 yards to the RICE37 (LYONS, Alex)." newcontext="V,3,9,H37">
+    <p_ru vh="V" name="DIXON, Kenneth" gain="4"></p_ru>
+    <p_tk vh="H" name="LYONS, Alex"></p_tk>
+   </play>
+   <play hasball="LATECH" down="3" togo="9" spot="RICE37" context="V,3,9,H37" playid="4,4,29" type="P" first="P" tokens="PASS:6,C,3,H16 OB: TACK:22"
+      text="DRISKEL, Jeff pass complete to TURNER, Paul for 21 yards to the RICE16, 1ST DOWN LATECH, out-of-bounds (POLLARD, Ryan)." ob="Y" newcontext="V,1,10,H16">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="COMP" rcv="TURNER, Paul" gain="21"></p_pa>
+    <p_tk vh="H" name="POLLARD, Ryan"></p_tk>
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="RICE16" context="V,1,10,H16" playid="4,5,30" type="R" tokens="RUSH:28,H14, TACK:25,1D"
+      text="DIXON, Kenneth rush for 2 yards to the RICE14 (MCGASKEY, Tabar;THOMPSON, JP)." newcontext="V,2,8,H14">
+    <p_ru vh="V" name="DIXON, Kenneth" gain="2"></p_ru>
+    <p_tk vh="H" name="MCGASKEY, Tabar" assist="Y"></p_tk>
+    <p_tk vh="H" name="THOMPSON, JP" assist="Y"></p_tk>
+   </play>
+   <play hasball="LATECH" down="2" togo="8" spot="RICE14" context="V,2,8,H14" playid="4,6,31" type="P" first="P" score="Y" vscore="13" hscore="7" clock="04:53" tokens="PASS:6,C,1,H00 T:04:53"
+      text="DRISKEL, Jeff pass complete to HENDERSON, C. for 14 yards to the RICE0, 1ST DOWN LATECH, TOUCHDOWN, clock 04:53." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="COMP" rcv="HENDERSON, C." gain="14"></p_pa>
+   </play>
+   <play hasball="LATECH" down="1" togo="0" spot="RICE03" context="V,1,0,H03" playid="4,7,32" type="X" score="Y" vscore="14" hscore="7" tokens="PAT:K,1J,G"
+      text="BARNES,Jonathan kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="BARNES,Jonathan" qb="BARNES,Jonathan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="7"></score>
+   <drivesum plays="5" yards="38" top="2:42" driveindex="4" complete="Y"></drivesum>
+   <play hasball="LATECH" down="1" togo="0" spot="LATECH35" context="V,1,0,V35" playid="4,8,33" type="K" tokens="KO:1J,H00 RET:24,H24 TACK:32"
+      text="BARNES,Jonathan kickoff 65 yards to the RICE0, STEWART, Samuel return 24 yards to the RICE24 (SPENCER, Trey)." newcontext="H,1,10,H24">
+    <p_ko vh="V" name="BARNES,Jonathan" gain="65"></p_ko>
+    <p_kr vh="H" name="STEWART, Samuel" gain="24"></p_kr>
+    <p_tk vh="V" name="SPENCER, Trey"></p_tk>
+   </play>
+   <drivestart poss="H,H24,04:53" vh="H" spot="H24" clock="04:53" driveindex="5,33"></drivestart>
+   <play hasball="RICE" down="1" togo="10" spot="RICE24" context="H,1,10,H24" playid="5,1,34" clock="04:53" tokens="{DRIVE}:04:53"
+      text="RICE drive start at 04:53." newcontext="H,1,10,H24">
+   </play>
+   <play hasball="RICE" down="1" togo="10" spot="RICE24" context="H,1,10,H24" playid="5,2,35" type="P" tokens="PASS:6,I,4,* BRUP:15"
+      text="JACKSON, Driphu pass incomplete to PARKS, Dennis (ABRAHAM, Bryson)." newcontext="H,2,10,H24">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="INC" rcv="PARKS, Dennis"></p_pa>
+    <p_bu vh="V" name="ABRAHAM, Bryson"></p_bu>
+   </play>
+   <play hasball="RICE" down="2" togo="10" spot="RICE24" context="H,2,10,H24" playid="5,3,36" type="R" tokens="RUSH:1,H25, TACK:24 PEN:H,HO,A,12,H15,N"
+      text="DILLARD, Darik rush for 1 yard to the RICE25 (THOMASON, Nick), PENALTY RICE holding (ALAKA, Temi) 10 yards to the RICE15." newcontext="H,2,19,H15">
+    <p_ru vh="H" name="DILLARD, Darik" gain="1"></p_ru>
+    <p_tk vh="V" name="THOMASON, Nick"></p_tk>
+    <p_pn vh="H" code="HO" type="holding" name="ALAKA, Temi" result="ACCEPT" at="H25" yards="10"></p_pn>
+   </play>
+   <play hasball="RICE" down="2" togo="19" spot="RICE15" context="H,2,19,H15" playid="5,4,37" tokens="D:2,19"
+      text="2nd and 19." newcontext="H,2,19,H15">
+   </play>
+   <play hasball="RICE" down="2" togo="19" spot="RICE15" context="H,2,19,H15" playid="5,5,38" type="P" tokens="PASS:6,I,24,*"
+      text="JACKSON, Driphu pass incomplete to STEWART, Samuel." newcontext="H,3,19,H15">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="INC" rcv="STEWART, Samuel"></p_pa>
+   </play>
+   <play hasball="RICE" down="3" togo="19" spot="RICE15" context="H,3,19,H15" playid="5,6,39" type="R" tokens="RUSH:24,H18, TACK:24,6Z"
+      text="STEWART, Samuel rush for 3 yards to the RICE18 (THOMASON, Nick;FITTE, Beau)." newcontext="H,4,16,H18">
+    <p_ru vh="H" name="STEWART, Samuel" gain="3"></p_ru>
+    <p_tk vh="V" name="THOMASON, Nick" assist="Y"></p_tk>
+    <p_tk vh="V" name="FITTE, Beau" assist="Y"></p_tk>
+   </play>
+   <play hasball="RICE" down="4" togo="16" spot="RICE18" context="H,4,16,H18" playid="5,7,40" type="U" tokens="PUNT:3S,H48 FC:5"
+      text="FARRIMOND, Jame punt 30 yards to the RICE48, fair catch by TAYLOR, Trent." newcontext="V,1,10,H48">
+    <p_pu vh="H" name="FARRIMOND, Jame" gain="30" fc="TAYLOR, Trent"></p_pu>
+   </play>
+   <drivesum plays="4" yards="-6" top="1:27" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="V,H48,03:26" vh="V" spot="H48" clock="03:26" driveindex="6,40"></drivestart>
+   <play hasball="LATECH" down="1" togo="10" spot="RICE48" context="V,1,10,H48" playid="6,1,41" clock="03:26" tokens="{DRIVE}:03:26"
+      text="LOUISIANA TECH drive start at 03:26." newcontext="V,1,10,H48">
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="RICE48" context="V,1,10,H48" playid="6,2,42" type="P" tokens="PASS:6,C,3,H40 TACK:4D"
+      text="DRISKEL, Jeff pass complete to TURNER, Paul for 8 yards to the RICE40 (LYONS, Alex)." newcontext="V,2,2,H40">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="COMP" rcv="TURNER, Paul" gain="8"></p_pa>
+    <p_tk vh="H" name="LYONS, Alex"></p_tk>
+   </play>
+   <play hasball="LATECH" down="2" togo="2" spot="RICE40" context="V,2,2,H40" playid="6,3,43" type="E" tokens="PEN:V,PR,A,5,H45,N"
+      text="PENALTY LATECH illegal procedure (TAYLOR, Trent) 5 yards to the RICE45." newcontext="V,2,7,H45">
+    <p_pn vh="V" code="PR" type="illegal procedure" name="TAYLOR, Trent" result="ACCEPT" at="H40" yards="5"></p_pn>
+   </play>
+   <play hasball="LATECH" down="2" togo="7" spot="RICE45" context="V,2,7,H45" playid="6,4,44" type="R" tokens="RUSH:22,H43, TACK:22"
+      text="CRAFT, Jarred rush for 2 yards to the RICE43 (POLLARD, Ryan)." newcontext="V,3,5,H43">
+    <p_ru vh="V" name="CRAFT, Jarred" gain="2"></p_ru>
+    <p_tk vh="H" name="POLLARD, Ryan"></p_tk>
+   </play>
+   <play hasball="LATECH" down="3" togo="5" spot="RICE43" context="V,3,5,H43" playid="6,5,45" type="P" tokens="PASS:6,S,TM,H46 SACK:8"
+      text="DRISKEL, Jeff sacked for loss of 3 yards to the RICE46 (BROWN, Derek)." newcontext="V,4,8,H46">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="SACK" gain="-3"></p_pa>
+    <p_tk vh="H" name="BROWN, Derek" sack="Y"></p_tk>
+   </play>
+   <play hasball="LATECH" down="4" togo="8" spot="RICE46" context="V,4,8,H46" playid="6,6,46" type="U" tokens="PUNT:2H,H08 FC:19"
+      text="SHOUSE,Gerald punt 38 yards to the RICE8, fair catch by BANKS, VJ." newcontext="H,1,10,H08">
+    <p_pu vh="V" name="SHOUSE,Gerald" gain="38" in20="Y" fc="BANKS, VJ"></p_pu>
+   </play>
+   <drivesum plays="3" yards="2" top="2:17" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="H,H08,01:09" vh="H" spot="H08" clock="01:09" driveindex="7,46"></drivestart>
+   <play hasball="RICE" down="1" togo="10" spot="RICE08" context="H,1,10,H08" playid="7,1,47" clock="01:09" tokens="{DRIVE}:01:09"
+      text="RICE drive start at 01:09." newcontext="H,1,10,H08">
+   </play>
+   <play hasball="RICE" down="1" togo="10" spot="RICE08" context="H,1,10,H08" playid="7,2,48" type="P" tokens="PASS:6,C,4,H12 OB: TACK:21"
+      text="JACKSON, Driphu pass complete to PARKS, Dennis for 4 yards to the RICE12, out-of-bounds (BARNES,Adairius)." ob="Y" newcontext="H,2,6,H12">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="COMP" rcv="PARKS, Dennis" gain="4"></p_pa>
+    <p_tk vh="V" name="BARNES,Adairius"></p_tk>
+   </play>
+   <play hasball="RICE" down="2" togo="6" spot="RICE12" context="H,2,6,H12" playid="7,3,49" type="R" tokens="RUSH:1,H15, TACK:29"
+      text="DILLARD, Darik rush for 3 yards to the RICE15 (CLEVELAND, C.J.)." newcontext="H,3,3,H15">
+    <p_ru vh="H" name="DILLARD, Darik" gain="3"></p_ru>
+    <p_tk vh="V" name="CLEVELAND, C.J."></p_tk>
+   </play>
+   <score qtr="1" V="14" H="7"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="LATECH">
+    <firstdowns no="4" rush="1" pass="3" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:57"></misc>
+    <rush att="8" yds="17" gain="24" loss="7" td="0" long="12"></rush>
+    <pass comp="4" att="5" int="0" yds="90" td="2" long="47" sacks="1" sackyds="3"></pass>
+    <rcv no="4" yds="90" td="2" long="47"></rcv>
+    <punt no="1" yds="38" long="38" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="38.0"></punt>
+    <ko no="3" yds="186" ob="0" tb="1"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="13" tacka="4" tot_tack="17" tflua="3" tfla="0" tflyds="12" sacks="1" sackyds="6" brup="1" qbh="1"></defense>
+    <kr no="1" yds="57" td="0" long="57"></kr>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="RICE">
+    <firstdowns no="4" rush="0" pass="4" penalty="0"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:03"></misc>
+    <rush att="8" yds="6" gain="18" loss="12" td="0" long="8"></rush>
+    <pass comp="6" att="9" int="0" yds="77" td="1" long="33" sacks="1" sackyds="6"></pass>
+    <rcv no="6" yds="77" td="1" long="33"></rcv>
+    <punt no="2" yds="65" long="35" blkd="0" tb="0" fc="2" plus50="0" inside20="0" avg="32.5"></punt>
+    <ko no="1" yds="60" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="10" tacka="2" tot_tack="12" tflua="3" tfla="0" tflyds="7" sacks="1" sackyds="3"></defense>
+    <kr no="2" yds="45" td="0" long="24"></kr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="RICE" down="3" togo="3" spot="RICE15" context="H,3,3,H15" playid="7,4,50" type="#" clock="15:00" tokens="Q:2 T:15:00"
+      text="Start of 2nd quarter, clock 15:00." newcontext="H,3,3,H15">
+   </play>
+   <play hasball="RICE" down="3" togo="3" spot="RICE15" context="H,3,3,H15" playid="7,5,51" type="E" first="E" tokens="PASS:6,I,9,* BRUP:7 PEN:V,PI,A,7,H30,1 NOPLAY:"
+      text="JACKSON, Driphu pass incomplete to WRIGHT, Zach (WOODS, Xavier), PENALTY LATECH pass interference (WOODS, Xavier) 15 yards to the RICE30, 1ST DOWN RICE, NO PLAY." newcontext="H,1,10,H30">
+    <p_pn vh="V" code="PI" type="pass interference" name="WOODS, Xavier" result="ACCEPT" at="H15" yards="15"></p_pn>
+   </play>
+   <play hasball="RICE" down="1" togo="10" spot="RICE30" context="H,1,10,H30" playid="7,6,52" type="R" tokens="RUSH:3,H29, TACK:6Z"
+      text="DAVIS, Jowan rush for loss of 1 yard to the RICE29 (FITTE, Beau)." newcontext="H,2,11,H29">
+    <p_ru vh="H" name="DAVIS, Jowan" gain="-1"></p_ru>
+    <p_tk vh="V" name="FITTE, Beau"></p_tk>
+   </play>
+   <play hasball="RICE" down="2" togo="11" spot="RICE29" context="H,2,11,H29" playid="7,7,53" type="P" tokens="PASS:6,I,27,* QBH:V,45"
+      text="JACKSON, Driphu pass incomplete to WALTER, Austin, QB hurry by FERGUSON, J.." newcontext="H,3,11,H29">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="INC" rcv="WALTER, Austin"></p_pa>
+    <p_qbh vh="V" name="FERGUSON, J."></p_qbh>
+   </play>
+   <play hasball="RICE" down="3" togo="11" spot="RICE29" context="H,3,11,H29" playid="7,8,54" type="P" tokens="PASS:6,I,9,*"
+      text="JACKSON, Driphu pass incomplete to WRIGHT, Zach." newcontext="H,4,11,H29">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="INC" rcv="WRIGHT, Zach"></p_pa>
+   </play>
+   <play hasball="RICE" down="4" togo="11" spot="RICE29" context="H,4,11,H29" playid="7,9,55" type="U" tokens="PUNT:3S,V33 FC:5"
+      text="FARRIMOND, Jame punt 38 yards to the LATECH33, fair catch by TAYLOR, Trent." newcontext="V,1,10,V33">
+    <p_pu vh="H" name="FARRIMOND, Jame" gain="38" fc="TAYLOR, Trent"></p_pu>
+   </play>
+   <drivesum plays="5" yards="21" top="2:09" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="V,V33,14:00" vh="V" spot="V33" clock="14:00" driveindex="8,55"></drivestart>
+   <play hasball="LATECH" down="1" togo="10" spot="LATECH33" context="V,1,10,V33" playid="8,1,56" clock="14:00" tokens="{DRIVE}:14:00"
+      text="LOUISIANA TECH drive start at 14:00." newcontext="V,1,10,V33">
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="LATECH33" context="V,1,10,V33" playid="8,2,57" type="R" tokens="RUSH:22,V33, TACK:8"
+      text="CRAFT, Jarred rush for no gain to the LATECH33 (BROWN, Derek)." newcontext="V,2,10,V33">
+    <p_ru vh="V" name="CRAFT, Jarred" gain="0"></p_ru>
+    <p_tk vh="H" name="BROWN, Derek"></p_tk>
+   </play>
+   <play hasball="LATECH" down="2" togo="10" spot="LATECH33" context="V,2,10,V33" playid="8,3,58" type="P" tokens="PASS:6,C,3,V34 TACK:26"
+      text="DRISKEL, Jeff pass complete to TURNER, Paul for 1 yard to the LATECH34 (DOUGLAS, Brando)." newcontext="V,3,9,V34">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="COMP" rcv="TURNER, Paul" gain="1"></p_pa>
+    <p_tk vh="H" name="DOUGLAS, Brando"></p_tk>
+   </play>
+   <play hasball="LATECH" down="3" togo="9" spot="LATECH34" context="V,3,9,V34" playid="8,4,59" type="P" tokens="PASS:6,I,3,* QBH:H,8"
+      text="DRISKEL, Jeff pass incomplete to TURNER, Paul, QB hurry by BROWN, Derek." newcontext="V,4,9,V34">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="INC" rcv="TURNER, Paul"></p_pa>
+    <p_qbh vh="H" name="BROWN, Derek"></p_qbh>
+   </play>
+   <play hasball="LATECH" down="4" togo="9" spot="LATECH34" context="V,4,9,V34" playid="8,5,60" type="#" clock="12:26" tokens="TOUT:V T:12:26"
+      text="Timeout Louisiana Tech, clock 12:26." newcontext="V,4,9,V34">
+    <p_to vh="V" team="Louisiana Tech"></p_to>
+   </play>
+   <play hasball="LATECH" down="4" togo="9" spot="LATECH34" context="V,4,9,V34" playid="8,6,61" type="U" tokens="PUNT:2H,H20 FC:24"
+      text="SHOUSE,Gerald punt 46 yards to the RICE20, fair catch by STEWART, Samuel." newcontext="H,1,10,H20">
+    <p_pu vh="V" name="SHOUSE,Gerald" gain="46" fc="STEWART, Samuel"></p_pu>
+   </play>
+   <drivesum plays="3" yards="1" top="1:43" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="H,H20,12:17" vh="H" spot="H20" clock="12:17" driveindex="9,61"></drivestart>
+   <play hasball="RICE" down="1" togo="10" spot="RICE20" context="H,1,10,H20" playid="9,1,62" clock="12:17" tokens="{DRIVE}:12:17"
+      text="RICE drive start at 12:17." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="RICE" down="1" togo="10" spot="RICE20" context="H,1,10,H20" playid="9,2,63" type="R" tokens="RUSH:6,H22, TACK:6Z,29"
+      text="JACKSON, Driphu rush for 2 yards to the RICE22 (FITTE, Beau;CLEVELAND, C.J.)." newcontext="H,2,8,H22">
+    <p_ru vh="H" name="JACKSON, Driphu" gain="2"></p_ru>
+    <p_tk vh="V" name="FITTE, Beau" assist="Y"></p_tk>
+    <p_tk vh="V" name="CLEVELAND, C.J." assist="Y"></p_tk>
+   </play>
+   <play hasball="RICE" down="2" togo="8" spot="RICE22" context="H,2,8,H22" playid="9,3,64" type="P" first="P" tokens="PASS:6,C,4,H40 TACK:15"
+      text="JACKSON, Driphu pass complete to PARKS, Dennis for 18 yards to the RICE40, 1ST DOWN RICE (ABRAHAM, Bryson)." newcontext="H,1,10,H40">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="COMP" rcv="PARKS, Dennis" gain="18"></p_pa>
+    <p_tk vh="V" name="ABRAHAM, Bryson"></p_tk>
+   </play>
+   <play hasball="RICE" down="1" togo="10" spot="RICE40" context="H,1,10,H40" playid="9,4,65" type="R" tokens="RUSH:24,H45, TACK:15"
+      text="STEWART, Samuel rush for 5 yards to the RICE45 (ABRAHAM, Bryson)." newcontext="H,2,5,H45">
+    <p_ru vh="H" name="STEWART, Samuel" gain="5"></p_ru>
+    <p_tk vh="V" name="ABRAHAM, Bryson"></p_tk>
+   </play>
+   <play hasball="RICE" down="2" togo="5" spot="RICE45" context="H,2,5,H45" playid="9,5,66" type="P" first="P" tokens="PASS:6,C,12,V45 TACK:29"
+      text="JACKSON, Driphu pass complete to ALAKA, Temi for 10 yards to the LATECH45, 1ST DOWN RICE (CLEVELAND, C.J.)." newcontext="H,1,10,V45">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="COMP" rcv="ALAKA, Temi" gain="10"></p_pa>
+    <p_tk vh="V" name="CLEVELAND, C.J."></p_tk>
+   </play>
+   <play hasball="RICE" down="1" togo="10" spot="LATECH45" context="H,1,10,V45" playid="9,6,67" type="E" tokens="PEN:H,FS,A,73,H50,N"
+      text="PENALTY RICE false start (REUE, Andrew) 5 yards to the 50 yardline." newcontext="H,1,15,H50">
+    <p_pn vh="H" code="FS" type="false start" name="REUE, Andrew" result="ACCEPT" at="V45" yards="5"></p_pn>
+   </play>
+   <play hasball="RICE" down="1" togo="15" spot="RICE50" context="H,1,15,H50" playid="9,7,68" type="R" tokens="RUSH:6,V45,"
+      text="JACKSON, Driphu rush for 5 yards to the LATECH45." newcontext="H,2,10,V45">
+    <p_ru vh="H" name="JACKSON, Driphu" gain="5"></p_ru>
+   </play>
+   <play hasball="RICE" down="2" togo="10" spot="LATECH45" context="H,2,10,V45" playid="9,8,69" type="P" tokens="PASS:6,I,4,*"
+      text="JACKSON, Driphu pass incomplete to PARKS, Dennis." newcontext="H,3,10,V45">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="INC" rcv="PARKS, Dennis"></p_pa>
+   </play>
+   <play hasball="RICE" down="3" togo="10" spot="LATECH45" context="H,3,10,V45" playid="9,9,70" type="P" tokens="PASS:6,S,TM,V48 SACK:9Z"
+      text="JACKSON, Driphu sacked for loss of 3 yards to the LATECH48 (BUTLER, Vernon)." newcontext="H,4,13,V48">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="SACK" gain="-3"></p_pa>
+    <p_tk vh="V" name="BUTLER, Vernon" sack="Y"></p_tk>
+   </play>
+   <play hasball="RICE" down="4" togo="13" spot="LATECH48" context="H,4,13,V48" playid="9,10,71" type="U" tokens="PUNT:3S,V00 TB:"
+      text="FARRIMOND, Jame punt 48 yards to the LATECH0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="FARRIMOND, Jame" gain="48" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="7" yards="32" top="3:46" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="V,V20,08:31" vh="V" spot="V20" clock="08:31" driveindex="10,71"></drivestart>
+   <play hasball="LATECH" down="1" togo="10" spot="LATECH20" context="V,1,10,V20" playid="10,1,72" clock="08:31" tokens="{DRIVE}:08:31"
+      text="LOUISIANA TECH drive start at 08:31." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="LATECH20" context="V,1,10,V20" playid="10,2,73" type="R" tokens="RUSH:28,V23, TACK:22"
+      text="DIXON, Kenneth rush for 3 yards to the LATECH23 (POLLARD, Ryan)." newcontext="V,2,7,V23">
+    <p_ru vh="V" name="DIXON, Kenneth" gain="3"></p_ru>
+    <p_tk vh="H" name="POLLARD, Ryan"></p_tk>
+   </play>
+   <play hasball="LATECH" down="2" togo="7" spot="LATECH23" context="V,2,7,V23" playid="10,3,74" type="P" first="P" tokens="PASS:6,C,1,V49 TACK:44"
+      text="DRISKEL, Jeff pass complete to HENDERSON, C. for 26 yards to the LATECH49, 1ST DOWN LATECH (WOMAC, Brian)." newcontext="V,1,10,V49">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="COMP" rcv="HENDERSON, C." gain="26"></p_pa>
+    <p_tk vh="H" name="WOMAC, Brian"></p_tk>
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="LATECH49" context="V,1,10,V49" playid="10,4,75" type="P" tokens="PASS:6,C,1,H49 TACK:13"
+      text="DRISKEL, Jeff pass complete to HENDERSON, C. for 2 yards to the RICE49 (WHITE, Destri)." newcontext="V,2,8,H49">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="COMP" rcv="HENDERSON, C." gain="2"></p_pa>
+    <p_tk vh="H" name="WHITE, Destri"></p_tk>
+   </play>
+   <play hasball="LATECH" down="2" togo="8" spot="RICE49" context="V,2,8,H49" playid="10,5,76" type="#" clock="06:44" tokens="TOUT:V T:06:44"
+      text="Timeout Louisiana Tech, clock 06:44." newcontext="V,2,8,H49">
+    <p_to vh="V" team="Louisiana Tech"></p_to>
+   </play>
+   <play hasball="LATECH" down="2" togo="8" spot="RICE49" context="V,2,8,H49" playid="10,6,77" type="P" first="P" tokens="PASS:6,C,3,H40 TACK:26"
+      text="DRISKEL, Jeff pass complete to TURNER, Paul for 9 yards to the RICE40, 1ST DOWN LATECH (DOUGLAS, Brando)." newcontext="V,1,10,H40">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="COMP" rcv="TURNER, Paul" gain="9"></p_pa>
+    <p_tk vh="H" name="DOUGLAS, Brando"></p_tk>
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="RICE40" context="V,1,10,H40" playid="10,7,78" type="P" first="E" tokens="PASS:6,C,80,H32 TACK:1S PEN:H,PF,A,1S,H17,1"
+      text="DRISKEL, Jeff pass complete to MCKNIGHT, K. for 8 yards to the RICE32 (IBE, JT), PENALTY RICE personal foul (IBE, JT) 15 yards to the RICE17, 1ST DOWN LATECH." newcontext="V,1,10,H17">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="COMP" rcv="MCKNIGHT, K." gain="8"></p_pa>
+    <p_tk vh="H" name="IBE, JT"></p_tk>
+    <p_pn vh="H" code="PF" type="personal foul" name="IBE, JT" result="ACCEPT" at="H32" yards="15"></p_pn>
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="RICE17" context="V,1,10,H17" playid="10,8,79" tokens="D:1,10"
+      text="1st and 10." newcontext="V,1,10,H17">
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="RICE17" context="V,1,10,H17" playid="10,9,80" type="P" first="P" tokens="PASS:6,C,28,H01 OB: TACK:96"
+      text="DRISKEL, Jeff pass complete to DIXON, Kenneth for 16 yards to the RICE1, 1ST DOWN LATECH, out-of-bounds (ABERCRUMBIA, Za)." ob="Y" newcontext="V,1,0,H01">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="COMP" rcv="DIXON, Kenneth" gain="16"></p_pa>
+    <p_tk vh="H" name="ABERCRUMBIA, Za"></p_tk>
+   </play>
+   <play hasball="LATECH" down="1" togo="0" spot="RICE01" context="V,1,0,H01" playid="10,10,81" type="R" tokens="RUSH:28,H02, TACK:96,44"
+      text="DIXON, Kenneth rush for loss of 1 yard to the RICE2 (ABERCRUMBIA, Za;WOMAC, Brian)." newcontext="V,2,0,H02">
+    <p_ru vh="V" name="DIXON, Kenneth" gain="-1"></p_ru>
+    <p_tk vh="H" name="ABERCRUMBIA, Za" assist="Y"></p_tk>
+    <p_tk vh="H" name="WOMAC, Brian" assist="Y"></p_tk>
+   </play>
+   <play hasball="LATECH" down="2" togo="0" spot="RICE02" context="V,2,0,H02" playid="10,11,82" type="R" tokens="RUSH:28,H04, TACK:22"
+      text="DIXON, Kenneth rush for loss of 2 yards to the RICE4 (POLLARD, Ryan)." newcontext="V,3,0,H04">
+    <p_ru vh="V" name="DIXON, Kenneth" gain="-2"></p_ru>
+    <p_tk vh="H" name="POLLARD, Ryan"></p_tk>
+   </play>
+   <play hasball="LATECH" down="3" togo="0" spot="RICE04" context="V,3,0,H04" playid="10,12,83" type="P" first="E" tokens="PASS:6,I,1,* PEN:H,UC,A,1S,H02,1"
+      text="DRISKEL, Jeff pass incomplete to HENDERSON, C., PENALTY RICE unsportsmanlike conduct (IBE, JT) 2 yards to the RICE2, 1ST DOWN LATECH." newcontext="V,1,0,H02">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="INC" rcv="HENDERSON, C."></p_pa>
+    <p_pn vh="H" code="UC" type="unsportsmanlike conduct" name="IBE, JT" result="ACCEPT" at="H04" yards="2"></p_pn>
+   </play>
+   <play hasball="LATECH" down="1" togo="0" spot="RICE02" context="V,1,0,H02" playid="10,13,84" tokens="D:1,2"
+      text="1st and 2." newcontext="V,1,0,H02">
+   </play>
+   <play hasball="LATECH" down="1" togo="0" spot="RICE02" context="V,1,0,H02" playid="10,14,85" type="R" score="Y" vscore="20" hscore="7" clock="03:40" tokens="RUSH:28,H00, T:03:40"
+      text="DIXON, Kenneth rush for 2 yards to the RICE0, TOUCHDOWN, clock 03:40." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="DIXON, Kenneth" gain="2"></p_ru>
+   </play>
+   <play hasball="LATECH" down="1" togo="0" spot="RICE03" context="V,1,0,H03" playid="10,15,86" type="X" score="Y" vscore="21" hscore="7" tokens="PAT:K,1J,G"
+      text="BARNES,Jonathan kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="BARNES,Jonathan" qb="BARNES,Jonathan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="21" H="7"></score>
+   <drivesum plays="10" yards="80" top="4:51" driveindex="10" complete="Y"></drivesum>
+   <play hasball="LATECH" down="1" togo="0" spot="LATECH35" context="V,1,0,V35" playid="10,16,87" type="K" tokens="KO:1J,H17 RET:27,H24 OB:"
+      text="BARNES,Jonathan kickoff 48 yards to the RICE17, WALTER, Austin return 7 yards to the RICE24, out-of-bounds." ob="Y" newcontext="H,1,10,H24">
+    <p_ko vh="V" name="BARNES,Jonathan" gain="48"></p_ko>
+    <p_kr vh="H" name="WALTER, Austin" gain="7"></p_kr>
+   </play>
+   <drivestart poss="H,H24,03:40" vh="H" spot="H24" clock="03:40" driveindex="11,87"></drivestart>
+   <play hasball="RICE" down="1" togo="10" spot="RICE24" context="H,1,10,H24" playid="11,1,88" clock="03:40" tokens="{DRIVE}:03:40"
+      text="RICE drive start at 03:40." newcontext="H,1,10,H24">
+   </play>
+   <play hasball="RICE" down="1" togo="10" spot="RICE24" context="H,1,10,H24" playid="11,2,89" type="R" tokens="RUSH:3,H20, TACK:96"
+      text="DAVIS, Jowan rush for loss of 4 yards to the RICE20 (PORTER, Tyler)." newcontext="H,2,14,H20">
+    <p_ru vh="H" name="DAVIS, Jowan" gain="-4"></p_ru>
+    <p_tk vh="V" name="PORTER, Tyler"></p_tk>
+   </play>
+   <play hasball="RICE" down="2" togo="14" spot="RICE20" context="H,2,14,H20" playid="11,3,90" type="P" tokens="PASS:6,I,12,* BRUP:9Z"
+      text="JACKSON, Driphu pass incomplete to ALAKA, Temi (BUTLER, Vernon)." newcontext="H,3,14,H20">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="INC" rcv="ALAKA, Temi"></p_pa>
+    <p_bu vh="V" name="BUTLER, Vernon"></p_bu>
+   </play>
+   <play hasball="RICE" down="3" togo="14" spot="RICE20" context="H,3,14,H20" playid="11,4,91" type="P" tokens="PASS:6,I,9,*"
+      text="JACKSON, Driphu pass incomplete to WRIGHT, Zach." newcontext="H,4,14,H20">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="INC" rcv="WRIGHT, Zach"></p_pa>
+   </play>
+   <play hasball="RICE" down="4" togo="14" spot="RICE20" context="H,4,14,H20" playid="11,5,92" type="U" tokens="PUNT:3S,V11 OB:"
+      text="FARRIMOND, Jame punt 69 yards to the LATECH11, out-of-bounds." ob="Y" newcontext="V,1,10,V11">
+    <p_pu vh="H" name="FARRIMOND, Jame" gain="69" in20="Y" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-4" top="1:04" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="V,V11,02:36" vh="V" spot="V11" clock="02:36" driveindex="12,92"></drivestart>
+   <play hasball="LATECH" down="1" togo="10" spot="LATECH11" context="V,1,10,V11" playid="12,1,93" clock="02:36" tokens="{DRIVE}:02:36"
+      text="LOUISIANA TECH drive start at 02:36." newcontext="V,1,10,V11">
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="LATECH11" context="V,1,10,V11" playid="12,2,94" type="R" first="R" tokens="RUSH:28,V26, TACK:1D"
+      text="DIXON, Kenneth rush for 15 yards to the LATECH26, 1ST DOWN LATECH (THOMPSON, JP)." newcontext="V,1,10,V26">
+    <p_ru vh="V" name="DIXON, Kenneth" gain="15"></p_ru>
+    <p_tk vh="H" name="THOMPSON, JP"></p_tk>
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="LATECH26" context="V,1,10,V26" playid="12,3,95" type="P" first="P" tokens="PASS:6,C,5,H11 TACK:46"
+      text="DRISKEL, Jeff pass complete to TAYLOR, Trent for 63 yards to the RICE11, 1ST DOWN LATECH (ELDER, Nick)." newcontext="V,1,10,H11">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="COMP" rcv="TAYLOR, Trent" gain="63"></p_pa>
+    <p_tk vh="H" name="ELDER, Nick"></p_tk>
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="RICE11" context="V,1,10,H11" playid="12,4,96" type="P" tokens="PASS:6,C,5,H04 TACK:11,96"
+      text="DRISKEL, Jeff pass complete to TAYLOR, Trent for 7 yards to the RICE4 (FUHRMAN, Garret;ABERCRUMBIA, Za)." newcontext="V,2,3,H04">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="COMP" rcv="TAYLOR, Trent" gain="7"></p_pa>
+    <p_tk vh="H" name="FUHRMAN, Garret" assist="Y"></p_tk>
+    <p_tk vh="H" name="ABERCRUMBIA, Za" assist="Y"></p_tk>
+   </play>
+   <play hasball="LATECH" down="2" togo="3" spot="RICE04" context="V,2,3,H04" playid="12,5,97" type="R" first="R" score="Y" vscore="27" hscore="7" clock="00:59" tokens="RUSH:28,H00, T:00:59"
+      text="DIXON, Kenneth rush for 4 yards to the RICE0, 1ST DOWN LATECH, TOUCHDOWN, clock 00:59." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="DIXON, Kenneth" gain="4"></p_ru>
+   </play>
+   <play hasball="LATECH" down="1" togo="0" spot="RICE03" context="V,1,0,H03" playid="12,6,98" type="X" score="Y" vscore="28" hscore="7" tokens="PAT:K,1J,G"
+      text="BARNES,Jonathan kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="BARNES,Jonathan" qb="BARNES,Jonathan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="28" H="7"></score>
+   <drivesum plays="4" yards="89" top="1:37" driveindex="12" complete="Y"></drivesum>
+   <play hasball="LATECH" down="1" togo="0" spot="LATECH35" context="V,1,0,V35" playid="12,7,99" type="K" tokens="KO:1J,H20 RET:27,H31 TACK:49"
+      text="BARNES,Jonathan kickoff 45 yards to the RICE20, WALTER, Austin return 11 yards to the RICE31 (BLANKENSHIP, E.)." newcontext="H,1,10,H31">
+    <p_ko vh="V" name="BARNES,Jonathan" gain="45"></p_ko>
+    <p_kr vh="H" name="WALTER, Austin" gain="11"></p_kr>
+    <p_tk vh="V" name="BLANKENSHIP, E."></p_tk>
+   </play>
+   <drivestart poss="H,H31,00:59" vh="H" spot="H31" clock="00:59" driveindex="13,99"></drivestart>
+   <play hasball="RICE" down="1" togo="10" spot="RICE31" context="H,1,10,H31" playid="13,1,100" clock="00:59" tokens="{DRIVE}:00:59"
+      text="RICE drive start at 00:59." newcontext="H,1,10,H31">
+   </play>
+   <play hasball="RICE" down="1" togo="10" spot="RICE31" context="H,1,10,H31" playid="13,2,101" type="R" tokens="RUSH:1,H33, TACK:9Z"
+      text="DILLARD, Darik rush for 2 yards to the RICE33 (BUTLER, Vernon)." newcontext="H,2,8,H33">
+    <p_ru vh="H" name="DILLARD, Darik" gain="2"></p_ru>
+    <p_tk vh="V" name="BUTLER, Vernon"></p_tk>
+   </play>
+   <play hasball="RICE" down="2" togo="8" spot="RICE33" context="H,2,8,H33" playid="13,3,102" type="R" tokens="RUSH:1,H40, TACK:23"
+      text="DILLARD, Darik rush for 7 yards to the RICE40 (BRICE, Kentrell)." newcontext="H,3,1,H40">
+    <p_ru vh="H" name="DILLARD, Darik" gain="7"></p_ru>
+    <p_tk vh="V" name="BRICE, Kentrell"></p_tk>
+   </play>
+   <play hasball="RICE" down="3" togo="1" spot="RICE40" context="H,3,1,H40" playid="13,4,103" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of half, clock 00:00." newcontext="H,3,1,H40">
+   </play>
+   <drivesum plays="2" yards="9" top="0:59" driveindex="13" complete="Y"></drivesum>
+   <score qtr="2" V="28" H="7"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="LATECH">
+    <firstdowns no="8" rush="2" pass="4" penalty="2"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="0" thirdatt="1" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:11"></misc>
+    <rush att="7" yds="21" gain="24" loss="3" td="2" long="3"></rush>
+    <pass comp="8" att="10" int="0" yds="132" td="0" long="16" sacks="0" sackyds="0"></pass>
+    <rcv no="8" yds="132" td="0" long="16"></rcv>
+    <punt no="1" yds="46" long="8" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="46.0"></punt>
+    <ko no="2" yds="93" ob="0" tb="0"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="9" tacka="2" tot_tack="11" tflua="3" tfla="0" tflyds="8" sacks="1" sackyds="3" brup="1" qbh="1"></defense>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="RICE">
+    <firstdowns no="3" rush="0" pass="2" penalty="1"></firstdowns>
+    <penalties no="3" yds="22"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:49"></misc>
+    <rush att="8" yds="13" gain="21" loss="8" td="0" long="0"></rush>
+    <pass comp="2" att="7" int="0" yds="28" td="0" long="0" sacks="1" sackyds="3"></pass>
+    <rcv no="2" yds="28" td="0" long="0"></rcv>
+    <punt no="3" yds="155" long="34" blkd="0" tb="1" fc="1" plus50="1" inside20="1" avg="51.7"></punt>
+    <defense tackua="11" tacka="4" tot_tack="15" tflua="1" tfla="2" tflyds="3" sacks="0" sackyds="0" qbh="1"></defense>
+    <kr no="2" yds="18" td="0" long="0"></kr>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="RICE" down="3" togo="1" spot="RICE40" context="H,3,1,H40" playid="13,5,104" type="#" clock="15:00" tokens="Q:3 T:15:00"
+      text="Start of 3rd quarter, clock 15:00." newcontext="H,3,1,H40">
+   </play>
+   <play hasball="RICE" down="3" togo="1" spot="RICE40" context="H,3,1,H40" playid="13,6,105" type="K" tokens="KO:2S,V00 TB:"
+      text="FOX, Jack kickoff 60 yards to the LATECH0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="FOX, Jack" gain="60" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,15:00" vh="V" spot="V25" clock="15:00" driveindex="14,105"></drivestart>
+   <play hasball="LATECH" down="1" togo="10" spot="LATECH25" context="V,1,10,V25" playid="14,1,106" clock="15:00" tokens="{DRIVE}:15:00"
+      text="LOUISIANA TECH drive start at 15:00." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="LATECH25" context="V,1,10,V25" playid="14,2,107" type="R" tokens="RUSH:28,V34, TACK:4D"
+      text="DIXON, Kenneth rush for 9 yards to the LATECH34 (LYONS, Alex)." newcontext="V,2,1,V34">
+    <p_ru vh="V" name="DIXON, Kenneth" gain="9"></p_ru>
+    <p_tk vh="H" name="LYONS, Alex"></p_tk>
+   </play>
+   <play hasball="LATECH" down="2" togo="1" spot="LATECH34" context="V,2,1,V34" playid="14,3,108" type="P" first="P" tokens="PASS:6,C,1,H42"
+      text="DRISKEL, Jeff pass complete to HENDERSON, C. for 24 yards to the RICE42, 1ST DOWN LATECH." newcontext="V,1,10,H42">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="COMP" rcv="HENDERSON, C." gain="24"></p_pa>
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="RICE42" context="V,1,10,H42" playid="14,4,109" type="P" tokens="PASS:6,S,TM,H46 SACK:4D"
+      text="DRISKEL, Jeff sacked for loss of 4 yards to the RICE46 (LYONS, Alex)." newcontext="V,2,14,H46">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="SACK" gain="-4"></p_pa>
+    <p_tk vh="H" name="LYONS, Alex" sack="Y"></p_tk>
+   </play>
+   <play hasball="LATECH" down="2" togo="14" spot="RICE46" context="V,2,14,H46" playid="14,5,110" type="P" first="P" tokens="PASS:6,C,5,H31 OB: TACK:25"
+      text="DRISKEL, Jeff pass complete to TAYLOR, Trent for 15 yards to the RICE31, 1ST DOWN LATECH, out-of-bounds (MCGASKEY, Tabar)." ob="Y" newcontext="V,1,10,H31">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="COMP" rcv="TAYLOR, Trent" gain="15"></p_pa>
+    <p_tk vh="H" name="MCGASKEY, Tabar"></p_tk>
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="RICE31" context="V,1,10,H31" playid="14,6,111" type="R" tokens="RUSH:28,H29, TACK:1S,22"
+      text="DIXON, Kenneth rush for 2 yards to the RICE29 (IBE, JT;POLLARD, Ryan)." newcontext="V,2,8,H29">
+    <p_ru vh="V" name="DIXON, Kenneth" gain="2"></p_ru>
+    <p_tk vh="H" name="IBE, JT" assist="Y"></p_tk>
+    <p_tk vh="H" name="POLLARD, Ryan" assist="Y"></p_tk>
+   </play>
+   <play hasball="LATECH" down="2" togo="8" spot="RICE29" context="V,2,8,H29" playid="14,7,112" type="P" tokens="PASS:6,I,16,*"
+      text="DRISKEL, Jeff pass incomplete to GAINES, Marcus." newcontext="V,3,8,H29">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="INC" rcv="GAINES, Marcus"></p_pa>
+   </play>
+   <play hasball="LATECH" down="3" togo="8" spot="RICE29" context="V,3,8,H29" playid="14,8,113" type="E" tokens="PASS:6,I,5,* PEN:H,OS,A,96,H24,N NOPLAY:"
+      text="DRISKEL, Jeff pass incomplete to TAYLOR, Trent, PENALTY RICE offside (ABERCRUMBIA, Za) 5 yards to the RICE24, NO PLAY." newcontext="V,3,3,H24">
+    <p_pn vh="H" code="OS" type="offside" name="ABERCRUMBIA, Za" result="ACCEPT" at="H29" yards="5"></p_pn>
+   </play>
+   <play hasball="LATECH" down="3" togo="3" spot="RICE24" context="V,3,3,H24" playid="14,9,114" type="#" clock="11:56" tokens="TOUT:V T:11:56"
+      text="Timeout Louisiana Tech, clock 11:56." newcontext="V,3,3,H24">
+    <p_to vh="V" team="Louisiana Tech"></p_to>
+   </play>
+   <play hasball="LATECH" down="3" togo="3" spot="RICE24" context="V,3,3,H24" playid="14,10,115" type="P" first="P" score="Y" vscore="34" hscore="7" clock="11:47" tokens="PASS:6,C,1,H00 T:11:47"
+      text="DRISKEL, Jeff pass complete to HENDERSON, C. for 24 yards to the RICE0, 1ST DOWN LATECH, TOUCHDOWN, clock 11:47." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="COMP" rcv="HENDERSON, C." gain="24"></p_pa>
+   </play>
+   <play hasball="LATECH" down="1" togo="0" spot="RICE03" context="V,1,0,H03" playid="14,11,116" type="X" score="Y" vscore="35" hscore="7" tokens="PAT:K,1J,G"
+      text="BARNES,Jonathan kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="BARNES,Jonathan" qb="BARNES,Jonathan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="35" H="7"></score>
+   <drivesum plays="7" yards="75" top="3:13" driveindex="14" complete="Y"></drivesum>
+   <play hasball="LATECH" down="1" togo="0" spot="LATECH35" context="V,1,0,V35" playid="14,12,117" type="K" tokens="KO:39,H08 RET:24,H28 TACK:25"
+      text="FISCHER, Kyle kickoff 57 yards to the RICE8, STEWART, Samuel return 20 yards to the RICE28 (MARTIN, Blake)." newcontext="H,1,10,H28">
+    <p_ko vh="V" name="FISCHER, Kyle" gain="57"></p_ko>
+    <p_kr vh="H" name="STEWART, Samuel" gain="20"></p_kr>
+    <p_tk vh="V" name="MARTIN, Blake"></p_tk>
+   </play>
+   <drivestart poss="H,H28,11:47" vh="H" spot="H28" clock="11:47" driveindex="15,117"></drivestart>
+   <play hasball="RICE" down="1" togo="10" spot="RICE28" context="H,1,10,H28" playid="15,1,118" clock="11:47" tokens="{DRIVE}:11:47"
+      text="RICE drive start at 11:47." newcontext="H,1,10,H28">
+   </play>
+   <play hasball="RICE" down="1" togo="10" spot="RICE28" context="H,1,10,H28" playid="15,2,119" type="R" tokens="RUSH:6,H27, TACK:9Z"
+      text="JACKSON, Driphu rush for loss of 1 yard to the RICE27 (BUTLER, Vernon)." newcontext="H,2,11,H27">
+    <p_ru vh="H" name="JACKSON, Driphu" gain="-1"></p_ru>
+    <p_tk vh="V" name="BUTLER, Vernon"></p_tk>
+   </play>
+   <play hasball="RICE" down="2" togo="11" spot="RICE27" context="H,2,11,H27" playid="15,3,120" type="R" tokens="RUSH:6,H32, TACK:6Z"
+      text="JACKSON, Driphu rush for 5 yards to the RICE32 (FITTE, Beau)." newcontext="H,3,6,H32">
+    <p_ru vh="H" name="JACKSON, Driphu" gain="5"></p_ru>
+    <p_tk vh="V" name="FITTE, Beau"></p_tk>
+   </play>
+   <play hasball="RICE" down="3" togo="6" spot="RICE32" context="H,3,6,H32" playid="15,4,121" type="R" first="R" tokens="RUSH:6,H42, TACK:23"
+      text="JACKSON, Driphu rush for 10 yards to the RICE42, 1ST DOWN RICE (BRICE, Kentrell)." newcontext="H,1,10,H42">
+    <p_ru vh="H" name="JACKSON, Driphu" gain="10"></p_ru>
+    <p_tk vh="V" name="BRICE, Kentrell"></p_tk>
+   </play>
+   <play hasball="RICE" down="1" togo="10" spot="RICE42" context="H,1,10,H42" playid="15,5,122" type="R" tokens="RUSH:6,H50, TACK:96"
+      text="JACKSON, Driphu rush for 8 yards to the 50 yardline (PORTER, Tyler)." newcontext="H,2,2,H50">
+    <p_ru vh="H" name="JACKSON, Driphu" gain="8"></p_ru>
+    <p_tk vh="V" name="PORTER, Tyler"></p_tk>
+   </play>
+   <play hasball="RICE" down="2" togo="2" spot="RICE50" context="H,2,2,H50" playid="15,6,123" type="R" first="R" tokens="RUSH:24,V47, TACK:9Z"
+      text="STEWART, Samuel rush for 3 yards to the LATECH47, 1ST DOWN RICE (BUTLER, Vernon)." newcontext="H,1,10,V47">
+    <p_ru vh="H" name="STEWART, Samuel" gain="3"></p_ru>
+    <p_tk vh="V" name="BUTLER, Vernon"></p_tk>
+   </play>
+   <play hasball="RICE" down="1" togo="10" spot="LATECH47" context="H,1,10,V47" playid="15,7,124" type="R" tokens="RUSH:6,V42, OB:"
+      text="JACKSON, Driphu rush for 5 yards to the LATECH42, out-of-bounds." ob="Y" newcontext="H,2,5,V42">
+    <p_ru vh="H" name="JACKSON, Driphu" gain="5"></p_ru>
+   </play>
+   <play hasball="RICE" down="2" togo="5" spot="LATECH42" context="H,2,5,V42" playid="15,8,125" type="P" tokens="PASS:6,I,4,*"
+      text="JACKSON, Driphu pass incomplete to PARKS, Dennis." newcontext="H,3,5,V42">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="INC" rcv="PARKS, Dennis"></p_pa>
+   </play>
+   <play hasball="RICE" down="3" togo="5" spot="LATECH42" context="H,3,5,V42" playid="15,9,126" type="R" first="R" tokens="RUSH:6,V29, OB:"
+      text="JACKSON, Driphu rush for 13 yards to the LATECH29, 1ST DOWN RICE, out-of-bounds." ob="Y" newcontext="H,1,10,V29">
+    <p_ru vh="H" name="JACKSON, Driphu" gain="13"></p_ru>
+   </play>
+   <play hasball="RICE" down="1" togo="10" spot="LATECH29" context="H,1,10,V29" playid="15,10,127" type="R" first="R" tokens="RUSH:1,V16, OB: TACK:23"
+      text="DILLARD, Darik rush for 13 yards to the LATECH16, 1ST DOWN RICE, out-of-bounds (BRICE, Kentrell)." ob="Y" newcontext="H,1,10,V16">
+    <p_ru vh="H" name="DILLARD, Darik" gain="13"></p_ru>
+    <p_tk vh="V" name="BRICE, Kentrell"></p_tk>
+   </play>
+   <play hasball="RICE" down="1" togo="10" spot="LATECH16" context="H,1,10,V16" playid="15,11,128" type="R" tokens="RUSH:1,V15, TACK:94"
+      text="DILLARD, Darik rush for 1 yard to the LATECH15 (BRADFORD, J.)." newcontext="H,2,9,V15">
+    <p_ru vh="H" name="DILLARD, Darik" gain="1"></p_ru>
+    <p_tk vh="V" name="BRADFORD, J."></p_tk>
+   </play>
+   <play hasball="RICE" down="2" togo="9" spot="LATECH15" context="H,2,9,V15" playid="15,12,129" type="P" tokens="PASS:6,I,4,*"
+      text="JACKSON, Driphu pass incomplete to PARKS, Dennis." newcontext="H,3,9,V15">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="INC" rcv="PARKS, Dennis"></p_pa>
+   </play>
+   <play hasball="RICE" down="3" togo="9" spot="LATECH15" context="H,3,9,V15" playid="15,13,130" type="P" tokens="PASS:6,S,TM,V22 SACK:15"
+      text="JACKSON, Driphu sacked for loss of 7 yards to the LATECH22 (ABRAHAM, Bryson)." newcontext="H,4,16,V22">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="SACK" gain="-7"></p_pa>
+    <p_tk vh="V" name="ABRAHAM, Bryson" sack="Y"></p_tk>
+   </play>
+   <play hasball="RICE" down="4" togo="16" spot="LATECH22" context="H,4,16,V22" playid="15,14,131" type="F" score="Y" vscore="35" hscore="10" clock="05:17" tokens="FGA:18,40,G T:05:17"
+      text="TOBOLA, Hayden field goal attempt from 40 GOOD, clock 05:17." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="TOBOLA, Hayden" distance="40" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="35" H="10"></score>
+   <drivesum plays="13" yards="50" top="6:30" driveindex="15" complete="Y"></drivesum>
+   <play hasball="RICE" down="1" togo="0" spot="RICE35" context="H,1,0,H35" playid="15,15,132" type="K" tokens="KO:2S,V00 TB:"
+      text="FOX, Jack kickoff 65 yards to the LATECH0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="FOX, Jack" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,05:17" vh="V" spot="V25" clock="05:17" driveindex="16,132"></drivestart>
+   <play hasball="LATECH" down="1" togo="10" spot="LATECH25" context="V,1,10,V25" playid="16,1,133" clock="05:17" tokens="{DRIVE}:05:17"
+      text="LOUISIANA TECH drive start at 05:17." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="LATECH25" context="V,1,10,V25" playid="16,2,134" type="P" tokens="PASS:6,I,1,*"
+      text="DRISKEL, Jeff pass incomplete to HENDERSON, C.." newcontext="V,2,10,V25">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="INC" rcv="HENDERSON, C."></p_pa>
+   </play>
+   <play hasball="LATECH" down="2" togo="10" spot="LATECH25" context="V,2,10,V25" playid="16,3,135" type="R" tokens="RUSH:28,V32, TACK:97"
+      text="DIXON, Kenneth rush for 7 yards to the LATECH32 (MOUCHANTAF, Stu)." newcontext="V,3,3,V32">
+    <p_ru vh="V" name="DIXON, Kenneth" gain="7"></p_ru>
+    <p_tk vh="H" name="MOUCHANTAF, Stu"></p_tk>
+   </play>
+   <play hasball="LATECH" down="3" togo="3" spot="LATECH32" context="V,3,3,V32" playid="16,4,136" type="P" first="P" tokens="PASS:6,C,1,H43 TACK:19"
+      text="DRISKEL, Jeff pass complete to HENDERSON, C. for 25 yards to the RICE43, 1ST DOWN LATECH (BANKS, VJ)." newcontext="V,1,10,H43">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="COMP" rcv="HENDERSON, C." gain="25"></p_pa>
+    <p_tk vh="H" name="BANKS, VJ"></p_tk>
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="RICE43" context="V,1,10,H43" playid="16,5,137" type="P" tokens="PASS:6,I,16,*"
+      text="DRISKEL, Jeff pass incomplete to GAINES, Marcus." newcontext="V,2,10,H43">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="INC" rcv="GAINES, Marcus"></p_pa>
+   </play>
+   <play hasball="LATECH" down="2" togo="10" spot="RICE43" context="V,2,10,H43" playid="16,6,138" type="P" tokens="PASS:6,I,16,*"
+      text="DRISKEL, Jeff pass incomplete to GAINES, Marcus." newcontext="V,3,10,H43">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="INC" rcv="GAINES, Marcus"></p_pa>
+   </play>
+   <comment text="Rice's 19-Banks shaken up on the previous play."></comment>
+   <play hasball="LATECH" down="3" togo="10" spot="RICE43" context="V,3,10,H43" playid="16,7,140" type="P" tokens="PASS:6,I,13,* PEN:V,HO,D"
+      text="DRISKEL, Jeff pass incomplete to WATTS, Marlon, PENALTY LATECH holding declined." newcontext="V,4,10,H43">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="INC" rcv="WATTS, Marlon"></p_pa>
+    <p_pn vh="V" code="HO" type="holding" name="WATTS, Marlon" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="LATECH" down="4" togo="10" spot="RICE43" context="V,4,10,H43" playid="16,8,141" type="U" tokens="PUNT:2H,H12 DN:"
+      text="SHOUSE,Gerald punt 31 yards to the RICE12, downed." newcontext="H,1,10,H12">
+    <p_pu vh="V" name="SHOUSE,Gerald" gain="31" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="32" top="1:56" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="H,H12,03:21" vh="H" spot="H12" clock="03:21" driveindex="17,141"></drivestart>
+   <play hasball="RICE" down="1" togo="10" spot="RICE12" context="H,1,10,H12" playid="17,1,142" clock="03:21" tokens="{DRIVE}:03:21"
+      text="RICE drive start at 03:21." newcontext="H,1,10,H12">
+   </play>
+   <play hasball="RICE" down="1" togo="10" spot="RICE12" context="H,1,10,H12" playid="17,2,143" type="E" tokens="PASS:6,C,27,H19 OB: PEN:H,SH,A,TM,H07,N NOPLAY:"
+      text="JACKSON, Driphu pass complete to WALTER, Austin for 7 yards to the RICE19, out-of-bounds, PENALTY RICE illegal shift 5 yards to the RICE7, NO PLAY." ob="Y" newcontext="H,1,15,H07">
+    <p_pn vh="H" code="SH" type="illegal shift" result="ACCEPT" at="H12" yards="5"></p_pn>
+   </play>
+   <play hasball="RICE" down="1" togo="15" spot="RICE07" context="H,1,15,H07" playid="17,3,144" type="P" tokens="PASS:6,C,27,H11 OB: TACK:29"
+      text="JACKSON, Driphu pass complete to WALTER, Austin for 4 yards to the RICE11, out-of-bounds (CLEVELAND, C.J.)." ob="Y" newcontext="H,2,11,H11">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="COMP" rcv="WALTER, Austin" gain="4"></p_pa>
+    <p_tk vh="V" name="CLEVELAND, C.J."></p_tk>
+   </play>
+   <play hasball="RICE" down="2" togo="11" spot="RICE11" context="H,2,11,H11" playid="17,4,145" type="P" tokens="PASS:6,I,9,*"
+      text="JACKSON, Driphu pass incomplete to WRIGHT, Zach." newcontext="H,3,11,H11">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="INC" rcv="WRIGHT, Zach"></p_pa>
+   </play>
+   <comment text="La. Tech's 24-Thomason injured on previous play."></comment>
+   <play hasball="RICE" down="3" togo="11" spot="RICE11" context="H,3,11,H11" playid="17,5,147" type="E" tokens="PASS:6,C,9,H30 OB: PEN:H,PI,A,9,H06,N NOPLAY:"
+      text="JACKSON, Driphu pass complete to WRIGHT, Zach for 19 yards to the RICE30, out-of-bounds, PENALTY RICE pass interference (WRIGHT, Zach) 5 yards to the RICE6, NO PLAY." ob="Y" newcontext="H,3,16,H06">
+    <p_pn vh="H" code="PI" type="pass interference" name="WRIGHT, Zach" result="ACCEPT" at="H11" yards="5"></p_pn>
+   </play>
+   <play hasball="RICE" down="3" togo="16" spot="RICE06" context="H,3,16,H06" playid="17,6,148" type="R" tokens="RUSH:24,H14, TACK:23"
+      text="STEWART, Samuel rush for 8 yards to the RICE14 (BRICE, Kentrell)." newcontext="H,4,8,H14">
+    <p_ru vh="H" name="STEWART, Samuel" gain="8"></p_ru>
+    <p_tk vh="V" name="BRICE, Kentrell"></p_tk>
+   </play>
+   <play hasball="RICE" down="4" togo="8" spot="RICE14" context="H,4,8,H14" playid="17,7,149" type="U" tokens="PUNT:3S,V34 RET:16,V34 FUMB:V,V34,5"
+      text="FARRIMOND, Jame punt 52 yards to the LATECH34, GAINES, Marcus return 0 yards to the LATECH34, fumble by GAINES, Marcus recovered by LATECH TAYLOR, Trent at LATECH34." newcontext="V,1,10,V34">
+    <p_pu vh="H" name="FARRIMOND, Jame" gain="52"></p_pu>
+    <p_pr vh="V" name="GAINES, Marcus" gain="0"></p_pr>
+    <p_fumb vh="V" name="GAINES, Marcus" at="V34" frvh="V" frname="TAYLOR, Trent"></p_fumb>
+   </play>
+   <drivesum plays="3" yards="2" top="2:22" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="V,V34,00:59" vh="V" spot="V34" clock="00:59" driveindex="18,149"></drivestart>
+   <play hasball="LATECH" down="1" togo="10" spot="LATECH34" context="V,1,10,V34" playid="18,1,150" clock="00:59" tokens="{DRIVE}:00:59"
+      text="LOUISIANA TECH drive start at 00:59." newcontext="V,1,10,V34">
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="LATECH34" context="V,1,10,V34" playid="18,2,151" type="R" tokens="RUSH:28,V38, TACK:46"
+      text="DIXON, Kenneth rush for 4 yards to the LATECH38 (ELDER, Nick)." newcontext="V,2,6,V38">
+    <p_ru vh="V" name="DIXON, Kenneth" gain="4"></p_ru>
+    <p_tk vh="H" name="ELDER, Nick"></p_tk>
+   </play>
+   <play hasball="LATECH" down="2" togo="6" spot="LATECH38" context="V,2,6,V38" playid="18,3,152" type="R" tokens="RUSH:28,V42, TACK:13"
+      text="DIXON, Kenneth rush for 4 yards to the LATECH42 (WHITE, Destri)." newcontext="V,3,2,V42">
+    <p_ru vh="V" name="DIXON, Kenneth" gain="4"></p_ru>
+    <p_tk vh="H" name="WHITE, Destri"></p_tk>
+   </play>
+   <score qtr="3" V="35" H="10"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="LATECH">
+    <firstdowns no="4" rush="0" pass="4" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="06:08"></misc>
+    <rush att="6" yds="22" gain="26" loss="4" td="0" long="0"></rush>
+    <pass comp="4" att="9" int="0" yds="88" td="1" long="0" sacks="1" sackyds="4"></pass>
+    <rcv no="4" yds="88" td="1" long="0"></rcv>
+    <punt no="1" yds="31" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="31.0"></punt>
+    <ko no="1" yds="57" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="11" tacka="0" tot_tack="11" tflua="2" tfla="0" tflyds="8" sacks="1" sackyds="7"></defense>
+    <pr no="1" yds="0" td="0" long="0"></pr>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="RICE">
+    <firstdowns no="4" rush="4" pass="0" penalty="0"></firstdowns>
+    <penalties no="3" yds="15"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:52"></misc>
+    <rush att="11" yds="58" gain="66" loss="8" td="0" long="5"></rush>
+    <pass comp="1" att="4" int="0" yds="4" td="0" long="0" sacks="1" sackyds="7"></pass>
+    <rcv no="1" yds="4" td="0" long="0"></rcv>
+    <punt no="1" yds="52" long="0" blkd="0" tb="0" fc="0" plus50="1" inside20="0" avg="52.0"></punt>
+    <ko no="2" yds="125" ob="0" tb="2"></ko>
+    <fg made="1" att="1" long="40" blkd="0"></fg>
+    <defense tackua="7" tacka="2" tot_tack="9" tflua="1" tfla="0" tflyds="4" sacks="1" sackyds="4"></defense>
+    <kr no="1" yds="20" td="0" long="0"></kr>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="LATECH" down="3" togo="2" spot="LATECH42" context="V,3,2,V42" playid="18,4,153" type="#" clock="15:00" tokens="Q:4 T:15:00"
+      text="Start of 4th quarter, clock 15:00." newcontext="V,3,2,V42">
+   </play>
+   <play hasball="LATECH" down="3" togo="2" spot="LATECH42" context="V,3,2,V42" playid="18,5,154" type="P" tokens="PASS:6,I,16,*"
+      text="DRISKEL, Jeff pass incomplete to GAINES, Marcus." newcontext="V,4,2,V42">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="INC" rcv="GAINES, Marcus"></p_pa>
+   </play>
+   <play hasball="LATECH" down="4" togo="2" spot="LATECH42" context="V,4,2,V42" playid="18,6,155" type="U" tokens="PUNT:2H,H02 DN:"
+      text="SHOUSE,Gerald punt 56 yards to the RICE2, downed." newcontext="H,1,10,H02">
+    <p_pu vh="V" name="SHOUSE,Gerald" gain="56" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="8" top="1:19" driveindex="18" complete="Y"></drivesum>
+   <drivestart poss="H,H02,14:40" vh="H" spot="H02" clock="14:40" driveindex="19,155"></drivestart>
+   <play hasball="RICE" down="1" togo="10" spot="RICE02" context="H,1,10,H02" playid="19,1,156" clock="14:40" tokens="{DRIVE}:14:40"
+      text="RICE drive start at 14:40." newcontext="H,1,10,H02">
+   </play>
+   <play hasball="RICE" down="1" togo="10" spot="RICE02" context="H,1,10,H02" playid="19,2,157" type="R" tokens="RUSH:1,H01, TACK:45"
+      text="DILLARD, Darik rush for loss of 1 yard to the RICE1 (FERGUSON, J.)." newcontext="H,2,11,H01">
+    <p_ru vh="H" name="DILLARD, Darik" gain="-1"></p_ru>
+    <p_tk vh="V" name="FERGUSON, J."></p_tk>
+   </play>
+   <play hasball="RICE" down="2" togo="11" spot="RICE01" context="H,2,11,H01" playid="19,3,158" type="R" tokens="RUSH:1,H07, TACK:23"
+      text="DILLARD, Darik rush for 6 yards to the RICE7 (BRICE, Kentrell)." newcontext="H,3,5,H07">
+    <p_ru vh="H" name="DILLARD, Darik" gain="6"></p_ru>
+    <p_tk vh="V" name="BRICE, Kentrell"></p_tk>
+   </play>
+   <play hasball="RICE" down="3" togo="5" spot="RICE07" context="H,3,5,H07" playid="19,4,159" type="P" tokens="PASS:6,I,9,* BRUP:15"
+      text="JACKSON, Driphu pass incomplete to WRIGHT, Zach (ABRAHAM, Bryson)." newcontext="H,4,5,H07">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="INC" rcv="WRIGHT, Zach"></p_pa>
+    <p_bu vh="V" name="ABRAHAM, Bryson"></p_bu>
+   </play>
+   <play hasball="RICE" down="4" togo="5" spot="RICE07" context="H,4,5,H07" playid="19,5,160" type="U" tokens="PUNT:3S,V47 RET:5,V48 TACK:25"
+      text="FARRIMOND, Jame punt 46 yards to the LATECH47, TAYLOR, Trent return 1 yards to the LATECH48 (MCGASKEY, Tabar)." newcontext="V,1,10,V48">
+    <p_pu vh="H" name="FARRIMOND, Jame" gain="46"></p_pu>
+    <p_pr vh="V" name="TAYLOR, Trent" gain="1"></p_pr>
+    <p_tk vh="H" name="MCGASKEY, Tabar"></p_tk>
+   </play>
+   <drivesum plays="3" yards="5" top="1:37" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="V,V48,13:03" vh="V" spot="V48" clock="13:03" driveindex="20,160"></drivestart>
+   <play hasball="LATECH" down="1" togo="10" spot="LATECH48" context="V,1,10,V48" playid="20,1,161" clock="13:03" tokens="{DRIVE}:13:03"
+      text="LOUISIANA TECH drive start at 13:03." newcontext="V,1,10,V48">
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="LATECH48" context="V,1,10,V48" playid="20,2,162" type="R" tokens="RUSH:28,H47, TACK:42"
+      text="DIXON, Kenneth rush for 5 yards to the RICE47 (ELLERBEE, Emman)." newcontext="V,2,5,H47">
+    <p_ru vh="V" name="DIXON, Kenneth" gain="5"></p_ru>
+    <p_tk vh="H" name="ELLERBEE, Emman"></p_tk>
+   </play>
+   <play hasball="LATECH" down="2" togo="5" spot="RICE47" context="V,2,5,H47" playid="20,3,163" type="R" first="R" tokens="RUSH:28,H25, TACK:7"
+      text="DIXON, Kenneth rush for 22 yards to the RICE25, 1ST DOWN LATECH (BICKHAM, Justin)." newcontext="V,1,10,H25">
+    <p_ru vh="V" name="DIXON, Kenneth" gain="22"></p_ru>
+    <p_tk vh="H" name="BICKHAM, Justin"></p_tk>
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="RICE25" context="V,1,10,H25" playid="20,4,164" type="R" tokens="RUSH:22,H16, TACK:7"
+      text="CRAFT, Jarred rush for 9 yards to the RICE16 (BICKHAM, Justin)." newcontext="V,2,1,H16">
+    <p_ru vh="V" name="CRAFT, Jarred" gain="9"></p_ru>
+    <p_tk vh="H" name="BICKHAM, Justin"></p_tk>
+   </play>
+   <play hasball="LATECH" down="2" togo="1" spot="RICE16" context="V,2,1,H16" playid="20,5,165" type="R" first="R" tokens="RUSH:33,H11, TACK:96"
+      text="JONES, Ricky rush for 5 yards to the RICE11, 1ST DOWN LATECH (ABERCRUMBIA, Za)." newcontext="V,1,10,H11">
+    <p_ru vh="V" name="JONES, Ricky" gain="5"></p_ru>
+    <p_tk vh="H" name="ABERCRUMBIA, Za"></p_tk>
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="RICE11" context="V,1,10,H11" playid="20,6,166" type="R" tokens="RUSH:33,H11, TACK:8"
+      text="JONES, Ricky rush for no gain to the RICE11 (BROWN, Derek)." newcontext="V,2,10,H11">
+    <p_ru vh="V" name="JONES, Ricky" gain="0"></p_ru>
+    <p_tk vh="H" name="BROWN, Derek"></p_tk>
+   </play>
+   <play hasball="LATECH" down="2" togo="10" spot="RICE11" context="V,2,10,H11" playid="20,7,167" type="R" tokens="RUSH:22,H10, TACK:46"
+      text="CRAFT, Jarred rush for 1 yard to the RICE10 (ELDER, Nick)." newcontext="V,3,9,H10">
+    <p_ru vh="V" name="CRAFT, Jarred" gain="1"></p_ru>
+    <p_tk vh="H" name="ELDER, Nick"></p_tk>
+   </play>
+   <play hasball="LATECH" down="3" togo="9" spot="RICE10" context="V,3,9,H10" playid="20,8,168" type="P" first="P" score="Y" vscore="41" hscore="10" clock="08:56" tokens="PASS:6,C,5,H00 T:08:56"
+      text="DRISKEL, Jeff pass complete to TAYLOR, Trent for 10 yards to the RICE0, 1ST DOWN LATECH, TOUCHDOWN, clock 08:56." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="DRISKEL, Jeff" result="COMP" rcv="TAYLOR, Trent" gain="10"></p_pa>
+   </play>
+   <play hasball="LATECH" down="1" togo="0" spot="RICE03" context="V,1,0,H03" playid="20,9,169" type="X" score="Y" vscore="42" hscore="10" tokens="PAT:K,1J,G"
+      text="BARNES,Jonathan kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="BARNES,Jonathan" qb="BARNES,Jonathan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="42" H="10"></score>
+   <drivesum plays="7" yards="52" top="4:07" driveindex="20" complete="Y"></drivesum>
+   <play hasball="LATECH" down="1" togo="0" spot="LATECH35" context="V,1,0,V35" playid="20,10,170" type="K" tokens="KO:1J,H00 TB:"
+      text="BARNES,Jonathan kickoff 65 yards to the RICE0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="BARNES,Jonathan" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,08:56" vh="H" spot="H25" clock="08:56" driveindex="21,170"></drivestart>
+   <play hasball="RICE" down="1" togo="10" spot="RICE25" context="H,1,10,H25" playid="21,1,171" clock="08:56" tokens="{DRIVE}:08:56"
+      text="RICE drive start at 08:56." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="RICE" down="1" togo="10" spot="RICE25" context="H,1,10,H25" playid="21,2,172" type="R" tokens="RUSH:3,H28, TACK:45"
+      text="DAVIS, Jowan rush for 3 yards to the RICE28 (FERGUSON, J.)." newcontext="H,2,7,H28">
+    <p_ru vh="H" name="DAVIS, Jowan" gain="3"></p_ru>
+    <p_tk vh="V" name="FERGUSON, J."></p_tk>
+   </play>
+   <play hasball="RICE" down="2" togo="7" spot="RICE28" context="H,2,7,H28" playid="21,3,173" type="R" tokens="RUSH:3,H32, TACK:54"
+      text="DAVIS, Jowan rush for 4 yards to the RICE32 (DURMAN, Brandon)." newcontext="H,3,3,H32">
+    <p_ru vh="H" name="DAVIS, Jowan" gain="4"></p_ru>
+    <p_tk vh="V" name="DURMAN, Brandon"></p_tk>
+   </play>
+   <play hasball="RICE" down="3" togo="3" spot="RICE32" context="H,3,3,H32" playid="21,4,174" type="P" tokens="PASS:6,C,3,H36 TACK:34 PEN:H,PF,A,51,H21,N"
+      text="JACKSON, Driphu pass complete to DAVIS, Jowan for 4 yards to the RICE36 (WILLIAMS, T.), PENALTY RICE personal foul (GODBER, Peter) 15 yards to the RICE21." newcontext="H,3,14,H21">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="COMP" rcv="DAVIS, Jowan" gain="4"></p_pa>
+    <p_tk vh="V" name="WILLIAMS, T."></p_tk>
+    <p_pn vh="H" code="PF" type="personal foul" name="GODBER, Peter" result="ACCEPT" at="H36" yards="15"></p_pn>
+   </play>
+   <play hasball="RICE" down="3" togo="14" spot="RICE21" context="H,3,14,H21" playid="21,5,175" tokens="D:1,10"
+      text="1st and 10." newcontext="H,1,10,H21">
+   </play>
+   <play hasball="RICE" down="1" togo="10" spot="RICE21" context="H,1,10,H21" playid="21,6,176" type="R" tokens="RUSH:3,H27, TACK:31"
+      text="DAVIS, Jowan rush for 6 yards to the RICE27 (FARRIS, Russell)." newcontext="H,2,4,H27">
+    <p_ru vh="H" name="DAVIS, Jowan" gain="6"></p_ru>
+    <p_tk vh="V" name="FARRIS, Russell"></p_tk>
+   </play>
+   <play hasball="RICE" down="2" togo="4" spot="RICE27" context="H,2,4,H27" playid="21,7,177" type="R" first="R" tokens="RUSH:3,H33, TACK:34"
+      text="DAVIS, Jowan rush for 6 yards to the RICE33, 1ST DOWN RICE (WILLIAMS, T.)." newcontext="H,1,10,H33">
+    <p_ru vh="H" name="DAVIS, Jowan" gain="6"></p_ru>
+    <p_tk vh="V" name="WILLIAMS, T."></p_tk>
+   </play>
+   <play hasball="RICE" down="1" togo="10" spot="RICE33" context="H,1,10,H33" playid="21,8,178" type="P" tokens="PASS:6,I,12,*"
+      text="JACKSON, Driphu pass incomplete to ALAKA, Temi." newcontext="H,2,10,H33">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="INC" rcv="ALAKA, Temi"></p_pa>
+   </play>
+   <play hasball="RICE" down="2" togo="10" spot="RICE33" context="H,2,10,H33" playid="21,9,179" type="P" tokens="PASS:6,C,12,H39 TACK:32"
+      text="JACKSON, Driphu pass complete to ALAKA, Temi for 6 yards to the RICE39 (SPENCER, Trey)." newcontext="H,3,4,H39">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="COMP" rcv="ALAKA, Temi" gain="6"></p_pa>
+    <p_tk vh="V" name="SPENCER, Trey"></p_tk>
+   </play>
+   <play hasball="RICE" down="3" togo="4" spot="RICE39" context="H,3,4,H39" playid="21,10,180" type="P" first="P" tokens="PASS:6,C,12,V44 TACK:56"
+      text="JACKSON, Driphu pass complete to ALAKA, Temi for 17 yards to the LATECH44, 1ST DOWN RICE (WASHINGTON, D.)." newcontext="H,1,10,V44">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="COMP" rcv="ALAKA, Temi" gain="17"></p_pa>
+    <p_tk vh="V" name="WASHINGTON, D."></p_tk>
+   </play>
+   <play hasball="RICE" down="1" togo="10" spot="LATECH44" context="H,1,10,V44" playid="21,11,181" type="P" first="P" tokens="PASS:6,C,1B,V15 TACK:2"
+      text="JACKSON, Driphu pass complete to GERMAN, Nate for 29 yards to the LATECH15, 1ST DOWN RICE (COOPER,Secdrick)." newcontext="H,1,10,V15">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="COMP" rcv="GERMAN, Nate" gain="29"></p_pa>
+    <p_tk vh="V" name="COOPER,Secdrick"></p_tk>
+   </play>
+   <play hasball="RICE" down="1" togo="10" spot="LATECH15" context="H,1,10,V15" playid="21,12,182" type="P" tokens="PASS:6,I,2,*"
+      text="JACKSON, Driphu pass incomplete to MAYDEN, James." newcontext="H,2,10,V15">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="INC" rcv="MAYDEN, James"></p_pa>
+   </play>
+   <play hasball="RICE" down="2" togo="10" spot="LATECH15" context="H,2,10,V15" playid="21,13,183" type="P" first="P" score="Y" vscore="42" hscore="16" clock="03:52" tokens="PASS:6,C,2,V00 T:03:52"
+      text="JACKSON, Driphu pass complete to MAYDEN, James for 15 yards to the LATECH0, 1ST DOWN RICE, TOUCHDOWN, clock 03:52." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="JACKSON, Driphu" result="COMP" rcv="MAYDEN, James" gain="15"></p_pa>
+   </play>
+   <play hasball="RICE" down="1" togo="0" spot="LATECH03" context="H,1,0,V03" playid="21,14,184" type="X" score="Y" vscore="42" hscore="17" tokens="PAT:K,18,G"
+      text="TOBOLA, Hayden kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="TOBOLA, Hayden" qb="TOBOLA, Hayden" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="42" H="17"></score>
+   <drivesum plays="11" yards="75" top="5:04" driveindex="21" complete="Y"></drivesum>
+   <play hasball="RICE" down="1" togo="0" spot="RICE35" context="H,1,0,H35" playid="21,15,185" type="K" tokens="KO:3S,V50 RET:21,H46 TACK:9"
+      text="FARRIMOND, Jame kickoff 15 yards to the 50 yardline, BARNES,Adairius return 4 yards to the RICE46 (WRIGHT, Zach)." newcontext="V,1,10,H46">
+    <p_ko vh="H" name="FARRIMOND, Jame" gain="15"></p_ko>
+    <p_kr vh="V" name="BARNES,Adairius" gain="4"></p_kr>
+    <p_tk vh="H" name="WRIGHT, Zach"></p_tk>
+   </play>
+   <drivestart poss="V,H46,03:52" vh="V" spot="H46" clock="03:52" driveindex="22,185"></drivestart>
+   <play hasball="LATECH" down="1" togo="10" spot="RICE46" context="V,1,10,H46" playid="22,1,186" clock="03:52" tokens="{DRIVE}:03:52"
+      text="LOUISIANA TECH drive start at 03:52." newcontext="V,1,10,H46">
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="RICE46" context="V,1,10,H46" playid="22,2,187" tokens="QB:V,14"
+      text="HIGGINS, Ryan at QB for Louisiana Tech." newcontext="V,1,10,H46">
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="RICE46" context="V,1,10,H46" playid="22,3,188" type="P" tokens="PASS:14,I,44,*"
+      text="HIGGINS, Ryan pass incomplete to GASTON, Josh." newcontext="V,2,10,H46">
+    <p_pa vh="V" qb="HIGGINS, Ryan" result="INC" rcv="GASTON, Josh"></p_pa>
+   </play>
+   <play hasball="LATECH" down="2" togo="10" spot="RICE46" context="V,2,10,H46" playid="22,4,189" type="R" first="R" tokens="RUSH:22,H35, TACK:19"
+      text="CRAFT, Jarred rush for 11 yards to the RICE35, 1ST DOWN LATECH (BANKS, VJ)." newcontext="V,1,10,H35">
+    <p_ru vh="V" name="CRAFT, Jarred" gain="11"></p_ru>
+    <p_tk vh="H" name="BANKS, VJ"></p_tk>
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="RICE35" context="V,1,10,H35" playid="22,5,190" type="R" tokens="RUSH:22,H34, TACK:90"
+      text="CRAFT, Jarred rush for 1 yard to the RICE34 (PADGETT, Blain)." newcontext="V,2,9,H34">
+    <p_ru vh="V" name="CRAFT, Jarred" gain="1"></p_ru>
+    <p_tk vh="H" name="PADGETT, Blain"></p_tk>
+   </play>
+   <play hasball="LATECH" down="2" togo="9" spot="RICE34" context="V,2,9,H34" playid="22,6,191" type="R" first="R" tokens="RUSH:3J,H19, TACK:26"
+      text="SCOTT, Boston rush for 15 yards to the RICE19, 1ST DOWN LATECH (DOUGLAS, Brando)." newcontext="V,1,10,H19">
+    <p_ru vh="V" name="SCOTT, Boston" gain="15"></p_ru>
+    <p_tk vh="H" name="DOUGLAS, Brando"></p_tk>
+   </play>
+   <play hasball="LATECH" down="1" togo="10" spot="RICE19" context="V,1,10,H19" playid="22,7,192" type="R" tokens="RUSH:3J,H18, TACK:1S"
+      text="SCOTT, Boston rush for 1 yard to the RICE18 (IBE, JT)." newcontext="V,2,9,H18">
+    <p_ru vh="V" name="SCOTT, Boston" gain="1"></p_ru>
+    <p_tk vh="H" name="IBE, JT"></p_tk>
+   </play>
+   <play hasball="LATECH" down="2" togo="9" spot="RICE18" context="V,2,9,H18" playid="22,8,193" type="R" tokens="RUSH:3J,H13, TACK:49"
+      text="SCOTT, Boston rush for 5 yards to the RICE13 (GREEN, DJ)." newcontext="V,3,4,H13">
+    <p_ru vh="V" name="SCOTT, Boston" gain="5"></p_ru>
+    <p_tk vh="H" name="GREEN, DJ"></p_tk>
+   </play>
+   <play hasball="LATECH" down="3" togo="4" spot="RICE13" context="V,3,4,H13" playid="22,9,194" type="R" tokens="RUSH:3J,H13, TACK:8"
+      text="SCOTT, Boston rush for no gain to the RICE13 (BROWN, Derek)." newcontext="V,4,4,H13">
+    <p_ru vh="V" name="SCOTT, Boston" gain="0"></p_ru>
+    <p_tk vh="H" name="BROWN, Derek"></p_tk>
+   </play>
+   <play hasball="LATECH" down="4" togo="4" spot="RICE13" context="V,4,4,H13" playid="22,10,195" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of game, clock 00:00." newcontext="V,4,4,H13">
+   </play>
+   <drivesum plays="7" yards="33" top="3:52" driveindex="22" complete="Y"></drivesum>
+   <score final="Y" V="42" H="17"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="LATECH">
+    <firstdowns no="5" rush="4" pass="1" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:19"></misc>
+    <rush att="12" yds="75" gain="75" loss="0" td="0" long="7"></rush>
+    <pass comp="1" att="3" int="0" yds="10" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="10" td="1" long="0"></rcv>
+    <punt no="1" yds="56" long="10" blkd="0" tb="0" fc="0" plus50="1" inside20="1" avg="56.0"></punt>
+    <ko no="1" yds="65" ob="0" tb="1"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="10" tacka="0" tot_tack="10" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" brup="1"></defense>
+    <kr no="1" yds="4" td="0" long="0"></kr>
+    <pr no="1" yds="1" td="0" long="1"></pr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="RICE">
+    <firstdowns no="4" rush="1" pass="3" penalty="0"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:41"></misc>
+    <rush att="6" yds="24" gain="25" loss="1" td="0" long="0"></rush>
+    <pass comp="5" att="8" int="0" yds="71" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="71" td="1" long="0"></rcv>
+    <punt no="1" yds="46" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="46.0"></punt>
+    <ko no="1" yds="15" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="14" tacka="0" tot_tack="14" sacks="0" sackyds="0"></defense>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="V" id="LATECH" down="4" togo="4" spot="RICE13" context="V,4,4,H13" qtr="4" clock="00:00" vtoh="1" htoh="0"
+       lastplay="End of game, clock 00:00."></downtogo>
+ </plays>
+ <message text=""></message>
+ <dnp vh="V" id="LATECH">
+  <player name="BROWN,Kamal" checkname="BROWN,KAMAL" uni="1A" class="SO" gp="0" code="1A"></player>
+  <player name="GRIFFIN, Tony" checkname="GRIFFIN,TONY" uni="2G" class="JR" gp="0" code="2G"></player>
+  <player name="GAFFORD, Jay" checkname="GAFFORD,JAY" uni="2C" class="JR" gp="0" code="2C"></player>
+  <player name="ENGLADE,Gavin" checkname="ENGLADE,GAVIN" uni="3A" class="FR" gp="0" code="3A"></player>
+  <player name="MIMS, Michael" checkname="MIMS,MICHAEL" uni="4" class="SO" gp="0" code="4"></player>
+  <player name="PARKER, Will" checkname="PARKER,WILL" uni="4I" class="FR" gp="0" code="4I"></player>
+  <player name="VINCENT, Drake" checkname="VINCENT,DRAKE" uni="5G" class="FR" gp="0" code="5G"></player>
+  <player name="SMITH, J'mar" checkname="SMITH,J'MAR" uni="8Z" class="FR" gp="0" code="8Z"></player>
+  <player name="SMITH, Conner" checkname="SMITH,CONNER" uni="9" class="JR" gp="0" code="9"></player>
+  <player name="WILSON, Price" checkname="WILSON,PRICE" uni="10" class="FR" gp="0" code="10"></player>
+  <player name="GROGAN, Lloyd" checkname="GROGAN,LLOYD" uni="11" class="JR" gp="0" code="11"></player>
+  <player name="MCALINDON, Andy" checkname="MCALINDON,ANDY" uni="17" class="SR" gp="0" code="17"></player>
+  <player name="SEAY, Sanford" checkname="SEAY,SANFORD" uni="18" class="SR" gp="0" code="18"></player>
+  <player name="WOODALL, Alex" checkname="WOODALL,ALEX" uni="19" class="FR" gp="0" code="19"></player>
+  <player name="MEDFORD, T." checkname="MEDFORD,T" uni="26" class="JR" gp="0" code="26"></player>
+  <player name="SCOTT, Collin" checkname="SCOTT,COLLIN" uni="35" class="FR" gp="0" code="35"></player>
+  <player name="MCCALLISTER, C." checkname="MCCALLISTER,C" uni="36" class="JR" gp="0" code="36"></player>
+  <player name="KITCHEN, E." checkname="KITCHEN,E" uni="37" class="FR" gp="0" code="37"></player>
+  <player name="DUNN JR.,Roland" checkname="DUNN JR.,ROLAND" uni="40" class="SO" gp="0" code="40"></player>
+  <player name="HOLLEY, Bobby" checkname="HOLLEY,BOBBY" uni="41" class="FR" gp="0" code="41"></player>
+  <player name="JACKSON, James" checkname="JACKSON,JAMES" uni="42" class="FR" gp="0" code="42"></player>
+  <player name="MCPHERSON,Logan" checkname="MCPHERSON,LOGAN" uni="43" class="JR" gp="0" code="43"></player>
+  <player name="FREEMAN, Donald" checkname="FREEMAN,DONALD" uni="46" class="FR" gp="0" code="46"></player>
+  <player name="ANDERSON,Darchi" checkname="ANDERSON,DARCHI" uni="47" class="SR" gp="0" code="47"></player>
+  <player name="MCCULLOCH, K." checkname="MCCULLOCH,K" uni="48" class="SO" gp="0" code="48"></player>
+  <player name="WILLIAMS, Dante" checkname="WILLIAMS,DANTE" uni="51" class="FR" gp="0" code="51"></player>
+  <player name="MOORE, Quanta" checkname="MOORE,QUANTA" uni="52" class="FR" gp="0" code="52"></player>
+  <player name="TRAVIS, Darrell" checkname="TRAVIS,DARRELL" uni="53" class="JR" gp="0" code="53"></player>
+  <player name="LOVETT, DeVante" checkname="LOVETT,DEVANTE" uni="57" class="FR" gp="0" code="57"></player>
+  <player name="ADEOLA, Charles" checkname="ADEOLA,CHARLES" uni="58" class="FR" gp="0" code="58"></player>
+  <player name="GRAY, Hakim" checkname="GRAY,HAKIM" uni="59" class="SO" gp="0" code="59"></player>
+  <player name="REED, Ethan" checkname="REED,ETHAN" uni="61" class="FR" gp="0" code="61"></player>
+  <player name="BRUNSON, Joseph" checkname="BRUNSON,JOSEPH" uni="62" class="JR" gp="0" code="62"></player>
+  <player name="MCCRADY, D." checkname="MCCRADY,D" uni="63" class="FR" gp="0" code="63"></player>
+  <player name="WILLIAMS, D." checkname="WILLIAMS,D" uni="64" class="FR" gp="0" code="64"></player>
+  <player name="CRAWFORD, S." checkname="CRAWFORD,S" uni="65" class="SR" gp="0" code="65"></player>
+  <player name="SPEARS,Tyler" checkname="SPEARS,TYLER" uni="67" class="FR" gp="0" code="67"></player>
+  <player name="EDINBURGH, D." checkname="EDINBURGH,D" uni="72" class="JR" gp="0" code="72"></player>
+  <player name="WIXSON, Kirby" checkname="WIXSON,KIRBY" uni="73" class="SR" gp="0" code="73"></player>
+  <player name="AYE, Chris" checkname="AYE,CHRIS" uni="78" class="SO" gp="0" code="78"></player>
+  <player name="MANNING, Cam" checkname="MANNING,CAM" uni="79" class="SO" gp="0" code="79"></player>
+  <player name="HUGHES, J." checkname="HUGHES,J" uni="82" class="FR" gp="0" code="82"></player>
+  <player name="GARY, Kevin" checkname="GARY,KEVIN" uni="83" class="SR" gp="0" code="83"></player>
+  <player name="WOODARD, J." checkname="WOODARD,J" uni="84" class="FR" gp="0" code="84"></player>
+  <player name="RODRIGUEZ, M." checkname="RODRIGUEZ,M" uni="85" class="FR" gp="0" code="85"></player>
+  <player name="BONNETTE, R." checkname="BONNETTE,R" uni="86" class="FR" gp="0" code="86"></player>
+  <player name="CHILDRESS,Grant" checkname="CHILDRESS,GRANT" uni="87" class="JR" gp="0" code="87"></player>
+  <player name="JOHNSON, Cedric" checkname="JOHNSON,CEDRIC" uni="91" class="FR" gp="0" code="91"></player>
+  <player name="DAVENPORT, L." checkname="DAVENPORT,L" uni="92" class="FR" gp="0" code="92"></player>
+  <player name="TURNER, I." checkname="TURNER,I" uni="93" class="FR" gp="0" code="93"></player>
+  <player name="YDARRAGA, M." checkname="YDARRAGA,M" uni="95" class="FR" gp="0" code="95"></player>
+  <player name="BRINSON, B." checkname="BRINSON,B" uni="97" class="FR" gp="0" code="97"></player>
+ </dnp>
+ <dnp vh="H" id="RICE">
+  <player name="GRANATO, JT" checkname="GRANATO,JT" uni="1G" class="FR" gp="0" code="1G"></player>
+  <player name="HAMILTON, Brand" checkname="HAMILTON,BRAND" uni="1K" class="JR" gp="0" code="1K"></player>
+  <player name="PHAN, Jae" checkname="PHAN,JAE" uni="2D" class="FR" gp="0" code="2D"></player>
+  <player name="SANFT, James" checkname="SANFT,JAMES" uni="2K" class="FR" gp="0" code="2K"></player>
+  <player name="ELLERBE, Nahson" checkname="ELLERBE,NAHSON" uni="3A" class="FR" gp="0" code="3A"></player>
+  <player name="WRIGHT, Lance" checkname="WRIGHT,LANCE" uni="5" class="FR" gp="0" code="5"></player>
+  <player name="KNOPF, Taylor" checkname="KNOPF,TAYLOR" uni="7K" class="SO" gp="0" code="7K"></player>
+  <player name="STEHLING, Tyler" checkname="STEHLING,TYLER" uni="10" class="JR" gp="0" code="10"></player>
+  <player name="BLASINGAME, JT" checkname="BLASINGAME,JT" uni="14" class="JR" gp="0" code="14"></player>
+  <player name="HUDAK, Jesse" checkname="HUDAK,JESSE" uni="15" class="FR" gp="0" code="15"></player>
+  <player name="WALTER, Aston" checkname="WALTER,ASTON" uni="23" class="FR" gp="0" code="23"></player>
+  <player name="THOMAS, Cole" checkname="THOMAS,COLE" uni="28" class="SO" gp="0" code="28"></player>
+  <player name="ROBERT, Houston" checkname="ROBERT,HOUSTON" uni="29" class="FR" gp="0" code="29"></player>
+  <player name="BRADSHAW, Arthu" checkname="BRADSHAW,ARTHU" uni="32" class="FR" gp="0" code="32"></player>
+  <player name="ESUKPA, Emmanue" checkname="ESUKPA,EMMANUE" uni="33" class="FR" gp="0" code="33"></player>
+  <player name="MATISCIK, Paine" checkname="MATISCIK,PAINE" uni="36" class="SO" gp="0" code="36"></player>
+  <player name="MALCOMB, Clayto" checkname="MALCOMB,CLAYTO" uni="39" class="FR" gp="0" code="39"></player>
+  <player name="CUMMINGS, Josh" checkname="CUMMINGS,JOSH" uni="41" class="FR" gp="0" code="41"></player>
+  <player name="WILLIAMS, Austi" checkname="WILLIAMS,AUSTI" uni="45" class="FR" gp="0" code="45"></player>
+  <player name="CIMINO, Lawrenc" checkname="CIMINO,LAWRENC" uni="48" class="FR" gp="0" code="48"></player>
+  <player name="STANLEY, Spence" checkname="STANLEY,SPENCE" uni="52" class="JR" gp="0" code="52"></player>
+  <player name="POEHLMANN, John" checkname="POEHLMANN,JOHN" uni="55" class="SR" gp="0" code="55"></player>
+  <player name="LUVENDER, Brad" checkname="LUVENDER,BRAD" uni="69" class="SO" gp="0" code="69"></player>
+  <player name="EDWARDS, Isaiah" checkname="EDWARDS,ISAIAH" uni="79" class="FR" gp="0" code="79"></player>
+  <player name="LONG, Trevor" checkname="LONG,TREVOR" uni="84" class="FR" gp="0" code="84"></player>
+  <player name="DECELL, Cameron" checkname="DECELL,CAMERON" uni="85" class="JR" gp="0" code="85"></player>
+  <player name="MITCHELL, Reid" checkname="MITCHELL,REID" uni="86" class="JR" gp="0" code="86"></player>
+  <player name="WELLS, Robby" checkname="WELLS,ROBBY" uni="88" class="JR" gp="0" code="88"></player>
+  <player name="SCHANTZ, Grayse" checkname="SCHANTZ,GRAYSE" uni="94" class="SO" gp="0" code="94"></player>
+  <player name="PRICE, Anthony" checkname="PRICE,ANTHONY" uni="95" class="SO" gp="0" code="95"></player>
+ </dnp>
+ <longplays thresh="70">
+ </longplays>
+</fbgame>

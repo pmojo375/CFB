@@ -1,0 +1,1566 @@
+<fbgame source="Tas Football" version="4.16.07" generated="9/20/2015">
+ <venue gameid="UP0919" visid="UP" homeid="IOWA" visname="Pittsburgh" homename="Iowa"
+      date="9/19/2015" location="Iowa City, Iowa" stadium="Kinnick Stadium"
+      start="7:12 PM" end="10:17" nitegame="Y"
+      duration="3:05" attend="63636" temp="63" wind="2-5 MPH" weather="Mostly sunny">
+  <officials ref="J. Magallanes" ump="Terrance Ramsey" line="Mike Owens" lj="Jim Slayton" bj="Rob Luklan" fj="William Dolbow" sj="M. McCarthy" cj="Tracy Lynch" alt="Tracy Lynch"></officials>
+  <rules qtrs="4" mins="15" downs="4" yds="10" kospot="35" tbspot="20" kotbspot="25" patspot="3" safspot="20" td="6" fg="3" pat="1" patx="2" saf="2" defpat="2" rouge="1" field="100" toh="3" sackrush="Y" fgaplay="Y" netpunttb="Y"></rules>
+ </venue>
+ <team vh="V" code="545" id="UP" name="Pittsburgh" record="2-1" abb="V">
+  <linescore prds="4" line="0,7,10,7" score="24">
+   <lineprd prd="1" score="0"></lineprd>
+   <lineprd prd="2" score="7"></lineprd>
+   <lineprd prd="3" score="10"></lineprd>
+   <lineprd prd="4" score="7"></lineprd>
+  </linescore>
+  <totals totoff_plays="58" totoff_yards="282" totoff_avg="4.9">
+   <firstdowns no="15" rush="3" pass="12" penalty="0"></firstdowns>
+   <penalties no="3" yds="35"></penalties>
+   <conversions thirdconv="4" thirdatt="13" fourthconv="2" fourthatt="3"></conversions>
+   <fumbles no="0" lost="0"></fumbles>
+   <misc yds="0" top="27:18" ona="0" onm="0" ptsto="7"></misc>
+   <redzone att="3" scores="2" points="14" tdrush="0" tdpass="2" fgmade="0" endfga="0" enddowns="0" endint="1" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="27" yds="55" gain="70" loss="15" td="0" long="16"></rush>
+   <pass comp="21" att="31" int="2" yds="227" td="2" long="36" sacks="2" sackyds="10"></pass>
+   <rcv no="21" yds="227" td="2" long="36"></rcv>
+   <punt no="4" yds="157" long="47" blkd="0" tb="0" fc="3" plus50="0" inside20="1" avg="39.2"></punt>
+   <ko no="5" yds="307" ob="0" tb="3"></ko>
+   <fg made="1" att="1" long="48" blkd="0"></fg>
+   <pat kickatt="3" kickmade="3"></pat>
+   <defense tackua="42" tacka="31" tot_tack="73" tflua="2" tfla="4" tflyds="16" sacks="1" sackyds="11" brup="1" qbh="3" blkd="1" int="1" intyds="23"></defense>
+   <kr no="1" yds="20" td="0" long="20"></kr>
+   <pr no="1" yds="50" td="1" long="28"></pr>
+   <ir no="1" yds="23" td="0" long="23"></ir>
+   <scoring td="3" fg="1" patkick="3"></scoring>
+  </totals>
+  <player name="Webb, T." shortname="Webb, T." checkname="WEBB,T" uni="2" class="JR" gp="1" gs="1" dpos="FS" code="02">
+   <defense tackua="5" tacka="5" tot_tack="10" int="1" intyds="23"></defense>
+   <ir no="1" yds="23" td="0" long="23"></ir>
+  </player>
+  <player name="Grigsby, N." shortname="Grigsby, N." checkname="GRIGSBY,N" uni="3" class="SR" gp="1" gs="1" dpos="LB" code="03">
+   <defense tackua="3" tacka="0" tot_tack="3" qbh="1"></defense>
+  </player>
+  <player name="Peterman, N." shortname="Peterman, N." checkname="PETERMAN,N" uni="4P" class="JR" gp="1" gs="1" opos="QB" code="04B">
+   <rush att="5" yds="-7" gain="3" loss="10" td="0" long="3"></rush>
+   <pass comp="20" att="29" int="2" yds="219" td="2" long="36" sacks="2" sackyds="10"></pass>
+  </player>
+  <player name="Bradley, B." shortname="Bradley, B." checkname="BRADLEY,B" uni="4" class="JR" gp="1" gs="1" dpos="LB" code="04">
+   <defense tackua="3" tacka="1" tot_tack="4" tflua="1" tfla="1" tflyds="3"></defense>
+  </player>
+  <player name="Price, E." shortname="Price, E." checkname="PRICE,E" uni="5" class="SR" gp="1" gs="1" dpos="DE" code="05"></player>
+  <player name="James, C." shortname="James, C." checkname="JAMES,C" uni="5J" class="SO" gp="1" code="05B">
+   <rush att="2" yds="0" gain="0" loss="0" td="0" long="0"></rush>
+  </player>
+  <player name="Pitts, L." shortname="Pitts, L." checkname="PITTS,L" uni="6" class="SR" gp="1" gs="1" dpos="CB" code="06">
+   <defense tackua="4" tacka="0" tot_tack="4"></defense>
+  </player>
+  <player name="Davis II, J." shortname="Davis II, J." checkname="DAVIS II,J" uni="7" class="FR" gp="1" code="07"></player>
+  <player name="Whitehead, J." shortname="Whitehead, J." checkname="WHITEHEAD,J" uni="9" class="FR" gp="1" gs="1" dpos="SS" code="09">
+   <defense tackua="7" tacka="9" tot_tack="16" tflua="0" tfla="1" tflyds="1"></defense>
+  </player>
+  <player name="Blewitt, C." shortname="Blewitt, C." checkname="BLEWITT,C" uni="12" class="JR" gp="1" code="12">
+   <ko no="5" yds="307" ob="0" tb="3"></ko>
+   <fg made="1" att="1" long="48" blkd="0"></fg>
+   <pat kickatt="3" kickmade="3"></pat>
+   <scoring fg="1" patkick="3"></scoring>
+  </player>
+  <player name="Maddox, A." shortname="Maddox, A." checkname="MADDOX,A" uni="14" class="SO" gp="1" gs="1" dpos="CB" code="14">
+   <defense tackua="5" tacka="4" tot_tack="9" tflua="0" tfla="1" tflyds="1" brup="1"></defense>
+  </player>
+  <player name="Voytik, C." shortname="Voytik, C." checkname="VOYTIK,C" uni="16" class="JR" gp="1" code="16">
+   <pass comp="1" att="2" int="0" yds="8" td="0" long="8" sacks="0" sackyds="0"></pass>
+  </player>
+  <player name="Winslow, R." shortname="Winslow, R." checkname="WINSLOW,R" uni="18" class="SO" gp="1" code="18">
+   <punt no="4" yds="157" long="47" blkd="0" tb="0" fc="3" plus50="0" inside20="1" avg="39.2"></punt>
+  </player>
+  <player name="Ford, D." shortname="Ford, D." checkname="FORD,D" uni="19" class="JR" gp="1" gs="1" opos="WR" code="19">
+   <rcv no="2" yds="33" td="0" long="22"></rcv>
+  </player>
+  <player name="Briggs, D." shortname="Briggs, D." checkname="BRIGGS,D" uni="20" class="FR" gp="1" code="20">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Henderson, M." shortname="Henderson, M." checkname="HENDERSON,M" uni="21" class="FR" gp="1" code="21"></player>
+  <player name="Poteat, J." shortname="Poteat, J." checkname="POTEAT,J" uni="22" class="SR" gp="1" gs="1" opos="RB" code="22">
+   <rush att="14" yds="38" gain="38" loss="0" td="0" long="9"></rush>
+   <rcv no="2" yds="1" td="0" long="2"></rcv>
+  </player>
+  <player name="Boyd, T." shortname="Boyd, T." checkname="BOYD,T" uni="23" class="JR" gp="1" gs="1" opos="WR" code="23">
+   <rush att="2" yds="7" gain="7" loss="0" td="0" long="5"></rush>
+   <rcv no="10" yds="131" td="1" long="36"></rcv>
+   <kr no="1" yds="20" td="0" long="20"></kr>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Amara, P." shortname="Amara, P." checkname="AMARA,P" uni="25" class="SO" gp="1" code="25">
+   <pr no="0" yds="28" td="1" long="28"></pr>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Pitts, J." shortname="Pitts, J." checkname="PITTS,J" uni="26" class="JR" gp="1" code="26"></player>
+  <player name="Zeise, E." shortname="Zeise, E." checkname="ZEISE,E" uni="28" class="FR" gp="1" code="28"></player>
+  <player name="Caprara, M." shortname="Caprara, M." checkname="CAPRARA,M" uni="30" class="JR" gp="1" code="30">
+   <defense tackua="2" tacka="1" tot_tack="3"></defense>
+  </player>
+  <player name="Parrish, J" shortname="Parrish, J" checkname="PARRISH,J" uni="31" class="JR" gp="1" code="31">
+  </player>
+  <player name="Motley, P." shortname="Motley, P." checkname="MOTLEY,P" uni="32" class="FR" gp="1" code="32"></player>
+  <player name="Aston, G." shortname="Aston, G." checkname="ASTON,G" uni="35" class="FR" gp="1" code="35">
+   <rcv no="1" yds="3" td="0" long="3"></rcv>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Ollison, Q." shortname="Ollison, Q." checkname="OLLISON,Q" uni="37" class="FR" gp="1" code="37">
+   <rush att="4" yds="17" gain="22" loss="5" td="0" long="16"></rush>
+   <rcv no="2" yds="7" td="0" long="4"></rcv>
+  </player>
+  <player name="Lewis, R." shortname="Lewis, R." checkname="LEWIS,R" uni="38" class="JR" gp="1" code="38">
+   <defense tackua="1" tacka="0" tot_tack="1" blkd="1"></defense>
+   <pr no="1" yds="22" td="0" long="0"></pr>
+  </player>
+  <player name="Galambos, M." shortname="Galambos, M." checkname="GALAMBOS,M" uni="47" class="JR" gp="1" gs="1" dpos="LB" code="47">
+   <defense tackua="3" tacka="3" tot_tack="6" tflua="1" tfla="0" tflyds="11" sackua="1" sacka="0" sackyds="11" qbh="1"></defense>
+  </player>
+  <player name="Poker, Z." shortname="Poker, Z." checkname="POKER,Z" uni="48" class="SO" gp="1" code="48">
+   <defense tackua="1" tacka="2" tot_tack="3" tflua="0" tfla="1" tflyds="0"></defense>
+  </player>
+  <player name="Medure, J." shortname="Medure, J." checkname="MEDURE,J" uni="51" class="FR" gp="1" code="51"></player>
+  <player name="Soto, S." shortname="Soto, S." checkname="SOTO,S" uni="52" class="JR" gp="1" code="52">
+   <defense tackua="1" tacka="1" tot_tack="2" qbh="1"></defense>
+  </player>
+  <player name="Johnson, D." shortname="Johnson, D." checkname="JOHNSON,D" uni="53" class="JR" gp="1" gs="1" opos="LG" code="53"></player>
+  <player name="Jarrett, T." shortname="Jarrett, T." checkname="JARRETT,T" uni="54" class="JR" gp="1" gs="1" dpos="NT" code="54">
+   <defense tackua="1" tacka="2" tot_tack="3"></defense>
+  </player>
+  <player name="Rowell, A." shortname="Rowell, A." checkname="ROWELL,A" uni="57" class="SR" gp="1" gs="1" opos="C" code="57"></player>
+  <player name="Wirginis, Q." shortname="Wirginis, Q." checkname="WIRGINIS,Q" uni="58" class="SO" gp="1" code="58">
+   <defense tackua="2" tacka="1" tot_tack="3"></defense>
+  </player>
+  <player name="Reese, A." shortname="Reese, A." checkname="REESE,A" uni="60" class="SO" gp="1" code="60"></player>
+  <player name="Quirin, P." shortname="Quirin, P." checkname="QUIRIN,P" uni="61" class="JR" gp="1" code="61"></player>
+  <player name="Guy, J." shortname="Guy, J." checkname="GUY,J" uni="62" class="JR" gp="1" code="62"></player>
+  <player name="Officer, A." shortname="Officer, A." checkname="OFFICER,A" uni="63" class="SO" gp="1" gs="1" opos="RG" code="63"></player>
+  <player name="Herndon, M." shortname="Herndon, M." checkname="HERNDON,M" uni="66" class="FR" gp="1" code="66"></player>
+  <player name="Murphy, D." shortname="Murphy, D." checkname="MURPHY,D" uni="67" class="SR" gp="1" code="67"></player>
+  <player name="Bisnowaty, A." shortname="Bisnowaty, A." checkname="BISNOWATY,A" uni="69" class="JR" gp="1" gs="1" opos="LT" code="69"></player>
+  <player name="O'Neill, B." shortname="O'Neill, B." checkname="O'NEILL,B" uni="70" class="FR" gp="1" gs="1" opos="RT" code="70"></player>
+  <player name="Baker, C." shortname="Baker, C." checkname="BAKER,C" uni="72" class="SO" gp="1" code="72"></player>
+  <player name="Dintino, C." shortname="Dintino, C." checkname="DINTINO,C" uni="76" class="FR" gp="1" code="76"></player>
+  <player name="Bookser, A." shortname="Bookser, A." checkname="BOOKSER,A" uni="78" class="FR" gp="1" code="78"></player>
+  <player name="Challingsworth" shortname="Challingsworth" checkname="CHALLINGSWORTH" uni="80" class="SO" gp="1" code="80"></player>
+  <player name="Orndoff, S." shortname="Orndoff, S." checkname="ORNDOFF,S" uni="83" class="JR" gp="1" gs="1" opos="TE" code="83">
+   <rcv no="1" yds="15" td="1" long="15"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Weah, J" shortname="Weah, J" checkname="WEAH,J" uni="85" class="SO" gp="1" code="85"></player>
+  <player name="Holtz, J." shortname="Holtz, J." checkname="HOLTZ,J" uni="86" class="SR" gp="1" gs="1" opos="TE" code="86">
+   <rcv no="3" yds="37" td="0" long="19"></rcv>
+  </player>
+  <player name="Render, D." shortname="Render, D." checkname="RENDER,D" uni="91" class="SR" gp="1" gs="1" dpos="DT" code="91">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Blair, R." shortname="Blair, R." checkname="BLAIR,R" uni="92" class="SO" gp="1" gs="1" dpos="DE" code="92"></player>
+  <player name="Taleni, J." shortname="Taleni, J." checkname="TALENI,J" uni="94" class="SO" gp="1" code="94">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Scarpinato, M." shortname="Scarpinato, M." checkname="SCARPINATO,M" uni="97" class="SR" gp="1" code="97">
+   <defense tackua="0" tacka="2" tot_tack="2"></defense>
+  </player>
+ </team>
+ <team vh="H" code="312" id="IOWA" name="Iowa" record="3-0" abb="H">
+  <linescore prds="4" line="3,14,0,10" score="27">
+   <lineprd prd="1" score="3"></lineprd>
+   <lineprd prd="2" score="14"></lineprd>
+   <lineprd prd="3" score="0"></lineprd>
+   <lineprd prd="4" score="10"></lineprd>
+  </linescore>
+  <totals totoff_plays="69" totoff_yards="363" totoff_avg="5.3">
+   <firstdowns no="22" rush="9" pass="11" penalty="2"></firstdowns>
+   <penalties no="5" yds="50"></penalties>
+   <conversions thirdconv="7" thirdatt="15" fourthconv="0" fourthatt="0"></conversions>
+   <fumbles no="0" lost="0"></fumbles>
+   <misc yds="0" top="32:42" ona="0" onm="0" ptsto="3"></misc>
+   <redzone att="3" scores="3" points="21" tdrush="3" tdpass="0" fgmade="0" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="29" yds="105" gain="118" loss="13" td="3" long="12"></rush>
+   <pass comp="27" att="40" int="1" yds="258" td="0" long="51" sacks="1" sackyds="11"></pass>
+   <rcv no="27" yds="258" td="0" long="51"></rcv>
+   <punt no="5" yds="231" long="64" blkd="1" tb="2" fc="1" plus50="3" inside20="1" avg="46.2"></punt>
+   <ko no="5" yds="322" ob="0" tb="4"></ko>
+   <fg made="2" att="2" long="57" blkd="0"></fg>
+   <pat kickatt="3" kickmade="3"></pat>
+   <defense tackua="28" tacka="38" tot_tack="66" tflua="4" tfla="0" tflyds="16" sacks="2" sackyds="10" qbh="2" int="2" intyds="0"></defense>
+   <kr no="2" yds="48" td="0" long="27"></kr>
+   <pr no="1" yds="0" td="0" long="0"></pr>
+   <ir no="2" yds="0" td="0" long="0"></ir>
+   <scoring td="3" fg="2" patkick="3"></scoring>
+  </totals>
+  <player name="Marshall Koehn" shortname="Marshall Koehn" checkname="KOEHN,MARSHALL" uni="1" class="" gp="1" code="1">
+   <punt no="1" yds="64" long="64" blkd="0" tb="0" fc="0" plus50="1" inside20="1" avg="64.0"></punt>
+   <ko no="5" yds="322" ob="0" tb="4"></ko>
+   <fg made="2" att="2" long="57" blkd="0"></fg>
+   <pat kickatt="3" kickmade="3"></pat>
+   <scoring fg="2" patkick="3"></scoring>
+  </player>
+  <player name="Tevaun Smith" shortname="Tevaun Smith" checkname="SMITH,TEVAUN" uni="4" class="" gp="1" gs="1" opos="SE" code="4">
+   <rcv no="3" yds="73" td="0" long="51"></rcv>
+  </player>
+  <player name="Dillon Kidd" shortname="Dillon Kidd" checkname="KIDD,DILLON" uni="6A" class="" gp="1" code="6A">
+   <punt no="3" yds="167" long="64" blkd="1" tb="2" fc="1" plus50="2" inside20="0" avg="55.7"></punt>
+  </player>
+  <player name="Sean Draper" shortname="Sean Draper" checkname="DRAPER,SEAN" uni="7" class="" gp="1" code="7"></player>
+  <player name="Jerminic Smith" shortname="Jerminic Smith" checkname="SMITH,JERMINIC" uni="9" class="FR" gp="1" code="9"></player>
+  <player name="Tyler Kluver" shortname="Tyler Kluver" checkname="KLUVER,TYLER" uni="9C" class="" gp="1" code="9C"></player>
+  <player name="Anthony Gair" shortname="Anthony Gair" checkname="GAIR,ANTHONY" uni="12" class="" gp="1" code="12"></player>
+  <player name="Greg Mabin" shortname="Greg Mabin" checkname="MABIN,GREG" uni="13" class="" gp="1" gs="1" dpos="LC" code="13">
+   <defense tackua="4" tacka="1" tot_tack="5"></defense>
+  </player>
+  <player name="Desmond King" shortname="Desmond King" checkname="KING,DESMOND" uni="14" class="" gp="1" gs="1" dpos="RC" code="14">
+   <defense tackua="4" tacka="4" tot_tack="8" tflua="1" tfla="0" tflyds="5" int="2" intyds="0"></defense>
+   <kr no="2" yds="48" td="0" long="27"></kr>
+   <pr no="1" yds="0" td="0" long="0"></pr>
+   <ir no="2" yds="0" td="0" long="0"></ir>
+  </player>
+  <player name="Joshua Jackson" shortname="Joshua Jackson" checkname="JACKSON,JOSHUA" uni="15" class="FR" gp="1" code="15"></player>
+  <player name="C.J. Beathard" shortname="C.J. Beathard" checkname="BEATHARD,CJ" uni="16" class="" gp="1" gs="1" opos="QB" code="16">
+   <rush att="8" yds="39" gain="50" loss="11" td="1" long="12"></rush>
+   <pass comp="27" att="40" int="1" yds="258" td="0" long="51" sacks="1" sackyds="11"></pass>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Jacob Hillyer" shortname="Jacob Hillyer" checkname="HILLYER,JACOB" uni="17" class="" gp="1" gs="1" opos="WR" code="17">
+   <rcv no="2" yds="52" td="0" long="32"></rcv>
+  </player>
+  <player name="Miles Taylor" shortname="Miles Taylor" checkname="TAYLOR,MILES" uni="19" class="" gp="1" gs="1" dpos="SS" code="19">
+   <defense tackua="5" tacka="2" tot_tack="7"></defense>
+  </player>
+  <player name="Andrew Stone" shortname="Andrew Stone" checkname="STONE,ANDREW" uni="20" class="" gp="1" code="20"></player>
+  <player name="Kevin Ward" shortname="Kevin Ward" checkname="WARD,KEVIN" uni="26" class="" gp="1" code="26"></player>
+  <player name="Jordan Lomax" shortname="Jordan Lomax" checkname="LOMAX,JORDAN" uni="27" class="" gp="1" gs="1" dpos="FS" code="27">
+   <defense tackua="3" tacka="8" tot_tack="11"></defense>
+  </player>
+  <player name="M. Fleming" shortname="M. Fleming" checkname="FLEMING,M" uni="28" class="" gp="1" code="28"></player>
+  <player name="LeShun Daniels" shortname="LeShun Daniels" checkname="DANIELS,LESHUN" uni="29" class="" gp="1" code="29">
+   <rush att="9" yds="17" gain="19" loss="2" td="0" long="5"></rush>
+  </player>
+  <player name="Aaron Mends" shortname="Aaron Mends" checkname="MENDS,AARON" uni="31" class="FR" gp="1" code="31"></player>
+  <player name="D. Mitchell" shortname="D. Mitchell" checkname="MITCHELL,D" uni="32" class="" gp="1" code="32"></player>
+  <player name="Jordan Canzeri" shortname="Jordan Canzeri" checkname="CANZERI,JORDAN" uni="33" class="" gp="1" gs="1" opos="RB" code="33">
+   <rush att="12" yds="49" gain="49" loss="0" td="2" long="10"></rush>
+   <rcv no="7" yds="30" td="0" long="17"></rcv>
+   <scoring td="2"></scoring>
+  </player>
+  <player name="Nate Meier" shortname="Nate Meier" checkname="MEIER,NATE" uni="34" class="" gp="1" gs="1" dpos="LE" code="34">
+   <defense tackua="3" tacka="3" tot_tack="6" tflua="2" tfla="0" tflyds="10" sackua="2" sacka="0" sackyds="10" qbh="1"></defense>
+  </player>
+  <player name="Cole Fisher" shortname="Cole Fisher" checkname="FISHER,COLE" uni="36" class="" gp="1" gs="1" dpos="LB" code="36">
+   <defense tackua="2" tacka="10" tot_tack="12" tflua="1" tfla="0" tflyds="1"></defense>
+  </player>
+  <player name="Brandon Snyder" shortname="Brandon Snyder" checkname="SNYDER,BRANDON" uni="37" class="FR" gp="1" code="37"></player>
+  <player name="Adam Cox" shortname="Adam Cox" checkname="COX,ADAM" uni="38" class="" gp="1" code="38"></player>
+  <player name="Travis Perry" shortname="Travis Perry" checkname="PERRY,TRAVIS" uni="39" class="" gp="1" code="39"></player>
+  <player name="Parker Hesse" shortname="Parker Hesse" checkname="HESSE,PARKER" uni="40" class="FR" gp="1" gs="1" dpos="RE" code="40">
+   <defense tackua="0" tacka="1" tot_tack="1" qbh="1"></defense>
+  </player>
+  <player name="Bo Bower" shortname="Bo Bower" checkname="BOWER,BO" uni="41" class="" gp="1" code="41"></player>
+  <player name="Macon Plewa" shortname="Macon Plewa" checkname="PLEWA,MACON" uni="42" class="" gp="1" code="42">
+   <rcv no="1" yds="3" td="0" long="3"></rcv>
+  </player>
+  <player name="Josey Jewell" shortname="Josey Jewell" checkname="JEWELL,JOSEY" uni="43" class="" gp="1" gs="1" dpos="LB" code="43">
+   <defense tackua="4" tacka="3" tot_tack="7"></defense>
+  </player>
+  <player name="Ben Niemann" shortname="Ben Niemann" checkname="NIEMANN,BEN" uni="44" class="" gp="1" gs="1" dpos="LB" code="44">
+   <defense tackua="1" tacka="2" tot_tack="3"></defense>
+  </player>
+  <player name="Drake Kulick" shortname="Drake Kulick" checkname="KULICK,DRAKE" uni="45" class="" gp="1" code="45"></player>
+  <player name="George Kittle" shortname="George Kittle" checkname="KITTLE,GEORGE" uni="46" class="" gp="1" gs="1" opos="TE" code="46">
+   <rcv no="2" yds="7" td="0" long="4"></rcv>
+  </player>
+  <player name="Boone Myers" shortname="Boone Myers" checkname="MYERS,BOONE" uni="52" class="" gp="1" gs="1" opos="LT" code="52"></player>
+  <player name="Eric Simmons" shortname="Eric Simmons" checkname="SIMMONS,ERIC" uni="58" class="" gp="1" code="58"></player>
+  <player name="Austin Blythe" shortname="Austin Blythe" checkname="BLYTHE,AUSTIN" uni="63" class="" gp="1" gs="1" opos="C" code="63"></player>
+  <player name="Cole Croston" shortname="Cole Croston" checkname="CROSTON,COLE" uni="64" class="" gp="1" code="64"></player>
+  <player name="Jordan Walsh" shortname="Jordan Walsh" checkname="WALSH,JORDAN" uni="65" class="" gp="1" gs="1" opos="RG" code="65"></player>
+  <player name="Jaleel Johnson" shortname="Jaleel Johnson" checkname="JOHNSON,JALEEL" uni="67" class="" gp="1" gs="1" dpos="LT" code="67">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="Keegan Render" shortname="Keegan Render" checkname="RENDER,KEEGAN" uni="69" class="FR" gp="1" code="69"></player>
+  <player name="Ike Boettger" shortname="Ike Boettger" checkname="BOETTGER,IKE" uni="75" class="" gp="1" gs="1" opos="RT" code="75"></player>
+  <player name="James Daniels" shortname="James Daniels" checkname="DANIELS,JAMES" uni="78" class="FR" gp="1" code="78"></player>
+  <player name="Sean Welsh" shortname="Sean Welsh" checkname="WELSH,SEAN" uni="79" class="" gp="1" gs="1" opos="LG" code="79"></player>
+  <player name="H Kreiger-Coble" shortname="H Kreiger-Coble" checkname="KREIGER-COBLE,H" uni="80" class="" gp="1" code="80">
+   <rcv no="5" yds="48" td="0" long="14"></rcv>
+  </player>
+  <player name="Riley McCarron" shortname="Riley McCarron" checkname="MCCARRON,RILEY" uni="83" class="" gp="1" code="83"></player>
+  <player name="Matt VandeBerg" shortname="Matt VandeBerg" checkname="VANDEBERG,MATT" uni="89" class="" gp="1" gs="1" opos="WR" code="89">
+   <rcv no="7" yds="45" td="0" long="12"></rcv>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Sam Brincks" shortname="Sam Brincks" checkname="BRINCKS,SAM" uni="90" class="FR" gp="1" code="90"></player>
+  <player name="Jameer Outsey" shortname="Jameer Outsey" checkname="OUTSEY,JAMEER" uni="92" class="FR" gp="1" code="92"></player>
+  <player name="Drew Ott" shortname="Drew Ott" checkname="OTT,DREW" uni="95" class="" gp="1" code="95"></player>
+  <player name="Nathan Bazata" shortname="Nathan Bazata" checkname="BAZATA,NATHAN" uni="99" class="" gp="1" gs="1" dpos="RT" code="99">
+   <defense tackua="0" tacka="3" tot_tack="3"></defense>
+  </player>
+  <player name="Team" shortname="Team" checkname="TEAM" uni="TM" class="FR" gp="1" code="198">
+   <punt no="1" yds="0" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="0.0"></punt>
+  </player>
+ </team>
+ <scores>
+  <score vh="H" team="IOWA" qtr="1" clock="08:59" type="FG" yds="43" scorer="Marshall Koehn" plays="8" drive="27" top="3:15" vscore="0" hscore="3" driveindex="3"></score>
+  <score vh="H" team="IOWA" qtr="2" clock="14:12" type="TD" how="RUSH" yds="9" scorer="C.J. Beathard" patby="Marshall Koehn" pattype="KICK" patres="GOOD" plays="5" drive="81" top="2:14" vscore="0" hscore="10" driveindex="7"></score>
+  <score vh="V" team="UP" qtr="2" clock="10:11" type="TD" how="PASS" yds="15" scorer="Orndoff, S." passer="Peterman, N." patby="Blewitt, C." pattype="KICK" patres="GOOD" plays="1" drive="15" top="0:03" vscore="7" hscore="10" driveindex="10"></score>
+  <score vh="H" team="IOWA" qtr="2" clock="00:44" type="TD" how="RUSH" yds="4" scorer="Jordan Canzeri" patby="Marshall Koehn" pattype="KICK" patres="GOOD" plays="12" drive="74" top="5:59" vscore="7" hscore="17" driveindex="13"></score>
+  <score vh="V" team="UP" qtr="3" clock="09:40" type="FG" yds="48" scorer="Blewitt, C." plays="10" drive="45" top="5:20" vscore="10" hscore="17" driveindex="16"></score>
+  <score vh="V" team="UP" qtr="3" clock="05:51" type="TD" how="PUNT" blocked="Y" yds="28" scorer="Amara, P." patby="Blewitt, C." pattype="KICK" patres="GOOD" vscore="17" hscore="17" driveindex="18"></score>
+  <score vh="H" team="IOWA" qtr="4" clock="06:04" type="TD" how="RUSH" yds="1" scorer="Jordan Canzeri" patby="Marshall Koehn" pattype="KICK" patres="GOOD" plays="11" drive="80" top="6:46" vscore="17" hscore="24" driveindex="21"></score>
+  <score vh="V" team="UP" qtr="4" clock="00:52" type="TD" how="PASS" yds="8" scorer="Boyd, T." passer="Peterman, N." patby="Blewitt, C." pattype="KICK" patres="GOOD" plays="13" drive="75" top="5:12" vscore="24" hscore="24" driveindex="22"></score>
+  <score vh="H" team="IOWA" qtr="4" clock="00:00" type="FG" yds="57" scorer="Marshall Koehn" plays="7" drive="31" top="0:52" vscore="24" hscore="27" driveindex="23"></score>
+ </scores>
+ <fgas>
+  <fga vh="H" team="IOWA" kicker="Marshall Koehn" qtr="1" clock="08:59" distance="43" result="good"></fga>
+  <fga vh="V" team="UP" kicker="Blewitt, C." qtr="3" clock="09:40" distance="48" result="good"></fga>
+  <fga vh="H" team="IOWA" kicker="Marshall Koehn" qtr="4" clock="00:00" distance="57" result="good"></fga>
+ </fgas>
+ <drives>
+  <drive vh="H" team="IOWA" start="KO,1,15:00,25" end="PUNT,1,14:09,32" plays="3" yards="7" top="0:51" start_how="KO" start_qtr="1" start_time="15:00" start_spot="IOWA25" end_how="PUNT" end_qtr="1" end_time="14:09" end_spot="IOWA32" driveindex="1"></drive>
+  <drive vh="V" team="UP" start="PUNT,1,14:09,4" end="INT,1,12:14,16" plays="4" yards="12" top="1:55" start_how="PUNT" start_qtr="1" start_time="14:09" start_spot="UP04" end_how="INT" end_qtr="1" end_time="12:14" end_spot="UP16" driveindex="2"></drive>
+  <drive vh="H" team="IOWA" start="INT,1,12:14,48" end="FG,1,08:59,75" plays="8" yards="27" top="3:15" start_how="INT" start_qtr="1" start_time="12:14" start_spot="IOWA48" end_how="FG" end_qtr="1" end_time="08:59" end_spot="UP25" driveindex="3"></drive>
+  <drive vh="V" team="UP" start="KO,1,08:59,25" end="INT,1,05:20,95" plays="7" yards="70" top="3:39" start_how="KO" start_qtr="1" start_time="08:59" start_spot="UP25" end_how="INT" end_qtr="1" end_time="05:20" end_spot="IOWA05" rz="1" driveindex="4"></drive>
+  <drive vh="H" team="IOWA" start="INT,1,05:20,20" end="PUNT,1,02:54,36" plays="5" yards="16" top="2:26" start_how="INT" start_qtr="1" start_time="05:20" start_spot="IOWA20" end_how="PUNT" end_qtr="1" end_time="02:54" end_spot="IOWA36" driveindex="5"></drive>
+  <drive vh="V" team="UP" start="PUNT,1,02:54,20" end="PUNT,1,01:26,25" plays="3" yards="5" top="1:28" start_how="PUNT" start_qtr="1" start_time="02:54" start_spot="UP20" end_how="PUNT" end_qtr="1" end_time="01:26" end_spot="UP25" driveindex="6"></drive>
+  <drive vh="H" team="IOWA" start="PUNT,1,01:26,19" end="TD,2,14:12,100" plays="5" yards="81" top="2:14" start_how="PUNT" start_qtr="1" start_time="01:26" start_spot="IOWA19" end_how="TD" end_qtr="2" end_time="14:12" end_spot="UP00" rz="1" driveindex="7"></drive>
+  <drive vh="V" team="UP" start="KO,2,14:12,25" end="PUNT,2,12:16,34" plays="3" yards="9" top="1:56" start_how="KO" start_qtr="2" start_time="14:12" start_spot="UP25" end_how="PUNT" end_qtr="2" end_time="12:16" end_spot="UP34" driveindex="8"></drive>
+  <drive vh="H" team="IOWA" start="PUNT,2,12:16,19" end="INT,2,10:14,33" plays="4" yards="14" top="2:02" start_how="PUNT" start_qtr="2" start_time="12:16" start_spot="IOWA19" end_how="INT" end_qtr="2" end_time="10:14" end_spot="IOWA33" driveindex="9"></drive>
+  <drive vh="V" team="UP" start="INT,2,10:14,85" end="TD,2,10:11,100" plays="1" yards="15" top="0:03" start_how="INT" start_qtr="2" start_time="10:14" start_spot="IOWA15" end_how="TD" end_qtr="2" end_time="10:11" end_spot="IOWA00" rz="1" driveindex="10"></drive>
+  <drive vh="H" team="IOWA" start="KO,2,10:11,25" end="PUNT,2,08:25,19" plays="3" yards="-6" top="1:46" start_how="KO" start_qtr="2" start_time="10:11" start_spot="IOWA25" end_how="PUNT" end_qtr="2" end_time="08:25" end_spot="IOWA19" driveindex="11"></drive>
+  <drive vh="V" team="UP" start="PUNT,2,08:25,38" end="PUNT,2,06:43,37" plays="3" yards="-1" top="1:42" start_how="PUNT" start_qtr="2" start_time="08:25" start_spot="UP38" end_how="PUNT" end_qtr="2" end_time="06:43" end_spot="UP37" driveindex="12"></drive>
+  <drive vh="H" team="IOWA" start="PUNT,2,06:43,26" end="TD,2,00:44,100" plays="12" yards="74" top="5:59" start_how="PUNT" start_qtr="2" start_time="06:43" start_spot="IOWA26" end_how="TD" end_qtr="2" end_time="00:44" end_spot="UP00" rz="1" driveindex="13"></drive>
+  <drive vh="V" team="UP" start="KO,2,00:44,23" end="DOWNS,2,00:00,37" plays="6" yards="14" top="0:44" start_how="KO" start_qtr="2" start_time="00:44" start_spot="UP23" end_how="DOWNS" end_qtr="2" end_time="00:00" end_spot="UP37" driveindex="14"></drive>
+  <drive vh="H" team="IOWA" start="DOWNS,2,00:00,63" end="HALF,2,00:00,63" plays="0" yards="0" top="0:00" start_how="DOWNS" start_qtr="2" start_time="00:00" start_spot="UP37" end_how="HALF" end_qtr="2" end_time="00:00" end_spot="UP37" driveindex="15"></drive>
+  <drive vh="V" team="UP" start="KO,3,15:00,25" end="FG,3,09:40,70" plays="10" yards="45" top="5:20" start_how="KO" start_qtr="3" start_time="15:00" start_spot="UP25" end_how="FG" end_qtr="3" end_time="09:40" end_spot="IOWA30" driveindex="16"></drive>
+  <drive vh="H" team="IOWA" start="KO,3,09:40,25" end="PUNT,3,05:51,50" plays="9" yards="25" top="3:49" start_how="KO" start_qtr="3" start_time="09:40" start_spot="IOWA25" end_how="PUNT" end_qtr="3" end_time="05:51" end_spot="IOWA50" driveindex="17"></drive>
+  <drive vh="V" team="UP" start="PUNT,3,05:51,72" end="TD,3,05:51,72" plays="0" yards="0" top="0:00" start_how="PUNT" start_qtr="3" start_time="05:51" start_spot="IOWA28" end_how="TD" end_qtr="3" end_time="05:51" end_spot="IOWA28" driveindex="18"></drive>
+  <drive vh="H" team="IOWA" start="KO,3,05:51,21" end="PUNT,3,03:09,40" plays="4" yards="19" top="2:42" start_how="KO" start_qtr="3" start_time="05:51" start_spot="IOWA21" end_how="PUNT" end_qtr="3" end_time="03:09" end_spot="IOWA40" driveindex="19"></drive>
+  <drive vh="V" team="UP" start="PUNT,3,03:09,20" end="PUNT,4,12:50,53" plays="9" yards="33" top="5:19" start_how="PUNT" start_qtr="3" start_time="03:09" start_spot="UP20" end_how="PUNT" end_qtr="4" end_time="12:50" end_spot="IOWA47" driveindex="20"></drive>
+  <drive vh="H" team="IOWA" start="PUNT,4,12:50,20" end="TD,4,06:04,100" plays="11" yards="80" top="6:46" start_how="PUNT" start_qtr="4" start_time="12:50" start_spot="IOWA20" end_how="TD" end_qtr="4" end_time="06:04" end_spot="UP00" rz="1" driveindex="21"></drive>
+  <drive vh="V" team="UP" start="KO,4,06:04,25" end="TD,4,00:52,100" plays="13" yards="75" top="5:12" start_how="KO" start_qtr="4" start_time="06:04" start_spot="UP25" end_how="TD" end_qtr="4" end_time="00:52" end_spot="IOWA00" rz="1" driveindex="22"></drive>
+  <drive vh="H" team="IOWA" start="KO,4,00:52,30" end="FG,4,00:00,61" plays="7" yards="31" top="0:52" start_how="KO" start_qtr="4" start_time="00:52" start_spot="IOWA30" end_how="FG" end_qtr="4" end_time="00:00" end_spot="UP39" driveindex="23"></drive>
+ </drives>
+ <plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="UP" down="1" togo="10" spot="UP35" context="V,1,10,V35" playid="0,1,0" tokens="CMT:Pittsburgh wins toss and defers to 2nd half"
+      text="Pittsburgh wins toss and defers to 2nd half" newcontext="V,1,10,V35">
+   </play>
+   <comment text="Iowa will receive and defend the south goal"></comment>
+   <play hasball="UP" down="1" togo="10" spot="UP35" context="V,1,10,V35" playid="0,2,2" type="K" tokens="SPOT:V,V35,N KO:12,H00 TB:"
+      text="UP ball on UP35, Blewitt, C. kickoff 65 yards to the IOWA0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Blewitt, C." gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,15:00" vh="H" spot="H25" clock="15:00" driveindex="1,2"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA25" context="H,1,10,H25" playid="1,1,3" type="P" form="SG" tokens="FORM:SG PASS:16,I,89,* QBH:V,47"
+      text="[SG], C.J. Beathard pass incomplete to Matt VandeBerg, QB hurry by Galambos, M.." newcontext="H,2,10,H25">
+    <p_pa vh="H" qb="C.J. Beathard" result="INC" rcv="Matt VandeBerg"></p_pa>
+    <p_qbh vh="V" name="Galambos, M."></p_qbh>
+   </play>
+   <play hasball="IOWA" down="2" togo="10" spot="IOWA25" context="H,2,10,H25" playid="1,2,4" type="P" form="SG" tokens="FORM:SG PASS:16,C,89,H32 OB: TACK:2"
+      text="[SG], C.J. Beathard pass complete to Matt VandeBerg for 7 yards to the IOWA32, out-of-bounds (Webb, T.)." ob="Y" newcontext="H,3,3,H32">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="Matt VandeBerg" gain="7"></p_pa>
+    <p_tk vh="V" name="Webb, T."></p_tk>
+   </play>
+   <play hasball="IOWA" down="3" togo="3" spot="IOWA32" context="H,3,3,H32" playid="1,3,5" type="P" form="SG" tokens="FORM:SG PASS:16,I,89,*"
+      text="[SG], C.J. Beathard pass incomplete to Matt VandeBerg." newcontext="H,4,3,H32">
+    <p_pa vh="H" qb="C.J. Beathard" result="INC" rcv="Matt VandeBerg"></p_pa>
+   </play>
+   <play hasball="IOWA" down="4" togo="3" spot="IOWA32" context="H,4,3,H32" playid="1,4,6" type="U" tokens="PUNT:1,V04 OB:"
+      text="Marshall Koehn punt 64 yards to the UP4, out-of-bounds." ob="Y" newcontext="V,1,10,V04">
+    <p_pu vh="H" name="Marshall Koehn" gain="64" in20="Y" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="7" top="0:51" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="V,V04,14:09" vh="V" spot="V04" clock="14:09" driveindex="2,6"></drivestart>
+   <play hasball="UP" down="1" togo="10" spot="UP04" context="V,1,10,V04" playid="2,1,7" clock="14:09" tokens="{DRIVE}:14:09"
+      text="PITTSBURGH drive start at 14:09." newcontext="V,1,10,V04">
+   </play>
+   <play hasball="UP" down="1" togo="10" spot="UP04" context="V,1,10,V04" playid="2,2,8" type="R" pcode="RR" form="SG" tokens="FORM:SG RUSH:22,V06,RR TACK:19"
+      text="[SG], Poteat, J. rush right for 2 yards to the UP6 (Miles Taylor)." newcontext="V,2,8,V06">
+    <p_ru vh="V" name="Poteat, J." gain="2"></p_ru>
+    <p_tk vh="H" name="Miles Taylor"></p_tk>
+   </play>
+   <play hasball="UP" down="2" togo="8" spot="UP06" context="V,2,8,V06" playid="2,3,9" type="R" pcode="RR" form="SG" tokens="FORM:SG RUSH:22,V09,RR TACK:44"
+      text="[SG], Poteat, J. rush right for 3 yards to the UP9 (Ben Niemann)." newcontext="V,3,5,V09">
+    <p_ru vh="V" name="Poteat, J." gain="3"></p_ru>
+    <p_tk vh="H" name="Ben Niemann"></p_tk>
+   </play>
+   <play hasball="UP" down="3" togo="5" spot="UP09" context="V,3,5,V09" playid="2,4,10" type="P" first="P" form="SG" tokens="FORM:SG PASS:4P,C,23,V16 TACK:13"
+      text="[SG], Peterman, N. pass complete to Boyd, T. for 7 yards to the UP16, 1ST DOWN UP (Greg Mabin)." newcontext="V,1,10,V16">
+    <p_pa vh="V" qb="Peterman, N." result="COMP" rcv="Boyd, T." gain="7"></p_pa>
+    <p_tk vh="H" name="Greg Mabin"></p_tk>
+   </play>
+   <play hasball="UP" down="1" togo="10" spot="UP16" context="V,1,10,V16" playid="2,5,11" type="P" turnover="I" tokens="PASS:4P,X,14,H48 RET:14,H48"
+      text="Peterman, N. pass intercepted by Desmond King at the IOWA48, Desmond King return 0 yards to the IOWA48." newcontext="H,1,10,H48">
+    <p_pa vh="V" qb="Peterman, N." result="INT"></p_pa>
+    <p_ir vh="H" name="Desmond King" at="H48" gain="0"></p_ir>
+   </play>
+   <drivesum plays="4" yards="12" top="1:55" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="H,H48,12:14" vh="H" spot="H48" clock="12:14" driveindex="3,11"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA48" context="H,1,10,H48" playid="3,1,12" clock="12:14" tokens="{DRIVE}:12:14"
+      text="IOWA drive start at 12:14." newcontext="H,1,10,H48">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA48" context="H,1,10,H48" playid="3,2,13" type="P" form="SG" tokens="FORM:SG PASS:16,C,89,V48 TACK:6"
+      text="[SG], C.J. Beathard pass complete to Matt VandeBerg for 4 yards to the UP48 (Pitts, L.)." newcontext="H,2,6,V48">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="Matt VandeBerg" gain="4"></p_pa>
+    <p_tk vh="V" name="Pitts, L."></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="6" spot="UP48" context="H,2,6,V48" playid="3,3,14" type="R" pcode="MI" tokens="RUSH:29,V47,MI TACK:4"
+      text="LeShun Daniels rush up middle for 1 yard to the UP47 (Bradley, B.)." newcontext="H,3,5,V47">
+    <p_ru vh="H" name="LeShun Daniels" gain="1"></p_ru>
+    <p_tk vh="V" name="Bradley, B."></p_tk>
+   </play>
+   <play hasball="IOWA" down="3" togo="5" spot="UP47" context="H,3,5,V47" playid="3,4,15" type="P" pcode="SC" first="P" form="SG" tokens="FORM:SG PASS:16,C,33,V41,SC TACK:47,9"
+      text="[SG], C.J. Beathard screen pass complete to Jordan Canzeri for 6 yards to the UP41, 1ST DOWN IOWA (Galambos, M.;Whitehead, J.)." newcontext="H,1,10,V41">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="Jordan Canzeri" gain="6"></p_pa>
+    <p_tk vh="V" name="Galambos, M." assist="Y"></p_tk>
+    <p_tk vh="V" name="Whitehead, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UP41" context="H,1,10,V41" playid="3,5,16" type="P" first="E" form="SG" tokens="FORM:SG PASS:16,I,4,* BRUP:14 PEN:V,RP,A,TM,V26,N"
+      text="[SG], C.J. Beathard pass incomplete to Tevaun Smith (Maddox, A.), PENALTY UP roughing passer 15 yards to the UP26, 1ST DOWN IOWA." newcontext="H,1,10,V26">
+    <p_pa vh="H" qb="C.J. Beathard" result="INC" rcv="Tevaun Smith"></p_pa>
+    <p_pn vh="V" code="RP" type="roughing passer" result="ACCEPT" at="V41" yards="15"></p_pn>
+    <p_bu vh="V" name="Maddox, A."></p_bu>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UP26" context="H,1,10,V26" playid="3,6,17" tokens="D:1,10"
+      text="1st and 10." newcontext="H,1,10,V26">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UP26" context="H,1,10,V26" playid="3,7,18" type="R" pcode="MI" tokens="RUSH:29,V23,MI TACK:52,9"
+      text="LeShun Daniels rush up middle for 3 yards to the UP23 (Soto, S.;Whitehead, J.)." newcontext="H,2,7,V23">
+    <p_ru vh="H" name="LeShun Daniels" gain="3"></p_ru>
+    <p_tk vh="V" name="Soto, S." assist="Y"></p_tk>
+    <p_tk vh="V" name="Whitehead, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="7" spot="UP23" context="H,2,7,V23" playid="3,8,19" type="P" pcode="SC" form="SG" tokens="FORM:SG PASS:16,C,33,V25,SC TACK:4"
+      text="[SG], C.J. Beathard screen pass complete to Jordan Canzeri for loss of 2 yards to the UP25 (Bradley, B.)." newcontext="H,3,9,V25">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="Jordan Canzeri" gain="-2"></p_pa>
+    <p_tk vh="V" name="Bradley, B."></p_tk>
+   </play>
+   <play hasball="IOWA" down="3" togo="9" spot="UP25" context="H,3,9,V25" playid="3,9,20" type="P" form="SG" tokens="FORM:SG PASS:16,I,89,*"
+      text="[SG], C.J. Beathard pass incomplete to Matt VandeBerg." newcontext="H,4,9,V25">
+    <p_pa vh="H" qb="C.J. Beathard" result="INC" rcv="Matt VandeBerg"></p_pa>
+   </play>
+   <play hasball="IOWA" down="4" togo="9" spot="UP25" context="H,4,9,V25" playid="3,10,21" type="F" score="Y" vscore="0" hscore="3" clock="08:59" tokens="FGA:1,43,G T:08:59"
+      text="Marshall Koehn field goal attempt from 43 GOOD, clock 08:59." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="Marshall Koehn" distance="43" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="0" H="3"></score>
+   <drivesum plays="8" yards="27" top="3:15" driveindex="3" complete="Y"></drivesum>
+   <play hasball="IOWA" down="1" togo="0" spot="IOWA35" context="H,1,0,H35" playid="3,11,22" type="K" tokens="KO:1,V00 TB:"
+      text="Marshall Koehn kickoff 65 yards to the UP0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Marshall Koehn" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,08:59" vh="V" spot="V25" clock="08:59" driveindex="4,22"></drivestart>
+   <play hasball="UP" down="1" togo="10" spot="UP25" context="V,1,10,V25" playid="4,1,23" clock="08:59" tokens="{DRIVE}:08:59"
+      text="PITTSBURGH drive start at 08:59." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="UP" down="1" togo="10" spot="UP25" context="V,1,10,V25" playid="4,2,24" type="R" pcode="LL" form="SG" tokens="FORM:SG RUSH:23,V27,LL TACK:27"
+      text="[SG], Boyd, T. rush left for 2 yards to the UP27 (Jordan Lomax)." newcontext="V,2,8,V27">
+    <p_ru vh="V" name="Boyd, T." gain="2"></p_ru>
+    <p_tk vh="H" name="Jordan Lomax"></p_tk>
+   </play>
+   <play hasball="UP" down="2" togo="8" spot="UP27" context="V,2,8,V27" playid="4,3,25" type="R" pcode="RR" first="R" form="SG" tokens="FORM:SG RUSH:22,V36,RR OB: TACK:27"
+      text="[SG], Poteat, J. rush right for 9 yards to the UP36, 1ST DOWN UP, out-of-bounds (Jordan Lomax)." ob="Y" newcontext="V,1,10,V36">
+    <p_ru vh="V" name="Poteat, J." gain="9"></p_ru>
+    <p_tk vh="H" name="Jordan Lomax"></p_tk>
+   </play>
+   <play hasball="UP" down="1" togo="10" spot="UP36" context="V,1,10,V36" playid="4,4,26" type="P" first="P" form="SG" tokens="FORM:SG PASS:4P,C,23,H28 TACK:13"
+      text="[SG], Peterman, N. pass complete to Boyd, T. for 36 yards to the IOWA28, 1ST DOWN UP (Greg Mabin)." newcontext="V,1,10,H28">
+    <p_pa vh="V" qb="Peterman, N." result="COMP" rcv="Boyd, T." gain="36"></p_pa>
+    <p_tk vh="H" name="Greg Mabin"></p_tk>
+   </play>
+   <play hasball="UP" down="1" togo="10" spot="IOWA28" context="V,1,10,H28" playid="4,5,27" type="P" first="P" form="SG" tokens="FORM:SG PASS:4P,C,23,H06 OB:"
+      text="[SG], Peterman, N. pass complete to Boyd, T. for 22 yards to the IOWA6, 1ST DOWN UP, out-of-bounds." ob="Y" newcontext="V,1,0,H06">
+    <p_pa vh="V" qb="Peterman, N." result="COMP" rcv="Boyd, T." gain="22"></p_pa>
+   </play>
+   <play hasball="UP" down="1" togo="0" spot="IOWA06" context="V,1,0,H06" playid="4,6,28" type="R" pcode="MI" tokens="RUSH:22,H05,MI TACK:44,99"
+      text="Poteat, J. rush up middle for 1 yard to the IOWA5 (Ben Niemann;Nathan Bazata)." newcontext="V,2,0,H05">
+    <p_ru vh="V" name="Poteat, J." gain="1"></p_ru>
+    <p_tk vh="H" name="Ben Niemann" assist="Y"></p_tk>
+    <p_tk vh="H" name="Nathan Bazata" assist="Y"></p_tk>
+   </play>
+   <play hasball="UP" down="2" togo="0" spot="IOWA05" context="V,2,0,H05" playid="4,7,29" type="R" form="SG" tokens="FORM:SG RUSH:4P,H05, TACK:36,44"
+      text="[SG], Peterman, N. rush for no gain to the IOWA5 (Cole Fisher;Ben Niemann)." newcontext="V,3,0,H05">
+    <p_ru vh="V" name="Peterman, N." gain="0"></p_ru>
+    <p_tk vh="H" name="Cole Fisher" assist="Y"></p_tk>
+    <p_tk vh="H" name="Ben Niemann" assist="Y"></p_tk>
+   </play>
+   <play hasball="UP" down="3" togo="0" spot="IOWA05" context="V,3,0,H05" playid="4,8,30" type="P" turnover="I" form="SG" tokens="FORM:SG PASS:4P,X,14,H00 RET:14,H00 TB:"
+      text="[SG], Peterman, N. pass intercepted by Desmond King at the IOWA0, Desmond King return 0 yards to the IOWA0, touchback." newcontext="H,1,10,H20">
+    <p_pa vh="V" qb="Peterman, N." result="INT"></p_pa>
+    <p_ir vh="H" name="Desmond King" at="H00" gain="0"></p_ir>
+   </play>
+   <drivesum plays="7" yards="70" top="3:39" driveindex="4" complete="Y"></drivesum>
+   <drivestart poss="H,H20,05:20" vh="H" spot="H20" clock="05:20" driveindex="5,30"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA20" context="H,1,10,H20" playid="5,1,31" clock="05:20" tokens="{DRIVE}:05:20"
+      text="IOWA drive start at 05:20." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA20" context="H,1,10,H20" playid="5,2,32" type="R" pcode="MI" tokens="RUSH:33,H23,MI TACK:2,9"
+      text="Jordan Canzeri rush up middle for 3 yards to the IOWA23 (Webb, T.;Whitehead, J.)." newcontext="H,2,7,H23">
+    <p_ru vh="H" name="Jordan Canzeri" gain="3"></p_ru>
+    <p_tk vh="V" name="Webb, T." assist="Y"></p_tk>
+    <p_tk vh="V" name="Whitehead, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="7" spot="IOWA23" context="H,2,7,H23" playid="5,3,33" type="P" first="P" form="SG" tokens="FORM:SG PASS:16,C,80,H34 TACK:47"
+      text="[SG], C.J. Beathard pass complete to H Kreiger-Coble for 11 yards to the IOWA34, 1ST DOWN IOWA (Galambos, M.)." newcontext="H,1,10,H34">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="H Kreiger-Coble" gain="11"></p_pa>
+    <p_tk vh="V" name="Galambos, M."></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA34" context="H,1,10,H34" playid="5,4,34" type="P" tokens="PASS:16,C,4,H38 OB: TACK:9"
+      text="C.J. Beathard pass complete to Tevaun Smith for 4 yards to the IOWA38, out-of-bounds (Whitehead, J.)." ob="Y" newcontext="H,2,6,H38">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="Tevaun Smith" gain="4"></p_pa>
+    <p_tk vh="V" name="Whitehead, J."></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="6" spot="IOWA38" context="H,2,6,H38" playid="5,5,35" type="R" pcode="LL" tokens="RUSH:29,H36,LL TACK:14,9"
+      text="LeShun Daniels rush left for loss of 2 yards to the IOWA36 (Maddox, A.;Whitehead, J.)." newcontext="H,3,8,H36">
+    <p_ru vh="H" name="LeShun Daniels" gain="-2"></p_ru>
+    <p_tk vh="V" name="Maddox, A." assist="Y"></p_tk>
+    <p_tk vh="V" name="Whitehead, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="3" togo="8" spot="IOWA36" context="H,3,8,H36" playid="5,6,36" type="P" form="SG" tokens="FORM:SG PASS:16,I,17,* QBH:V,3"
+      text="[SG], C.J. Beathard pass incomplete to Jacob Hillyer, QB hurry by Grigsby, N.." newcontext="H,4,8,H36">
+    <p_pa vh="H" qb="C.J. Beathard" result="INC" rcv="Jacob Hillyer"></p_pa>
+    <p_qbh vh="V" name="Grigsby, N."></p_qbh>
+   </play>
+   <play hasball="IOWA" down="4" togo="8" spot="IOWA36" context="H,4,8,H36" playid="5,7,37" type="U" tokens="PUNT:6A,V00 TB:"
+      text="Dillon Kidd punt 64 yards to the UP0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="Dillon Kidd" gain="64" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="5" yards="16" top="2:26" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="V,V20,02:54" vh="V" spot="V20" clock="02:54" driveindex="6,37"></drivestart>
+   <play hasball="UP" down="1" togo="10" spot="UP20" context="V,1,10,V20" playid="6,1,38" clock="02:54" tokens="{DRIVE}:02:54"
+      text="PITTSBURGH drive start at 02:54." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="UP" down="1" togo="10" spot="UP20" context="V,1,10,V20" playid="6,2,39" tokens="QB:V,16"
+      text="Voytik, C. at QB for Pittsburgh." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="UP" down="1" togo="10" spot="UP20" context="V,1,10,V20" playid="6,3,40" type="R" pcode="LL" form="SG" tokens="FORM:SG RUSH:23,V25,LL OB: TACK:14"
+      text="[SG], Boyd, T. rush left for 5 yards to the UP25, out-of-bounds (Desmond King)." ob="Y" newcontext="V,2,5,V25">
+    <p_ru vh="V" name="Boyd, T." gain="5"></p_ru>
+    <p_tk vh="H" name="Desmond King"></p_tk>
+   </play>
+   <play hasball="UP" down="2" togo="5" spot="UP25" context="V,2,5,V25" playid="6,4,41" type="R" pcode="MI" form="SG" tokens="FORM:SG RUSH:5J,V25,MI TACK:67"
+      text="[SG], James, C. rush up middle for no gain to the UP25 (Jaleel Johnson)." newcontext="V,3,5,V25">
+    <p_ru vh="V" name="James, C." gain="0"></p_ru>
+    <p_tk vh="H" name="Jaleel Johnson"></p_tk>
+   </play>
+   <play hasball="UP" down="3" togo="5" spot="UP25" context="V,3,5,V25" playid="6,5,42" type="P" form="SG" tokens="FORM:SG PASS:16,I,19,*"
+      text="[SG], Voytik, C. pass incomplete to Ford, D.." newcontext="V,4,5,V25">
+    <p_pa vh="V" qb="Voytik, C." result="INC" rcv="Ford, D."></p_pa>
+   </play>
+   <play hasball="UP" down="4" togo="5" spot="UP25" context="V,4,5,V25" playid="6,6,43" type="U" tokens="PUNT:18,H29 RET:14,H29 TACK:48,9 PEN:H,HO,A,TM,H19,N D:1,10 SPOT:H,H19,Y"
+      text="Winslow, R. punt 46 yards to the IOWA29, Desmond King return 0 yards to the IOWA29 (Poker, Z.;Whitehead, J.), PENALTY IOWA holding 10 yards to the IOWA19, 1st and 10, IOWA ball on IOWA19." newcontext="H,1,10,H19">
+    <p_pu vh="V" name="Winslow, R." gain="46"></p_pu>
+    <p_pr vh="H" name="Desmond King" gain="0"></p_pr>
+    <p_tk vh="V" name="Poker, Z." assist="Y"></p_tk>
+    <p_tk vh="V" name="Whitehead, J." assist="Y"></p_tk>
+    <p_pn vh="H" code="HO" type="holding" result="ACCEPT" at="H29" yards="10"></p_pn>
+   </play>
+   <drivesum plays="3" yards="5" top="1:28" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="H,H19,01:26" vh="H" spot="H19" clock="01:26" driveindex="7,43"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA19" context="H,1,10,H19" playid="7,1,44" clock="01:26" tokens="{DRIVE}:01:26"
+      text="IOWA drive start at 01:26." newcontext="H,1,10,H19">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA19" context="H,1,10,H19" playid="7,2,45" type="P" first="P" form="SG" tokens="FORM:SG PASS:16,C,4,V30 TACK:6"
+      text="[SG], C.J. Beathard pass complete to Tevaun Smith for 51 yards to the UP30, 1ST DOWN IOWA (Pitts, L.)." newcontext="H,1,10,V30">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="Tevaun Smith" gain="51"></p_pa>
+    <p_tk vh="V" name="Pitts, L."></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UP30" context="H,1,10,V30" playid="7,3,46" type="P" pcode="SC" first="E" tokens="PASS:16,C,89,V29,SC TACK:6 PEN:V,PF,A,6,V14,N"
+      text="C.J. Beathard screen pass complete to Matt VandeBerg for 1 yard to the UP29 (Pitts, L.), PENALTY UP personal foul (Pitts, L.) 15 yards to the UP14, 1ST DOWN IOWA." newcontext="H,1,10,V14">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="Matt VandeBerg" gain="1"></p_pa>
+    <p_tk vh="V" name="Pitts, L."></p_tk>
+    <p_pn vh="V" code="PF" type="personal foul" name="Pitts, L." result="ACCEPT" at="V29" yards="15"></p_pn>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UP14" context="H,1,10,V14" playid="7,4,47" tokens="D:1,10"
+      text="1st and 10." newcontext="H,1,10,V14">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UP14" context="H,1,10,V14" playid="7,5,48" type="P" pcode="SC" tokens="PASS:16,C,46,V11,SC TACK:58"
+      text="C.J. Beathard screen pass complete to George Kittle for 3 yards to the UP11 (Wirginis, Q.)." newcontext="H,2,7,V11">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="George Kittle" gain="3"></p_pa>
+    <p_tk vh="V" name="Wirginis, Q."></p_tk>
+   </play>
+   <score qtr="1" V="0" H="3"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UP">
+    <firstdowns no="4" rush="1" pass="3" penalty="0"></firstdowns>
+    <penalties no="2" yds="30"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:02"></misc>
+    <rush att="8" yds="22" gain="22" loss="0" td="0" long="9"></rush>
+    <pass comp="3" att="6" int="2" yds="65" td="0" long="36" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="65" td="0" long="36"></rcv>
+    <punt no="1" yds="46" long="46" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="46.0"></punt>
+    <ko no="1" yds="65" ob="0" tb="1"></ko>
+    <defense tackua="9" tacka="10" tot_tack="19" tflua="1" tfla="2" tflyds="4" sacks="0" sackyds="0" brup="1" qbh="2"></defense>
+   </qtrsummary>
+   <qtrsummary vh="H" id="IOWA">
+    <firstdowns no="5" rush="0" pass="3" penalty="2"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:58"></misc>
+    <rush att="4" yds="5" gain="7" loss="2" td="0" long="3"></rush>
+    <pass comp="9" att="14" int="0" yds="85" td="0" long="51" sacks="0" sackyds="0"></pass>
+    <rcv no="9" yds="85" td="0" long="51"></rcv>
+    <punt no="2" yds="128" long="64" blkd="0" tb="1" fc="0" plus50="2" inside20="1" avg="64.0"></punt>
+    <ko no="1" yds="65" ob="0" tb="1"></ko>
+    <fg made="1" att="1" long="43" blkd="0"></fg>
+    <defense tackua="8" tacka="4" tot_tack="12" sacks="0" sackyds="0" int="2" intyds="0"></defense>
+    <pr no="1" yds="0" td="0" long="0"></pr>
+    <ir no="2" yds="0" td="0" long="0"></ir>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="IOWA" down="2" togo="7" spot="UP11" context="H,2,7,V11" playid="7,6,49" type="#" clock="15:00" tokens="Q:2 T:15:00"
+      text="Start of 2nd quarter, clock 15:00." newcontext="H,2,7,V11">
+   </play>
+   <play hasball="IOWA" down="2" togo="7" spot="UP11" context="H,2,7,V11" playid="7,7,50" type="R" pcode="MI" tokens="RUSH:29,V09,MI TACK:91"
+      text="LeShun Daniels rush up middle for 2 yards to the UP9 (Render, D.)." newcontext="H,3,5,V09">
+    <p_ru vh="H" name="LeShun Daniels" gain="2"></p_ru>
+    <p_tk vh="V" name="Render, D."></p_tk>
+   </play>
+   <play hasball="IOWA" down="3" togo="5" spot="UP09" context="H,3,5,V09" playid="7,8,51" type="R" first="R" score="Y" vscore="0" hscore="9" clock="14:12" form="SG" tokens="FORM:SG RUSH:16,V00, T:14:12"
+      text="[SG], C.J. Beathard rush for 9 yards to the UP0, 1ST DOWN IOWA, TOUCHDOWN, clock 14:12." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="C.J. Beathard" gain="9"></p_ru>
+   </play>
+   <play hasball="IOWA" down="1" togo="0" spot="UP03" context="H,1,0,V03" playid="7,9,52" type="X" score="Y" vscore="0" hscore="10" tokens="PAT:K,1,G"
+      text="Marshall Koehn kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Marshall Koehn" qb="Marshall Koehn" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="10"></score>
+   <drivesum plays="5" yards="81" top="2:14" driveindex="7" complete="Y"></drivesum>
+   <play hasball="IOWA" down="1" togo="0" spot="IOWA35" context="H,1,0,H35" playid="7,10,53" type="K" tokens="KO:1,V00 TB:"
+      text="Marshall Koehn kickoff 65 yards to the UP0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Marshall Koehn" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,14:12" vh="V" spot="V25" clock="14:12" driveindex="8,53"></drivestart>
+   <play hasball="UP" down="1" togo="10" spot="UP25" context="V,1,10,V25" playid="8,1,54" clock="14:12" tokens="{DRIVE}:14:12"
+      text="PITTSBURGH drive start at 14:12." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="UP" down="1" togo="10" spot="UP25" context="V,1,10,V25" playid="8,2,55" type="R" pcode="RR" tokens="RUSH:22,V26,RR TACK:36,27"
+      text="Poteat, J. rush right for 1 yard to the UP26 (Cole Fisher;Jordan Lomax)." newcontext="V,2,9,V26">
+    <p_ru vh="V" name="Poteat, J." gain="1"></p_ru>
+    <p_tk vh="H" name="Cole Fisher" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jordan Lomax" assist="Y"></p_tk>
+   </play>
+   <play hasball="UP" down="2" togo="9" spot="UP26" context="V,2,9,V26" playid="8,3,56" type="P" tokens="PASS:16,C,23,V34 TACK:43"
+      text="Voytik, C. pass complete to Boyd, T. for 8 yards to the UP34 (Josey Jewell)." newcontext="V,3,1,V34">
+    <p_pa vh="V" qb="Voytik, C." result="COMP" rcv="Boyd, T." gain="8"></p_pa>
+    <p_tk vh="H" name="Josey Jewell"></p_tk>
+   </play>
+   <play hasball="UP" down="3" togo="1" spot="UP34" context="V,3,1,V34" playid="8,4,57" type="R" pcode="RR" tokens="RUSH:5J,V34,RR TACK:34,36"
+      text="James, C. rush right for no gain to the UP34 (Nate Meier;Cole Fisher)." newcontext="V,4,1,V34">
+    <p_ru vh="V" name="James, C." gain="0"></p_ru>
+    <p_tk vh="H" name="Nate Meier" assist="Y"></p_tk>
+    <p_tk vh="H" name="Cole Fisher" assist="Y"></p_tk>
+   </play>
+   <play hasball="UP" down="4" togo="1" spot="UP34" context="V,4,1,V34" playid="8,5,58" type="U" tokens="PUNT:18,H19 FC:14"
+      text="Winslow, R. punt 47 yards to the IOWA19, fair catch by Desmond King." newcontext="H,1,10,H19">
+    <p_pu vh="V" name="Winslow, R." gain="47" in20="Y" fc="Desmond King"></p_pu>
+   </play>
+   <drivesum plays="3" yards="9" top="1:56" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="H,H19,12:16" vh="H" spot="H19" clock="12:16" driveindex="9,58"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA19" context="H,1,10,H19" playid="9,1,59" clock="12:16" tokens="{DRIVE}:12:16"
+      text="IOWA drive start at 12:16." newcontext="H,1,10,H19">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA19" context="H,1,10,H19" playid="9,2,60" type="E" tokens="PEN:H,HO,A,63,H09,N"
+      text="PENALTY IOWA holding (Austin Blythe) 10 yards to the IOWA9." newcontext="H,1,20,H09">
+    <p_pn vh="H" code="HO" type="holding" name="Austin Blythe" result="ACCEPT" at="H19" yards="10"></p_pn>
+   </play>
+   <play hasball="IOWA" down="1" togo="20" spot="IOWA09" context="H,1,20,H09" playid="9,3,61" type="P" pcode="SC" first="P" form="SG" tokens="FORM:SG PASS:16,C,17,H29,SC OB: TACK:9"
+      text="[SG], C.J. Beathard screen pass complete to Jacob Hillyer for 20 yards to the IOWA29, 1ST DOWN IOWA, out-of-bounds (Whitehead, J.)." ob="Y" newcontext="H,1,10,H29">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="Jacob Hillyer" gain="20"></p_pa>
+    <p_tk vh="V" name="Whitehead, J."></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA29" context="H,1,10,H29" playid="9,4,62" type="R" pcode="MI" tokens="RUSH:33,H29,MI TACK:54,47"
+      text="Jordan Canzeri rush up middle for no gain to the IOWA29 (Jarrett, T.;Galambos, M.)." newcontext="H,2,10,H29">
+    <p_ru vh="H" name="Jordan Canzeri" gain="0"></p_ru>
+    <p_tk vh="V" name="Jarrett, T." assist="Y"></p_tk>
+    <p_tk vh="V" name="Galambos, M." assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="10" spot="IOWA29" context="H,2,10,H29" playid="9,5,63" type="P" form="SG" tokens="FORM:SG PASS:16,C,33,H33 TACK:14"
+      text="[SG], C.J. Beathard pass complete to Jordan Canzeri for 4 yards to the IOWA33 (Maddox, A.)." newcontext="H,3,6,H33">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="Jordan Canzeri" gain="4"></p_pa>
+    <p_tk vh="V" name="Maddox, A."></p_tk>
+   </play>
+   <play hasball="IOWA" down="3" togo="6" spot="IOWA33" context="H,3,6,H33" playid="9,6,64" type="P" turnover="I" form="SG" tokens="FORM:SG PASS:16,X,2,H38 RET:2,H15 OB: TACK:89"
+      text="[SG], C.J. Beathard pass intercepted by Webb, T. at the IOWA38, Webb, T. return 23 yards to the IOWA15, out-of-bounds (Matt VandeBerg)." ob="Y" newcontext="V,1,10,H15">
+    <p_pa vh="H" qb="C.J. Beathard" result="INT"></p_pa>
+    <p_ir vh="V" name="Webb, T." at="H38" gain="23"></p_ir>
+    <p_tk vh="H" name="Matt VandeBerg"></p_tk>
+   </play>
+   <drivesum plays="4" yards="14" top="2:02" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="V,H15,10:14" vh="V" spot="H15" clock="10:14" driveindex="10,64"></drivestart>
+   <play hasball="UP" down="1" togo="10" spot="IOWA15" context="V,1,10,H15" playid="10,1,65" clock="10:14" tokens="{DRIVE}:10:14"
+      text="PITTSBURGH drive start at 10:14." newcontext="V,1,10,H15">
+   </play>
+   <play hasball="UP" down="1" togo="10" spot="IOWA15" context="V,1,10,H15" playid="10,2,66" tokens="QB:V,4P"
+      text="Peterman, N. at QB for Pittsburgh." newcontext="V,1,10,H15">
+   </play>
+   <play hasball="UP" down="1" togo="10" spot="IOWA15" context="V,1,10,H15" playid="10,3,67" type="P" first="P" score="Y" vscore="6" hscore="10" clock="10:11" form="SG" tokens="FORM:SG PASS:4P,C,83,H00 T:10:11"
+      text="[SG], Peterman, N. pass complete to Orndoff, S. for 15 yards to the IOWA0, 1ST DOWN UP, TOUCHDOWN, clock 10:11." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Peterman, N." result="COMP" rcv="Orndoff, S." gain="15"></p_pa>
+   </play>
+   <play hasball="UP" down="1" togo="0" spot="IOWA03" context="V,1,0,H03" playid="10,4,68" type="X" score="Y" vscore="7" hscore="10" tokens="PAT:K,12,G"
+      text="Blewitt, C. kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Blewitt, C." qb="Blewitt, C." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="10"></score>
+   <play hasball="UP" down="1" togo="0" spot="UP35" context="V,1,0,V35" playid="10,5,69" type="E" tokens="PEN:H,PF,A,67,V50,N"
+      text="PENALTY IOWA personal foul (Jaleel Johnson) 15 yards to the 50 yardline." newcontext="V,1,0,V50">
+    <p_pn vh="H" code="PF" type="personal foul" name="Jaleel Johnson" result="ACCEPT" at="V35" yards="15"></p_pn>
+   </play>
+   <drivesum plays="1" yards="15" top="0:03" driveindex="10" complete="Y"></drivesum>
+   <play hasball="UP" down="1" togo="0" spot="UP50" context="V,1,0,V50" playid="10,6,70" type="K" tokens="KO:12,H00 TB:"
+      text="Blewitt, C. kickoff 50 yards to the IOWA0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Blewitt, C." gain="50" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,10:11" vh="H" spot="H25" clock="10:11" driveindex="11,70"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA25" context="H,1,10,H25" playid="11,1,71" clock="10:11" tokens="{DRIVE}:10:11"
+      text="IOWA drive start at 10:11." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA25" context="H,1,10,H25" playid="11,2,72" type="P" form="SG" tokens="FORM:SG PASS:16,S,TM,H14 SACK:47"
+      text="[SG], C.J. Beathard sacked for loss of 11 yards to the IOWA14 (Galambos, M.)." newcontext="H,2,21,H14">
+    <p_pa vh="H" qb="C.J. Beathard" result="SACK" gain="-11"></p_pa>
+    <p_tk vh="V" name="Galambos, M." sack="Y"></p_tk>
+   </play>
+   <comment text="Originally ruled a fumble, overturned by replay"></comment>
+   <play hasball="IOWA" down="2" togo="21" spot="IOWA14" context="H,2,21,H14" playid="11,3,74" type="P" pcode="SC" form="SG" tokens="FORM:SG PASS:16,C,46,H18,SC TACK:94"
+      text="[SG], C.J. Beathard screen pass complete to George Kittle for 4 yards to the IOWA18 (Taleni, J.)." newcontext="H,3,17,H18">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="George Kittle" gain="4"></p_pa>
+    <p_tk vh="V" name="Taleni, J."></p_tk>
+   </play>
+   <play hasball="IOWA" down="3" togo="17" spot="IOWA18" context="H,3,17,H18" playid="11,4,75" type="#" clock="09:08" tokens="TOUT:V T:09:08"
+      text="Timeout Pittsburgh, clock 09:08." newcontext="H,3,17,H18">
+    <p_to vh="V" team="Pittsburgh"></p_to>
+   </play>
+   <play hasball="IOWA" down="3" togo="17" spot="IOWA18" context="H,3,17,H18" playid="11,5,76" type="E" form="SG" tokens="FORM:SG PEN:H,FS,A,52,H13,N NOPLAY:"
+      text="[SG], PENALTY IOWA false start (Boone Myers) 5 yards to the IOWA13, NO PLAY." newcontext="H,3,22,H13">
+    <p_pn vh="H" code="FS" type="false start" name="Boone Myers" result="ACCEPT" at="H18" yards="5"></p_pn>
+   </play>
+   <play hasball="IOWA" down="3" togo="22" spot="IOWA13" context="H,3,22,H13" playid="11,6,77" type="P" form="SG" tokens="FORM:SG PASS:16,C,33,H19 TACK:97,14"
+      text="[SG], C.J. Beathard pass complete to Jordan Canzeri for 6 yards to the IOWA19 (Scarpinato, M.;Maddox, A.)." newcontext="H,4,16,H19">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="Jordan Canzeri" gain="6"></p_pa>
+    <p_tk vh="V" name="Scarpinato, M." assist="Y"></p_tk>
+    <p_tk vh="V" name="Maddox, A." assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="4" togo="16" spot="IOWA19" context="H,4,16,H19" playid="11,7,78" type="U" tokens="PUNT:6A,V38 FC:23"
+      text="Dillon Kidd punt 43 yards to the UP38, fair catch by Boyd, T.." newcontext="V,1,10,V38">
+    <p_pu vh="H" name="Dillon Kidd" gain="43" fc="Boyd, T."></p_pu>
+   </play>
+   <drivesum plays="3" yards="-6" top="1:46" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="V,V38,08:25" vh="V" spot="V38" clock="08:25" driveindex="12,78"></drivestart>
+   <play hasball="UP" down="1" togo="10" spot="UP38" context="V,1,10,V38" playid="12,1,79" clock="08:25" tokens="{DRIVE}:08:25"
+      text="PITTSBURGH drive start at 08:25." newcontext="V,1,10,V38">
+   </play>
+   <play hasball="UP" down="1" togo="10" spot="UP38" context="V,1,10,V38" playid="12,2,80" type="R" pcode="MI" tokens="RUSH:37,V42,MI TACK:99,67"
+      text="Ollison, Q. rush up middle for 4 yards to the UP42 (Nathan Bazata;Jaleel Johnson)." newcontext="V,2,6,V42">
+    <p_ru vh="V" name="Ollison, Q." gain="4"></p_ru>
+    <p_tk vh="H" name="Nathan Bazata" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jaleel Johnson" assist="Y"></p_tk>
+   </play>
+   <play hasball="UP" down="2" togo="6" spot="UP42" context="V,2,6,V42" playid="12,3,81" type="R" pcode="LL" form="SG" tokens="FORM:SG RUSH:37,V37,LL TACK:14"
+      text="[SG], Ollison, Q. rush left for loss of 5 yards to the UP37 (Desmond King)." newcontext="V,3,11,V37">
+    <p_ru vh="V" name="Ollison, Q." gain="-5"></p_ru>
+    <p_tk vh="H" name="Desmond King"></p_tk>
+   </play>
+   <play hasball="UP" down="3" togo="11" spot="UP37" context="V,3,11,V37" playid="12,4,82" type="R" form="SG" tokens="FORM:SG RUSH:4P,V37, OB: TACK:43"
+      text="[SG], Peterman, N. rush for no gain to the UP37, out-of-bounds (Josey Jewell)." ob="Y" newcontext="V,4,11,V37">
+    <p_ru vh="V" name="Peterman, N." gain="0"></p_ru>
+    <p_tk vh="H" name="Josey Jewell"></p_tk>
+   </play>
+   <play hasball="UP" down="4" togo="11" spot="UP37" context="V,4,11,V37" playid="12,5,83" type="U" tokens="PUNT:18,H26 FC:14"
+      text="Winslow, R. punt 37 yards to the IOWA26, fair catch by Desmond King." newcontext="H,1,10,H26">
+    <p_pu vh="V" name="Winslow, R." gain="37" fc="Desmond King"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-1" top="1:42" driveindex="12" complete="Y"></drivesum>
+   <drivestart poss="H,H26,06:43" vh="H" spot="H26" clock="06:43" driveindex="13,83"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA26" context="H,1,10,H26" playid="13,1,84" clock="06:43" tokens="{DRIVE}:06:43"
+      text="IOWA drive start at 06:43." newcontext="H,1,10,H26">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA26" context="H,1,10,H26" playid="13,2,85" type="R" pcode="LL" tokens="RUSH:29,H28,LL TACK:3"
+      text="LeShun Daniels rush left for 2 yards to the IOWA28 (Grigsby, N.)." newcontext="H,2,8,H28">
+    <p_ru vh="H" name="LeShun Daniels" gain="2"></p_ru>
+    <p_tk vh="V" name="Grigsby, N."></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="8" spot="IOWA28" context="H,2,8,H28" playid="13,3,86" type="P" first="P" tokens="PASS:16,C,4,H46 TACK:14,2"
+      text="C.J. Beathard pass complete to Tevaun Smith for 18 yards to the IOWA46, 1ST DOWN IOWA (Maddox, A.;Webb, T.)." newcontext="H,1,10,H46">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="Tevaun Smith" gain="18"></p_pa>
+    <p_tk vh="V" name="Maddox, A." assist="Y"></p_tk>
+    <p_tk vh="V" name="Webb, T." assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA46" context="H,1,10,H46" playid="13,4,87" type="P" tokens="PASS:16,I,4,*"
+      text="C.J. Beathard pass incomplete to Tevaun Smith." newcontext="H,2,10,H46">
+    <p_pa vh="H" qb="C.J. Beathard" result="INC" rcv="Tevaun Smith"></p_pa>
+   </play>
+   <play hasball="IOWA" down="2" togo="10" spot="IOWA46" context="H,2,10,H46" playid="13,5,88" type="P" first="P" form="SG" tokens="FORM:SG PASS:16,C,80,V40 TACK:4"
+      text="[SG], C.J. Beathard pass complete to H Kreiger-Coble for 14 yards to the UP40, 1ST DOWN IOWA (Bradley, B.)." newcontext="H,1,10,V40">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="H Kreiger-Coble" gain="14"></p_pa>
+    <p_tk vh="V" name="Bradley, B."></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UP40" context="H,1,10,V40" playid="13,6,89" type="R" pcode="MI" tokens="RUSH:29,V38,MI TACK:52"
+      text="LeShun Daniels rush up middle for 2 yards to the UP38 (Soto, S.)." newcontext="H,2,8,V38">
+    <p_ru vh="H" name="LeShun Daniels" gain="2"></p_ru>
+    <p_tk vh="V" name="Soto, S."></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="8" spot="UP38" context="H,2,8,V38" playid="13,7,90" type="P" pcode="SL" tokens="PASS:16,C,89,V31,SL TACK:2"
+      text="C.J. Beathard slant pass complete to Matt VandeBerg for 7 yards to the UP31 (Webb, T.)." newcontext="H,3,1,V31">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="Matt VandeBerg" gain="7"></p_pa>
+    <p_tk vh="V" name="Webb, T."></p_tk>
+   </play>
+   <play hasball="IOWA" down="3" togo="1" spot="UP31" context="H,3,1,V31" playid="13,8,91" type="#" clock="03:22" tokens="TOUT:V T:03:22"
+      text="Timeout Pittsburgh, clock 03:22." newcontext="H,3,1,V31">
+    <p_to vh="V" team="Pittsburgh"></p_to>
+   </play>
+   <play hasball="IOWA" down="3" togo="1" spot="UP31" context="H,3,1,V31" playid="13,9,92" type="R" pcode="QS" first="R" tokens="RUSH:16,V27,QS TACK:14"
+      text="C.J. Beathard rush quarterback sneak for 4 yards to the UP27, 1ST DOWN IOWA (Maddox, A.)." newcontext="H,1,10,V27">
+    <p_ru vh="H" name="C.J. Beathard" gain="4"></p_ru>
+    <p_tk vh="V" name="Maddox, A."></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UP27" context="H,1,10,V27" playid="13,10,93" type="P" tokens="PASS:16,I,4,*"
+      text="C.J. Beathard pass incomplete to Tevaun Smith." newcontext="H,2,10,V27">
+    <p_pa vh="H" qb="C.J. Beathard" result="INC" rcv="Tevaun Smith"></p_pa>
+   </play>
+   <play hasball="IOWA" down="2" togo="10" spot="UP27" context="H,2,10,V27" playid="13,11,94" type="P" form="SG" tokens="FORM:SG PASS:16,C,80,V21 TACK:47,9"
+      text="[SG], C.J. Beathard pass complete to H Kreiger-Coble for 6 yards to the UP21 (Galambos, M.;Whitehead, J.)." newcontext="H,3,4,V21">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="H Kreiger-Coble" gain="6"></p_pa>
+    <p_tk vh="V" name="Galambos, M." assist="Y"></p_tk>
+    <p_tk vh="V" name="Whitehead, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="3" togo="4" spot="UP21" context="H,3,4,V21" playid="13,12,95" type="P" first="P" form="SG" tokens="FORM:SG PASS:16,C,89,V11 TACK:2"
+      text="[SG], C.J. Beathard pass complete to Matt VandeBerg for 10 yards to the UP11, 1ST DOWN IOWA (Webb, T.)." newcontext="H,1,10,V11">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="Matt VandeBerg" gain="10"></p_pa>
+    <p_tk vh="V" name="Webb, T."></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UP11" context="H,1,10,V11" playid="13,13,96" type="R" pcode="MI" tokens="RUSH:33,V04,MI TACK:2,14"
+      text="Jordan Canzeri rush up middle for 7 yards to the UP4 (Webb, T.;Maddox, A.)." newcontext="H,2,3,V04">
+    <p_ru vh="H" name="Jordan Canzeri" gain="7"></p_ru>
+    <p_tk vh="V" name="Webb, T." assist="Y"></p_tk>
+    <p_tk vh="V" name="Maddox, A." assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="3" spot="UP04" context="H,2,3,V04" playid="13,14,97" type="R" pcode="RR" first="R" score="Y" vscore="7" hscore="16" clock="00:44" tokens="RUSH:33,V00,RR T:00:44"
+      text="Jordan Canzeri rush right for 4 yards to the UP0, 1ST DOWN IOWA, TOUCHDOWN, clock 00:44." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Jordan Canzeri" gain="4"></p_ru>
+   </play>
+   <play hasball="IOWA" down="1" togo="0" spot="UP03" context="H,1,0,V03" playid="13,15,98" type="X" score="Y" vscore="7" hscore="17" tokens="PAT:K,1,G"
+      text="Marshall Koehn kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Marshall Koehn" qb="Marshall Koehn" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="17"></score>
+   <drivesum plays="12" yards="74" top="5:59" driveindex="13" complete="Y"></drivesum>
+   <play hasball="IOWA" down="1" togo="0" spot="IOWA35" context="H,1,0,H35" playid="13,16,99" type="K" tokens="KO:1,V03 RET:23,V23 OB: TACK:27"
+      text="Marshall Koehn kickoff 62 yards to the UP3, Boyd, T. return 20 yards to the UP23, out-of-bounds (Jordan Lomax)." ob="Y" newcontext="V,1,10,V23">
+    <p_ko vh="H" name="Marshall Koehn" gain="62"></p_ko>
+    <p_kr vh="V" name="Boyd, T." gain="20"></p_kr>
+    <p_tk vh="H" name="Jordan Lomax"></p_tk>
+   </play>
+   <drivestart poss="V,V23,00:44" vh="V" spot="V23" clock="00:44" driveindex="14,99"></drivestart>
+   <play hasball="UP" down="1" togo="10" spot="UP23" context="V,1,10,V23" playid="14,1,100" clock="00:44" tokens="{DRIVE}:00:44"
+      text="PITTSBURGH drive start at 00:44." newcontext="V,1,10,V23">
+   </play>
+   <play hasball="UP" down="1" togo="10" spot="UP23" context="V,1,10,V23" playid="14,2,101" type="P" form="SG" tokens="FORM:SG PASS:4P,I,80,* QBH:H,40"
+      text="[SG], Peterman, N. pass incomplete to Challingsworth, QB hurry by Parker Hesse." newcontext="V,2,10,V23">
+    <p_pa vh="V" qb="Peterman, N." result="INC" rcv="Challingsworth"></p_pa>
+    <p_qbh vh="H" name="Parker Hesse"></p_qbh>
+   </play>
+   <play hasball="UP" down="2" togo="10" spot="UP23" context="V,2,10,V23" playid="14,3,102" type="R" pcode="RR" first="R" form="SG" tokens="FORM:SG RUSH:37,V39,RR TACK:36,27"
+      text="[SG], Ollison, Q. rush right for 16 yards to the UP39, 1ST DOWN UP (Cole Fisher;Jordan Lomax)." newcontext="V,1,10,V39">
+    <p_ru vh="V" name="Ollison, Q." gain="16"></p_ru>
+    <p_tk vh="H" name="Cole Fisher" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jordan Lomax" assist="Y"></p_tk>
+   </play>
+   <play hasball="UP" down="1" togo="10" spot="UP39" context="V,1,10,V39" playid="14,4,103" type="P" form="SG" tokens="FORM:SG PASS:4P,D,23,*"
+      text="[SG], Peterman, N. pass incomplete to Boyd, T., dropped pass." newcontext="V,2,10,V39">
+    <p_pa vh="V" qb="Peterman, N." result="DROP" rcv="Boyd, T."></p_pa>
+   </play>
+   <play hasball="UP" down="2" togo="10" spot="UP39" context="V,2,10,V39" playid="14,5,104" type="P" form="SG" tokens="FORM:SG PASS:4P,S,TM,V35 SACK:34"
+      text="[SG], Peterman, N. sacked for loss of 4 yards to the UP35 (Nate Meier)." newcontext="V,3,14,V35">
+    <p_pa vh="V" qb="Peterman, N." result="SACK" gain="-4"></p_pa>
+    <p_tk vh="H" name="Nate Meier" sack="Y"></p_tk>
+   </play>
+   <play hasball="UP" down="3" togo="14" spot="UP35" context="V,3,14,V35" playid="14,6,105" type="R" pcode="MI" form="SG" tokens="FORM:SG RUSH:37,V37,MI TACK:36,40"
+      text="[SG], Ollison, Q. rush up middle for 2 yards to the UP37 (Cole Fisher;Parker Hesse)." newcontext="V,4,12,V37">
+    <p_ru vh="V" name="Ollison, Q." gain="2"></p_ru>
+    <p_tk vh="H" name="Cole Fisher" assist="Y"></p_tk>
+    <p_tk vh="H" name="Parker Hesse" assist="Y"></p_tk>
+   </play>
+   <play hasball="UP" down="4" togo="12" spot="UP37" context="V,4,12,V37" playid="14,7,106" type="#" clock="00:04" tokens="TOUT:H T:00:04"
+      text="Timeout Iowa, clock 00:04." newcontext="V,4,12,V37">
+    <p_to vh="H" team="Iowa"></p_to>
+   </play>
+   <play hasball="UP" down="4" togo="12" spot="UP37" context="V,4,12,V37" playid="14,8,107" type="P" form="SG" tokens="FORM:SG PASS:4P,I,23,*"
+      text="[SG], Peterman, N. pass incomplete to Boyd, T.." newcontext="H,1,10,V37">
+    <p_pa vh="V" qb="Peterman, N." result="INC" rcv="Boyd, T."></p_pa>
+   </play>
+   <drivesum plays="6" yards="14" top="0:44" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="H,V37,00:00" vh="H" spot="V37" clock="00:00" driveindex="15,107"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="UP37" context="H,1,10,V37" playid="15,1,108" clock="00:00" tokens="{DRIVE}:00:00"
+      text="IOWA drive start at 00:00." newcontext="H,1,10,V37">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UP37" context="H,1,10,V37" playid="15,2,109" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of half, clock 00:00." newcontext="H,1,10,V37">
+   </play>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="15" complete="Y"></drivesum>
+   <score qtr="2" V="7" H="17"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UP">
+    <firstdowns no="2" rush="1" pass="1" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="04:25"></misc>
+    <rush att="8" yds="14" gain="23" loss="9" td="0" long="7"></rush>
+    <pass comp="2" att="5" int="0" yds="23" td="1" long="0" sacks="1" sackyds="4"></pass>
+    <rcv no="2" yds="23" td="1" long="0"></rcv>
+    <punt no="2" yds="84" long="1" blkd="0" tb="0" fc="2" plus50="0" inside20="1" avg="42.0"></punt>
+    <ko no="1" yds="50" ob="0" tb="1"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="11" tacka="10" tot_tack="21" tflua="1" tfla="0" tflyds="11" sacks="1" sackyds="11" int="1" intyds="23"></defense>
+    <kr no="1" yds="20" td="0" long="20"></kr>
+    <ir no="1" yds="23" td="0" long="23"></ir>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="IOWA">
+    <firstdowns no="7" rush="3" pass="4" penalty="0"></firstdowns>
+    <penalties no="3" yds="30"></penalties>
+    <conversions thirdconv="3" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="10:35"></misc>
+    <rush att="9" yds="19" gain="30" loss="11" td="2" long="6"></rush>
+    <pass comp="9" att="12" int="1" yds="89" td="0" long="0" sacks="1" sackyds="11"></pass>
+    <rcv no="9" yds="89" td="0" long="0"></rcv>
+    <punt no="1" yds="43" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="43.0"></punt>
+    <ko no="2" yds="127" ob="0" tb="1"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="6" tacka="10" tot_tack="16" tflua="2" tfla="0" tflyds="9" sacks="1" sackyds="4" qbh="1"></defense>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="IOWA" down="1" togo="10" spot="UP37" context="H,1,10,V37" playid="15,3,110" type="#" clock="15:00" tokens="Q:3 T:15:00 SPOT:H,H35,N"
+      text="Start of 3rd quarter, clock 15:00, IOWA ball on IOWA35." newcontext="H,1,10,H35">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA35" context="H,1,10,H35" playid="15,4,111" type="K" tokens="KO:1,V00 TB:"
+      text="Marshall Koehn kickoff 65 yards to the UP0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Marshall Koehn" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,15:00" vh="V" spot="V25" clock="15:00" driveindex="16,111"></drivestart>
+   <play hasball="UP" down="1" togo="10" spot="UP25" context="V,1,10,V25" playid="16,1,112" clock="15:00" tokens="{DRIVE}:15:00"
+      text="PITTSBURGH drive start at 15:00." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="UP" down="1" togo="10" spot="UP25" context="V,1,10,V25" playid="16,2,113" type="P" pcode="SC" tokens="PASS:4P,C,35,V28,SC OB: TACK:13,36"
+      text="Peterman, N. screen pass complete to Aston, G. for 3 yards to the UP28, out-of-bounds (Greg Mabin;Cole Fisher)." ob="Y" newcontext="V,2,7,V28">
+    <p_pa vh="V" qb="Peterman, N." result="COMP" rcv="Aston, G." gain="3"></p_pa>
+    <p_tk vh="H" name="Greg Mabin" assist="Y"></p_tk>
+    <p_tk vh="H" name="Cole Fisher" assist="Y"></p_tk>
+   </play>
+   <play hasball="UP" down="2" togo="7" spot="UP28" context="V,2,7,V28" playid="16,3,114" type="P" first="P" form="SG" tokens="FORM:SG PASS:4P,C,19,V39 TACK:13"
+      text="[SG], Peterman, N. pass complete to Ford, D. for 11 yards to the UP39, 1ST DOWN UP (Greg Mabin)." newcontext="V,1,10,V39">
+    <p_pa vh="V" qb="Peterman, N." result="COMP" rcv="Ford, D." gain="11"></p_pa>
+    <p_tk vh="H" name="Greg Mabin"></p_tk>
+   </play>
+   <play hasball="UP" down="1" togo="10" spot="UP39" context="V,1,10,V39" playid="16,4,115" type="R" pcode="RR" tokens="RUSH:22,V43,RR TACK:43"
+      text="Poteat, J. rush right for 4 yards to the UP43 (Josey Jewell)." newcontext="V,2,6,V43">
+    <p_ru vh="V" name="Poteat, J." gain="4"></p_ru>
+    <p_tk vh="H" name="Josey Jewell"></p_tk>
+   </play>
+   <play hasball="UP" down="2" togo="6" spot="UP43" context="V,2,6,V43" playid="16,5,116" type="R" pcode="MI" form="SG" tokens="FORM:SG RUSH:22,V48,MI TACK:19,27"
+      text="[SG], Poteat, J. rush up middle for 5 yards to the UP48 (Miles Taylor;Jordan Lomax)." newcontext="V,3,1,V48">
+    <p_ru vh="V" name="Poteat, J." gain="5"></p_ru>
+    <p_tk vh="H" name="Miles Taylor" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jordan Lomax" assist="Y"></p_tk>
+   </play>
+   <play hasball="UP" down="3" togo="1" spot="UP48" context="V,3,1,V48" playid="16,6,117" type="R" pcode="RR" first="R" tokens="RUSH:22,H49,RR TACK:19"
+      text="Poteat, J. rush right for 3 yards to the IOWA49, 1ST DOWN UP (Miles Taylor)." newcontext="V,1,10,H49">
+    <p_ru vh="V" name="Poteat, J." gain="3"></p_ru>
+    <p_tk vh="H" name="Miles Taylor"></p_tk>
+   </play>
+   <play hasball="UP" down="1" togo="10" spot="IOWA49" context="V,1,10,H49" playid="16,7,118" type="P" first="P" form="SG" tokens="FORM:SG PASS:4P,C,86,H36 TACK:19"
+      text="[SG], Peterman, N. pass complete to Holtz, J. for 13 yards to the IOWA36, 1ST DOWN UP (Miles Taylor)." newcontext="V,1,10,H36">
+    <p_pa vh="V" qb="Peterman, N." result="COMP" rcv="Holtz, J." gain="13"></p_pa>
+    <p_tk vh="H" name="Miles Taylor"></p_tk>
+   </play>
+   <play hasball="UP" down="1" togo="10" spot="IOWA36" context="V,1,10,H36" playid="16,8,119" type="R" pcode="MI" form="SG" tokens="FORM:SG RUSH:22,H32,MI TACK:36,99"
+      text="[SG], Poteat, J. rush up middle for 4 yards to the IOWA32 (Cole Fisher;Nathan Bazata)." newcontext="V,2,6,H32">
+    <p_ru vh="V" name="Poteat, J." gain="4"></p_ru>
+    <p_tk vh="H" name="Cole Fisher" assist="Y"></p_tk>
+    <p_tk vh="H" name="Nathan Bazata" assist="Y"></p_tk>
+   </play>
+   <play hasball="UP" down="2" togo="6" spot="IOWA32" context="V,2,6,H32" playid="16,9,120" type="R" pcode="MI" tokens="RUSH:22,H30,MI TACK:34"
+      text="Poteat, J. rush up middle for 2 yards to the IOWA30 (Nate Meier)." newcontext="V,3,4,H30">
+    <p_ru vh="V" name="Poteat, J." gain="2"></p_ru>
+    <p_tk vh="H" name="Nate Meier"></p_tk>
+   </play>
+   <play hasball="UP" down="3" togo="4" spot="IOWA30" context="V,3,4,H30" playid="16,10,121" type="R" pcode="MI" form="SG" tokens="FORM:SG RUSH:22,H30,MI TACK:27,34"
+      text="[SG], Poteat, J. rush up middle for no gain to the IOWA30 (Jordan Lomax;Nate Meier)." newcontext="V,4,4,H30">
+    <p_ru vh="V" name="Poteat, J." gain="0"></p_ru>
+    <p_tk vh="H" name="Jordan Lomax" assist="Y"></p_tk>
+    <p_tk vh="H" name="Nate Meier" assist="Y"></p_tk>
+   </play>
+   <play hasball="UP" down="4" togo="4" spot="IOWA30" context="V,4,4,H30" playid="16,11,122" type="F" score="Y" vscore="10" hscore="17" clock="09:40" tokens="FGA:12,48,G T:09:40"
+      text="Blewitt, C. field goal attempt from 48 GOOD, clock 09:40." newcontext="V,1,0,V35">
+    <p_fg vh="V" name="Blewitt, C." distance="48" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="10" H="17"></score>
+   <drivesum plays="10" yards="45" top="5:20" driveindex="16" complete="Y"></drivesum>
+   <play hasball="UP" down="1" togo="0" spot="UP35" context="V,1,0,V35" playid="16,12,123" type="K" tokens="KO:12,H00 TB:"
+      text="Blewitt, C. kickoff 65 yards to the IOWA0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Blewitt, C." gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,09:40" vh="H" spot="H25" clock="09:40" driveindex="17,123"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA25" context="H,1,10,H25" playid="17,1,124" clock="09:40" tokens="{DRIVE}:09:40"
+      text="IOWA drive start at 09:40." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA25" context="H,1,10,H25" playid="17,2,125" type="R" pcode="MI" tokens="RUSH:29,H30,MI TACK:9"
+      text="LeShun Daniels rush up middle for 5 yards to the IOWA30 (Whitehead, J.)." newcontext="H,2,5,H30">
+    <p_ru vh="H" name="LeShun Daniels" gain="5"></p_ru>
+    <p_tk vh="V" name="Whitehead, J."></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="5" spot="IOWA30" context="H,2,5,H30" playid="17,3,126" type="R" pcode="MI" tokens="RUSH:29,H34,MI TACK:58"
+      text="LeShun Daniels rush up middle for 4 yards to the IOWA34 (Wirginis, Q.)." newcontext="H,3,1,H34">
+    <p_ru vh="H" name="LeShun Daniels" gain="4"></p_ru>
+    <p_tk vh="V" name="Wirginis, Q."></p_tk>
+   </play>
+   <play hasball="IOWA" down="3" togo="1" spot="IOWA34" context="H,3,1,H34" playid="17,4,127" type="R" pcode="QS" first="R" tokens="RUSH:16,H38,QS TACK:9"
+      text="C.J. Beathard rush quarterback sneak for 4 yards to the IOWA38, 1ST DOWN IOWA (Whitehead, J.)." newcontext="H,1,10,H38">
+    <p_ru vh="H" name="C.J. Beathard" gain="4"></p_ru>
+    <p_tk vh="V" name="Whitehead, J."></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA38" context="H,1,10,H38" playid="17,5,128" type="P" tokens="PASS:16,I,89,* QBH:V,52"
+      text="C.J. Beathard pass incomplete to Matt VandeBerg, QB hurry by Soto, S.." newcontext="H,2,10,H38">
+    <p_pa vh="H" qb="C.J. Beathard" result="INC" rcv="Matt VandeBerg"></p_pa>
+    <p_qbh vh="V" name="Soto, S."></p_qbh>
+   </play>
+   <play hasball="IOWA" down="2" togo="10" spot="IOWA38" context="H,2,10,H38" playid="17,6,129" type="P" form="SG" tokens="FORM:SG PASS:16,C,33,H38 TACK:14"
+      text="[SG], C.J. Beathard pass complete to Jordan Canzeri for no gain to the IOWA38 (Maddox, A.)." newcontext="H,3,10,H38">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="Jordan Canzeri" gain="0"></p_pa>
+    <p_tk vh="V" name="Maddox, A."></p_tk>
+   </play>
+   <play hasball="IOWA" down="3" togo="10" spot="IOWA38" context="H,3,10,H38" playid="17,7,130" type="P" first="P" form="SG" tokens="FORM:SG PASS:16,C,80,V49 TACK:20"
+      text="[SG], C.J. Beathard pass complete to H Kreiger-Coble for 13 yards to the UP49, 1ST DOWN IOWA (Briggs, D.)." newcontext="H,1,10,V49">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="H Kreiger-Coble" gain="13"></p_pa>
+    <p_tk vh="V" name="Briggs, D."></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UP49" context="H,1,10,V49" playid="17,8,131" type="P" tokens="PASS:16,I,89,*"
+      text="C.J. Beathard pass incomplete to Matt VandeBerg." newcontext="H,2,10,V49">
+    <p_pa vh="H" qb="C.J. Beathard" result="INC" rcv="Matt VandeBerg"></p_pa>
+   </play>
+   <play hasball="IOWA" down="2" togo="10" spot="UP49" context="H,2,10,V49" playid="17,9,132" type="P" form="SG" tokens="FORM:SG PASS:16,C,33,H50 TACK:4,48"
+      text="[SG], C.J. Beathard pass complete to Jordan Canzeri for loss of 1 yard to the 50 yardline (Bradley, B.;Poker, Z.)." newcontext="H,3,11,H50">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="Jordan Canzeri" gain="-1"></p_pa>
+    <p_tk vh="V" name="Bradley, B." assist="Y"></p_tk>
+    <p_tk vh="V" name="Poker, Z." assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="3" togo="11" spot="IOWA50" context="H,3,11,H50" playid="17,10,133" type="P" form="SG" tokens="FORM:SG PASS:16,I,4,*"
+      text="[SG], C.J. Beathard pass incomplete to Tevaun Smith." newcontext="H,4,11,H50">
+    <p_pa vh="H" qb="C.J. Beathard" result="INC" rcv="Tevaun Smith"></p_pa>
+   </play>
+   <play hasball="IOWA" down="4" togo="11" spot="IOWA50" context="H,4,11,H50" playid="17,11,134" type="U" score="Y" vscore="16" hscore="17" clock="05:51" tokens="PUNT:6A,H39,B,V,H28,25 BLOCK:38 +:25,H00 T:05:51"
+      text="Dillon Kidd punt BLOCKED, recovered by UP Amara, P. at IOWA28 (blocked by Lewis, R.), Amara, P. for 28 yards to the IOWA0, TOUCHDOWN, clock 05:51." newcontext="V,1,0,H03">
+    <p_pu vh="H" name="Dillon Kidd" gain="-11" blkd="Y"></p_pu>
+    <p_cont vh="V" name="Amara, P." context="PUNT" at="H28" gain="28"></p_cont>
+   </play>
+   <drivesum plays="9" yards="25" top="3:49" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="V,H03,05:51" vh="V" spot="H03" clock="05:51" driveindex="18,134"></drivestart>
+   <play hasball="UP" down="1" togo="0" spot="IOWA03" context="V,1,0,H03" playid="18,1,135" type="X" score="Y" vscore="17" hscore="17" tokens="PAT:K,12,G"
+      text="Blewitt, C. kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Blewitt, C." qb="Blewitt, C." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="17" H="17"></score>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="18" complete="Y"></drivesum>
+   <play hasball="UP" down="1" togo="0" spot="UP35" context="V,1,0,V35" playid="18,2,136" type="K" tokens="KO:12,H00 RET:14,H21 TACK:35"
+      text="Blewitt, C. kickoff 65 yards to the IOWA0, Desmond King return 21 yards to the IOWA21 (Aston, G.)." newcontext="H,1,10,H21">
+    <p_ko vh="V" name="Blewitt, C." gain="65"></p_ko>
+    <p_kr vh="H" name="Desmond King" gain="21"></p_kr>
+    <p_tk vh="V" name="Aston, G."></p_tk>
+   </play>
+   <drivestart poss="H,H21,05:51" vh="H" spot="H21" clock="05:51" driveindex="19,136"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA21" context="H,1,10,H21" playid="19,1,137" clock="05:51" tokens="{DRIVE}:05:51"
+      text="IOWA drive start at 05:51." newcontext="H,1,10,H21">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA21" context="H,1,10,H21" playid="19,2,138" type="R" pcode="MI" first="R" tokens="RUSH:33,H31,MI TACK:2,9"
+      text="Jordan Canzeri rush up middle for 10 yards to the IOWA31, 1ST DOWN IOWA (Webb, T.;Whitehead, J.)." newcontext="H,1,10,H31">
+    <p_ru vh="H" name="Jordan Canzeri" gain="10"></p_ru>
+    <p_tk vh="V" name="Webb, T." assist="Y"></p_tk>
+    <p_tk vh="V" name="Whitehead, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA31" context="H,1,10,H31" playid="19,3,139" type="R" pcode="RR" tokens="RUSH:33,H34,RR OB: TACK:6"
+      text="Jordan Canzeri rush right for 3 yards to the IOWA34, out-of-bounds (Pitts, L.)." ob="Y" newcontext="H,2,7,H34">
+    <p_ru vh="H" name="Jordan Canzeri" gain="3"></p_ru>
+    <p_tk vh="V" name="Pitts, L."></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="7" spot="IOWA34" context="H,2,7,H34" playid="19,4,140" type="R" pcode="RR" tokens="RUSH:33,H40,RR TACK:3"
+      text="Jordan Canzeri rush right for 6 yards to the IOWA40 (Grigsby, N.)." newcontext="H,3,1,H40">
+    <p_ru vh="H" name="Jordan Canzeri" gain="6"></p_ru>
+    <p_tk vh="V" name="Grigsby, N."></p_tk>
+   </play>
+   <play hasball="IOWA" down="3" togo="1" spot="IOWA40" context="H,3,1,H40" playid="19,5,141" type="R" pcode="MI" tokens="RUSH:29,H40,MI TACK:9"
+      text="LeShun Daniels rush up middle for no gain to the IOWA40 (Whitehead, J.)." newcontext="H,4,1,H40">
+    <p_ru vh="H" name="LeShun Daniels" gain="0"></p_ru>
+    <p_tk vh="V" name="Whitehead, J."></p_tk>
+   </play>
+   <play hasball="IOWA" down="4" togo="1" spot="IOWA40" context="H,4,1,H40" playid="19,6,142" type="U" tokens="PUNT:6A,V00 TB:"
+      text="Dillon Kidd punt 60 yards to the UP0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="Dillon Kidd" gain="60" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="4" yards="19" top="2:42" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="V,V20,03:09" vh="V" spot="V20" clock="03:09" driveindex="20,142"></drivestart>
+   <play hasball="UP" down="1" togo="10" spot="UP20" context="V,1,10,V20" playid="20,1,143" clock="03:09" tokens="{DRIVE}:03:09"
+      text="PITTSBURGH drive start at 03:09." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="UP" down="1" togo="10" spot="UP20" context="V,1,10,V20" playid="20,2,144" type="P" tokens="PASS:4P,C,23,V23 TACK:43"
+      text="Peterman, N. pass complete to Boyd, T. for 3 yards to the UP23 (Josey Jewell)." newcontext="V,2,7,V23">
+    <p_pa vh="V" qb="Peterman, N." result="COMP" rcv="Boyd, T." gain="3"></p_pa>
+    <p_tk vh="H" name="Josey Jewell"></p_tk>
+   </play>
+   <play hasball="UP" down="2" togo="7" spot="UP23" context="V,2,7,V23" playid="20,3,145" type="R" pcode="MI" form="SG" tokens="FORM:SG RUSH:4P,V26,MI TACK:27,34"
+      text="[SG], Peterman, N. rush up middle for 3 yards to the UP26 (Jordan Lomax;Nate Meier)." newcontext="V,3,4,V26">
+    <p_ru vh="V" name="Peterman, N." gain="3"></p_ru>
+    <p_tk vh="H" name="Jordan Lomax" assist="Y"></p_tk>
+    <p_tk vh="H" name="Nate Meier" assist="Y"></p_tk>
+   </play>
+   <play hasball="UP" down="3" togo="4" spot="UP26" context="V,3,4,V26" playid="20,4,146" type="P" first="P" form="SG" tokens="FORM:SG PASS:4P,C,23,V33 TACK:13"
+      text="[SG], Peterman, N. pass complete to Boyd, T. for 7 yards to the UP33, 1ST DOWN UP (Greg Mabin)." newcontext="V,1,10,V33">
+    <p_pa vh="V" qb="Peterman, N." result="COMP" rcv="Boyd, T." gain="7"></p_pa>
+    <p_tk vh="H" name="Greg Mabin"></p_tk>
+   </play>
+   <play hasball="UP" down="1" togo="10" spot="UP33" context="V,1,10,V33" playid="20,5,147" type="P" tokens="PASS:4P,D,22,* QBH:H,34"
+      text="Peterman, N. pass incomplete to Poteat, J., dropped pass, QB hurry by Nate Meier." newcontext="V,2,10,V33">
+    <p_pa vh="V" qb="Peterman, N." result="DROP" rcv="Poteat, J."></p_pa>
+    <p_qbh vh="H" name="Nate Meier"></p_qbh>
+   </play>
+   <play hasball="UP" down="2" togo="10" spot="UP33" context="V,2,10,V33" playid="20,6,148" type="R" pcode="RR" form="SG" tokens="FORM:SG RUSH:22,V33,RR TACK:36,43"
+      text="[SG], Poteat, J. rush right for no gain to the UP33 (Cole Fisher;Josey Jewell)." newcontext="V,3,10,V33">
+    <p_ru vh="V" name="Poteat, J." gain="0"></p_ru>
+    <p_tk vh="H" name="Cole Fisher" assist="Y"></p_tk>
+    <p_tk vh="H" name="Josey Jewell" assist="Y"></p_tk>
+   </play>
+   <play hasball="UP" down="3" togo="10" spot="UP33" context="V,3,10,V33" playid="20,7,149" type="P" first="P" form="SG" tokens="FORM:SG PASS:4P,C,23,V49 TACK:14"
+      text="[SG], Peterman, N. pass complete to Boyd, T. for 16 yards to the UP49, 1ST DOWN UP (Desmond King)." newcontext="V,1,10,V49">
+    <p_pa vh="V" qb="Peterman, N." result="COMP" rcv="Boyd, T." gain="16"></p_pa>
+    <p_tk vh="H" name="Desmond King"></p_tk>
+   </play>
+   <score qtr="3" V="17" H="17"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UP">
+    <firstdowns no="5" rush="1" pass="4" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:29"></misc>
+    <rush att="8" yds="21" gain="21" loss="0" td="0" long="0"></rush>
+    <pass comp="6" att="7" int="0" yds="53" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="53" td="0" long="0"></rcv>
+    <ko no="2" yds="130" ob="0" tb="1"></ko>
+    <fg made="1" att="1" long="48" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="9" tacka="4" tot_tack="13" tflua="0" tfla="2" tflyds="1" sacks="0" sackyds="0" qbh="1" blkd="1"></defense>
+    <pr no="1" yds="50" td="1" long="28"></pr>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="IOWA">
+    <firstdowns no="3" rush="2" pass="1" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:31"></misc>
+    <rush att="7" yds="32" gain="32" loss="0" td="0" long="1"></rush>
+    <pass comp="3" att="6" int="0" yds="12" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="12" td="0" long="0"></rcv>
+    <punt no="2" yds="60" long="0" blkd="1" tb="1" fc="0" plus50="1" inside20="0" avg="30.0"></punt>
+    <ko no="1" yds="65" ob="0" tb="1"></ko>
+    <defense tackua="8" tacka="12" tot_tack="20" sacks="0" sackyds="0" qbh="1"></defense>
+    <kr no="1" yds="21" td="0" long="21"></kr>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="UP" down="1" togo="10" spot="UP49" context="V,1,10,V49" playid="20,8,150" type="#" clock="15:00" tokens="Q:4 T:15:00"
+      text="Start of 4th quarter, clock 15:00." newcontext="V,1,10,V49">
+   </play>
+   <play hasball="UP" down="1" togo="10" spot="UP49" context="V,1,10,V49" playid="20,9,151" type="R" pcode="LL" tokens="RUSH:22,H48,LL TACK:14,43"
+      text="Poteat, J. rush left for 3 yards to the IOWA48 (Desmond King;Josey Jewell)." newcontext="V,2,7,H48">
+    <p_ru vh="V" name="Poteat, J." gain="3"></p_ru>
+    <p_tk vh="H" name="Desmond King" assist="Y"></p_tk>
+    <p_tk vh="H" name="Josey Jewell" assist="Y"></p_tk>
+   </play>
+   <play hasball="UP" down="2" togo="7" spot="IOWA48" context="V,2,7,H48" playid="20,10,152" type="P" form="SG" tokens="FORM:SG PASS:4P,C,86,H43 OB: TACK:14"
+      text="[SG], Peterman, N. pass complete to Holtz, J. for 5 yards to the IOWA43, out-of-bounds (Desmond King)." ob="Y" newcontext="V,3,2,H43">
+    <p_pa vh="V" qb="Peterman, N." result="COMP" rcv="Holtz, J." gain="5"></p_pa>
+    <p_tk vh="H" name="Desmond King"></p_tk>
+   </play>
+   <play hasball="UP" down="3" togo="2" spot="IOWA43" context="V,3,2,H43" playid="20,11,153" type="R" pcode="LL" tokens="RUSH:22,H42,LL TACK:27,14"
+      text="Poteat, J. rush left for 1 yard to the IOWA42 (Jordan Lomax;Desmond King)." newcontext="V,4,1,H42">
+    <p_ru vh="V" name="Poteat, J." gain="1"></p_ru>
+    <p_tk vh="H" name="Jordan Lomax" assist="Y"></p_tk>
+    <p_tk vh="H" name="Desmond King" assist="Y"></p_tk>
+   </play>
+   <play hasball="UP" down="4" togo="1" spot="IOWA42" context="V,4,1,H42" playid="20,12,154" type="E" tokens="PEN:V,DG,A,TM,H47,N"
+      text="PENALTY UP delay of game 5 yards to the IOWA47." newcontext="V,4,6,H47">
+    <p_pn vh="V" code="DG" type="delay of game" result="ACCEPT" at="H42" yards="5"></p_pn>
+   </play>
+   <play hasball="UP" down="4" togo="6" spot="IOWA47" context="V,4,6,H47" playid="20,13,155" type="U" tokens="PUNT:18,H20 FC:14"
+      text="Winslow, R. punt 27 yards to the IOWA20, fair catch by Desmond King." newcontext="H,1,10,H20">
+    <p_pu vh="V" name="Winslow, R." gain="27" fc="Desmond King"></p_pu>
+   </play>
+   <drivesum plays="9" yards="33" top="5:19" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="H,H20,12:50" vh="H" spot="H20" clock="12:50" driveindex="21,155"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA20" context="H,1,10,H20" playid="21,1,156" clock="12:50" tokens="{DRIVE}:12:50"
+      text="IOWA drive start at 12:50." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA20" context="H,1,10,H20" playid="21,2,157" type="R" pcode="MI" tokens="RUSH:33,H29,MI TACK:30,58"
+      text="Jordan Canzeri rush up middle for 9 yards to the IOWA29 (Caprara, M.;Wirginis, Q.)." newcontext="H,2,1,H29">
+    <p_ru vh="H" name="Jordan Canzeri" gain="9"></p_ru>
+    <p_tk vh="V" name="Caprara, M." assist="Y"></p_tk>
+    <p_tk vh="V" name="Wirginis, Q." assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="1" spot="IOWA29" context="H,2,1,H29" playid="21,3,158" type="R" pcode="MI" first="R" tokens="RUSH:33,H31,MI TACK:54"
+      text="Jordan Canzeri rush up middle for 2 yards to the IOWA31, 1ST DOWN IOWA (Jarrett, T.)." newcontext="H,1,10,H31">
+    <p_ru vh="H" name="Jordan Canzeri" gain="2"></p_ru>
+    <p_tk vh="V" name="Jarrett, T."></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA31" context="H,1,10,H31" playid="21,4,159" type="P" first="P" tokens="PASS:16,C,17,V37 TACK:2,9"
+      text="C.J. Beathard pass complete to Jacob Hillyer for 32 yards to the UP37, 1ST DOWN IOWA (Webb, T.;Whitehead, J.)." newcontext="H,1,10,V37">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="Jacob Hillyer" gain="32"></p_pa>
+    <p_tk vh="V" name="Webb, T." assist="Y"></p_tk>
+    <p_tk vh="V" name="Whitehead, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UP37" context="H,1,10,V37" playid="21,5,160" type="P" tokens="PASS:16,C,42,V34 TACK:9"
+      text="C.J. Beathard pass complete to Macon Plewa for 3 yards to the UP34 (Whitehead, J.)." newcontext="H,2,7,V34">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="Macon Plewa" gain="3"></p_pa>
+    <p_tk vh="V" name="Whitehead, J."></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="7" spot="UP34" context="H,2,7,V34" playid="21,6,161" type="R" pcode="MI" tokens="RUSH:33,V30,MI TACK:30"
+      text="Jordan Canzeri rush up middle for 4 yards to the UP30 (Caprara, M.)." newcontext="H,3,3,V30">
+    <p_ru vh="H" name="Jordan Canzeri" gain="4"></p_ru>
+    <p_tk vh="V" name="Caprara, M."></p_tk>
+   </play>
+   <play hasball="IOWA" down="3" togo="3" spot="UP30" context="H,3,3,V30" playid="21,7,162" type="R" pcode="MI" first="R" form="SG" tokens="FORM:SG RUSH:16,V24,MI TACK:48"
+      text="[SG], C.J. Beathard rush up middle for 6 yards to the UP24, 1ST DOWN IOWA (Poker, Z.)." newcontext="H,1,10,V24">
+    <p_ru vh="H" name="C.J. Beathard" gain="6"></p_ru>
+    <p_tk vh="V" name="Poker, Z."></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UP24" context="H,1,10,V24" playid="21,8,163" type="E" tokens="PEN:H,HO,A,63,V34,N"
+      text="PENALTY IOWA holding (Austin Blythe) 10 yards to the UP34." newcontext="H,1,20,V34">
+    <p_pn vh="H" code="HO" type="holding" name="Austin Blythe" result="ACCEPT" at="V24" yards="10"></p_pn>
+   </play>
+   <play hasball="IOWA" down="1" togo="20" spot="UP34" context="H,1,20,V34" playid="21,9,164" type="P" pcode="SC" form="SG" tokens="FORM:SG PASS:16,C,89,V30,SC TACK:14"
+      text="[SG], C.J. Beathard screen pass complete to Matt VandeBerg for 4 yards to the UP30 (Maddox, A.)." newcontext="H,2,16,V30">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="Matt VandeBerg" gain="4"></p_pa>
+    <p_tk vh="V" name="Maddox, A."></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="16" spot="UP30" context="H,2,16,V30" playid="21,10,165" type="P" first="P" form="SG" tokens="FORM:SG PASS:16,C,33,V13 OB: TACK:14"
+      text="[SG], C.J. Beathard pass complete to Jordan Canzeri for 17 yards to the UP13, 1ST DOWN IOWA, out-of-bounds (Maddox, A.)." ob="Y" newcontext="H,1,10,V13">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="Jordan Canzeri" gain="17"></p_pa>
+    <p_tk vh="V" name="Maddox, A."></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UP13" context="H,1,10,V13" playid="21,11,166" type="P" first="P" tokens="PASS:16,C,89,V01 TACK:2"
+      text="C.J. Beathard pass complete to Matt VandeBerg for 12 yards to the UP1, 1ST DOWN IOWA (Webb, T.)." newcontext="H,1,0,V01">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="Matt VandeBerg" gain="12"></p_pa>
+    <p_tk vh="V" name="Webb, T."></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="0" spot="UP01" context="H,1,0,V01" playid="21,12,167" type="R" pcode="MI" tokens="RUSH:33,V01,MI TACK:47"
+      text="Jordan Canzeri rush up middle for no gain to the UP1 (Galambos, M.)." newcontext="H,2,0,V01">
+    <p_ru vh="H" name="Jordan Canzeri" gain="0"></p_ru>
+    <p_tk vh="V" name="Galambos, M."></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="0" spot="UP01" context="H,2,0,V01" playid="21,13,168" type="#" clock="06:14" tokens="TOUT:H T:06:14"
+      text="Timeout Iowa, clock 06:14." newcontext="H,2,0,V01">
+    <p_to vh="H" team="Iowa"></p_to>
+   </play>
+   <play hasball="IOWA" down="2" togo="0" spot="UP01" context="H,2,0,V01" playid="21,14,169" type="R" pcode="MI" score="Y" vscore="17" hscore="23" clock="06:04" tokens="RUSH:33,V00,MI T:06:04"
+      text="Jordan Canzeri rush up middle for 1 yard to the UP0, TOUCHDOWN, clock 06:04." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Jordan Canzeri" gain="1"></p_ru>
+   </play>
+   <comment text="Play was reviewed and the call on the field was upheld as a touchdown"></comment>
+   <play hasball="IOWA" down="1" togo="0" spot="UP03" context="H,1,0,V03" playid="21,15,171" type="X" score="Y" vscore="17" hscore="24" tokens="PAT:K,1,G"
+      text="Marshall Koehn kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Marshall Koehn" qb="Marshall Koehn" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="17" H="24"></score>
+   <drivesum plays="11" yards="80" top="6:46" driveindex="21" complete="Y"></drivesum>
+   <play hasball="IOWA" down="1" togo="0" spot="IOWA35" context="H,1,0,H35" playid="21,16,172" type="K" tokens="KO:1,V00 TB:"
+      text="Marshall Koehn kickoff 65 yards to the UP0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Marshall Koehn" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,06:04" vh="V" spot="V25" clock="06:04" driveindex="22,172"></drivestart>
+   <play hasball="UP" down="1" togo="10" spot="UP25" context="V,1,10,V25" playid="22,1,173" clock="06:04" tokens="{DRIVE}:06:04"
+      text="PITTSBURGH drive start at 06:04." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="UP" down="1" togo="10" spot="UP25" context="V,1,10,V25" playid="22,2,174" type="P" form="SG" tokens="FORM:SG PASS:4P,I,86,*"
+      text="[SG], Peterman, N. pass incomplete to Holtz, J.." newcontext="V,2,10,V25">
+    <p_pa vh="V" qb="Peterman, N." result="INC" rcv="Holtz, J."></p_pa>
+   </play>
+   <play hasball="UP" down="2" togo="10" spot="UP25" context="V,2,10,V25" playid="22,3,175" type="P" first="P" tokens="PASS:4P,C,23,V44 OB: TACK:19"
+      text="Peterman, N. pass complete to Boyd, T. for 19 yards to the UP44, 1ST DOWN UP, out-of-bounds (Miles Taylor)." ob="Y" newcontext="V,1,10,V44">
+    <p_pa vh="V" qb="Peterman, N." result="COMP" rcv="Boyd, T." gain="19"></p_pa>
+    <p_tk vh="H" name="Miles Taylor"></p_tk>
+   </play>
+   <play hasball="UP" down="1" togo="10" spot="UP44" context="V,1,10,V44" playid="22,4,176" type="P" first="P" tokens="PASS:4P,C,19,H34 TACK:14,27"
+      text="Peterman, N. pass complete to Ford, D. for 22 yards to the IOWA34, 1ST DOWN UP (Desmond King;Jordan Lomax)." newcontext="V,1,10,H34">
+    <p_pa vh="V" qb="Peterman, N." result="COMP" rcv="Ford, D." gain="22"></p_pa>
+    <p_tk vh="H" name="Desmond King" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jordan Lomax" assist="Y"></p_tk>
+   </play>
+   <play hasball="UP" down="1" togo="10" spot="IOWA34" context="V,1,10,H34" playid="22,5,177" type="P" pcode="SC" form="SG" tokens="FORM:SG PASS:4P,C,37,H31,SC TACK:36"
+      text="[SG], Peterman, N. screen pass complete to Ollison, Q. for 3 yards to the IOWA31 (Cole Fisher)." newcontext="V,2,7,H31">
+    <p_pa vh="V" qb="Peterman, N." result="COMP" rcv="Ollison, Q." gain="3"></p_pa>
+    <p_tk vh="H" name="Cole Fisher"></p_tk>
+   </play>
+   <play hasball="UP" down="2" togo="7" spot="IOWA31" context="V,2,7,H31" playid="22,6,178" type="P" pcode="SC" form="SG" tokens="FORM:SG PASS:4P,C,37,H27,SC TACK:36,14"
+      text="[SG], Peterman, N. screen pass complete to Ollison, Q. for 4 yards to the IOWA27 (Cole Fisher;Desmond King)." newcontext="V,3,3,H27">
+    <p_pa vh="V" qb="Peterman, N." result="COMP" rcv="Ollison, Q." gain="4"></p_pa>
+    <p_tk vh="H" name="Cole Fisher" assist="Y"></p_tk>
+    <p_tk vh="H" name="Desmond King" assist="Y"></p_tk>
+   </play>
+   <play hasball="UP" down="3" togo="3" spot="IOWA27" context="V,3,3,H27" playid="22,7,179" type="P" form="SG" tokens="FORM:SG PASS:4P,D,31,*"
+      text="[SG], Peterman, N. pass incomplete to Parrish, J, dropped pass." newcontext="V,4,3,H27">
+    <p_pa vh="V" qb="Peterman, N." result="DROP" rcv="Parrish, J"></p_pa>
+   </play>
+   <play hasball="UP" down="4" togo="3" spot="IOWA27" context="V,4,3,H27" playid="22,8,180" type="P" first="P" form="SG" tokens="FORM:SG PASS:4P,C,23,H22 TACK:19"
+      text="[SG], Peterman, N. pass complete to Boyd, T. for 5 yards to the IOWA22, 1ST DOWN UP (Miles Taylor)." newcontext="V,1,10,H22">
+    <p_pa vh="V" qb="Peterman, N." result="COMP" rcv="Boyd, T." gain="5"></p_pa>
+    <p_tk vh="H" name="Miles Taylor"></p_tk>
+   </play>
+   <play hasball="UP" down="1" togo="10" spot="IOWA22" context="V,1,10,H22" playid="22,9,181" type="P" pcode="SC" form="SG" tokens="FORM:SG PASS:4P,C,22,H20,SC TACK:19,43"
+      text="[SG], Peterman, N. screen pass complete to Poteat, J. for 2 yards to the IOWA20 (Miles Taylor;Josey Jewell)." newcontext="V,2,8,H20">
+    <p_pa vh="V" qb="Peterman, N." result="COMP" rcv="Poteat, J." gain="2"></p_pa>
+    <p_tk vh="H" name="Miles Taylor" assist="Y"></p_tk>
+    <p_tk vh="H" name="Josey Jewell" assist="Y"></p_tk>
+   </play>
+   <play hasball="UP" down="2" togo="8" spot="IOWA20" context="V,2,8,H20" playid="22,10,182" type="P" form="SG" tokens="FORM:SG PASS:4P,C,22,H21 OB: TACK:36"
+      text="[SG], Peterman, N. pass complete to Poteat, J. for loss of 1 yard to the IOWA21, out-of-bounds (Cole Fisher)." ob="Y" newcontext="V,3,9,H21">
+    <p_pa vh="V" qb="Peterman, N." result="COMP" rcv="Poteat, J." gain="-1"></p_pa>
+    <p_tk vh="H" name="Cole Fisher"></p_tk>
+   </play>
+   <play hasball="UP" down="3" togo="9" spot="IOWA21" context="V,3,9,H21" playid="22,11,183" type="P" form="SG" tokens="FORM:SG PASS:4P,S,TM,H27 SACK:34"
+      text="[SG], Peterman, N. sacked for loss of 6 yards to the IOWA27 (Nate Meier)." newcontext="V,4,15,H27">
+    <p_pa vh="V" qb="Peterman, N." result="SACK" gain="-6"></p_pa>
+    <p_tk vh="H" name="Nate Meier" sack="Y"></p_tk>
+   </play>
+   <play hasball="UP" down="4" togo="15" spot="IOWA27" context="V,4,15,H27" playid="22,12,184" type="#" clock="01:28" tokens="TOUT:V T:01:28"
+      text="Timeout Pittsburgh, clock 01:28." newcontext="V,4,15,H27">
+    <p_to vh="V" team="Pittsburgh"></p_to>
+   </play>
+   <play hasball="UP" down="4" togo="15" spot="IOWA27" context="V,4,15,H27" playid="22,13,185" type="P" first="P" form="SG" tokens="FORM:SG PASS:4P,C,86,H08 TACK:27,36"
+      text="[SG], Peterman, N. pass complete to Holtz, J. for 19 yards to the IOWA8, 1ST DOWN UP (Jordan Lomax;Cole Fisher)." newcontext="V,1,0,H08">
+    <p_pa vh="V" qb="Peterman, N." result="COMP" rcv="Holtz, J." gain="19"></p_pa>
+    <p_tk vh="H" name="Jordan Lomax" assist="Y"></p_tk>
+    <p_tk vh="H" name="Cole Fisher" assist="Y"></p_tk>
+   </play>
+   <play hasball="UP" down="1" togo="0" spot="IOWA08" context="V,1,0,H08" playid="22,14,186" type="P" form="SG" tokens="FORM:SG PASS:4P,I,86,*"
+      text="[SG], Peterman, N. pass incomplete to Holtz, J.." newcontext="V,2,0,H08">
+    <p_pa vh="V" qb="Peterman, N." result="INC" rcv="Holtz, J."></p_pa>
+   </play>
+   <play hasball="UP" down="2" togo="0" spot="IOWA08" context="V,2,0,H08" playid="22,15,187" type="P" score="Y" vscore="23" hscore="24" clock="00:52" form="SG" tokens="FORM:SG PASS:4P,C,23,H00 T:00:52"
+      text="[SG], Peterman, N. pass complete to Boyd, T. for 8 yards to the IOWA0, TOUCHDOWN, clock 00:52." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Peterman, N." result="COMP" rcv="Boyd, T." gain="8"></p_pa>
+   </play>
+   <play hasball="UP" down="1" togo="0" spot="IOWA03" context="V,1,0,H03" playid="22,16,188" type="X" score="Y" vscore="24" hscore="24" tokens="PAT:K,12,G"
+      text="Blewitt, C. kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Blewitt, C." qb="Blewitt, C." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="24" H="24"></score>
+   <drivesum plays="13" yards="75" top="5:12" driveindex="22" complete="Y"></drivesum>
+   <play hasball="UP" down="1" togo="0" spot="UP35" context="V,1,0,V35" playid="22,17,189" type="K" tokens="KO:12,H03 RET:14,H30 OB: TACK:38"
+      text="Blewitt, C. kickoff 62 yards to the IOWA3, Desmond King return 27 yards to the IOWA30, out-of-bounds (Lewis, R.)." ob="Y" newcontext="H,1,10,H30">
+    <p_ko vh="V" name="Blewitt, C." gain="62"></p_ko>
+    <p_kr vh="H" name="Desmond King" gain="27"></p_kr>
+    <p_tk vh="V" name="Lewis, R."></p_tk>
+   </play>
+   <drivestart poss="H,H30,00:52" vh="H" spot="H30" clock="00:52" driveindex="23,189"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA30" context="H,1,10,H30" playid="23,1,190" clock="00:52" tokens="{DRIVE}:00:52"
+      text="IOWA drive start at 00:52." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA30" context="H,1,10,H30" playid="23,2,191" type="R" pcode="RR" first="R" form="SG" tokens="FORM:SG RUSH:16,H42,RR OB: TACK:9"
+      text="[SG], C.J. Beathard rush right for 12 yards to the IOWA42, 1ST DOWN IOWA, out-of-bounds (Whitehead, J.)." ob="Y" newcontext="H,1,10,H42">
+    <p_ru vh="H" name="C.J. Beathard" gain="12"></p_ru>
+    <p_tk vh="V" name="Whitehead, J."></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA42" context="H,1,10,H42" playid="23,3,192" type="P" form="SG" tokens="FORM:SG PASS:16,C,80,H46 TACK:2"
+      text="[SG], C.J. Beathard pass complete to H Kreiger-Coble for 4 yards to the IOWA46 (Webb, T.)." newcontext="H,2,6,H46">
+    <p_pa vh="H" qb="C.J. Beathard" result="COMP" rcv="H Kreiger-Coble" gain="4"></p_pa>
+    <p_tk vh="V" name="Webb, T."></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="6" spot="IOWA46" context="H,2,6,H46" playid="23,4,193" type="R" pcode="MI" first="R" form="SG" tokens="FORM:SG RUSH:16,V47,MI TACK:30"
+      text="[SG], C.J. Beathard rush up middle for 7 yards to the UP47, 1ST DOWN IOWA (Caprara, M.)." newcontext="H,1,10,V47">
+    <p_ru vh="H" name="C.J. Beathard" gain="7"></p_ru>
+    <p_tk vh="V" name="Caprara, M."></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UP47" context="H,1,10,V47" playid="23,5,194" type="P" form="SG" tokens="FORM:SG PASS:16,I,4,*"
+      text="[SG], C.J. Beathard pass incomplete to Tevaun Smith." newcontext="H,2,10,V47">
+    <p_pa vh="H" qb="C.J. Beathard" result="INC" rcv="Tevaun Smith"></p_pa>
+   </play>
+   <play hasball="IOWA" down="2" togo="10" spot="UP47" context="H,2,10,V47" playid="23,6,195" type="#" clock="00:15" tokens="TOUT:V T:00:15"
+      text="Timeout Pittsburgh, clock 00:15." newcontext="H,2,10,V47">
+    <p_to vh="V" team="Pittsburgh"></p_to>
+   </play>
+   <play hasball="IOWA" down="2" togo="10" spot="UP47" context="H,2,10,V47" playid="23,7,196" type="P" form="SG" tokens="FORM:SG PASS:16,I,4,*"
+      text="[SG], C.J. Beathard pass incomplete to Tevaun Smith." newcontext="H,3,10,V47">
+    <p_pa vh="H" qb="C.J. Beathard" result="INC" rcv="Tevaun Smith"></p_pa>
+   </play>
+   <comment text="After review, the call on the field of out-of-bounds was confirmed"></comment>
+   <play hasball="IOWA" down="3" togo="10" spot="UP47" context="H,3,10,V47" playid="23,8,198" type="R" pcode="LL" form="SG" tokens="FORM:SG RUSH:16,V39,LL TACK:3"
+      text="[SG], C.J. Beathard rush left for 8 yards to the UP39 (Grigsby, N.)." newcontext="H,4,2,V39">
+    <p_ru vh="H" name="C.J. Beathard" gain="8"></p_ru>
+    <p_tk vh="V" name="Grigsby, N."></p_tk>
+   </play>
+   <play hasball="IOWA" down="4" togo="2" spot="UP39" context="H,4,2,V39" playid="23,9,199" type="#" clock="00:02" tokens="TOUT:V T:00:02"
+      text="Timeout Pittsburgh, clock 00:02." newcontext="H,4,2,V39">
+    <p_to vh="V" team="Pittsburgh"></p_to>
+   </play>
+   <play hasball="IOWA" down="4" togo="2" spot="UP39" context="H,4,2,V39" playid="23,10,200" type="F" score="Y" vscore="24" hscore="27" clock="00:00" tokens="FGA:1,57,G T:00:00"
+      text="Marshall Koehn field goal attempt from 57 GOOD, clock 00:00." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="Marshall Koehn" distance="57" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="24" H="27"></score>
+   <drivesum plays="7" yards="31" top="0:52" driveindex="23" complete="Y"></drivesum>
+   <score final="Y" V="24" H="27"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UP">
+    <firstdowns no="4" rush="0" pass="4" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="2" thirdatt="5" fourthconv="2" fourthatt="2"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:22"></misc>
+    <rush att="3" yds="-2" gain="4" loss="6" td="0" long="0"></rush>
+    <pass comp="10" att="13" int="0" yds="86" td="1" long="0" sacks="1" sackyds="6"></pass>
+    <rcv no="10" yds="86" td="1" long="0"></rcv>
+    <punt no="1" yds="27" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="27.0"></punt>
+    <ko no="1" yds="62" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="13" tacka="4" tot_tack="17" sacks="0" sackyds="0"></defense>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="IOWA">
+    <firstdowns no="7" rush="4" pass="3" penalty="0"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:38"></misc>
+    <rush att="9" yds="49" gain="49" loss="0" td="1" long="2"></rush>
+    <pass comp="6" att="8" int="0" yds="72" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="72" td="0" long="0"></rcv>
+    <ko no="1" yds="65" ob="0" tb="1"></ko>
+    <fg made="1" att="1" long="14" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="6" tacka="12" tot_tack="18" tflua="2" tfla="0" tflyds="7" sacks="1" sackyds="6"></defense>
+    <kr no="1" yds="27" td="0" long="6"></kr>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="IOWA" down="1" togo="0" spot="IOWA35" context="H,1,0,H35" qtr="4" clock="00:00" vtoh="3" htoh="1"
+       lastplay="Marshall Koehn field goal attempt from 57 GOOD, clock 00:00."></downtogo>
+ </plays>
+ <message text=""></message>
+ <dnp vh="V" id="UP">
+  <player name="Bossory, N." checkname="BOSSORY,N" uni="1D" class="SO" gp="0" code="01"></player>
+  <player name="Ibrahim, R." checkname="IBRAHIM,R" uni="2I" class="JR" gp="0" code="29"></player>
+  <player name="Tipton, T." checkname="TIPTON,T" uni="2T" class="FR" gp="0" code="02"></player>
+  <player name="Henderson, M." checkname="HENDERSON,M" uni="2X" class="FR" gp="0" code="21"></player>
+  <player name="McKee, A." checkname="MCKEE,A" uni="2M" class="FR" gp="0" code="28"></player>
+  <player name="Brungo, J." checkname="BRUNGO,J" uni="2B" class="FR" gp="0" code="26"></player>
+  <player name="Ezekoye, S." checkname="EZEKOYE,S" uni="3E" class="FR" gp="0" code="30"></player>
+  <player name="Brightwell, S." checkname="BRIGHTWELL,S" uni="3B" class="FR" gp="0" code="39"></player>
+  <player name="DiNucci, B." checkname="DINUCCI,B" uni="3D" class="FR" gp="0" code="03"></player>
+  <player name="Lively, C." checkname="LIVELY,C" uni="4L" class="SO" gp="0" code="40"></player>
+  <player name="McAlone, K." checkname="MCALONE,K" uni="4M" class="FR" gp="0" code="48"></player>
+  <player name="Rippole, A." checkname="RIPPOLE,A" uni="4R" class="JR" gp="0" code="41"></player>
+  <player name="Goldsmith, N." checkname="GOLDSMITH,N" uni="4G" class="FR" gp="0" code="45"></player>
+  <player name="Kerle, J." checkname="KERLE,J" uni="4K" class="FR" gp="0" code="43"></player>
+  <player name="Cuono, D." checkname="CUONO,D" uni="5C" class="FR" gp="0" code="50"></player>
+  <player name="Pilato, T." checkname="PILATO,T" uni="5T" class="FR" gp="0" code="59"></player>
+  <player name="Popp, B." checkname="POPP,B" uni="5P" class="FR" gp="0" code="53"></player>
+  <player name="Hamilton, C." checkname="HAMILTON,C" uni="7H" class="FR" gp="0" code="70"></player>
+  <player name="Bertke, A." checkname="BERTKE,A" uni="7B" class="FR" gp="0" code="07"></player>
+  <player name="Stocker, M." checkname="STOCKER,M" uni="8" class="JR" gp="0" code="08"></player>
+  <player name="Henderson, Q." checkname="HENDERSON,Q" uni="10" class="FR" gp="0" code="10"></player>
+  <player name="Jackson, D." checkname="JACKSON,D" uni="11" class="FR" gp="0" code="11"></player>
+  <player name="Mitchell, R." checkname="MITCHELL,R" uni="15" class="JR" gp="0" code="15"></player>
+  <player name="Wuestner, C." checkname="WUESTNER,C" uni="17" class="JR" gp="0" code="17"></player>
+  <player name="Conner, J." checkname="CONNER,J" uni="24" class="JR" gp="0" code="24"></player>
+  <player name="Lodovico, N." checkname="LODOVICO,N" uni="27" class="SO" gp="0" code="27"></player>
+  <player name="Idowu, O." checkname="IDOWU,O" uni="29" class="FR" gp="0" code="29"></player>
+  <player name="Bernsdorff, M." checkname="BERNSDORFF,M" uni="34" class="SO" gp="0" code="34"></player>
+  <player name="Dunn, M." checkname="DUNN,M" uni="36" class="SO" gp="0" code="36"></player>
+  <player name="Davidson, J." checkname="DAVIDSON,J" uni="39" class="FR" gp="0" code="39"></player>
+  <player name="Folston, J." checkname="FOLSTON,J" uni="40" class="FR" gp="0" code="40"></player>
+  <player name="Rippole, A." checkname="RIPPOLE,A" uni="41" class="JR" gp="0" code="41"></player>
+  <player name="Stocker, J." checkname="STOCKER,J" uni="43" class="FR" gp="0" code="43"></player>
+  <player name="Steinbeck, M." checkname="STEINBECK,M" uni="44" class="SR" gp="0" code="44"></player>
+  <player name="Edwards, D." checkname="EDWARDS,D" uni="45" class="SO" gp="0" code="45"></player>
+  <player name="Dorsey, R." checkname="DORSEY,R" uni="46" class="FR" gp="0" code="46"></player>
+  <player name="Schuster, A." checkname="SCHUSTER,A" uni="49" class="FR" gp="0" code="49"></player>
+  <player name="Grimm, M." checkname="GRIMM,M" uni="50" class="FR" gp="0" code="50"></player>
+  <player name="Moody, J." checkname="MOODY,J" uni="56" class="SO" gp="0" code="56"></player>
+  <player name="Britton, A." checkname="BRITTON,A" uni="64" class="FR" gp="0" code="64"></player>
+  <player name="Benbrook, K." checkname="BENBROOK,K" uni="68" class="FR" gp="0" code="68"></player>
+  <player name="Roberts, G." checkname="ROBERTS,G" uni="71" class="JR" gp="0" code="71"></player>
+  <player name="Paulina, A." checkname="PAULINA,A" uni="74" class="FR" gp="0" code="74"></player>
+  <player name="Jones-Smith, J." checkname="JONES-SMITH,J" uni="75" class="SO" gp="0" code="75"></player>
+  <player name="Galiyas, A." checkname="GALIYAS,A" uni="77" class="FR" gp="0" code="77"></player>
+  <player name="Harper, T." checkname="HARPER,T" uni="81" class="SO" gp="0" code="81"></player>
+  <player name="Araujo-Lopes, R" checkname="ARAUJO-LOPES,R" uni="82" class="SO" gp="0" code="82"></player>
+  <player name="Green, R." checkname="GREEN,R" uni="87" class="SO" gp="0" code="87"></player>
+  <player name="Ivery, G." checkname="IVERY,G" uni="88" class="FR" gp="0" code="88"></player>
+  <player name="Roy, S." checkname="ROY,S" uni="93" class="FR" gp="0" code="93"></player>
+  <player name="Mosley-Smith, K" checkname="MOSLEY-SMITH,K" uni="95" class="SR" gp="0" code="95"></player>
+  <player name="Edwards, A." checkname="EDWARDS,A" uni="96" class="JR" gp="0" code="96"></player>
+ </dnp>
+ <dnp vh="H" id="IOWA">
+  <player name="M. Ojemudia" checkname="OJEMUDIA,M" uni="1B" class="FR" gp="0" code="1B"></player>
+  <player name="Mick Ellis" checkname="ELLIS,MICK" uni="2" class="" gp="0" code="2"></player>
+  <player name="Brandon Bishop" checkname="BISHOP,BRANDON" uni="2A" class="FR" gp="0" code="2A"></player>
+  <player name="Steve Manders" checkname="MANDERS,STEVE" uni="3A" class="" gp="0" code="3A"></player>
+  <player name="Jay Scheel" checkname="SCHEEL,JAY" uni="3" class="FR" gp="0" code="3"></player>
+  <player name="Connor Keane" checkname="KEANE,CONNOR" uni="4B" class="" gp="0" code="4B"></player>
+  <player name="Austin Kelly" checkname="KELLY,AUSTIN" uni="4C" class="FR" gp="0" code="4C"></player>
+  <player name="Eric Grimm" checkname="GRIMM,ERIC" uni="5B" class="FR" gp="0" code="5B"></player>
+  <player name="Omar Truitt" checkname="TRUITT,OMAR" uni="5A" class="FR" gp="0" code="5A"></player>
+  <player name="Ronald Nash" checkname="NASH,RONALD" uni="5" class="" gp="0" code="5"></player>
+  <player name="Emmanuel Ogwo" checkname="OGWO,EMMANUEL" uni="6" class="FR" gp="0" code="6"></player>
+  <player name="Marcel Joly" checkname="JOLY,MARCEL" uni="6C" class="FR" gp="0" code="6C"></player>
+  <player name="Tyler Wiegers" checkname="WIEGERS,TYLER" uni="8" class="FR" gp="0" code="8"></player>
+  <player name="Nick Wilson" checkname="WILSON,NICK" uni="9A" class="FR" gp="0" code="9A"></player>
+  <player name="Miguel Recinos" checkname="RECINOS,MIGUEL" uni="9B" class="FR" gp="0" code="9B"></player>
+  <player name="J. Parker" checkname="PARKER,J" uni="10" class="" gp="0" code="10"></player>
+  <player name="Ryan Boyle" checkname="BOYLE,RYAN" uni="11" class="FR" gp="0" code="11"></player>
+  <player name="Drew Cook" checkname="COOK,DREW" uni="18" class="FR" gp="0" code="18"></player>
+  <player name="Justin Jinning" checkname="JINNING,JUSTIN" uni="21" class="FR" gp="0" code="21"></player>
+  <player name="Angelo Garbutt" checkname="GARBUTT,ANGELO" uni="22" class="FR" gp="0" code="22"></player>
+  <player name="Eric Graham" checkname="GRAHAM,ERIC" uni="23" class="FR" gp="0" code="23"></player>
+  <player name="Akrum Wadley" checkname="WADLEY,AKRUM" uni="25" class="" gp="0" code="25"></player>
+  <player name="Jake Gervase" checkname="GERVASE,JAKE" uni="30" class="FR" gp="0" code="30"></player>
+  <player name="C.J. Hilliard" checkname="HILLIARD,CJ" uni="35" class="FR" gp="0" code="35"></player>
+  <player name="Jack Hockaday" checkname="HOCKADAY,JACK" uni="48" class="FR" gp="0" code="48"></player>
+  <player name="Melvin Spears" checkname="SPEARS,MELVIN" uni="49" class="" gp="0" code="49"></player>
+  <player name="Jacob Sobotka" checkname="SOBOTKA,JACOB" uni="50" class="FR" gp="0" code="50"></player>
+  <player name="Steve Ferentz" checkname="FERENTZ,STEVE" uni="54" class="" gp="0" code="54"></player>
+  <player name="Faith Ekakitie" checkname="EKAKITIE,FAITH" uni="56" class="" gp="0" code="56"></player>
+  <player name="Ross Reynolds" checkname="REYNOLDS,ROSS" uni="59" class="FR" gp="0" code="59"></player>
+  <player name="Kyle Terlouw" checkname="TERLOUW,KYLE" uni="61" class="" gp="0" code="61"></player>
+  <player name="Levi Paulsen" checkname="PAULSEN,LEVI" uni="66" class="FR" gp="0" code="66"></player>
+  <player name="Landan Paulsen" checkname="PAULSEN,LANDAN" uni="68" class="FR" gp="0" code="68"></player>
+  <player name="Lucas LeGrand" checkname="LEGRAND,LUCAS" uni="70" class="FR" gp="0" code="70"></player>
+  <player name="Brett Waechter" checkname="WAECHTER,BRETT" uni="71" class="FR" gp="0" code="71"></player>
+  <player name="Brant Gressel" checkname="GRESSEL,BRANT" uni="72" class="" gp="0" code="72"></player>
+  <player name="Ryan Ward" checkname="WARD,RYAN" uni="73" class="" gp="0" code="73"></player>
+  <player name="Mitch Keppy" checkname="KEPPY,MITCH" uni="74" class="" gp="0" code="74"></player>
+  <player name="D. Ferguson" checkname="FERGUSON,D" uni="76" class="FR" gp="0" code="76"></player>
+  <player name="Daniel Gaffey" checkname="GAFFEY,DANIEL" uni="77" class="" gp="0" code="77"></player>
+  <player name="Jon Wisnieski" checkname="WISNIESKI,JON" uni="81" class="" gp="0" code="81"></player>
+  <player name="A. Falconer" checkname="FALCONER,A" uni="82" class="FR" gp="0" code="82"></player>
+  <player name="Andre Harris" checkname="HARRIS,ANDRE" uni="84" class="" gp="0" code="84"></player>
+  <player name="Peter Pekar" checkname="PEKAR,PETER" uni="86" class="" gp="0" code="86"></player>
+  <player name="Jake Duzey" checkname="DUZEY,JAKE" uni="87" class="" gp="0" code="87"></player>
+  <player name="Jake Hulett" checkname="HULETT,JAKE" uni="88" class="" gp="0" code="88"></player>
+  <player name="Brady Reiff" checkname="REIFF,BRADY" uni="91" class="FR" gp="0" code="91"></player>
+  <player name="T. Harris" checkname="HARRIS,T" uni="93" class="FR" gp="0" code="93"></player>
+  <player name="Matt Nelson" checkname="NELSON,MATT" uni="96" class="FR" gp="0" code="96"></player>
+  <player name="Darian Cooper" checkname="COOPER,DARIAN" uni="97" class="" gp="0" code="97"></player>
+ </dnp>
+ <longplays thresh="70">
+ </longplays>
+</fbgame>

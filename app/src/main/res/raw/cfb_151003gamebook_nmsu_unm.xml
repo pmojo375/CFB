@@ -1,0 +1,1761 @@
+<fbgame source="Tas Football" version="4.16.07" generated="10/4/2015">
+ <venue gameid="NMSU04" visid="NMSU" homeid="NM" visname="New Mexico State" homename="New Mexico"
+      date="10/3/2015" location="Albuquerque, N.M" stadium="University Stadium"
+      start="6:08 pm" end="9:28" nitegame="Y"
+      duration="3:20" attend="30900" temp="74" wind="S @ 11" weather="Partly Sunny">
+  <officials ref="Jason Autrey" ump="Tyrone Blanks" line="Bill Grier" lj="Chris Conway" bj="Wayne Gautney" fj="Dan Moore" sj="Fred Wiedower" cj="Michael Prowell" alt="Michael Prowell"></officials>
+  <rules qtrs="4" mins="15" downs="4" yds="10" kospot="35" tbspot="20" kotbspot="25" patspot="3" safspot="20" td="6" fg="3" pat="1" patx="2" saf="2" defpat="2" rouge="1" field="100" toh="3" sackrush="Y" fgaplay="Y" netpunttb="Y"></rules>
+ </venue>
+ <team vh="V" code="472" id="NMSU" name="New Mexico State" record="0-4" abb="S">
+  <linescore prds="4" line="17,9,3,0" score="29">
+   <lineprd prd="1" score="17"></lineprd>
+   <lineprd prd="2" score="9"></lineprd>
+   <lineprd prd="3" score="3"></lineprd>
+   <lineprd prd="4" score="0"></lineprd>
+  </linescore>
+  <totals totoff_plays="67" totoff_yards="416" totoff_avg="6.2">
+   <firstdowns no="14" rush="11" pass="2" penalty="1"></firstdowns>
+   <penalties no="7" yds="39"></penalties>
+   <conversions thirdconv="4" thirdatt="16" fourthconv="1" fourthatt="4"></conversions>
+   <fumbles no="1" lost="1"></fumbles>
+   <misc yds="0" top="25:50" ona="1" onm="0" ptsto="6"></misc>
+   <redzone att="3" scores="2" points="6" tdrush="0" tdpass="0" fgmade="2" endfga="0" enddowns="1" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="39" yds="308" gain="350" loss="42" td="3" long="67"></rush>
+   <pass comp="12" att="28" int="2" yds="108" td="0" long="40" sacks="7" sackyds="38"></pass>
+   <rcv no="12" yds="108" td="0" long="40"></rcv>
+   <punt no="5" yds="238" long="60" blkd="0" tb="0" fc="1" plus50="3" inside20="2" avg="47.6"></punt>
+   <ko no="7" yds="361" ob="1" tb="2"></ko>
+   <fg made="3" att="3" long="41" blkd="0"></fg>
+   <pat kickatt="3" kickmade="2"></pat>
+   <defense tackua="46" tacka="24" tot_tack="70" tflua="4" tfla="0" tflyds="10" sacks="0" sackyds="0" brup="1" qbh="1" ff="1" fr="1" fryds="0" int="1" intyds="0"></defense>
+   <kr no="1" yds="18" td="0" long="18"></kr>
+   <pr no="1" yds="7" td="0" long="7"></pr>
+   <ir no="1" yds="0" td="0" long="0"></ir>
+   <scoring td="3" fg="3" patkick="2"></scoring>
+  </totals>
+  <player name="Nwangwa, Jacob" shortname="Nwangwa, Jacob" checkname="NWANGWA,JACOB" uni="1D" class="SO" gp="1" gs="1" dpos="FS" code="1D">
+   <defense tackua="5" tacka="2" tot_tack="7"></defense>
+  </player>
+  <player name="Wilcoxen, Tre" shortname="Wilcoxen, Tre" checkname="WILCOXEN,TRE" uni="1A" class="SO" gp="1" code="1A">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Parnell, Travis" shortname="Parnell, Travis" checkname="PARNELL,TRAVIS" uni="1G" class="JR" gp="1" code="1G"></player>
+  <player name="Morgan, T" shortname="Morgan, T" checkname="MORGAN,T" uni="1" class="JR" gp="1" gs="1" opos="WR-H" code="1">
+   <rush att="1" yds="-10" gain="0" loss="10" td="0" long="0"></rush>
+   <pass comp="0" att="0" int="0" yds="0" td="0" long="0" sacks="1" sackyds="10"></pass>
+   <rcv no="3" yds="15" td="0" long="7"></rcv>
+   <pr no="1" yds="7" td="0" long="7"></pr>
+  </player>
+  <player name="Owens, DeMarcus" shortname="Owens, DeMarcus" checkname="OWENS,DEMARCUS" uni="1C" class="FR" gp="1" gs="1" dpos="FC" code="1C">
+   <defense tackua="2" tacka="1" tot_tack="3"></defense>
+  </player>
+  <player name="Hanks, Terrill" shortname="Hanks, Terrill" checkname="HANKS,TERRILL" uni="2D" class="FR" gp="1" gs="1" dpos="SLB" code="2D">
+   <defense tackua="4" tacka="5" tot_tack="9" tflua="1" tfla="0" tflyds="5" int="1" intyds="0"></defense>
+  </player>
+  <player name="Hogan, Gregory" shortname="Hogan, Gregory" checkname="HOGAN,GREGORY" uni="2" class="SO" gp="1" code="2">
+   <rcv no="2" yds="28" td="0" long="29"></rcv>
+   <defense></defense>
+   <kr no="1" yds="18" td="0" long="18"></kr>
+   <ir no="1" yds="0" td="0" long="0"></ir>
+  </player>
+  <player name="Ibekwe, Derek" shortname="Ibekwe, Derek" checkname="IBEKWE,DEREK" uni="3D" class="SO" gp="1" code="3D">
+   <defense tackua="10" tacka="3" tot_tack="13" tflua="2" tfla="0" tflyds="3"></defense>
+  </player>
+  <player name="Rose III, Larry" shortname="Rose III, Larry" checkname="ROSE III,LARRY" uni="3" class="SO" gp="1" gs="1" opos="TB" code="3">
+   <rush att="21" yds="260" gain="264" loss="4" td="3" long="67"></rush>
+   <fumbles no="1" lost="1"></fumbles>
+   <scoring td="3"></scoring>
+  </player>
+  <player name="Taylor, Tyrain" shortname="Taylor, Tyrain" checkname="TAYLOR,TYRAIN" uni="5" class="JR" gp="1" gs="1" opos="WR-Z" code="5">
+   <rcv no="3" yds="44" td="0" long="40"></rcv>
+   <defense tackua="2" tacka="0" tot_tack="2" ff="1" fr="1" fryds="0"></defense>
+  </player>
+  <player name="Gibson, C" shortname="Gibson, C" checkname="GIBSON,C" uni="5D" class="FR" gp="1" code="5D"></player>
+  <player name="Bowen, Joshua" shortname="Bowen, Joshua" checkname="BOWEN,JOSHUA" uni="6" class="SR" gp="1" code="6">
+   <rcv no="1" yds="2" td="0" long="2"></rcv>
+  </player>
+  <player name="Reese, Jassavia" shortname="Reese, Jassavia" checkname="REESE,JASSAVIA" uni="8D" class="FR" gp="1" code="8D">
+   <defense tackua="1" tacka="0" tot_tack="1" qbh="1"></defense>
+  </player>
+  <player name="Allen, Andrew" shortname="Allen, Andrew" checkname="ALLEN,ANDREW" uni="8" class="SO" gp="1" code="8"></player>
+  <player name="Bradley, Stody" shortname="Bradley, Stody" checkname="BRADLEY,STODY" uni="9D" class="SO" gp="1" gs="1" dpos="LE" code="9D">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="Moore, Rayvean" shortname="Moore, Rayvean" checkname="MOORE,RAYVEAN" uni="9" class="FR" gp="1" code="9">
+   <rcv no="2" yds="16" td="0" long="9"></rcv>
+  </player>
+  <player name="Caldwell, Royce" shortname="Caldwell, Royce" checkname="CALDWELL,ROYCE" uni="10" class="FR" gp="1" code="10"></player>
+  <player name="Bergstrom, J" shortname="Bergstrom, J" checkname="BERGSTROM,J" uni="11" class="SR" gp="1" gs="1" opos="WR-X" code="11">
+   <rcv no="1" yds="3" td="0" long="3"></rcv>
+  </player>
+  <player name="Jeanty, Nick" shortname="Jeanty, Nick" checkname="JEANTY,NICK" uni="12" class="FR" gp="1" code="12">
+   <rush att="5" yds="17" gain="30" loss="13" td="0" long="16"></rush>
+   <pass comp="0" att="4" int="1" yds="0" td="0" long="0" sacks="2" sackyds="13"></pass>
+  </player>
+  <player name="Rogers, Tyler" shortname="Rogers, Tyler" checkname="ROGERS,TYLER" uni="17" class="JR" gp="1" gs="1" opos="QB" code="17">
+   <rush att="11" yds="41" gain="56" loss="15" td="0" long="40"></rush>
+   <pass comp="12" att="24" int="1" yds="108" td="0" long="40" sacks="4" sackyds="15"></pass>
+  </player>
+  <player name="Perkins, Austin" shortname="Perkins, Austin" checkname="PERKINS,AUSTIN" uni="19" class="FR" gp="1" code="19"></player>
+  <player name="Wright, Jaden" shortname="Wright, Jaden" checkname="WRIGHT,JADEN" uni="21" class="SO" gp="1" gs="1" dpos="SS" code="21">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="Hall, Xavier" shortname="Hall, Xavier" checkname="HALL,XAVIER" uni="22" class="JR" gp="1" code="22">
+   <rush att="1" yds="0" gain="0" loss="0" td="0" long="0"></rush>
+  </player>
+  <player name="Burton, Jerrion" shortname="Burton, Jerrion" checkname="BURTON,JERRION" uni="23" class="SO" gp="1" code="23"></player>
+  <player name="Davidson, P" shortname="Davidson, P" checkname="DAVIDSON,P" uni="24" class="FR" gp="1" code="24">
+   <ko no="7" yds="361" ob="1" tb="2"></ko>
+   <fg made="3" att="3" long="41" blkd="0"></fg>
+   <pat kickatt="3" kickmade="2"></pat>
+   <scoring fg="3" patkick="2"></scoring>
+  </player>
+  <player name="Oyenuga, Samuel" shortname="Oyenuga, Samuel" checkname="OYENUGA,SAMUEL" uni="25" class="SR" gp="1" code="25"></player>
+  <player name="Hill, Lewis" shortname="Hill, Lewis" checkname="HILL,LEWIS" uni="29" class="SR" gp="1" gs="1" dpos="BC" code="29">
+   <defense tackua="6" tacka="2" tot_tack="8" tflua="1" tfla="0" tflyds="2"></defense>
+  </player>
+  <player name="Herrington, D" shortname="Herrington, D" checkname="HERRINGTON,D" uni="31" class="SO" gp="1" code="31">
+   <defense tackua="1" tacka="0" tot_tack="1" brup="1"></defense>
+  </player>
+  <player name="Rocha, Dalton" shortname="Rocha, Dalton" checkname="ROCHA,DALTON" uni="32" class="SO" gp="1" code="32"></player>
+  <player name="Leonard, B" shortname="Leonard, B" checkname="LEONARD,B" uni="34" class="FR" gp="1" code="34"></player>
+  <player name="Wagner, Robert" shortname="Wagner, Robert" checkname="WAGNER,ROBERT" uni="40" class="JR" gp="1" gs="1" dpos="MLB" code="40">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Hood, Jonathan" shortname="Hood, Jonathan" checkname="HOOD,JONATHAN" uni="42" class="FR" gp="1" code="42"></player>
+  <player name="Clement, Will" shortname="Clement, Will" checkname="CLEMENT,WILL" uni="44" class="FR" gp="1" code="44"></player>
+  <player name="Hutchins, Greg" shortname="Hutchins, Greg" checkname="HUTCHINS,GREG" uni="45" class="FR" gp="1" code="45"></player>
+  <player name="Kenney, Andrew" shortname="Kenney, Andrew" checkname="KENNEY,ANDREW" uni="47" class="JR" gp="1" code="47"></player>
+  <player name="Holland, Abram" shortname="Holland, Abram" checkname="HOLLAND,ABRAM" uni="50" class="JR" gp="1" gs="1" opos="RG" code="50"></player>
+  <player name="Butler, Rodney" shortname="Butler, Rodney" checkname="BUTLER,RODNEY" uni="53" class="SO" gp="1" gs="1" dpos="WLB" code="53">
+   <defense tackua="2" tacka="2" tot_tack="4"></defense>
+  </player>
+  <player name="Brown, Noah" shortname="Brown, Noah" checkname="BROWN,NOAH" uni="57" class="JR" gp="1" code="57">
+   <defense tackua="2" tacka="1" tot_tack="3"></defense>
+  </player>
+  <player name="Folasa-Lutui, I" shortname="Folasa-Lutui, I" checkname="FOLASA-LUTUI,I" uni="62" class="SR" gp="1" gs="1" opos="LG" code="62"></player>
+  <player name="Ledoux, Nick" shortname="Ledoux, Nick" checkname="LEDOUX,NICK" uni="63" class="SO" gp="1" code="63"></player>
+  <player name="McMeans, A" shortname="McMeans, A" checkname="MCMEANS,A" uni="67" class="JR" gp="1" gs="1" opos="C" code="67"></player>
+  <player name="Trujillo, A" shortname="Trujillo, A" checkname="TRUJILLO,A" uni="69" class="SR" gp="1" code="69">
+   <defense tackua="2" tacka="2" tot_tack="4"></defense>
+  </player>
+  <player name="Cunningham, A." shortname="Cunningham, A." checkname="CUNNINGHAM,A" uni="70" class="SR" gp="1" gs="1" opos="RT" code="70"></player>
+  <player name="Ortega, Antonio" shortname="Ortega, Antonio" checkname="ORTEGA,ANTONIO" uni="75" class="JR" gp="1" code="75"></player>
+  <player name="Clemente, H." shortname="Clemente, H." checkname="CLEMENTE,H" uni="77" class="SR" gp="1" gs="1" opos="LT" code="77"></player>
+  <player name="Atencio, Ty" shortname="Atencio, Ty" checkname="ATENCIO,TY" uni="82" class="JR" gp="1" code="82"></player>
+  <player name="Granch, Clayton" shortname="Granch, Clayton" checkname="GRANCH,CLAYTON" uni="88" class="JR" gp="1" gs="1" opos="WR-Y" code="88"></player>
+  <player name="Solbeck, J" shortname="Solbeck, J" checkname="SOLBECK,J" uni="89" class="FR" gp="1" code="89"></player>
+  <player name="Banegas, Jacob" shortname="Banegas, Jacob" checkname="BANEGAS,JACOB" uni="91" class="SO" gp="1" gs="1" dpos="T" code="91">
+   <defense tackua="1" tacka="4" tot_tack="5"></defense>
+  </player>
+  <player name="James, Drew" shortname="James, Drew" checkname="JAMES,DREW" uni="93" class="JR" gp="1" code="93"></player>
+  <player name="Torres, Anthony" shortname="Torres, Anthony" checkname="TORRES,ANTHONY" uni="96" class="SR" gp="1" code="96">
+   <punt no="5" yds="238" long="60" blkd="0" tb="0" fc="1" plus50="3" inside20="2" avg="47.6"></punt>
+  </player>
+  <player name="Gibbs, Josh" shortname="Gibbs, Josh" checkname="GIBBS,JOSH" uni="98" class="SR" gp="1" gs="1" dpos="NT" code="98"></player>
+  <player name="Meredith, S" shortname="Meredith, S" checkname="MEREDITH,S" uni="99" class="JR" gp="1" gs="1" dpos="K" code="99">
+   <defense tackua="3" tacka="1" tot_tack="4"></defense>
+  </player>
+ </team>
+ <team vh="H" code="473" id="NM" name="New Mexico" record="3-2" abb="N">
+  <linescore prds="4" line="14,0,15,9" score="38">
+   <lineprd prd="1" score="14"></lineprd>
+   <lineprd prd="2" score="0"></lineprd>
+   <lineprd prd="3" score="15"></lineprd>
+   <lineprd prd="4" score="9"></lineprd>
+  </linescore>
+  <totals totoff_plays="78" totoff_yards="446" totoff_avg="5.7">
+   <firstdowns no="21" rush="18" pass="2" penalty="1"></firstdowns>
+   <penalties no="4" yds="27"></penalties>
+   <conversions thirdconv="6" thirdatt="17" fourthconv="2" fourthatt="2"></conversions>
+   <fumbles no="2" lost="1"></fumbles>
+   <misc yds="0" top="34:04" ona="0" onm="0" ptsto="7"></misc>
+   <redzone att="2" scores="1" points="8" tdrush="1" tdpass="0" fgmade="0" endfga="1" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="61" yds="401" gain="427" loss="26" td="4" long="70"></rush>
+   <pass comp="5" att="17" int="1" yds="45" td="0" long="12" sacks="0" sackyds="0"></pass>
+   <rcv no="5" yds="45" td="0" long="12"></rcv>
+   <punt no="6" yds="252" long="69" blkd="0" tb="1" fc="1" plus50="1" inside20="3" avg="42.0"></punt>
+   <ko no="6" yds="388" ob="0" tb="5"></ko>
+   <fg made="0" att="2" long="0" blkd="0"></fg>
+   <pat kickatt="4" kickmade="4" rushatt="1" rushmade="1"></pat>
+   <defense tackua="42" tacka="12" tot_tack="54" tflua="9" tfla="2" tflyds="43" sacks="7" sackyds="38" brup="3" qbh="3" saf="1" ff="1" fr="1" fryds="0" int="2" intyds="15"></defense>
+   <kr no="4" yds="78" td="0" long="34"></kr>
+   <pr no="1" yds="0" td="0" long="0"></pr>
+   <ir no="2" yds="15" td="0" long="15"></ir>
+   <fr no="0" yds="0" td="1" long="0"></fr>
+   <scoring td="5" saf="1" patkick="4" patrush="1"></scoring>
+  </totals>
+  <player name="DAVIS, Chris" shortname="DAVIS, Chris" checkname="DAVIS,CHRIS" uni="2D" class="SO" gp="1" code="2D"></player>
+  <player name="WOODHOUSE, Diq." shortname="WOODHOUSE, Diq." checkname="WOODHOUSE,DIQ" uni="2W" class="FR" gp="1" code="2W"></player>
+  <player name="GAMBLIN, Dameon" shortname="GAMBLIN, Dameon" checkname="GAMBLIN,DAMEON" uni="2" class="JR" gp="1" gs="1" opos="WR-H" code="2">
+   <rcv no="1" yds="12" td="0" long="12"></rcv>
+  </player>
+  <player name="CARSON, Kimmie" shortname="CARSON, Kimmie" checkname="CARSON,KIMMIE" uni="2C" class="SO" gp="1" gs="1" dpos="WLB" code="2C">
+   <defense tackua="6" tacka="1" tot_tack="7"></defense>
+  </player>
+  <player name="LANGFORD, Ryan" shortname="LANGFORD, Ryan" checkname="LANGFORD,RYAN" uni="2L" class="SR" gp="1" code="2L">
+   <defense tackua="2" tacka="2" tot_tack="4" tflua="0" tfla="1" tflyds="5" sackua="0" sacka="1" sackyds="5"></defense>
+  </player>
+  <player name="McQUARLEY, R." shortname="McQUARLEY, R." checkname="MCQUARLEY,R" uni="3Q" class="SO" gp="1" code="3Q">
+   <rush att="4" yds="14" gain="14" loss="0" td="1" long="6"></rush>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="JONES, Cranston" shortname="JONES, Cranston" checkname="JONES,CRANSTON" uni="3" class="SR" gp="1" gs="1" dpos="RCB" code="3">
+   <defense brup="3" int="1" intyds="15"></defense>
+   <ir no="1" yds="15" td="0" long="15"></ir>
+  </player>
+  <player name="BROWN, Isaiah" shortname="BROWN, Isaiah" checkname="BROWN,ISAIAH" uni="4B" class="JR" gp="1" gs="1" dpos="LCB" code="4B">
+   <defense tackua="2" tacka="1" tot_tack="3"></defense>
+  </player>
+  <player name="REED, Patrick" shortname="REED, Patrick" checkname="REED,PATRICK" uni="5" class="FR" gp="1" code="5"></player>
+  <player name="TIMMONS, Taylor" shortname="TIMMONS, Taylor" checkname="TIMMONS,TAYLOR" uni="5T" class="JR" gp="1" gs="1" dpos="NT" code="5T">
+   <defense tackua="0" tacka="1" tot_tack="1" tflua="0" tfla="1" tflyds="5" sackua="0" sacka="1" sackyds="5"></defense>
+  </player>
+  <player name="CROSBY, Lee" shortname="CROSBY, Lee" checkname="CROSBY,LEE" uni="5C" class="JR" gp="1" gs="1" dpos="MACK" code="5C">
+   <defense tackua="7" tacka="2" tot_tack="9" tflua="2" tfla="0" tflyds="8" sackua="1" sacka="0" sackyds="7" ff="1" fr="1" fryds="0"></defense>
+   <fr no="0" yds="0" td="1" long="0"></fr>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="PRESSLEY, Jhu." shortname="PRESSLEY, Jhu." checkname="PRESSLEY,JHU" uni="6" class="SR" gp="1" gs="1" opos="RB" code="6">
+   <rush att="18" yds="99" gain="101" loss="2" td="1" long="32"></rush>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="GIPSON, Teriyon" shortname="GIPSON, Teriyon" checkname="GIPSON,TERIYON" uni="7" class="JR" gp="1" gs="1" opos="RB" code="7">
+   <rush att="19" yds="142" gain="142" loss="0" td="1" long="36"></rush>
+   <rcv no="1" yds="6" td="0" long="6"></rcv>
+   <fumbles no="1" lost="0"></fumbles>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="HUGHES, Garrett" shortname="HUGHES, Garrett" checkname="HUGHES,GARRETT" uni="9H" class="SO" gp="1" gs="1" dpos="LE" code="9H">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="GREEN, Travis" shortname="GREEN, Travis" checkname="GREEN,TRAVIS" uni="9" class="SR" gp="1" code="9">
+   <kr no="1" yds="8" td="0" long="8"></kr>
+  </player>
+  <player name="JONES, Ridge" shortname="JONES, Ridge" checkname="JONES,RIDGE" uni="11" class="JR" gp="1" code="11"></player>
+  <player name="SANTOS, Ryan" shortname="SANTOS, Ryan" checkname="SANTOS,RYAN" uni="12" class="JR" gp="1" gs="1" dpos="FS" code="12">
+   <defense tackua="1" tacka="2" tot_tack="3"></defense>
+  </player>
+  <player name="JORDAN, Lamar" shortname="JORDAN, Lamar" checkname="JORDAN,LAMAR" uni="13" class="SO" gp="1" gs="1" opos="QB" code="13">
+   <rush att="16" yds="157" gain="165" loss="8" td="1" long="70"></rush>
+   <pass comp="5" att="17" int="1" yds="45" td="0" long="12" sacks="0" sackyds="0"></pass>
+   <pat rushatt="1" rushmade="1"></pat>
+   <scoring td="1" patrush="1"></scoring>
+  </player>
+  <player name="HENRY, Daniel" shortname="HENRY, Daniel" checkname="HENRY,DANIEL" uni="14" class="JR" gp="1" gs="1" dpos="SS" code="14">
+   <defense tackua="3" tacka="1" tot_tack="4" tflua="1" tfla="0" tflyds="4" sackua="1" sacka="0" sackyds="4"></defense>
+  </player>
+  <player name="RUSSO, John" shortname="RUSSO, John" checkname="RUSSO,JOHN" uni="15" class="JR" gp="1" code="15"></player>
+  <player name="MARTIN, Nias" shortname="MARTIN, Nias" checkname="MARTIN,NIAS" uni="19" class="JR" gp="1" code="19">
+   <defense tackua="2" tacka="0" tot_tack="2" tflua="1" tfla="0" tflyds="1"></defense>
+  </player>
+  <player name="CHESTNUT, Daryl" shortname="CHESTNUT, Daryl" checkname="CHESTNUT,DARYL" uni="20" class="SO" gp="1" code="20"></player>
+  <player name="DUNCAN, Donnie" shortname="DUNCAN, Donnie" checkname="DUNCAN,DONNIE" uni="21" class="SR" gp="1" code="21"></player>
+  <player name="BYRD, Markel" shortname="BYRD, Markel" checkname="BYRD,MARKEL" uni="22" class="SO" gp="1" code="22">
+   <defense tackua="4" tacka="0" tot_tack="4" tflua="1" tfla="0" tflyds="10" sackua="1" sacka="0" sackyds="10" int="1" intyds="0"></defense>
+   <ir no="1" yds="0" td="0" long="0"></ir>
+  </player>
+  <player name="ADEWON, Tayo" shortname="ADEWON, Tayo" checkname="ADEWON,TAYO" uni="23" class="SR" gp="1" code="23">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="WIGGINS, Carlos" shortname="WIGGINS, Carlos" checkname="WIGGINS,CARLOS" uni="24" class="SR" gp="1" gs="1" opos="WR-Z" code="24">
+   <kr no="3" yds="70" td="0" long="34"></kr>
+   <pr no="1" yds="0" td="0" long="0"></pr>
+   <fumbles no="1" lost="1"></fumbles>
+  </player>
+  <player name="ANAYA, David" shortname="ANAYA, David" checkname="ANAYA,DAVID" uni="25" class="SR" gp="1" code="25">
+   <rush att="1" yds="5" gain="5" loss="0" td="0" long="5"></rush>
+  </player>
+  <player name="OWENS, Tyrone" shortname="OWENS, Tyrone" checkname="OWENS,TYRONE" uni="26" class="FR" gp="1" code="26"></player>
+  <player name="PARKER, Bijon" shortname="PARKER, Bijon" checkname="PARKER,BIJON" uni="27" class="FR" gp="1" code="27">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="ROTHSCHILLER, J" shortname="ROTHSCHILLER, J" checkname="ROTHSCHILLER,J" uni="28" class="SO" gp="1" code="28">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="ARREDONDO, M." shortname="ARREDONDO, M." checkname="ARREDONDO,M" uni="32" class="SR" gp="1" code="32"></player>
+  <player name="HART, Alex" shortname="HART, Alex" checkname="HART,ALEX" uni="33" class="FR" gp="1" code="33"></player>
+  <player name="SMELSER, Geoff" shortname="SMELSER, Geoff" checkname="SMELSER,GEOFF" uni="34" class="JR" gp="1" code="34"></player>
+  <player name="WALSH, Michael" shortname="WALSH, Michael" checkname="WALSH,MICHAEL" uni="46" class="JR" gp="1" code="46"></player>
+  <player name="EDLING, Chris" shortname="EDLING, Chris" checkname="EDLING,CHRIS" uni="48" class="SR" gp="1" code="48"></player>
+  <player name="COX, Dakota" shortname="COX, Dakota" checkname="COX,DAKOTA" uni="49" class="JR" gp="1" gs="1" dpos="MLB" code="49">
+   <defense tackua="6" tacka="1" tot_tack="7" tflua="2" tfla="0" tflyds="4" sackua="2" sacka="0" sackyds="4" qbh="1"></defense>
+  </player>
+  <player name="MAHINA, Eden" shortname="MAHINA, Eden" checkname="MAHINA,EDEN" uni="51" class="SR" gp="1" gs="1" opos="C" code="51"></player>
+  <player name="BAKER, Cody" shortname="BAKER, Cody" checkname="BAKER,CODY" uni="53" class="FR" gp="1" code="53"></player>
+  <player name="WHITE, Donnie" shortname="WHITE, Donnie" checkname="WHITE,DONNIE" uni="54" class="JR" gp="1" gs="1" dpos="RUSH" code="54">
+   <defense tackua="1" tacka="1" tot_tack="2" qbh="1"></defense>
+  </player>
+  <player name="JENKINS, Aaron" shortname="JENKINS, Aaron" checkname="JENKINS,AARON" uni="55" class="FR" gp="1" gs="1" opos="RG" code="55"></player>
+  <player name="DANIELS, Mauric" shortname="DANIELS, Mauric" checkname="DANIELS,MAURIC" uni="58" class="JR" gp="1" code="58">
+   <defense tackua="4" tacka="0" tot_tack="4" tflua="2" tfla="0" tflyds="6" sackua="1" sacka="0" sackyds="3"></defense>
+  </player>
+  <player name="LEE, Chris" shortname="LEE, Chris" checkname="LEE,CHRIS" uni="59" class="SR" gp="1" code="59"></player>
+  <player name="SMALLS, Chris." shortname="SMALLS, Chris." checkname="SMALLS,CHRIS" uni="74" class="SR" gp="1" code="74"></player>
+  <player name="HENDERSON, Reno" shortname="HENDERSON, Reno" checkname="HENDERSON,RENO" uni="75" class="JR" gp="1" gs="1" opos="LT" code="75"></player>
+  <player name="ROMINE, Dillon" shortname="ROMINE, Dillon" checkname="ROMINE,DILLON" uni="76" class="SR" gp="1" gs="1" opos="RT" code="76"></player>
+  <player name="OLDENKAMP, B." shortname="OLDENKAMP, B." checkname="OLDENKAMP,B" uni="79" class="SR" gp="1" gs="1" opos="LG" code="79"></player>
+  <player name="WHITE, Reece" shortname="WHITE, Reece" checkname="WHITE,REECE" uni="80" class="SR" gp="1" code="80"></player>
+  <player name="BUNDY, Marquis" shortname="BUNDY, Marquis" checkname="BUNDY,MARQUIS" uni="81" class="SR" gp="1" gs="1" opos="WR-X" code="81">
+   <rcv no="2" yds="15" td="0" long="11"></rcv>
+  </player>
+  <player name="HART-JOHNSON, D" shortname="HART-JOHNSON, D" checkname="HART-JOHNSON,D" uni="82" class="SO" gp="1" code="82">
+   <rcv no="1" yds="12" td="0" long="12"></rcv>
+  </player>
+  <player name="LEHMAN, Nick" shortname="LEHMAN, Nick" checkname="LEHMAN,NICK" uni="88" class="JR" gp="1" code="88"></player>
+  <player name="ROGERS, Zack" shortname="ROGERS, Zack" checkname="ROGERS,ZACK" uni="90" class="SR" gp="1" code="90">
+   <punt no="6" yds="252" long="69" blkd="0" tb="1" fc="1" plus50="1" inside20="3" avg="42.0"></punt>
+  </player>
+  <player name="D'AVANZO, Nik" shortname="D'AVANZO, Nik" checkname="D'AVANZO,NIK" uni="91" class="JR" gp="1" code="91"></player>
+  <player name="UDEH, William" shortname="UDEH, William" checkname="UDEH,WILLIAM" uni="92" class="JR" gp="1" code="92"></player>
+  <player name="SANDERS, Jason" shortname="SANDERS, Jason" checkname="SANDERS,JASON" uni="95" class="SO" gp="1" code="95">
+   <ko no="6" yds="388" ob="0" tb="5"></ko>
+   <fg made="0" att="2" long="0" blkd="0"></fg>
+   <pat kickatt="4" kickmade="4"></pat>
+   <scoring patkick="4"></scoring>
+  </player>
+  <player name="ROMERO, Steven" shortname="ROMERO, Steven" checkname="ROMERO,STEVEN" uni="97" class="JR" gp="1" code="97"></player>
+  <player name="OKONKWO, Kene" shortname="OKONKWO, Kene" checkname="OKONKWO,KENE" uni="98" class="SO" gp="1" gs="1" dpos="RE" code="98">
+   <defense qbh="1"></defense>
+  </player>
+  <player name="TEAM" shortname="TEAM" checkname="TEAM" uni="TM" class="FR" gp="1" code="198">
+   <rush att="3" yds="-16" gain="0" loss="16" td="0" long="0"></rush>
+   <defense saf="1"></defense>
+   <scoring saf="1"></scoring>
+  </player>
+ </team>
+ <scores>
+  <score vh="V" team="NMSU" qtr="1" clock="13:46" type="TD" how="RUSH" yds="63" scorer="Rose III, Larry" patby="Davidson, P" pattype="KICK" patres="GOOD" plays="5" drive="75" top="1:14" vscore="7" hscore="0" driveindex="1"></score>
+  <score vh="H" team="NM" qtr="1" clock="12:46" type="TD" how="RUSH" yds="70" scorer="JORDAN, Lamar" patby="SANDERS, Jason" pattype="KICK" patres="GOOD" plays="3" drive="75" top="1:00" vscore="7" hscore="7" driveindex="2"></score>
+  <score vh="H" team="NM" qtr="1" clock="06:38" type="TD" how="FUMB" yds="0" scorer="CROSBY, Lee" patby="SANDERS, Jason" pattype="KICK" patres="GOOD" vscore="7" hscore="14" driveindex="6"></score>
+  <score vh="V" team="NMSU" qtr="1" clock="05:30" type="TD" how="RUSH" yds="67" scorer="Rose III, Larry" patby="Davidson, P" pattype="KICK" patres="GOOD" plays="3" drive="75" top="1:08" vscore="14" hscore="14" driveindex="7"></score>
+  <score vh="V" team="NMSU" qtr="1" clock="02:35" type="FG" yds="41" scorer="Davidson, P" plays="4" drive="-2" top="1:47" vscore="17" hscore="14" driveindex="9"></score>
+  <score vh="V" team="NMSU" qtr="2" clock="04:43" type="TD" how="RUSH" yds="51" scorer="Rose III, Larry" patby="Davidson, P" pattype="KICK" patres="FAIL" plays="2" drive="53" top="0:30" vscore="23" hscore="14" driveindex="13"></score>
+  <score vh="V" team="NMSU" qtr="2" clock="00:01" type="FG" yds="25" scorer="Davidson, P" plays="5" drive="75" top="0:35" vscore="26" hscore="14" driveindex="17"></score>
+  <score vh="V" team="NMSU" qtr="3" clock="11:40" type="FG" yds="39" scorer="Davidson, P" plays="8" drive="11" top="3:14" vscore="29" hscore="14" driveindex="20"></score>
+  <score vh="H" team="NM" qtr="3" clock="06:30" type="TD" how="RUSH" yds="6" scorer="McQUARLEY, R." patby="JORDAN, Lamar" pattype="RUSH" patres="GOOD" plays="10" drive="40" top="5:03" vscore="29" hscore="22" driveindex="21"></score>
+  <score vh="H" team="NM" qtr="3" clock="02:41" type="TD" how="RUSH" yds="32" scorer="PRESSLEY, Jhu." patby="SANDERS, Jason" pattype="KICK" patres="GOOD" plays="4" drive="48" top="1:54" vscore="29" hscore="29" driveindex="23"></score>
+  <score vh="H" team="NM" qtr="4" clock="10:19" type="TD" how="RUSH" yds="36" scorer="GIPSON, Teriyon" patby="SANDERS, Jason" pattype="KICK" patres="GOOD" plays="2" drive="78" top="0:18" vscore="29" hscore="36" driveindex="27"></score>
+  <score vh="H" team="NM" qtr="4" clock="02:00" type="SAF" yds="3" scorer="TEAM" vscore="29" hscore="38" driveindex="32"></score>
+ </scores>
+ <fgas>
+  <fga vh="V" team="NMSU" kicker="Davidson, P" qtr="1" clock="02:35" distance="41" result="good"></fga>
+  <fga vh="H" team="NM" kicker="SANDERS, Jason" qtr="2" clock="11:33" distance="29" result="missed"></fga>
+  <fga vh="V" team="NMSU" kicker="Davidson, P" qtr="2" clock="00:01" distance="25" result="good"></fga>
+  <fga vh="V" team="NMSU" kicker="Davidson, P" qtr="3" clock="11:40" distance="39" result="good"></fga>
+  <fga vh="H" team="NM" kicker="SANDERS, Jason" qtr="4" clock="11:52" distance="41" result="missed"></fga>
+ </fgas>
+ <drives>
+  <drive vh="V" team="NMSU" start="KO,1,15:00,25" end="TD,1,13:46,100" plays="5" yards="75" top="1:14" start_how="KO" start_qtr="1" start_time="15:00" start_spot="NMSU25" end_how="TD" end_qtr="1" end_time="13:46" end_spot="NM00" driveindex="1"></drive>
+  <drive vh="H" team="NM" start="KO,1,13:46,25" end="TD,1,12:46,100" plays="3" yards="75" top="1:00" start_how="KO" start_qtr="1" start_time="13:46" start_spot="NM25" end_how="TD" end_qtr="1" end_time="12:46" end_spot="NMSU00" driveindex="2"></drive>
+  <drive vh="V" team="NMSU" start="KO,1,12:46,25" end="DOWNS,1,09:43,83" plays="8" yards="58" top="3:03" start_how="KO" start_qtr="1" start_time="12:46" start_spot="NMSU25" end_how="DOWNS" end_qtr="1" end_time="09:43" end_spot="NM17" rz="1" driveindex="3"></drive>
+  <drive vh="H" team="NM" start="DOWNS,1,09:43,17" end="PUNT,1,07:23,27" plays="6" yards="10" top="2:20" start_how="DOWNS" start_qtr="1" start_time="09:43" start_spot="NM17" end_how="PUNT" end_qtr="1" end_time="07:23" end_spot="NM27" driveindex="4"></drive>
+  <drive vh="V" team="NMSU" start="PUNT,1,07:23,4" end="FUMB,1,06:38,0" plays="2" yards="-4" top="0:45" start_how="PUNT" start_qtr="1" start_time="07:23" start_spot="NMSU04" end_how="FUMB" end_qtr="1" end_time="06:38" end_spot="NMSU00" driveindex="5"></drive>
+  <drive vh="H" team="NM" start="FUMB,1,06:38,100" end="TD,1,06:38,100" plays="0" yards="0" top="0:00" start_how="FUMB" start_qtr="1" start_time="06:38" start_spot="NMSU00" end_how="TD" end_qtr="1" end_time="06:38" end_spot="NMSU00" driveindex="6"></drive>
+  <drive vh="V" team="NMSU" start="KO,1,06:38,25" end="TD,1,05:30,100" plays="3" yards="75" top="1:08" start_how="KO" start_qtr="1" start_time="06:38" start_spot="NMSU25" end_how="TD" end_qtr="1" end_time="05:30" end_spot="NM00" driveindex="7"></drive>
+  <drive vh="H" team="NM" start="KO,1,05:11,10" end="INT,1,04:22,30" plays="4" yards="20" top="0:49" start_how="KO" start_qtr="1" start_time="05:11" start_spot="NM10" end_how="INT" end_qtr="1" end_time="04:22" end_spot="NM30" driveindex="8"></drive>
+  <drive vh="V" team="NMSU" start="INT,1,04:22,79" end="FG,1,02:35,77" plays="4" yards="-2" top="1:47" start_how="INT" start_qtr="1" start_time="04:22" start_spot="NM21" end_how="FG" end_qtr="1" end_time="02:35" end_spot="NM23" rz="1" driveindex="9"></drive>
+  <drive vh="H" team="NM" start="KO,1,02:30,26" end="FGA,2,11:33,88" plays="14" yards="62" top="5:57" start_how="KO" start_qtr="1" start_time="02:30" start_spot="NM26" end_how="FGA" end_qtr="2" end_time="11:33" end_spot="NMSU12" rz="1" driveindex="10"></drive>
+  <drive vh="V" team="NMSU" start="FGA,2,11:33,20" end="PUNT,2,08:26,47" plays="6" yards="27" top="3:07" start_how="FGA" start_qtr="2" start_time="11:33" start_spot="NMSU20" end_how="PUNT" end_qtr="2" end_time="08:26" end_spot="NMSU47" driveindex="11"></drive>
+  <drive vh="H" team="NM" start="PUNT,2,08:26,2" end="PUNT,2,05:13,20" plays="6" yards="18" top="3:13" start_how="PUNT" start_qtr="2" start_time="08:26" start_spot="NM02" end_how="PUNT" end_qtr="2" end_time="05:13" end_spot="NM20" driveindex="12"></drive>
+  <drive vh="V" team="NMSU" start="PUNT,2,05:13,47" end="TD,2,04:43,100" plays="2" yards="53" top="0:30" start_how="PUNT" start_qtr="2" start_time="05:13" start_spot="NMSU47" end_how="TD" end_qtr="2" end_time="04:43" end_spot="NM00" driveindex="13"></drive>
+  <drive vh="H" team="NM" start="KO,2,04:43,25" end="PUNT,2,03:18,28" plays="3" yards="3" top="1:25" start_how="KO" start_qtr="2" start_time="04:43" start_spot="NM25" end_how="PUNT" end_qtr="2" end_time="03:18" end_spot="NM28" driveindex="14"></drive>
+  <drive vh="V" team="NMSU" start="PUNT,2,03:18,24" end="PUNT,2,01:53,18" plays="3" yards="-6" top="1:25" start_how="PUNT" start_qtr="2" start_time="03:18" start_spot="NMSU24" end_how="PUNT" end_qtr="2" end_time="01:53" end_spot="NMSU18" driveindex="15"></drive>
+  <drive vh="H" team="NM" start="PUNT,2,01:53,32" end="PUNT,2,00:36,60" plays="7" yards="28" top="1:17" start_how="PUNT" start_qtr="2" start_time="01:53" start_spot="NM32" end_how="PUNT" end_qtr="2" end_time="00:36" end_spot="NMSU40" driveindex="16"></drive>
+  <drive vh="V" team="NMSU" start="PUNT,2,00:36,18" end="FG,2,00:01,93" plays="5" yards="75" top="0:35" start_how="PUNT" start_qtr="2" start_time="00:36" start_spot="NMSU18" end_how="FG" end_qtr="2" end_time="00:01" end_spot="NM07" rz="1" driveindex="17"></drive>
+  <drive vh="H" team="NM" start="KO,2,00:00,32" end="HALF,2,00:00,32" plays="0" yards="0" top="0:00" start_how="KO" start_qtr="2" start_time="00:00" start_spot="NM32" end_how="HALF" end_qtr="2" end_time="00:00" end_spot="NM32" driveindex="18"></drive>
+  <drive vh="H" team="NM" start="KO,3,15:00,35" end="FUMB,3,14:54,34" plays="0" yards="-1" top="0:06" start_how="KO" start_qtr="3" start_time="15:00" start_spot="NM35" end_how="FUMB" end_qtr="3" end_time="14:54" end_spot="NM34" driveindex="19"></drive>
+  <drive vh="V" team="NMSU" start="FUMB,3,14:54,66" end="FG,3,11:40,77" plays="8" yards="11" top="3:14" start_how="FUMB" start_qtr="3" start_time="14:54" start_spot="NM34" end_how="FG" end_qtr="3" end_time="11:40" end_spot="NM23" driveindex="20"></drive>
+  <drive vh="H" team="NM" start="KO,3,11:33,60" end="TD,3,06:30,100" plays="10" yards="40" top="5:03" start_how="KO" start_qtr="3" start_time="11:33" start_spot="NMSU40" end_how="TD" end_qtr="3" end_time="06:30" end_spot="NMSU00" rz="1" driveindex="21"></drive>
+  <drive vh="V" team="NMSU" start="KO,3,06:30,25" end="PUNT,3,04:35,18" plays="3" yards="-7" top="1:55" start_how="KO" start_qtr="3" start_time="06:30" start_spot="NMSU25" end_how="PUNT" end_qtr="3" end_time="04:35" end_spot="NMSU18" driveindex="22"></drive>
+  <drive vh="H" team="NM" start="PUNT,3,04:35,52" end="TD,3,02:41,100" plays="4" yards="48" top="1:54" start_how="PUNT" start_qtr="3" start_time="04:35" start_spot="NMSU48" end_how="TD" end_qtr="3" end_time="02:41" end_spot="NMSU00" driveindex="23"></drive>
+  <drive vh="V" team="NMSU" start="KO,3,02:41,25" end="INT,3,01:28,38" plays="5" yards="13" top="1:13" start_how="KO" start_qtr="3" start_time="02:41" start_spot="NMSU25" end_how="INT" end_qtr="3" end_time="01:28" end_spot="NMSU38" driveindex="24"></drive>
+  <drive vh="H" team="NM" start="INT,3,01:28,47" end="FGA,4,11:52,76" plays="9" yards="29" top="4:36" start_how="INT" start_qtr="3" start_time="01:28" start_spot="NM47" end_how="FGA" end_qtr="4" end_time="11:52" end_spot="NMSU24" driveindex="25"></drive>
+  <drive vh="V" team="NMSU" start="FGA,4,11:52,24" end="PUNT,4,10:37,31" plays="3" yards="7" top="1:15" start_how="FGA" start_qtr="4" start_time="11:52" start_spot="NMSU24" end_how="PUNT" end_qtr="4" end_time="10:37" end_spot="NMSU31" driveindex="26"></drive>
+  <drive vh="H" team="NM" start="PUNT,4,10:37,22" end="TD,4,10:19,100" plays="2" yards="78" top="0:18" start_how="PUNT" start_qtr="4" start_time="10:37" start_spot="NM22" end_how="TD" end_qtr="4" end_time="10:19" end_spot="NMSU00" driveindex="27"></drive>
+  <drive vh="V" team="NMSU" start="KO,4,10:15,20" end="PUNT,4,09:18,24" plays="3" yards="4" top="0:57" start_how="KO" start_qtr="4" start_time="10:15" start_spot="NMSU20" end_how="PUNT" end_qtr="4" end_time="09:18" end_spot="NMSU24" driveindex="28"></drive>
+  <drive vh="H" team="NM" start="PUNT,4,09:18,16" end="PUNT,4,06:02,62" plays="6" yards="46" top="3:16" start_how="PUNT" start_qtr="4" start_time="09:18" start_spot="NM16" end_how="PUNT" end_qtr="4" end_time="06:02" end_spot="NMSU38" driveindex="29"></drive>
+  <drive vh="V" team="NMSU" start="PUNT,4,06:02,20" end="INT,4,03:27,45" plays="6" yards="25" top="2:35" start_how="PUNT" start_qtr="4" start_time="06:02" start_spot="NMSU20" end_how="INT" end_qtr="4" end_time="03:27" end_spot="NMSU45" driveindex="30"></drive>
+  <drive vh="H" team="NM" start="INT,4,03:27,50" end="PUNT,4,03:03,55" plays="3" yards="5" top="0:24" start_how="INT" start_qtr="4" start_time="03:27" start_spot="NM50" end_how="PUNT" end_qtr="4" end_time="03:03" end_spot="NMSU45" driveindex="31"></drive>
+  <drive vh="V" team="NMSU" start="PUNT,4,03:03,10" end="SAF,4,02:00,0" plays="4" yards="-10" top="1:03" start_how="PUNT" start_qtr="4" start_time="03:03" start_spot="NMSU10" end_how="SAF" end_qtr="4" end_time="02:00" end_spot="NMSU00" driveindex="32"></drive>
+  <drive vh="H" team="NM" start="KO,4,01:58,66" end="HALF,4,00:00,50" plays="3" yards="-16" top="1:58" start_how="KO" start_qtr="4" start_time="01:58" start_spot="NMSU34" end_how="HALF" end_qtr="4" end_time="00:00" end_spot="NM50" driveindex="33"></drive>
+ </drives>
+ <plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU35" context="V,1,10,V35" playid="0,1,0" tokens="CMT:NMSU wins toss, will receive and defend the N goal."
+      text="NMSU wins toss, will receive and defend the N goal." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU35" context="V,1,10,V35" playid="0,2,1" tokens="SPOT:H,H35,N"
+      text="NM ball on NM35." newcontext="H,1,10,H35">
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NM35" context="H,1,10,H35" playid="0,3,2" type="K" tokens="KO:95,V00 TB:"
+      text="SANDERS, Jason kickoff 65 yards to the NMSU0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="SANDERS, Jason" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,15:00" vh="V" spot="V25" clock="15:00" driveindex="1,2"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU25" context="V,1,10,V25" playid="1,1,3" type="R" tokens="RUSH:3,V28, TACK:5C"
+      text="Rose III, Larry rush for 3 yards to the NMSU28 (CROSBY, Lee)." newcontext="V,2,7,V28">
+    <p_ru vh="V" name="Rose III, Larry" gain="3"></p_ru>
+    <p_tk vh="H" name="CROSBY, Lee"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="7" spot="NMSU28" context="V,2,7,V28" playid="1,2,4" type="R" first="R" tokens="RUSH:3,V37, TACK:54"
+      text="Rose III, Larry rush for 9 yards to the NMSU37, 1ST DOWN NMSU (WHITE, Donnie)." newcontext="V,1,10,V37">
+    <p_ru vh="V" name="Rose III, Larry" gain="9"></p_ru>
+    <p_tk vh="H" name="WHITE, Donnie"></p_tk>
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU37" context="V,1,10,V37" playid="1,3,5" type="P" tokens="PASS:17,I,11,* QBH:H,54 QBH:H,98"
+      text="Rogers, Tyler pass incomplete to Bergstrom, J, QB hurry by WHITE, Donnie, QB hurry by OKONKWO, Kene." newcontext="V,2,10,V37">
+    <p_pa vh="V" qb="Rogers, Tyler" result="INC" rcv="Bergstrom, J"></p_pa>
+    <p_qbh vh="H" name="OKONKWO, Kene"></p_qbh>
+   </play>
+   <play hasball="NMSU" down="2" togo="10" spot="NMSU37" context="V,2,10,V37" playid="1,4,6" type="P" tokens="PASS:17,I,5,*"
+      text="Rogers, Tyler pass incomplete to Taylor, Tyrain." newcontext="V,3,10,V37">
+    <p_pa vh="V" qb="Rogers, Tyler" result="INC" rcv="Taylor, Tyrain"></p_pa>
+   </play>
+   <play hasball="NMSU" down="3" togo="10" spot="NMSU37" context="V,3,10,V37" playid="1,5,7" type="R" first="R" score="Y" vscore="6" hscore="0" clock="13:46" tokens="RUSH:3,H00, T:13:46"
+      text="Rose III, Larry rush for 63 yards to the NM0, 1ST DOWN NMSU, TOUCHDOWN, clock 13:46." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Rose III, Larry" gain="63"></p_ru>
+   </play>
+   <play hasball="NMSU" down="1" togo="0" spot="NM03" context="V,1,0,H03" playid="1,6,8" type="X" score="Y" vscore="7" hscore="0" tokens="PAT:K,24,G"
+      text="Davidson, P kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Davidson, P" qb="Davidson, P" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="0"></score>
+   <drivesum plays="5" yards="75" top="1:14" driveindex="1" complete="Y"></drivesum>
+   <play hasball="NMSU" down="1" togo="0" spot="NMSU35" context="V,1,0,V35" playid="1,7,9" type="K" tokens="KO:24,H00 TB:"
+      text="Davidson, P kickoff 65 yards to the NM0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Davidson, P" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,13:46" vh="H" spot="H25" clock="13:46" driveindex="2,9"></drivestart>
+   <play hasball="NM" down="1" togo="10" spot="NM25" context="H,1,10,H25" playid="2,1,10" clock="13:46" tokens="{DRIVE}:13:46"
+      text="NEW MEXICO drive start at 13:46." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NM25" context="H,1,10,H25" playid="2,2,11" type="P" tokens="PASS:13,I,24,*"
+      text="JORDAN, Lamar pass incomplete to WIGGINS, Carlos." newcontext="H,2,10,H25">
+    <p_pa vh="H" qb="JORDAN, Lamar" result="INC" rcv="WIGGINS, Carlos"></p_pa>
+   </play>
+   <play hasball="NM" down="2" togo="10" spot="NM25" context="H,2,10,H25" playid="2,3,12" type="R" tokens="RUSH:13,H30, TACK:3D"
+      text="JORDAN, Lamar rush for 5 yards to the NM30 (Ibekwe, Derek)." newcontext="H,3,5,H30">
+    <p_ru vh="H" name="JORDAN, Lamar" gain="5"></p_ru>
+    <p_tk vh="V" name="Ibekwe, Derek"></p_tk>
+   </play>
+   <play hasball="NM" down="3" togo="5" spot="NM30" context="H,3,5,H30" playid="2,4,13" type="R" first="R" score="Y" vscore="7" hscore="6" clock="12:46" tokens="RUSH:13,V00, T:12:46"
+      text="JORDAN, Lamar rush for 70 yards to the NMSU0, 1ST DOWN NM, TOUCHDOWN, clock 12:46." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="JORDAN, Lamar" gain="70"></p_ru>
+   </play>
+   <play hasball="NM" down="1" togo="0" spot="NMSU03" context="H,1,0,V03" playid="2,5,14" type="X" score="Y" vscore="7" hscore="7" tokens="PAT:K,95,G"
+      text="SANDERS, Jason kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="SANDERS, Jason" qb="SANDERS, Jason" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="7"></score>
+   <drivesum plays="3" yards="75" top="1:00" driveindex="2" complete="Y"></drivesum>
+   <play hasball="NM" down="1" togo="0" spot="NM35" context="H,1,0,H35" playid="2,6,15" type="K" tokens="KO:95,V00 TB:"
+      text="SANDERS, Jason kickoff 65 yards to the NMSU0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="SANDERS, Jason" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,12:46" vh="V" spot="V25" clock="12:46" driveindex="3,15"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU25" context="V,1,10,V25" playid="3,1,16" clock="12:46" tokens="{DRIVE}:12:46"
+      text="NEW MEXICO STATE drive start at 12:46." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU25" context="V,1,10,V25" playid="3,2,17" type="P" first="P" tokens="PASS:17,C,5,H35"
+      text="Rogers, Tyler pass complete to Taylor, Tyrain for 40 yards to the NM35, 1ST DOWN NMSU." newcontext="V,1,10,H35">
+    <p_pa vh="V" qb="Rogers, Tyler" result="COMP" rcv="Taylor, Tyrain" gain="40"></p_pa>
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NM35" context="V,1,10,H35" playid="3,3,18" type="P" tokens="PASS:17,C,9,H28 OB: TACK:12"
+      text="Rogers, Tyler pass complete to Moore, Rayvean for 7 yards to the NM28, out-of-bounds (SANTOS, Ryan)." ob="Y" newcontext="V,2,3,H28">
+    <p_pa vh="V" qb="Rogers, Tyler" result="COMP" rcv="Moore, Rayvean" gain="7"></p_pa>
+    <p_tk vh="H" name="SANTOS, Ryan"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="3" spot="NM28" context="V,2,3,H28" playid="3,4,19" type="R" tokens="RUSH:17,H26, TACK:9H"
+      text="Rogers, Tyler rush for 2 yards to the NM26 (HUGHES, Garrett)." newcontext="V,3,1,H26">
+    <p_ru vh="V" name="Rogers, Tyler" gain="2"></p_ru>
+    <p_tk vh="H" name="HUGHES, Garrett"></p_tk>
+   </play>
+   <play hasball="NMSU" down="3" togo="1" spot="NM26" context="V,3,1,H26" playid="3,5,20" type="R" first="R" tokens="RUSH:3,H25, TACK:4B,5C"
+      text="Rose III, Larry rush for 1 yard to the NM25, 1ST DOWN NMSU (BROWN, Isaiah;CROSBY, Lee)." newcontext="V,1,10,H25">
+    <p_ru vh="V" name="Rose III, Larry" gain="1"></p_ru>
+    <p_tk vh="H" name="BROWN, Isaiah" assist="Y"></p_tk>
+    <p_tk vh="H" name="CROSBY, Lee" assist="Y"></p_tk>
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NM25" context="V,1,10,H25" playid="3,6,21" type="P" tokens="PASS:17,I,4,* BRUP:3"
+      text="Rogers, Tyler pass incomplete to Corley, Cassius (JONES, Cranston)." newcontext="V,2,10,H25">
+    <p_pa vh="V" qb="Rogers, Tyler" result="INC" rcv="Corley, Cassius"></p_pa>
+    <p_bu vh="H" name="JONES, Cranston"></p_bu>
+   </play>
+   <play hasball="NMSU" down="2" togo="10" spot="NM25" context="V,2,10,H25" playid="3,7,22" type="P" tokens="PASS:17,C,1,H24 TACK:5C,12"
+      text="Rogers, Tyler pass complete to Morgan, T for 1 yard to the NM24 (CROSBY, Lee;SANTOS, Ryan)." newcontext="V,3,9,H24">
+    <p_pa vh="V" qb="Rogers, Tyler" result="COMP" rcv="Morgan, T" gain="1"></p_pa>
+    <p_tk vh="H" name="CROSBY, Lee" assist="Y"></p_tk>
+    <p_tk vh="H" name="SANTOS, Ryan" assist="Y"></p_tk>
+   </play>
+   <play hasball="NMSU" down="3" togo="9" spot="NM24" context="V,3,9,H24" playid="3,8,23" type="P" tokens="PASS:17,C,1,H17 TACK:5C"
+      text="Rogers, Tyler pass complete to Morgan, T for 7 yards to the NM17 (CROSBY, Lee)." newcontext="V,4,2,H17">
+    <p_pa vh="V" qb="Rogers, Tyler" result="COMP" rcv="Morgan, T" gain="7"></p_pa>
+    <p_tk vh="H" name="CROSBY, Lee"></p_tk>
+   </play>
+   <play hasball="NMSU" down="4" togo="2" spot="NM17" context="V,4,2,H17" playid="3,9,24" type="P" tokens="PASS:17,C,5,H17 TACK:19"
+      text="Rogers, Tyler pass complete to Taylor, Tyrain for no gain to the NM17 (MARTIN, Nias)." newcontext="H,1,10,H17">
+    <p_pa vh="V" qb="Rogers, Tyler" result="COMP" rcv="Taylor, Tyrain" gain="0"></p_pa>
+    <p_tk vh="H" name="MARTIN, Nias"></p_tk>
+   </play>
+   <drivesum plays="8" yards="58" top="3:03" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="H,H17,09:43" vh="H" spot="H17" clock="09:43" driveindex="4,24"></drivestart>
+   <play hasball="NM" down="1" togo="10" spot="NM17" context="H,1,10,H17" playid="4,1,25" clock="09:43" tokens="{DRIVE}:09:43"
+      text="NEW MEXICO drive start at 09:43." newcontext="H,1,10,H17">
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NM17" context="H,1,10,H17" playid="4,2,26" type="R" tokens="RUSH:13,H19, TACK:91,57"
+      text="JORDAN, Lamar rush for 2 yards to the NM19 (Banegas, Jacob;Brown, Noah)." newcontext="H,2,8,H19">
+    <p_ru vh="H" name="JORDAN, Lamar" gain="2"></p_ru>
+    <p_tk vh="V" name="Banegas, Jacob" assist="Y"></p_tk>
+    <p_tk vh="V" name="Brown, Noah" assist="Y"></p_tk>
+   </play>
+   <play hasball="NM" down="2" togo="8" spot="NM19" context="H,2,8,H19" playid="4,3,27" type="R" tokens="RUSH:6,H21, TACK:91"
+      text="PRESSLEY, Jhu. rush for 2 yards to the NM21 (Banegas, Jacob)." newcontext="H,3,6,H21">
+    <p_ru vh="H" name="PRESSLEY, Jhu." gain="2"></p_ru>
+    <p_tk vh="V" name="Banegas, Jacob"></p_tk>
+   </play>
+   <play hasball="NM" down="3" togo="6" spot="NM21" context="H,3,6,H21" playid="4,4,28" type="R" first="R" tokens="RUSH:13,H29, TACK:99,3D"
+      text="JORDAN, Lamar rush for 8 yards to the NM29, 1ST DOWN NM (Meredith, S;Ibekwe, Derek)." newcontext="H,1,10,H29">
+    <p_ru vh="H" name="JORDAN, Lamar" gain="8"></p_ru>
+    <p_tk vh="V" name="Meredith, S" assist="Y"></p_tk>
+    <p_tk vh="V" name="Ibekwe, Derek" assist="Y"></p_tk>
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NM29" context="H,1,10,H29" playid="4,5,29" type="R" tokens="RUSH:6,H27, OB: TACK:29"
+      text="PRESSLEY, Jhu. rush for loss of 2 yards to the NM27, out-of-bounds (Hill, Lewis)." ob="Y" newcontext="H,2,12,H27">
+    <p_ru vh="H" name="PRESSLEY, Jhu." gain="-2"></p_ru>
+    <p_tk vh="V" name="Hill, Lewis"></p_tk>
+   </play>
+   <play hasball="NM" down="2" togo="12" spot="NM27" context="H,2,12,H27" playid="4,6,30" type="P" tokens="PASS:13,I,7,*"
+      text="JORDAN, Lamar pass incomplete to GIPSON, Teriyon." newcontext="H,3,12,H27">
+    <p_pa vh="H" qb="JORDAN, Lamar" result="INC" rcv="GIPSON, Teriyon"></p_pa>
+   </play>
+   <play hasball="NM" down="3" togo="12" spot="NM27" context="H,3,12,H27" playid="4,7,31" type="P" tokens="PASS:13,I,2,*"
+      text="JORDAN, Lamar pass incomplete to GAMBLIN, Dameon." newcontext="H,4,12,H27">
+    <p_pa vh="H" qb="JORDAN, Lamar" result="INC" rcv="GAMBLIN, Dameon"></p_pa>
+   </play>
+   <play hasball="NM" down="4" togo="12" spot="NM27" context="H,4,12,H27" playid="4,8,32" type="U" tokens="PUNT:90,V04 DN:"
+      text="ROGERS, Zack punt 69 yards to the NMSU4, downed." newcontext="V,1,10,V04">
+    <p_pu vh="H" name="ROGERS, Zack" gain="69" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="10" top="2:20" driveindex="4" complete="Y"></drivesum>
+   <drivestart poss="V,V04,07:23" vh="V" spot="V04" clock="07:23" driveindex="5,32"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU04" context="V,1,10,V04" playid="5,1,33" clock="07:23" tokens="{DRIVE}:07:23"
+      text="NEW MEXICO STATE drive start at 07:23." newcontext="V,1,10,V04">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU04" context="V,1,10,V04" playid="5,2,34" type="R" tokens="RUSH:3,V01, TACK:58"
+      text="Rose III, Larry rush for loss of 3 yards to the NMSU1 (DANIELS, Mauric)." newcontext="V,2,13,V01">
+    <p_ru vh="V" name="Rose III, Larry" gain="-3"></p_ru>
+    <p_tk vh="H" name="DANIELS, Mauric"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="13" spot="NMSU01" context="V,2,13,V01" playid="5,3,35" type="R" score="Y" vscore="7" hscore="13" turnover="F" clock="06:38" tokens="RUSH:3,V00, FORCE:5C FUMB:H,V00,5C T:06:38"
+      text="Rose III, Larry rush for loss of 1 yard to the NMSU0, fumble forced by CROSBY, Lee, fumble by Rose III, Larry recovered by NM CROSBY, Lee at NMSU0, TOUCHDOWN, clock 06:38." newcontext="H,1,0,V03">
+    <p_ru vh="V" name="Rose III, Larry" gain="-1"></p_ru>
+    <p_fumb vh="V" name="Rose III, Larry" at="V00" frvh="H" frname="CROSBY, Lee"></p_fumb>
+    <p_tk vh="H" name="CROSBY, Lee" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="2" yards="-4" top="0:45" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="H,V03,06:38" vh="H" spot="V03" clock="06:38" driveindex="6,35"></drivestart>
+   <play hasball="NM" down="1" togo="0" spot="NMSU03" context="H,1,0,V03" playid="6,1,36" type="X" score="Y" vscore="7" hscore="14" tokens="PAT:K,95,G"
+      text="SANDERS, Jason kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="SANDERS, Jason" qb="SANDERS, Jason" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="14"></score>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="6" complete="Y"></drivesum>
+   <play hasball="NM" down="1" togo="0" spot="NM35" context="H,1,0,H35" playid="6,2,37" type="K" tokens="KO:95,V00 TB:"
+      text="SANDERS, Jason kickoff 65 yards to the NMSU0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="SANDERS, Jason" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,06:38" vh="V" spot="V25" clock="06:38" driveindex="7,37"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU25" context="V,1,10,V25" playid="7,1,38" clock="06:38" tokens="{DRIVE}:06:38"
+      text="NEW MEXICO STATE drive start at 06:38." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU25" context="V,1,10,V25" playid="7,2,39" type="R" tokens="RUSH:3,V34, TACK:14"
+      text="Rose III, Larry rush for 9 yards to the NMSU34 (HENRY, Daniel)." newcontext="V,2,1,V34">
+    <p_ru vh="V" name="Rose III, Larry" gain="9"></p_ru>
+    <p_tk vh="H" name="HENRY, Daniel"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="1" spot="NMSU34" context="V,2,1,V34" playid="7,3,40" type="P" tokens="PASS:17,C,2,V33 TACK:19"
+      text="Rogers, Tyler pass complete to Hogan, Gregory for loss of 1 yard to the NMSU33 (MARTIN, Nias)." newcontext="V,3,2,V33">
+    <p_pa vh="V" qb="Rogers, Tyler" result="COMP" rcv="Hogan, Gregory" gain="-1"></p_pa>
+    <p_tk vh="H" name="MARTIN, Nias"></p_tk>
+   </play>
+   <play hasball="NMSU" down="3" togo="2" spot="NMSU33" context="V,3,2,V33" playid="7,4,41" type="R" first="R" score="Y" vscore="13" hscore="14" clock="05:30" tokens="RUSH:3,H00, T:05:30"
+      text="Rose III, Larry rush for 67 yards to the NM0, 1ST DOWN NMSU, TOUCHDOWN, clock 05:30." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Rose III, Larry" gain="67"></p_ru>
+   </play>
+   <play hasball="NMSU" down="1" togo="0" spot="NM03" context="V,1,0,H03" playid="7,5,42" type="X" score="Y" vscore="14" hscore="14" tokens="PAT:K,24,G"
+      text="Davidson, P kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Davidson, P" qb="Davidson, P" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="14"></score>
+   <drivesum plays="3" yards="75" top="1:08" driveindex="7" complete="Y"></drivesum>
+   <play hasball="NMSU" down="1" togo="0" spot="NMSU35" context="V,1,0,V35" playid="7,6,43" type="K" tokens="KO:24,H00 RET:24,H20 PEN:H,HO,A,28,H10,N D:1,10 SPOT:H,H10,Y"
+      text="Davidson, P kickoff 65 yards to the NM0, WIGGINS, Carlos return 20 yards to the NM20, PENALTY NM holding (ROTHSCHILLER, J) 10 yards to the NM10, 1st and 10, NM ball on NM10." newcontext="H,1,10,H10">
+    <p_ko vh="V" name="Davidson, P" gain="65"></p_ko>
+    <p_kr vh="H" name="WIGGINS, Carlos" gain="20"></p_kr>
+    <p_pn vh="H" code="HO" type="holding" name="ROTHSCHILLER, J" result="ACCEPT" at="H20" yards="10"></p_pn>
+   </play>
+   <drivestart poss="H,H10,05:11" vh="H" spot="H10" clock="05:11" driveindex="8,43"></drivestart>
+   <play hasball="NM" down="1" togo="10" spot="NM10" context="H,1,10,H10" playid="8,1,44" clock="05:11" tokens="{DRIVE}:05:11"
+      text="NEW MEXICO drive start at 05:11." newcontext="H,1,10,H10">
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NM10" context="H,1,10,H10" playid="8,2,45" type="R" tokens="RUSH:7,H18, OB:"
+      text="GIPSON, Teriyon rush for 8 yards to the NM18, out-of-bounds." ob="Y" newcontext="H,2,2,H18">
+    <p_ru vh="H" name="GIPSON, Teriyon" gain="8"></p_ru>
+   </play>
+   <play hasball="NM" down="2" togo="2" spot="NM18" context="H,2,2,H18" playid="8,3,46" type="R" first="R" tokens="RUSH:7,H30, TACK:1C"
+      text="GIPSON, Teriyon rush for 12 yards to the NM30, 1ST DOWN NM (Owens, DeMarcus)." newcontext="H,1,10,H30">
+    <p_ru vh="H" name="GIPSON, Teriyon" gain="12"></p_ru>
+    <p_tk vh="V" name="Owens, DeMarcus"></p_tk>
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NM30" context="H,1,10,H30" playid="8,4,47" type="P" tokens="PASS:13,I,2,*"
+      text="JORDAN, Lamar pass incomplete to GAMBLIN, Dameon." newcontext="H,2,10,H30">
+    <p_pa vh="H" qb="JORDAN, Lamar" result="INC" rcv="GAMBLIN, Dameon"></p_pa>
+   </play>
+   <play hasball="NM" down="2" togo="10" spot="NM30" context="H,2,10,H30" playid="8,5,48" type="P" turnover="I" tokens="PASS:13,X,2D,H21 RET:2,H21 QBH:V,8D"
+      text="JORDAN, Lamar pass intercepted by Hanks, Terrill at the NM21, Hogan, Gregory return 0 yards to the NM21, QB hurry by Reese, Jassavia." newcontext="V,1,10,H21">
+    <p_pa vh="H" qb="JORDAN, Lamar" result="INT"></p_pa>
+    <p_ir vh="V" name="Hogan, Gregory" at="H21" gain="0"></p_ir>
+    <p_qbh vh="V" name="Reese, Jassavia"></p_qbh>
+   </play>
+   <drivesum plays="4" yards="20" top="0:49" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="V,H21,04:22" vh="V" spot="H21" clock="04:22" driveindex="9,48"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NM21" context="V,1,10,H21" playid="9,1,49" clock="04:22" tokens="{DRIVE}:04:22"
+      text="NEW MEXICO STATE drive start at 04:22." newcontext="V,1,10,H21">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NM21" context="V,1,10,H21" playid="9,2,50" type="P" tokens="PASS:17,S,TM,H23 SACK:49"
+      text="Rogers, Tyler sacked for loss of 2 yards to the NM23 (COX, Dakota)." newcontext="V,2,12,H23">
+    <p_pa vh="V" qb="Rogers, Tyler" result="SACK" gain="-2"></p_pa>
+    <p_tk vh="H" name="COX, Dakota" sack="Y"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="12" spot="NM23" context="V,2,12,H23" playid="9,3,51" type="R" tokens="RUSH:17,H16, TACK:49"
+      text="Rogers, Tyler rush for 7 yards to the NM16 (COX, Dakota)." newcontext="V,3,5,H16">
+    <p_ru vh="V" name="Rogers, Tyler" gain="7"></p_ru>
+    <p_tk vh="H" name="COX, Dakota"></p_tk>
+   </play>
+   <play hasball="NMSU" down="3" togo="5" spot="NM16" context="V,3,5,H16" playid="9,4,52" type="#" clock="03:16" tokens="TOUT:V T:03:16"
+      text="Timeout New Mexico State, clock 03:16." newcontext="V,3,5,H16">
+    <p_to vh="V" team="New Mexico State"></p_to>
+   </play>
+   <play hasball="NMSU" down="3" togo="5" spot="NM16" context="V,3,5,H16" playid="9,5,53" type="P" tokens="PASS:17,S,TM,H23 SACK:5C"
+      text="Rogers, Tyler sacked for loss of 7 yards to the NM23 (CROSBY, Lee)." newcontext="V,4,12,H23">
+    <p_pa vh="V" qb="Rogers, Tyler" result="SACK" gain="-7"></p_pa>
+    <p_tk vh="H" name="CROSBY, Lee" sack="Y"></p_tk>
+   </play>
+   <play hasball="NMSU" down="4" togo="12" spot="NM23" context="V,4,12,H23" playid="9,6,54" type="F" score="Y" vscore="17" hscore="14" clock="02:35" tokens="FGA:24,41,G T:02:35"
+      text="Davidson, P field goal attempt from 41 GOOD, clock 02:35." newcontext="V,1,0,V35">
+    <p_fg vh="V" name="Davidson, P" distance="41" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="17" H="14"></score>
+   <drivesum plays="4" yards="-2" top="1:47" driveindex="9" complete="Y"></drivesum>
+   <play hasball="NMSU" down="1" togo="0" spot="NMSU35" context="V,1,0,V35" playid="9,7,55" type="K" tokens="KO:24,H18 RET:9,H26 TACK:5"
+      text="Davidson, P kickoff 47 yards to the NM18, GREEN, Travis return 8 yards to the NM26 (Taylor, Tyrain)." newcontext="H,1,10,H26">
+    <p_ko vh="V" name="Davidson, P" gain="47"></p_ko>
+    <p_kr vh="H" name="GREEN, Travis" gain="8"></p_kr>
+    <p_tk vh="V" name="Taylor, Tyrain"></p_tk>
+   </play>
+   <drivestart poss="H,H26,02:30" vh="H" spot="H26" clock="02:30" driveindex="10,55"></drivestart>
+   <play hasball="NM" down="1" togo="10" spot="NM26" context="H,1,10,H26" playid="10,1,56" clock="02:30" tokens="{DRIVE}:02:30"
+      text="NEW MEXICO drive start at 02:30." newcontext="H,1,10,H26">
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NM26" context="H,1,10,H26" playid="10,2,57" type="R" tokens="RUSH:7,H27, TACK:29"
+      text="GIPSON, Teriyon rush for 1 yard to the NM27 (Hill, Lewis)." newcontext="H,2,9,H27">
+    <p_ru vh="H" name="GIPSON, Teriyon" gain="1"></p_ru>
+    <p_tk vh="V" name="Hill, Lewis"></p_tk>
+   </play>
+   <play hasball="NM" down="2" togo="9" spot="NM27" context="H,2,9,H27" playid="10,3,58" type="R" tokens="RUSH:6,H35, TACK:53,21"
+      text="PRESSLEY, Jhu. rush for 8 yards to the NM35 (Butler, Rodney;Wright, Jaden)." newcontext="H,3,1,H35">
+    <p_ru vh="H" name="PRESSLEY, Jhu." gain="8"></p_ru>
+    <p_tk vh="V" name="Butler, Rodney" assist="Y"></p_tk>
+    <p_tk vh="V" name="Wright, Jaden" assist="Y"></p_tk>
+   </play>
+   <play hasball="NM" down="3" togo="1" spot="NM35" context="H,3,1,H35" playid="10,4,59" type="R" first="R" tokens="RUSH:3Q,H37, TACK:57"
+      text="McQUARLEY, R. rush for 2 yards to the NM37, 1ST DOWN NM (Brown, Noah)." newcontext="H,1,10,H37">
+    <p_ru vh="H" name="McQUARLEY, R." gain="2"></p_ru>
+    <p_tk vh="V" name="Brown, Noah"></p_tk>
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NM37" context="H,1,10,H37" playid="10,5,60" type="R" first="R" tokens="RUSH:6,H48, TACK:3D"
+      text="PRESSLEY, Jhu. rush for 11 yards to the NM48, 1ST DOWN NM (Ibekwe, Derek)." newcontext="H,1,10,H48">
+    <p_ru vh="H" name="PRESSLEY, Jhu." gain="11"></p_ru>
+    <p_tk vh="V" name="Ibekwe, Derek"></p_tk>
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NM48" context="H,1,10,H48" playid="10,6,61" type="P" tokens="PASS:13,I,82,* BRUP:31"
+      text="JORDAN, Lamar pass incomplete to HART-JOHNSON, D (Herrington, D)." newcontext="H,2,10,H48">
+    <p_pa vh="H" qb="JORDAN, Lamar" result="INC" rcv="HART-JOHNSON, D"></p_pa>
+    <p_bu vh="V" name="Herrington, D"></p_bu>
+   </play>
+   <play hasball="NM" down="2" togo="10" spot="NM48" context="H,2,10,H48" playid="10,7,62" type="R" first="R" tokens="RUSH:6,V32, TACK:29"
+      text="PRESSLEY, Jhu. rush for 20 yards to the NMSU32, 1ST DOWN NM (Hill, Lewis)." newcontext="H,1,10,V32">
+    <p_ru vh="H" name="PRESSLEY, Jhu." gain="20"></p_ru>
+    <p_tk vh="V" name="Hill, Lewis"></p_tk>
+   </play>
+   <score qtr="1" V="17" H="14"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="NMSU">
+    <firstdowns no="5" rush="4" pass="1" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="3" thirdatt="5" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="07:57"></misc>
+    <rush att="12" yds="148" gain="161" loss="13" td="2" long="67"></rush>
+    <pass comp="6" att="9" int="0" yds="54" td="0" long="40" sacks="2" sackyds="9"></pass>
+    <rcv no="6" yds="54" td="0" long="40"></rcv>
+    <ko no="3" yds="177" ob="0" tb="1"></ko>
+    <fg made="1" att="1" long="41" blkd="0"></fg>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="9" tacka="6" tot_tack="15" tflua="1" tfla="0" tflyds="2" sacks="0" sackyds="0" brup="1" qbh="1" int="1" intyds="0"></defense>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring td="2" fg="1" patkick="2"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="NM">
+    <firstdowns no="6" rush="6" pass="0" penalty="0"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:03"></misc>
+    <rush att="13" yds="147" gain="149" loss="2" td="1" long="70"></rush>
+    <pass comp="0" att="6" int="1" yds="0" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <punt no="1" yds="69" long="69" blkd="0" tb="0" fc="0" plus50="1" inside20="1" avg="69.0"></punt>
+    <ko no="3" yds="195" ob="0" tb="3"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="13" tacka="4" tot_tack="17" tflua="5" tfla="0" tflyds="14" sacks="2" sackyds="9" brup="1" qbh="2" ff="1" fr="1" fryds="0"></defense>
+    <kr no="2" yds="28" td="0" long="20"></kr>
+    <fr no="0" yds="0" td="1" long="0"></fr>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="NM" down="1" togo="10" spot="NMSU32" context="H,1,10,V32" playid="10,8,63" type="#" clock="15:00" tokens="Q:2 T:15:00"
+      text="Start of 2nd quarter, clock 15:00." newcontext="H,1,10,V32">
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NMSU32" context="H,1,10,V32" playid="10,9,64" type="R" tokens="RUSH:7,V28, TACK:1D"
+      text="GIPSON, Teriyon rush for 4 yards to the NMSU28 (Nwangwa, Jacob)." newcontext="H,2,6,V28">
+    <p_ru vh="H" name="GIPSON, Teriyon" gain="4"></p_ru>
+    <p_tk vh="V" name="Nwangwa, Jacob"></p_tk>
+   </play>
+   <play hasball="NM" down="2" togo="6" spot="NMSU28" context="H,2,6,V28" playid="10,10,65" type="R" tokens="RUSH:7,V26, TACK:29,2D"
+      text="GIPSON, Teriyon rush for 2 yards to the NMSU26 (Hill, Lewis;Hanks, Terrill)." newcontext="H,3,4,V26">
+    <p_ru vh="H" name="GIPSON, Teriyon" gain="2"></p_ru>
+    <p_tk vh="V" name="Hill, Lewis" assist="Y"></p_tk>
+    <p_tk vh="V" name="Hanks, Terrill" assist="Y"></p_tk>
+   </play>
+   <play hasball="NM" down="3" togo="4" spot="NMSU26" context="H,3,4,V26" playid="10,11,66" type="R" tokens="RUSH:13,V25, TACK:1D"
+      text="JORDAN, Lamar rush for 1 yard to the NMSU25 (Nwangwa, Jacob)." newcontext="H,4,3,V25">
+    <p_ru vh="H" name="JORDAN, Lamar" gain="1"></p_ru>
+    <p_tk vh="V" name="Nwangwa, Jacob"></p_tk>
+   </play>
+   <play hasball="NM" down="4" togo="3" spot="NMSU25" context="H,4,3,V25" playid="10,12,67" type="R" first="R" tokens="RUSH:13,V19, TACK:3D"
+      text="JORDAN, Lamar rush for 6 yards to the NMSU19, 1ST DOWN NM (Ibekwe, Derek)." newcontext="H,1,10,V19">
+    <p_ru vh="H" name="JORDAN, Lamar" gain="6"></p_ru>
+    <p_tk vh="V" name="Ibekwe, Derek"></p_tk>
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NMSU19" context="H,1,10,V19" playid="10,13,68" type="R" tokens="RUSH:6,V18, TACK:2D"
+      text="PRESSLEY, Jhu. rush for 1 yard to the NMSU18 (Hanks, Terrill)." newcontext="H,2,9,V18">
+    <p_ru vh="H" name="PRESSLEY, Jhu." gain="1"></p_ru>
+    <p_tk vh="V" name="Hanks, Terrill"></p_tk>
+   </play>
+   <play hasball="NM" down="2" togo="9" spot="NMSU18" context="H,2,9,V18" playid="10,14,69" type="P" tokens="PASS:13,I,81,*"
+      text="JORDAN, Lamar pass incomplete to BUNDY, Marquis." newcontext="H,3,9,V18">
+    <p_pa vh="H" qb="JORDAN, Lamar" result="INC" rcv="BUNDY, Marquis"></p_pa>
+   </play>
+   <play hasball="NM" down="3" togo="9" spot="NMSU18" context="H,3,9,V18" playid="10,15,70" type="P" tokens="PASS:13,C,7,V12 OB: TACK:1C"
+      text="JORDAN, Lamar pass complete to GIPSON, Teriyon for 6 yards to the NMSU12, out-of-bounds (Owens, DeMarcus)." ob="Y" newcontext="H,4,3,V12">
+    <p_pa vh="H" qb="JORDAN, Lamar" result="COMP" rcv="GIPSON, Teriyon" gain="6"></p_pa>
+    <p_tk vh="V" name="Owens, DeMarcus"></p_tk>
+   </play>
+   <play hasball="NM" down="4" togo="3" spot="NMSU12" context="H,4,3,V12" playid="10,16,71" type="F" clock="11:33" tokens="FGA:95,29,M,V20,L T:11:33"
+      text="SANDERS, Jason field goal attempt from 29 MISSED - wide left, spot at NMSU20, clock 11:33." newcontext="V,1,10,V20">
+    <p_fg vh="H" name="SANDERS, Jason" distance="29" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="14" yards="62" top="5:57" driveindex="10" complete="Y"></drivesum>
+   <drivestart poss="V,V20,11:33" vh="V" spot="V20" clock="11:33" driveindex="11,71"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU20" context="V,1,10,V20" playid="11,1,72" clock="11:33" tokens="{DRIVE}:11:33"
+      text="NEW MEXICO STATE drive start at 11:33." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU20" context="V,1,10,V20" playid="11,2,73" type="P" tokens="PASS:17,I,9,*"
+      text="Rogers, Tyler pass incomplete to Moore, Rayvean." newcontext="V,2,10,V20">
+    <p_pa vh="V" qb="Rogers, Tyler" result="INC" rcv="Moore, Rayvean"></p_pa>
+   </play>
+   <play hasball="NMSU" down="2" togo="10" spot="NMSU20" context="V,2,10,V20" playid="11,3,74" type="E" tokens="PEN:V,FS,A,70,V15,N"
+      text="PENALTY NMSU false start (Cunningham, A.) 5 yards to the NMSU15." newcontext="V,2,15,V15">
+    <p_pn vh="V" code="FS" type="false start" name="Cunningham, A." result="ACCEPT" at="V20" yards="5"></p_pn>
+   </play>
+   <play hasball="NMSU" down="2" togo="15" spot="NMSU15" context="V,2,15,V15" playid="11,4,75" type="R" tokens="RUSH:3,V21, TACK:49"
+      text="Rose III, Larry rush for 6 yards to the NMSU21 (COX, Dakota)." newcontext="V,3,9,V21">
+    <p_ru vh="V" name="Rose III, Larry" gain="6"></p_ru>
+    <p_tk vh="H" name="COX, Dakota"></p_tk>
+   </play>
+   <play hasball="NMSU" down="3" togo="9" spot="NMSU21" context="V,3,9,V21" playid="11,5,76" type="P" first="P" tokens="PASS:17,C,2,V50 TACK:2C"
+      text="Rogers, Tyler pass complete to Hogan, Gregory for 29 yards to the 50 yardline, 1ST DOWN NMSU (CARSON, Kimmie)." newcontext="V,1,10,V50">
+    <p_pa vh="V" qb="Rogers, Tyler" result="COMP" rcv="Hogan, Gregory" gain="29"></p_pa>
+    <p_tk vh="H" name="CARSON, Kimmie"></p_tk>
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU50" context="V,1,10,V50" playid="11,6,77" type="P" tokens="PASS:1,S,TM,V40 SACK:22"
+      text="Morgan, T sacked for loss of 10 yards to the NMSU40 (BYRD, Markel)." newcontext="V,2,20,V40">
+    <p_pa vh="V" qb="Morgan, T" result="SACK" gain="-10"></p_pa>
+    <p_tk vh="H" name="BYRD, Markel" sack="Y"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="20" spot="NMSU40" context="V,2,20,V40" playid="11,7,78" type="P" tokens="PASS:17,C,9,V49 TACK:4B"
+      text="Rogers, Tyler pass complete to Moore, Rayvean for 9 yards to the NMSU49 (BROWN, Isaiah)." newcontext="V,3,11,V49">
+    <p_pa vh="V" qb="Rogers, Tyler" result="COMP" rcv="Moore, Rayvean" gain="9"></p_pa>
+    <p_tk vh="H" name="BROWN, Isaiah"></p_tk>
+   </play>
+   <play hasball="NMSU" down="3" togo="11" spot="NMSU49" context="V,3,11,V49" playid="11,8,79" type="P" tokens="PASS:17,S,TM,V47 SACK:49"
+      text="Rogers, Tyler sacked for loss of 2 yards to the NMSU47 (COX, Dakota)." newcontext="V,4,13,V47">
+    <p_pa vh="V" qb="Rogers, Tyler" result="SACK" gain="-2"></p_pa>
+    <p_tk vh="H" name="COX, Dakota" sack="Y"></p_tk>
+   </play>
+   <play hasball="NMSU" down="4" togo="13" spot="NMSU47" context="V,4,13,V47" playid="11,9,80" type="U" tokens="PUNT:96,H02 DN:"
+      text="Torres, Anthony punt 51 yards to the NM2, downed." newcontext="H,1,10,H02">
+    <p_pu vh="V" name="Torres, Anthony" gain="51" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="27" top="3:07" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="H,H02,08:26" vh="H" spot="H02" clock="08:26" driveindex="12,80"></drivestart>
+   <play hasball="NM" down="1" togo="10" spot="NM02" context="H,1,10,H02" playid="12,1,81" clock="08:26" tokens="{DRIVE}:08:26"
+      text="NEW MEXICO drive start at 08:26." newcontext="H,1,10,H02">
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NM02" context="H,1,10,H02" playid="12,2,82" type="R" tokens="RUSH:6,H07, TACK:3D"
+      text="PRESSLEY, Jhu. rush for 5 yards to the NM7 (Ibekwe, Derek)." newcontext="H,2,5,H07">
+    <p_ru vh="H" name="PRESSLEY, Jhu." gain="5"></p_ru>
+    <p_tk vh="V" name="Ibekwe, Derek"></p_tk>
+   </play>
+   <play hasball="NM" down="2" togo="5" spot="NM07" context="H,2,5,H07" playid="12,3,83" type="R" tokens="RUSH:6,H09, TACK:1C,2D"
+      text="PRESSLEY, Jhu. rush for 2 yards to the NM9 (Owens, DeMarcus;Hanks, Terrill)." newcontext="H,3,3,H09">
+    <p_ru vh="H" name="PRESSLEY, Jhu." gain="2"></p_ru>
+    <p_tk vh="V" name="Owens, DeMarcus" assist="Y"></p_tk>
+    <p_tk vh="V" name="Hanks, Terrill" assist="Y"></p_tk>
+   </play>
+   <play hasball="NM" down="3" togo="3" spot="NM09" context="H,3,3,H09" playid="12,4,84" type="R" first="R" tokens="RUSH:13,H24, TACK:29"
+      text="JORDAN, Lamar rush for 15 yards to the NM24, 1ST DOWN NM (Hill, Lewis)." newcontext="H,1,10,H24">
+    <p_ru vh="H" name="JORDAN, Lamar" gain="15"></p_ru>
+    <p_tk vh="V" name="Hill, Lewis"></p_tk>
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NM24" context="H,1,10,H24" playid="12,5,85" type="R" tokens="RUSH:13,H25, TACK:2D"
+      text="JORDAN, Lamar rush for 1 yard to the NM25 (Hanks, Terrill)." newcontext="H,2,9,H25">
+    <p_ru vh="H" name="JORDAN, Lamar" gain="1"></p_ru>
+    <p_tk vh="V" name="Hanks, Terrill"></p_tk>
+   </play>
+   <play hasball="NM" down="2" togo="9" spot="NM25" context="H,2,9,H25" playid="12,6,86" type="R" tokens="RUSH:13,H20, TACK:2D"
+      text="JORDAN, Lamar rush for loss of 5 yards to the NM20 (Hanks, Terrill)." newcontext="H,3,14,H20">
+    <p_ru vh="H" name="JORDAN, Lamar" gain="-5"></p_ru>
+    <p_tk vh="V" name="Hanks, Terrill"></p_tk>
+   </play>
+   <play hasball="NM" down="3" togo="14" spot="NM20" context="H,3,14,H20" playid="12,7,87" type="P" tokens="PASS:13,I,24,*"
+      text="JORDAN, Lamar pass incomplete to WIGGINS, Carlos." newcontext="H,4,14,H20">
+    <p_pa vh="H" qb="JORDAN, Lamar" result="INC" rcv="WIGGINS, Carlos"></p_pa>
+   </play>
+   <play hasball="NM" down="4" togo="14" spot="NM20" context="H,4,14,H20" playid="12,8,88" type="U" tokens="PUNT:90,V40 RET:1,V47 TACK:27"
+      text="ROGERS, Zack punt 40 yards to the NMSU40, Morgan, T return 7 yards to the NMSU47 (PARKER, Bijon)." newcontext="V,1,10,V47">
+    <p_pu vh="H" name="ROGERS, Zack" gain="40"></p_pu>
+    <p_pr vh="V" name="Morgan, T" gain="7"></p_pr>
+    <p_tk vh="H" name="PARKER, Bijon"></p_tk>
+   </play>
+   <drivesum plays="6" yards="18" top="3:13" driveindex="12" complete="Y"></drivesum>
+   <drivestart poss="V,V47,05:13" vh="V" spot="V47" clock="05:13" driveindex="13,88"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU47" context="V,1,10,V47" playid="13,1,89" clock="05:13" tokens="{DRIVE}:05:13"
+      text="NEW MEXICO STATE drive start at 05:13." newcontext="V,1,10,V47">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU47" context="V,1,10,V47" playid="13,2,90" type="R" tokens="RUSH:3,V49, TACK:28"
+      text="Rose III, Larry rush for 2 yards to the NMSU49 (ROTHSCHILLER, J)." newcontext="V,2,8,V49">
+    <p_ru vh="V" name="Rose III, Larry" gain="2"></p_ru>
+    <p_tk vh="H" name="ROTHSCHILLER, J"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="8" spot="NMSU49" context="V,2,8,V49" playid="13,3,91" type="R" first="R" score="Y" vscore="23" hscore="14" clock="04:43" tokens="RUSH:3,H00, T:04:43"
+      text="Rose III, Larry rush for 51 yards to the NM0, 1ST DOWN NMSU, TOUCHDOWN, clock 04:43." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Rose III, Larry" gain="51"></p_ru>
+   </play>
+   <play hasball="NMSU" down="1" togo="0" spot="NM03" context="V,1,0,H03" playid="13,4,92" type="X" tokens="PAT:K,24,M"
+      text="Davidson, P kick attempt failed." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Davidson, P" qb="Davidson, P" type="K" result="MISSED"></p_pat>
+   </play>
+   <score V="23" H="14"></score>
+   <drivesum plays="2" yards="53" top="0:30" driveindex="13" complete="Y"></drivesum>
+   <play hasball="NMSU" down="1" togo="0" spot="NMSU35" context="V,1,0,V35" playid="13,5,93" type="K" tokens="KO:24,H00 TB:"
+      text="Davidson, P kickoff 65 yards to the NM0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Davidson, P" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,04:43" vh="H" spot="H25" clock="04:43" driveindex="14,93"></drivestart>
+   <play hasball="NM" down="1" togo="10" spot="NM25" context="H,1,10,H25" playid="14,1,94" clock="04:43" tokens="{DRIVE}:04:43"
+      text="NEW MEXICO drive start at 04:43." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NM25" context="H,1,10,H25" playid="14,2,95" type="R" tokens="RUSH:13,H26, TACK:2D"
+      text="JORDAN, Lamar rush for 1 yard to the NM26 (Hanks, Terrill)." newcontext="H,2,9,H26">
+    <p_ru vh="H" name="JORDAN, Lamar" gain="1"></p_ru>
+    <p_tk vh="V" name="Hanks, Terrill"></p_tk>
+   </play>
+   <play hasball="NM" down="2" togo="9" spot="NM26" context="H,2,9,H26" playid="14,3,96" type="R" tokens="RUSH:6,H28, TACK:99"
+      text="PRESSLEY, Jhu. rush for 2 yards to the NM28 (Meredith, S)." newcontext="H,3,7,H28">
+    <p_ru vh="H" name="PRESSLEY, Jhu." gain="2"></p_ru>
+    <p_tk vh="V" name="Meredith, S"></p_tk>
+   </play>
+   <play hasball="NM" down="3" togo="7" spot="NM28" context="H,3,7,H28" playid="14,4,97" type="P" tokens="PASS:13,I,24,*"
+      text="JORDAN, Lamar pass incomplete to WIGGINS, Carlos." newcontext="H,4,7,H28">
+    <p_pa vh="H" qb="JORDAN, Lamar" result="INC" rcv="WIGGINS, Carlos"></p_pa>
+   </play>
+   <play hasball="NM" down="4" togo="7" spot="NM28" context="H,4,7,H28" playid="14,5,98" type="U" tokens="PUNT:90,V24 OB:"
+      text="ROGERS, Zack punt 48 yards to the NMSU24, out-of-bounds." ob="Y" newcontext="V,1,10,V24">
+    <p_pu vh="H" name="ROGERS, Zack" gain="48" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="3" top="1:25" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="V,V24,03:18" vh="V" spot="V24" clock="03:18" driveindex="15,98"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU24" context="V,1,10,V24" playid="15,1,99" clock="03:18" tokens="{DRIVE}:03:18"
+      text="NEW MEXICO STATE drive start at 03:18." newcontext="V,1,10,V24">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU24" context="V,1,10,V24" playid="15,2,100" type="R" tokens="RUSH:3,V27, TACK:58"
+      text="Rose III, Larry rush for 3 yards to the NMSU27 (DANIELS, Mauric)." newcontext="V,2,7,V27">
+    <p_ru vh="V" name="Rose III, Larry" gain="3"></p_ru>
+    <p_tk vh="H" name="DANIELS, Mauric"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="7" spot="NMSU27" context="V,2,7,V27" playid="15,3,101" type="P" tokens="PASS:17,I,6,*"
+      text="Rogers, Tyler pass incomplete to Bowen, Joshua." newcontext="V,3,7,V27">
+    <p_pa vh="V" qb="Rogers, Tyler" result="INC" rcv="Bowen, Joshua"></p_pa>
+   </play>
+   <play hasball="NMSU" down="3" togo="7" spot="NMSU27" context="V,3,7,V27" playid="15,4,102" type="P" tokens="PASS:17,S,TM,V23 SACK:14"
+      text="Rogers, Tyler sacked for loss of 4 yards to the NMSU23 (HENRY, Daniel)." newcontext="V,4,11,V23">
+    <p_pa vh="V" qb="Rogers, Tyler" result="SACK" gain="-4"></p_pa>
+    <p_tk vh="H" name="HENRY, Daniel" sack="Y"></p_tk>
+   </play>
+   <play hasball="NMSU" down="4" togo="11" spot="NMSU23" context="V,4,11,V23" playid="15,5,103" type="E" tokens="PEN:V,FS,A,1,V18,N"
+      text="PENALTY NMSU false start (Morgan, T) 5 yards to the NMSU18." newcontext="V,4,16,V18">
+    <p_pn vh="V" code="FS" type="false start" name="Morgan, T" result="ACCEPT" at="V23" yards="5"></p_pn>
+   </play>
+   <play hasball="NMSU" down="4" togo="16" spot="NMSU18" context="V,4,16,V18" playid="15,6,104" type="U" tokens="PUNT:96,H32 RET:24,H32"
+      text="Torres, Anthony punt 50 yards to the NM32, WIGGINS, Carlos return 0 yards to the NM32." newcontext="H,1,10,H32">
+    <p_pu vh="V" name="Torres, Anthony" gain="50"></p_pu>
+    <p_pr vh="H" name="WIGGINS, Carlos" gain="0"></p_pr>
+   </play>
+   <drivesum plays="3" yards="-6" top="1:25" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="H,H32,01:53" vh="H" spot="H32" clock="01:53" driveindex="16,104"></drivestart>
+   <play hasball="NM" down="1" togo="10" spot="NM32" context="H,1,10,H32" playid="16,1,105" clock="01:53" tokens="{DRIVE}:01:53"
+      text="NEW MEXICO drive start at 01:53." newcontext="H,1,10,H32">
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NM32" context="H,1,10,H32" playid="16,2,106" type="P" tokens="PASS:13,C,81,H36 TACK:29"
+      text="JORDAN, Lamar pass complete to BUNDY, Marquis for 4 yards to the NM36 (Hill, Lewis)." newcontext="H,2,6,H36">
+    <p_pa vh="H" qb="JORDAN, Lamar" result="COMP" rcv="BUNDY, Marquis" gain="4"></p_pa>
+    <p_tk vh="V" name="Hill, Lewis"></p_tk>
+   </play>
+   <play hasball="NM" down="2" togo="6" spot="NM36" context="H,2,6,H36" playid="16,3,107" type="P" first="P" tokens="PASS:13,C,2,H48 TACK:53"
+      text="JORDAN, Lamar pass complete to GAMBLIN, Dameon for 12 yards to the NM48, 1ST DOWN NM (Butler, Rodney)." newcontext="H,1,10,H48">
+    <p_pa vh="H" qb="JORDAN, Lamar" result="COMP" rcv="GAMBLIN, Dameon" gain="12"></p_pa>
+    <p_tk vh="V" name="Butler, Rodney"></p_tk>
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NM48" context="H,1,10,H48" playid="16,4,108" type="R" tokens="RUSH:13,H49, TACK:3D"
+      text="JORDAN, Lamar rush for 1 yard to the NM49 (Ibekwe, Derek)." newcontext="H,2,9,H49">
+    <p_ru vh="H" name="JORDAN, Lamar" gain="1"></p_ru>
+    <p_tk vh="V" name="Ibekwe, Derek"></p_tk>
+   </play>
+   <play hasball="NM" down="2" togo="9" spot="NM49" context="H,2,9,H49" playid="16,5,109" type="P" first="P" tokens="PASS:13,C,81,V40 TACK:99"
+      text="JORDAN, Lamar pass complete to BUNDY, Marquis for 11 yards to the NMSU40, 1ST DOWN NM (Meredith, S)." newcontext="H,1,10,V40">
+    <p_pa vh="H" qb="JORDAN, Lamar" result="COMP" rcv="BUNDY, Marquis" gain="11"></p_pa>
+    <p_tk vh="V" name="Meredith, S"></p_tk>
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NMSU40" context="H,1,10,V40" playid="16,6,110" type="#" clock="01:08" tokens="TOUT:H T:01:08"
+      text="Timeout New Mexico, clock 01:08." newcontext="H,1,10,V40">
+    <p_to vh="H" team="New Mexico"></p_to>
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NMSU40" context="H,1,10,V40" playid="16,7,111" type="P" tokens="PASS:13,I,80,*"
+      text="JORDAN, Lamar pass incomplete to WHITE, Reece." newcontext="H,2,10,V40">
+    <p_pa vh="H" qb="JORDAN, Lamar" result="INC" rcv="WHITE, Reece"></p_pa>
+   </play>
+   <play hasball="NM" down="2" togo="10" spot="NMSU40" context="H,2,10,V40" playid="16,8,112" type="P" tokens="PASS:13,I,24,*"
+      text="JORDAN, Lamar pass incomplete to WIGGINS, Carlos." newcontext="H,3,10,V40">
+    <p_pa vh="H" qb="JORDAN, Lamar" result="INC" rcv="WIGGINS, Carlos"></p_pa>
+   </play>
+   <play hasball="NM" down="3" togo="10" spot="NMSU40" context="H,3,10,V40" playid="16,9,113" type="P" tokens="PASS:13,I,82,*"
+      text="JORDAN, Lamar pass incomplete to HART-JOHNSON, D." newcontext="H,4,10,V40">
+    <p_pa vh="H" qb="JORDAN, Lamar" result="INC" rcv="HART-JOHNSON, D"></p_pa>
+   </play>
+   <play hasball="NM" down="4" togo="10" spot="NMSU40" context="H,4,10,V40" playid="16,10,114" type="U" tokens="PUNT:90,V18 DN:"
+      text="ROGERS, Zack punt 22 yards to the NMSU18, downed." newcontext="V,1,10,V18">
+    <p_pu vh="H" name="ROGERS, Zack" gain="22" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="7" yards="28" top="1:17" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="V,V18,00:36" vh="V" spot="V18" clock="00:36" driveindex="17,114"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU18" context="V,1,10,V18" playid="17,1,115" clock="00:36" tokens="{DRIVE}:00:36"
+      text="NEW MEXICO STATE drive start at 00:36." newcontext="V,1,10,V18">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU18" context="V,1,10,V18" playid="17,2,116" type="R" first="R" tokens="RUSH:17,H42, OB: TACK:22"
+      text="Rogers, Tyler rush for 40 yards to the NM42, 1ST DOWN NMSU, out-of-bounds (BYRD, Markel)." ob="Y" newcontext="V,1,10,H42">
+    <p_ru vh="V" name="Rogers, Tyler" gain="40"></p_ru>
+    <p_tk vh="H" name="BYRD, Markel"></p_tk>
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NM42" context="V,1,10,H42" playid="17,3,117" type="P" tokens="PASS:17,C,5,H38 TACK:4B"
+      text="Rogers, Tyler pass complete to Taylor, Tyrain for 4 yards to the NM38 (BROWN, Isaiah)." newcontext="V,2,6,H38">
+    <p_pa vh="V" qb="Rogers, Tyler" result="COMP" rcv="Taylor, Tyrain" gain="4"></p_pa>
+    <p_tk vh="H" name="BROWN, Isaiah"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="6" spot="NM38" context="V,2,6,H38" playid="17,4,118" type="R" first="R" tokens="RUSH:3,H14, OB: TACK:2C PEN:H,UC,A,2C,H07,1"
+      text="Rose III, Larry rush for 24 yards to the NM14, 1ST DOWN NMSU, out-of-bounds (CARSON, Kimmie), PENALTY NM unsportsmanlike conduct (CARSON, Kimmie) 7 yards to the NM7, 1ST DOWN NMSU." ob="Y" newcontext="V,1,0,H07">
+    <p_ru vh="V" name="Rose III, Larry" gain="24"></p_ru>
+    <p_tk vh="H" name="CARSON, Kimmie"></p_tk>
+    <p_pn vh="H" code="UC" type="unsportsmanlike conduct" name="CARSON, Kimmie" result="ACCEPT" at="H14" yards="7"></p_pn>
+   </play>
+   <play hasball="NMSU" down="1" togo="0" spot="NM07" context="V,1,0,H07" playid="17,5,119" tokens="D:1,7"
+      text="1st and 7." newcontext="V,1,0,H07">
+   </play>
+   <play hasball="NMSU" down="1" togo="0" spot="NM07" context="V,1,0,H07" playid="17,6,120" type="#" clock="00:10" tokens="TOUT:V T:00:10"
+      text="Timeout New Mexico State, clock 00:10." newcontext="V,1,0,H07">
+    <p_to vh="V" team="New Mexico State"></p_to>
+   </play>
+   <play hasball="NMSU" down="1" togo="0" spot="NM07" context="V,1,0,H07" playid="17,7,121" type="R" tokens="RUSH:3,H07, TACK:2L"
+      text="Rose III, Larry rush for no gain to the NM7 (LANGFORD, Ryan)." newcontext="V,2,0,H07">
+    <p_ru vh="V" name="Rose III, Larry" gain="0"></p_ru>
+    <p_tk vh="H" name="LANGFORD, Ryan"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="0" spot="NM07" context="V,2,0,H07" playid="17,8,122" type="#" clock="00:05" tokens="TOUT:V T:00:05"
+      text="Timeout New Mexico State, clock 00:05." newcontext="V,2,0,H07">
+    <p_to vh="V" team="New Mexico State"></p_to>
+   </play>
+   <play hasball="NMSU" down="2" togo="0" spot="NM07" context="V,2,0,H07" playid="17,9,123" type="F" score="Y" vscore="26" hscore="14" clock="00:01" tokens="FGA:24,25,G T:00:01"
+      text="Davidson, P field goal attempt from 25 GOOD, clock 00:01." newcontext="V,1,0,V35">
+    <p_fg vh="V" name="Davidson, P" distance="25" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="26" H="14"></score>
+   <drivesum plays="5" yards="75" top="0:35" driveindex="17" complete="Y"></drivesum>
+   <play hasball="NMSU" down="1" togo="0" spot="NMSU35" context="V,1,0,V35" playid="17,10,124" type="K" tokens="KO:24,H32 OB: SPOT:H,H32,Y"
+      text="Davidson, P kickoff 33 yards to the NM32, out-of-bounds, NM ball on NM32." ob="Y" newcontext="H,1,10,H32">
+    <p_ko vh="V" name="Davidson, P" gain="33" result="O"></p_ko>
+   </play>
+   <drivestart poss="H,H32,00:00" vh="H" spot="H32" clock="00:00" driveindex="18,124"></drivestart>
+   <play hasball="NM" down="1" togo="10" spot="NM32" context="H,1,10,H32" playid="18,1,125" clock="00:00" tokens="{DRIVE}:00:0"
+      text="NEW MEXICO drive start at 00:0." newcontext="H,1,10,H32">
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NM32" context="H,1,10,H32" playid="18,2,126" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of half, clock 00:00." newcontext="H,1,10,H32">
+   </play>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="18" complete="Y"></drivesum>
+   <score qtr="2" V="26" H="14"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="NMSU">
+    <firstdowns no="5" rush="3" pass="1" penalty="1"></firstdowns>
+    <penalties no="2" yds="10"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="05:37"></misc>
+    <rush att="10" yds="110" gain="126" loss="16" td="1" long="0"></rush>
+    <pass comp="3" att="5" int="0" yds="42" td="0" long="0" sacks="3" sackyds="16"></pass>
+    <rcv no="3" yds="42" td="0" long="0"></rcv>
+    <punt no="2" yds="101" long="51" blkd="0" tb="0" fc="0" plus50="2" inside20="1" avg="50.5"></punt>
+    <ko no="2" yds="98" ob="1" tb="1"></ko>
+    <fg made="1" att="1" long="0" blkd="0"></fg>
+    <pat kickatt="1" kickmade="0"></pat>
+    <defense tackua="15" tacka="4" tot_tack="19" tflua="1" tfla="0" tflyds="5" sacks="0" sackyds="0"></defense>
+    <pr no="1" yds="7" td="0" long="7"></pr>
+    <scoring td="1" fg="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="NM">
+    <firstdowns no="4" rush="2" pass="2" penalty="0"></firstdowns>
+    <penalties no="1" yds="7"></penalties>
+    <conversions thirdconv="2" thirdatt="7" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:23"></misc>
+    <rush att="13" yds="36" gain="41" loss="5" td="0" long="0"></rush>
+    <pass comp="4" att="10" int="0" yds="33" td="0" long="12" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="33" td="0" long="12"></rcv>
+    <punt no="3" yds="110" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="36.7"></punt>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <defense tackua="13" tacka="0" tot_tack="13" tflua="3" tfla="0" tflyds="16" sacks="3" sackyds="16"></defense>
+    <pr no="1" yds="0" td="0" long="0"></pr>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="NM" down="1" togo="10" spot="NM32" context="H,1,10,H32" playid="18,3,127" type="#" clock="15:00" tokens="Q:3 T:15:00 SPOT:V,V35,N"
+      text="Start of 3rd quarter, clock 15:00, NMSU ball on NMSU35." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU35" context="V,1,10,V35" playid="18,4,128" type="K" turnover="F" tokens="KO:24,H18 RET:24,H35 FORCE:5 FUMB:V,H34,5"
+      text="Davidson, P kickoff 47 yards to the NM18, WIGGINS, Carlos return 17 yards to the NM35, fumble forced by Taylor, Tyrain, fumble by WIGGINS, Carlos recovered by NMSU Taylor, Tyrain at NM34." newcontext="V,1,10,H34">
+    <p_ko vh="V" name="Davidson, P" gain="47"></p_ko>
+    <p_kr vh="H" name="WIGGINS, Carlos" gain="17"></p_kr>
+    <p_fumb vh="H" name="WIGGINS, Carlos" at="H34" frvh="V" frname="Taylor, Tyrain"></p_fumb>
+    <p_tk vh="V" name="Taylor, Tyrain" ff="Y"></p_tk>
+   </play>
+   <drivestart poss="V,H34,14:54" vh="V" spot="H34" clock="14:54" driveindex="20,128"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NM34" context="V,1,10,H34" playid="20,1,129" clock="14:54" tokens="{DRIVE}:14:54"
+      text="NEW MEXICO STATE drive start at 14:54." newcontext="V,1,10,H34">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NM34" context="V,1,10,H34" playid="20,2,130" type="P" tokens="PASS:17,I,11,*"
+      text="Rogers, Tyler pass incomplete to Bergstrom, J." newcontext="V,2,10,H34">
+    <p_pa vh="V" qb="Rogers, Tyler" result="INC" rcv="Bergstrom, J"></p_pa>
+   </play>
+   <play hasball="NMSU" down="2" togo="10" spot="NM34" context="V,2,10,H34" playid="20,3,131" type="P" tokens="PASS:17,C,6,H32 OB: TACK:14"
+      text="Rogers, Tyler pass complete to Bowen, Joshua for 2 yards to the NM32, out-of-bounds (HENRY, Daniel)." ob="Y" newcontext="V,3,8,H32">
+    <p_pa vh="V" qb="Rogers, Tyler" result="COMP" rcv="Bowen, Joshua" gain="2"></p_pa>
+    <p_tk vh="H" name="HENRY, Daniel"></p_tk>
+   </play>
+   <play hasball="NMSU" down="3" togo="8" spot="NM32" context="V,3,8,H32" playid="20,4,132" type="E" tokens="PEN:H,OD,A,54,H27,N"
+      text="PENALTY NM offside defense (WHITE, Donnie) 5 yards to the NM27." newcontext="V,3,3,H27">
+    <p_pn vh="H" code="OD" type="offside defense" name="WHITE, Donnie" result="ACCEPT" at="H32" yards="5"></p_pn>
+   </play>
+   <play hasball="NMSU" down="3" togo="3" spot="NM27" context="V,3,3,H27" playid="20,5,133" type="E" tokens="PEN:V,FS,A,67,H32,N"
+      text="PENALTY NMSU false start (McMeans, A) 5 yards to the NM32." newcontext="V,3,8,H32">
+    <p_pn vh="V" code="FS" type="false start" name="McMeans, A" result="ACCEPT" at="H27" yards="5"></p_pn>
+   </play>
+   <play hasball="NMSU" down="3" togo="8" spot="NM32" context="V,3,8,H32" playid="20,6,134" type="P" tokens="PASS:17,C,1,H25 TACK:5C"
+      text="Rogers, Tyler pass complete to Morgan, T for 7 yards to the NM25 (CROSBY, Lee)." newcontext="V,4,1,H25">
+    <p_pa vh="V" qb="Rogers, Tyler" result="COMP" rcv="Morgan, T" gain="7"></p_pa>
+    <p_tk vh="H" name="CROSBY, Lee"></p_tk>
+   </play>
+   <play hasball="NMSU" down="4" togo="1" spot="NM25" context="V,4,1,H25" playid="20,7,135" type="R" first="R" tokens="RUSH:3,H23, TACK:2C"
+      text="Rose III, Larry rush for 2 yards to the NM23, 1ST DOWN NMSU (CARSON, Kimmie)." newcontext="V,1,10,H23">
+    <p_ru vh="V" name="Rose III, Larry" gain="2"></p_ru>
+    <p_tk vh="H" name="CARSON, Kimmie"></p_tk>
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NM23" context="V,1,10,H23" playid="20,8,136" type="R" tokens="RUSH:22,H23, TACK:49"
+      text="Hall, Xavier rush for no gain to the NM23 (COX, Dakota)." newcontext="V,2,10,H23">
+    <p_ru vh="V" name="Hall, Xavier" gain="0"></p_ru>
+    <p_tk vh="H" name="COX, Dakota"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="10" spot="NM23" context="V,2,10,H23" playid="20,9,137" type="R" tokens="RUSH:17,H23, TACK:2C"
+      text="Rogers, Tyler rush for no gain to the NM23 (CARSON, Kimmie)." newcontext="V,3,10,H23">
+    <p_ru vh="V" name="Rogers, Tyler" gain="0"></p_ru>
+    <p_tk vh="H" name="CARSON, Kimmie"></p_tk>
+   </play>
+   <play hasball="NMSU" down="3" togo="10" spot="NM23" context="V,3,10,H23" playid="20,10,138" type="P" tokens="PASS:17,I,1,* BRUP:3"
+      text="Rogers, Tyler pass incomplete to Morgan, T (JONES, Cranston)." newcontext="V,4,10,H23">
+    <p_pa vh="V" qb="Rogers, Tyler" result="INC" rcv="Morgan, T"></p_pa>
+    <p_bu vh="H" name="JONES, Cranston"></p_bu>
+   </play>
+   <play hasball="NMSU" down="4" togo="10" spot="NM23" context="V,4,10,H23" playid="20,11,139" type="F" score="Y" vscore="29" hscore="14" clock="11:40" tokens="FGA:24,39,G T:11:40"
+      text="Davidson, P field goal attempt from 39 GOOD, clock 11:40." newcontext="V,1,0,V35">
+    <p_fg vh="V" name="Davidson, P" distance="39" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="29" H="14"></score>
+   <drivesum plays="8" yards="11" top="3:14" driveindex="20" complete="Y"></drivesum>
+   <play hasball="NMSU" down="1" togo="0" spot="NMSU35" context="V,1,0,V35" playid="20,12,140" type="K" tokens="KO:24,H26 RET:24,V40 TACK:1A"
+      text="Davidson, P kickoff 39 yards to the NM26, WIGGINS, Carlos return 34 yards to the NMSU40 (Wilcoxen, Tre)." newcontext="H,1,10,V40">
+    <p_ko vh="V" name="Davidson, P" gain="39"></p_ko>
+    <p_kr vh="H" name="WIGGINS, Carlos" gain="34"></p_kr>
+    <p_tk vh="V" name="Wilcoxen, Tre"></p_tk>
+   </play>
+   <drivestart poss="H,V40,11:33" vh="H" spot="V40" clock="11:33" driveindex="21,140"></drivestart>
+   <play hasball="NM" down="1" togo="10" spot="NMSU40" context="H,1,10,V40" playid="21,1,141" clock="11:33" tokens="{DRIVE}:11:33"
+      text="NEW MEXICO drive start at 11:33." newcontext="H,1,10,V40">
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NMSU40" context="H,1,10,V40" playid="21,2,142" type="R" tokens="RUSH:13,V42, TACK:3D"
+      text="JORDAN, Lamar rush for loss of 2 yards to the NMSU42 (Ibekwe, Derek)." newcontext="H,2,12,V42">
+    <p_ru vh="H" name="JORDAN, Lamar" gain="-2"></p_ru>
+    <p_tk vh="V" name="Ibekwe, Derek"></p_tk>
+   </play>
+   <play hasball="NM" down="2" togo="12" spot="NMSU42" context="H,2,12,V42" playid="21,3,143" type="R" tokens="RUSH:13,V43, TACK:3D"
+      text="JORDAN, Lamar rush for loss of 1 yard to the NMSU43 (Ibekwe, Derek)." newcontext="H,3,13,V43">
+    <p_ru vh="H" name="JORDAN, Lamar" gain="-1"></p_ru>
+    <p_tk vh="V" name="Ibekwe, Derek"></p_tk>
+   </play>
+   <play hasball="NM" down="3" togo="13" spot="NMSU43" context="H,3,13,V43" playid="21,4,144" type="P" tokens="PASS:13,C,82,V31 TACK:53"
+      text="JORDAN, Lamar pass complete to HART-JOHNSON, D for 12 yards to the NMSU31 (Butler, Rodney)." newcontext="H,4,1,V31">
+    <p_pa vh="H" qb="JORDAN, Lamar" result="COMP" rcv="HART-JOHNSON, D" gain="12"></p_pa>
+    <p_tk vh="V" name="Butler, Rodney"></p_tk>
+   </play>
+   <play hasball="NM" down="4" togo="1" spot="NMSU31" context="H,4,1,V31" playid="21,5,145" type="R" first="R" tokens="RUSH:3Q,V27, TACK:9D"
+      text="McQUARLEY, R. rush for 4 yards to the NMSU27, 1ST DOWN NM (Bradley, Stody)." newcontext="H,1,10,V27">
+    <p_ru vh="H" name="McQUARLEY, R." gain="4"></p_ru>
+    <p_tk vh="V" name="Bradley, Stody"></p_tk>
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NMSU27" context="H,1,10,V27" playid="21,6,146" type="R" tokens="RUSH:7,V21, TACK:91,2D"
+      text="GIPSON, Teriyon rush for 6 yards to the NMSU21 (Banegas, Jacob;Hanks, Terrill)." newcontext="H,2,4,V21">
+    <p_ru vh="H" name="GIPSON, Teriyon" gain="6"></p_ru>
+    <p_tk vh="V" name="Banegas, Jacob" assist="Y"></p_tk>
+    <p_tk vh="V" name="Hanks, Terrill" assist="Y"></p_tk>
+   </play>
+   <play hasball="NM" down="2" togo="4" spot="NMSU21" context="H,2,4,V21" playid="21,7,147" type="R" first="R" tokens="RUSH:7,V16, TACK:31"
+      text="GIPSON, Teriyon rush for 5 yards to the NMSU16, 1ST DOWN NM (Herrington, D)." newcontext="H,1,10,V16">
+    <p_ru vh="H" name="GIPSON, Teriyon" gain="5"></p_ru>
+    <p_tk vh="V" name="Herrington, D"></p_tk>
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NMSU16" context="H,1,10,V16" playid="21,8,148" type="R" tokens="RUSH:25,V11, TACK:99"
+      text="ANAYA, David rush for 5 yards to the NMSU11 (Meredith, S)." newcontext="H,2,5,V11">
+    <p_ru vh="H" name="ANAYA, David" gain="5"></p_ru>
+    <p_tk vh="V" name="Meredith, S"></p_tk>
+   </play>
+   <play hasball="NM" down="2" togo="5" spot="NMSU11" context="H,2,5,V11" playid="21,9,149" type="R" tokens="RUSH:7,V08, TACK:40"
+      text="GIPSON, Teriyon rush for 3 yards to the NMSU8 (Wagner, Robert)." newcontext="H,3,2,V08">
+    <p_ru vh="H" name="GIPSON, Teriyon" gain="3"></p_ru>
+    <p_tk vh="V" name="Wagner, Robert"></p_tk>
+   </play>
+   <play hasball="NM" down="3" togo="2" spot="NMSU08" context="H,3,2,V08" playid="21,10,150" type="R" first="R" tokens="RUSH:7,V06, FUMB:H,V06,TM OB:"
+      text="GIPSON, Teriyon rush for 2 yards to the NMSU6, fumble by GIPSON, Teriyon recovered by NM TEAM at NMSU6, 1ST DOWN NM, out-of-bounds." ob="Y" newcontext="H,1,0,V06">
+    <p_ru vh="H" name="GIPSON, Teriyon" gain="2"></p_ru>
+    <p_fumb vh="H" name="GIPSON, Teriyon" at="V06" frvh="H" frname="TEAM"></p_fumb>
+   </play>
+   <play hasball="NM" down="1" togo="0" spot="NMSU06" context="H,1,0,V06" playid="21,11,151" type="R" score="Y" vscore="29" hscore="20" clock="06:30" tokens="RUSH:3Q,V00, T:06:30"
+      text="McQUARLEY, R. rush for 6 yards to the NMSU0, TOUCHDOWN, clock 06:30." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="McQUARLEY, R." gain="6"></p_ru>
+   </play>
+   <play hasball="NM" down="1" togo="0" spot="NMSU03" context="H,1,0,V03" playid="21,12,152" type="X" score="Y" vscore="29" hscore="22" tokens="PAT:R,13,G"
+      text="JORDAN, Lamar rush attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="JORDAN, Lamar" qb="JORDAN, Lamar" type="R" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="29" H="22"></score>
+   <drivesum plays="10" yards="40" top="5:03" driveindex="21" complete="Y"></drivesum>
+   <play hasball="NM" down="1" togo="0" spot="NM35" context="H,1,0,H35" playid="21,13,153" type="K" tokens="KO:95,V00 TB:"
+      text="SANDERS, Jason kickoff 65 yards to the NMSU0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="SANDERS, Jason" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,06:30" vh="V" spot="V25" clock="06:30" driveindex="22,153"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU25" context="V,1,10,V25" playid="22,1,154" clock="06:30" tokens="{DRIVE}:06:30"
+      text="NEW MEXICO STATE drive start at 06:30." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU25" context="V,1,10,V25" playid="22,2,155" type="P" tokens="PASS:17,D,1,*"
+      text="Rogers, Tyler pass incomplete to Morgan, T, dropped pass." newcontext="V,2,10,V25">
+    <p_pa vh="V" qb="Rogers, Tyler" result="DROP" rcv="Morgan, T"></p_pa>
+   </play>
+   <play hasball="NMSU" down="2" togo="10" spot="NMSU25" context="V,2,10,V25" playid="22,3,156" type="E" tokens="PEN:V,PF,A,70,V13,N"
+      text="PENALTY NMSU personal foul (Cunningham, A.) 12 yards to the NMSU13." newcontext="V,2,22,V13">
+    <p_pn vh="V" code="PF" type="personal foul" name="Cunningham, A." result="ACCEPT" at="V25" yards="12"></p_pn>
+   </play>
+   <play hasball="NMSU" down="2" togo="22" spot="NMSU13" context="V,2,22,V13" playid="22,4,157" type="R" tokens="RUSH:3,V18, TACK:2C,14"
+      text="Rose III, Larry rush for 5 yards to the NMSU18 (CARSON, Kimmie;HENRY, Daniel)." newcontext="V,3,17,V18">
+    <p_ru vh="V" name="Rose III, Larry" gain="5"></p_ru>
+    <p_tk vh="H" name="CARSON, Kimmie" assist="Y"></p_tk>
+    <p_tk vh="H" name="HENRY, Daniel" assist="Y"></p_tk>
+   </play>
+   <play hasball="NMSU" down="3" togo="17" spot="NMSU18" context="V,3,17,V18" playid="22,5,158" type="R" tokens="RUSH:17,V18, TACK:58"
+      text="Rogers, Tyler rush for no gain to the NMSU18 (DANIELS, Mauric)." newcontext="V,4,17,V18">
+    <p_ru vh="V" name="Rogers, Tyler" gain="0"></p_ru>
+    <p_tk vh="H" name="DANIELS, Mauric"></p_tk>
+   </play>
+   <play hasball="NMSU" down="4" togo="17" spot="NMSU18" context="V,4,17,V18" playid="22,6,159" type="U" tokens="PUNT:96,V48 OB:"
+      text="Torres, Anthony punt 30 yards to the NMSU48, out-of-bounds." ob="Y" newcontext="H,1,10,V48">
+    <p_pu vh="V" name="Torres, Anthony" gain="30" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-7" top="1:55" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="H,V48,04:35" vh="H" spot="V48" clock="04:35" driveindex="23,159"></drivestart>
+   <play hasball="NM" down="1" togo="10" spot="NMSU48" context="H,1,10,V48" playid="23,1,160" clock="04:35" tokens="{DRIVE}:04:35"
+      text="NEW MEXICO drive start at 04:35." newcontext="H,1,10,V48">
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NMSU48" context="H,1,10,V48" playid="23,2,161" type="R" tokens="RUSH:7,V43, TACK:1D"
+      text="GIPSON, Teriyon rush for 5 yards to the NMSU43 (Nwangwa, Jacob)." newcontext="H,2,5,V43">
+    <p_ru vh="H" name="GIPSON, Teriyon" gain="5"></p_ru>
+    <p_tk vh="V" name="Nwangwa, Jacob"></p_tk>
+   </play>
+   <play hasball="NM" down="2" togo="5" spot="NMSU43" context="H,2,5,V43" playid="23,3,162" type="R" first="R" tokens="RUSH:7,V36, TACK:21"
+      text="GIPSON, Teriyon rush for 7 yards to the NMSU36, 1ST DOWN NM (Wright, Jaden)." newcontext="H,1,10,V36">
+    <p_ru vh="H" name="GIPSON, Teriyon" gain="7"></p_ru>
+    <p_tk vh="V" name="Wright, Jaden"></p_tk>
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NMSU36" context="H,1,10,V36" playid="23,4,163" type="R" tokens="RUSH:6,V32, TACK:53,91"
+      text="PRESSLEY, Jhu. rush for 4 yards to the NMSU32 (Butler, Rodney;Banegas, Jacob)." newcontext="H,2,6,V32">
+    <p_ru vh="H" name="PRESSLEY, Jhu." gain="4"></p_ru>
+    <p_tk vh="V" name="Butler, Rodney" assist="Y"></p_tk>
+    <p_tk vh="V" name="Banegas, Jacob" assist="Y"></p_tk>
+   </play>
+   <play hasball="NM" down="2" togo="6" spot="NMSU32" context="H,2,6,V32" playid="23,5,164" type="R" first="R" score="Y" vscore="29" hscore="28" clock="02:41" tokens="RUSH:6,V00, T:02:41"
+      text="PRESSLEY, Jhu. rush for 32 yards to the NMSU0, 1ST DOWN NM, TOUCHDOWN, clock 02:41." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="PRESSLEY, Jhu." gain="32"></p_ru>
+   </play>
+   <play hasball="NM" down="1" togo="0" spot="NMSU03" context="H,1,0,V03" playid="23,6,165" type="X" score="Y" vscore="29" hscore="29" tokens="PAT:K,95,G"
+      text="SANDERS, Jason kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="SANDERS, Jason" qb="SANDERS, Jason" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="29" H="29"></score>
+   <drivesum plays="4" yards="48" top="1:54" driveindex="23" complete="Y"></drivesum>
+   <play hasball="NM" down="1" togo="0" spot="NM35" context="H,1,0,H35" playid="23,7,166" type="K" tokens="KO:95,V00 TB:"
+      text="SANDERS, Jason kickoff 65 yards to the NMSU0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="SANDERS, Jason" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,02:41" vh="V" spot="V25" clock="02:41" driveindex="24,166"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU25" context="V,1,10,V25" playid="24,1,167" clock="02:41" tokens="{DRIVE}:02:41"
+      text="NEW MEXICO STATE drive start at 02:41." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU25" context="V,1,10,V25" playid="24,2,168" type="P" tokens="PASS:17,C,11,V28 TACK:22"
+      text="Rogers, Tyler pass complete to Bergstrom, J for 3 yards to the NMSU28 (BYRD, Markel)." newcontext="V,2,7,V28">
+    <p_pa vh="V" qb="Rogers, Tyler" result="COMP" rcv="Bergstrom, J" gain="3"></p_pa>
+    <p_tk vh="H" name="BYRD, Markel"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="7" spot="NMSU28" context="V,2,7,V28" playid="24,3,169" type="R" first="R" tokens="RUSH:3,V38, TACK:2C"
+      text="Rose III, Larry rush for 10 yards to the NMSU38, 1ST DOWN NMSU (CARSON, Kimmie)." newcontext="V,1,10,V38">
+    <p_ru vh="V" name="Rose III, Larry" gain="10"></p_ru>
+    <p_tk vh="H" name="CARSON, Kimmie"></p_tk>
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU38" context="V,1,10,V38" playid="24,4,170" type="P" tokens="PASS:17,I,1,*"
+      text="Rogers, Tyler pass incomplete to Morgan, T." newcontext="V,2,10,V38">
+    <p_pa vh="V" qb="Rogers, Tyler" result="INC" rcv="Morgan, T"></p_pa>
+   </play>
+   <play hasball="NMSU" down="2" togo="10" spot="NMSU38" context="V,2,10,V38" playid="24,5,171" type="P" tokens="PASS:17,I,2,*"
+      text="Rogers, Tyler pass incomplete to Hogan, Gregory." newcontext="V,3,10,V38">
+    <p_pa vh="V" qb="Rogers, Tyler" result="INC" rcv="Hogan, Gregory"></p_pa>
+   </play>
+   <play hasball="NMSU" down="3" togo="10" spot="NMSU38" context="V,3,10,V38" playid="24,6,172" type="P" turnover="I" tokens="PASS:17,X,22,H47 RET:22,H47"
+      text="Rogers, Tyler pass intercepted by BYRD, Markel at the NM47, BYRD, Markel return 0 yards to the NM47." newcontext="H,1,10,H47">
+    <p_pa vh="V" qb="Rogers, Tyler" result="INT"></p_pa>
+    <p_ir vh="H" name="BYRD, Markel" at="H47" gain="0"></p_ir>
+   </play>
+   <drivesum plays="5" yards="13" top="1:13" driveindex="24" complete="Y"></drivesum>
+   <drivestart poss="H,H47,01:28" vh="H" spot="H47" clock="01:28" driveindex="25,172"></drivestart>
+   <play hasball="NM" down="1" togo="10" spot="NM47" context="H,1,10,H47" playid="25,1,173" clock="01:28" tokens="{DRIVE}:01:28"
+      text="NEW MEXICO drive start at 01:28." newcontext="H,1,10,H47">
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NM47" context="H,1,10,H47" playid="25,2,174" type="R" tokens="RUSH:6,H50, TACK:69"
+      text="PRESSLEY, Jhu. rush for 3 yards to the 50 yardline (Trujillo, A)." newcontext="H,2,7,H50">
+    <p_ru vh="H" name="PRESSLEY, Jhu." gain="3"></p_ru>
+    <p_tk vh="V" name="Trujillo, A"></p_tk>
+   </play>
+   <play hasball="NM" down="2" togo="7" spot="NM50" context="H,2,7,H50" playid="25,3,175" type="R" tokens="RUSH:7,V46, TACK:3D,2D"
+      text="GIPSON, Teriyon rush for 4 yards to the NMSU46 (Ibekwe, Derek;Hanks, Terrill)." newcontext="H,3,3,V46">
+    <p_ru vh="H" name="GIPSON, Teriyon" gain="4"></p_ru>
+    <p_tk vh="V" name="Ibekwe, Derek" assist="Y"></p_tk>
+    <p_tk vh="V" name="Hanks, Terrill" assist="Y"></p_tk>
+   </play>
+   <play hasball="NM" down="3" togo="3" spot="NMSU46" context="H,3,3,V46" playid="25,4,176" type="E" first="E" tokens="PEN:V,OD,A,9D,V41,N"
+      text="PENALTY NMSU offside defense (Bradley, Stody) 5 yards to the NMSU41, 1ST DOWN NM." newcontext="H,1,10,V41">
+    <p_pn vh="V" code="OD" type="offside defense" name="Bradley, Stody" result="ACCEPT" at="V46" yards="5"></p_pn>
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NMSU41" context="H,1,10,V41" playid="25,5,177" type="R" tokens="RUSH:7,V38, TACK:3D"
+      text="GIPSON, Teriyon rush for 3 yards to the NMSU38 (Ibekwe, Derek)." newcontext="H,2,7,V38">
+    <p_ru vh="H" name="GIPSON, Teriyon" gain="3"></p_ru>
+    <p_tk vh="V" name="Ibekwe, Derek"></p_tk>
+   </play>
+   <score qtr="3" V="29" H="29"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="NMSU">
+    <firstdowns no="2" rush="2" pass="0" penalty="0"></firstdowns>
+    <penalties no="3" yds="22"></penalties>
+    <conversions thirdconv="0" thirdatt="4" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:22"></misc>
+    <rush att="6" yds="17" gain="17" loss="0" td="0" long="0"></rush>
+    <pass comp="3" att="9" int="1" yds="12" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="12" td="0" long="0"></rcv>
+    <punt no="1" yds="30" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="30.0"></punt>
+    <ko no="2" yds="86" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="0" blkd="0"></fg>
+    <defense tackua="13" tacka="6" tot_tack="19" tflua="2" tfla="0" tflyds="3" sacks="0" sackyds="0" ff="1" fr="1" fryds="0"></defense>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="NM">
+    <firstdowns no="6" rush="5" pass="0" penalty="1"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="2" lost="1"></fumbles>
+    <misc yds="0" top="08:32"></misc>
+    <rush att="16" yds="86" gain="89" loss="3" td="2" long="0"></rush>
+    <pass comp="1" att="1" int="0" yds="12" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="12" td="0" long="0"></rcv>
+    <ko no="2" yds="130" ob="0" tb="2"></ko>
+    <pat kickatt="1" kickmade="1" rushatt="1" rushmade="1"></pat>
+    <defense tackua="8" tacka="2" tot_tack="10" sacks="0" sackyds="0" brup="1" int="1" intyds="0"></defense>
+    <kr no="2" yds="50" td="0" long="14"></kr>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <fumbles no="2" lost="1"></fumbles>
+    <scoring td="2" patkick="1" patrush="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="NM" down="2" togo="7" spot="NMSU38" context="H,2,7,V38" playid="25,6,178" type="#" clock="15:00" tokens="Q:4 T:15:00"
+      text="Start of 4th quarter, clock 15:00." newcontext="H,2,7,V38">
+   </play>
+   <play hasball="NM" down="2" togo="7" spot="NMSU38" context="H,2,7,V38" playid="25,7,179" type="R" tokens="RUSH:7,V34, TACK:2D,69"
+      text="GIPSON, Teriyon rush for 4 yards to the NMSU34 (Hanks, Terrill;Trujillo, A)." newcontext="H,3,3,V34">
+    <p_ru vh="H" name="GIPSON, Teriyon" gain="4"></p_ru>
+    <p_tk vh="V" name="Hanks, Terrill" assist="Y"></p_tk>
+    <p_tk vh="V" name="Trujillo, A" assist="Y"></p_tk>
+   </play>
+   <play hasball="NM" down="3" togo="3" spot="NMSU34" context="H,3,3,V34" playid="25,8,180" type="R" first="R" tokens="RUSH:7,V30, TACK:1D,3D"
+      text="GIPSON, Teriyon rush for 4 yards to the NMSU30, 1ST DOWN NM (Nwangwa, Jacob;Ibekwe, Derek)." newcontext="H,1,10,V30">
+    <p_ru vh="H" name="GIPSON, Teriyon" gain="4"></p_ru>
+    <p_tk vh="V" name="Nwangwa, Jacob" assist="Y"></p_tk>
+    <p_tk vh="V" name="Ibekwe, Derek" assist="Y"></p_tk>
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NMSU30" context="H,1,10,V30" playid="25,9,181" type="R" tokens="RUSH:6,V26, TACK:3D"
+      text="PRESSLEY, Jhu. rush for 4 yards to the NMSU26 (Ibekwe, Derek)." newcontext="H,2,6,V26">
+    <p_ru vh="H" name="PRESSLEY, Jhu." gain="4"></p_ru>
+    <p_tk vh="V" name="Ibekwe, Derek"></p_tk>
+   </play>
+   <play hasball="NM" down="2" togo="6" spot="NMSU26" context="H,2,6,V26" playid="25,10,182" type="R" tokens="RUSH:6,V25, TACK:3D"
+      text="PRESSLEY, Jhu. rush for 1 yard to the NMSU25 (Ibekwe, Derek)." newcontext="H,3,5,V25">
+    <p_ru vh="H" name="PRESSLEY, Jhu." gain="1"></p_ru>
+    <p_tk vh="V" name="Ibekwe, Derek"></p_tk>
+   </play>
+   <play hasball="NM" down="3" togo="5" spot="NMSU25" context="H,3,5,V25" playid="25,11,183" type="R" tokens="RUSH:7,V24, TACK:69,91"
+      text="GIPSON, Teriyon rush for 1 yard to the NMSU24 (Trujillo, A;Banegas, Jacob)." newcontext="H,4,4,V24">
+    <p_ru vh="H" name="GIPSON, Teriyon" gain="1"></p_ru>
+    <p_tk vh="V" name="Trujillo, A" assist="Y"></p_tk>
+    <p_tk vh="V" name="Banegas, Jacob" assist="Y"></p_tk>
+   </play>
+   <play hasball="NM" down="4" togo="4" spot="NMSU24" context="H,4,4,V24" playid="25,12,184" type="F" clock="11:52" tokens="FGA:95,41,M,V24,R T:11:52"
+      text="SANDERS, Jason field goal attempt from 41 MISSED - wide right, spot at NMSU24, clock 11:52." newcontext="V,1,10,V24">
+    <p_fg vh="H" name="SANDERS, Jason" distance="41" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="9" yards="29" top="4:36" driveindex="25" complete="Y"></drivesum>
+   <drivestart poss="V,V24,11:52" vh="V" spot="V24" clock="11:52" driveindex="26,184"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU24" context="V,1,10,V24" playid="26,1,185" clock="11:52" tokens="{DRIVE}:11:52"
+      text="NEW MEXICO STATE drive start at 11:52." newcontext="V,1,10,V24">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU24" context="V,1,10,V24" playid="26,2,186" type="P" tokens="PASS:17,I,11,*"
+      text="Rogers, Tyler pass incomplete to Bergstrom, J." newcontext="V,2,10,V24">
+    <p_pa vh="V" qb="Rogers, Tyler" result="INC" rcv="Bergstrom, J"></p_pa>
+   </play>
+   <play hasball="NMSU" down="2" togo="10" spot="NMSU24" context="V,2,10,V24" playid="26,3,187" type="R" tokens="RUSH:17,V26, TACK:12,2L"
+      text="Rogers, Tyler rush for 2 yards to the NMSU26 (SANTOS, Ryan;LANGFORD, Ryan)." newcontext="V,3,8,V26">
+    <p_ru vh="V" name="Rogers, Tyler" gain="2"></p_ru>
+    <p_tk vh="H" name="SANTOS, Ryan" assist="Y"></p_tk>
+    <p_tk vh="H" name="LANGFORD, Ryan" assist="Y"></p_tk>
+   </play>
+   <play hasball="NMSU" down="3" togo="8" spot="NMSU26" context="V,3,8,V26" playid="26,4,188" type="R" tokens="RUSH:17,V31, OB: TACK:22"
+      text="Rogers, Tyler rush for 5 yards to the NMSU31, out-of-bounds (BYRD, Markel)." ob="Y" newcontext="V,4,3,V31">
+    <p_ru vh="V" name="Rogers, Tyler" gain="5"></p_ru>
+    <p_tk vh="H" name="BYRD, Markel"></p_tk>
+   </play>
+   <play hasball="NMSU" down="4" togo="3" spot="NMSU31" context="V,4,3,V31" playid="26,5,189" type="U" tokens="PUNT:96,H22 FC:24"
+      text="Torres, Anthony punt 47 yards to the NM22, fair catch by WIGGINS, Carlos." newcontext="H,1,10,H22">
+    <p_pu vh="V" name="Torres, Anthony" gain="47" fc="WIGGINS, Carlos"></p_pu>
+   </play>
+   <drivesum plays="3" yards="7" top="1:15" driveindex="26" complete="Y"></drivesum>
+   <drivestart poss="H,H22,10:37" vh="H" spot="H22" clock="10:37" driveindex="27,189"></drivestart>
+   <play hasball="NM" down="1" togo="10" spot="NM22" context="H,1,10,H22" playid="27,1,190" clock="10:37" tokens="{DRIVE}:10:37"
+      text="NEW MEXICO drive start at 10:37." newcontext="H,1,10,H22">
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NM22" context="H,1,10,H22" playid="27,2,191" type="R" first="R" tokens="RUSH:13,V36, TACK:29"
+      text="JORDAN, Lamar rush for 42 yards to the NMSU36, 1ST DOWN NM (Hill, Lewis)." newcontext="H,1,10,V36">
+    <p_ru vh="H" name="JORDAN, Lamar" gain="42"></p_ru>
+    <p_tk vh="V" name="Hill, Lewis"></p_tk>
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NMSU36" context="H,1,10,V36" playid="27,3,192" type="R" first="R" score="Y" vscore="29" hscore="35" clock="10:19" tokens="RUSH:7,V00, T:10:19"
+      text="GIPSON, Teriyon rush for 36 yards to the NMSU0, 1ST DOWN NM, TOUCHDOWN, clock 10:19." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="GIPSON, Teriyon" gain="36"></p_ru>
+   </play>
+   <play hasball="NM" down="1" togo="0" spot="NMSU03" context="H,1,0,V03" playid="27,4,193" type="X" score="Y" vscore="29" hscore="36" tokens="PAT:K,95,G"
+      text="SANDERS, Jason kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="SANDERS, Jason" qb="SANDERS, Jason" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="29" H="36"></score>
+   <drivesum plays="2" yards="78" top="0:18" driveindex="27" complete="Y"></drivesum>
+   <play hasball="NM" down="1" togo="0" spot="NM35" context="H,1,0,H35" playid="27,5,194" type="K" tokens="KO:95,V02 RET:2,V20 OB: TACK:23"
+      text="SANDERS, Jason kickoff 63 yards to the NMSU2, Hogan, Gregory return 18 yards to the NMSU20, out-of-bounds (ADEWON, Tayo)." ob="Y" newcontext="V,1,10,V20">
+    <p_ko vh="H" name="SANDERS, Jason" gain="63"></p_ko>
+    <p_kr vh="V" name="Hogan, Gregory" gain="18"></p_kr>
+    <p_tk vh="H" name="ADEWON, Tayo"></p_tk>
+   </play>
+   <drivestart poss="V,V20,10:15" vh="V" spot="V20" clock="10:15" driveindex="28,194"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU20" context="V,1,10,V20" playid="28,1,195" clock="10:15" tokens="{DRIVE}:10:15"
+      text="NEW MEXICO STATE drive start at 10:15." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU20" context="V,1,10,V20" playid="28,2,196" type="R" tokens="RUSH:3,V20, TACK:49,54"
+      text="Rose III, Larry rush for no gain to the NMSU20 (COX, Dakota;WHITE, Donnie)." newcontext="V,2,10,V20">
+    <p_ru vh="V" name="Rose III, Larry" gain="0"></p_ru>
+    <p_tk vh="H" name="COX, Dakota" assist="Y"></p_tk>
+    <p_tk vh="H" name="WHITE, Donnie" assist="Y"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="10" spot="NMSU20" context="V,2,10,V20" playid="28,3,197" tokens="QB:V,12"
+      text="Jeanty, Nick at QB for New Mexico State." newcontext="V,2,10,V20">
+   </play>
+   <play hasball="NMSU" down="2" togo="10" spot="NMSU20" context="V,2,10,V20" playid="28,4,198" type="R" tokens="RUSH:3,V24, TACK:5C"
+      text="Rose III, Larry rush for 4 yards to the NMSU24 (CROSBY, Lee)." newcontext="V,3,6,V24">
+    <p_ru vh="V" name="Rose III, Larry" gain="4"></p_ru>
+    <p_tk vh="H" name="CROSBY, Lee"></p_tk>
+   </play>
+   <play hasball="NMSU" down="3" togo="6" spot="NMSU24" context="V,3,6,V24" playid="28,5,199" type="P" tokens="PASS:12,I,5,* BRUP:3 QBH:H,49"
+      text="Jeanty, Nick pass incomplete to Taylor, Tyrain (JONES, Cranston), QB hurry by COX, Dakota." newcontext="V,4,6,V24">
+    <p_pa vh="V" qb="Jeanty, Nick" result="INC" rcv="Taylor, Tyrain"></p_pa>
+    <p_bu vh="H" name="JONES, Cranston"></p_bu>
+    <p_qbh vh="H" name="COX, Dakota"></p_qbh>
+   </play>
+   <play hasball="NMSU" down="4" togo="6" spot="NMSU24" context="V,4,6,V24" playid="28,6,200" type="U" tokens="PUNT:96,H16 DN:"
+      text="Torres, Anthony punt 60 yards to the NM16, downed." newcontext="H,1,10,H16">
+    <p_pu vh="V" name="Torres, Anthony" gain="60" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="4" top="0:57" driveindex="28" complete="Y"></drivesum>
+   <drivestart poss="H,H16,09:18" vh="H" spot="H16" clock="09:18" driveindex="29,200"></drivestart>
+   <play hasball="NM" down="1" togo="10" spot="NM16" context="H,1,10,H16" playid="29,1,201" clock="09:18" tokens="{DRIVE}:09:18"
+      text="NEW MEXICO drive start at 09:18." newcontext="H,1,10,H16">
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NM16" context="H,1,10,H16" playid="29,2,202" type="R" tokens="RUSH:13,H16, OB:"
+      text="JORDAN, Lamar rush for no gain to the NM16, out-of-bounds." ob="Y" newcontext="H,2,10,H16">
+    <p_ru vh="H" name="JORDAN, Lamar" gain="0"></p_ru>
+   </play>
+   <play hasball="NM" down="2" togo="10" spot="NM16" context="H,2,10,H16" playid="29,3,203" type="R" first="R" tokens="RUSH:13,H29, TACK:1D,29"
+      text="JORDAN, Lamar rush for 13 yards to the NM29, 1ST DOWN NM (Nwangwa, Jacob;Hill, Lewis)." newcontext="H,1,10,H29">
+    <p_ru vh="H" name="JORDAN, Lamar" gain="13"></p_ru>
+    <p_tk vh="V" name="Nwangwa, Jacob" assist="Y"></p_tk>
+    <p_tk vh="V" name="Hill, Lewis" assist="Y"></p_tk>
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NM29" context="H,1,10,H29" playid="29,4,204" type="R" first="R" tokens="RUSH:7,V37, TACK:1D"
+      text="GIPSON, Teriyon rush for 34 yards to the NMSU37, 1ST DOWN NM (Nwangwa, Jacob)." newcontext="H,1,10,V37">
+    <p_ru vh="H" name="GIPSON, Teriyon" gain="34"></p_ru>
+    <p_tk vh="V" name="Nwangwa, Jacob"></p_tk>
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NMSU37" context="H,1,10,V37" playid="29,5,205" type="R" tokens="RUSH:3Q,V35, TACK:57"
+      text="McQUARLEY, R. rush for 2 yards to the NMSU35 (Brown, Noah)." newcontext="H,2,8,V35">
+    <p_ru vh="H" name="McQUARLEY, R." gain="2"></p_ru>
+    <p_tk vh="V" name="Brown, Noah"></p_tk>
+   </play>
+   <play hasball="NM" down="2" togo="8" spot="NMSU35" context="H,2,8,V35" playid="29,6,206" type="R" tokens="RUSH:7,V34, TACK:1D"
+      text="GIPSON, Teriyon rush for 1 yard to the NMSU34 (Nwangwa, Jacob)." newcontext="H,3,7,V34">
+    <p_ru vh="H" name="GIPSON, Teriyon" gain="1"></p_ru>
+    <p_tk vh="V" name="Nwangwa, Jacob"></p_tk>
+   </play>
+   <play hasball="NM" down="3" togo="7" spot="NMSU34" context="H,3,7,V34" playid="29,7,207" type="R" tokens="RUSH:6,V33, OB:"
+      text="PRESSLEY, Jhu. rush for 1 yard to the NMSU33, out-of-bounds." ob="Y" newcontext="H,4,6,V33">
+    <p_ru vh="H" name="PRESSLEY, Jhu." gain="1"></p_ru>
+   </play>
+   <play hasball="NM" down="4" togo="6" spot="NMSU33" context="H,4,6,V33" playid="29,8,208" type="#" clock="06:13" tokens="TOUT:H T:06:13"
+      text="Timeout New Mexico, clock 06:13." newcontext="H,4,6,V33">
+    <p_to vh="H" team="New Mexico"></p_to>
+   </play>
+   <play hasball="NM" down="4" togo="6" spot="NMSU33" context="H,4,6,V33" playid="29,9,209" type="E" tokens="PEN:H,FS,A,TM,V38,N"
+      text="PENALTY NM false start 5 yards to the NMSU38." newcontext="H,4,11,V38">
+    <p_pn vh="H" code="FS" type="false start" result="ACCEPT" at="V33" yards="5"></p_pn>
+   </play>
+   <play hasball="NM" down="4" togo="11" spot="NMSU38" context="H,4,11,V38" playid="29,10,210" type="U" tokens="PUNT:90,V00 TB:"
+      text="ROGERS, Zack punt 38 yards to the NMSU0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="ROGERS, Zack" gain="38" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="46" top="3:16" driveindex="29" complete="Y"></drivesum>
+   <drivestart poss="V,V20,06:02" vh="V" spot="V20" clock="06:02" driveindex="30,210"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU20" context="V,1,10,V20" playid="30,1,211" clock="06:02" tokens="{DRIVE}:06:02"
+      text="NEW MEXICO STATE drive start at 06:02." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU20" context="V,1,10,V20" playid="30,2,212" type="R" first="R" tokens="RUSH:12,V36, OB:"
+      text="Jeanty, Nick rush for 16 yards to the NMSU36, 1ST DOWN NMSU, out-of-bounds." ob="Y" newcontext="V,1,10,V36">
+    <p_ru vh="V" name="Jeanty, Nick" gain="16"></p_ru>
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU36" context="V,1,10,V36" playid="30,3,213" type="R" first="R" tokens="RUSH:12,V49, OB: TACK:49"
+      text="Jeanty, Nick rush for 13 yards to the NMSU49, 1ST DOWN NMSU, out-of-bounds (COX, Dakota)." ob="Y" newcontext="V,1,10,V49">
+    <p_ru vh="V" name="Jeanty, Nick" gain="13"></p_ru>
+    <p_tk vh="H" name="COX, Dakota"></p_tk>
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU49" context="V,1,10,V49" playid="30,4,214" type="E" tokens="PEN:V,FS,A,62,V44,N"
+      text="PENALTY NMSU false start (Folasa-Lutui, I) 5 yards to the NMSU44." newcontext="V,1,15,V44">
+    <p_pn vh="V" code="FS" type="false start" name="Folasa-Lutui, I" result="ACCEPT" at="V49" yards="5"></p_pn>
+   </play>
+   <play hasball="NMSU" down="1" togo="15" spot="NMSU44" context="V,1,15,V44" playid="30,5,215" type="R" tokens="RUSH:12,V45, TACK:5C"
+      text="Jeanty, Nick rush for 1 yard to the NMSU45 (CROSBY, Lee)." newcontext="V,2,14,V45">
+    <p_ru vh="V" name="Jeanty, Nick" gain="1"></p_ru>
+    <p_tk vh="H" name="CROSBY, Lee"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="14" spot="NMSU45" context="V,2,14,V45" playid="30,6,216" type="P" tokens="PASS:12,I,2,*"
+      text="Jeanty, Nick pass incomplete to Hogan, Gregory." newcontext="V,3,14,V45">
+    <p_pa vh="V" qb="Jeanty, Nick" result="INC" rcv="Hogan, Gregory"></p_pa>
+   </play>
+   <play hasball="NMSU" down="3" togo="14" spot="NMSU45" context="V,3,14,V45" playid="30,7,217" type="R" tokens="RUSH:3,V45, TACK:2C"
+      text="Rose III, Larry rush for no gain to the NMSU45 (CARSON, Kimmie)." newcontext="V,4,14,V45">
+    <p_ru vh="V" name="Rose III, Larry" gain="0"></p_ru>
+    <p_tk vh="H" name="CARSON, Kimmie"></p_tk>
+   </play>
+   <play hasball="NMSU" down="4" togo="14" spot="NMSU45" context="V,4,14,V45" playid="30,8,218" type="P" turnover="I" tokens="PASS:12,X,3,H35 RET:3,H50"
+      text="Jeanty, Nick pass intercepted by JONES, Cranston at the NM35, JONES, Cranston return 15 yards to the 50 yardline." newcontext="H,1,10,H50">
+    <p_pa vh="V" qb="Jeanty, Nick" result="INT"></p_pa>
+    <p_ir vh="H" name="JONES, Cranston" at="H35" gain="15"></p_ir>
+   </play>
+   <drivesum plays="6" yards="25" top="2:35" driveindex="30" complete="Y"></drivesum>
+   <drivestart poss="H,H50,03:27" vh="H" spot="H50" clock="03:27" driveindex="31,218"></drivestart>
+   <play hasball="NM" down="1" togo="10" spot="NM50" context="H,1,10,H50" playid="31,1,219" clock="03:27" tokens="{DRIVE}:03:27"
+      text="NEW MEXICO drive start at 03:27." newcontext="H,1,10,H50">
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NM50" context="H,1,10,H50" playid="31,2,220" type="#" clock="03:27" tokens="TOUT:H T:03:27"
+      text="Timeout New Mexico, clock 03:27." newcontext="H,1,10,H50">
+    <p_to vh="H" team="New Mexico"></p_to>
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NM50" context="H,1,10,H50" playid="31,3,221" type="R" tokens="RUSH:6,V46, TACK:8D"
+      text="PRESSLEY, Jhu. rush for 4 yards to the NMSU46 (Reese, Jassavia)." newcontext="H,2,6,V46">
+    <p_ru vh="H" name="PRESSLEY, Jhu." gain="4"></p_ru>
+    <p_tk vh="V" name="Reese, Jassavia"></p_tk>
+   </play>
+   <play hasball="NM" down="2" togo="6" spot="NMSU46" context="H,2,6,V46" playid="31,4,222" type="#" clock="03:21" tokens="TOUT:V T:03:21"
+      text="Timeout New Mexico State, clock 03:21." newcontext="H,2,6,V46">
+    <p_to vh="V" team="New Mexico State"></p_to>
+   </play>
+   <play hasball="NM" down="2" togo="6" spot="NMSU46" context="H,2,6,V46" playid="31,5,223" type="R" tokens="RUSH:6,V45, TACK:9D"
+      text="PRESSLEY, Jhu. rush for 1 yard to the NMSU45 (Bradley, Stody)." newcontext="H,3,5,V45">
+    <p_ru vh="H" name="PRESSLEY, Jhu." gain="1"></p_ru>
+    <p_tk vh="V" name="Bradley, Stody"></p_tk>
+   </play>
+   <play hasball="NM" down="3" togo="5" spot="NMSU45" context="H,3,5,V45" playid="31,6,224" type="#" clock="03:15" tokens="TOUT:V T:03:15"
+      text="Timeout New Mexico State, clock 03:15." newcontext="H,3,5,V45">
+    <p_to vh="V" team="New Mexico State"></p_to>
+   </play>
+   <play hasball="NM" down="3" togo="5" spot="NMSU45" context="H,3,5,V45" playid="31,7,225" type="R" tokens="RUSH:6,V45, TACK:69"
+      text="PRESSLEY, Jhu. rush for no gain to the NMSU45 (Trujillo, A)." newcontext="H,4,5,V45">
+    <p_ru vh="H" name="PRESSLEY, Jhu." gain="0"></p_ru>
+    <p_tk vh="V" name="Trujillo, A"></p_tk>
+   </play>
+   <play hasball="NM" down="4" togo="5" spot="NMSU45" context="H,4,5,V45" playid="31,8,226" type="U" tokens="PUNT:90,V10 FC:1"
+      text="ROGERS, Zack punt 35 yards to the NMSU10, fair catch by Morgan, T." newcontext="V,1,10,V10">
+    <p_pu vh="H" name="ROGERS, Zack" gain="35" in20="Y" fc="Morgan, T"></p_pu>
+   </play>
+   <drivesum plays="3" yards="5" top="0:24" driveindex="31" complete="Y"></drivesum>
+   <drivestart poss="V,V10,03:03" vh="V" spot="V10" clock="03:03" driveindex="32,226"></drivestart>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU10" context="V,1,10,V10" playid="32,1,227" clock="03:03" tokens="{DRIVE}:03:03"
+      text="NEW MEXICO STATE drive start at 03:03." newcontext="V,1,10,V10">
+   </play>
+   <play hasball="NMSU" down="1" togo="10" spot="NMSU10" context="V,1,10,V10" playid="32,2,228" type="R" tokens="RUSH:3,V15, TACK:2L"
+      text="Rose III, Larry rush for 5 yards to the NMSU15 (LANGFORD, Ryan)." newcontext="V,2,5,V15">
+    <p_ru vh="V" name="Rose III, Larry" gain="5"></p_ru>
+    <p_tk vh="H" name="LANGFORD, Ryan"></p_tk>
+   </play>
+   <play hasball="NMSU" down="2" togo="5" spot="NMSU15" context="V,2,5,V15" playid="32,3,229" type="P" tokens="PASS:12,S,TM,V05 SACK:5T,2L"
+      text="Jeanty, Nick sacked for loss of 10 yards to the NMSU5 (TIMMONS, Taylor;LANGFORD, Ryan)." newcontext="V,3,15,V05">
+    <p_pa vh="V" qb="Jeanty, Nick" result="SACK" gain="-10"></p_pa>
+    <p_tk vh="H" name="TIMMONS, Taylor" sack="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="LANGFORD, Ryan" sack="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="NMSU" down="3" togo="15" spot="NMSU05" context="V,3,15,V05" playid="32,4,230" type="E" tokens="PEN:V,SI,A,TM,V03,N"
+      text="PENALTY NMSU sideline interference 2 yards to the NMSU3." newcontext="V,3,17,V03">
+    <p_pn vh="V" code="SI" type="sideline interference" result="ACCEPT" at="V05" yards="2"></p_pn>
+   </play>
+   <play hasball="NMSU" down="3" togo="17" spot="NMSU03" context="V,3,17,V03" playid="32,5,231" type="P" tokens="PASS:12,I,1,*"
+      text="Jeanty, Nick pass incomplete to Morgan, T." newcontext="V,4,17,V03">
+    <p_pa vh="V" qb="Jeanty, Nick" result="INC" rcv="Morgan, T"></p_pa>
+   </play>
+   <play hasball="NMSU" down="4" togo="17" spot="NMSU03" context="V,4,17,V03" playid="32,6,232" type="P" score="Y" vscore="29" hscore="38" clock="02:00" tokens="PASS:12,S,TM,V00 SACK:58 SAF:H,TM T:02:00"
+      text="Jeanty, Nick sacked for loss of 3 yards to the NMSU0 (DANIELS, Mauric), TEAM safety, clock 02:00." newcontext="V,1,0,V20">
+    <p_pa vh="V" qb="Jeanty, Nick" result="SACK" gain="-3"></p_pa>
+    <p_tk vh="H" name="DANIELS, Mauric" sack="Y"></p_tk>
+   </play>
+   <score V="29" H="38"></score>
+   <drivesum plays="4" yards="-10" top="1:03" driveindex="32" complete="Y"></drivesum>
+   <play hasball="NMSU" down="1" togo="0" spot="NMSU20" context="V,1,0,V20" playid="32,7,233" type="K" tokens="KO:24,H34 ONSIDE:H,TM SPOT:H,V34,Y"
+      text="Davidson, P kickoff 46 yards to the NM34, on-side kick, recovered by NM TEAM on NMSU34." newcontext="H,1,10,V34">
+    <p_ko vh="V" name="Davidson, P" gain="46" result="N"></p_ko>
+   </play>
+   <drivestart poss="H,V34,01:58" vh="H" spot="V34" clock="01:58" driveindex="33,233"></drivestart>
+   <play hasball="NM" down="1" togo="10" spot="NMSU34" context="H,1,10,V34" playid="33,1,234" clock="01:58" tokens="{DRIVE}:01:58"
+      text="NEW MEXICO drive start at 01:58." newcontext="H,1,10,V34">
+   </play>
+   <play hasball="NM" down="1" togo="10" spot="NMSU34" context="H,1,10,V34" playid="33,2,235" type="R" tokens="RUSH:TM,V41,"
+      text="TEAM rush for loss of 7 yards to the NMSU41." newcontext="H,2,17,V41">
+    <p_ru vh="H" name="TEAM" gain="-7"></p_ru>
+   </play>
+   <play hasball="NM" down="2" togo="17" spot="NMSU41" context="H,2,17,V41" playid="33,3,236" type="R" tokens="RUSH:TM,V46,"
+      text="TEAM rush for loss of 5 yards to the NMSU46." newcontext="H,3,22,V46">
+    <p_ru vh="H" name="TEAM" gain="-5"></p_ru>
+   </play>
+   <play hasball="NM" down="3" togo="22" spot="NMSU46" context="H,3,22,V46" playid="33,4,237" type="R" tokens="RUSH:TM,H50,"
+      text="TEAM rush for loss of 4 yards to the 50 yardline." newcontext="H,4,26,H50">
+    <p_ru vh="H" name="TEAM" gain="-4"></p_ru>
+   </play>
+   <play hasball="NM" down="4" togo="26" spot="NM50" context="H,4,26,H50" playid="33,5,238" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of game, clock 00:00." newcontext="H,4,26,H50">
+   </play>
+   <drivesum plays="3" yards="-16" top="1:58" driveindex="33" complete="Y"></drivesum>
+   <score final="Y" V="29" H="38"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="NMSU">
+    <firstdowns no="2" rush="2" pass="0" penalty="0"></firstdowns>
+    <penalties no="2" yds="7"></penalties>
+    <conversions thirdconv="0" thirdatt="4" fourthconv="0" fourthatt="2"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="05:54"></misc>
+    <rush att="11" yds="33" gain="46" loss="13" td="0" long="0"></rush>
+    <pass comp="0" att="5" int="1" yds="0" td="0" long="0" sacks="2" sackyds="13"></pass>
+    <punt no="2" yds="107" long="9" blkd="0" tb="0" fc="1" plus50="1" inside20="1" avg="53.5"></punt>
+    <defense tackua="9" tacka="8" tot_tack="17" sacks="0" sackyds="0"></defense>
+    <kr no="1" yds="18" td="0" long="18"></kr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="NM">
+    <firstdowns no="5" rush="5" pass="0" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="1" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:06"></misc>
+    <rush att="19" yds="132" gain="148" loss="16" td="1" long="0"></rush>
+    <punt no="2" yds="73" long="0" blkd="0" tb="1" fc="1" plus50="0" inside20="1" avg="36.5"></punt>
+    <ko no="1" yds="63" ob="0" tb="0"></ko>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="8" tacka="6" tot_tack="14" tflua="1" tfla="2" tflyds="13" sacks="2" sackyds="13" brup="1" qbh="1" saf="1" int="1" intyds="15"></defense>
+    <ir no="1" yds="15" td="0" long="15"></ir>
+    <scoring td="1" saf="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="NM" down="4" togo="26" spot="NM50" context="H,4,26,H50" qtr="4" clock="00:00" vtoh="2" htoh="2"
+       lastplay="End of game, clock 00:00."></downtogo>
+ </plays>
+ <dnp vh="V" id="NMSU">
+  <player name="Smith, Charles" checkname="SMITH,CHARLES" uni="1B" class="FR" gp="0" code="1B"></player>
+  <player name="Louthan, Alex" checkname="LOUTHAN,ALEX" uni="1S" class="FR" gp="0" code="1S"></player>
+  <player name="Henrique, Dion" checkname="HENRIQUE,DION" uni="1K" class="FR" gp="0" code="1K"></player>
+  <player name="Thomas-Davis Ka" checkname="KA,THOMAS-DAVIS" uni="1J" class="SR" gp="0" code="1J"></player>
+  <player name="Slater, Sy" checkname="SLATER,SY" uni="2S" class="FR" gp="0" code="2S"></player>
+  <player name="Houston, D" checkname="HOUSTON,D" uni="2H" class="FR" gp="0" code="2H"></player>
+  <player name="Corley, Cassius" checkname="CORLEY,CASSIUS" uni="4" class="SO" gp="0" code="4"></player>
+  <player name="Rose, Winston" checkname="ROSE,WINSTON" uni="4D" class="SR" gp="0" code="4D"></player>
+  <player name="Davis III, King" checkname="DAVIS III,KING" uni="6D" class="JR" gp="0" code="6D"></player>
+  <player name="Clark, OJ" checkname="CLARK,OJ" uni="7" class="FR" gp="0" code="7"></player>
+  <player name="Fergurson, J" checkname="FERGURSON,J" uni="7D" class="FR" gp="0" code="7D"></player>
+  <player name="Allen, Justin" checkname="ALLEN,JUSTIN" uni="13" class="SR" gp="0" code="13"></player>
+  <player name="Fitzpatrick, Ja" checkname="FITZPATRICK,JA" uni="14" class="FR" gp="0" code="14"></player>
+  <player name="Kowalski, Brett" checkname="KOWALSKI,BRETT" uni="15" class="FR" gp="0" code="15"></player>
+  <player name="Johnson, Kawe" checkname="JOHNSON,KAWE" uni="16" class="JR" gp="0" code="16"></player>
+  <player name="Locklin, Tymon" checkname="LOCKLIN,TYMON" uni="18" class="FR" gp="0" code="18"></player>
+  <player name="Selders, J" checkname="SELDERS,J" uni="20" class="SR" gp="0" code="20"></player>
+  <player name="Chatman, Iman" checkname="CHATMAN,IMAN" uni="26" class="FR" gp="0" code="26"></player>
+  <player name="Burke, King" checkname="BURKE,KING" uni="28" class="FR" gp="0" code="28"></player>
+  <player name="Ricks, Otis" checkname="RICKS,OTIS" uni="30" class="FR" gp="0" code="30"></player>
+  <player name="Demby, Malik" checkname="DEMBY,MALIK" uni="35" class="FR" gp="0" code="35"></player>
+  <player name="Jackson, Shane" checkname="JACKSON,SHANE" uni="36" class="FR" gp="0" code="36"></player>
+  <player name="Acosta, Chris" checkname="ACOSTA,CHRIS" uni="38" class="FR" gp="0" code="38"></player>
+  <player name="Nipp, Billy" checkname="NIPP,BILLY" uni="43" class="FR" gp="0" code="43"></player>
+  <player name="Nunez, Kennon" checkname="NUNEZ,KENNON" uni="46" class="FR" gp="0" code="46"></player>
+  <player name="Salopek, G" checkname="SALOPEK,G" uni="49" class="FR" gp="0" code="49"></player>
+  <player name="McGwire, Thomas" checkname="MCGWIRE,THOMAS" uni="51" class="SO" gp="0" code="51"></player>
+  <player name="Wilcots II, C" checkname="WILCOTS II,C" uni="52" class="FR" gp="0" code="52"></player>
+  <player name="Ueli-Faatoalia" checkname="UELI-FAATOALIA" uni="54" class="SO" gp="0" code="54"></player>
+  <player name="Anderson, S" checkname="ANDERSON,S" uni="55" class="FR" gp="0" code="55"></player>
+  <player name="Candelaria, D." checkname="CANDELARIA,D" uni="58" class="SO" gp="0" code="58"></player>
+  <player name="Agomuo, Brandon" checkname="AGOMUO,BRANDON" uni="59" class="SO" gp="0" code="59"></player>
+  <player name="Bello, Tony" checkname="BELLO,TONY" uni="65" class="FR" gp="0" code="65"></player>
+  <player name="Foreman, Peter" checkname="FOREMAN,PETER" uni="72" class="JR" gp="0" code="72"></player>
+  <player name="Higgins, Keanu" checkname="HIGGINS,KEANU" uni="73" class="SO" gp="0" code="73"></player>
+  <player name="Smith, Jaymin" checkname="SMITH,JAYMIN" uni="74" class="SO" gp="0" code="74"></player>
+  <player name="Fierro, Raymond" checkname="FIERRO,RAYMOND" uni="76" class="FR" gp="0" code="76"></player>
+  <player name="Trujillo, Brian" checkname="TRUJILLO,BRIAN" uni="78" class="FR" gp="0" code="78"></player>
+  <player name="Muse, Anthony" checkname="MUSE,ANTHONY" uni="80" class="FR" gp="0" code="80"></player>
+  <player name="Absaumoh, I." checkname="ABSAUMOH,I" uni="83" class="SR" gp="0" code="83"></player>
+  <player name="Johns, Montrice" checkname="JOHNS,MONTRICE" uni="85" class="FR" gp="0" code="85"></player>
+  <player name="Posey, Troy" checkname="POSEY,TROY" uni="86" class="SO" gp="0" code="86"></player>
+  <player name="Lottie, Izaiah" checkname="LOTTIE,IZAIAH" uni="87" class="FR" gp="0" code="87"></player>
+  <player name="Busby, K." checkname="BUSBY,K" uni="90" class="SO" gp="0" code="90"></player>
+  <player name="Nash, Garron" checkname="NASH,GARRON" uni="95" class="FR" gp="0" code="95"></player>
+  <player name="Renteria, H" checkname="RENTERIA,H" uni="97" class="FR" gp="0" code="97"></player>
+ </dnp>
+ <dnp vh="H" id="NM">
+  <player name="QUARELLS, Matt" checkname="QUARELLS,MATT" uni="1Q" class="FR" gp="0" code="1Q"></player>
+  <player name="KIMBRO, Caleb" checkname="KIMBRO,CALEB" uni="1K" class="SO" gp="0" code="1K"></player>
+  <player name="MARTINEZ, Derek" checkname="MARTINEZ,DEREK" uni="1M" class="FR" gp="0" code="1M"></player>
+  <player name="MACKEY, Marquez" checkname="MACKEY,MARQUEZ" uni="2M" class="JR" gp="0" code="2M"></player>
+  <player name="VIERIA, Thomas" checkname="VIERIA,THOMAS" uni="2V" class="FR" gp="0" code="2V"></player>
+  <player name="McNEELY, James" checkname="MCNEELY,JAMES" uni="3M" class="FR" gp="0" code="3M"></player>
+  <player name="JORDAN, Romell" checkname="JORDAN,ROMELL" uni="4" class="SO" gp="0" code="4"></player>
+  <player name="HERSMAN, Elliot" checkname="HERSMAN,ELLIOT" uni="5H" class="FR" gp="0" code="5H"></player>
+  <player name="LEWIS, Chris" checkname="LEWIS,CHRIS" uni="5L" class="JR" gp="0" code="5L"></player>
+  <player name="CASTELLANOS, I." checkname="CASTELLANOS,I" uni="7C" class="FR" gp="0" code="7C"></player>
+  <player name="MANLY, Blair" checkname="MANLY,BLAIR" uni="7M" class="FR" gp="0" code="7M"></player>
+  <player name="GAUTSCHE, Cole" checkname="GAUTSCHE,COLE" uni="8G" class="SR" gp="0" code="8G"></player>
+  <player name="BENNETT, Ricky" checkname="BENNETT,RICKY" uni="8" class="SO" gp="0" code="8"></player>
+  <player name="DRENNAN, Q'" checkname="DRENNAN,Q'" uni="9D" class="SR" gp="0" code="9D"></player>
+  <player name="APODOCA, Austin" checkname="APODOCA,AUSTIN" uni="10" class="JR" gp="0" code="10"></player>
+  <player name="GIRGLE, Jacob" checkname="GIRGLE,JACOB" uni="16" class="JR" gp="0" code="16"></player>
+  <player name="LAWSON, JuJuan" checkname="LAWSON,JUJUAN" uni="17" class="FR" gp="0" code="17"></player>
+  <player name="LOPEZ, Marcus" checkname="LOPEZ,MARCUS" uni="18" class="SO" gp="0" code="18"></player>
+  <player name="DONALDSON, K." checkname="DONALDSON,K" uni="29" class="JR" gp="0" code="29"></player>
+  <player name="CARTER, Wendell" checkname="CARTER,WENDELL" uni="30" class="SR" gp="0" code="30"></player>
+  <player name="MAXWELL, K." checkname="MAXWELL,K" uni="35" class="JR" gp="0" code="35"></player>
+  <player name="SALAS, Derek" checkname="SALAS,DEREK" uni="38" class="FR" gp="0" code="38"></player>
+  <player name="GALVAN, Steven" checkname="GALVAN,STEVEN" uni="41" class="FR" gp="0" code="41"></player>
+  <player name="OCASIO, Austin" checkname="OCASIO,AUSTIN" uni="47" class="JR" gp="0" code="47"></player>
+  <player name="MABANY, Sam" checkname="MABANY,SAM" uni="52" class="SO" gp="0" code="52"></player>
+  <player name="McVANEY, Micah" checkname="MCVANEY,MICAH" uni="56" class="FR" gp="0" code="56"></player>
+  <player name="POWELL, Everett" checkname="POWELL,EVERETT" uni="57" class="JR" gp="0" code="57"></player>
+  <player name="ALLEN, Darian" checkname="ALLEN,DARIAN" uni="61" class="JR" gp="0" code="61"></player>
+  <player name="ADCOCK, Garrett" checkname="ADCOCK,GARRETT" uni="62" class="JR" gp="0" code="62"></player>
+  <player name="LAMM, Jack" checkname="LAMM,JACK" uni="64" class="JR" gp="0" code="64"></player>
+  <player name="ZILTZ, Jack" checkname="ZILTZ,JACK" uni="65" class="JR" gp="0" code="65"></player>
+  <player name="FONUA, Tevita" checkname="FONUA,TEVITA" uni="66" class="JR" gp="0" code="66"></player>
+  <player name="AQUA, Andrew" checkname="AQUA,ANDREW" uni="67" class="JR" gp="0" code="67"></player>
+  <player name="HOTT, Beau" checkname="HOTT,BEAU" uni="69" class="FR" gp="0" code="69"></player>
+  <player name="TORRES, Luis" checkname="TORRES,LUIS" uni="70" class="FR" gp="0" code="70"></player>
+  <player name="GRAMMEL, Cha." checkname="GRAMMEL,CHA" uni="77" class="FR" gp="0" code="77"></player>
+  <player name="WILLCOX, Jacob" checkname="WILLCOX,JACOB" uni="83" class="FR" gp="0" code="83"></player>
+  <player name="BEILMAN, Erik" checkname="BEILMAN,ERIK" uni="84" class="FR" gp="0" code="84"></player>
+  <player name="GEORGES, David" checkname="GEORGES,DAVID" uni="86" class="SR" gp="0" code="86"></player>
+  <player name="SOMOYE, Anu" checkname="SOMOYE,ANU" uni="87" class="FR" gp="0" code="87"></player>
+  <player name="CHMURA, Dyson" checkname="CHMURA,DYSON" uni="89" class="FR" gp="0" code="89"></player>
+  <player name="GENTRY, Sam" checkname="GENTRY,SAM" uni="94" class="JR" gp="0" code="94"></player>
+  <player name="WILLIAMS, J." checkname="WILLIAMS,J" uni="96" class="JR" gp="0" code="96"></player>
+ </dnp>
+ <longplays thresh="70">
+  <longplay vh="H" id="NM" yds="70" play="RUSH" players="JORDAN, Lamar" td="Y"></longplay>
+ </longplays>
+</fbgame>

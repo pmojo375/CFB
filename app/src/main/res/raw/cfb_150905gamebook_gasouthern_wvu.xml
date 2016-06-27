@@ -1,0 +1,1596 @@
+<fbgame source="Tas Football" version="4.16.07" generated="9/6/2015">
+ <venue gameid="WVU-GSU" visid="GS" homeid="WVU" visname="Georgia Southern" homename="West Virginia"
+      date="9/5/2015" location="Morgantown, W.Va." stadium="Milan Puskar Stadium"
+      start="7:36 pm" end="10:48 pm" nitegame="Y"
+      duration="3:12" attend="55182" temp="77" wind="NNE 5mph" weather="Partly Cloudy">
+  <officials ref="John McDaid" ump="Tom Quick" line="Gary Jayroe" lj="David Oliver" bj="Clay Brownlee" fj="Phil. Davenport" sj="Chris Conley" cj="Brian Davis" alt="Brian Davis"></officials>
+  <rules qtrs="4" mins="15" downs="4" yds="10" kospot="35" tbspot="20" kotbspot="25" patspot="3" safspot="20" td="6" fg="3" pat="1" patx="2" saf="2" defpat="2" rouge="1" field="100" toh="3" sackrush="Y" fgaplay="Y" netpunttb="Y"></rules>
+ </venue>
+ <team vh="V" code="253" id="GS" name="Georgia Southern" record="0-1" abb="G">
+  <linescore prds="4" line="0,0,0,0" score="0">
+   <lineprd prd="1" score="0"></lineprd>
+   <lineprd prd="2" score="0"></lineprd>
+   <lineprd prd="3" score="0"></lineprd>
+   <lineprd prd="4" score="0"></lineprd>
+  </linescore>
+  <totals totoff_plays="70" totoff_yards="224" totoff_avg="3.2">
+   <firstdowns no="14" rush="11" pass="2" penalty="1"></firstdowns>
+   <penalties no="1" yds="15"></penalties>
+   <conversions thirdconv="5" thirdatt="16" fourthconv="0" fourthatt="4"></conversions>
+   <fumbles no="2" lost="1"></fumbles>
+   <misc yds="0" top="34:07" ona="0" onm="0" ptsto="0"></misc>
+   <redzone att="0" scores="0" points="0" tdrush="0" tdpass="0" fgmade="0" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="57" yds="195" gain="224" loss="29" td="0" long="22"></rush>
+   <pass comp="2" att="13" int="4" yds="29" td="0" long="17" sacks="1" sackyds="4"></pass>
+   <rcv no="2" yds="29" td="0" long="17"></rcv>
+   <punt no="5" yds="232" long="55" blkd="0" tb="1" fc="0" plus50="1" inside20="1" avg="46.4"></punt>
+   <ko no="1" yds="65" ob="0" tb="1"></ko>
+   <defense tackua="42" tacka="16" tot_tack="58" tflua="2" tfla="4" tflyds="27" sacks="2" sackyds="24" brup="1" ff="1"></defense>
+   <kr no="5" yds="96" td="0" long="27"></kr>
+  </totals>
+  <player name="F. Upshaw" shortname="F. Upshaw" checkname="UPSHAW,F" uni="1U" class="JR" gp="1" gs="1" opos="QB" code="1U">
+   <rush att="16" yds="64" gain="83" loss="19" td="0" long="22"></rush>
+   <pass comp="2" att="13" int="4" yds="29" td="0" long="17" sacks="1" sackyds="4"></pass>
+   <fumbles no="2" lost="1"></fumbles>
+  </player>
+  <player name="L. Ramsby" shortname="L. Ramsby" checkname="RAMSBY,L" uni="1" class="SO" gp="1" code="1">
+   <rush att="10" yds="28" gain="28" loss="0" td="0" long="6"></rush>
+  </player>
+  <player name="C. Williams" shortname="C. Williams" checkname="WILLIAMS,C" uni="1W" class="SR" gp="1" gs="1" dpos="CB" code="1W">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="C. Matthew" shortname="C. Matthew" checkname="MATTHEW,C" uni="1M" class="FR" gp="1" code="1M"></player>
+  <player name="S. Williams" shortname="S. Williams" checkname="WILLIAMS,S" uni="2" class="SR" gp="1" code="2">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="T. Banks" shortname="T. Banks" checkname="BANKS,T" uni="2B" class="FR" gp="1" code="2B">
+   <rush att="2" yds="5" gain="5" loss="0" td="0" long="3"></rush>
+  </player>
+  <player name="W. Fields" shortname="W. Fields" checkname="FIELDS,W" uni="2F" class="FR" gp="1" code="2F">
+   <rush att="9" yds="17" gain="22" loss="5" td="0" long="6"></rush>
+  </player>
+  <player name="C. Rediger" shortname="C. Rediger" checkname="REDIGER,C" uni="4R" class="SR" gp="1" code="4R"></player>
+  <player name="P. Flowe" shortname="P. Flowe" checkname="FLOWE,P" uni="4F" class="JR" gp="1" code="4F"></player>
+  <player name="A. Hanks" shortname="A. Hanks" checkname="HANKS,A" uni="4H" class="SR" gp="1" code="4H">
+   <ko no="1" yds="65" ob="0" tb="1"></ko>
+  </player>
+  <player name="R. Byrd" shortname="R. Byrd" checkname="BYRD,R" uni="5B" class="SR" gp="1" gs="1" opos="RG" code="5B"></player>
+  <player name="D. Jones" shortname="D. Jones" checkname="JONES,D" uni="5" class="JR" gp="1" gs="1" dpos="NB" code="5">
+   <defense tackua="5" tacka="2" tot_tack="7"></defense>
+  </player>
+  <player name="B. Dawson" shortname="B. Dawson" checkname="DAWSON,B" uni="5D" class="JR" gp="1" gs="1" dpos="DE" code="5D">
+   <defense tackua="1" tacka="1" tot_tack="2" tflua="1" tfla="1" tflyds="21" sackua="1" sacka="1" sackyds="21"></defense>
+  </player>
+  <player name="D. White" shortname="D. White" checkname="WHITE,D" uni="6" class="SR" gp="1" gs="1" dpos="CB" code="6">
+   <defense tackua="2" tacka="0" tot_tack="2" brup="1"></defense>
+  </player>
+  <player name="M. Dobson" shortname="M. Dobson" checkname="DOBSON,M" uni="7" class="SR" gp="1" gs="1" dpos="FS" code="7">
+   <defense tackua="6" tacka="2" tot_tack="8"></defense>
+  </player>
+  <player name="J. Ward" shortname="J. Ward" checkname="WARD,J" uni="9W" class="SR" gp="1" gs="1" opos="TE" code="9W"></player>
+  <player name="J. GreenStewart" shortname="J. GreenStewart" checkname="GREENSTEWART,J" uni="9G" class="FR" gp="1" code="9G">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="M. Crockett" shortname="M. Crockett" checkname="CROCKETT,M" uni="9C" class="JR" gp="1" code="9C">
+   <kr no="3" yds="44" td="0" long="19"></kr>
+  </player>
+  <player name="V. Harley" shortname="V. Harley" checkname="HARLEY,V" uni="10" class="JR" gp="1" code="10">
+   <rush att="2" yds="4" gain="6" loss="2" td="0" long="6"></rush>
+  </player>
+  <player name="B. Johnson" shortname="B. Johnson" checkname="JOHNSON,B" uni="12" class="JR" gp="1" gs="1" opos="WR" code="12">
+   <rcv no="1" yds="12" td="0" long="12"></rcv>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="T. Hicklin" shortname="T. Hicklin" checkname="HICKLIN,T" uni="14" class="SR" gp="1" code="14">
+   <defense tackua="2" tacka="1" tot_tack="3" tflua="0" tfla="1" tflyds="1"></defense>
+  </player>
+  <player name="A. Glover" shortname="A. Glover" checkname="GLOVER,A" uni="16" class="SR" gp="1" gs="1" dpos="SS" code="16">
+   <defense tackua="3" tacka="0" tot_tack="3"></defense>
+  </player>
+  <player name="M. Henry" shortname="M. Henry" checkname="HENRY,M" uni="17" class="FR" gp="1" code="17"></player>
+  <player name="J. Moon" shortname="J. Moon" checkname="MOON,J" uni="22" class="FR" gp="1" code="22"></player>
+  <player name="D. Keaton" shortname="D. Keaton" checkname="KEATON,D" uni="23" class="SR" gp="1" gs="1" opos="WR" code="23">
+   <rcv no="1" yds="17" td="0" long="17"></rcv>
+   <kr no="2" yds="52" td="0" long="27"></kr>
+  </player>
+  <player name="R. Jones" shortname="R. Jones" checkname="JONES,R" uni="24" class="" gp="1" code="24"></player>
+  <player name="R. Brice" shortname="R. Brice" checkname="BRICE,R" uni="25" class="JR" gp="1" code="25">
+   <defense tackua="3" tacka="0" tot_tack="3"></defense>
+  </player>
+  <player name="D. Gallon" shortname="D. Gallon" checkname="GALLON,D" uni="27" class="JR" gp="1" gs="1" dpos="LB" code="27">
+   <defense tackua="4" tacka="4" tot_tack="8" tflua="0" tfla="1" tflyds="3" sackua="0" sacka="1" sackyds="3"></defense>
+  </player>
+  <player name="R. Longoria" shortname="R. Longoria" checkname="LONGORIA,R" uni="31" class="SR" gp="1" gs="1" opos="WR" code="31"></player>
+  <player name="W. Bussey" shortname="W. Bussey" checkname="BUSSEY,W" uni="32" class="JR" gp="1" code="32">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="J. Dean" shortname="J. Dean" checkname="DEAN,J" uni="33" class="JR" gp="1" code="33"></player>
+  <player name="C. DeLaRosa" shortname="C. DeLaRosa" checkname="DELAROSA,C" uni="34" class="SO" gp="1" code="34">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="M. Breida" shortname="M. Breida" checkname="BREIDA,M" uni="36" class="JR" gp="1" gs="1" opos="RB" code="36">
+   <rush att="17" yds="70" gain="73" loss="3" td="0" long="14"></rush>
+  </player>
+  <player name="A. Williams" shortname="A. Williams" checkname="WILLIAMS,A" uni="37" class="SR" gp="1" gs="1" dpos="LB" code="37">
+   <defense tackua="4" tacka="4" tot_tack="8" tflua="1" tfla="0" tflyds="1"></defense>
+  </player>
+  <player name="R. Sam" shortname="R. Sam" checkname="SAM,R" uni="39" class="JR" gp="1" code="39"></player>
+  <player name="R. George" shortname="R. George" checkname="GEORGE,R" uni="40" class="SO" gp="1" code="40"></player>
+  <player name="N. Govan" shortname="N. Govan" checkname="GOVAN,N" uni="42" class="JR" gp="1" code="42">
+   <defense tackua="1" tacka="0" tot_tack="1" ff="1"></defense>
+  </player>
+  <player name="C. Thornton" shortname="C. Thornton" checkname="THORNTON,C" uni="43" class="SO" gp="1" code="43">
+   <rush att="1" yds="7" gain="7" loss="0" td="0" long="7"></rush>
+  </player>
+  <player name="R. Nowicki" shortname="R. Nowicki" checkname="NOWICKI,R" uni="49" class="SR" gp="1" code="49">
+   <punt no="1" yds="49" long="49" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="49.0"></punt>
+  </player>
+  <player name="J. Johnson" shortname="J. Johnson" checkname="JOHNSON,J" uni="51" class="JR" gp="1" code="51">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="R. Alexander" shortname="R. Alexander" checkname="ALEXANDER,R" uni="52" class="SO" gp="1" code="52"></player>
+  <player name="L. Richardson" shortname="L. Richardson" checkname="RICHARDSON,L" uni="54" class="SR" gp="1" gs="1" dpos="DE" code="54"></player>
+  <player name="M. Flynn" shortname="M. Flynn" checkname="FLYNN,M" uni="55" class="SO" gp="1" code="55">
+   <punt no="4" yds="183" long="55" blkd="0" tb="1" fc="0" plus50="1" inside20="0" avg="45.8"></punt>
+  </player>
+  <player name="A. Kwon" shortname="A. Kwon" checkname="KWON,A" uni="60" class="JR" gp="1" gs="1" opos="C" code="60"></player>
+  <player name="R. Northrup" shortname="R. Northrup" checkname="NORTHRUP,R" uni="62" class="FR" gp="1" code="62"></player>
+  <player name="D. Foreman" shortname="D. Foreman" checkname="FOREMAN,D" uni="63" class="SR" gp="1" gs="1" opos="LG" code="63"></player>
+  <player name="M. Magana" shortname="M. Magana" checkname="MAGANA,M" uni="71" class="JR" gp="1" gs="1" opos="LT" code="71"></player>
+  <player name="M. Hunt" shortname="M. Hunt" checkname="HUNT,M" uni="73" class="SR" gp="1" code="73"></player>
+  <player name="C. Rainey" shortname="C. Rainey" checkname="RAINEY,C" uni="75" class="FR" gp="1" code="75"></player>
+  <player name="T. Boynton" shortname="T. Boynton" checkname="BOYNTON,T" uni="77" class="SO" gp="1" gs="1" opos="RT" code="77"></player>
+  <player name="M. Cambell" shortname="M. Cambell" checkname="CAMBELL,M" uni="81" class="SO" gp="1" code="81"></player>
+  <player name="K. Williams" shortname="K. Williams" checkname="WILLIAMS,K" uni="83" class="JR" gp="1" code="83"></player>
+  <player name="A. Sims" shortname="A. Sims" checkname="SIMS,A" uni="84" class="SR" gp="1" code="84"></player>
+  <player name="D. Sapp" shortname="D. Sapp" checkname="SAPP,D" uni="90" class="SO" gp="1" gs="1" dpos="DT" code="90">
+   <defense tackua="0" tacka="1" tot_tack="1" tflua="0" tfla="1" tflyds="1"></defense>
+  </player>
+  <player name="L. Hunt" shortname="L. Hunt" checkname="HUNT,L" uni="91" class="FR" gp="1" code="91">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="T. Griffin" shortname="T. Griffin" checkname="GRIFFIN,T" uni="94" class="JR" gp="1" code="94"></player>
+  <player name="I. Bush" shortname="I. Bush" checkname="BUSH,I" uni="95" class="FR" gp="1" code="95"></player>
+  <player name="J. Banta" shortname="J. Banta" checkname="BANTA,J" uni="97" class="SR" gp="1" code="97"></player>
+  <player name="J. Ellison" shortname="J. Ellison" checkname="ELLISON,J" uni="99" class="JR" gp="1" gs="1" dpos="NT" code="99">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+ </team>
+ <team vh="H" code="768" id="WVU" name="West Virginia" record="1-0" abb="W">
+  <linescore prds="4" line="10,6,14,14" score="44">
+   <lineprd prd="1" score="10"></lineprd>
+   <lineprd prd="2" score="6"></lineprd>
+   <lineprd prd="3" score="14"></lineprd>
+   <lineprd prd="4" score="14"></lineprd>
+  </linescore>
+  <totals totoff_plays="66" totoff_yards="544" totoff_avg="8.2">
+   <firstdowns no="21" rush="10" pass="11" penalty="0"></firstdowns>
+   <penalties no="5" yds="37"></penalties>
+   <conversions thirdconv="3" thirdatt="11" fourthconv="1" fourthatt="2"></conversions>
+   <fumbles no="1" lost="0"></fumbles>
+   <misc yds="0" top="25:53" ona="0" onm="0" ptsto="14"></misc>
+   <redzone att="7" scores="6" points="30" tdrush="3" tdpass="0" fgmade="3" endfga="0" enddowns="1" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="40" yds="185" gain="215" loss="30" td="3" long="19"></rush>
+   <pass comp="16" att="26" int="0" yds="359" td="2" long="57" sacks="2" sackyds="24"></pass>
+   <rcv no="16" yds="359" td="2" long="57"></rcv>
+   <punt no="4" yds="177" long="65" blkd="0" tb="2" fc="1" plus50="1" inside20="2" avg="44.2"></punt>
+   <ko no="9" yds="578" ob="0" tb="4"></ko>
+   <fg made="3" att="3" long="32" blkd="0"></fg>
+   <pat kickatt="5" kickmade="5"></pat>
+   <defense tackua="48" tacka="26" tot_tack="74" tflua="5" tfla="6" tflyds="26" sacks="1" sackyds="4" brup="2" qbh="1" ff="1" fr="1" fryds="0" int="4" intyds="0"></defense>
+   <ir no="4" yds="0" td="0" long="0"></ir>
+   <scoring td="5" fg="3" patkick="5"></scoring>
+  </totals>
+  <player name="Gibson, Shelton" shortname="Gibson, Shelton" checkname="GIBSON,SHELTON" uni="1" class="SO" gp="1" gs="1" opos="WR" code="1">
+   <rcv no="3" yds="130" td="1" long="57"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Crest, William" shortname="Crest, William" checkname="CREST,WILLIAM" uni="1B" class="FR" gp="1" code="1B">
+   <rush att="4" yds="24" gain="24" loss="0" td="1" long="17"></rush>
+   <pass comp="0" att="1" int="0" yds="0" td="0" long="0" sacks="0" sackyds="0"></pass>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Shariff, Khairi" shortname="Shariff, Khairi" checkname="SHARIFF,KHAIRI" uni="2D" class="JR" gp="1" code="2D"></player>
+  <player name="Rumph, Rick" shortname="Rumph, Rick" checkname="RUMPH,RICK" uni="3D" class="SR" gp="1" code="3D"></player>
+  <player name="Howard, Skyler" shortname="Howard, Skyler" checkname="HOWARD,SKYLER" uni="3" class="JR" gp="1" gs="1" opos="QB" code="3">
+   <rush att="9" yds="7" gain="33" loss="26" td="0" long="10"></rush>
+   <pass comp="16" att="25" int="0" yds="359" td="2" long="57" sacks="2" sackyds="24"></pass>
+  </player>
+  <player name="Smallwood, W." shortname="Smallwood, W." checkname="SMALLWOOD,W" uni="4" class="JR" gp="1" gs="1" opos="HB" code="4">
+   <rush att="11" yds="96" gain="97" loss="1" td="1" long="19"></rush>
+   <rcv no="4" yds="23" td="0" long="10"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Preston, Xavier" shortname="Preston, Xavier" checkname="PRESTON,XAVIER" uni="5D" class="SO" gp="1" code="5D">
+   <defense tackua="0" tacka="2" tot_tack="2"></defense>
+  </player>
+  <player name="Durante, Jovon" shortname="Durante, Jovon" checkname="DURANTE,JOVON" uni="5" class="FR" gp="1" gs="1" opos="WR" code="5">
+   <rcv no="3" yds="121" td="1" long="57"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Shorts, Daikiel" shortname="Shorts, Daikiel" checkname="SHORTS,DAIKIEL" uni="6" class="JR" gp="1" gs="1" opos="IR" code="6">
+   <rcv no="3" yds="55" td="0" long="26"></rcv>
+  </player>
+  <player name="Askew-Henry, D." shortname="Askew-Henry, D." checkname="ASKEW-HENRY,D" uni="6D" class="SO" gp="1" gs="1" dpos="FS" code="6D">
+   <defense tackua="3" tacka="1" tot_tack="4" tflua="0" tfla="1" tflyds="1" int="1" intyds="0"></defense>
+   <ir no="1" yds="0" td="0" long="0"></ir>
+  </player>
+  <player name="Worley, Daryl" shortname="Worley, Daryl" checkname="WORLEY,DARYL" uni="7D" class="JR" gp="1" gs="1" dpos="CB" code="7D">
+   <defense tackua="1" tacka="0" tot_tack="1" brup="1"></defense>
+  </player>
+  <player name="Shell, Rushel" shortname="Shell, Rushel" checkname="SHELL,RUSHEL" uni="7" class="JR" gp="1" gs="1" opos="RB" code="7">
+   <rush att="8" yds="42" gain="42" loss="0" td="1" long="9"></rush>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Joseph, Karl" shortname="Joseph, Karl" checkname="JOSEPH,KARL" uni="8D" class="SR" gp="1" gs="1" dpos="BS" code="8D">
+   <defense tackua="7" tacka="1" tot_tack="8" fr="1" fryds="0" int="3" intyds="0"></defense>
+   <ir no="3" yds="0" td="0" long="0"></ir>
+  </player>
+  <player name="Thomas-Williams" shortname="Thomas-Williams" checkname="THOMAS-WILLIAMS" uni="8" class="FR" gp="1" code="8">
+   <rush att="7" yds="19" gain="19" loss="0" td="0" long="4"></rush>
+   <fumbles no="1" lost="0"></fumbles>
+  </player>
+  <player name="Dillon, KJ" shortname="Dillon, KJ" checkname="DILLON,KJ" uni="9" class="SR" gp="1" gs="1" dpos="SPUR" code="9">
+   <defense tackua="2" tacka="2" tot_tack="4" tflua="0" tfla="1" tflyds="1" brup="1"></defense>
+  </player>
+  <player name="Thompson, J." shortname="Thompson, J." checkname="THOMPSON,J" uni="10" class="SR" gp="1" code="10">
+   <rcv no="3" yds="30" td="0" long="14"></rcv>
+  </player>
+  <player name="Jennings, Gary" shortname="Jennings, Gary" checkname="JENNINGS,GARY" uni="12" class="FR" gp="1" code="12"></player>
+  <player name="Kyeremeh, Nana" shortname="Kyeremeh, Nana" checkname="KYEREMEH,NANA" uni="14" class="JR" gp="1" code="14">
+   <defense tackua="0" tacka="1" tot_tack="1" tflua="0" tfla="1" tflyds="1"></defense>
+  </player>
+  <player name="Chestnut, T." shortname="Chestnut, T." checkname="CHESTNUT,T" uni="16" class="SR" gp="1" gs="1" dpos="CB" code="16">
+   <defense tackua="5" tacka="0" tot_tack="5"></defense>
+  </player>
+  <player name="Benton, A." shortname="Benton, A." checkname="BENTON,A" uni="17" class="SO" gp="1" code="17">
+   <defense tackua="2" tacka="0" tot_tack="2" tflua="1" tfla="0" tflyds="3"></defense>
+  </player>
+  <player name="Gross, Marvin" shortname="Gross, Marvin" checkname="GROSS,MARVIN" uni="18" class="SO" gp="1" code="18">
+   <defense tackua="3" tacka="0" tot_tack="3"></defense>
+  </player>
+  <player name="Myers, KJ" shortname="Myers, KJ" checkname="MYERS,KJ" uni="19" class="SR" gp="1" code="19"></player>
+  <player name="Harper, Jarrod" shortname="Harper, Jarrod" checkname="HARPER,JARROD" uni="22" class="JR" gp="1" code="22">
+   <defense tackua="2" tacka="1" tot_tack="3" tflua="1" tfla="0" tflyds="2"></defense>
+  </player>
+  <player name="Tyler, Jeremy" shortname="Tyler, Jeremy" checkname="TYLER,JEREMY" uni="24" class="JR" gp="1" code="24">
+   <defense tackua="3" tacka="1" tot_tack="4"></defense>
+  </player>
+  <player name="Walter, Sean" shortname="Walter, Sean" checkname="WALTER,SEAN" uni="27" class="JR" gp="1" code="27">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Wellman, Elijah" shortname="Wellman, Elijah" checkname="WELLMAN,ELIJAH" uni="28" class="SO" gp="1" code="28"></player>
+  <player name="Arndt, Justin" shortname="Arndt, Justin" checkname="ARNDT,JUSTIN" uni="30" class="JR" gp="1" code="30">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="Bruce, Isaiah" shortname="Bruce, Isaiah" checkname="BRUCE,ISAIAH" uni="31" class="SR" gp="1" code="31"></player>
+  <player name="Kwiatkoski, N." shortname="Kwiatkoski, N." checkname="KWIATKOSKI,N" uni="35" class="SR" gp="1" gs="1" dpos="SAM" code="35">
+   <defense tackua="5" tacka="2" tot_tack="7" tflua="1" tfla="1" tflyds="7"></defense>
+  </player>
+  <player name="Petteway, Shaq" shortname="Petteway, Shaq" checkname="PETTEWAY,SHAQ" uni="36" class="SR" gp="1" gs="1" dpos="WILL" code="36">
+   <defense tackua="2" tacka="2" tot_tack="4" qbh="1"></defense>
+  </player>
+  <player name="Commodore, S." shortname="Commodore, S." checkname="COMMODORE,S" uni="38" class="SO" gp="1" code="38"></player>
+  <player name="Barber, Jared" shortname="Barber, Jared" checkname="BARBER,JARED" uni="42" class="SR" gp="1" gs="1" dpos="MIKE" code="42">
+   <defense tackua="2" tacka="1" tot_tack="3" tflua="1" tfla="1" tflyds="5"></defense>
+  </player>
+  <player name="Christian, H." shortname="Christian, H." checkname="CHRISTIAN,H" uni="44" class="SO" gp="1" code="44"></player>
+  <player name="Kinsey, E." shortname="Kinsey, E." checkname="KINSEY,E" uni="45" class="SR" gp="1" code="45">
+   <defense tackua="1" tacka="4" tot_tack="5" tflua="0" tfla="1" tflyds="2"></defense>
+  </player>
+  <player name="Molina, Mike" shortname="Molina, Mike" checkname="MOLINA,MIKE" uni="48" class="SO" gp="1" code="48">
+   <ko no="3" yds="195" ob="0" tb="2"></ko>
+  </player>
+  <player name="Howard, Darrien" shortname="Howard, Darrien" checkname="HOWARD,DARRIEN" uni="49" class="JR" gp="1" code="49">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="Cajuste, Yodny" shortname="Cajuste, Yodny" checkname="CAJUSTE,YODNY" uni="55" class="FR" gp="1" gs="1" opos="LT" code="55"></player>
+  <player name="Lingafelter, G." shortname="Lingafelter, G." checkname="LINGAFELTER,G" uni="56" class="SO" gp="1" code="56"></player>
+  <player name="Pankey, Adam" shortname="Pankey, Adam" checkname="PANKEY,ADAM" uni="57" class="JR" gp="1" gs="1" opos="LG" code="57"></player>
+  <player name="Brown, Amanii" shortname="Brown, Amanii" checkname="BROWN,AMANII" uni="58" class="SO" gp="1" code="58"></player>
+  <player name="Underwood, S." shortname="Underwood, S." checkname="UNDERWOOD,S" uni="59" class="SR" gp="1" code="59"></player>
+  <player name="Bosch, Kyle" shortname="Bosch, Kyle" checkname="BOSCH,KYLE" uni="62" class="SO" gp="1" gs="1" opos="RG" code="62"></player>
+  <player name="Orlosky, Tyler" shortname="Orlosky, Tyler" checkname="ORLOSKY,TYLER" uni="65" class="JR" gp="1" gs="1" opos="C" code="65"></player>
+  <player name="Matteo, Tony" shortname="Matteo, Tony" checkname="MATTEO,TONY" uni="70" class="JR" gp="1" code="70"></player>
+  <player name="Townes, S." shortname="Townes, S." checkname="TOWNES,S" uni="74" class="JR" gp="1" code="74"></player>
+  <player name="Lazard, Marcell" shortname="Lazard, Marcell" checkname="LAZARD,MARCELL" uni="77" class="SO" gp="1" code="77"></player>
+  <player name="Lucas, Marquis" shortname="Lucas, Marquis" checkname="LUCAS,MARQUIS" uni="78" class="SR" gp="1" gs="1" opos="RT" code="78"></player>
+  <player name="Davis, Vernon" shortname="Davis, Vernon" checkname="DAVIS,VERNON" uni="81" class="JR" gp="1" code="81"></player>
+  <player name="Mathis, Devonte" shortname="Mathis, Devonte" checkname="MATHIS,DEVONTE" uni="82" class="JR" gp="1" code="82"></player>
+  <player name="Lambert, Josh" shortname="Lambert, Josh" checkname="LAMBERT,JOSH" uni="86" class="JR" gp="1" code="86">
+   <fg made="3" att="3" long="32" blkd="0"></fg>
+   <pat kickatt="5" kickmade="5"></pat>
+   <scoring fg="3" patkick="5"></scoring>
+  </player>
+  <player name="DePalma, John" shortname="DePalma, John" checkname="DEPALMA,JOHN" uni="87" class="SR" gp="1" code="87"></player>
+  <player name="Clay, Cody" shortname="Clay, Cody" checkname="CLAY,CODY" uni="88" class="SR" gp="1" code="88"></player>
+  <player name="Arndt, Darren" shortname="Arndt, Darren" checkname="ARNDT,DARREN" uni="89" class="SR" gp="1" code="89"></player>
+  <player name="Jefferson, L." shortname="Jefferson, L." checkname="JEFFERSON,L" uni="90" class="JR" gp="1" code="90"></player>
+  <player name="O'Toole, Nick" shortname="O'Toole, Nick" checkname="O'TOOLE,NICK" uni="91" class="SR" gp="1" code="91">
+   <punt no="4" yds="177" long="65" blkd="0" tb="2" fc="1" plus50="1" inside20="2" avg="44.2"></punt>
+   <ko no="6" yds="383" ob="0" tb="2"></ko>
+  </player>
+  <player name="Lewis, Jon" shortname="Lewis, Jon" checkname="LEWIS,JON" uni="92" class="SO" gp="1" code="92">
+   <defense tackua="0" tacka="2" tot_tack="2"></defense>
+  </player>
+  <player name="Rose, Kyle" shortname="Rose, Kyle" checkname="ROSE,KYLE" uni="93" class="SR" gp="1" gs="1" dpos="NT" code="93">
+   <defense tackua="3" tacka="3" tot_tack="6"></defense>
+  </player>
+  <player name="Maduewesi, C.J." shortname="Maduewesi, C.J." checkname="MADUEWESI,CJ" uni="94" class="JR" gp="1" code="94"></player>
+  <player name="Brown, C." shortname="Brown, C." checkname="BROWN,C" uni="95" class="JR" gp="1" gs="1" dpos="DE" code="95">
+   <defense tackua="3" tacka="1" tot_tack="4"></defense>
+  </player>
+  <player name="Fields, Jaleel" shortname="Fields, Jaleel" checkname="FIELDS,JALEEL" uni="96" class="FR" gp="1" code="96"></player>
+  <player name="Nwachukwu, N." shortname="Nwachukwu, N." checkname="NWACHUKWU,N" uni="97" class="JR" gp="1" gs="1" dpos="DE" code="97">
+   <defense tackua="1" tacka="0" tot_tack="1" tflua="1" tfla="0" tflyds="4" sackua="1" sacka="0" sackyds="4" ff="1"></defense>
+  </player>
+  <player name="TEAM" shortname="TEAM" checkname="TEAM" uni="TM" class="FR" gp="1" code="198">
+   <rush att="1" yds="-3" gain="0" loss="3" td="0" long="0"></rush>
+  </player>
+ </team>
+ <scores>
+  <score vh="H" team="WVU" qtr="1" clock="10:54" type="TD" how="PASS" yds="41" scorer="Durante, Jovon" passer="Howard, Skyler" patby="Lambert, Josh" pattype="KICK" patres="GOOD" plays="9" drive="87" top="4:06" vscore="0" hscore="7" driveindex="2"></score>
+  <score vh="H" team="WVU" qtr="1" clock="08:05" type="FG" yds="26" scorer="Lambert, Josh" plays="5" drive="60" top="1:00" vscore="0" hscore="10" driveindex="4"></score>
+  <score vh="H" team="WVU" qtr="2" clock="14:08" type="FG" yds="32" scorer="Lambert, Josh" plays="5" drive="66" top="1:02" vscore="0" hscore="13" driveindex="8"></score>
+  <score vh="H" team="WVU" qtr="2" clock="03:04" type="FG" yds="22" scorer="Lambert, Josh" plays="7" drive="65" top="2:24" vscore="0" hscore="16" driveindex="14"></score>
+  <score vh="H" team="WVU" qtr="3" clock="09:12" type="TD" how="RUSH" yds="6" scorer="Shell, Rushel" patby="Lambert, Josh" pattype="KICK" patres="GOOD" plays="3" drive="28" top="0:49" vscore="0" hscore="23" driveindex="21"></score>
+  <score vh="H" team="WVU" qtr="3" clock="04:19" type="TD" how="PASS" yds="26" scorer="Gibson, Shelton" passer="Howard, Skyler" patby="Lambert, Josh" pattype="KICK" patres="GOOD" plays="4" drive="70" top="1:30" vscore="0" hscore="30" driveindex="23"></score>
+  <score vh="H" team="WVU" qtr="4" clock="13:23" type="TD" how="RUSH" yds="19" scorer="Smallwood, W." patby="Lambert, Josh" pattype="KICK" patres="GOOD" plays="6" drive="85" top="2:21" vscore="0" hscore="37" driveindex="25"></score>
+  <score vh="H" team="WVU" qtr="4" clock="02:26" type="TD" how="RUSH" yds="2" scorer="Crest, William" patby="Lambert, Josh" pattype="KICK" patres="GOOD" plays="10" drive="41" top="5:21" vscore="0" hscore="44" driveindex="27"></score>
+ </scores>
+ <fgas>
+  <fga vh="H" team="WVU" kicker="Lambert, Josh" qtr="1" clock="08:05" distance="26" result="good"></fga>
+  <fga vh="H" team="WVU" kicker="Lambert, Josh" qtr="2" clock="14:08" distance="32" result="good"></fga>
+  <fga vh="H" team="WVU" kicker="Lambert, Josh" qtr="2" clock="03:04" distance="22" result="good"></fga>
+ </fgas>
+ <drives>
+  <drive vh="H" team="WVU" start="KO,1,15:00,13" end="POSS,1,15:00,13" plays="0" yards="0" top="0:00" start_how="KO" start_qtr="1" start_time="15:00" start_spot="WVU13" end_how="POSS" end_qtr="1" end_time="15:00" end_spot="WVU13" driveindex="1"></drive>
+  <drive vh="H" team="WVU" start="POSS,1,15:00,13" end="TD,1,10:54,100" plays="9" yards="87" top="4:06" start_how="POSS" start_qtr="1" start_time="15:00" start_spot="WVU13" end_how="TD" end_qtr="1" end_time="10:54" end_spot="GS00" driveindex="2"></drive>
+  <drive vh="V" team="GS" start="KO,1,10:49,19" end="PUNT,1,09:05,24" plays="3" yards="5" top="1:44" start_how="KO" start_qtr="1" start_time="10:49" start_spot="GS19" end_how="PUNT" end_qtr="1" end_time="09:05" end_spot="GS24" driveindex="3"></drive>
+  <drive vh="H" team="WVU" start="PUNT,1,09:05,31" end="FG,1,08:05,91" plays="5" yards="60" top="1:00" start_how="PUNT" start_qtr="1" start_time="09:05" start_spot="WVU31" end_how="FG" end_qtr="1" end_time="08:05" end_spot="GS09" rz="1" driveindex="4"></drive>
+  <drive vh="V" team="GS" start="KO,1,07:59,29" end="FUMB,1,06:38,26" plays="3" yards="-3" top="1:21" start_how="KO" start_qtr="1" start_time="07:59" start_spot="GS29" end_how="FUMB" end_qtr="1" end_time="06:38" end_spot="GS26" driveindex="5"></drive>
+  <drive vh="H" team="WVU" start="FUMB,1,06:38,74" end="DOWNS,1,04:57,82" plays="4" yards="8" top="1:41" start_how="FUMB" start_qtr="1" start_time="06:38" start_spot="GS26" end_how="DOWNS" end_qtr="1" end_time="04:57" end_spot="GS18" rz="1" driveindex="6"></drive>
+  <drive vh="V" team="GS" start="DOWNS,1,04:57,18" end="PUNT,1,00:10,45" plays="12" yards="27" top="4:47" start_how="DOWNS" start_qtr="1" start_time="04:57" start_spot="GS18" end_how="PUNT" end_qtr="1" end_time="00:10" end_spot="GS45" driveindex="7"></drive>
+  <drive vh="H" team="WVU" start="PUNT,1,00:10,20" end="FG,2,14:08,86" plays="5" yards="66" top="1:02" start_how="PUNT" start_qtr="1" start_time="00:10" start_spot="WVU20" end_how="FG" end_qtr="2" end_time="14:08" end_spot="GS14" rz="1" driveindex="8"></drive>
+  <drive vh="V" team="GS" start="KO,2,14:08,25" end="PUNT,2,12:00,34" plays="3" yards="9" top="2:08" start_how="KO" start_qtr="2" start_time="14:08" start_spot="GS25" end_how="PUNT" end_qtr="2" end_time="12:00" end_spot="GS34" driveindex="9"></drive>
+  <drive vh="H" team="WVU" start="PUNT,2,12:00,26" end="PUNT,2,10:50,35" plays="3" yards="9" top="1:10" start_how="PUNT" start_qtr="2" start_time="12:00" start_spot="WVU26" end_how="PUNT" end_qtr="2" end_time="10:50" end_spot="WVU35" driveindex="10"></drive>
+  <drive vh="V" team="GS" start="PUNT,2,10:50,20" end="DOWNS,2,09:06,29" plays="4" yards="9" top="1:44" start_how="PUNT" start_qtr="2" start_time="10:50" start_spot="GS20" end_how="DOWNS" end_qtr="2" end_time="09:06" end_spot="GS29" driveindex="11"></drive>
+  <drive vh="H" team="WVU" start="DOWNS,2,09:06,71" end="PUNT,2,08:12,54" plays="3" yards="-17" top="0:54" start_how="DOWNS" start_qtr="2" start_time="09:06" start_spot="GS29" end_how="PUNT" end_qtr="2" end_time="08:12" end_spot="GS46" driveindex="12"></drive>
+  <drive vh="V" team="GS" start="PUNT,2,08:12,7" end="PUNT,2,05:28,27" plays="6" yards="20" top="2:44" start_how="PUNT" start_qtr="2" start_time="08:12" start_spot="GS07" end_how="PUNT" end_qtr="2" end_time="05:28" end_spot="GS27" driveindex="13"></drive>
+  <drive vh="H" team="WVU" start="PUNT,2,05:28,30" end="FG,2,03:04,95" plays="7" yards="65" top="2:24" start_how="PUNT" start_qtr="2" start_time="05:28" start_spot="WVU30" end_how="FG" end_qtr="2" end_time="03:04" end_spot="GS05" rz="1" driveindex="14"></drive>
+  <drive vh="V" team="GS" start="KO,2,03:04,25" end="INT,2,02:23,27" plays="2" yards="2" top="0:41" start_how="KO" start_qtr="2" start_time="03:04" start_spot="GS25" end_how="INT" end_qtr="2" end_time="02:23" end_spot="GS27" driveindex="15"></drive>
+  <drive vh="H" team="WVU" start="INT,2,02:23,30" end="PUNT,2,00:56,61" plays="6" yards="31" top="1:27" start_how="INT" start_qtr="2" start_time="02:23" start_spot="WVU30" end_how="PUNT" end_qtr="2" end_time="00:56" end_spot="GS39" driveindex="16"></drive>
+  <drive vh="V" team="GS" start="PUNT,2,00:56,20" end="HALF,2,00:00,25" plays="2" yards="5" top="0:56" start_how="PUNT" start_qtr="2" start_time="00:56" start_spot="GS20" end_how="HALF" end_qtr="2" end_time="00:00" end_spot="GS25" driveindex="17"></drive>
+  <drive vh="V" team="GS" start="KO,3,14:55,25" end="INT,3,14:24,27" plays="2" yards="2" top="0:31" start_how="KO" start_qtr="3" start_time="14:55" start_spot="GS25" end_how="INT" end_qtr="3" end_time="14:24" end_spot="GS27" driveindex="18"></drive>
+  <drive vh="H" team="WVU" start="INT,3,14:24,54" end="PUNT,3,12:37,58" plays="3" yards="4" top="1:47" start_how="INT" start_qtr="3" start_time="14:24" start_spot="GS46" end_how="PUNT" end_qtr="3" end_time="12:37" end_spot="GS42" driveindex="19"></drive>
+  <drive vh="V" team="GS" start="PUNT,3,12:37,8" end="INT,3,10:01,21" plays="5" yards="13" top="2:36" start_how="PUNT" start_qtr="3" start_time="12:37" start_spot="GS08" end_how="INT" end_qtr="3" end_time="10:01" end_spot="GS21" driveindex="20"></drive>
+  <drive vh="H" team="WVU" start="INT,3,10:01,72" end="TD,3,09:12,100" plays="3" yards="28" top="0:49" start_how="INT" start_qtr="3" start_time="10:01" start_spot="GS28" end_how="TD" end_qtr="3" end_time="09:12" end_spot="GS00" rz="1" driveindex="21"></drive>
+  <drive vh="V" team="GS" start="KO,3,09:06,17" end="DOWNS,3,05:49,70" plays="7" yards="53" top="3:17" start_how="KO" start_qtr="3" start_time="09:06" start_spot="GS17" end_how="DOWNS" end_qtr="3" end_time="05:49" end_spot="WVU30" driveindex="22"></drive>
+  <drive vh="H" team="WVU" start="DOWNS,3,05:49,30" end="TD,3,04:19,100" plays="4" yards="70" top="1:30" start_how="DOWNS" start_qtr="3" start_time="05:49" start_spot="WVU30" end_how="TD" end_qtr="3" end_time="04:19" end_spot="GS00" driveindex="23"></drive>
+  <drive vh="V" team="GS" start="KO,3,04:19,25" end="INT,3,00:44,72" plays="8" yards="47" top="3:35" start_how="KO" start_qtr="3" start_time="04:19" start_spot="GS25" end_how="INT" end_qtr="3" end_time="00:44" end_spot="WVU28" driveindex="24"></drive>
+  <drive vh="H" team="WVU" start="INT,3,00:44,15" end="TD,4,13:23,100" plays="6" yards="85" top="2:21" start_how="INT" start_qtr="3" start_time="00:44" start_spot="WVU15" end_how="TD" end_qtr="4" end_time="13:23" end_spot="GS00" rz="1" driveindex="25"></drive>
+  <drive vh="V" team="GS" start="KO,4,13:19,13" end="DOWNS,4,07:47,41" plays="10" yards="28" top="5:32" start_how="KO" start_qtr="4" start_time="13:19" start_spot="GS13" end_how="DOWNS" end_qtr="4" end_time="07:47" end_spot="GS41" driveindex="26"></drive>
+  <drive vh="H" team="WVU" start="DOWNS,4,07:47,59" end="TD,4,02:26,100" plays="10" yards="41" top="5:21" start_how="DOWNS" start_qtr="4" start_time="07:47" start_spot="GS41" end_how="TD" end_qtr="4" end_time="02:26" end_spot="GS00" rz="1" driveindex="27"></drive>
+  <drive vh="V" team="GS" start="KO,4,02:26,25" end="PUNT,4,00:21,32" plays="3" yards="7" top="2:05" start_how="KO" start_qtr="4" start_time="02:26" start_spot="GS25" end_how="PUNT" end_qtr="4" end_time="00:21" end_spot="GS32" driveindex="28"></drive>
+  <drive vh="H" team="WVU" start="PUNT,4,00:21,19" end="HALF,4,00:00,16" plays="1" yards="-3" top="0:21" start_how="PUNT" start_qtr="4" start_time="00:21" start_spot="WVU19" end_how="HALF" end_qtr="4" end_time="00:00" end_spot="WVU16" driveindex="29"></drive>
+ </drives>
+ <plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="GS" down="1" togo="10" spot="GS35" context="V,1,10,V35" playid="0,1,0" tokens="CMT:GSU Captains: 6-White, 54-Richardson, 63-Forman, 96-Ward"
+      text="GSU Captains: 6-White, 54-Richardson, 63-Forman, 96-Ward" newcontext="V,1,10,V35">
+   </play>
+   <comment text="WVU Captains: 86-Lambert, 87-DePalma, 91-O'Toole"></comment>
+   <comment text="GSU won the coin toss and deferred. WVU chose to receive."></comment>
+   <comment text="GSU chose to defend the south end zone."></comment>
+   <play hasball="GS" down="1" togo="10" spot="GS35" context="V,1,10,V35" playid="0,2,4" type="K" tokens="KO:4H,H00 TB:"
+      text="A. Hanks kickoff 65 yards to the WVU0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="A. Hanks" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,15:00" vh="H" spot="H25" clock="15:00" driveindex="1,4"></drivestart>
+   <play hasball="WVU" down="1" togo="10" spot="WVU25" context="H,1,10,H25" playid="1,1,5" type="E" tokens="PEN:H,UC,A,9,H13,N"
+      text="PENALTY WVU unsportsmanlike conduct (Dillon, KJ) 12 yards to the WVU13." newcontext="H,1,22,H13">
+    <p_pn vh="H" code="UC" type="unsportsmanlike conduct" name="Dillon, KJ" result="ACCEPT" at="H25" yards="12"></p_pn>
+   </play>
+   <play hasball="WVU" down="1" togo="22" spot="WVU13" context="H,1,22,H13" playid="1,2,6" tokens="SPOT:H,H13,Y POSS: D:1,10"
+      text="WVU ball on WVU13, Change of possession, 1st and 10." newcontext="H,1,10,H13">
+   </play>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="H,H13,15:00" vh="H" spot="H13" clock="15:00" driveindex="2,6"></drivestart>
+   <play hasball="WVU" down="1" togo="10" spot="WVU13" context="H,1,10,H13" playid="2,1,7" type="R" clock="15:00" tokens="{DRIVE}:15:00 RUSH:3,H15, TACK:7"
+      text="WEST VIRGINIA drive start at 15:00, Howard, Skyler rush for 2 yards to the WVU15 (M. Dobson)." newcontext="H,2,8,H15">
+    <p_ru vh="H" name="Howard, Skyler" gain="2"></p_ru>
+    <p_tk vh="V" name="M. Dobson"></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="8" spot="WVU15" context="H,2,8,H15" playid="2,2,8" type="R" tokens="RUSH:7,H22, TACK:7"
+      text="Shell, Rushel rush for 7 yards to the WVU22 (M. Dobson)." newcontext="H,3,1,H22">
+    <p_ru vh="H" name="Shell, Rushel" gain="7"></p_ru>
+    <p_tk vh="V" name="M. Dobson"></p_tk>
+   </play>
+   <play hasball="WVU" down="3" togo="1" spot="WVU22" context="H,3,1,H22" playid="2,3,9" type="E" tokens="PEN:H,FS,A,4,H17,N"
+      text="PENALTY WVU false start (Smallwood, W.) 5 yards to the WVU17." newcontext="H,3,6,H17">
+    <p_pn vh="H" code="FS" type="false start" name="Smallwood, W." result="ACCEPT" at="H22" yards="5"></p_pn>
+   </play>
+   <play hasball="WVU" down="3" togo="6" spot="WVU17" context="H,3,6,H17" playid="2,4,10" type="R" first="R" tokens="RUSH:3,H24, TACK:7"
+      text="Howard, Skyler rush for 7 yards to the WVU24, 1ST DOWN WVU (M. Dobson)." newcontext="H,1,10,H24">
+    <p_ru vh="H" name="Howard, Skyler" gain="7"></p_ru>
+    <p_tk vh="V" name="M. Dobson"></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU24" context="H,1,10,H24" playid="2,5,11" type="R" tokens="RUSH:4,H28, TACK:27,37"
+      text="Smallwood, W. rush for 4 yards to the WVU28 (D. Gallon;A. Williams)." newcontext="H,2,6,H28">
+    <p_ru vh="H" name="Smallwood, W." gain="4"></p_ru>
+    <p_tk vh="V" name="D. Gallon" assist="Y"></p_tk>
+    <p_tk vh="V" name="A. Williams" assist="Y"></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="6" spot="WVU28" context="H,2,6,H28" playid="2,6,12" type="R" first="R" tokens="RUSH:4,H44, OB: TACK:6"
+      text="Smallwood, W. rush for 16 yards to the WVU44, 1ST DOWN WVU, out-of-bounds (D. White)." ob="Y" newcontext="H,1,10,H44">
+    <p_ru vh="H" name="Smallwood, W." gain="16"></p_ru>
+    <p_tk vh="V" name="D. White"></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU44" context="H,1,10,H44" playid="2,7,13" type="R" tokens="RUSH:4,H44, TACK:27"
+      text="Smallwood, W. rush for no gain to the WVU44 (D. Gallon)." newcontext="H,2,10,H44">
+    <p_ru vh="H" name="Smallwood, W." gain="0"></p_ru>
+    <p_tk vh="V" name="D. Gallon"></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="10" spot="WVU44" context="H,2,10,H44" playid="2,8,14" type="P" first="P" tokens="PASS:3,C,10,V46 TACK:5"
+      text="Howard, Skyler pass complete to Thompson, J. for 10 yards to the GS46, 1ST DOWN WVU (D. Jones)." newcontext="H,1,10,V46">
+    <p_pa vh="H" qb="Howard, Skyler" result="COMP" rcv="Thompson, J." gain="10"></p_pa>
+    <p_tk vh="V" name="D. Jones"></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="GS46" context="H,1,10,V46" playid="2,9,15" type="R" tokens="RUSH:7,V41, TACK:99"
+      text="Shell, Rushel rush for 5 yards to the GS41 (J. Ellison)." newcontext="H,2,5,V41">
+    <p_ru vh="H" name="Shell, Rushel" gain="5"></p_ru>
+    <p_tk vh="V" name="J. Ellison"></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="5" spot="GS41" context="H,2,5,V41" playid="2,10,16" type="P" first="P" score="Y" vscore="0" hscore="6" clock="10:54" tokens="PASS:3,C,5,V00 T:10:54"
+      text="Howard, Skyler pass complete to Durante, Jovon for 41 yards to the GS0, 1ST DOWN WVU, TOUCHDOWN, clock 10:54." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Howard, Skyler" result="COMP" rcv="Durante, Jovon" gain="41"></p_pa>
+   </play>
+   <play hasball="WVU" down="1" togo="0" spot="GS03" context="H,1,0,V03" playid="2,11,17" type="X" score="Y" vscore="0" hscore="7" tokens="PAT:K,86,G"
+      text="Lambert, Josh kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Lambert, Josh" qb="Lambert, Josh" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="7"></score>
+   <drivesum plays="9" yards="87" top="4:06" driveindex="2" complete="Y"></drivesum>
+   <play hasball="WVU" down="1" togo="0" spot="WVU35" context="H,1,0,H35" playid="2,12,18" type="K" tokens="KO:91,V00 RET:9C,V19 TACK:18"
+      text="O'Toole, Nick kickoff 65 yards to the GS0, M. Crockett return 19 yards to the GS19 (Gross, Marvin)." newcontext="V,1,10,V19">
+    <p_ko vh="H" name="O'Toole, Nick" gain="65"></p_ko>
+    <p_kr vh="V" name="M. Crockett" gain="19"></p_kr>
+    <p_tk vh="H" name="Gross, Marvin"></p_tk>
+   </play>
+   <drivestart poss="V,V19,10:49" vh="V" spot="V19" clock="10:49" driveindex="3,18"></drivestart>
+   <play hasball="GS" down="1" togo="10" spot="GS19" context="V,1,10,V19" playid="3,1,19" clock="10:49" tokens="{DRIVE}:10:49"
+      text="GEORGIA SOUTHERN drive start at 10:49." newcontext="V,1,10,V19">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS19" context="V,1,10,V19" playid="3,2,20" type="R" tokens="RUSH:36,V21, TACK:6D"
+      text="M. Breida rush for 2 yards to the GS21 (Askew-Henry, D.)." newcontext="V,2,8,V21">
+    <p_ru vh="V" name="M. Breida" gain="2"></p_ru>
+    <p_tk vh="H" name="Askew-Henry, D."></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="8" spot="GS21" context="V,2,8,V21" playid="3,3,21" type="R" tokens="RUSH:36,V28, TACK:16"
+      text="M. Breida rush for 7 yards to the GS28 (Chestnut, T.)." newcontext="V,3,1,V28">
+    <p_ru vh="V" name="M. Breida" gain="7"></p_ru>
+    <p_tk vh="H" name="Chestnut, T."></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="1" spot="GS28" context="V,3,1,V28" playid="3,4,22" type="R" tokens="RUSH:1U,V24, TACK:42"
+      text="F. Upshaw rush for loss of 4 yards to the GS24 (Barber, Jared)." newcontext="V,4,5,V24">
+    <p_ru vh="V" name="F. Upshaw" gain="-4"></p_ru>
+    <p_tk vh="H" name="Barber, Jared"></p_tk>
+   </play>
+   <play hasball="GS" down="4" togo="5" spot="GS24" context="V,4,5,V24" playid="3,5,23" type="U" tokens="PUNT:55,H31 OB:"
+      text="M. Flynn punt 45 yards to the WVU31, out-of-bounds." ob="Y" newcontext="H,1,10,H31">
+    <p_pu vh="V" name="M. Flynn" gain="45" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="5" top="1:44" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="H,H31,09:05" vh="H" spot="H31" clock="09:05" driveindex="4,23"></drivestart>
+   <play hasball="WVU" down="1" togo="10" spot="WVU31" context="H,1,10,H31" playid="4,1,24" clock="09:05" tokens="{DRIVE}:09:05"
+      text="WEST VIRGINIA drive start at 09:05." newcontext="H,1,10,H31">
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU31" context="H,1,10,H31" playid="4,2,25" type="P" first="P" tokens="PASS:3,C,1,V12 TACK:5"
+      text="Howard, Skyler pass complete to Gibson, Shelton for 57 yards to the GS12, 1ST DOWN WVU (D. Jones)." newcontext="H,1,10,V12">
+    <p_pa vh="H" qb="Howard, Skyler" result="COMP" rcv="Gibson, Shelton" gain="57"></p_pa>
+    <p_tk vh="V" name="D. Jones"></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="GS12" context="H,1,10,V12" playid="4,3,26" type="R" tokens="RUSH:7,V09, TACK:27"
+      text="Shell, Rushel rush for 3 yards to the GS9 (D. Gallon)." newcontext="H,2,7,V09">
+    <p_ru vh="H" name="Shell, Rushel" gain="3"></p_ru>
+    <p_tk vh="V" name="D. Gallon"></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="7" spot="GS09" context="H,2,7,V09" playid="4,4,27" type="P" tokens="PASS:3,I,5,*"
+      text="Howard, Skyler pass incomplete to Durante, Jovon." newcontext="H,3,7,V09">
+    <p_pa vh="H" qb="Howard, Skyler" result="INC" rcv="Durante, Jovon"></p_pa>
+   </play>
+   <play hasball="WVU" down="3" togo="7" spot="GS09" context="H,3,7,V09" playid="4,5,28" type="P" tokens="PASS:3,I,6,*"
+      text="Howard, Skyler pass incomplete to Shorts, Daikiel." newcontext="H,4,7,V09">
+    <p_pa vh="H" qb="Howard, Skyler" result="INC" rcv="Shorts, Daikiel"></p_pa>
+   </play>
+   <play hasball="WVU" down="4" togo="7" spot="GS09" context="H,4,7,V09" playid="4,6,29" type="F" score="Y" vscore="0" hscore="10" clock="08:05" tokens="FGA:86,26,G T:08:05"
+      text="Lambert, Josh field goal attempt from 26 GOOD, clock 08:05." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="Lambert, Josh" distance="26" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="0" H="10"></score>
+   <drivesum plays="5" yards="60" top="1:00" driveindex="4" complete="Y"></drivesum>
+   <play hasball="WVU" down="1" togo="0" spot="WVU35" context="H,1,0,H35" playid="4,7,30" type="K" tokens="KO:91,V02 RET:23,V29 TACK:18"
+      text="O'Toole, Nick kickoff 63 yards to the GS2, D. Keaton return 27 yards to the GS29 (Gross, Marvin)." newcontext="V,1,10,V29">
+    <p_ko vh="H" name="O'Toole, Nick" gain="63"></p_ko>
+    <p_kr vh="V" name="D. Keaton" gain="27"></p_kr>
+    <p_tk vh="H" name="Gross, Marvin"></p_tk>
+   </play>
+   <drivestart poss="V,V29,07:59" vh="V" spot="V29" clock="07:59" driveindex="5,30"></drivestart>
+   <play hasball="GS" down="1" togo="10" spot="GS29" context="V,1,10,V29" playid="5,1,31" clock="07:59" tokens="{DRIVE}:07:59"
+      text="GEORGIA SOUTHERN drive start at 07:59." newcontext="V,1,10,V29">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS29" context="V,1,10,V29" playid="5,2,32" type="R" tokens="RUSH:1U,V32, TACK:9"
+      text="F. Upshaw rush for 3 yards to the GS32 (Dillon, KJ)." newcontext="V,2,7,V32">
+    <p_ru vh="V" name="F. Upshaw" gain="3"></p_ru>
+    <p_tk vh="H" name="Dillon, KJ"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="7" spot="GS32" context="V,2,7,V32" playid="5,3,33" type="R" tokens="RUSH:2F,V30, TACK:42,6D"
+      text="W. Fields rush for loss of 2 yards to the GS30 (Barber, Jared;Askew-Henry, D.)." newcontext="V,3,9,V30">
+    <p_ru vh="V" name="W. Fields" gain="-2"></p_ru>
+    <p_tk vh="H" name="Barber, Jared" assist="Y"></p_tk>
+    <p_tk vh="H" name="Askew-Henry, D." assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="9" spot="GS30" context="V,3,9,V30" playid="5,4,34" type="R" turnover="F" tokens="RUSH:1U,V24, FUMB:H,V26,8D"
+      text="F. Upshaw rush for loss of 6 yards to the GS24, fumble by F. Upshaw recovered by WVU Joseph, Karl at GS26." newcontext="H,1,10,V26">
+    <p_ru vh="V" name="F. Upshaw" gain="-6"></p_ru>
+    <p_fumb vh="V" name="F. Upshaw" at="V26" frvh="H" frname="Joseph, Karl"></p_fumb>
+   </play>
+   <drivesum plays="3" yards="-3" top="1:21" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="H,V26,06:38" vh="H" spot="V26" clock="06:38" driveindex="6,34"></drivestart>
+   <play hasball="WVU" down="1" togo="10" spot="GS26" context="H,1,10,V26" playid="6,1,35" clock="06:38" tokens="{DRIVE}:06:38"
+      text="WEST VIRGINIA drive start at 06:38." newcontext="H,1,10,V26">
+   </play>
+   <comment text="The previous play was reviewed and confirmed."></comment>
+   <play hasball="WVU" down="1" togo="10" spot="GS26" context="H,1,10,V26" playid="6,2,37" type="P" tokens="PASS:3,C,4,V26 TACK:7"
+      text="Howard, Skyler pass complete to Smallwood, W. for no gain to the GS26 (M. Dobson)." newcontext="H,2,10,V26">
+    <p_pa vh="H" qb="Howard, Skyler" result="COMP" rcv="Smallwood, W." gain="0"></p_pa>
+    <p_tk vh="V" name="M. Dobson"></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="10" spot="GS26" context="H,2,10,V26" playid="6,3,38" type="P" tokens="PASS:3,C,10,V20 TACK:14"
+      text="Howard, Skyler pass complete to Thompson, J. for 6 yards to the GS20 (T. Hicklin)." newcontext="H,3,4,V20">
+    <p_pa vh="H" qb="Howard, Skyler" result="COMP" rcv="Thompson, J." gain="6"></p_pa>
+    <p_tk vh="V" name="T. Hicklin"></p_tk>
+   </play>
+   <play hasball="WVU" down="3" togo="4" spot="GS20" context="H,3,4,V20" playid="6,4,39" type="R" tokens="RUSH:4,V17, TACK:25"
+      text="Smallwood, W. rush for 3 yards to the GS17 (R. Brice)." newcontext="H,4,1,V17">
+    <p_ru vh="H" name="Smallwood, W." gain="3"></p_ru>
+    <p_tk vh="V" name="R. Brice"></p_tk>
+   </play>
+   <play hasball="WVU" down="4" togo="1" spot="GS17" context="H,4,1,V17" playid="6,5,40" type="R" tokens="RUSH:4,V18, TACK:37"
+      text="Smallwood, W. rush for loss of 1 yard to the GS18 (A. Williams)." newcontext="V,1,10,V18">
+    <p_ru vh="H" name="Smallwood, W." gain="-1"></p_ru>
+    <p_tk vh="V" name="A. Williams"></p_tk>
+   </play>
+   <drivesum plays="4" yards="8" top="1:41" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="V,V18,04:57" vh="V" spot="V18" clock="04:57" driveindex="7,40"></drivestart>
+   <play hasball="GS" down="1" togo="10" spot="GS18" context="V,1,10,V18" playid="7,1,41" clock="04:57" tokens="{DRIVE}:04:57"
+      text="GEORGIA SOUTHERN drive start at 04:57." newcontext="V,1,10,V18">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS18" context="V,1,10,V18" playid="7,2,42" type="R" tokens="RUSH:36,V19, TACK:35"
+      text="M. Breida rush for 1 yard to the GS19 (Kwiatkoski, N.)." newcontext="V,2,9,V19">
+    <p_ru vh="V" name="M. Breida" gain="1"></p_ru>
+    <p_tk vh="H" name="Kwiatkoski, N."></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="9" spot="GS19" context="V,2,9,V19" playid="7,3,43" type="P" tokens="PASS:1U,B,1,* BRUP:9"
+      text="F. Upshaw pass incomplete to L. Ramsby (Dillon, KJ)." newcontext="V,3,9,V19">
+    <p_pa vh="V" qb="F. Upshaw" result="BRUP" rcv="L. Ramsby"></p_pa>
+    <p_bu vh="H" name="Dillon, KJ"></p_bu>
+   </play>
+   <play hasball="GS" down="3" togo="9" spot="GS19" context="V,3,9,V19" playid="7,4,44" type="R" first="R" tokens="RUSH:1U,V29, OB: TACK:8D"
+      text="F. Upshaw rush for 10 yards to the GS29, 1ST DOWN GS, out-of-bounds (Joseph, Karl)." ob="Y" newcontext="V,1,10,V29">
+    <p_ru vh="V" name="F. Upshaw" gain="10"></p_ru>
+    <p_tk vh="H" name="Joseph, Karl"></p_tk>
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS29" context="V,1,10,V29" playid="7,5,45" type="P" tokens="PASS:1U,I,36,* QBH:H,36"
+      text="F. Upshaw pass incomplete to M. Breida, QB hurry by Petteway, Shaq." newcontext="V,2,10,V29">
+    <p_pa vh="V" qb="F. Upshaw" result="INC" rcv="M. Breida"></p_pa>
+    <p_qbh vh="H" name="Petteway, Shaq"></p_qbh>
+   </play>
+   <play hasball="GS" down="2" togo="10" spot="GS29" context="V,2,10,V29" playid="7,6,46" type="R" tokens="RUSH:1,V34, TACK:16"
+      text="L. Ramsby rush for 5 yards to the GS34 (Chestnut, T.)." newcontext="V,3,5,V34">
+    <p_ru vh="V" name="L. Ramsby" gain="5"></p_ru>
+    <p_tk vh="H" name="Chestnut, T."></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="5" spot="GS34" context="V,3,5,V34" playid="7,7,47" type="R" first="R" tokens="RUSH:1,V40, TACK:93"
+      text="L. Ramsby rush for 6 yards to the GS40, 1ST DOWN GS (Rose, Kyle)." newcontext="V,1,10,V40">
+    <p_ru vh="V" name="L. Ramsby" gain="6"></p_ru>
+    <p_tk vh="H" name="Rose, Kyle"></p_tk>
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS40" context="V,1,10,V40" playid="7,8,48" type="P" tokens="PASS:1U,I,31,*"
+      text="F. Upshaw pass incomplete to R. Longoria." newcontext="V,2,10,V40">
+    <p_pa vh="V" qb="F. Upshaw" result="INC" rcv="R. Longoria"></p_pa>
+   </play>
+   <play hasball="GS" down="2" togo="10" spot="GS40" context="V,2,10,V40" playid="7,9,49" type="R" tokens="RUSH:36,V46, TACK:49"
+      text="M. Breida rush for 6 yards to the GS46 (Howard, Darrien)." newcontext="V,3,4,V46">
+    <p_ru vh="V" name="M. Breida" gain="6"></p_ru>
+    <p_tk vh="H" name="Howard, Darrien"></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="4" spot="GS46" context="V,3,4,V46" playid="7,10,50" type="R" first="R" tokens="RUSH:1U,H38, OB: TACK:6D"
+      text="F. Upshaw rush for 16 yards to the WVU38, 1ST DOWN GS, out-of-bounds (Askew-Henry, D.)." ob="Y" newcontext="V,1,10,H38">
+    <p_ru vh="V" name="F. Upshaw" gain="16"></p_ru>
+    <p_tk vh="H" name="Askew-Henry, D."></p_tk>
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="WVU38" context="V,1,10,H38" playid="7,11,51" type="E" tokens="PEN:V,BL,A,36,V47,N"
+      text="PENALTY GS illegal block (M. Breida) 15 yards to the GS47." newcontext="V,1,25,V47">
+    <p_pn vh="V" code="BL" type="illegal block" name="M. Breida" result="ACCEPT" at="H38" yards="15"></p_pn>
+   </play>
+   <play hasball="GS" down="1" togo="25" spot="GS47" context="V,1,25,V47" playid="7,12,52" type="R" tokens="RUSH:1U,V45, TACK:9,35"
+      text="F. Upshaw rush for loss of 2 yards to the GS45 (Dillon, KJ;Kwiatkoski, N.)." newcontext="V,2,27,V45">
+    <p_ru vh="V" name="F. Upshaw" gain="-2"></p_ru>
+    <p_tk vh="H" name="Dillon, KJ" assist="Y"></p_tk>
+    <p_tk vh="H" name="Kwiatkoski, N." assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="27" spot="GS45" context="V,2,27,V45" playid="7,13,53" type="P" tokens="PASS:1U,I,81,* BRUP:7D"
+      text="F. Upshaw pass incomplete to M. Cambell (Worley, Daryl)." newcontext="V,3,27,V45">
+    <p_pa vh="V" qb="F. Upshaw" result="INC" rcv="M. Cambell"></p_pa>
+    <p_bu vh="H" name="Worley, Daryl"></p_bu>
+   </play>
+   <play hasball="GS" down="3" togo="27" spot="GS45" context="V,3,27,V45" playid="7,14,54" type="R" tokens="RUSH:1U,V45, TACK:35"
+      text="F. Upshaw rush for no gain to the GS45 (Kwiatkoski, N.)." newcontext="V,4,27,V45">
+    <p_ru vh="V" name="F. Upshaw" gain="0"></p_ru>
+    <p_tk vh="H" name="Kwiatkoski, N."></p_tk>
+   </play>
+   <play hasball="GS" down="4" togo="27" spot="GS45" context="V,4,27,V45" playid="7,15,55" type="U" tokens="PUNT:55,H00 TB:"
+      text="M. Flynn punt 55 yards to the WVU0, touchback." newcontext="H,1,10,H20">
+    <p_pu vh="V" name="M. Flynn" gain="55" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="12" yards="27" top="4:47" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="H,H20,00:10" vh="H" spot="H20" clock="00:10" driveindex="8,55"></drivestart>
+   <play hasball="WVU" down="1" togo="10" spot="WVU20" context="H,1,10,H20" playid="8,1,56" clock="00:10" tokens="{DRIVE}:00:10"
+      text="WEST VIRGINIA drive start at 00:10." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU20" context="H,1,10,H20" playid="8,2,57" type="P" first="P" tokens="PASS:3,C,5,V23 TACK:6"
+      text="Howard, Skyler pass complete to Durante, Jovon for 57 yards to the GS23, 1ST DOWN WVU (D. White)." newcontext="H,1,10,V23">
+    <p_pa vh="H" qb="Howard, Skyler" result="COMP" rcv="Durante, Jovon" gain="57"></p_pa>
+    <p_tk vh="V" name="D. White"></p_tk>
+   </play>
+   <score qtr="1" V="0" H="10"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="GS">
+    <firstdowns no="3" rush="3" pass="0" penalty="0"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="3" thirdatt="6" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="08:03"></misc>
+    <rush att="14" yds="44" gain="56" loss="12" td="0" long="16"></rush>
+    <pass comp="0" att="4" int="0" yds="0" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <punt no="2" yds="100" long="55" blkd="0" tb="1" fc="0" plus50="1" inside20="0" avg="50.0"></punt>
+    <ko no="1" yds="65" ob="0" tb="1"></ko>
+    <defense tackua="14" tacka="2" tot_tack="16" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0"></defense>
+    <kr no="2" yds="46" td="0" long="27"></kr>
+    <fumbles no="1" lost="1"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WVU">
+    <firstdowns no="6" rush="2" pass="4" penalty="0"></firstdowns>
+    <penalties no="2" yds="17"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:57"></misc>
+    <rush att="10" yds="46" gain="47" loss="1" td="0" long="16"></rush>
+    <pass comp="6" att="8" int="0" yds="171" td="1" long="57" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="171" td="1" long="57"></rcv>
+    <ko no="2" yds="128" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="26" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="13" tacka="4" tot_tack="17" tflua="1" tfla="4" tflyds="8" sacks="0" sackyds="0" brup="2" qbh="1" fr="1" fryds="0"></defense>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="WVU" down="1" togo="10" spot="GS23" context="H,1,10,V23" playid="8,3,58" type="#" clock="15:00" tokens="Q:2 T:15:00"
+      text="Start of 2nd quarter, clock 15:00." newcontext="H,1,10,V23">
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="GS23" context="H,1,10,V23" playid="8,4,59" type="P" tokens="PASS:3,I,1,*"
+      text="Howard, Skyler pass incomplete to Gibson, Shelton." newcontext="H,2,10,V23">
+    <p_pa vh="H" qb="Howard, Skyler" result="INC" rcv="Gibson, Shelton"></p_pa>
+   </play>
+   <play hasball="WVU" down="2" togo="10" spot="GS23" context="H,2,10,V23" playid="8,5,60" type="R" tokens="RUSH:7,V14, TACK:7"
+      text="Shell, Rushel rush for 9 yards to the GS14 (M. Dobson)." newcontext="H,3,1,V14">
+    <p_ru vh="H" name="Shell, Rushel" gain="9"></p_ru>
+    <p_tk vh="V" name="M. Dobson"></p_tk>
+   </play>
+   <play hasball="WVU" down="3" togo="1" spot="GS14" context="H,3,1,V14" playid="8,6,61" type="P" tokens="PASS:3,I,82,*"
+      text="Howard, Skyler pass incomplete to Mathis, Devonte." newcontext="H,4,1,V14">
+    <p_pa vh="H" qb="Howard, Skyler" result="INC" rcv="Mathis, Devonte"></p_pa>
+   </play>
+   <play hasball="WVU" down="4" togo="1" spot="GS14" context="H,4,1,V14" playid="8,7,62" type="F" score="Y" vscore="0" hscore="13" clock="14:08" tokens="FGA:86,32,G T:14:08"
+      text="Lambert, Josh field goal attempt from 32 GOOD, clock 14:08." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="Lambert, Josh" distance="32" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="0" H="13"></score>
+   <drivesum plays="5" yards="66" top="1:02" driveindex="8" complete="Y"></drivesum>
+   <play hasball="WVU" down="1" togo="0" spot="WVU35" context="H,1,0,H35" playid="8,8,63" type="K" tokens="KO:91,V00 TB:"
+      text="O'Toole, Nick kickoff 65 yards to the GS0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="O'Toole, Nick" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,14:08" vh="V" spot="V25" clock="14:08" driveindex="9,63"></drivestart>
+   <play hasball="GS" down="1" togo="10" spot="GS25" context="V,1,10,V25" playid="9,1,64" clock="14:08" tokens="{DRIVE}:14:08"
+      text="GEORGIA SOUTHERN drive start at 14:08." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS25" context="V,1,10,V25" playid="9,2,65" type="R" tokens="RUSH:1U,V29,"
+      text="F. Upshaw rush for 4 yards to the GS29." newcontext="V,2,6,V29">
+    <p_ru vh="V" name="F. Upshaw" gain="4"></p_ru>
+   </play>
+   <play hasball="GS" down="2" togo="6" spot="GS29" context="V,2,6,V29" playid="9,3,66" type="R" tokens="RUSH:36,V31, TACK:45"
+      text="M. Breida rush for 2 yards to the GS31 (Kinsey, E.)." newcontext="V,3,4,V31">
+    <p_ru vh="V" name="M. Breida" gain="2"></p_ru>
+    <p_tk vh="H" name="Kinsey, E."></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="4" spot="GS31" context="V,3,4,V31" playid="9,4,67" type="R" tokens="RUSH:1,V34, TACK:36"
+      text="L. Ramsby rush for 3 yards to the GS34 (Petteway, Shaq)." newcontext="V,4,1,V34">
+    <p_ru vh="V" name="L. Ramsby" gain="3"></p_ru>
+    <p_tk vh="H" name="Petteway, Shaq"></p_tk>
+   </play>
+   <play hasball="GS" down="4" togo="1" spot="GS34" context="V,4,1,V34" playid="9,5,68" type="U" tokens="PUNT:55,H26 DN:"
+      text="M. Flynn punt 40 yards to the WVU26, downed." newcontext="H,1,10,H26">
+    <p_pu vh="V" name="M. Flynn" gain="40"></p_pu>
+   </play>
+   <drivesum plays="3" yards="9" top="2:08" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="H,H26,12:00" vh="H" spot="H26" clock="12:00" driveindex="10,68"></drivestart>
+   <play hasball="WVU" down="1" togo="10" spot="WVU26" context="H,1,10,H26" playid="10,1,69" clock="12:00" tokens="{DRIVE}:12:00"
+      text="WEST VIRGINIA drive start at 12:00." newcontext="H,1,10,H26">
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU26" context="H,1,10,H26" playid="10,2,70" type="P" tokens="PASS:3,I,4,*"
+      text="Howard, Skyler pass incomplete to Smallwood, W.." newcontext="H,2,10,H26">
+    <p_pa vh="H" qb="Howard, Skyler" result="INC" rcv="Smallwood, W."></p_pa>
+   </play>
+   <play hasball="WVU" down="2" togo="10" spot="WVU26" context="H,2,10,H26" playid="10,3,71" type="R" tokens="RUSH:3,H30, OB: TACK:27"
+      text="Howard, Skyler rush for 4 yards to the WVU30, out-of-bounds (D. Gallon)." ob="Y" newcontext="H,3,6,H30">
+    <p_ru vh="H" name="Howard, Skyler" gain="4"></p_ru>
+    <p_tk vh="V" name="D. Gallon"></p_tk>
+   </play>
+   <play hasball="WVU" down="3" togo="6" spot="WVU30" context="H,3,6,H30" playid="10,4,72" type="E" tokens="PEN:H,FS,A,55,H25,N"
+      text="PENALTY WVU false start (Cajuste, Yodny) 5 yards to the WVU25." newcontext="H,3,11,H25">
+    <p_pn vh="H" code="FS" type="false start" name="Cajuste, Yodny" result="ACCEPT" at="H30" yards="5"></p_pn>
+   </play>
+   <play hasball="WVU" down="3" togo="11" spot="WVU25" context="H,3,11,H25" playid="10,5,73" type="P" tokens="PASS:3,C,4,H35 TACK:37"
+      text="Howard, Skyler pass complete to Smallwood, W. for 10 yards to the WVU35 (A. Williams)." newcontext="H,4,1,H35">
+    <p_pa vh="H" qb="Howard, Skyler" result="COMP" rcv="Smallwood, W." gain="10"></p_pa>
+    <p_tk vh="V" name="A. Williams"></p_tk>
+   </play>
+   <comment text="The previous play was reviewed and confirmed."></comment>
+   <play hasball="WVU" down="4" togo="1" spot="WVU35" context="H,4,1,H35" playid="10,6,75" type="U" tokens="PUNT:91,V00 TB:"
+      text="O'Toole, Nick punt 65 yards to the GS0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="O'Toole, Nick" gain="65" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="9" top="1:10" driveindex="10" complete="Y"></drivesum>
+   <drivestart poss="V,V20,10:50" vh="V" spot="V20" clock="10:50" driveindex="11,75"></drivestart>
+   <play hasball="GS" down="1" togo="10" spot="GS20" context="V,1,10,V20" playid="11,1,76" clock="10:50" tokens="{DRIVE}:10:50"
+      text="GEORGIA SOUTHERN drive start at 10:50." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS20" context="V,1,10,V20" playid="11,2,77" type="R" tokens="RUSH:36,V26, TACK:35,9"
+      text="M. Breida rush for 6 yards to the GS26 (Kwiatkoski, N.;Dillon, KJ)." newcontext="V,2,4,V26">
+    <p_ru vh="V" name="M. Breida" gain="6"></p_ru>
+    <p_tk vh="H" name="Kwiatkoski, N." assist="Y"></p_tk>
+    <p_tk vh="H" name="Dillon, KJ" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="4" spot="GS26" context="V,2,4,V26" playid="11,3,78" type="R" tokens="RUSH:1U,V29, TACK:6D"
+      text="F. Upshaw rush for 3 yards to the GS29 (Askew-Henry, D.)." newcontext="V,3,1,V29">
+    <p_ru vh="V" name="F. Upshaw" gain="3"></p_ru>
+    <p_tk vh="H" name="Askew-Henry, D."></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="1" spot="GS29" context="V,3,1,V29" playid="11,4,79" type="R" tokens="RUSH:1,V29, TACK:42"
+      text="L. Ramsby rush for no gain to the GS29 (Barber, Jared)." newcontext="V,4,1,V29">
+    <p_ru vh="V" name="L. Ramsby" gain="0"></p_ru>
+    <p_tk vh="H" name="Barber, Jared"></p_tk>
+   </play>
+   <play hasball="GS" down="4" togo="1" spot="GS29" context="V,4,1,V29" playid="11,5,80" type="#" clock="09:11" tokens="TOUT:H T:09:11"
+      text="Timeout West Virginia, clock 09:11." newcontext="V,4,1,V29">
+    <p_to vh="H" team="West Virginia"></p_to>
+   </play>
+   <play hasball="GS" down="4" togo="1" spot="GS29" context="V,4,1,V29" playid="11,6,81" type="R" tokens="RUSH:1,V29, TACK:93"
+      text="L. Ramsby rush for no gain to the GS29 (Rose, Kyle)." newcontext="H,1,10,V29">
+    <p_ru vh="V" name="L. Ramsby" gain="0"></p_ru>
+    <p_tk vh="H" name="Rose, Kyle"></p_tk>
+   </play>
+   <drivesum plays="4" yards="9" top="1:44" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="H,V29,09:06" vh="H" spot="V29" clock="09:06" driveindex="12,81"></drivestart>
+   <play hasball="WVU" down="1" togo="10" spot="GS29" context="H,1,10,V29" playid="12,1,82" clock="09:06" tokens="{DRIVE}:09:06"
+      text="WEST VIRGINIA drive start at 09:06." newcontext="H,1,10,V29">
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="GS29" context="H,1,10,V29" playid="12,2,83" type="P" tokens="PASS:3,S,TM,V48 SACK:5D PEN:H,IG,A,3,V48,N"
+      text="Howard, Skyler sacked for loss of 19 yards to the GS48 (B. Dawson), PENALTY WVU intentional grounding (Howard, Skyler) 0 yards to the GS48." newcontext="H,1,29,V48">
+    <p_pa vh="H" qb="Howard, Skyler" result="SACK" gain="-19"></p_pa>
+    <p_tk vh="V" name="B. Dawson" sack="Y"></p_tk>
+    <p_pn vh="H" code="IG" type="intentional grounding" name="Howard, Skyler" result="ACCEPT"></p_pn>
+   </play>
+   <play hasball="WVU" down="1" togo="29" spot="GS48" context="H,1,29,V48" playid="12,3,84" tokens="D:1,29"
+      text="1st and 29." newcontext="H,1,29,V48">
+   </play>
+   <play hasball="WVU" down="1" togo="29" spot="GS48" context="H,1,29,V48" playid="12,4,85" type="P" tokens="PASS:1B,I,1,* BRUP:6"
+      text="Crest, William pass incomplete to Gibson, Shelton (D. White)." newcontext="H,2,29,V48">
+    <p_pa vh="H" qb="Crest, William" result="INC" rcv="Gibson, Shelton"></p_pa>
+    <p_bu vh="V" name="D. White"></p_bu>
+   </play>
+   <play hasball="WVU" down="2" togo="29" spot="GS48" context="H,2,29,V48" playid="12,5,86" type="#" clock="08:53" tokens="TOUT:V T:08:53"
+      text="Timeout Georgia Southern, clock 08:53." newcontext="H,2,29,V48">
+    <p_to vh="V" team="Georgia Southern"></p_to>
+   </play>
+   <play hasball="WVU" down="2" togo="29" spot="GS48" context="H,2,29,V48" playid="12,6,87" type="R" tokens="RUSH:1B,V46, TACK:51"
+      text="Crest, William rush for 2 yards to the GS46 (J. Johnson)." newcontext="H,3,27,V46">
+    <p_ru vh="H" name="Crest, William" gain="2"></p_ru>
+    <p_tk vh="V" name="J. Johnson"></p_tk>
+   </play>
+   <play hasball="WVU" down="3" togo="27" spot="GS46" context="H,3,27,V46" playid="12,7,88" type="U" tokens="PUNT:91,V07 DN:"
+      text="O'Toole, Nick punt 39 yards to the GS7, downed." newcontext="V,1,10,V07">
+    <p_pu vh="H" name="O'Toole, Nick" gain="39" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-17" top="0:54" driveindex="12" complete="Y"></drivesum>
+   <drivestart poss="V,V07,08:12" vh="V" spot="V07" clock="08:12" driveindex="13,88"></drivestart>
+   <play hasball="GS" down="1" togo="10" spot="GS07" context="V,1,10,V07" playid="13,1,89" clock="08:12" tokens="{DRIVE}:08:12"
+      text="GEORGIA SOUTHERN drive start at 08:12." newcontext="V,1,10,V07">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS07" context="V,1,10,V07" playid="13,2,90" type="R" first="R" tokens="RUSH:1U,V20, TACK:8D"
+      text="F. Upshaw rush for 13 yards to the GS20, 1ST DOWN GS (Joseph, Karl)." newcontext="V,1,10,V20">
+    <p_ru vh="V" name="F. Upshaw" gain="13"></p_ru>
+    <p_tk vh="H" name="Joseph, Karl"></p_tk>
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS20" context="V,1,10,V20" playid="13,3,91" type="R" tokens="RUSH:36,V27, TACK:16"
+      text="M. Breida rush for 7 yards to the GS27 (Chestnut, T.)." newcontext="V,2,3,V27">
+    <p_ru vh="V" name="M. Breida" gain="7"></p_ru>
+    <p_tk vh="H" name="Chestnut, T."></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="3" spot="GS27" context="V,2,3,V27" playid="13,4,92" type="R" first="R" tokens="RUSH:36,V32, TACK:93,36"
+      text="M. Breida rush for 5 yards to the GS32, 1ST DOWN GS (Rose, Kyle;Petteway, Shaq)." newcontext="V,1,10,V32">
+    <p_ru vh="V" name="M. Breida" gain="5"></p_ru>
+    <p_tk vh="H" name="Rose, Kyle" assist="Y"></p_tk>
+    <p_tk vh="H" name="Petteway, Shaq" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS32" context="V,1,10,V32" playid="13,5,93" type="R" tokens="RUSH:36,V33, TACK:36,45"
+      text="M. Breida rush for 1 yard to the GS33 (Petteway, Shaq;Kinsey, E.)." newcontext="V,2,9,V33">
+    <p_ru vh="V" name="M. Breida" gain="1"></p_ru>
+    <p_tk vh="H" name="Petteway, Shaq" assist="Y"></p_tk>
+    <p_tk vh="H" name="Kinsey, E." assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="9" spot="GS33" context="V,2,9,V33" playid="13,6,94" type="R" tokens="RUSH:1U,V27, TACK:35"
+      text="F. Upshaw rush for loss of 6 yards to the GS27 (Kwiatkoski, N.)." newcontext="V,3,15,V27">
+    <p_ru vh="V" name="F. Upshaw" gain="-6"></p_ru>
+    <p_tk vh="H" name="Kwiatkoski, N."></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="15" spot="GS27" context="V,3,15,V27" playid="13,7,95" type="P" tokens="PASS:1U,I,12,*"
+      text="F. Upshaw pass incomplete to B. Johnson." newcontext="V,4,15,V27">
+    <p_pa vh="V" qb="F. Upshaw" result="INC" rcv="B. Johnson"></p_pa>
+   </play>
+   <play hasball="GS" down="4" togo="15" spot="GS27" context="V,4,15,V27" playid="13,8,96" type="U" tokens="PUNT:55,H30 DN:"
+      text="M. Flynn punt 43 yards to the WVU30, downed." newcontext="H,1,10,H30">
+    <p_pu vh="V" name="M. Flynn" gain="43"></p_pu>
+   </play>
+   <drivesum plays="6" yards="20" top="2:44" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="H,H30,05:28" vh="H" spot="H30" clock="05:28" driveindex="14,96"></drivestart>
+   <play hasball="WVU" down="1" togo="10" spot="WVU30" context="H,1,10,H30" playid="14,1,97" clock="05:28" tokens="{DRIVE}:05:28"
+      text="WEST VIRGINIA drive start at 05:28." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU30" context="H,1,10,H30" playid="14,2,98" type="P" tokens="PASS:3,I,5,*"
+      text="Howard, Skyler pass incomplete to Durante, Jovon." newcontext="H,2,10,H30">
+    <p_pa vh="H" qb="Howard, Skyler" result="INC" rcv="Durante, Jovon"></p_pa>
+   </play>
+   <play hasball="WVU" down="2" togo="10" spot="WVU30" context="H,2,10,H30" playid="14,3,99" type="P" first="P" tokens="PASS:3,C,1,V23 TACK:27"
+      text="Howard, Skyler pass complete to Gibson, Shelton for 47 yards to the GS23, 1ST DOWN WVU (D. Gallon)." newcontext="H,1,10,V23">
+    <p_pa vh="H" qb="Howard, Skyler" result="COMP" rcv="Gibson, Shelton" gain="47"></p_pa>
+    <p_tk vh="V" name="D. Gallon"></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="GS23" context="H,1,10,V23" playid="14,4,100" type="R" first="R" tokens="RUSH:3,V13, TACK:5,7"
+      text="Howard, Skyler rush for 10 yards to the GS13, 1ST DOWN WVU (D. Jones;M. Dobson)." newcontext="H,1,10,V13">
+    <p_ru vh="H" name="Howard, Skyler" gain="10"></p_ru>
+    <p_tk vh="V" name="D. Jones" assist="Y"></p_tk>
+    <p_tk vh="V" name="M. Dobson" assist="Y"></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="GS13" context="H,1,10,V13" playid="14,5,101" type="R" tokens="RUSH:7,V07, TACK:5,27"
+      text="Shell, Rushel rush for 6 yards to the GS7 (D. Jones;D. Gallon)." newcontext="H,2,4,V07">
+    <p_ru vh="H" name="Shell, Rushel" gain="6"></p_ru>
+    <p_tk vh="V" name="D. Jones" assist="Y"></p_tk>
+    <p_tk vh="V" name="D. Gallon" assist="Y"></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="4" spot="GS07" context="H,2,4,V07" playid="14,6,102" type="R" tokens="RUSH:7,V05, TACK:37,99"
+      text="Shell, Rushel rush for 2 yards to the GS5 (A. Williams;J. Ellison)." newcontext="H,3,2,V05">
+    <p_ru vh="H" name="Shell, Rushel" gain="2"></p_ru>
+    <p_tk vh="V" name="A. Williams" assist="Y"></p_tk>
+    <p_tk vh="V" name="J. Ellison" assist="Y"></p_tk>
+   </play>
+   <play hasball="WVU" down="3" togo="2" spot="GS05" context="H,3,2,V05" playid="14,7,103" type="P" tokens="PASS:3,I,5,*"
+      text="Howard, Skyler pass incomplete to Durante, Jovon." newcontext="H,4,2,V05">
+    <p_pa vh="H" qb="Howard, Skyler" result="INC" rcv="Durante, Jovon"></p_pa>
+   </play>
+   <play hasball="WVU" down="4" togo="2" spot="GS05" context="H,4,2,V05" playid="14,8,104" type="F" score="Y" vscore="0" hscore="16" clock="03:04" tokens="FGA:86,22,G T:03:04"
+      text="Lambert, Josh field goal attempt from 22 GOOD, clock 03:04." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="Lambert, Josh" distance="22" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="0" H="16"></score>
+   <drivesum plays="7" yards="65" top="2:24" driveindex="14" complete="Y"></drivesum>
+   <play hasball="WVU" down="1" togo="0" spot="WVU35" context="H,1,0,H35" playid="14,9,105" type="K" tokens="KO:91,V00 TB:"
+      text="O'Toole, Nick kickoff 65 yards to the GS0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="O'Toole, Nick" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,03:04" vh="V" spot="V25" clock="03:04" driveindex="15,105"></drivestart>
+   <play hasball="GS" down="1" togo="10" spot="GS25" context="V,1,10,V25" playid="15,1,106" clock="03:04" tokens="{DRIVE}:03:04"
+      text="GEORGIA SOUTHERN drive start at 03:04." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS25" context="V,1,10,V25" playid="15,2,107" type="R" tokens="RUSH:36,V27, TACK:8D"
+      text="M. Breida rush for 2 yards to the GS27 (Joseph, Karl)." newcontext="V,2,8,V27">
+    <p_ru vh="V" name="M. Breida" gain="2"></p_ru>
+    <p_tk vh="H" name="Joseph, Karl"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="8" spot="GS27" context="V,2,8,V27" playid="15,3,108" type="P" turnover="I" tokens="PASS:1U,X,6D,H30 RET:6D,H30"
+      text="F. Upshaw pass intercepted by Askew-Henry, D. at the WVU30, Askew-Henry, D. return 0 yards to the WVU30." newcontext="H,1,10,H30">
+    <p_pa vh="V" qb="F. Upshaw" result="INT"></p_pa>
+    <p_ir vh="H" name="Askew-Henry, D." at="H30" gain="0"></p_ir>
+   </play>
+   <drivesum plays="2" yards="2" top="0:41" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="H,H30,02:23" vh="H" spot="H30" clock="02:23" driveindex="16,108"></drivestart>
+   <play hasball="WVU" down="1" togo="10" spot="WVU30" context="H,1,10,H30" playid="16,1,109" clock="02:23" tokens="{DRIVE}:02:23"
+      text="WEST VIRGINIA drive start at 02:23." newcontext="H,1,10,H30">
+   </play>
+   <comment text="The previous play was reviewed and confirmed."></comment>
+   <play hasball="WVU" down="1" togo="10" spot="WVU30" context="H,1,10,H30" playid="16,2,111" type="P" tokens="PASS:3,C,4,H38 TACK:25"
+      text="Howard, Skyler pass complete to Smallwood, W. for 8 yards to the WVU38 (R. Brice)." newcontext="H,2,2,H38">
+    <p_pa vh="H" qb="Howard, Skyler" result="COMP" rcv="Smallwood, W." gain="8"></p_pa>
+    <p_tk vh="V" name="R. Brice"></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="2" spot="WVU38" context="H,2,2,H38" playid="16,3,112" type="P" first="P" tokens="PASS:3,C,6,H48 OB: TACK:25"
+      text="Howard, Skyler pass complete to Shorts, Daikiel for 10 yards to the WVU48, 1ST DOWN WVU, out-of-bounds (R. Brice)." ob="Y" newcontext="H,1,10,H48">
+    <p_pa vh="H" qb="Howard, Skyler" result="COMP" rcv="Shorts, Daikiel" gain="10"></p_pa>
+    <p_tk vh="V" name="R. Brice"></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU48" context="H,1,10,H48" playid="16,4,113" type="R" first="R" tokens="RUSH:4,V40, TACK:14"
+      text="Smallwood, W. rush for 12 yards to the GS40, 1ST DOWN WVU (T. Hicklin)." newcontext="H,1,10,V40">
+    <p_ru vh="H" name="Smallwood, W." gain="12"></p_ru>
+    <p_tk vh="V" name="T. Hicklin"></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="GS40" context="H,1,10,V40" playid="16,5,114" type="P" tokens="PASS:3,I,1,*"
+      text="Howard, Skyler pass incomplete to Gibson, Shelton." newcontext="H,2,10,V40">
+    <p_pa vh="H" qb="Howard, Skyler" result="INC" rcv="Gibson, Shelton"></p_pa>
+   </play>
+   <play hasball="WVU" down="2" togo="10" spot="GS40" context="H,2,10,V40" playid="16,6,115" type="R" tokens="RUSH:3,V39, TACK:5"
+      text="Howard, Skyler rush for 1 yard to the GS39 (D. Jones)." newcontext="H,3,9,V39">
+    <p_ru vh="H" name="Howard, Skyler" gain="1"></p_ru>
+    <p_tk vh="V" name="D. Jones"></p_tk>
+   </play>
+   <play hasball="WVU" down="3" togo="9" spot="GS39" context="H,3,9,V39" playid="16,7,116" type="#" clock="01:11" tokens="TOUT:H T:01:11"
+      text="Timeout West Virginia, clock 01:11." newcontext="H,3,9,V39">
+    <p_to vh="H" team="West Virginia"></p_to>
+   </play>
+   <play hasball="WVU" down="3" togo="9" spot="GS39" context="H,3,9,V39" playid="16,8,117" type="P" tokens="PASS:3,I,5,*"
+      text="Howard, Skyler pass incomplete to Durante, Jovon." newcontext="H,4,9,V39">
+    <p_pa vh="H" qb="Howard, Skyler" result="INC" rcv="Durante, Jovon"></p_pa>
+   </play>
+   <play hasball="WVU" down="4" togo="9" spot="GS39" context="H,4,9,V39" playid="16,9,118" type="#" clock="01:04" tokens="TOUT:H T:01:04"
+      text="Timeout West Virginia, clock 01:04." newcontext="H,4,9,V39">
+    <p_to vh="H" team="West Virginia"></p_to>
+   </play>
+   <play hasball="WVU" down="4" togo="9" spot="GS39" context="H,4,9,V39" playid="16,10,119" type="U" tokens="PUNT:91,V00 TB:"
+      text="O'Toole, Nick punt 39 yards to the GS0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="O'Toole, Nick" gain="39" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="31" top="1:27" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="V,V20,00:56" vh="V" spot="V20" clock="00:56" driveindex="17,119"></drivestart>
+   <play hasball="GS" down="1" togo="10" spot="GS20" context="V,1,10,V20" playid="17,1,120" clock="00:56" tokens="{DRIVE}:00:56"
+      text="GEORGIA SOUTHERN drive start at 00:56." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS20" context="V,1,10,V20" playid="17,2,121" type="R" tokens="RUSH:1,V23, TACK:95"
+      text="L. Ramsby rush for 3 yards to the GS23 (Brown, C.)." newcontext="V,2,7,V23">
+    <p_ru vh="V" name="L. Ramsby" gain="3"></p_ru>
+    <p_tk vh="H" name="Brown, C."></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="7" spot="GS23" context="V,2,7,V23" playid="17,3,122" type="R" tokens="RUSH:1,V25, TACK:95"
+      text="L. Ramsby rush for 2 yards to the GS25 (Brown, C.)." newcontext="V,3,5,V25">
+    <p_ru vh="V" name="L. Ramsby" gain="2"></p_ru>
+    <p_tk vh="H" name="Brown, C."></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="5" spot="GS25" context="V,3,5,V25" playid="17,4,123" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of half, clock 00:00." newcontext="V,3,5,V25">
+   </play>
+   <drivesum plays="2" yards="5" top="0:56" driveindex="17" complete="Y"></drivesum>
+   <score qtr="2" V="0" H="16"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="GS">
+    <firstdowns no="2" rush="2" pass="0" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:13"></misc>
+    <rush att="15" yds="45" gain="51" loss="6" td="0" long="0"></rush>
+    <pass comp="0" att="2" int="1" yds="0" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <punt no="2" yds="83" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="41.5"></punt>
+    <defense tackua="10" tacka="6" tot_tack="16" tflua="1" tfla="0" tflyds="19" sacks="1" sackyds="19" brup="1"></defense>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WVU">
+    <firstdowns no="4" rush="2" pass="2" penalty="0"></firstdowns>
+    <penalties no="2" yds="5"></penalties>
+    <conversions thirdconv="0" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:47"></misc>
+    <rush att="9" yds="27" gain="46" loss="19" td="0" long="0"></rush>
+    <pass comp="4" att="12" int="0" yds="75" td="0" long="0" sacks="1" sackyds="19"></pass>
+    <rcv no="4" yds="75" td="0" long="0"></rcv>
+    <punt no="3" yds="143" long="65" blkd="0" tb="2" fc="0" plus50="1" inside20="1" avg="47.7"></punt>
+    <ko no="2" yds="130" ob="0" tb="2"></ko>
+    <fg made="2" att="2" long="6" blkd="0"></fg>
+    <defense tackua="11" tacka="6" tot_tack="17" tflua="1" tfla="0" tflyds="6" sacks="0" sackyds="0" int="1" intyds="0"></defense>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <scoring fg="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="GS" down="3" togo="5" spot="GS25" context="V,3,5,V25" playid="17,5,124" type="#" clock="15:00" tokens="Q:3 T:15:00 SPOT:H,H35,N"
+      text="Start of 3rd quarter, clock 15:00, WVU ball on WVU35." newcontext="H,3,5,H35">
+   </play>
+   <play hasball="WVU" down="3" togo="5" spot="WVU35" context="H,3,5,H35" playid="17,6,125" type="K" tokens="KO:91,V00 RET:23,V25 TACK:22"
+      text="O'Toole, Nick kickoff 65 yards to the GS0, D. Keaton return 25 yards to the GS25 (Harper, Jarrod)." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="O'Toole, Nick" gain="65"></p_ko>
+    <p_kr vh="V" name="D. Keaton" gain="25"></p_kr>
+    <p_tk vh="H" name="Harper, Jarrod"></p_tk>
+   </play>
+   <drivestart poss="V,V25,14:55" vh="V" spot="V25" clock="14:55" driveindex="18,125"></drivestart>
+   <play hasball="GS" down="1" togo="10" spot="GS25" context="V,1,10,V25" playid="18,1,126" clock="14:55" tokens="{DRIVE}:14:55"
+      text="GEORGIA SOUTHERN drive start at 14:55." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS25" context="V,1,10,V25" playid="18,2,127" type="R" tokens="RUSH:1U,V27, TACK:36"
+      text="F. Upshaw rush for 2 yards to the GS27 (Petteway, Shaq)." newcontext="V,2,8,V27">
+    <p_ru vh="V" name="F. Upshaw" gain="2"></p_ru>
+    <p_tk vh="H" name="Petteway, Shaq"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="8" spot="GS27" context="V,2,8,V27" playid="18,3,128" type="P" turnover="I" tokens="PASS:1U,X,8D,V46 RET:8D,V46"
+      text="F. Upshaw pass intercepted by Joseph, Karl at the GS46, Joseph, Karl return 0 yards to the GS46." newcontext="H,1,10,V46">
+    <p_pa vh="V" qb="F. Upshaw" result="INT"></p_pa>
+    <p_ir vh="H" name="Joseph, Karl" at="V46" gain="0"></p_ir>
+   </play>
+   <drivesum plays="2" yards="2" top="0:31" driveindex="18" complete="Y"></drivesum>
+   <drivestart poss="H,V46,14:24" vh="H" spot="V46" clock="14:24" driveindex="19,128"></drivestart>
+   <play hasball="WVU" down="1" togo="10" spot="GS46" context="H,1,10,V46" playid="19,1,129" clock="14:24" tokens="{DRIVE}:14:24"
+      text="WEST VIRGINIA drive start at 14:24." newcontext="H,1,10,V46">
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="GS46" context="H,1,10,V46" playid="19,2,130" type="R" tokens="RUSH:7,V42, TACK:37,7"
+      text="Shell, Rushel rush for 4 yards to the GS42 (A. Williams;M. Dobson)." newcontext="H,2,6,V42">
+    <p_ru vh="H" name="Shell, Rushel" gain="4"></p_ru>
+    <p_tk vh="V" name="A. Williams" assist="Y"></p_tk>
+    <p_tk vh="V" name="M. Dobson" assist="Y"></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="6" spot="GS42" context="H,2,6,V42" playid="19,3,131" type="P" tokens="PASS:3,S,TM,V47 SACK:27,5D"
+      text="Howard, Skyler sacked for loss of 5 yards to the GS47 (D. Gallon;B. Dawson)." newcontext="H,3,11,V47">
+    <p_pa vh="H" qb="Howard, Skyler" result="SACK" gain="-5"></p_pa>
+    <p_tk vh="V" name="D. Gallon" sack="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="B. Dawson" sack="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="WVU" down="3" togo="11" spot="GS47" context="H,3,11,V47" playid="19,4,132" type="P" tokens="PASS:3,C,4,V42 TACK:5"
+      text="Howard, Skyler pass complete to Smallwood, W. for 5 yards to the GS42 (D. Jones)." newcontext="H,4,6,V42">
+    <p_pa vh="H" qb="Howard, Skyler" result="COMP" rcv="Smallwood, W." gain="5"></p_pa>
+    <p_tk vh="V" name="D. Jones"></p_tk>
+   </play>
+   <play hasball="WVU" down="4" togo="6" spot="GS42" context="H,4,6,V42" playid="19,5,133" type="U" tokens="PUNT:91,V08 FC:84"
+      text="O'Toole, Nick punt 34 yards to the GS8, fair catch by A. Sims." newcontext="V,1,10,V08">
+    <p_pu vh="H" name="O'Toole, Nick" gain="34" in20="Y" fc="A. Sims"></p_pu>
+   </play>
+   <drivesum plays="3" yards="4" top="1:47" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="V,V08,12:37" vh="V" spot="V08" clock="12:37" driveindex="20,133"></drivestart>
+   <play hasball="GS" down="1" togo="10" spot="GS08" context="V,1,10,V08" playid="20,1,134" clock="12:37" tokens="{DRIVE}:12:37"
+      text="GEORGIA SOUTHERN drive start at 12:37." newcontext="V,1,10,V08">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS08" context="V,1,10,V08" playid="20,2,135" type="R" tokens="RUSH:1,V10, TACK:95"
+      text="L. Ramsby rush for 2 yards to the GS10 (Brown, C.)." newcontext="V,2,8,V10">
+    <p_ru vh="V" name="L. Ramsby" gain="2"></p_ru>
+    <p_tk vh="H" name="Brown, C."></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="8" spot="GS10" context="V,2,8,V10" playid="20,3,136" type="R" first="R" tokens="RUSH:1U,V18, TACK:8D"
+      text="F. Upshaw rush for 8 yards to the GS18, 1ST DOWN GS (Joseph, Karl)." newcontext="V,1,10,V18">
+    <p_ru vh="V" name="F. Upshaw" gain="8"></p_ru>
+    <p_tk vh="H" name="Joseph, Karl"></p_tk>
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS18" context="V,1,10,V18" playid="20,4,137" type="R" tokens="RUSH:36,V18, TACK:16"
+      text="M. Breida rush for no gain to the GS18 (Chestnut, T.)." newcontext="V,2,10,V18">
+    <p_ru vh="V" name="M. Breida" gain="0"></p_ru>
+    <p_tk vh="H" name="Chestnut, T."></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="10" spot="GS18" context="V,2,10,V18" playid="20,5,138" type="R" tokens="RUSH:36,V21, TACK:8D,95"
+      text="M. Breida rush for 3 yards to the GS21 (Joseph, Karl;Brown, C.)." newcontext="V,3,7,V21">
+    <p_ru vh="V" name="M. Breida" gain="3"></p_ru>
+    <p_tk vh="H" name="Joseph, Karl" assist="Y"></p_tk>
+    <p_tk vh="H" name="Brown, C." assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="7" spot="GS21" context="V,3,7,V21" playid="20,6,139" type="P" turnover="I" tokens="PASS:1U,X,8D,V28 RET:8D,V28 TACK:12"
+      text="F. Upshaw pass intercepted by Joseph, Karl at the GS28, Joseph, Karl return 0 yards to the GS28 (B. Johnson)." newcontext="H,1,10,V28">
+    <p_pa vh="V" qb="F. Upshaw" result="INT"></p_pa>
+    <p_ir vh="H" name="Joseph, Karl" at="V28" gain="0"></p_ir>
+    <p_tk vh="V" name="B. Johnson"></p_tk>
+   </play>
+   <drivesum plays="5" yards="13" top="2:36" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="H,V28,10:01" vh="H" spot="V28" clock="10:01" driveindex="21,139"></drivestart>
+   <play hasball="WVU" down="1" togo="10" spot="GS28" context="H,1,10,V28" playid="21,1,140" clock="10:01" tokens="{DRIVE}:10:01"
+      text="WEST VIRGINIA drive start at 10:01." newcontext="H,1,10,V28">
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="GS28" context="H,1,10,V28" playid="21,2,141" type="R" tokens="RUSH:4,V25, TACK:27,37"
+      text="Smallwood, W. rush for 3 yards to the GS25 (D. Gallon;A. Williams)." newcontext="H,2,7,V25">
+    <p_ru vh="H" name="Smallwood, W." gain="3"></p_ru>
+    <p_tk vh="V" name="D. Gallon" assist="Y"></p_tk>
+    <p_tk vh="V" name="A. Williams" assist="Y"></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="7" spot="GS25" context="H,2,7,V25" playid="21,3,142" type="P" first="P" tokens="PASS:3,C,6,V06 TACK:16"
+      text="Howard, Skyler pass complete to Shorts, Daikiel for 19 yards to the GS6, 1ST DOWN WVU (A. Glover)." newcontext="H,1,0,V06">
+    <p_pa vh="H" qb="Howard, Skyler" result="COMP" rcv="Shorts, Daikiel" gain="19"></p_pa>
+    <p_tk vh="V" name="A. Glover"></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="0" spot="GS06" context="H,1,0,V06" playid="21,4,143" type="R" score="Y" vscore="0" hscore="22" clock="09:12" tokens="RUSH:7,V00, T:09:12"
+      text="Shell, Rushel rush for 6 yards to the GS0, TOUCHDOWN, clock 09:12." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Shell, Rushel" gain="6"></p_ru>
+   </play>
+   <play hasball="WVU" down="1" togo="0" spot="GS03" context="H,1,0,V03" playid="21,5,144" type="X" score="Y" vscore="0" hscore="23" tokens="PAT:K,86,G"
+      text="Lambert, Josh kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Lambert, Josh" qb="Lambert, Josh" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="23"></score>
+   <drivesum plays="3" yards="28" top="0:49" driveindex="21" complete="Y"></drivesum>
+   <play hasball="WVU" down="1" togo="0" spot="WVU35" context="H,1,0,H35" playid="21,6,145" type="K" tokens="KO:91,V05 RET:9C,V17 TACK:18"
+      text="O'Toole, Nick kickoff 60 yards to the GS5, M. Crockett return 12 yards to the GS17 (Gross, Marvin)." newcontext="V,1,10,V17">
+    <p_ko vh="H" name="O'Toole, Nick" gain="60"></p_ko>
+    <p_kr vh="V" name="M. Crockett" gain="12"></p_kr>
+    <p_tk vh="H" name="Gross, Marvin"></p_tk>
+   </play>
+   <drivestart poss="V,V17,09:06" vh="V" spot="V17" clock="09:06" driveindex="22,145"></drivestart>
+   <play hasball="GS" down="1" togo="10" spot="GS17" context="V,1,10,V17" playid="22,1,146" clock="09:06" tokens="{DRIVE}:09:06"
+      text="GEORGIA SOUTHERN drive start at 09:06." newcontext="V,1,10,V17">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS17" context="V,1,10,V17" playid="22,2,147" type="R" first="R" tokens="RUSH:36,V31, TACK:16"
+      text="M. Breida rush for 14 yards to the GS31, 1ST DOWN GS (Chestnut, T.)." newcontext="V,1,10,V31">
+    <p_ru vh="V" name="M. Breida" gain="14"></p_ru>
+    <p_tk vh="H" name="Chestnut, T."></p_tk>
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS31" context="V,1,10,V31" playid="22,3,148" type="R" first="R" tokens="RUSH:1U,H47, OB: TACK:8D"
+      text="F. Upshaw rush for 22 yards to the WVU47, 1ST DOWN GS, out-of-bounds (Joseph, Karl)." ob="Y" newcontext="V,1,10,H47">
+    <p_ru vh="V" name="F. Upshaw" gain="22"></p_ru>
+    <p_tk vh="H" name="Joseph, Karl"></p_tk>
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="WVU47" context="V,1,10,H47" playid="22,4,149" type="P" first="P" tokens="PASS:1U,C,12,H35 OB: TACK:7D"
+      text="F. Upshaw pass complete to B. Johnson for 12 yards to the WVU35, 1ST DOWN GS, out-of-bounds (Worley, Daryl)." ob="Y" newcontext="V,1,10,H35">
+    <p_pa vh="V" qb="F. Upshaw" result="COMP" rcv="B. Johnson" gain="12"></p_pa>
+    <p_tk vh="H" name="Worley, Daryl"></p_tk>
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="WVU35" context="V,1,10,H35" playid="22,5,150" type="R" tokens="RUSH:1,H32, TACK:35"
+      text="L. Ramsby rush for 3 yards to the WVU32 (Kwiatkoski, N.)." newcontext="V,2,7,H32">
+    <p_ru vh="V" name="L. Ramsby" gain="3"></p_ru>
+    <p_tk vh="H" name="Kwiatkoski, N."></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="7" spot="WVU32" context="V,2,7,H32" playid="22,6,151" type="R" tokens="RUSH:36,H32, TACK:17"
+      text="M. Breida rush for no gain to the WVU32 (Benton, A.)." newcontext="V,3,7,H32">
+    <p_ru vh="V" name="M. Breida" gain="0"></p_ru>
+    <p_tk vh="H" name="Benton, A."></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="7" spot="WVU32" context="V,3,7,H32" playid="22,7,152" type="R" tokens="RUSH:1U,H30, TACK:8D"
+      text="F. Upshaw rush for 2 yards to the WVU30 (Joseph, Karl)." newcontext="V,4,5,H30">
+    <p_ru vh="V" name="F. Upshaw" gain="2"></p_ru>
+    <p_tk vh="H" name="Joseph, Karl"></p_tk>
+   </play>
+   <play hasball="GS" down="4" togo="5" spot="WVU30" context="V,4,5,H30" playid="22,8,153" type="P" tokens="PASS:1U,I,12,*"
+      text="F. Upshaw pass incomplete to B. Johnson." newcontext="H,1,10,H30">
+    <p_pa vh="V" qb="F. Upshaw" result="INC" rcv="B. Johnson"></p_pa>
+   </play>
+   <drivesum plays="7" yards="53" top="3:17" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="H,H30,05:49" vh="H" spot="H30" clock="05:49" driveindex="23,153"></drivestart>
+   <play hasball="WVU" down="1" togo="10" spot="WVU30" context="H,1,10,H30" playid="23,1,154" clock="05:49" tokens="{DRIVE}:05:49"
+      text="WEST VIRGINIA drive start at 05:49." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU30" context="H,1,10,H30" playid="23,2,155" type="P" first="P" tokens="PASS:3,C,5,V47"
+      text="Howard, Skyler pass complete to Durante, Jovon for 23 yards to the GS47, 1ST DOWN WVU." newcontext="H,1,10,V47">
+    <p_pa vh="H" qb="Howard, Skyler" result="COMP" rcv="Durante, Jovon" gain="23"></p_pa>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="GS47" context="H,1,10,V47" playid="23,3,156" type="R" tokens="RUSH:4,V41, TACK:2"
+      text="Smallwood, W. rush for 6 yards to the GS41 (S. Williams)." newcontext="H,2,4,V41">
+    <p_ru vh="H" name="Smallwood, W." gain="6"></p_ru>
+    <p_tk vh="V" name="S. Williams"></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="4" spot="GS41" context="H,2,4,V41" playid="23,4,157" type="R" first="R" tokens="RUSH:4,V26, OB: TACK:5"
+      text="Smallwood, W. rush for 15 yards to the GS26, 1ST DOWN WVU, out-of-bounds (D. Jones)." ob="Y" newcontext="H,1,10,V26">
+    <p_ru vh="H" name="Smallwood, W." gain="15"></p_ru>
+    <p_tk vh="V" name="D. Jones"></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="GS26" context="H,1,10,V26" playid="23,5,158" type="P" first="P" score="Y" vscore="0" hscore="29" clock="04:19" tokens="PASS:3,C,1,V00 T:04:19"
+      text="Howard, Skyler pass complete to Gibson, Shelton for 26 yards to the GS0, 1ST DOWN WVU, TOUCHDOWN, clock 04:19." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Howard, Skyler" result="COMP" rcv="Gibson, Shelton" gain="26"></p_pa>
+   </play>
+   <play hasball="WVU" down="1" togo="0" spot="GS03" context="H,1,0,V03" playid="23,6,159" type="X" score="Y" vscore="0" hscore="30" tokens="PAT:K,86,G"
+      text="Lambert, Josh kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Lambert, Josh" qb="Lambert, Josh" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="30"></score>
+   <drivesum plays="4" yards="70" top="1:30" driveindex="23" complete="Y"></drivesum>
+   <play hasball="WVU" down="1" togo="0" spot="WVU35" context="H,1,0,H35" playid="23,7,160" type="K" tokens="KO:48,V00 TB:"
+      text="Molina, Mike kickoff 65 yards to the GS0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Molina, Mike" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,04:19" vh="V" spot="V25" clock="04:19" driveindex="24,160"></drivestart>
+   <play hasball="GS" down="1" togo="10" spot="GS25" context="V,1,10,V25" playid="24,1,161" clock="04:19" tokens="{DRIVE}:04:19"
+      text="GEORGIA SOUTHERN drive start at 04:19." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS25" context="V,1,10,V25" playid="24,2,162" type="R" first="R" tokens="RUSH:36,V38, TACK:9"
+      text="M. Breida rush for 13 yards to the GS38, 1ST DOWN GS (Dillon, KJ)." newcontext="V,1,10,V38">
+    <p_ru vh="V" name="M. Breida" gain="13"></p_ru>
+    <p_tk vh="H" name="Dillon, KJ"></p_tk>
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS38" context="V,1,10,V38" playid="24,3,163" type="R" tokens="RUSH:36,V35, TACK:17"
+      text="M. Breida rush for loss of 3 yards to the GS35 (Benton, A.)." newcontext="V,2,13,V35">
+    <p_ru vh="V" name="M. Breida" gain="-3"></p_ru>
+    <p_tk vh="H" name="Benton, A."></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="13" spot="GS35" context="V,2,13,V35" playid="24,4,164" type="P" first="P" tokens="PASS:1U,C,23,H48 OB:"
+      text="F. Upshaw pass complete to D. Keaton for 17 yards to the WVU48, 1ST DOWN GS, out-of-bounds." ob="Y" newcontext="V,1,10,H48">
+    <p_pa vh="V" qb="F. Upshaw" result="COMP" rcv="D. Keaton" gain="17"></p_pa>
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="WVU48" context="V,1,10,H48" playid="24,5,165" type="R" tokens="RUSH:1,H44, TACK:8D"
+      text="L. Ramsby rush for 4 yards to the WVU44 (Joseph, Karl)." newcontext="V,2,6,H44">
+    <p_ru vh="V" name="L. Ramsby" gain="4"></p_ru>
+    <p_tk vh="H" name="Joseph, Karl"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="6" spot="WVU44" context="V,2,6,H44" playid="24,6,166" type="E" first="E" tokens="PEN:H,FM,A,95,H29,N"
+      text="PENALTY WVU face mask (Brown, C.) 15 yards to the WVU29, 1ST DOWN GS." newcontext="V,1,10,H29">
+    <p_pn vh="H" code="FM" type="face mask" name="Brown, C." result="ACCEPT" at="H44" yards="15"></p_pn>
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="WVU29" context="V,1,10,H29" playid="24,7,167" type="R" tokens="RUSH:36,H25, TACK:35"
+      text="M. Breida rush for 4 yards to the WVU25 (Kwiatkoski, N.)." newcontext="V,2,6,H25">
+    <p_ru vh="V" name="M. Breida" gain="4"></p_ru>
+    <p_tk vh="H" name="Kwiatkoski, N."></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="6" spot="WVU25" context="V,2,6,H25" playid="24,8,168" type="P" tokens="PASS:1U,F,TM,H29 SACK:97 FUMB:V,H28,9W"
+      text="F. Upshaw sacked for loss of 4 yards to the WVU29 (Nwachukwu, N.), fumble by F. Upshaw recovered by GS J. Ward at WVU28." newcontext="V,3,9,H28">
+    <p_pa vh="V" qb="F. Upshaw" result="FUMB" gain="-4"></p_pa>
+    <p_fumb vh="V" name="F. Upshaw" at="H28" frvh="V" frname="J. Ward"></p_fumb>
+    <p_tk vh="H" name="Nwachukwu, N." sack="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="9" spot="WVU28" context="V,3,9,H28" playid="24,9,169" type="P" tokens="PASS:1U,I,31,*"
+      text="F. Upshaw pass incomplete to R. Longoria." newcontext="V,4,9,H28">
+    <p_pa vh="V" qb="F. Upshaw" result="INC" rcv="R. Longoria"></p_pa>
+   </play>
+   <play hasball="GS" down="4" togo="9" spot="WVU28" context="V,4,9,H28" playid="24,10,170" type="P" turnover="I" tokens="PASS:1U,X,8D,H15 RET:8D,H15"
+      text="F. Upshaw pass intercepted by Joseph, Karl at the WVU15, Joseph, Karl return 0 yards to the WVU15." newcontext="H,1,10,H15">
+    <p_pa vh="V" qb="F. Upshaw" result="INT"></p_pa>
+    <p_ir vh="H" name="Joseph, Karl" at="H15" gain="0"></p_ir>
+   </play>
+   <drivesum plays="8" yards="47" top="3:35" driveindex="24" complete="Y"></drivesum>
+   <drivestart poss="H,H15,00:44" vh="H" spot="H15" clock="00:44" driveindex="25,170"></drivestart>
+   <play hasball="WVU" down="1" togo="10" spot="WVU15" context="H,1,10,H15" playid="25,1,171" clock="00:44" tokens="{DRIVE}:00:44"
+      text="WEST VIRGINIA drive start at 00:44." newcontext="H,1,10,H15">
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU15" context="H,1,10,H15" playid="25,2,172" type="R" first="R" tokens="RUSH:4,H34, OB: TACK:1W"
+      text="Smallwood, W. rush for 19 yards to the WVU34, 1ST DOWN WVU, out-of-bounds (C. Williams)." ob="Y" newcontext="H,1,10,H34">
+    <p_ru vh="H" name="Smallwood, W." gain="19"></p_ru>
+    <p_tk vh="V" name="C. Williams"></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU34" context="H,1,10,H34" playid="25,3,173" type="P" first="P" tokens="PASS:3,C,10,H48 TACK:7"
+      text="Howard, Skyler pass complete to Thompson, J. for 14 yards to the WVU48, 1ST DOWN WVU (M. Dobson)." newcontext="H,1,10,H48">
+    <p_pa vh="H" qb="Howard, Skyler" result="COMP" rcv="Thompson, J." gain="14"></p_pa>
+    <p_tk vh="V" name="M. Dobson"></p_tk>
+   </play>
+   <score qtr="3" V="0" H="30"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="GS">
+    <firstdowns no="7" rush="4" pass="2" penalty="1"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="2"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="10:10"></misc>
+    <rush att="15" yds="71" gain="77" loss="6" td="0" long="6"></rush>
+    <pass comp="2" att="7" int="3" yds="29" td="0" long="17" sacks="1" sackyds="4"></pass>
+    <rcv no="2" yds="29" td="0" long="17"></rcv>
+    <defense tackua="7" tacka="6" tot_tack="13" tflua="0" tfla="2" tflyds="5" sacks="1" sackyds="5"></defense>
+    <kr no="2" yds="37" td="0" long="0"></kr>
+    <fumbles no="1" lost="0"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WVU">
+    <firstdowns no="6" rush="2" pass="4" penalty="0"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="0" thirdatt="1" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="04:50"></misc>
+    <rush att="7" yds="48" gain="53" loss="5" td="1" long="3"></rush>
+    <pass comp="5" att="5" int="0" yds="87" td="1" long="0" sacks="1" sackyds="5"></pass>
+    <rcv no="5" yds="87" td="1" long="0"></rcv>
+    <punt no="1" yds="34" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="34.0"></punt>
+    <ko no="3" yds="190" ob="0" tb="1"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="17" tacka="2" tot_tack="19" tflua="2" tfla="0" tflyds="7" sacks="1" sackyds="4" ff="1" int="3" intyds="0"></defense>
+    <ir no="3" yds="0" td="0" long="0"></ir>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="WVU" down="1" togo="10" spot="WVU48" context="H,1,10,H48" playid="25,4,174" type="#" clock="15:00" tokens="Q:4 T:15:00"
+      text="Start of 4th quarter, clock 15:00." newcontext="H,1,10,H48">
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU48" context="H,1,10,H48" playid="25,5,175" type="R" tokens="RUSH:3,V43, OB: TACK:16"
+      text="Howard, Skyler rush for 9 yards to the GS43, out-of-bounds (A. Glover)." ob="Y" newcontext="H,2,1,V43">
+    <p_ru vh="H" name="Howard, Skyler" gain="9"></p_ru>
+    <p_tk vh="V" name="A. Glover"></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="1" spot="GS43" context="H,2,1,V43" playid="25,6,176" type="R" tokens="RUSH:3,V45, TACK:90,14"
+      text="Howard, Skyler rush for loss of 2 yards to the GS45 (D. Sapp;T. Hicklin)." newcontext="H,3,3,V45">
+    <p_ru vh="H" name="Howard, Skyler" gain="-2"></p_ru>
+    <p_tk vh="V" name="D. Sapp" assist="Y"></p_tk>
+    <p_tk vh="V" name="T. Hicklin" assist="Y"></p_tk>
+   </play>
+   <play hasball="WVU" down="3" togo="3" spot="GS45" context="H,3,3,V45" playid="25,7,177" type="P" first="P" tokens="PASS:3,C,6,V19 TACK:16"
+      text="Howard, Skyler pass complete to Shorts, Daikiel for 26 yards to the GS19, 1ST DOWN WVU (A. Glover)." newcontext="H,1,10,V19">
+    <p_pa vh="H" qb="Howard, Skyler" result="COMP" rcv="Shorts, Daikiel" gain="26"></p_pa>
+    <p_tk vh="V" name="A. Glover"></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="GS19" context="H,1,10,V19" playid="25,8,178" type="R" first="R" score="Y" vscore="0" hscore="36" clock="13:23" tokens="RUSH:4,V00, T:13:23"
+      text="Smallwood, W. rush for 19 yards to the GS0, 1ST DOWN WVU, TOUCHDOWN, clock 13:23." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Smallwood, W." gain="19"></p_ru>
+   </play>
+   <play hasball="WVU" down="1" togo="0" spot="GS03" context="H,1,0,V03" playid="25,9,179" type="X" score="Y" vscore="0" hscore="37" tokens="PAT:K,86,G"
+      text="Lambert, Josh kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Lambert, Josh" qb="Lambert, Josh" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="37"></score>
+   <drivesum plays="6" yards="85" top="2:21" driveindex="25" complete="Y"></drivesum>
+   <play hasball="WVU" down="1" togo="0" spot="WVU35" context="H,1,0,H35" playid="25,10,180" type="K" tokens="KO:48,V00 RET:9C,V13 TACK:24"
+      text="Molina, Mike kickoff 65 yards to the GS0, M. Crockett return 13 yards to the GS13 (Tyler, Jeremy)." newcontext="V,1,10,V13">
+    <p_ko vh="H" name="Molina, Mike" gain="65"></p_ko>
+    <p_kr vh="V" name="M. Crockett" gain="13"></p_kr>
+    <p_tk vh="H" name="Tyler, Jeremy"></p_tk>
+   </play>
+   <drivestart poss="V,V13,13:19" vh="V" spot="V13" clock="13:19" driveindex="26,180"></drivestart>
+   <play hasball="GS" down="1" togo="10" spot="GS13" context="V,1,10,V13" playid="26,1,181" clock="13:19" tokens="{DRIVE}:13:19"
+      text="GEORGIA SOUTHERN drive start at 13:19." newcontext="V,1,10,V13">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS13" context="V,1,10,V13" playid="26,2,182" type="R" tokens="RUSH:2F,V19, TACK:93,5D"
+      text="W. Fields rush for 6 yards to the GS19 (Rose, Kyle;Preston, Xavier)." newcontext="V,2,4,V19">
+    <p_ru vh="V" name="W. Fields" gain="6"></p_ru>
+    <p_tk vh="H" name="Rose, Kyle" assist="Y"></p_tk>
+    <p_tk vh="H" name="Preston, Xavier" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="4" spot="GS19" context="V,2,4,V19" playid="26,3,183" type="R" tokens="RUSH:2F,V20, TACK:93"
+      text="W. Fields rush for 1 yard to the GS20 (Rose, Kyle)." newcontext="V,3,3,V20">
+    <p_ru vh="V" name="W. Fields" gain="1"></p_ru>
+    <p_tk vh="H" name="Rose, Kyle"></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="3" spot="GS20" context="V,3,3,V20" playid="26,4,184" type="R" first="R" tokens="RUSH:2F,V25, TACK:93,5D"
+      text="W. Fields rush for 5 yards to the GS25, 1ST DOWN GS (Rose, Kyle;Preston, Xavier)." newcontext="V,1,10,V25">
+    <p_ru vh="V" name="W. Fields" gain="5"></p_ru>
+    <p_tk vh="H" name="Rose, Kyle" assist="Y"></p_tk>
+    <p_tk vh="H" name="Preston, Xavier" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS25" context="V,1,10,V25" playid="26,5,185" type="R" tokens="RUSH:2F,V28, TACK:27"
+      text="W. Fields rush for 3 yards to the GS28 (Walter, Sean)." newcontext="V,2,7,V28">
+    <p_ru vh="V" name="W. Fields" gain="3"></p_ru>
+    <p_tk vh="H" name="Walter, Sean"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="7" spot="GS28" context="V,2,7,V28" playid="26,6,186" type="R" tokens="RUSH:10,V34, TACK:24,22"
+      text="V. Harley rush for 6 yards to the GS34 (Tyler, Jeremy;Harper, Jarrod)." newcontext="V,3,1,V34">
+    <p_ru vh="V" name="V. Harley" gain="6"></p_ru>
+    <p_tk vh="H" name="Tyler, Jeremy" assist="Y"></p_tk>
+    <p_tk vh="H" name="Harper, Jarrod" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="1" spot="GS34" context="V,3,1,V34" playid="26,7,187" type="R" first="R" tokens="RUSH:2F,V35, TACK:92,49"
+      text="W. Fields rush for 1 yard to the GS35, 1ST DOWN GS (Lewis, Jon;Howard, Darrien)." newcontext="V,1,10,V35">
+    <p_ru vh="V" name="W. Fields" gain="1"></p_ru>
+    <p_tk vh="H" name="Lewis, Jon" assist="Y"></p_tk>
+    <p_tk vh="H" name="Howard, Darrien" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS35" context="V,1,10,V35" playid="26,8,188" type="R" tokens="RUSH:2B,V38, TACK:92,45"
+      text="T. Banks rush for 3 yards to the GS38 (Lewis, Jon;Kinsey, E.)." newcontext="V,2,7,V38">
+    <p_ru vh="V" name="T. Banks" gain="3"></p_ru>
+    <p_tk vh="H" name="Lewis, Jon" assist="Y"></p_tk>
+    <p_tk vh="H" name="Kinsey, E." assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="7" spot="GS38" context="V,2,7,V38" playid="26,9,189" type="R" tokens="RUSH:2F,V41, TACK:45,30"
+      text="W. Fields rush for 3 yards to the GS41 (Kinsey, E.;Arndt, Justin)." newcontext="V,3,4,V41">
+    <p_ru vh="V" name="W. Fields" gain="3"></p_ru>
+    <p_tk vh="H" name="Kinsey, E." assist="Y"></p_tk>
+    <p_tk vh="H" name="Arndt, Justin" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="4" spot="GS41" context="V,3,4,V41" playid="26,10,190" type="R" tokens="RUSH:2F,V44, TACK:30"
+      text="W. Fields rush for 3 yards to the GS44 (Arndt, Justin)." newcontext="V,4,1,V44">
+    <p_ru vh="V" name="W. Fields" gain="3"></p_ru>
+    <p_tk vh="H" name="Arndt, Justin"></p_tk>
+   </play>
+   <play hasball="GS" down="4" togo="1" spot="GS44" context="V,4,1,V44" playid="26,11,191" type="R" tokens="RUSH:2F,V41, TACK:45,14"
+      text="W. Fields rush for loss of 3 yards to the GS41 (Kinsey, E.;Kyeremeh, Nana)." newcontext="H,1,10,V41">
+    <p_ru vh="V" name="W. Fields" gain="-3"></p_ru>
+    <p_tk vh="H" name="Kinsey, E." assist="Y"></p_tk>
+    <p_tk vh="H" name="Kyeremeh, Nana" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="10" yards="28" top="5:32" driveindex="26" complete="Y"></drivesum>
+   <drivestart poss="H,V41,07:47" vh="H" spot="V41" clock="07:47" driveindex="27,191"></drivestart>
+   <play hasball="WVU" down="1" togo="10" spot="GS41" context="H,1,10,V41" playid="27,1,192" clock="07:47" tokens="{DRIVE}:07:47"
+      text="WEST VIRGINIA drive start at 07:47." newcontext="H,1,10,V41">
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="GS41" context="H,1,10,V41" playid="27,2,193" type="R" first="R" tokens="RUSH:1B,V24, OB: TACK:32"
+      text="Crest, William rush for 17 yards to the GS24, 1ST DOWN WVU, out-of-bounds (W. Bussey)." ob="Y" newcontext="H,1,10,V24">
+    <p_ru vh="H" name="Crest, William" gain="17"></p_ru>
+    <p_tk vh="V" name="W. Bussey"></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="GS24" context="H,1,10,V24" playid="27,3,194" type="R" tokens="RUSH:8,V20, TACK:91"
+      text="Thomas-Williams rush for 4 yards to the GS20 (L. Hunt)." newcontext="H,2,6,V20">
+    <p_ru vh="H" name="Thomas-Williams" gain="4"></p_ru>
+    <p_tk vh="V" name="L. Hunt"></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="6" spot="GS20" context="H,2,6,V20" playid="27,4,195" type="R" tokens="RUSH:8,V17, TACK:9G"
+      text="Thomas-Williams rush for 3 yards to the GS17 (J. GreenStewart)." newcontext="H,3,3,V17">
+    <p_ru vh="H" name="Thomas-Williams" gain="3"></p_ru>
+    <p_tk vh="V" name="J. GreenStewart"></p_tk>
+   </play>
+   <play hasball="WVU" down="3" togo="3" spot="GS17" context="H,3,3,V17" playid="27,5,196" type="R" first="R" tokens="RUSH:1B,V14, TACK:37"
+      text="Crest, William rush for 3 yards to the GS14, 1ST DOWN WVU (A. Williams)." newcontext="H,1,10,V14">
+    <p_ru vh="H" name="Crest, William" gain="3"></p_ru>
+    <p_tk vh="V" name="A. Williams"></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="GS14" context="H,1,10,V14" playid="27,6,197" type="R" tokens="RUSH:8,V11, TACK:9G"
+      text="Thomas-Williams rush for 3 yards to the GS11 (J. GreenStewart)." newcontext="H,2,7,V11">
+    <p_ru vh="H" name="Thomas-Williams" gain="3"></p_ru>
+    <p_tk vh="V" name="J. GreenStewart"></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="7" spot="GS11" context="H,2,7,V11" playid="27,7,198" type="R" tokens="RUSH:8,V07, TACK:2"
+      text="Thomas-Williams rush for 4 yards to the GS7 (S. Williams)." newcontext="H,3,3,V07">
+    <p_ru vh="H" name="Thomas-Williams" gain="4"></p_ru>
+    <p_tk vh="V" name="S. Williams"></p_tk>
+   </play>
+   <play hasball="WVU" down="3" togo="3" spot="GS07" context="H,3,3,V07" playid="27,8,199" type="R" tokens="RUSH:8,V05, TACK:34"
+      text="Thomas-Williams rush for 2 yards to the GS5 (C. DeLaRosa)." newcontext="H,4,1,V05">
+    <p_ru vh="H" name="Thomas-Williams" gain="2"></p_ru>
+    <p_tk vh="V" name="C. DeLaRosa"></p_tk>
+   </play>
+   <play hasball="WVU" down="4" togo="1" spot="GS05" context="H,4,1,V05" playid="27,9,200" type="#" clock="03:49" tokens="TOUT:H T:03:49"
+      text="Timeout West Virginia, clock 03:49." newcontext="H,4,1,V05">
+    <p_to vh="H" team="West Virginia"></p_to>
+   </play>
+   <play hasball="WVU" down="4" togo="1" spot="GS05" context="H,4,1,V05" playid="27,10,201" type="R" first="R" tokens="RUSH:8,V02, TACK:37"
+      text="Thomas-Williams rush for 3 yards to the GS2, 1ST DOWN WVU (A. Williams)." newcontext="H,1,0,V02">
+    <p_ru vh="H" name="Thomas-Williams" gain="3"></p_ru>
+    <p_tk vh="V" name="A. Williams"></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="0" spot="GS02" context="H,1,0,V02" playid="27,11,202" type="R" tokens="RUSH:8,V02, FORCE:42 FUMB:H,V02,8"
+      text="Thomas-Williams rush for no gain to the GS2, fumble forced by N. Govan, fumble by Thomas-Williams recovered by WVU Thomas-Williams at GS2." newcontext="H,2,0,V02">
+    <p_ru vh="H" name="Thomas-Williams" gain="0"></p_ru>
+    <p_fumb vh="H" name="Thomas-Williams" at="V02" frvh="H" frname="Thomas-Williams"></p_fumb>
+    <p_tk vh="V" name="N. Govan" ff="Y"></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="0" spot="GS02" context="H,2,0,V02" playid="27,12,203" type="R" score="Y" vscore="0" hscore="43" clock="02:26" tokens="RUSH:1B,V00, T:02:26"
+      text="Crest, William rush for 2 yards to the GS0, TOUCHDOWN, clock 02:26." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Crest, William" gain="2"></p_ru>
+   </play>
+   <play hasball="WVU" down="1" togo="0" spot="GS03" context="H,1,0,V03" playid="27,13,204" type="X" score="Y" vscore="0" hscore="44" tokens="PAT:K,86,G"
+      text="Lambert, Josh kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Lambert, Josh" qb="Lambert, Josh" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="44"></score>
+   <drivesum plays="10" yards="41" top="5:21" driveindex="27" complete="Y"></drivesum>
+   <play hasball="WVU" down="1" togo="0" spot="WVU35" context="H,1,0,H35" playid="27,14,205" type="K" tokens="KO:48,V00 TB:"
+      text="Molina, Mike kickoff 65 yards to the GS0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Molina, Mike" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,02:26" vh="V" spot="V25" clock="02:26" driveindex="28,205"></drivestart>
+   <play hasball="GS" down="1" togo="10" spot="GS25" context="V,1,10,V25" playid="28,1,206" clock="02:26" tokens="{DRIVE}:02:26"
+      text="GEORGIA SOUTHERN drive start at 02:26." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS25" context="V,1,10,V25" playid="28,2,207" type="R" tokens="RUSH:2B,V27, TACK:24"
+      text="T. Banks rush for 2 yards to the GS27 (Tyler, Jeremy)." newcontext="V,2,8,V27">
+    <p_ru vh="V" name="T. Banks" gain="2"></p_ru>
+    <p_tk vh="H" name="Tyler, Jeremy"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="8" spot="GS27" context="V,2,8,V27" playid="28,3,208" type="R" tokens="RUSH:43,V34, TACK:24"
+      text="C. Thornton rush for 7 yards to the GS34 (Tyler, Jeremy)." newcontext="V,3,1,V34">
+    <p_ru vh="V" name="C. Thornton" gain="7"></p_ru>
+    <p_tk vh="H" name="Tyler, Jeremy"></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="1" spot="GS34" context="V,3,1,V34" playid="28,4,209" type="R" tokens="RUSH:10,V32, TACK:22"
+      text="V. Harley rush for loss of 2 yards to the GS32 (Harper, Jarrod)." newcontext="V,4,3,V32">
+    <p_ru vh="V" name="V. Harley" gain="-2"></p_ru>
+    <p_tk vh="H" name="Harper, Jarrod"></p_tk>
+   </play>
+   <play hasball="GS" down="4" togo="3" spot="GS32" context="V,4,3,V32" playid="28,5,210" type="U" tokens="PUNT:49,H19 OB:"
+      text="R. Nowicki punt 49 yards to the WVU19, out-of-bounds." ob="Y" newcontext="H,1,10,H19">
+    <p_pu vh="V" name="R. Nowicki" gain="49" in20="Y" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="7" top="2:05" driveindex="28" complete="Y"></drivesum>
+   <drivestart poss="H,H19,00:21" vh="H" spot="H19" clock="00:21" driveindex="29,210"></drivestart>
+   <play hasball="WVU" down="1" togo="10" spot="WVU19" context="H,1,10,H19" playid="29,1,211" clock="00:21" tokens="{DRIVE}:00:21"
+      text="WEST VIRGINIA drive start at 00:21." newcontext="H,1,10,H19">
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU19" context="H,1,10,H19" playid="29,2,212" type="R" tokens="RUSH:TM,H16,"
+      text="TEAM rush for loss of 3 yards to the WVU16." newcontext="H,2,13,H16">
+    <p_ru vh="H" name="TEAM" gain="-3"></p_ru>
+   </play>
+   <play hasball="WVU" down="2" togo="13" spot="WVU16" context="H,2,13,H16" playid="29,3,213" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of game, clock 00:00." newcontext="H,2,13,H16">
+   </play>
+   <drivesum plays="1" yards="-3" top="0:21" driveindex="29" complete="Y"></drivesum>
+   <score final="Y" V="0" H="44"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="GS">
+    <firstdowns no="2" rush="2" pass="0" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:41"></misc>
+    <rush att="13" yds="35" gain="40" loss="5" td="0" long="0"></rush>
+    <punt no="1" yds="49" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="49.0"></punt>
+    <defense tackua="11" tacka="2" tot_tack="13" tflua="0" tfla="2" tflyds="2" sacks="0" sackyds="0" ff="1"></defense>
+    <kr no="1" yds="13" td="0" long="0"></kr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WVU">
+    <firstdowns no="5" rush="4" pass="1" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="07:19"></misc>
+    <rush att="14" yds="64" gain="69" loss="5" td="2" long="0"></rush>
+    <pass comp="1" att="1" int="0" yds="26" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="26" td="0" long="0"></rcv>
+    <ko no="2" yds="130" ob="0" tb="1"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="7" tacka="14" tot_tack="21" tflua="1" tfla="2" tflyds="5" sacks="0" sackyds="0"></defense>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="WVU" down="2" togo="13" spot="WVU16" context="H,2,13,H16" qtr="4" clock="00:00" vtoh="0" htoh="1"
+       lastplay="End of game, clock 00:00."></downtogo>
+ </plays>
+ <message text=""></message>
+ <dnp vh="V" id="GS">
+  <player name="D. Glenn" checkname="GLENN,D" uni="1G" class="FR" gp="0" code="1G"></player>
+  <player name="N. Hickey" checkname="HICKEY,N" uni="2H" class="FR" gp="0" code="2H"></player>
+  <player name="D. Godfrey" checkname="GODFREY,D" uni="2G" class="FR" gp="0" code="2G"></player>
+  <player name="J. Schofill" checkname="SCHOFILL,J" uni="2C" class="FR" gp="0" code="2C"></player>
+  <player name="T. Stewart" checkname="STEWART,T" uni="2K" class="FR" gp="0" code="2K"></player>
+  <player name="J. Bowdry" checkname="BOWDRY,J" uni="2Y" class="FR" gp="0" code="2Y"></player>
+  <player name="R. Brown" checkname="BROWN,R" uni="2I" class="SR" gp="0" code="2I"></player>
+  <player name="R. Murray" checkname="MURRAY,R" uni="2L" class="FR" gp="0" code="2L"></player>
+  <player name="C. Saggus" checkname="SAGGUS,C" uni="2S" class="JR" gp="0" code="2S"></player>
+  <player name="M. Hallback" checkname="HALLBACK,M" uni="3H" class="FR" gp="0" code="3H"></player>
+  <player name="K. Oehlbeck" checkname="OEHLBECK,K" uni="3K" class="SO" gp="0" code="3K"></player>
+  <player name="L. Ecton" checkname="ECTON,L" uni="4E" class="FR" gp="0" code="4E"></player>
+  <player name="J. Belvin" checkname="BELVIN,J" uni="4B" class="FR" gp="0" code="4B"></player>
+  <player name="K. Ellison" checkname="ELLISON,K" uni="4" class="JR" gp="0" code="4"></player>
+  <player name="I. Seise" checkname="SEISE,I" uni="4S" class="FR" gp="0" code="4S"></player>
+  <player name="J. Abraham" checkname="ABRAHAM,J" uni="4A" class="JR" gp="0" code="4A"></player>
+  <player name="J. Banks" checkname="BANKS,J" uni="4C" class="FR" gp="0" code="4C"></player>
+  <player name="Z. Copeland" checkname="COPELAND,Z" uni="5C" class="FR" gp="0" code="5C"></player>
+  <player name="E. Ritland" checkname="RITLAND,E" uni="8R" class="FR" gp="0" code="8R"></player>
+  <player name="N. Sewak" checkname="SEWAK,N" uni="8S" class="SO" gp="0" code="8S"></player>
+  <player name="Y. Koo" checkname="KOO,Y" uni="9K" class="JR" gp="0" code="9K"></player>
+  <player name="K. Maye" checkname="MAYE,K" uni="11" class="SO" gp="0" code="11"></player>
+  <player name="Q. Howard" checkname="HOWARD,Q" uni="15" class="FR" gp="0" code="15"></player>
+  <player name="K. Butler" checkname="BUTLER,K" uni="18" class="JR" gp="0" code="18"></player>
+  <player name="J. Liptrot" checkname="LIPTROT,J" uni="30" class="FR" gp="0" code="30"></player>
+  <player name="E. Montgomery" checkname="MONTGOMERY,E" uni="35" class="FR" gp="0" code="35"></player>
+  <player name="Z. Yost" checkname="YOST,Z" uni="41" class="JR" gp="0" code="41"></player>
+  <player name="J. Culbreth" checkname="CULBRETH,J" uni="58" class="FR" gp="0" code="58"></player>
+  <player name="B. Kimble" checkname="KIMBLE,B" uni="59" class="FR" gp="0" code="59"></player>
+  <player name="T. Williams" checkname="WILLIAMS,T" uni="61" class="FR" gp="0" code="61"></player>
+  <player name="J. Cooper" checkname="COOPER,J" uni="64" class="FR" gp="0" code="64"></player>
+  <player name="T. Hill" checkname="HILL,T" uni="65" class="FR" gp="0" code="65"></player>
+  <player name="J. Morris" checkname="MORRIS,J" uni="66" class="SO" gp="0" code="66"></player>
+  <player name="C. Taylor" checkname="TAYLOR,C" uni="67" class="FR" gp="0" code="67"></player>
+  <player name="C. Williams" checkname="WILLIAMS,C" uni="68" class="FR" gp="0" code="68"></player>
+  <player name="D. Grall" checkname="GRALL,D" uni="69" class="FR" gp="0" code="69"></player>
+  <player name="J. Theus" checkname="THEUS,J" uni="70" class="FR" gp="0" code="70"></player>
+  <player name="S. Gaddy" checkname="GADDY,S" uni="72" class="JR" gp="0" code="72"></player>
+  <player name="T. Baugus" checkname="BAUGUS,T" uni="76" class="FR" gp="0" code="76"></player>
+  <player name="J. Freeman" checkname="FREEMAN,J" uni="78" class="SO" gp="0" code="78"></player>
+  <player name="H. Warren" checkname="WARREN,H" uni="79" class="SO" gp="0" code="79"></player>
+  <player name="K. Ackerman" checkname="ACKERMAN,K" uni="80" class="FR" gp="0" code="80"></player>
+  <player name="O. Fortune" checkname="FORTUNE,O" uni="82" class="FR" gp="0" code="82"></player>
+  <player name="T. Moorer" checkname="MOORER,T" uni="85" class="FR" gp="0" code="85"></player>
+  <player name="D. Heard" checkname="HEARD,D" uni="89" class="JR" gp="0" code="89"></player>
+  <player name="J. Kouassi" checkname="KOUASSI,J" uni="93" class="FR" gp="0" code="93"></player>
+ </dnp>
+ <dnp vh="H" id="WVU">
+  <player name="Sills, David" checkname="SILLS,DAVID" uni="1C" class="FR" gp="0" code="1C"></player>
+  <player name="Cole, Tyrek" checkname="COLE,TYREK" uni="1D" class="FR" gp="0" code="1D"></player>
+  <player name="White, Ka'Raun" checkname="WHITE,KA'RAUN" uni="2" class="SO" gp="0" code="2"></player>
+  <player name="Chugunov, Chris" checkname="CHUGUNOV,CHRIS" uni="11" class="FR" gp="0" code="11"></player>
+  <player name="Douglas, Rasul" checkname="DOUGLAS,RASUL" uni="13" class="JR" gp="0" code="13"></player>
+  <player name="Kinney, Billy" checkname="KINNEY,BILLY" uni="15" class="FR" gp="0" code="15"></player>
+  <player name="Muldrow, Edward" checkname="MULDROW,EDWARD" uni="20" class="SR" gp="0" code="20"></player>
+  <player name="Marcellus, J." checkname="MARCELLUS,J" uni="23" class="SO" gp="0" code="23"></player>
+  <player name="Funderburke, D." checkname="FUNDERBURKE,D" uni="26" class="FR" gp="0" code="26"></player>
+  <player name="Greene, K." checkname="GREENE,K" uni="29" class="FR" gp="0" code="29"></player>
+  <player name="Brooks, Alex" checkname="BROOKS,ALEX" uni="41" class="SO" gp="0" code="41"></player>
+  <player name="Meadows, Nick" checkname="MEADOWS,NICK" uni="46" class="SO" gp="0" code="46"></player>
+  <player name="Angus, Dontae" checkname="ANGUS,DONTAE" uni="68" class="FR" gp="0" code="68"></player>
+  <player name="Parker, Lamar" checkname="PARKER,LAMAR" uni="84" class="FR" gp="0" code="84"></player>
+  <player name="Rogers, Ricky" checkname="ROGERS,RICKY" uni="85" class="FR" gp="0" code="85"></player>
+  <player name="Owens, Tyree" checkname="OWENS,TYREE" uni="98" class="FR" gp="0" code="98"></player>
+  <player name="Pegues, Xavier" checkname="PEGUES,XAVIER" uni="99" class="JR" gp="0" code="99"></player>
+ </dnp>
+ <longplays thresh="70">
+ </longplays>
+</fbgame>

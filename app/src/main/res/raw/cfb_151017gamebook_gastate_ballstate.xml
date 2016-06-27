@@ -1,0 +1,1828 @@
+<fbgame source="Tas Football" version="4.16.07" generated="10/18/2015">
+ <venue gameid="BSUFB07" visid="GSU" homeid="BALL" visname="Georgia State" homename="Ball State"
+      date="10/17/2015" location="Muncie, Ind." stadium="Scheumann Stadium"
+      start="3:04 pm" end="6:28 pm"
+      duration="3:24" attend="7564" temp="46" wind="N 16 MPH" weather="Cloudy">
+  <officials ref="Curt Johnson" ump="Bob Holcomb" line="Daniel Richard" lj="Bryan Banks" bj="Jeff Latkiewick" fj="John Masterson" sj="Ryan Flynn" cj="Bryan Banks" alt="Bryan Banks"></officials>
+  <rules qtrs="4" mins="15" downs="4" yds="10" kospot="35" tbspot="20" kotbspot="25" patspot="3" safspot="20" td="6" fg="3" pat="1" patx="2" saf="2" defpat="2" rouge="1" field="100" toh="3" sackrush="Y" fgaplay="Y" netpunttb="Y"></rules>
+ </venue>
+ <team vh="V" code="254" id="GSU" name="Georgia State" record="2-4" abb="G">
+  <linescore prds="4" line="7,17,0,7" score="31">
+   <lineprd prd="1" score="7"></lineprd>
+   <lineprd prd="2" score="17"></lineprd>
+   <lineprd prd="3" score="0"></lineprd>
+   <lineprd prd="4" score="7"></lineprd>
+  </linescore>
+  <totals totoff_plays="71" totoff_yards="445" totoff_avg="6.3">
+   <firstdowns no="21" rush="3" pass="16" penalty="2"></firstdowns>
+   <penalties no="7" yds="65"></penalties>
+   <conversions thirdconv="5" thirdatt="14" fourthconv="0" fourthatt="0"></conversions>
+   <fumbles no="2" lost="1"></fumbles>
+   <misc yds="0" top="30:56" ona="0" onm="0" ptsto="0"></misc>
+   <redzone att="4" scores="4" points="28" tdrush="3" tdpass="1" fgmade="0" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="32" yds="33" gain="68" loss="35" td="3" long="12"></rush>
+   <pass comp="28" att="39" int="0" yds="412" td="1" long="68" sacks="2" sackyds="20"></pass>
+   <rcv no="28" yds="412" td="1" long="68"></rcv>
+   <punt no="6" yds="224" long="49" blkd="1" tb="0" fc="1" plus50="0" inside20="2" avg="37.3"></punt>
+   <ko no="5" yds="293" ob="0" tb="3"></ko>
+   <fg made="1" att="1" long="50" blkd="0"></fg>
+   <pat kickatt="4" kickmade="4"></pat>
+   <defense tackua="35" tacka="60" tot_tack="95" tflua="3" tfla="0" tflyds="11" sacks="1" sackyds="7" brup="8" qbh="3" ff="1" int="1" intyds="0"></defense>
+   <kr no="4" yds="82" td="0" long="32"></kr>
+   <ir no="1" yds="0" td="0" long="0"></ir>
+   <scoring td="4" fg="1" patkick="4"></scoring>
+  </totals>
+  <player name="Wilkins, Deion" shortname="Wilkins, Deion" checkname="WILKINS,DEION" uni="1A" class="JR" gp="1" code="1A">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Simon, Nate" shortname="Simon, Nate" checkname="SIMON,NATE" uni="1" class="SR" gp="1" code="1"></player>
+  <player name="Baker, Bobby" shortname="Baker, Bobby" checkname="BAKER,BOBBY" uni="2" class="JR" gp="1" gs="1" dpos="S" code="2">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Batiste, Tarris" shortname="Batiste, Tarris" checkname="BATISTE,TARRIS" uni="3" class="SR" gp="1" gs="1" dpos="S" code="3">
+   <defense tackua="3" tacka="8" tot_tack="11" brup="2" qbh="1"></defense>
+  </player>
+  <player name="McGee, Alonzo" shortname="McGee, Alonzo" checkname="MCGEE,ALONZO" uni="4D" class="JR" gp="1" code="4D">
+   <defense tackua="3" tacka="4" tot_tack="7" qbh="1"></defense>
+  </player>
+  <player name="Arbuckle, Nick" shortname="Arbuckle, Nick" checkname="ARBUCKLE,NICK" uni="4" class="SR" gp="1" gs="1" opos="QB" dpos="OLB" code="4">
+   <rush att="5" yds="-18" gain="2" loss="20" td="2" long="1"></rush>
+   <pass comp="28" att="38" int="0" yds="412" td="1" long="68" sacks="2" sackyds="20"></pass>
+   <scoring td="2"></scoring>
+  </player>
+  <player name="Cheridor, M." shortname="Cheridor, M." checkname="CHERIDOR,M" uni="5D" class="SO" gp="1" code="5D">
+   <defense tackua="4" tacka="1" tot_tack="5" tflua="2" tfla="0" tflyds="9" sackua="1" sacka="0" sackyds="7" ff="1"></defense>
+  </player>
+  <player name="Peterson, J." shortname="Peterson, J." checkname="PETERSON,J" uni="6" class="SR" gp="1" gs="1" dpos="ILB" code="6">
+   <defense tackua="4" tacka="10" tot_tack="14"></defense>
+  </player>
+  <player name="Harden, Donovan" shortname="Harden, Donovan" checkname="HARDEN,DONOVAN" uni="9" class="SR" gp="1" gs="1" opos="WR" code="9">
+   <rcv no="2" yds="80" td="0" long="68"></rcv>
+  </player>
+  <player name="Sullivan, C." shortname="Sullivan, C." checkname="SULLIVAN,C" uni="10" class="SO" gp="1" gs="1" dpos="CB" code="10">
+   <defense tackua="2" tacka="2" tot_tack="4" brup="1"></defense>
+  </player>
+  <player name="Campbell, Clove" shortname="Campbell, Clove" checkname="CAMPBELL,CLOVE" uni="14" class="JR" gp="1" code="14"></player>
+  <player name="Boyd, Todd" shortname="Boyd, Todd" checkname="BOYD,TODD" uni="15" class="SO" gp="1" code="15">
+   <rcv no="1" yds="28" td="0" long="28"></rcv>
+  </player>
+  <player name="Smith, Jerome" shortname="Smith, Jerome" checkname="SMITH,JEROME" uni="16" class="FR" gp="1" gs="1" dpos="CB" code="16">
+   <defense tackua="4" tacka="3" tot_tack="7" brup="2"></defense>
+  </player>
+  <player name="Smith, Glenn" shortname="Smith, Glenn" checkname="SMITH,GLENN" uni="17" class="SO" gp="1" code="17">
+   <kr no="2" yds="48" td="0" long="32"></kr>
+  </player>
+  <player name="Hart, Penny" shortname="Hart, Penny" checkname="HART,PENNY" uni="18" class="FR" gp="1" gs="1" opos="WR" code="18">
+   <pass comp="0" att="1" int="0" yds="0" td="0" long="0" sacks="0" sackyds="0"></pass>
+   <rcv no="5" yds="73" td="0" long="25"></rcv>
+  </player>
+  <player name="Davis, Robert" shortname="Davis, Robert" checkname="DAVIS,ROBERT" uni="19" class="JR" gp="1" gs="1" opos="WR" code="19">
+   <rcv no="9" yds="125" td="1" long="28"></rcv>
+   <fumbles no="1" lost="0"></fumbles>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Williams, Bryan" shortname="Williams, Bryan" checkname="WILLIAMS,BRYAN" uni="20" class="JR" gp="1" code="20">
+   <defense tackua="0" tacka="2" tot_tack="2" qbh="1" int="1" intyds="0"></defense>
+   <ir no="1" yds="0" td="0" long="0"></ir>
+  </player>
+  <player name="Neal, Kyler" shortname="Neal, Kyler" checkname="NEAL,KYLER" uni="25" class="SO" gp="1" gs="1" opos="RB" code="25">
+   <rush att="9" yds="28" gain="28" loss="0" td="1" long="12"></rush>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Jacobs, Dartez" shortname="Jacobs, Dartez" checkname="JACOBS,DARTEZ" uni="26" class="SR" gp="1" code="26">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="Dukes, Bruce" shortname="Dukes, Bruce" checkname="DUKES,BRUCE" uni="27" class="SR" gp="1" code="27"></player>
+  <player name="Kirk, Demarcus" shortname="Kirk, Demarcus" checkname="KIRK,DEMARCUS" uni="28" class="FR" gp="1" code="28">
+   <rush att="13" yds="23" gain="30" loss="7" td="0" long="10"></rush>
+   <rcv no="5" yds="48" td="0" long="16"></rcv>
+   <fumbles no="1" lost="1"></fumbles>
+  </player>
+  <player name="Clay, B.J." shortname="Clay, B.J." checkname="CLAY,BJ" uni="29" class="SO" gp="1" code="29"></player>
+  <player name="Traylor, James" shortname="Traylor, James" checkname="TRAYLOR,JAMES" uni="33" class="SO" gp="1" code="33">
+   <defense tackua="1" tacka="3" tot_tack="4"></defense>
+  </player>
+  <player name="Bryant, Niemus" shortname="Bryant, Niemus" checkname="BRYANT,NIEMUS" uni="34" class="FR" gp="1" code="34"></player>
+  <player name="Anderson, Khai" shortname="Anderson, Khai" checkname="ANDERSON,KHAI" uni="36" class="FR" gp="1" code="36">
+   <rush att="1" yds="7" gain="7" loss="0" td="0" long="7"></rush>
+  </player>
+  <player name="Middleton, C." shortname="Middleton, C." checkname="MIDDLETON,C" uni="39" class="FR" gp="1" code="39"></player>
+  <player name="Payne, Trey" shortname="Payne, Trey" checkname="PAYNE,TREY" uni="42" class="SO" gp="1" gs="1" dpos="ILB" code="42">
+   <defense tackua="5" tacka="7" tot_tack="12" tflua="1" tfla="0" tflyds="2" brup="1"></defense>
+  </player>
+  <player name="Shaw, Michael" shortname="Shaw, Michael" checkname="SHAW,MICHAEL" uni="44" class="FR" gp="1" gs="1" dpos="OLB" code="44">
+   <defense tackua="2" tacka="1" tot_tack="3"></defense>
+  </player>
+  <player name="Rucker, Keith" shortname="Rucker, Keith" checkname="RUCKER,KEITH" uni="45" class="JR" gp="1" gs="1" opos="TE" code="45">
+   <rcv no="6" yds="58" td="0" long="19"></rcv>
+  </player>
+  <player name="Lytle, Jonathan" shortname="Lytle, Jonathan" checkname="LYTLE,JONATHAN" uni="46" class="SR" gp="1" code="46">
+   <rush att="1" yds="1" gain="1" loss="0" td="0" long="1"></rush>
+  </player>
+  <player name="Curney, Ed" shortname="Curney, Ed" checkname="CURNEY,ED" uni="47" class="FR" gp="1" code="47">
+   <defense tackua="3" tacka="3" tot_tack="6"></defense>
+  </player>
+  <player name="Jones, Tevin" shortname="Jones, Tevin" checkname="JONES,TEVIN" uni="52" class="JR" gp="1" code="52">
+   <defense tackua="0" tacka="3" tot_tack="3"></defense>
+  </player>
+  <player name="Strickland, T." shortname="Strickland, T." checkname="STRICKLAND,T" uni="53" class="JR" gp="1" code="53">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Hopson, Carnell" shortname="Hopson, Carnell" checkname="HOPSON,CARNELL" uni="55" class="JR" gp="1" code="55">
+   <defense tackua="0" tacka="2" tot_tack="2" brup="1"></defense>
+  </player>
+  <player name="Stoehr, Alex" shortname="Stoehr, Alex" checkname="STOEHR,ALEX" uni="56" class="SO" gp="1" gs="1" opos="RG" code="56"></player>
+  <player name="Davidson, J." shortname="Davidson, J." checkname="DAVIDSON,J" uni="58" class="JR" gp="1" gs="1" opos="RT" code="58"></player>
+  <player name="Gorringe, G." shortname="Gorringe, G." checkname="GORRINGE,G" uni="59" class="JR" gp="1" code="59"></player>
+  <player name="Moore, Davis" shortname="Moore, Davis" checkname="MOORE,DAVIS" uni="63" class="SO" gp="1" code="63"></player>
+  <player name="Evans, Taylor" shortname="Evans, Taylor" checkname="EVANS,TAYLOR" uni="65" class="SR" gp="1" gs="1" opos="LG" code="65"></player>
+  <player name="Holman, S." shortname="Holman, S." checkname="HOLMAN,S" uni="66" class="FR" gp="1" code="66"></player>
+  <player name="Johnson, Lucas" shortname="Johnson, Lucas" checkname="JOHNSON,LUCAS" uni="69" class="FR" gp="1" code="69"></player>
+  <player name="Mobley, Gabe" shortname="Mobley, Gabe" checkname="MOBLEY,GABE" uni="72" class="FR" gp="1" gs="1" opos="C" code="72"></player>
+  <player name="Willer, S." shortname="Willer, S." checkname="WILLER,S" uni="74" class="SO" gp="1" gs="1" opos="LT" code="74"></player>
+  <player name="Roldan, Dom" shortname="Roldan, Dom" checkname="ROLDAN,DOM" uni="78" class="JR" gp="1" code="78"></player>
+  <player name="Greene, Marquan" shortname="Greene, Marquan" checkname="GREENE,MARQUAN" uni="81" class="FR" gp="1" code="81">
+   <kr no="2" yds="34" td="0" long="20"></kr>
+  </player>
+  <player name="Chastain, Clay" shortname="Chastain, Clay" checkname="CHASTAIN,CLAY" uni="82" class="JR" gp="1" code="82"></player>
+  <player name="Teknipp, Bill" shortname="Teknipp, Bill" checkname="TEKNIPP,BILL" uni="84" class="SO" gp="1" code="84"></player>
+  <player name="Lawrence, S." shortname="Lawrence, S." checkname="LAWRENCE,S" uni="85" class="JR" gp="1" gs="1" dpos="DE" code="85">
+   <defense tackua="3" tacka="1" tot_tack="4" brup="1"></defense>
+  </player>
+  <player name="Andrews, O." shortname="Andrews, O." checkname="ANDREWS,O" uni="87" class="JR" gp="1" code="87"></player>
+  <player name="Werts, Ari" shortname="Werts, Ari" checkname="WERTS,ARI" uni="88" class="FR" gp="1" code="88">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Laurent, Julien" shortname="Laurent, Julien" checkname="LAURENT,JULIEN" uni="91" class="SO" gp="1" code="91">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Allen, M." shortname="Allen, M." checkname="ALLEN,M" uni="95" class="FR" gp="1" code="95"></player>
+  <player name="Lutz, Wil" shortname="Lutz, Wil" checkname="LUTZ,WIL" uni="96" class="SR" gp="1" code="96">
+   <punt no="5" yds="199" long="49" blkd="1" tb="0" fc="1" plus50="0" inside20="2" avg="39.8"></punt>
+   <ko no="5" yds="293" ob="0" tb="3"></ko>
+   <fg made="1" att="1" long="50" blkd="0"></fg>
+   <pat kickatt="4" kickmade="4"></pat>
+   <scoring fg="1" patkick="4"></scoring>
+  </player>
+  <player name="Lawrence, Jalen" shortname="Lawrence, Jalen" checkname="LAWRENCE,JALEN" uni="97" class="JR" gp="1" gs="1" dpos="NG" code="97">
+   <defense tackua="0" tacka="2" tot_tack="2"></defense>
+  </player>
+  <player name="King, Melvin" shortname="King, Melvin" checkname="KING,MELVIN" uni="99" class="SR" gp="1" code="99">
+   <defense tackua="0" tacka="2" tot_tack="2"></defense>
+  </player>
+  <player name="TEAM" shortname="TEAM" checkname="TEAM" uni="TM" class="FR" gp="1" code="198">
+   <rush att="3" yds="-8" gain="0" loss="8" td="0" long="0"></rush>
+   <punt no="1" yds="25" long="25" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="25.0"></punt>
+  </player>
+ </team>
+ <team vh="H" code="47" id="BALL" name="Ball State" record="2-5" abb="B">
+  <linescore prds="4" line="3,7,3,6" score="19">
+   <lineprd prd="1" score="3"></lineprd>
+   <lineprd prd="2" score="7"></lineprd>
+   <lineprd prd="3" score="3"></lineprd>
+   <lineprd prd="4" score="6"></lineprd>
+  </linescore>
+  <totals totoff_plays="88" totoff_yards="372" totoff_avg="4.2">
+   <firstdowns no="24" rush="12" pass="11" penalty="1"></firstdowns>
+   <penalties no="6" yds="65"></penalties>
+   <conversions thirdconv="11" thirdatt="22" fourthconv="0" fourthatt="1"></conversions>
+   <fumbles no="1" lost="0"></fumbles>
+   <misc yds="0" top="29:04" ona="0" onm="0" ptsto="3"></misc>
+   <redzone att="4" scores="4" points="19" tdrush="0" tdpass="2" fgmade="2" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="40" yds="154" gain="165" loss="11" td="0" long="13"></rush>
+   <pass comp="28" att="48" int="1" yds="218" td="2" long="19" sacks="1" sackyds="7"></pass>
+   <rcv no="28" yds="218" td="2" long="19"></rcv>
+   <punt no="6" yds="212" long="44" blkd="0" tb="0" fc="2" plus50="0" inside20="2" avg="35.3"></punt>
+   <ko no="5" yds="302" ob="1" tb="0"></ko>
+   <fg made="2" att="2" long="35" blkd="0"></fg>
+   <pat kickatt="1" kickmade="1" passatt="1" passmade="0"></pat>
+   <defense tackua="38" tacka="38" tot_tack="76" tflua="5" tfla="0" tflyds="27" sacks="2" sackyds="20" brup="2" qbh="1" blkd="1" ff="2" fr="1" fryds="0"></defense>
+   <kr no="2" yds="22" td="0" long="19"></kr>
+   <pr no="3" yds="37" td="0" long="24"></pr>
+   <scoring td="2" fg="2" patkick="1"></scoring>
+  </totals>
+  <player name="HOGUE, Jordan" shortname="HOGUE, Jordan" checkname="HOGUE,JORDAN" uni="1" class="SO" gp="1" code="1">
+   <rcv no="3" yds="25" td="0" long="17"></rcv>
+  </player>
+  <player name="RYAN, Zack" shortname="RYAN, Zack" checkname="RYAN,ZACK" uni="2" class="JR" gp="1" gs="1" dpos="MLB" code="2">
+   <defense tackua="3" tacka="2" tot_tack="5" tflua="1" tfla="0" tflyds="2"></defense>
+  </player>
+  <player name="WIGGINS, Sean" shortname="WIGGINS, Sean" checkname="WIGGINS,SEAN" uni="3" class="JR" gp="1" gs="1" dpos="WLB" code="3">
+   <defense tackua="4" tacka="4" tot_tack="8" tflua="1" tfla="0" tflyds="6" sackua="1" sacka="0" sackyds="6" fr="1" fryds="0"></defense>
+  </player>
+  <player name="EGAN, Alex" shortname="EGAN, Alex" checkname="EGAN,ALEX" uni="4A" class="JR" gp="1" code="4A">
+   <punt no="1" yds="41" long="41" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="41.0"></punt>
+  </player>
+  <player name="LACANARIA, C." shortname="LACANARIA, C." checkname="LACANARIA,C" uni="5" class="SO" gp="1" gs="1" opos="WRZ" code="5">
+   <rcv no="5" yds="40" td="0" long="16"></rcv>
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+   <pr no="3" yds="37" td="0" long="24"></pr>
+  </player>
+  <player name="WILLIAMSON, T." shortname="WILLIAMSON, T." checkname="WILLIAMSON,T" uni="6" class="JR" gp="1" code="6">
+   <defense blkd="1"></defense>
+  </player>
+  <player name="TAYLOR, Aaron" shortname="TAYLOR, Aaron" checkname="TAYLOR,AARON" uni="7" class="JR" gp="1" gs="1" dpos="SLB" code="7">
+   <defense tackua="2" tacka="1" tot_tack="3"></defense>
+  </player>
+  <player name="WILLIAMS, Jord." shortname="WILLIAMS, Jord." checkname="WILLIAMS,JORD" uni="8" class="SR" gp="1" gs="1" opos="WRX" code="8">
+   <rcv no="7" yds="68" td="1" long="19"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="AYERS, Michael" shortname="AYERS, Michael" checkname="AYERS,MICHAEL" uni="9" class="SR" gp="1" gs="1" dpos="RUSH" code="9">
+   <defense tackua="3" tacka="5" tot_tack="8"></defense>
+  </player>
+  <player name="SHILLINGS, C." shortname="SHILLINGS, C." checkname="SHILLINGS,C" uni="10" class="SR" gp="1" code="10">
+   <rcv no="2" yds="15" td="0" long="8"></rcv>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="SCHMIDT, Kyle" shortname="SCHMIDT, Kyle" checkname="SCHMIDT,KYLE" uni="12" class="JR" gp="1" code="12">
+   <punt no="5" yds="171" long="44" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="34.2"></punt>
+   <ko no="3" yds="183" ob="1" tb="0"></ko>
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="MOORE, David" shortname="MOORE, David" checkname="MOORE,DAVID" uni="13" class="JR" gp="1" gs="1" dpos="FC" code="13">
+   <defense tackua="6" tacka="0" tot_tack="6" tflua="1" tfla="0" tflyds="4" ff="1"></defense>
+  </player>
+  <player name="MILAS, Jack" shortname="MILAS, Jack" checkname="MILAS,JACK" uni="14" class="SO" gp="1" code="14"></player>
+  <player name="NEAL, Riley" shortname="NEAL, Riley" checkname="NEAL,RILEY" uni="15" class="FR" gp="1" gs="1" opos="QB" code="15">
+   <rush att="10" yds="34" gain="41" loss="7" td="0" long="13"></rush>
+   <pass comp="28" att="48" int="1" yds="218" td="2" long="19" sacks="1" sackyds="7"></pass>
+   <pat passatt="1" passmade="0"></pat>
+   <fumbles no="1" lost="0"></fumbles>
+  </player>
+  <player name="MABON, KeVonn" shortname="MABON, KeVonn" checkname="MABON,KEVONN" uni="16" class="JR" gp="1" gs="1" opos="WRW" code="16">
+   <rcv no="7" yds="55" td="0" long="15"></rcv>
+  </player>
+  <player name="BRUNNER, Sam" shortname="BRUNNER, Sam" checkname="BRUNNER,SAM" uni="17" class="JR" gp="1" code="17"></player>
+  <player name="INGLE, Ben" shortname="INGLE, Ben" checkname="INGLE,BEN" uni="19" class="SR" gp="1" code="19">
+   <defense tackua="4" tacka="2" tot_tack="6"></defense>
+  </player>
+  <player name="CONAWAY, Darius" shortname="CONAWAY, Darius" checkname="CONAWAY,DARIUS" uni="20" class="JR" gp="1" gs="1" dpos="BC" code="20">
+   <defense tackua="0" tacka="3" tot_tack="3"></defense>
+  </player>
+  <player name="HESTER, Martez" shortname="HESTER, Martez" checkname="HESTER,MARTEZ" uni="21" class="JR" gp="1" gs="1" dpos="FS" code="21">
+   <defense tackua="2" tacka="3" tot_tack="5" brup="1"></defense>
+  </player>
+  <player name="HAGEE, Morgan" shortname="HAGEE, Morgan" checkname="HAGEE,MORGAN" uni="22" class="FR" gp="1" code="22">
+   <ko no="1" yds="65" ob="0" tb="0"></ko>
+   <fg made="2" att="2" long="35" blkd="0"></fg>
+   <pat kickatt="1" kickmade="1"></pat>
+   <scoring fg="2" patkick="1"></scoring>
+  </player>
+  <player name="WALTON, Marc" shortname="WALTON, Marc" checkname="WALTON,MARC" uni="23" class="FR" gp="1" code="23">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="GREEN, Darian" shortname="GREEN, Darian" checkname="GREEN,DARIAN" uni="25" class="SO" gp="1" gs="1" opos="HB" code="25">
+   <rush att="17" yds="70" gain="70" loss="0" td="0" long="10"></rush>
+   <kr no="1" yds="19" td="0" long="19"></kr>
+  </player>
+  <player name="BAILEY, Avery" shortname="BAILEY, Avery" checkname="BAILEY,AVERY" uni="26" class="SR" gp="1" code="26"></player>
+  <player name="STANLEY, Stu" shortname="STANLEY, Stu" checkname="STANLEY,STU" uni="27" class="JR" gp="1" code="27"></player>
+  <player name="PEYTON, Rontrel" shortname="PEYTON, Rontrel" checkname="PEYTON,RONTREL" uni="30" class="JR" gp="1" code="30">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="JACKSON, Jeremi" shortname="JACKSON, Jeremi" checkname="JACKSON,JEREMI" uni="32" class="FR" gp="1" code="32"></player>
+  <player name="GILBERT, James" shortname="GILBERT, James" checkname="GILBERT,JAMES" uni="34" class="FR" gp="1" code="34">
+   <rush att="13" yds="50" gain="54" loss="4" td="0" long="10"></rush>
+  </player>
+  <player name="NOEL, Keenan" shortname="NOEL, Keenan" checkname="NOEL,KEENAN" uni="35" class="SR" gp="1" code="35">
+   <defense tackua="0" tacka="2" tot_tack="2" brup="1"></defense>
+  </player>
+  <player name="GILBERT, Spence" shortname="GILBERT, Spence" checkname="GILBERT,SPENCE" uni="37" class="FR" gp="1" code="37"></player>
+  <player name="DRIDA, Steve" shortname="DRIDA, Steve" checkname="DRIDA,STEVE" uni="38" class="SO" gp="1" code="38">
+   <ko no="1" yds="54" ob="0" tb="0"></ko>
+  </player>
+  <player name="CURRY, Dylan" shortname="CURRY, Dylan" checkname="CURRY,DYLAN" uni="40" class="SR" gp="1" gs="1" opos="TE" code="40">
+   <rcv no="2" yds="7" td="1" long="4"></rcv>
+   <kr no="1" yds="3" td="0" long="3"></kr>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="BOYD, Julian" shortname="BOYD, Julian" checkname="BOYD,JULIAN" uni="42" class="SR" gp="1" code="42">
+   <defense tackua="0" tacka="2" tot_tack="2"></defense>
+  </player>
+  <player name="CROMARTIE, D." shortname="CROMARTIE, D." checkname="CROMARTIE,D" uni="43" class="SO" gp="1" gs="1" dpos="SS" code="43">
+   <defense tackua="5" tacka="2" tot_tack="7"></defense>
+  </player>
+  <player name="McPHATTER, Jake" shortname="McPHATTER, Jake" checkname="MCPHATTER,JAKE" uni="45" class="FR" gp="1" code="45">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="TRAUB, Nick" shortname="TRAUB, Nick" checkname="TRAUB,NICK" uni="47" class="JR" gp="1" code="47"></player>
+  <player name="VANN, Chris" shortname="VANN, Chris" checkname="VANN,CHRIS" uni="51" class="SR" gp="1" code="51"></player>
+  <player name="WHITMAN III, J." shortname="WHITMAN III, J." checkname="WHITMAN III,J" uni="55" class="JR" gp="1" gs="1" dpos="NG" code="55">
+   <defense tackua="0" tacka="3" tot_tack="3"></defense>
+  </player>
+  <player name="POSLEY, Joshua" shortname="POSLEY, Joshua" checkname="POSLEY,JOSHUA" uni="57" class="JR" gp="1" gs="1" dpos="DE" code="57">
+   <defense tackua="3" tacka="4" tot_tack="7" tflua="1" tfla="0" tflyds="1" qbh="1" ff="1"></defense>
+  </player>
+  <player name="RICHARD, Jacob" shortname="RICHARD, Jacob" checkname="RICHARD,JACOB" uni="62" class="SR" gp="1" gs="1" opos="C" code="62"></player>
+  <player name="SCHLACHTER, J." shortname="SCHLACHTER, J." checkname="SCHLACHTER,J" uni="65" class="SR" gp="1" gs="1" opos="SG" code="65"></player>
+  <player name="BELL, Steven" shortname="BELL, Steven" checkname="BELL,STEVEN" uni="66" class="JR" gp="1" gs="1" opos="ST" code="66"></player>
+  <player name="PLAVCHAK, Nick" shortname="PLAVCHAK, Nick" checkname="PLAVCHAK,NICK" uni="67" class="SR" gp="1" code="67"></player>
+  <player name="HARVEY, Jeremi." shortname="HARVEY, Jeremi." checkname="HARVEY,JEREMI" uni="68" class="SR" gp="1" gs="1" opos="QG" code="68"></player>
+  <player name="MILLER, Drake" shortname="MILLER, Drake" checkname="MILLER,DRAKE" uni="78" class="JR" gp="1" gs="1" opos="QT" code="78"></player>
+  <player name="HEPP, Aaron" shortname="HEPP, Aaron" checkname="HEPP,AARON" uni="80" class="JR" gp="1" code="80"></player>
+  <player name="BROWN, C." shortname="BROWN, C." checkname="BROWN,C" uni="85" class="JR" gp="1" code="85">
+   <rcv no="2" yds="8" td="0" long="5"></rcv>
+  </player>
+  <player name="CURRY, Logan" shortname="CURRY, Logan" checkname="CURRY,LOGAN" uni="88" class="JR" gp="1" code="88"></player>
+  <player name="JACKSON, Julian" shortname="JACKSON, Julian" checkname="JACKSON,JULIAN" uni="92" class="SR" gp="1" code="92">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="WILLIS, Kevin" shortname="WILLIS, Kevin" checkname="WILLIS,KEVIN" uni="93" class="SO" gp="1" gs="1" dpos="DT" code="93">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="IGBINOSUN, Osa." shortname="IGBINOSUN, Osa." checkname="IGBINOSUN,OSA" uni="94" class="SR" gp="1" code="94"></player>
+  <player name="ZARAMO, C." shortname="ZARAMO, C." checkname="ZARAMO,C" uni="96" class="JR" gp="1" code="96"></player>
+  <player name="THURMON, Kevin" shortname="THURMON, Kevin" checkname="THURMON,KEVIN" uni="97" class="FR" gp="1" code="97">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="WINBUSH, A." shortname="WINBUSH, A." checkname="WINBUSH,A" uni="98" class="SO" gp="1" code="98">
+   <defense tackua="1" tacka="0" tot_tack="1" tflua="1" tfla="0" tflyds="14" sackua="1" sacka="0" sackyds="14"></defense>
+  </player>
+ </team>
+ <scores>
+  <score vh="H" team="BALL" qtr="1" clock="04:45" type="FG" yds="35" scorer="HAGEE, Morgan" plays="12" drive="48" top="4:14" vscore="0" hscore="3" driveindex="4"></score>
+  <score vh="V" team="GSU" qtr="1" clock="00:15" type="TD" how="RUSH" yds="4" scorer="Neal, Kyler" patby="Lutz, Wil" pattype="KICK" patres="GOOD" plays="11" drive="75" top="4:24" vscore="7" hscore="3" driveindex="5"></score>
+  <score vh="H" team="BALL" qtr="2" clock="10:11" type="TD" how="PASS" yds="4" scorer="CURRY, Dylan" passer="NEAL, Riley" patby="HAGEE, Morgan" pattype="KICK" patres="GOOD" plays="17" drive="77" top="4:59" vscore="7" hscore="10" driveindex="6"></score>
+  <score vh="V" team="GSU" qtr="2" clock="07:44" type="TD" how="PASS" yds="11" scorer="Davis, Robert" passer="Arbuckle, Nick" patby="Lutz, Wil" pattype="KICK" patres="GOOD" plays="8" drive="65" top="2:27" vscore="14" hscore="10" driveindex="7"></score>
+  <score vh="V" team="GSU" qtr="2" clock="02:51" type="TD" how="RUSH" yds="1" scorer="Arbuckle, Nick" patby="Lutz, Wil" pattype="KICK" patres="GOOD" plays="8" drive="63" top="3:43" vscore="21" hscore="10" driveindex="9"></score>
+  <score vh="V" team="GSU" qtr="2" clock="00:00" type="FG" yds="50" scorer="Lutz, Wil" plays="5" drive="26" top="1:06" vscore="24" hscore="10" driveindex="11"></score>
+  <score vh="H" team="BALL" qtr="3" clock="04:46" type="FG" yds="29" scorer="HAGEE, Morgan" plays="9" drive="34" top="3:41" vscore="24" hscore="13" driveindex="14"></score>
+  <score vh="H" team="BALL" qtr="4" clock="10:41" type="TD" how="PASS" yds="19" scorer="WILLIAMS, Jord." passer="NEAL, Riley" patby="NEAL, Riley" pattype="PASS" patres="INT" plays="7" drive="51" top="2:01" vscore="24" hscore="19" driveindex="18"></score>
+  <score vh="V" team="GSU" qtr="4" clock="02:13" type="TD" how="RUSH" yds="1" scorer="Arbuckle, Nick" patby="Lutz, Wil" pattype="KICK" patres="GOOD" plays="4" drive="70" top="1:13" vscore="31" hscore="19" driveindex="23"></score>
+ </scores>
+ <fgas>
+  <fga vh="H" team="BALL" kicker="HAGEE, Morgan" qtr="1" clock="04:45" distance="35" result="good"></fga>
+  <fga vh="V" team="GSU" kicker="Lutz, Wil" qtr="2" clock="00:00" distance="50" result="good"></fga>
+  <fga vh="H" team="BALL" kicker="HAGEE, Morgan" qtr="3" clock="04:46" distance="29" result="good"></fga>
+ </fgas>
+ <drives>
+  <drive vh="V" team="GSU" start="KO,1,15:00,33" end="PUNT,1,12:50,42" plays="3" yards="9" top="2:10" start_how="KO" start_qtr="1" start_time="15:00" start_spot="GSU33" end_how="PUNT" end_qtr="1" end_time="12:50" end_spot="GSU42" driveindex="1"></drive>
+  <drive vh="H" team="BALL" start="PUNT,1,12:50,21" end="PUNT,1,10:59,46" plays="6" yards="25" top="1:51" start_how="PUNT" start_qtr="1" start_time="12:50" start_spot="BALL21" end_how="PUNT" end_qtr="1" end_time="10:59" end_spot="BALL46" driveindex="2"></drive>
+  <drive vh="V" team="GSU" start="PUNT,1,10:59,13" end="PUNT,1,08:59,37" plays="3" yards="24" top="2:00" start_how="PUNT" start_qtr="1" start_time="10:59" start_spot="GSU13" end_how="PUNT" end_qtr="1" end_time="08:59" end_spot="GSU37" driveindex="3"></drive>
+  <drive vh="H" team="BALL" start="PUNT,1,08:59,34" end="FG,1,04:45,82" plays="12" yards="48" top="4:14" start_how="PUNT" start_qtr="1" start_time="08:59" start_spot="BALL34" end_how="FG" end_qtr="1" end_time="04:45" end_spot="GSU18" rz="1" driveindex="4"></drive>
+  <drive vh="V" team="GSU" start="KO,1,04:39,25" end="TD,1,00:15,100" plays="11" yards="75" top="4:24" start_how="KO" start_qtr="1" start_time="04:39" start_spot="GSU25" end_how="TD" end_qtr="1" end_time="00:15" end_spot="BALL00" rz="1" driveindex="5"></drive>
+  <drive vh="H" team="BALL" start="KO,1,00:10,23" end="TD,2,10:11,100" plays="17" yards="77" top="4:59" start_how="KO" start_qtr="1" start_time="00:10" start_spot="BALL23" end_how="TD" end_qtr="2" end_time="10:11" end_spot="GSU00" rz="1" driveindex="6"></drive>
+  <drive vh="V" team="GSU" start="KO,2,10:11,35" end="TD,2,07:44,100" plays="8" yards="65" top="2:27" start_how="KO" start_qtr="2" start_time="10:11" start_spot="GSU35" end_how="TD" end_qtr="2" end_time="07:44" end_spot="BALL00" rz="1" driveindex="7"></drive>
+  <drive vh="H" team="BALL" start="KO,2,07:44,25" end="PUNT,2,06:34,33" plays="3" yards="8" top="1:10" start_how="KO" start_qtr="2" start_time="07:44" start_spot="BALL25" end_how="PUNT" end_qtr="2" end_time="06:34" end_spot="BALL33" driveindex="8"></drive>
+  <drive vh="V" team="GSU" start="PUNT,2,06:34,37" end="TD,2,02:51,100" plays="8" yards="63" top="3:43" start_how="PUNT" start_qtr="2" start_time="06:34" start_spot="GSU37" end_how="TD" end_qtr="2" end_time="02:51" end_spot="BALL00" rz="1" driveindex="9"></drive>
+  <drive vh="H" team="BALL" start="KO,2,02:51,25" end="DOWNS,2,01:06,59" plays="9" yards="34" top="1:45" start_how="KO" start_qtr="2" start_time="02:51" start_spot="BALL25" end_how="DOWNS" end_qtr="2" end_time="01:06" end_spot="GSU41" driveindex="10"></drive>
+  <drive vh="V" team="GSU" start="DOWNS,2,01:06,41" end="FG,3,15:00,67" plays="5" yards="26" top="1:06" start_how="DOWNS" start_qtr="2" start_time="01:06" start_spot="GSU41" end_how="FG" end_qtr="3" end_time="15:00" end_spot="BALL33" driveindex="11"></drive>
+  <drive vh="H" team="BALL" start="KO,3,14:53,31" end="PUNT,3,11:12,64" plays="8" yards="33" top="3:41" start_how="KO" start_qtr="3" start_time="14:53" start_spot="BALL31" end_how="PUNT" end_qtr="3" end_time="11:12" end_spot="GSU36" driveindex="12"></drive>
+  <drive vh="V" team="GSU" start="PUNT,3,11:12,11" end="FUMB,3,08:27,46" plays="6" yards="35" top="2:45" start_how="PUNT" start_qtr="3" start_time="11:12" start_spot="GSU11" end_how="FUMB" end_qtr="3" end_time="08:27" end_spot="GSU46" driveindex="13"></drive>
+  <drive vh="H" team="BALL" start="FUMB,3,08:27,54" end="FG,3,04:46,88" plays="9" yards="34" top="3:41" start_how="FUMB" start_qtr="3" start_time="08:27" start_spot="GSU46" end_how="FG" end_qtr="3" end_time="04:46" end_spot="GSU12" rz="1" driveindex="14"></drive>
+  <drive vh="V" team="GSU" start="KO,3,04:38,20" end="PUNT,3,02:44,49" plays="4" yards="29" top="1:54" start_how="KO" start_qtr="3" start_time="04:38" start_spot="GSU20" end_how="PUNT" end_qtr="3" end_time="02:44" end_spot="GSU49" driveindex="15"></drive>
+  <drive vh="H" team="BALL" start="PUNT,3,02:44,18" end="PUNT,3,00:10,36" plays="8" yards="18" top="2:34" start_how="PUNT" start_qtr="3" start_time="02:44" start_spot="BALL18" end_how="PUNT" end_qtr="3" end_time="00:10" end_spot="BALL36" driveindex="16"></drive>
+  <drive vh="V" team="GSU" start="PUNT,3,00:10,26" end="PUNT,4,12:42,28" plays="6" yards="2" top="2:28" start_how="PUNT" start_qtr="3" start_time="00:10" start_spot="GSU26" end_how="PUNT" end_qtr="4" end_time="12:42" end_spot="GSU28" driveindex="17"></drive>
+  <drive vh="H" team="BALL" start="PUNT,4,12:42,49" end="TD,4,10:41,100" plays="7" yards="51" top="2:01" start_how="PUNT" start_qtr="4" start_time="12:42" start_spot="BALL49" end_how="TD" end_qtr="4" end_time="10:41" end_spot="GSU00" rz="1" driveindex="18"></drive>
+  <drive vh="V" team="GSU" start="KO,4,10:34,24" end="PUNT,4,08:54,44" plays="5" yards="20" top="1:40" start_how="KO" start_qtr="4" start_time="10:34" start_spot="GSU24" end_how="PUNT" end_qtr="4" end_time="08:54" end_spot="GSU44" driveindex="19"></drive>
+  <drive vh="H" team="BALL" start="PUNT,4,08:54,16" end="PUNT,4,06:58,38" plays="5" yards="22" top="1:56" start_how="PUNT" start_qtr="4" start_time="08:54" start_spot="BALL16" end_how="PUNT" end_qtr="4" end_time="06:58" end_spot="BALL38" driveindex="20"></drive>
+  <drive vh="V" team="GSU" start="PUNT,4,06:58,28" end="PUNT,4,03:59,48" plays="6" yards="20" top="2:59" start_how="PUNT" start_qtr="4" start_time="06:58" start_spot="GSU28" end_how="PUNT" end_qtr="4" end_time="03:59" end_spot="GSU48" driveindex="21"></drive>
+  <drive vh="H" team="BALL" start="PUNT,4,03:59,27" end="PUNT,4,03:26,26" plays="3" yards="-1" top="0:33" start_how="PUNT" start_qtr="4" start_time="03:59" start_spot="BALL27" end_how="PUNT" end_qtr="4" end_time="03:26" end_spot="BALL26" driveindex="22"></drive>
+  <drive vh="V" team="GSU" start="PUNT,4,03:26,30" end="TD,4,02:13,100" plays="4" yards="70" top="1:13" start_how="PUNT" start_qtr="4" start_time="03:26" start_spot="GSU30" end_how="TD" end_qtr="4" end_time="02:13" end_spot="BALL00" rz="1" driveindex="23"></drive>
+  <drive vh="H" team="BALL" start="KO,4,02:13,25" end="INT,4,01:46,18" plays="3" yards="-7" top="0:27" start_how="KO" start_qtr="4" start_time="02:13" start_spot="BALL25" end_how="INT" end_qtr="4" end_time="01:46" end_spot="BALL18" driveindex="24"></drive>
+  <drive vh="V" team="GSU" start="INT,4,01:46,29" end="HALF,4,00:00,21" plays="3" yards="-8" top="1:46" start_how="INT" start_qtr="4" start_time="01:46" start_spot="GSU29" end_how="HALF" end_qtr="4" end_time="00:00" end_spot="GSU21" driveindex="25"></drive>
+ </drives>
+ <plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="GSU" down="1" togo="10" spot="GSU35" context="V,1,10,V35" playid="0,1,0" tokens="CMT:Ball State wins toss &amp; defers. GSU will receive &amp; defend north goal"
+      text="Ball State wins toss &amp; defers. GSU will receive &amp; defend north goal" newcontext="V,1,10,V35">
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="GSU35" context="V,1,10,V35" playid="0,2,1" tokens="SPOT:H,H35,N"
+      text="BALL ball on BALL35." newcontext="H,1,10,H35">
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="BALL35" context="H,1,10,H35" playid="0,3,2" type="K" tokens="KO:12,V01 RET:17,V33 TACK:12,5"
+      text="SCHMIDT, Kyle kickoff 64 yards to the GSU1, Smith, Glenn return 32 yards to the GSU33 (SCHMIDT, Kyle;LACANARIA, C.)." newcontext="V,1,10,V33">
+    <p_ko vh="H" name="SCHMIDT, Kyle" gain="64"></p_ko>
+    <p_kr vh="V" name="Smith, Glenn" gain="32"></p_kr>
+    <p_tk vh="H" name="SCHMIDT, Kyle" assist="Y"></p_tk>
+    <p_tk vh="H" name="LACANARIA, C." assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V33,15:00" vh="V" spot="V33" clock="15:00" driveindex="1,2"></drivestart>
+   <play hasball="GSU" down="1" togo="10" spot="GSU33" context="V,1,10,V33" playid="1,1,3" type="R" tokens="RUSH:25,V33, TACK:57"
+      text="Neal, Kyler rush for no gain to the GSU33 (POSLEY, Joshua)." newcontext="V,2,10,V33">
+    <p_ru vh="V" name="Neal, Kyler" gain="0"></p_ru>
+    <p_tk vh="H" name="POSLEY, Joshua"></p_tk>
+   </play>
+   <play hasball="GSU" down="2" togo="10" spot="GSU33" context="V,2,10,V33" playid="1,2,4" type="P" tokens="PASS:4,C,18,V42 TACK:2,9"
+      text="Arbuckle, Nick pass complete to Hart, Penny for 9 yards to the GSU42 (RYAN, Zack;AYERS, Michael)." newcontext="V,3,1,V42">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Hart, Penny" gain="9"></p_pa>
+    <p_tk vh="H" name="RYAN, Zack" assist="Y"></p_tk>
+    <p_tk vh="H" name="AYERS, Michael" assist="Y"></p_tk>
+   </play>
+   <play hasball="GSU" down="3" togo="1" spot="GSU42" context="V,3,1,V42" playid="1,3,5" type="R" tokens="RUSH:25,V42, TACK:93"
+      text="Neal, Kyler rush for no gain to the GSU42 (WILLIS, Kevin)." newcontext="V,4,1,V42">
+    <p_ru vh="V" name="Neal, Kyler" gain="0"></p_ru>
+    <p_tk vh="H" name="WILLIS, Kevin"></p_tk>
+   </play>
+   <play hasball="GSU" down="4" togo="1" spot="GSU42" context="V,4,1,V42" playid="1,4,6" type="U" tokens="PUNT:96,H17 RET:5,H21 TACK:20,88"
+      text="Lutz, Wil punt 41 yards to the BALL17, LACANARIA, C. return 4 yards to the BALL21 (Williams, Bryan;Werts, Ari)." newcontext="H,1,10,H21">
+    <p_pu vh="V" name="Lutz, Wil" gain="41"></p_pu>
+    <p_pr vh="H" name="LACANARIA, C." gain="4"></p_pr>
+    <p_tk vh="V" name="Williams, Bryan" assist="Y"></p_tk>
+    <p_tk vh="V" name="Werts, Ari" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="9" top="2:10" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="H,H21,12:50" vh="H" spot="H21" clock="12:50" driveindex="2,6"></drivestart>
+   <play hasball="BALL" down="1" togo="10" spot="BALL21" context="H,1,10,H21" playid="2,1,7" clock="12:50" tokens="{DRIVE}:12:50"
+      text="BALL STATE drive start at 12:50." newcontext="H,1,10,H21">
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="BALL21" context="H,1,10,H21" playid="2,2,8" type="P" first="P" tokens="PASS:15,C,5,H31 TACK:42,4D"
+      text="NEAL, Riley pass complete to LACANARIA, C. for 10 yards to the BALL31, 1ST DOWN BALL (Payne, Trey;McGee, Alonzo)." newcontext="H,1,10,H31">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="LACANARIA, C." gain="10"></p_pa>
+    <p_tk vh="V" name="Payne, Trey" assist="Y"></p_tk>
+    <p_tk vh="V" name="McGee, Alonzo" assist="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="BALL31" context="H,1,10,H31" playid="2,3,9" type="P" tokens="PASS:15,C,5,H36 OB: TACK:4D,16"
+      text="NEAL, Riley pass complete to LACANARIA, C. for 5 yards to the BALL36, out-of-bounds (McGee, Alonzo;Smith, Jerome)." ob="Y" newcontext="H,2,5,H36">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="LACANARIA, C." gain="5"></p_pa>
+    <p_tk vh="V" name="McGee, Alonzo" assist="Y"></p_tk>
+    <p_tk vh="V" name="Smith, Jerome" assist="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="2" togo="5" spot="BALL36" context="H,2,5,H36" playid="2,4,10" type="P" first="P" tokens="PASS:15,C,8,H42 TACK:44"
+      text="NEAL, Riley pass complete to WILLIAMS, Jord. for 6 yards to the BALL42, 1ST DOWN BALL (Shaw, Michael)." newcontext="H,1,10,H42">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="WILLIAMS, Jord." gain="6"></p_pa>
+    <p_tk vh="V" name="Shaw, Michael"></p_tk>
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="BALL42" context="H,1,10,H42" playid="2,5,11" type="R" tokens="RUSH:25,H46, TACK:16,6"
+      text="GREEN, Darian rush for 4 yards to the BALL46 (Smith, Jerome;Peterson, J.)." newcontext="H,2,6,H46">
+    <p_ru vh="H" name="GREEN, Darian" gain="4"></p_ru>
+    <p_tk vh="V" name="Smith, Jerome" assist="Y"></p_tk>
+    <p_tk vh="V" name="Peterson, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="2" togo="6" spot="BALL46" context="H,2,6,H46" playid="2,6,12" type="P" tokens="PASS:15,I,8,*"
+      text="NEAL, Riley pass incomplete to WILLIAMS, Jord.." newcontext="H,3,6,H46">
+    <p_pa vh="H" qb="NEAL, Riley" result="INC" rcv="WILLIAMS, Jord."></p_pa>
+   </play>
+   <play hasball="BALL" down="3" togo="6" spot="BALL46" context="H,3,6,H46" playid="2,7,13" type="P" tokens="PASS:15,I,5,*"
+      text="NEAL, Riley pass incomplete to LACANARIA, C.." newcontext="H,4,6,H46">
+    <p_pa vh="H" qb="NEAL, Riley" result="INC" rcv="LACANARIA, C."></p_pa>
+   </play>
+   <play hasball="BALL" down="4" togo="6" spot="BALL46" context="H,4,6,H46" playid="2,8,14" type="U" tokens="PUNT:4A,V13 FC:9"
+      text="EGAN, Alex punt 41 yards to the GSU13, fair catch by Harden, Donovan." newcontext="V,1,10,V13">
+    <p_pu vh="H" name="EGAN, Alex" gain="41" in20="Y" fc="Harden, Donovan"></p_pu>
+   </play>
+   <drivesum plays="6" yards="25" top="1:51" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="V,V13,10:59" vh="V" spot="V13" clock="10:59" driveindex="3,14"></drivestart>
+   <play hasball="GSU" down="1" togo="10" spot="GSU13" context="V,1,10,V13" playid="3,1,15" clock="10:59" tokens="{DRIVE}:10:59"
+      text="GEORGIA STATE drive start at 10:59." newcontext="V,1,10,V13">
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="GSU13" context="V,1,10,V13" playid="3,2,16" type="E" first="E" tokens="RUSH:25,V11, TACK:7 PEN:H,PF,A,7,V28,1 NOPLAY:"
+      text="Neal, Kyler rush for loss of 2 yards to the GSU11 (TAYLOR, Aaron), PENALTY BALL personal foul (TAYLOR, Aaron) 15 yards to the GSU28, 1ST DOWN GSU, NO PLAY." newcontext="V,1,10,V28">
+    <p_pn vh="H" code="PF" type="personal foul" name="TAYLOR, Aaron" result="ACCEPT" at="V13" yards="15"></p_pn>
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="GSU28" context="V,1,10,V28" playid="3,3,17" type="R" tokens="RUSH:25,V31, TACK:2"
+      text="Neal, Kyler rush for 3 yards to the GSU31 (RYAN, Zack)." newcontext="V,2,7,V31">
+    <p_ru vh="V" name="Neal, Kyler" gain="3"></p_ru>
+    <p_tk vh="H" name="RYAN, Zack"></p_tk>
+   </play>
+   <play hasball="GSU" down="2" togo="7" spot="GSU31" context="V,2,7,V31" playid="3,4,18" type="R" tokens="RUSH:25,V33, TACK:55,9"
+      text="Neal, Kyler rush for 2 yards to the GSU33 (WHITMAN III, J.;AYERS, Michael)." newcontext="V,3,5,V33">
+    <p_ru vh="V" name="Neal, Kyler" gain="2"></p_ru>
+    <p_tk vh="H" name="WHITMAN III, J." assist="Y"></p_tk>
+    <p_tk vh="H" name="AYERS, Michael" assist="Y"></p_tk>
+   </play>
+   <play hasball="GSU" down="3" togo="5" spot="GSU33" context="V,3,5,V33" playid="3,5,19" type="P" tokens="PASS:4,C,18,V37 TACK:13"
+      text="Arbuckle, Nick pass complete to Hart, Penny for 4 yards to the GSU37 (MOORE, David)." newcontext="V,4,1,V37">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Hart, Penny" gain="4"></p_pa>
+    <p_tk vh="H" name="MOORE, David"></p_tk>
+   </play>
+   <play hasball="GSU" down="4" togo="1" spot="GSU37" context="V,4,1,V37" playid="3,6,20" type="U" tokens="PUNT:96,H34 OB:"
+      text="Lutz, Wil punt 29 yards to the BALL34, out-of-bounds." ob="Y" newcontext="H,1,10,H34">
+    <p_pu vh="V" name="Lutz, Wil" gain="29" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="24" top="2:00" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="H,H34,08:59" vh="H" spot="H34" clock="08:59" driveindex="4,20"></drivestart>
+   <play hasball="BALL" down="1" togo="10" spot="BALL34" context="H,1,10,H34" playid="4,1,21" clock="08:59" tokens="{DRIVE}:08:59"
+      text="BALL STATE drive start at 08:59." newcontext="H,1,10,H34">
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="BALL34" context="H,1,10,H34" playid="4,2,22" type="R" tokens="RUSH:25,H38, TACK:42"
+      text="GREEN, Darian rush for 4 yards to the BALL38 (Payne, Trey)." newcontext="H,2,6,H38">
+    <p_ru vh="H" name="GREEN, Darian" gain="4"></p_ru>
+    <p_tk vh="V" name="Payne, Trey"></p_tk>
+   </play>
+   <play hasball="BALL" down="2" togo="6" spot="BALL38" context="H,2,6,H38" playid="4,3,23" type="R" tokens="RUSH:25,H41, TACK:85"
+      text="GREEN, Darian rush for 3 yards to the BALL41 (Lawrence, S.)." newcontext="H,3,3,H41">
+    <p_ru vh="H" name="GREEN, Darian" gain="3"></p_ru>
+    <p_tk vh="V" name="Lawrence, S."></p_tk>
+   </play>
+   <play hasball="BALL" down="3" togo="3" spot="BALL41" context="H,3,3,H41" playid="4,4,24" type="P" first="P" tokens="PASS:15,C,16,H47 TACK:16"
+      text="NEAL, Riley pass complete to MABON, KeVonn for 6 yards to the BALL47, 1ST DOWN BALL (Smith, Jerome)." newcontext="H,1,10,H47">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="MABON, KeVonn" gain="6"></p_pa>
+    <p_tk vh="V" name="Smith, Jerome"></p_tk>
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="BALL47" context="H,1,10,H47" playid="4,5,25" type="P" tokens="PASS:15,C,10,V45 TACK:3,10"
+      text="NEAL, Riley pass complete to SHILLINGS, C. for 8 yards to the GSU45 (Batiste, Tarris;Sullivan, C.)." newcontext="H,2,2,V45">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="SHILLINGS, C." gain="8"></p_pa>
+    <p_tk vh="V" name="Batiste, Tarris" assist="Y"></p_tk>
+    <p_tk vh="V" name="Sullivan, C." assist="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="2" togo="2" spot="GSU45" context="H,2,2,V45" playid="4,6,26" type="R" first="R" tokens="RUSH:25,V42, TACK:6"
+      text="GREEN, Darian rush for 3 yards to the GSU42, 1ST DOWN BALL (Peterson, J.)." newcontext="H,1,10,V42">
+    <p_ru vh="H" name="GREEN, Darian" gain="3"></p_ru>
+    <p_tk vh="V" name="Peterson, J."></p_tk>
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="GSU42" context="H,1,10,V42" playid="4,7,27" type="R" tokens="RUSH:15,V40, TACK:6"
+      text="NEAL, Riley rush for 2 yards to the GSU40 (Peterson, J.)." newcontext="H,2,8,V40">
+    <p_ru vh="H" name="NEAL, Riley" gain="2"></p_ru>
+    <p_tk vh="V" name="Peterson, J."></p_tk>
+   </play>
+   <play hasball="BALL" down="2" togo="8" spot="GSU40" context="H,2,8,V40" playid="4,8,28" type="R" tokens="RUSH:25,V36, TACK:3"
+      text="GREEN, Darian rush for 4 yards to the GSU36 (Batiste, Tarris)." newcontext="H,3,4,V36">
+    <p_ru vh="H" name="GREEN, Darian" gain="4"></p_ru>
+    <p_tk vh="V" name="Batiste, Tarris"></p_tk>
+   </play>
+   <play hasball="BALL" down="3" togo="4" spot="GSU36" context="H,3,4,V36" playid="4,9,29" type="P" first="P" tokens="PASS:15,C,8,V25 TACK:42,16"
+      text="NEAL, Riley pass complete to WILLIAMS, Jord. for 11 yards to the GSU25, 1ST DOWN BALL (Payne, Trey;Smith, Jerome)." newcontext="H,1,10,V25">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="WILLIAMS, Jord." gain="11"></p_pa>
+    <p_tk vh="V" name="Payne, Trey" assist="Y"></p_tk>
+    <p_tk vh="V" name="Smith, Jerome" assist="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="GSU25" context="H,1,10,V25" playid="4,10,30" type="P" tokens="PASS:15,I,8,*"
+      text="NEAL, Riley pass incomplete to WILLIAMS, Jord.." newcontext="H,2,10,V25">
+    <p_pa vh="H" qb="NEAL, Riley" result="INC" rcv="WILLIAMS, Jord."></p_pa>
+   </play>
+   <play hasball="BALL" down="2" togo="10" spot="GSU25" context="H,2,10,V25" playid="4,11,31" type="R" tokens="RUSH:34,V16, TACK:42,52"
+      text="GILBERT, James rush for 9 yards to the GSU16 (Payne, Trey;Jones, Tevin)." newcontext="H,3,1,V16">
+    <p_ru vh="H" name="GILBERT, James" gain="9"></p_ru>
+    <p_tk vh="V" name="Payne, Trey" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jones, Tevin" assist="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="3" togo="1" spot="GSU16" context="H,3,1,V16" playid="4,12,32" type="R" tokens="RUSH:34,V18, TACK:5D"
+      text="GILBERT, James rush for loss of 2 yards to the GSU18 (Cheridor, M.)." newcontext="H,4,3,V18">
+    <p_ru vh="H" name="GILBERT, James" gain="-2"></p_ru>
+    <p_tk vh="V" name="Cheridor, M."></p_tk>
+   </play>
+   <play hasball="BALL" down="4" togo="3" spot="GSU18" context="H,4,3,V18" playid="4,13,33" type="F" score="Y" vscore="0" hscore="3" clock="04:45" tokens="FGA:22,35,G T:04:45"
+      text="HAGEE, Morgan field goal attempt from 35 GOOD, clock 04:45." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="HAGEE, Morgan" distance="35" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="0" H="3"></score>
+   <drivesum plays="12" yards="48" top="4:14" driveindex="4" complete="Y"></drivesum>
+   <play hasball="BALL" down="1" togo="0" spot="BALL35" context="H,1,0,H35" playid="4,14,34" type="K" tokens="KO:38,V11 RET:81,V25 TACK:30"
+      text="DRIDA, Steve kickoff 54 yards to the GSU11, Greene, Marquan return 14 yards to the GSU25 (PEYTON, Rontrel)." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="DRIDA, Steve" gain="54"></p_ko>
+    <p_kr vh="V" name="Greene, Marquan" gain="14"></p_kr>
+    <p_tk vh="H" name="PEYTON, Rontrel"></p_tk>
+   </play>
+   <drivestart poss="V,V25,04:39" vh="V" spot="V25" clock="04:39" driveindex="5,34"></drivestart>
+   <play hasball="GSU" down="1" togo="10" spot="GSU25" context="V,1,10,V25" playid="5,1,35" clock="04:39" tokens="{DRIVE}:04:39"
+      text="GEORGIA STATE drive start at 04:39." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="GSU25" context="V,1,10,V25" playid="5,2,36" type="P" tokens="PASS:4,I,9,*"
+      text="Arbuckle, Nick pass incomplete to Harden, Donovan." newcontext="V,2,10,V25">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="INC" rcv="Harden, Donovan"></p_pa>
+   </play>
+   <play hasball="GSU" down="2" togo="10" spot="GSU25" context="V,2,10,V25" playid="5,3,37" type="E" tokens="PASS:4,C,9,V36 OB: PEN:V,HO,A,56,V15,N NOPLAY:"
+      text="Arbuckle, Nick pass complete to Harden, Donovan for 11 yards to the GSU36, out-of-bounds, PENALTY GSU holding (Stoehr, Alex) 10 yards to the GSU15, NO PLAY." ob="Y" newcontext="V,2,20,V15">
+    <p_pn vh="V" code="HO" type="holding" name="Stoehr, Alex" result="ACCEPT" at="V25" yards="10"></p_pn>
+   </play>
+   <play hasball="GSU" down="2" togo="20" spot="GSU15" context="V,2,20,V15" playid="5,4,38" type="P" tokens="PASS:4,C,45,V26 TACK:45"
+      text="Arbuckle, Nick pass complete to Rucker, Keith for 11 yards to the GSU26 (McPHATTER, Jake)." newcontext="V,3,9,V26">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Rucker, Keith" gain="11"></p_pa>
+    <p_tk vh="H" name="McPHATTER, Jake"></p_tk>
+   </play>
+   <play hasball="GSU" down="3" togo="9" spot="GSU26" context="V,3,9,V26" playid="5,5,39" type="P" first="P" tokens="PASS:4,C,18,V50 TACK:3"
+      text="Arbuckle, Nick pass complete to Hart, Penny for 24 yards to the 50 yardline, 1ST DOWN GSU (WIGGINS, Sean)." newcontext="V,1,10,V50">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Hart, Penny" gain="24"></p_pa>
+    <p_tk vh="H" name="WIGGINS, Sean"></p_tk>
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="GSU50" context="V,1,10,V50" playid="5,6,40" type="R" tokens="RUSH:25,H48, TACK:19"
+      text="Neal, Kyler rush for 2 yards to the BALL48 (INGLE, Ben)." newcontext="V,2,8,H48">
+    <p_ru vh="V" name="Neal, Kyler" gain="2"></p_ru>
+    <p_tk vh="H" name="INGLE, Ben"></p_tk>
+   </play>
+   <play hasball="GSU" down="2" togo="8" spot="BALL48" context="V,2,8,H48" playid="5,7,41" type="P" first="P" tokens="PASS:4,C,19,H36 TACK:9"
+      text="Arbuckle, Nick pass complete to Davis, Robert for 12 yards to the BALL36, 1ST DOWN GSU (AYERS, Michael)." newcontext="V,1,10,H36">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Davis, Robert" gain="12"></p_pa>
+    <p_tk vh="H" name="AYERS, Michael"></p_tk>
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="BALL36" context="V,1,10,H36" playid="5,8,42" type="R" tokens="RUSH:25,H33, TACK:7"
+      text="Neal, Kyler rush for 3 yards to the BALL33 (TAYLOR, Aaron)." newcontext="V,2,7,H33">
+    <p_ru vh="V" name="Neal, Kyler" gain="3"></p_ru>
+    <p_tk vh="H" name="TAYLOR, Aaron"></p_tk>
+   </play>
+   <play hasball="GSU" down="2" togo="7" spot="BALL33" context="V,2,7,H33" playid="5,9,43" type="R" tokens="RUSH:25,H31, TACK:92,9"
+      text="Neal, Kyler rush for 2 yards to the BALL31 (JACKSON, Julian;AYERS, Michael)." newcontext="V,3,5,H31">
+    <p_ru vh="V" name="Neal, Kyler" gain="2"></p_ru>
+    <p_tk vh="H" name="JACKSON, Julian" assist="Y"></p_tk>
+    <p_tk vh="H" name="AYERS, Michael" assist="Y"></p_tk>
+   </play>
+   <play hasball="GSU" down="3" togo="5" spot="BALL31" context="V,3,5,H31" playid="5,10,44" type="P" first="P" tokens="PASS:4,C,19,H19 OB:"
+      text="Arbuckle, Nick pass complete to Davis, Robert for 12 yards to the BALL19, 1ST DOWN GSU, out-of-bounds." ob="Y" newcontext="V,1,10,H19">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Davis, Robert" gain="12"></p_pa>
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="BALL19" context="V,1,10,H19" playid="5,11,45" type="P" tokens="PASS:4,I,18,*"
+      text="Arbuckle, Nick pass incomplete to Hart, Penny." newcontext="V,2,10,H19">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="INC" rcv="Hart, Penny"></p_pa>
+   </play>
+   <play hasball="GSU" down="2" togo="10" spot="BALL19" context="V,2,10,H19" playid="5,12,46" type="P" first="P" tokens="PASS:4,C,19,H04 FORCE:13 FUMB:V,H04,TM"
+      text="Arbuckle, Nick pass complete to Davis, Robert for 15 yards to the BALL4, fumble forced by MOORE, David, fumble by Davis, Robert recovered by GSU TEAM at BALL4, 1ST DOWN GSU." newcontext="V,1,0,H04">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Davis, Robert" gain="15"></p_pa>
+    <p_fumb vh="V" name="Davis, Robert" at="H04" frvh="V" frname="TEAM"></p_fumb>
+    <p_tk vh="H" name="MOORE, David" ff="Y"></p_tk>
+   </play>
+   <play hasball="GSU" down="1" togo="0" spot="BALL04" context="V,1,0,H04" playid="5,13,47" type="R" score="Y" vscore="6" hscore="3" clock="00:15" tokens="RUSH:25,H00, T:00:15"
+      text="Neal, Kyler rush for 4 yards to the BALL0, TOUCHDOWN, clock 00:15." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Neal, Kyler" gain="4"></p_ru>
+   </play>
+   <play hasball="GSU" down="1" togo="0" spot="BALL03" context="V,1,0,H03" playid="5,14,48" type="X" score="Y" vscore="7" hscore="3" tokens="PAT:K,96,G"
+      text="Lutz, Wil kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Lutz, Wil" qb="Lutz, Wil" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="3"></score>
+   <drivesum plays="11" yards="75" top="4:24" driveindex="5" complete="Y"></drivesum>
+   <play hasball="GSU" down="1" togo="0" spot="GSU35" context="V,1,0,V35" playid="5,15,49" type="K" tokens="KO:96,H20 RET:40,H23 TACK:1A,26"
+      text="Lutz, Wil kickoff 45 yards to the BALL20, CURRY, Dylan return 3 yards to the BALL23 (Wilkins, Deion;Jacobs, Dartez)." newcontext="H,1,10,H23">
+    <p_ko vh="V" name="Lutz, Wil" gain="45"></p_ko>
+    <p_kr vh="H" name="CURRY, Dylan" gain="3"></p_kr>
+    <p_tk vh="V" name="Wilkins, Deion" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jacobs, Dartez" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H23,00:10" vh="H" spot="H23" clock="00:10" driveindex="6,49"></drivestart>
+   <play hasball="BALL" down="1" togo="10" spot="BALL23" context="H,1,10,H23" playid="6,1,50" clock="00:10" tokens="{DRIVE}:00:10"
+      text="BALL STATE drive start at 00:10." newcontext="H,1,10,H23">
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="BALL23" context="H,1,10,H23" playid="6,2,51" type="R" tokens="RUSH:34,H25, TACK:42,99"
+      text="GILBERT, James rush for 2 yards to the BALL25 (Payne, Trey;King, Melvin)." newcontext="H,2,8,H25">
+    <p_ru vh="H" name="GILBERT, James" gain="2"></p_ru>
+    <p_tk vh="V" name="Payne, Trey" assist="Y"></p_tk>
+    <p_tk vh="V" name="King, Melvin" assist="Y"></p_tk>
+   </play>
+   <score qtr="1" V="7" H="3"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="GSU">
+    <firstdowns no="5" rush="0" pass="4" penalty="1"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="08:40"></misc>
+    <rush att="8" yds="16" gain="16" loss="0" td="1" long="4"></rush>
+    <pass comp="7" att="9" int="0" yds="87" td="0" long="24" sacks="0" sackyds="0"></pass>
+    <rcv no="7" yds="87" td="0" long="24"></rcv>
+    <punt no="2" yds="70" long="41" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="35.0"></punt>
+    <ko no="1" yds="45" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="8" tacka="18" tot_tack="26" tflua="1" tfla="0" tflyds="2" sacks="0" sackyds="0"></defense>
+    <kr no="2" yds="46" td="0" long="32"></kr>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="BALL">
+    <firstdowns no="5" rush="1" pass="4" penalty="0"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:20"></misc>
+    <rush att="9" yds="29" gain="31" loss="2" td="0" long="9"></rush>
+    <pass comp="6" att="9" int="0" yds="46" td="0" long="11" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="46" td="0" long="11"></rcv>
+    <punt no="1" yds="41" long="41" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="41.0"></punt>
+    <ko no="2" yds="118" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="35" blkd="0"></fg>
+    <defense tackua="11" tacka="8" tot_tack="19" sacks="0" sackyds="0" ff="1"></defense>
+    <kr no="1" yds="3" td="0" long="3"></kr>
+    <pr no="1" yds="4" td="0" long="4"></pr>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="BALL" down="2" togo="8" spot="BALL25" context="H,2,8,H25" playid="6,3,52" type="#" clock="15:00" tokens="Q:2 T:15:00"
+      text="Start of 2nd quarter, clock 15:00." newcontext="H,2,8,H25">
+   </play>
+   <play hasball="BALL" down="2" togo="8" spot="BALL25" context="H,2,8,H25" playid="6,4,53" type="P" tokens="PASS:15,C,16,H31 TACK:3"
+      text="NEAL, Riley pass complete to MABON, KeVonn for 6 yards to the BALL31 (Batiste, Tarris)." newcontext="H,3,2,H31">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="MABON, KeVonn" gain="6"></p_pa>
+    <p_tk vh="V" name="Batiste, Tarris"></p_tk>
+   </play>
+   <play hasball="BALL" down="3" togo="2" spot="BALL31" context="H,3,2,H31" playid="6,5,54" type="P" first="P" tokens="PASS:15,C,5,H37 TACK:4D,6"
+      text="NEAL, Riley pass complete to LACANARIA, C. for 6 yards to the BALL37, 1ST DOWN BALL (McGee, Alonzo;Peterson, J.)." newcontext="H,1,10,H37">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="LACANARIA, C." gain="6"></p_pa>
+    <p_tk vh="V" name="McGee, Alonzo" assist="Y"></p_tk>
+    <p_tk vh="V" name="Peterson, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="BALL37" context="H,1,10,H37" playid="6,6,55" type="P" tokens="PASS:15,D,16,* BRUP:16"
+      text="NEAL, Riley pass incomplete to MABON, KeVonn, dropped pass (Smith, Jerome)." newcontext="H,2,10,H37">
+    <p_pa vh="H" qb="NEAL, Riley" result="DROP" rcv="MABON, KeVonn"></p_pa>
+    <p_bu vh="V" name="Smith, Jerome"></p_bu>
+   </play>
+   <play hasball="BALL" down="2" togo="10" spot="BALL37" context="H,2,10,H37" playid="6,7,56" type="R" tokens="RUSH:34,H46, TACK:47"
+      text="GILBERT, James rush for 9 yards to the BALL46 (Curney, Ed)." newcontext="H,3,1,H46">
+    <p_ru vh="H" name="GILBERT, James" gain="9"></p_ru>
+    <p_tk vh="V" name="Curney, Ed"></p_tk>
+   </play>
+   <play hasball="BALL" down="3" togo="1" spot="BALL46" context="H,3,1,H46" playid="6,8,57" type="R" first="R" tokens="RUSH:15,H49, TACK:55,97"
+      text="NEAL, Riley rush for 3 yards to the BALL49, 1ST DOWN BALL (Hopson, Carnell;Lawrence, Jalen)." newcontext="H,1,10,H49">
+    <p_ru vh="H" name="NEAL, Riley" gain="3"></p_ru>
+    <p_tk vh="V" name="Hopson, Carnell" assist="Y"></p_tk>
+    <p_tk vh="V" name="Lawrence, Jalen" assist="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="BALL49" context="H,1,10,H49" playid="6,9,58" type="R" first="R" tokens="RUSH:34,V41, TACK:3,55"
+      text="GILBERT, James rush for 10 yards to the GSU41, 1ST DOWN BALL (Batiste, Tarris;Hopson, Carnell)." newcontext="H,1,10,V41">
+    <p_ru vh="H" name="GILBERT, James" gain="10"></p_ru>
+    <p_tk vh="V" name="Batiste, Tarris" assist="Y"></p_tk>
+    <p_tk vh="V" name="Hopson, Carnell" assist="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="GSU41" context="H,1,10,V41" playid="6,10,59" type="R" tokens="RUSH:34,V33, TACK:42"
+      text="GILBERT, James rush for 8 yards to the GSU33 (Payne, Trey)." newcontext="H,2,2,V33">
+    <p_ru vh="H" name="GILBERT, James" gain="8"></p_ru>
+    <p_tk vh="V" name="Payne, Trey"></p_tk>
+   </play>
+   <play hasball="BALL" down="2" togo="2" spot="GSU33" context="H,2,2,V33" playid="6,11,60" type="P" tokens="PASS:15,I,16,* BRUP:3"
+      text="NEAL, Riley pass incomplete to MABON, KeVonn (Batiste, Tarris)." newcontext="H,3,2,V33">
+    <p_pa vh="H" qb="NEAL, Riley" result="INC" rcv="MABON, KeVonn"></p_pa>
+    <p_bu vh="V" name="Batiste, Tarris"></p_bu>
+   </play>
+   <play hasball="BALL" down="3" togo="2" spot="GSU33" context="H,3,2,V33" playid="6,12,61" type="R" first="R" tokens="RUSH:34,V28, TACK:6,52"
+      text="GILBERT, James rush for 5 yards to the GSU28, 1ST DOWN BALL (Peterson, J.;Jones, Tevin)." newcontext="H,1,10,V28">
+    <p_ru vh="H" name="GILBERT, James" gain="5"></p_ru>
+    <p_tk vh="V" name="Peterson, J." assist="Y"></p_tk>
+    <p_tk vh="V" name="Jones, Tevin" assist="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="GSU28" context="H,1,10,V28" playid="6,13,62" type="R" tokens="RUSH:25,V26, TACK:6"
+      text="GREEN, Darian rush for 2 yards to the GSU26 (Peterson, J.)." newcontext="H,2,8,V26">
+    <p_ru vh="H" name="GREEN, Darian" gain="2"></p_ru>
+    <p_tk vh="V" name="Peterson, J."></p_tk>
+   </play>
+   <play hasball="BALL" down="2" togo="8" spot="GSU26" context="H,2,8,V26" playid="6,14,63" type="P" tokens="PASS:15,C,8,V19 OB:"
+      text="NEAL, Riley pass complete to WILLIAMS, Jord. for 7 yards to the GSU19, out-of-bounds." ob="Y" newcontext="H,3,1,V19">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="WILLIAMS, Jord." gain="7"></p_pa>
+   </play>
+   <play hasball="BALL" down="3" togo="1" spot="GSU19" context="H,3,1,V19" playid="6,15,64" type="R" first="R" tokens="RUSH:15,V18, TACK:33,42"
+      text="NEAL, Riley rush for 1 yard to the GSU18, 1ST DOWN BALL (Traylor, James;Payne, Trey)." newcontext="H,1,10,V18">
+    <p_ru vh="H" name="NEAL, Riley" gain="1"></p_ru>
+    <p_tk vh="V" name="Traylor, James" assist="Y"></p_tk>
+    <p_tk vh="V" name="Payne, Trey" assist="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="GSU18" context="H,1,10,V18" playid="6,16,65" type="E" tokens="PEN:H,FS,A,65,V23,N"
+      text="PENALTY BALL false start (SCHLACHTER, J.) 5 yards to the GSU23." newcontext="H,1,15,V23">
+    <p_pn vh="H" code="FS" type="false start" name="SCHLACHTER, J." result="ACCEPT" at="V18" yards="5"></p_pn>
+   </play>
+   <play hasball="BALL" down="1" togo="15" spot="GSU23" context="H,1,15,V23" playid="6,17,66" type="R" tokens="RUSH:25,V20, TACK:6,99"
+      text="GREEN, Darian rush for 3 yards to the GSU20 (Peterson, J.;King, Melvin)." newcontext="H,2,12,V20">
+    <p_ru vh="H" name="GREEN, Darian" gain="3"></p_ru>
+    <p_tk vh="V" name="Peterson, J." assist="Y"></p_tk>
+    <p_tk vh="V" name="King, Melvin" assist="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="2" togo="12" spot="GSU20" context="H,2,12,V20" playid="6,18,67" type="P" tokens="PASS:15,D,16,*"
+      text="NEAL, Riley pass incomplete to MABON, KeVonn, dropped pass." newcontext="H,3,12,V20">
+    <p_pa vh="H" qb="NEAL, Riley" result="DROP" rcv="MABON, KeVonn"></p_pa>
+   </play>
+   <play hasball="BALL" down="3" togo="12" spot="GSU20" context="H,3,12,V20" playid="6,19,68" type="P" first="P" tokens="PASS:15,C,5,V04 TACK:6,10"
+      text="NEAL, Riley pass complete to LACANARIA, C. for 16 yards to the GSU4, 1ST DOWN BALL (Peterson, J.;Sullivan, C.)." newcontext="H,1,0,V04">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="LACANARIA, C." gain="16"></p_pa>
+    <p_tk vh="V" name="Peterson, J." assist="Y"></p_tk>
+    <p_tk vh="V" name="Sullivan, C." assist="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="1" togo="0" spot="GSU04" context="H,1,0,V04" playid="6,20,69" type="P" score="Y" vscore="7" hscore="9" clock="10:11" tokens="PASS:15,C,40,V00 T:10:11"
+      text="NEAL, Riley pass complete to CURRY, Dylan for 4 yards to the GSU0, TOUCHDOWN, clock 10:11." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="CURRY, Dylan" gain="4"></p_pa>
+   </play>
+   <play hasball="BALL" down="1" togo="0" spot="GSU03" context="H,1,0,V03" playid="6,21,70" type="X" score="Y" vscore="7" hscore="10" tokens="PAT:K,22,G"
+      text="HAGEE, Morgan kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="HAGEE, Morgan" qb="HAGEE, Morgan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="10"></score>
+   <drivesum plays="17" yards="77" top="4:59" driveindex="6" complete="Y"></drivesum>
+   <play hasball="BALL" down="1" togo="0" spot="BALL35" context="H,1,0,H35" playid="6,22,71" type="K" tokens="KO:12,V03 OB: SPOT:V,V35,Y"
+      text="SCHMIDT, Kyle kickoff 62 yards to the GSU3, out-of-bounds, GSU ball on GSU35." ob="Y" newcontext="V,1,10,V35">
+    <p_ko vh="H" name="SCHMIDT, Kyle" gain="62" result="O"></p_ko>
+   </play>
+   <drivestart poss="V,V35,10:11" vh="V" spot="V35" clock="10:11" driveindex="7,71"></drivestart>
+   <play hasball="GSU" down="1" togo="10" spot="GSU35" context="V,1,10,V35" playid="7,1,72" clock="10:11" tokens="{DRIVE}:10:11"
+      text="GEORGIA STATE drive start at 10:11." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="GSU35" context="V,1,10,V35" playid="7,2,73" type="P" tokens="PASS:18,I,8,*"
+      text="Hart, Penny pass incomplete to Ruiz, Joel." newcontext="V,2,10,V35">
+    <p_pa vh="V" qb="Hart, Penny" result="INC" rcv="Ruiz, Joel"></p_pa>
+   </play>
+   <play hasball="GSU" down="2" togo="10" spot="GSU35" context="V,2,10,V35" playid="7,3,74" type="R" tokens="RUSH:28,V39, TACK:7,57"
+      text="Kirk, Demarcus rush for 4 yards to the GSU39 (TAYLOR, Aaron;POSLEY, Joshua)." newcontext="V,3,6,V39">
+    <p_ru vh="V" name="Kirk, Demarcus" gain="4"></p_ru>
+    <p_tk vh="H" name="TAYLOR, Aaron" assist="Y"></p_tk>
+    <p_tk vh="H" name="POSLEY, Joshua" assist="Y"></p_tk>
+   </play>
+   <play hasball="GSU" down="3" togo="6" spot="GSU39" context="V,3,6,V39" playid="7,4,75" type="P" first="P" tokens="PASS:4,C,19,H33 OB: TACK:21"
+      text="Arbuckle, Nick pass complete to Davis, Robert for 28 yards to the BALL33, 1ST DOWN GSU, out-of-bounds (HESTER, Martez)." ob="Y" newcontext="V,1,10,H33">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Davis, Robert" gain="28"></p_pa>
+    <p_tk vh="H" name="HESTER, Martez"></p_tk>
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="BALL33" context="V,1,10,H33" playid="7,5,76" type="P" tokens="PASS:4,I,19,*"
+      text="Arbuckle, Nick pass incomplete to Davis, Robert." newcontext="V,2,10,H33">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="INC" rcv="Davis, Robert"></p_pa>
+   </play>
+   <play hasball="GSU" down="2" togo="10" spot="BALL33" context="V,2,10,H33" playid="7,6,77" type="R" first="R" tokens="RUSH:25,H21, TACK:43"
+      text="Neal, Kyler rush for 12 yards to the BALL21, 1ST DOWN GSU (CROMARTIE, D.)." newcontext="V,1,10,H21">
+    <p_ru vh="V" name="Neal, Kyler" gain="12"></p_ru>
+    <p_tk vh="H" name="CROMARTIE, D."></p_tk>
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="BALL21" context="V,1,10,H21" playid="7,7,78" type="P" tokens="PASS:4,C,28,H12 TACK:2,23"
+      text="Arbuckle, Nick pass complete to Kirk, Demarcus for 9 yards to the BALL12 (RYAN, Zack;WALTON, Marc)." newcontext="V,2,1,H12">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Kirk, Demarcus" gain="9"></p_pa>
+    <p_tk vh="H" name="RYAN, Zack" assist="Y"></p_tk>
+    <p_tk vh="H" name="WALTON, Marc" assist="Y"></p_tk>
+   </play>
+   <play hasball="GSU" down="2" togo="1" spot="BALL12" context="V,2,1,H12" playid="7,8,79" type="R" first="R" tokens="RUSH:28,H11, TACK:97"
+      text="Kirk, Demarcus rush for 1 yard to the BALL11, 1ST DOWN GSU (THURMON, Kevin)." newcontext="V,1,10,H11">
+    <p_ru vh="V" name="Kirk, Demarcus" gain="1"></p_ru>
+    <p_tk vh="H" name="THURMON, Kevin"></p_tk>
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="BALL11" context="V,1,10,H11" playid="7,9,80" type="P" first="P" score="Y" vscore="13" hscore="10" clock="07:44" tokens="PASS:4,C,19,H00 T:07:44"
+      text="Arbuckle, Nick pass complete to Davis, Robert for 11 yards to the BALL0, 1ST DOWN GSU, TOUCHDOWN, clock 07:44." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Davis, Robert" gain="11"></p_pa>
+   </play>
+   <play hasball="GSU" down="1" togo="0" spot="BALL03" context="V,1,0,H03" playid="7,10,81" type="X" score="Y" vscore="14" hscore="10" tokens="PAT:K,96,G"
+      text="Lutz, Wil kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Lutz, Wil" qb="Lutz, Wil" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="10"></score>
+   <drivesum plays="8" yards="65" top="2:27" driveindex="7" complete="Y"></drivesum>
+   <play hasball="GSU" down="1" togo="0" spot="GSU35" context="V,1,0,V35" playid="7,11,82" type="K" tokens="KO:96,H00 TB:"
+      text="Lutz, Wil kickoff 65 yards to the BALL0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Lutz, Wil" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,07:44" vh="H" spot="H25" clock="07:44" driveindex="8,82"></drivestart>
+   <play hasball="BALL" down="1" togo="10" spot="BALL25" context="H,1,10,H25" playid="8,1,83" clock="07:44" tokens="{DRIVE}:07:44"
+      text="BALL STATE drive start at 07:44." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="BALL25" context="H,1,10,H25" playid="8,2,84" type="P" tokens="PASS:15,I,8,* BRUP:85"
+      text="NEAL, Riley pass incomplete to WILLIAMS, Jord. (Lawrence, S.)." newcontext="H,2,10,H25">
+    <p_pa vh="H" qb="NEAL, Riley" result="INC" rcv="WILLIAMS, Jord."></p_pa>
+    <p_bu vh="V" name="Lawrence, S."></p_bu>
+   </play>
+   <play hasball="BALL" down="2" togo="10" spot="BALL25" context="H,2,10,H25" playid="8,3,85" type="R" tokens="RUSH:25,H33, TACK:33"
+      text="GREEN, Darian rush for 8 yards to the BALL33 (Traylor, James)." newcontext="H,3,2,H33">
+    <p_ru vh="H" name="GREEN, Darian" gain="8"></p_ru>
+    <p_tk vh="V" name="Traylor, James"></p_tk>
+   </play>
+   <play hasball="BALL" down="3" togo="2" spot="BALL33" context="H,3,2,H33" playid="8,4,86" type="R" tokens="RUSH:34,H33, TACK:2,42"
+      text="GILBERT, James rush for no gain to the BALL33 (Baker, Bobby;Payne, Trey)." newcontext="H,4,2,H33">
+    <p_ru vh="H" name="GILBERT, James" gain="0"></p_ru>
+    <p_tk vh="V" name="Baker, Bobby" assist="Y"></p_tk>
+    <p_tk vh="V" name="Payne, Trey" assist="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="4" togo="2" spot="BALL33" context="H,4,2,H33" playid="8,5,87" type="U" tokens="PUNT:12,V37 OB:"
+      text="SCHMIDT, Kyle punt 30 yards to the GSU37, out-of-bounds." ob="Y" newcontext="V,1,10,V37">
+    <p_pu vh="H" name="SCHMIDT, Kyle" gain="30" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="8" top="1:10" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="V,V37,06:34" vh="V" spot="V37" clock="06:34" driveindex="9,87"></drivestart>
+   <play hasball="GSU" down="1" togo="10" spot="GSU37" context="V,1,10,V37" playid="9,1,88" clock="06:34" tokens="{DRIVE}:06:34"
+      text="GEORGIA STATE drive start at 06:34." newcontext="V,1,10,V37">
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="GSU37" context="V,1,10,V37" playid="9,2,89" type="P" first="P" tokens="PASS:4,C,18,H38 TACK:13"
+      text="Arbuckle, Nick pass complete to Hart, Penny for 25 yards to the BALL38, 1ST DOWN GSU (MOORE, David)." newcontext="V,1,10,H38">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Hart, Penny" gain="25"></p_pa>
+    <p_tk vh="H" name="MOORE, David"></p_tk>
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="BALL38" context="V,1,10,H38" playid="9,3,90" type="R" tokens="RUSH:28,H39, TACK:57"
+      text="Kirk, Demarcus rush for loss of 1 yard to the BALL39 (POSLEY, Joshua)." newcontext="V,2,11,H39">
+    <p_ru vh="V" name="Kirk, Demarcus" gain="-1"></p_ru>
+    <p_tk vh="H" name="POSLEY, Joshua"></p_tk>
+   </play>
+   <play hasball="GSU" down="2" togo="11" spot="BALL39" context="V,2,11,H39" playid="9,4,91" type="P" first="P" tokens="PASS:4,C,45,H20 TACK:21,43"
+      text="Arbuckle, Nick pass complete to Rucker, Keith for 19 yards to the BALL20, 1ST DOWN GSU (HESTER, Martez;CROMARTIE, D.)." newcontext="V,1,10,H20">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Rucker, Keith" gain="19"></p_pa>
+    <p_tk vh="H" name="HESTER, Martez" assist="Y"></p_tk>
+    <p_tk vh="H" name="CROMARTIE, D." assist="Y"></p_tk>
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="BALL20" context="V,1,10,H20" playid="9,5,92" type="P" tokens="PASS:4,I,45,*"
+      text="Arbuckle, Nick pass incomplete to Rucker, Keith." newcontext="V,2,10,H20">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="INC" rcv="Rucker, Keith"></p_pa>
+   </play>
+   <play hasball="GSU" down="2" togo="10" spot="BALL20" context="V,2,10,H20" playid="9,6,93" type="R" tokens="RUSH:36,H13, TACK:35,55"
+      text="Anderson, Khai rush for 7 yards to the BALL13 (NOEL, Keenan;WHITMAN III, J.)." newcontext="V,3,3,H13">
+    <p_ru vh="V" name="Anderson, Khai" gain="7"></p_ru>
+    <p_tk vh="H" name="NOEL, Keenan" assist="Y"></p_tk>
+    <p_tk vh="H" name="WHITMAN III, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="GSU" down="3" togo="3" spot="BALL13" context="V,3,3,H13" playid="9,7,94" type="P" first="P" tokens="PASS:4,C,45,H02 TACK:43"
+      text="Arbuckle, Nick pass complete to Rucker, Keith for 11 yards to the BALL2, 1ST DOWN GSU (CROMARTIE, D.)." newcontext="V,1,0,H02">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Rucker, Keith" gain="11"></p_pa>
+    <p_tk vh="H" name="CROMARTIE, D."></p_tk>
+   </play>
+   <play hasball="GSU" down="1" togo="0" spot="BALL02" context="V,1,0,H02" playid="9,8,95" type="R" tokens="RUSH:46,H01, TACK:57,19"
+      text="Lytle, Jonathan rush for 1 yard to the BALL1 (POSLEY, Joshua;INGLE, Ben)." newcontext="V,2,0,H01">
+    <p_ru vh="V" name="Lytle, Jonathan" gain="1"></p_ru>
+    <p_tk vh="H" name="POSLEY, Joshua" assist="Y"></p_tk>
+    <p_tk vh="H" name="INGLE, Ben" assist="Y"></p_tk>
+   </play>
+   <play hasball="GSU" down="2" togo="0" spot="BALL01" context="V,2,0,H01" playid="9,9,96" type="R" score="Y" vscore="20" hscore="10" clock="02:51" tokens="RUSH:4,H00, T:02:51"
+      text="Arbuckle, Nick rush for 1 yard to the BALL0, TOUCHDOWN, clock 02:51." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Arbuckle, Nick" gain="1"></p_ru>
+   </play>
+   <play hasball="GSU" down="1" togo="0" spot="BALL03" context="V,1,0,H03" playid="9,10,97" type="X" score="Y" vscore="21" hscore="10" tokens="PAT:K,96,G"
+      text="Lutz, Wil kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Lutz, Wil" qb="Lutz, Wil" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="21" H="10"></score>
+   <drivesum plays="8" yards="63" top="3:43" driveindex="9" complete="Y"></drivesum>
+   <play hasball="GSU" down="1" togo="0" spot="GSU35" context="V,1,0,V35" playid="9,11,98" type="K" tokens="KO:96,H00 TB:"
+      text="Lutz, Wil kickoff 65 yards to the BALL0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Lutz, Wil" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,02:51" vh="H" spot="H25" clock="02:51" driveindex="10,98"></drivestart>
+   <play hasball="BALL" down="1" togo="10" spot="BALL25" context="H,1,10,H25" playid="10,1,99" clock="02:51" tokens="{DRIVE}:02:51"
+      text="BALL STATE drive start at 02:51." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="BALL25" context="H,1,10,H25" playid="10,2,100" type="P" tokens="PASS:15,C,16,H34 TACK:4D"
+      text="NEAL, Riley pass complete to MABON, KeVonn for 9 yards to the BALL34 (McGee, Alonzo)." newcontext="H,2,1,H34">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="MABON, KeVonn" gain="9"></p_pa>
+    <p_tk vh="V" name="McGee, Alonzo"></p_tk>
+   </play>
+   <play hasball="BALL" down="2" togo="1" spot="BALL34" context="H,2,1,H34" playid="10,3,101" type="P" tokens="PASS:15,I,16,* QBH:V,4D"
+      text="NEAL, Riley pass incomplete to MABON, KeVonn, QB hurry by McGee, Alonzo." newcontext="H,3,1,H34">
+    <p_pa vh="H" qb="NEAL, Riley" result="INC" rcv="MABON, KeVonn"></p_pa>
+    <p_qbh vh="V" name="McGee, Alonzo"></p_qbh>
+   </play>
+   <play hasball="BALL" down="3" togo="1" spot="BALL34" context="H,3,1,H34" playid="10,4,102" type="R" first="R" tokens="RUSH:15,H35, TACK:42,85"
+      text="NEAL, Riley rush for 1 yard to the BALL35, 1ST DOWN BALL (Payne, Trey;Lawrence, S.)." newcontext="H,1,10,H35">
+    <p_ru vh="H" name="NEAL, Riley" gain="1"></p_ru>
+    <p_tk vh="V" name="Payne, Trey" assist="Y"></p_tk>
+    <p_tk vh="V" name="Lawrence, S." assist="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="BALL35" context="H,1,10,H35" playid="10,5,103" type="P" tokens="PASS:15,I,1,* BRUP:42"
+      text="NEAL, Riley pass incomplete to HOGUE, Jordan (Payne, Trey)." newcontext="H,2,10,H35">
+    <p_pa vh="H" qb="NEAL, Riley" result="INC" rcv="HOGUE, Jordan"></p_pa>
+    <p_bu vh="V" name="Payne, Trey"></p_bu>
+   </play>
+   <play hasball="BALL" down="2" togo="10" spot="BALL35" context="H,2,10,H35" playid="10,6,104" type="P" first="P" tokens="PASS:15,C,1,V48 TACK:6,3"
+      text="NEAL, Riley pass complete to HOGUE, Jordan for 17 yards to the GSU48, 1ST DOWN BALL (Peterson, J.;Batiste, Tarris)." newcontext="H,1,10,V48">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="HOGUE, Jordan" gain="17"></p_pa>
+    <p_tk vh="V" name="Peterson, J." assist="Y"></p_tk>
+    <p_tk vh="V" name="Batiste, Tarris" assist="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="GSU48" context="H,1,10,V48" playid="10,7,105" type="P" tokens="PASS:15,C,16,V45 TACK:16"
+      text="NEAL, Riley pass complete to MABON, KeVonn for 3 yards to the GSU45 (Smith, Jerome)." newcontext="H,2,7,V45">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="MABON, KeVonn" gain="3"></p_pa>
+    <p_tk vh="V" name="Smith, Jerome"></p_tk>
+   </play>
+   <play hasball="BALL" down="2" togo="7" spot="GSU45" context="H,2,7,V45" playid="10,8,106" type="P" tokens="PASS:15,C,1,V41 TACK:10"
+      text="NEAL, Riley pass complete to HOGUE, Jordan for 4 yards to the GSU41 (Sullivan, C.)." newcontext="H,3,3,V41">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="HOGUE, Jordan" gain="4"></p_pa>
+    <p_tk vh="V" name="Sullivan, C."></p_tk>
+   </play>
+   <play hasball="BALL" down="3" togo="3" spot="GSU41" context="H,3,3,V41" playid="10,9,107" type="P" tokens="PASS:15,D,1,*"
+      text="NEAL, Riley pass incomplete to HOGUE, Jordan, dropped pass." newcontext="H,4,3,V41">
+    <p_pa vh="H" qb="NEAL, Riley" result="DROP" rcv="HOGUE, Jordan"></p_pa>
+   </play>
+   <play hasball="BALL" down="4" togo="3" spot="GSU41" context="H,4,3,V41" playid="10,10,108" type="P" tokens="PASS:15,I,16,* BRUP:55"
+      text="NEAL, Riley pass incomplete to MABON, KeVonn (Hopson, Carnell)." newcontext="V,1,10,V41">
+    <p_pa vh="H" qb="NEAL, Riley" result="INC" rcv="MABON, KeVonn"></p_pa>
+    <p_bu vh="V" name="Hopson, Carnell"></p_bu>
+   </play>
+   <drivesum plays="9" yards="34" top="1:45" driveindex="10" complete="Y"></drivesum>
+   <drivestart poss="V,V41,01:06" vh="V" spot="V41" clock="01:06" driveindex="11,108"></drivestart>
+   <play hasball="GSU" down="1" togo="10" spot="GSU41" context="V,1,10,V41" playid="11,1,109" clock="01:06" tokens="{DRIVE}:01:06"
+      text="GEORGIA STATE drive start at 01:06." newcontext="V,1,10,V41">
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="GSU41" context="V,1,10,V41" playid="11,2,110" type="P" first="P" tokens="PASS:4,C,15,H31 TACK:20,21"
+      text="Arbuckle, Nick pass complete to Boyd, Todd for 28 yards to the BALL31, 1ST DOWN GSU (CONAWAY, Darius;HESTER, Martez)." newcontext="V,1,10,H31">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Boyd, Todd" gain="28"></p_pa>
+    <p_tk vh="H" name="CONAWAY, Darius" assist="Y"></p_tk>
+    <p_tk vh="H" name="HESTER, Martez" assist="Y"></p_tk>
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="BALL31" context="V,1,10,H31" playid="11,3,111" type="P" tokens="PASS:4,C,28,H26 TACK:3 PEN:V,PF,A,9,H41,+"
+      text="Arbuckle, Nick pass complete to Kirk, Demarcus for 5 yards to the BALL26 (WIGGINS, Sean), PENALTY GSU personal foul (Harden, Donovan) 15 yards to the BALL41." newcontext="V,2,20,H41">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Kirk, Demarcus" gain="5"></p_pa>
+    <p_tk vh="H" name="WIGGINS, Sean"></p_tk>
+    <p_pn vh="V" code="PF" type="personal foul" name="Harden, Donovan" result="ACCEPT" at="H26" yards="15"></p_pn>
+   </play>
+   <play hasball="GSU" down="2" togo="20" spot="BALL41" context="V,2,20,H41" playid="11,4,112" tokens="D:2,20"
+      text="2nd and 20." newcontext="V,2,20,H41">
+   </play>
+   <play hasball="GSU" down="2" togo="20" spot="BALL41" context="V,2,20,H41" playid="11,5,113" type="P" tokens="PASS:4,C,18,H30 TACK:42,3"
+      text="Arbuckle, Nick pass complete to Hart, Penny for 11 yards to the BALL30 (BOYD, Julian;WIGGINS, Sean)." newcontext="V,3,9,H30">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Hart, Penny" gain="11"></p_pa>
+    <p_tk vh="H" name="BOYD, Julian" assist="Y"></p_tk>
+    <p_tk vh="H" name="WIGGINS, Sean" assist="Y"></p_tk>
+   </play>
+   <play hasball="GSU" down="3" togo="9" spot="BALL30" context="V,3,9,H30" playid="11,6,114" type="#" clock="00:31" tokens="TOUT:V T:00:31"
+      text="Timeout Georgia State, clock 00:31." newcontext="V,3,9,H30">
+    <p_to vh="V" team="Georgia State"></p_to>
+   </play>
+   <play hasball="GSU" down="3" togo="9" spot="BALL30" context="V,3,9,H30" playid="11,7,115" type="E" tokens="PEN:V,FS,A,72,H35,N"
+      text="PENALTY GSU false start (Mobley, Gabe) 5 yards to the BALL35." newcontext="V,3,14,H35">
+    <p_pn vh="V" code="FS" type="false start" name="Mobley, Gabe" result="ACCEPT" at="H30" yards="5"></p_pn>
+   </play>
+   <play hasball="GSU" down="3" togo="14" spot="BALL35" context="V,3,14,H35" playid="11,8,116" tokens="D:3,14"
+      text="3rd and 14." newcontext="V,3,14,H35">
+   </play>
+   <play hasball="GSU" down="3" togo="14" spot="BALL35" context="V,3,14,H35" playid="11,9,117" type="E" tokens="PASS:4,C,28,H24 TACK:42,3 PEN:V,HO,A,58,H45,N NOPLAY:"
+      text="Arbuckle, Nick pass complete to Kirk, Demarcus for 11 yards to the BALL24 (BOYD, Julian;WIGGINS, Sean), PENALTY GSU holding (Davidson, J.) 10 yards to the BALL45, NO PLAY." newcontext="V,3,24,H45">
+    <p_pn vh="V" code="HO" type="holding" name="Davidson, J." result="ACCEPT" at="H35" yards="10"></p_pn>
+   </play>
+   <play hasball="GSU" down="3" togo="24" spot="BALL45" context="V,3,24,H45" playid="11,10,118" type="P" tokens="PASS:4,C,28,H33 TACK:20,42"
+      text="Arbuckle, Nick pass complete to Kirk, Demarcus for 12 yards to the BALL33 (CONAWAY, Darius;BOYD, Julian)." newcontext="V,4,12,H33">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Kirk, Demarcus" gain="12"></p_pa>
+    <p_tk vh="H" name="CONAWAY, Darius" assist="Y"></p_tk>
+    <p_tk vh="H" name="BOYD, Julian" assist="Y"></p_tk>
+   </play>
+   <play hasball="GSU" down="4" togo="12" spot="BALL33" context="V,4,12,H33" playid="11,11,119" type="#" clock="00:02" tokens="TOUT:V T:00:02"
+      text="Timeout Georgia State, clock 00:02." newcontext="V,4,12,H33">
+    <p_to vh="V" team="Georgia State"></p_to>
+   </play>
+   <play hasball="GSU" down="4" togo="12" spot="BALL33" context="V,4,12,H33" playid="11,12,120" type="#" clock="00:02" tokens="TOUT:H T:00:02"
+      text="Timeout Ball State, clock 00:02." newcontext="V,4,12,H33">
+    <p_to vh="H" team="Ball State"></p_to>
+   </play>
+   <play hasball="GSU" down="4" togo="12" spot="BALL33" context="V,4,12,H33" playid="11,13,121" type="F" score="Y" vscore="24" hscore="10" clock="00:00" tokens="FGA:96,50,G T:00:00"
+      text="Lutz, Wil field goal attempt from 50 GOOD, clock 00:00." newcontext="V,1,0,V35">
+    <p_fg vh="V" name="Lutz, Wil" distance="50" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="24" H="10"></score>
+   <play hasball="GSU" down="1" togo="0" spot="GSU35" context="V,1,0,V35" playid="11,14,122" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of half, clock 00:00." newcontext="V,1,0,V35">
+   </play>
+   <drivesum plays="5" yards="26" top="1:06" driveindex="11" complete="Y"></drivesum>
+   <score qtr="2" V="24" H="10"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="GSU">
+    <firstdowns no="8" rush="2" pass="6" penalty="0"></firstdowns>
+    <penalties no="3" yds="30"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:16"></misc>
+    <rush att="7" yds="25" gain="26" loss="1" td="1" long="8"></rush>
+    <pass comp="10" att="13" int="0" yds="159" td="1" long="4" sacks="0" sackyds="0"></pass>
+    <rcv no="10" yds="159" td="1" long="4"></rcv>
+    <ko no="2" yds="130" ob="0" tb="2"></ko>
+    <fg made="1" att="1" long="50" blkd="0"></fg>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="8" tacka="20" tot_tack="28" sacks="0" sackyds="0" brup="5" qbh="1"></defense>
+    <scoring td="2" fg="1" patkick="2"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="BALL">
+    <firstdowns no="8" rush="5" pass="3" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="6" thirdatt="8" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:44"></misc>
+    <rush att="11" yds="50" gain="50" loss="0" td="0" long="1"></rush>
+    <pass comp="9" att="17" int="0" yds="72" td="1" long="6" sacks="0" sackyds="0"></pass>
+    <rcv no="9" yds="72" td="1" long="6"></rcv>
+    <punt no="1" yds="30" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="30.0"></punt>
+    <ko no="1" yds="62" ob="1" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="7" tacka="16" tot_tack="23" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0"></defense>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="GSU" down="1" togo="0" spot="GSU35" context="V,1,0,V35" playid="11,15,123" type="#" clock="15:00" tokens="Q:3 T:15:00 SPOT:V,V35,N"
+      text="Start of 3rd quarter, clock 15:00, GSU ball on GSU35." newcontext="V,1,0,V35">
+   </play>
+   <play hasball="GSU" down="1" togo="0" spot="GSU35" context="V,1,0,V35" playid="11,16,124" type="K" tokens="KO:96,H12 RET:25,H31 TACK:26"
+      text="Lutz, Wil kickoff 53 yards to the BALL12, GREEN, Darian return 19 yards to the BALL31 (Jacobs, Dartez)." newcontext="H,1,10,H31">
+    <p_ko vh="V" name="Lutz, Wil" gain="53"></p_ko>
+    <p_kr vh="H" name="GREEN, Darian" gain="19"></p_kr>
+    <p_tk vh="V" name="Jacobs, Dartez"></p_tk>
+   </play>
+   <drivestart poss="H,H31,14:53" vh="H" spot="H31" clock="14:53" driveindex="12,124"></drivestart>
+   <play hasball="BALL" down="1" togo="10" spot="BALL31" context="H,1,10,H31" playid="12,1,125" clock="14:53" tokens="{DRIVE}:14:53"
+      text="BALL STATE drive start at 14:53." newcontext="H,1,10,H31">
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="BALL31" context="H,1,10,H31" playid="12,2,126" type="R" first="R" tokens="RUSH:15,H44, OB:"
+      text="NEAL, Riley rush for 13 yards to the BALL44, 1ST DOWN BALL, out-of-bounds." ob="Y" newcontext="H,1,10,H44">
+    <p_ru vh="H" name="NEAL, Riley" gain="13"></p_ru>
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="BALL44" context="H,1,10,H44" playid="12,3,127" type="P" tokens="PASS:15,C,16,V49 TACK:4D"
+      text="NEAL, Riley pass complete to MABON, KeVonn for 7 yards to the GSU49 (McGee, Alonzo)." newcontext="H,2,3,V49">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="MABON, KeVonn" gain="7"></p_pa>
+    <p_tk vh="V" name="McGee, Alonzo"></p_tk>
+   </play>
+   <play hasball="BALL" down="2" togo="3" spot="GSU49" context="H,2,3,V49" playid="12,4,128" type="R" first="R" tokens="RUSH:25,V46, TACK:42"
+      text="GREEN, Darian rush for 3 yards to the GSU46, 1ST DOWN BALL (Payne, Trey)." newcontext="H,1,10,V46">
+    <p_ru vh="H" name="GREEN, Darian" gain="3"></p_ru>
+    <p_tk vh="V" name="Payne, Trey"></p_tk>
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="GSU46" context="H,1,10,V46" playid="12,5,129" type="R" tokens="RUSH:25,V42, TACK:3,44"
+      text="GREEN, Darian rush for 4 yards to the GSU42 (Batiste, Tarris;Shaw, Michael)." newcontext="H,2,6,V42">
+    <p_ru vh="H" name="GREEN, Darian" gain="4"></p_ru>
+    <p_tk vh="V" name="Batiste, Tarris" assist="Y"></p_tk>
+    <p_tk vh="V" name="Shaw, Michael" assist="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="2" togo="6" spot="GSU42" context="H,2,6,V42" playid="12,6,130" type="P" first="P" tokens="PASS:15,C,8,V31 TACK:16"
+      text="NEAL, Riley pass complete to WILLIAMS, Jord. for 11 yards to the GSU31, 1ST DOWN BALL (Smith, Jerome)." newcontext="H,1,10,V31">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="WILLIAMS, Jord." gain="11"></p_pa>
+    <p_tk vh="V" name="Smith, Jerome"></p_tk>
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="GSU31" context="H,1,10,V31" playid="12,7,131" type="R" tokens="RUSH:25,V29, TACK:85"
+      text="GREEN, Darian rush for 2 yards to the GSU29 (Lawrence, S.)." newcontext="H,2,8,V29">
+    <p_ru vh="H" name="GREEN, Darian" gain="2"></p_ru>
+    <p_tk vh="V" name="Lawrence, S."></p_tk>
+   </play>
+   <play hasball="BALL" down="2" togo="8" spot="GSU29" context="H,2,8,V29" playid="12,8,132" type="R" tokens="RUSH:15,V29, TACK:5D"
+      text="NEAL, Riley rush for no gain to the GSU29 (Cheridor, M.)." newcontext="H,3,8,V29">
+    <p_ru vh="H" name="NEAL, Riley" gain="0"></p_ru>
+    <p_tk vh="V" name="Cheridor, M."></p_tk>
+   </play>
+   <play hasball="BALL" down="3" togo="8" spot="GSU29" context="H,3,8,V29" playid="12,9,133" type="P" tokens="PASS:15,F,TM,V36 SACK:5D FUMB:H,V36,34"
+      text="NEAL, Riley sacked for loss of 7 yards to the GSU36 (Cheridor, M.), fumble by NEAL, Riley recovered by BALL GILBERT, James at GSU36." newcontext="H,4,15,V36">
+    <p_pa vh="H" qb="NEAL, Riley" result="FUMB" gain="-7"></p_pa>
+    <p_fumb vh="H" name="NEAL, Riley" at="V36" frvh="H" frname="GILBERT, James"></p_fumb>
+    <p_tk vh="V" name="Cheridor, M." sack="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="4" togo="15" spot="GSU36" context="H,4,15,V36" playid="12,10,134" type="E" tokens="PEN:H,DG,D"
+      text="PENALTY BALL delay of game declined." newcontext="H,4,15,V36">
+    <p_pn vh="H" code="DG" type="delay of game" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="BALL" down="4" togo="15" spot="GSU36" context="H,4,15,V36" playid="12,11,135" type="U" tokens="PUNT:12,V11 FC:9"
+      text="SCHMIDT, Kyle punt 25 yards to the GSU11, fair catch by Harden, Donovan." newcontext="V,1,10,V11">
+    <p_pu vh="H" name="SCHMIDT, Kyle" gain="25" in20="Y" fc="Harden, Donovan"></p_pu>
+   </play>
+   <drivesum plays="8" yards="33" top="3:41" driveindex="12" complete="Y"></drivesum>
+   <drivestart poss="V,V11,11:12" vh="V" spot="V11" clock="11:12" driveindex="13,135"></drivestart>
+   <play hasball="GSU" down="1" togo="10" spot="GSU11" context="V,1,10,V11" playid="13,1,136" clock="11:12" tokens="{DRIVE}:11:12"
+      text="GEORGIA STATE drive start at 11:12." newcontext="V,1,10,V11">
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="GSU11" context="V,1,10,V11" playid="13,2,137" type="P" first="P" tokens="PASS:4,C,28,V27 TACK:7"
+      text="Arbuckle, Nick pass complete to Kirk, Demarcus for 16 yards to the GSU27, 1ST DOWN GSU (TAYLOR, Aaron)." newcontext="V,1,10,V27">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Kirk, Demarcus" gain="16"></p_pa>
+    <p_tk vh="H" name="TAYLOR, Aaron"></p_tk>
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="GSU27" context="V,1,10,V27" playid="13,3,138" type="R" first="R" tokens="RUSH:28,V37, TACK:9"
+      text="Kirk, Demarcus rush for 10 yards to the GSU37, 1ST DOWN GSU (AYERS, Michael)." newcontext="V,1,10,V37">
+    <p_ru vh="V" name="Kirk, Demarcus" gain="10"></p_ru>
+    <p_tk vh="H" name="AYERS, Michael"></p_tk>
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="GSU37" context="V,1,10,V37" playid="13,4,139" type="E" tokens="PEN:V,FS,A,84,V32,N"
+      text="PENALTY GSU false start (Teknipp, Bill) 5 yards to the GSU32." newcontext="V,1,15,V32">
+    <p_pn vh="V" code="FS" type="false start" name="Teknipp, Bill" result="ACCEPT" at="V37" yards="5"></p_pn>
+   </play>
+   <play hasball="GSU" down="1" togo="15" spot="GSU32" context="V,1,15,V32" playid="13,5,140" type="R" tokens="RUSH:28,V35, TACK:35,55"
+      text="Kirk, Demarcus rush for 3 yards to the GSU35 (NOEL, Keenan;WHITMAN III, J.)." newcontext="V,2,12,V35">
+    <p_ru vh="V" name="Kirk, Demarcus" gain="3"></p_ru>
+    <p_tk vh="H" name="NOEL, Keenan" assist="Y"></p_tk>
+    <p_tk vh="H" name="WHITMAN III, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="GSU" down="2" togo="12" spot="GSU35" context="V,2,12,V35" playid="13,6,141" type="P" first="P" tokens="PASS:4,C,19,V47 OB: TACK:3"
+      text="Arbuckle, Nick pass complete to Davis, Robert for 12 yards to the GSU47, 1ST DOWN GSU, out-of-bounds (WIGGINS, Sean)." ob="Y" newcontext="V,1,10,V47">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Davis, Robert" gain="12"></p_pa>
+    <p_tk vh="H" name="WIGGINS, Sean"></p_tk>
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="GSU47" context="V,1,10,V47" playid="13,7,142" type="P" tokens="PASS:4,S,TM,V41 SACK:3"
+      text="Arbuckle, Nick sacked for loss of 6 yards to the GSU41 (WIGGINS, Sean)." newcontext="V,2,16,V41">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="SACK" gain="-6"></p_pa>
+    <p_tk vh="H" name="WIGGINS, Sean" sack="Y"></p_tk>
+   </play>
+   <play hasball="GSU" down="2" togo="16" spot="GSU41" context="V,2,16,V41" playid="13,8,143" type="R" turnover="F" tokens="RUSH:28,V44, FORCE:57 FUMB:H,V46,3"
+      text="Kirk, Demarcus rush for 3 yards to the GSU44, fumble forced by POSLEY, Joshua, fumble by Kirk, Demarcus recovered by BALL WIGGINS, Sean at GSU46." newcontext="H,1,10,V46">
+    <p_ru vh="V" name="Kirk, Demarcus" gain="3"></p_ru>
+    <p_fumb vh="V" name="Kirk, Demarcus" at="V46" frvh="H" frname="WIGGINS, Sean"></p_fumb>
+    <p_tk vh="H" name="POSLEY, Joshua" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="6" yards="35" top="2:45" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="H,V46,08:27" vh="H" spot="V46" clock="08:27" driveindex="14,143"></drivestart>
+   <play hasball="BALL" down="1" togo="10" spot="GSU46" context="H,1,10,V46" playid="14,1,144" clock="08:27" tokens="{DRIVE}:08:27"
+      text="BALL STATE drive start at 08:27." newcontext="H,1,10,V46">
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="GSU46" context="H,1,10,V46" playid="14,2,145" type="R" tokens="RUSH:25,V38, TACK:6,3"
+      text="GREEN, Darian rush for 8 yards to the GSU38 (Peterson, J.;Batiste, Tarris)." newcontext="H,2,2,V38">
+    <p_ru vh="H" name="GREEN, Darian" gain="8"></p_ru>
+    <p_tk vh="V" name="Peterson, J." assist="Y"></p_tk>
+    <p_tk vh="V" name="Batiste, Tarris" assist="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="2" togo="2" spot="GSU38" context="H,2,2,V38" playid="14,3,146" type="R" first="R" tokens="RUSH:25,V28, TACK:6,3"
+      text="GREEN, Darian rush for 10 yards to the GSU28, 1ST DOWN BALL (Peterson, J.;Batiste, Tarris)." newcontext="H,1,10,V28">
+    <p_ru vh="H" name="GREEN, Darian" gain="10"></p_ru>
+    <p_tk vh="V" name="Peterson, J." assist="Y"></p_tk>
+    <p_tk vh="V" name="Batiste, Tarris" assist="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="GSU28" context="H,1,10,V28" playid="14,4,147" type="R" tokens="RUSH:15,V20, TACK:44"
+      text="NEAL, Riley rush for 8 yards to the GSU20 (Shaw, Michael)." newcontext="H,2,2,V20">
+    <p_ru vh="H" name="NEAL, Riley" gain="8"></p_ru>
+    <p_tk vh="V" name="Shaw, Michael"></p_tk>
+   </play>
+   <play hasball="BALL" down="2" togo="2" spot="GSU20" context="H,2,2,V20" playid="14,5,148" type="R" tokens="RUSH:25,V19, TACK:6"
+      text="GREEN, Darian rush for 1 yard to the GSU19 (Peterson, J.)." newcontext="H,3,1,V19">
+    <p_ru vh="H" name="GREEN, Darian" gain="1"></p_ru>
+    <p_tk vh="V" name="Peterson, J."></p_tk>
+   </play>
+   <play hasball="BALL" down="3" togo="1" spot="GSU19" context="H,3,1,V19" playid="14,6,149" type="R" tokens="RUSH:15,V19, TACK:91,5D"
+      text="NEAL, Riley rush for no gain to the GSU19 (Laurent, Julien;Cheridor, M.)." newcontext="H,4,1,V19">
+    <p_ru vh="H" name="NEAL, Riley" gain="0"></p_ru>
+    <p_tk vh="V" name="Laurent, Julien" assist="Y"></p_tk>
+    <p_tk vh="V" name="Cheridor, M." assist="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="4" togo="1" spot="GSU19" context="H,4,1,V19" playid="14,7,150" type="E" first="E" tokens="PEN:V,OD,A,91,V14,N"
+      text="PENALTY GSU offside defense (Laurent, Julien) 5 yards to the GSU14, 1ST DOWN BALL." newcontext="H,1,10,V14">
+    <p_pn vh="V" code="OD" type="offside defense" name="Laurent, Julien" result="ACCEPT" at="V19" yards="5"></p_pn>
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="GSU14" context="H,1,10,V14" playid="14,8,151" type="R" tokens="RUSH:34,V16, TACK:42"
+      text="GILBERT, James rush for loss of 2 yards to the GSU16 (Payne, Trey)." newcontext="H,2,12,V16">
+    <p_ru vh="H" name="GILBERT, James" gain="-2"></p_ru>
+    <p_tk vh="V" name="Payne, Trey"></p_tk>
+   </play>
+   <play hasball="BALL" down="2" togo="12" spot="GSU16" context="H,2,12,V16" playid="14,9,152" type="R" tokens="RUSH:34,V12, TACK:6,97"
+      text="GILBERT, James rush for 4 yards to the GSU12 (Peterson, J.;Lawrence, Jalen)." newcontext="H,3,8,V12">
+    <p_ru vh="H" name="GILBERT, James" gain="4"></p_ru>
+    <p_tk vh="V" name="Peterson, J." assist="Y"></p_tk>
+    <p_tk vh="V" name="Lawrence, Jalen" assist="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="3" togo="8" spot="GSU12" context="H,3,8,V12" playid="14,10,153" type="P" tokens="PASS:15,I,40,* QBH:V,20"
+      text="NEAL, Riley pass incomplete to CURRY, Dylan, QB hurry by Williams, Bryan." newcontext="H,4,8,V12">
+    <p_pa vh="H" qb="NEAL, Riley" result="INC" rcv="CURRY, Dylan"></p_pa>
+    <p_qbh vh="V" name="Williams, Bryan"></p_qbh>
+   </play>
+   <play hasball="BALL" down="4" togo="8" spot="GSU12" context="H,4,8,V12" playid="14,11,154" type="F" score="Y" vscore="24" hscore="13" clock="04:46" tokens="FGA:22,29,G T:04:46"
+      text="HAGEE, Morgan field goal attempt from 29 GOOD, clock 04:46." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="HAGEE, Morgan" distance="29" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="24" H="13"></score>
+   <drivesum plays="9" yards="34" top="3:41" driveindex="14" complete="Y"></drivesum>
+   <play hasball="BALL" down="1" togo="0" spot="BALL35" context="H,1,0,H35" playid="14,12,155" type="K" tokens="KO:22,V00 RET:81,V20 TACK:19"
+      text="HAGEE, Morgan kickoff 65 yards to the GSU0, Greene, Marquan return 20 yards to the GSU20 (INGLE, Ben)." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="HAGEE, Morgan" gain="65"></p_ko>
+    <p_kr vh="V" name="Greene, Marquan" gain="20"></p_kr>
+    <p_tk vh="H" name="INGLE, Ben"></p_tk>
+   </play>
+   <drivestart poss="V,V20,04:38" vh="V" spot="V20" clock="04:38" driveindex="15,155"></drivestart>
+   <play hasball="GSU" down="1" togo="10" spot="GSU20" context="V,1,10,V20" playid="15,1,156" clock="04:38" tokens="{DRIVE}:04:38"
+      text="GEORGIA STATE drive start at 04:38." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="GSU20" context="V,1,10,V20" playid="15,2,157" type="P" first="P" tokens="PASS:4,C,19,V47 TACK:13"
+      text="Arbuckle, Nick pass complete to Davis, Robert for 27 yards to the GSU47, 1ST DOWN GSU (MOORE, David)." newcontext="V,1,10,V47">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Davis, Robert" gain="27"></p_pa>
+    <p_tk vh="H" name="MOORE, David"></p_tk>
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="GSU47" context="V,1,10,V47" playid="15,3,158" type="P" tokens="PASS:4,C,28,H47 TACK:9"
+      text="Arbuckle, Nick pass complete to Kirk, Demarcus for 6 yards to the BALL47 (AYERS, Michael)." newcontext="V,2,4,H47">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Kirk, Demarcus" gain="6"></p_pa>
+    <p_tk vh="H" name="AYERS, Michael"></p_tk>
+   </play>
+   <play hasball="GSU" down="2" togo="4" spot="BALL47" context="V,2,4,H47" playid="15,4,159" type="R" tokens="RUSH:28,V49, TACK:13"
+      text="Kirk, Demarcus rush for loss of 4 yards to the GSU49 (MOORE, David)." newcontext="V,3,8,V49">
+    <p_ru vh="V" name="Kirk, Demarcus" gain="-4"></p_ru>
+    <p_tk vh="H" name="MOORE, David"></p_tk>
+   </play>
+   <play hasball="GSU" down="3" togo="8" spot="GSU49" context="V,3,8,V49" playid="15,5,160" type="#" clock="02:58" tokens="TOUT:V T:02:58"
+      text="Timeout Georgia State, clock 02:58." newcontext="V,3,8,V49">
+    <p_to vh="V" team="Georgia State"></p_to>
+   </play>
+   <play hasball="GSU" down="3" togo="8" spot="GSU49" context="V,3,8,V49" playid="15,6,161" type="P" tokens="PASS:4,I,18,* BRUP:21"
+      text="Arbuckle, Nick pass incomplete to Hart, Penny (HESTER, Martez)." newcontext="V,4,8,V49">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="INC" rcv="Hart, Penny"></p_pa>
+    <p_bu vh="H" name="HESTER, Martez"></p_bu>
+   </play>
+   <play hasball="GSU" down="4" togo="8" spot="GSU49" context="V,4,8,V49" playid="15,7,162" type="U" tokens="PUNT:96,H18 FC:5"
+      text="Lutz, Wil punt 33 yards to the BALL18, fair catch by LACANARIA, C.." newcontext="H,1,10,H18">
+    <p_pu vh="V" name="Lutz, Wil" gain="33" in20="Y" fc="LACANARIA, C."></p_pu>
+   </play>
+   <drivesum plays="4" yards="29" top="1:54" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="H,H18,02:44" vh="H" spot="H18" clock="02:44" driveindex="16,162"></drivestart>
+   <play hasball="BALL" down="1" togo="10" spot="BALL18" context="H,1,10,H18" playid="16,1,163" clock="02:44" tokens="{DRIVE}:02:44"
+      text="BALL STATE drive start at 02:44." newcontext="H,1,10,H18">
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="BALL18" context="H,1,10,H18" playid="16,2,164" type="P" tokens="PASS:15,I,8,*"
+      text="NEAL, Riley pass incomplete to WILLIAMS, Jord.." newcontext="H,2,10,H18">
+    <p_pa vh="H" qb="NEAL, Riley" result="INC" rcv="WILLIAMS, Jord."></p_pa>
+   </play>
+   <play hasball="BALL" down="2" togo="10" spot="BALL18" context="H,2,10,H18" playid="16,3,165" type="R" tokens="RUSH:25,H19, TACK:33,47"
+      text="GREEN, Darian rush for 1 yard to the BALL19 (Traylor, James;Curney, Ed)." newcontext="H,3,9,H19">
+    <p_ru vh="H" name="GREEN, Darian" gain="1"></p_ru>
+    <p_tk vh="V" name="Traylor, James" assist="Y"></p_tk>
+    <p_tk vh="V" name="Curney, Ed" assist="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="3" togo="9" spot="BALL19" context="H,3,9,H19" playid="16,4,166" type="R" first="R" tokens="RUSH:15,H32, OB:"
+      text="NEAL, Riley rush for 13 yards to the BALL32, 1ST DOWN BALL, out-of-bounds." ob="Y" newcontext="H,1,10,H32">
+    <p_ru vh="H" name="NEAL, Riley" gain="13"></p_ru>
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="BALL32" context="H,1,10,H32" playid="16,5,167" type="P" tokens="PASS:15,I,85,*"
+      text="NEAL, Riley pass incomplete to BROWN, C.." newcontext="H,2,10,H32">
+    <p_pa vh="H" qb="NEAL, Riley" result="INC" rcv="BROWN, C."></p_pa>
+   </play>
+   <play hasball="BALL" down="2" togo="10" spot="BALL32" context="H,2,10,H32" playid="16,6,168" type="P" first="P" tokens="PASS:15,C,8,H43 TACK:47 PEN:V,OD,D"
+      text="NEAL, Riley pass complete to WILLIAMS, Jord. for 11 yards to the BALL43, 1ST DOWN BALL (Curney, Ed), PENALTY GSU offside defense declined." newcontext="H,1,10,H43">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="WILLIAMS, Jord." gain="11"></p_pa>
+    <p_tk vh="V" name="Curney, Ed"></p_tk>
+    <p_pn vh="V" code="OD" type="offside defense" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="BALL43" context="H,1,10,H43" playid="16,7,169" type="P" tokens="PASS:15,C,10,H50 TACK:33,3"
+      text="NEAL, Riley pass complete to SHILLINGS, C. for 7 yards to the 50 yardline (Traylor, James;Batiste, Tarris)." newcontext="H,2,3,H50">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="SHILLINGS, C." gain="7"></p_pa>
+    <p_tk vh="V" name="Traylor, James" assist="Y"></p_tk>
+    <p_tk vh="V" name="Batiste, Tarris" assist="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="2" togo="3" spot="BALL50" context="H,2,3,H50" playid="16,8,170" type="P" tokens="PASS:15,I,10,*"
+      text="NEAL, Riley pass incomplete to SHILLINGS, C.." newcontext="H,3,3,H50">
+    <p_pa vh="H" qb="NEAL, Riley" result="INC" rcv="SHILLINGS, C."></p_pa>
+   </play>
+   <play hasball="BALL" down="3" togo="3" spot="BALL50" context="H,3,3,H50" playid="16,9,171" type="R" tokens="RUSH:34,V49, TACK:85"
+      text="GILBERT, James rush for 1 yard to the GSU49 (Lawrence, S.)." newcontext="H,4,2,V49">
+    <p_ru vh="H" name="GILBERT, James" gain="1"></p_ru>
+    <p_tk vh="V" name="Lawrence, S."></p_tk>
+   </play>
+   <play hasball="BALL" down="4" togo="2" spot="GSU49" context="H,4,2,V49" playid="16,10,172" type="E" clock="00:21" tokens="PASS:15,C,10,V00 T:00:21 PEN:H,PI,A,8,H36,N NOPLAY:"
+      text="NEAL, Riley pass complete to SHILLINGS, C. for 49 yards to the GSU0, clock 00:21, PENALTY BALL pass interference (WILLIAMS, Jord.) 15 yards to the BALL36, NO PLAY." newcontext="H,4,17,H36">
+    <p_pn vh="H" code="PI" type="pass interference" name="WILLIAMS, Jord." result="ACCEPT" at="V49" yards="15"></p_pn>
+   </play>
+   <play hasball="BALL" down="4" togo="17" spot="BALL36" context="H,4,17,H36" playid="16,11,173" type="U" tokens="PUNT:12,V26 DN:"
+      text="SCHMIDT, Kyle punt 38 yards to the GSU26, downed." newcontext="V,1,10,V26">
+    <p_pu vh="H" name="SCHMIDT, Kyle" gain="38"></p_pu>
+   </play>
+   <drivesum plays="8" yards="18" top="2:34" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="V,V26,00:10" vh="V" spot="V26" clock="00:10" driveindex="17,173"></drivestart>
+   <play hasball="GSU" down="1" togo="10" spot="GSU26" context="V,1,10,V26" playid="17,1,174" clock="00:10" tokens="{DRIVE}:00:10"
+      text="GEORGIA STATE drive start at 00:10." newcontext="V,1,10,V26">
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="GSU26" context="V,1,10,V26" playid="17,2,175" type="P" tokens="PASS:4,I,19,*"
+      text="Arbuckle, Nick pass incomplete to Davis, Robert." newcontext="V,2,10,V26">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="INC" rcv="Davis, Robert"></p_pa>
+   </play>
+   <play hasball="GSU" down="2" togo="10" spot="GSU26" context="V,2,10,V26" playid="17,3,176" type="P" tokens="PASS:4,C,45,V33 TACK:3,20"
+      text="Arbuckle, Nick pass complete to Rucker, Keith for 7 yards to the GSU33 (WIGGINS, Sean;CONAWAY, Darius)." newcontext="V,3,3,V33">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Rucker, Keith" gain="7"></p_pa>
+    <p_tk vh="H" name="WIGGINS, Sean" assist="Y"></p_tk>
+    <p_tk vh="H" name="CONAWAY, Darius" assist="Y"></p_tk>
+   </play>
+   <score qtr="3" V="24" H="13"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="GSU">
+    <firstdowns no="4" rush="1" pass="3" penalty="0"></firstdowns>
+    <penalties no="2" yds="10"></penalties>
+    <conversions thirdconv="0" thirdatt="1" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="04:57"></misc>
+    <rush att="5" yds="8" gain="18" loss="10" td="0" long="0"></rush>
+    <pass comp="5" att="7" int="0" yds="68" td="0" long="0" sacks="1" sackyds="6"></pass>
+    <rcv no="5" yds="68" td="0" long="0"></rcv>
+    <punt no="1" yds="33" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="33.0"></punt>
+    <ko no="1" yds="53" ob="0" tb="0"></ko>
+    <defense tackua="12" tacka="14" tot_tack="26" tflua="2" tfla="0" tflyds="9" sacks="1" sackyds="7" qbh="1" ff="1"></defense>
+    <kr no="1" yds="20" td="0" long="0"></kr>
+    <fumbles no="1" lost="1"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="BALL">
+    <firstdowns no="7" rush="4" pass="2" penalty="1"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="1" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="10:03"></misc>
+    <rush att="16" yds="59" gain="68" loss="9" td="0" long="3"></rush>
+    <pass comp="4" att="8" int="0" yds="36" td="0" long="0" sacks="1" sackyds="7"></pass>
+    <rcv no="4" yds="36" td="0" long="0"></rcv>
+    <punt no="2" yds="63" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="31.5"></punt>
+    <ko no="1" yds="65" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="0" blkd="0"></fg>
+    <defense tackua="9" tacka="4" tot_tack="13" tflua="2" tfla="0" tflyds="10" sacks="1" sackyds="6" brup="1" ff="1" fr="1" fryds="0"></defense>
+    <kr no="1" yds="19" td="0" long="16"></kr>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="GSU" down="3" togo="3" spot="GSU33" context="V,3,3,V33" playid="17,4,177" type="#" clock="15:00" tokens="Q:4 T:15:00"
+      text="Start of 4th quarter, clock 15:00." newcontext="V,3,3,V33">
+   </play>
+   <play hasball="GSU" down="3" togo="3" spot="GSU33" context="V,3,3,V33" playid="17,5,178" type="P" first="P" tokens="PASS:4,C,45,V37 TACK:43,21"
+      text="Arbuckle, Nick pass complete to Rucker, Keith for 4 yards to the GSU37, 1ST DOWN GSU (CROMARTIE, D.;HESTER, Martez)." newcontext="V,1,10,V37">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Rucker, Keith" gain="4"></p_pa>
+    <p_tk vh="H" name="CROMARTIE, D." assist="Y"></p_tk>
+    <p_tk vh="H" name="HESTER, Martez" assist="Y"></p_tk>
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="GSU37" context="V,1,10,V37" playid="17,6,179" type="R" tokens="RUSH:28,V39, TACK:43"
+      text="Kirk, Demarcus rush for 2 yards to the GSU39 (CROMARTIE, D.)." newcontext="V,2,8,V39">
+    <p_ru vh="V" name="Kirk, Demarcus" gain="2"></p_ru>
+    <p_tk vh="H" name="CROMARTIE, D."></p_tk>
+   </play>
+   <play hasball="GSU" down="2" togo="8" spot="GSU39" context="V,2,8,V39" playid="17,7,180" type="P" tokens="PASS:4,C,19,V42 TACK:43"
+      text="Arbuckle, Nick pass complete to Davis, Robert for 3 yards to the GSU42 (CROMARTIE, D.)." newcontext="V,3,5,V42">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Davis, Robert" gain="3"></p_pa>
+    <p_tk vh="H" name="CROMARTIE, D."></p_tk>
+   </play>
+   <play hasball="GSU" down="3" togo="5" spot="GSU42" context="V,3,5,V42" playid="17,8,181" type="P" tokens="PASS:4,S,TM,V28 SACK:98"
+      text="Arbuckle, Nick sacked for loss of 14 yards to the GSU28 (WINBUSH, A.)." newcontext="V,4,19,V28">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="SACK" gain="-14"></p_pa>
+    <p_tk vh="H" name="WINBUSH, A." sack="Y"></p_tk>
+   </play>
+   <play hasball="GSU" down="4" togo="19" spot="GSU28" context="V,4,19,V28" playid="17,9,182" type="U" tokens="PUNT:96,H25 RET:5,H49 TACK:53,47"
+      text="Lutz, Wil punt 47 yards to the BALL25, LACANARIA, C. return 24 yards to the BALL49 (Strickland, T.;Curney, Ed)." newcontext="H,1,10,H49">
+    <p_pu vh="V" name="Lutz, Wil" gain="47"></p_pu>
+    <p_pr vh="H" name="LACANARIA, C." gain="24"></p_pr>
+    <p_tk vh="V" name="Strickland, T." assist="Y"></p_tk>
+    <p_tk vh="V" name="Curney, Ed" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="6" yards="2" top="2:28" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="H,H49,12:42" vh="H" spot="H49" clock="12:42" driveindex="18,182"></drivestart>
+   <play hasball="BALL" down="1" togo="10" spot="BALL49" context="H,1,10,H49" playid="18,1,183" clock="12:42" tokens="{DRIVE}:12:42"
+      text="BALL STATE drive start at 12:42." newcontext="H,1,10,H49">
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="BALL49" context="H,1,10,H49" playid="18,2,184" type="P" tokens="PASS:15,C,40,V48 TACK:4D"
+      text="NEAL, Riley pass complete to CURRY, Dylan for 3 yards to the GSU48 (McGee, Alonzo)." newcontext="H,2,7,V48">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="CURRY, Dylan" gain="3"></p_pa>
+    <p_tk vh="V" name="McGee, Alonzo"></p_tk>
+   </play>
+   <play hasball="BALL" down="2" togo="7" spot="GSU48" context="H,2,7,V48" playid="18,3,185" type="R" tokens="RUSH:34,V47, TACK:6,4D"
+      text="GILBERT, James rush for 1 yard to the GSU47 (Peterson, J.;McGee, Alonzo)." newcontext="H,3,6,V47">
+    <p_ru vh="H" name="GILBERT, James" gain="1"></p_ru>
+    <p_tk vh="V" name="Peterson, J." assist="Y"></p_tk>
+    <p_tk vh="V" name="McGee, Alonzo" assist="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="3" togo="6" spot="GSU47" context="H,3,6,V47" playid="18,4,186" type="P" first="P" tokens="PASS:15,C,16,V32 TACK:3"
+      text="NEAL, Riley pass complete to MABON, KeVonn for 15 yards to the GSU32, 1ST DOWN BALL (Batiste, Tarris)." newcontext="H,1,10,V32">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="MABON, KeVonn" gain="15"></p_pa>
+    <p_tk vh="V" name="Batiste, Tarris"></p_tk>
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="GSU32" context="H,1,10,V32" playid="18,5,187" type="P" tokens="PASS:15,C,8,V29 OB:"
+      text="NEAL, Riley pass complete to WILLIAMS, Jord. for 3 yards to the GSU29, out-of-bounds." ob="Y" newcontext="H,2,7,V29">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="WILLIAMS, Jord." gain="3"></p_pa>
+   </play>
+   <play hasball="BALL" down="2" togo="7" spot="GSU29" context="H,2,7,V29" playid="18,6,188" type="P" tokens="PASS:15,C,85,V24 TACK:16"
+      text="NEAL, Riley pass complete to BROWN, C. for 5 yards to the GSU24 (Smith, Jerome)." newcontext="H,3,2,V24">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="BROWN, C." gain="5"></p_pa>
+    <p_tk vh="V" name="Smith, Jerome"></p_tk>
+   </play>
+   <play hasball="BALL" down="3" togo="2" spot="GSU24" context="H,3,2,V24" playid="18,7,189" type="R" first="R" tokens="RUSH:34,V19, TACK:5D"
+      text="GILBERT, James rush for 5 yards to the GSU19, 1ST DOWN BALL (Cheridor, M.)." newcontext="H,1,10,V19">
+    <p_ru vh="H" name="GILBERT, James" gain="5"></p_ru>
+    <p_tk vh="V" name="Cheridor, M."></p_tk>
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="GSU19" context="H,1,10,V19" playid="18,8,190" type="P" first="P" score="Y" vscore="24" hscore="19" clock="10:41" tokens="PASS:15,C,8,V00 T:10:41"
+      text="NEAL, Riley pass complete to WILLIAMS, Jord. for 19 yards to the GSU0, 1ST DOWN BALL, TOUCHDOWN, clock 10:41." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="WILLIAMS, Jord." gain="19"></p_pa>
+   </play>
+   <play hasball="BALL" down="1" togo="0" spot="GSU03" context="H,1,0,V03" playid="18,9,191" type="X" tokens="PAT:P,15,X"
+      text="NEAL, Riley pass attempt failed (intercepted)." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="NEAL, Riley" qb="NEAL, Riley" type="P" result="INT"></p_pat>
+   </play>
+   <score V="24" H="19"></score>
+   <drivesum plays="7" yards="51" top="2:01" driveindex="18" complete="Y"></drivesum>
+   <play hasball="BALL" down="1" togo="0" spot="BALL35" context="H,1,0,H35" playid="18,10,192" type="K" tokens="KO:12,V08 RET:17,V24 TACK:19"
+      text="SCHMIDT, Kyle kickoff 57 yards to the GSU8, Smith, Glenn return 16 yards to the GSU24 (INGLE, Ben)." newcontext="V,1,10,V24">
+    <p_ko vh="H" name="SCHMIDT, Kyle" gain="57"></p_ko>
+    <p_kr vh="V" name="Smith, Glenn" gain="16"></p_kr>
+    <p_tk vh="H" name="INGLE, Ben"></p_tk>
+   </play>
+   <drivestart poss="V,V24,10:34" vh="V" spot="V24" clock="10:34" driveindex="19,192"></drivestart>
+   <play hasball="GSU" down="1" togo="10" spot="GSU24" context="V,1,10,V24" playid="19,1,193" clock="10:34" tokens="{DRIVE}:10:34"
+      text="GEORGIA STATE drive start at 10:34." newcontext="V,1,10,V24">
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="GSU24" context="V,1,10,V24" playid="19,2,194" type="P" tokens="PASS:4,I,18,*"
+      text="Arbuckle, Nick pass incomplete to Hart, Penny." newcontext="V,2,10,V24">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="INC" rcv="Hart, Penny"></p_pa>
+   </play>
+   <play hasball="GSU" down="2" togo="10" spot="GSU24" context="V,2,10,V24" playid="19,3,195" type="P" first="P" tokens="PASS:4,C,9,V36 OB: TACK:13"
+      text="Arbuckle, Nick pass complete to Harden, Donovan for 12 yards to the GSU36, 1ST DOWN GSU, out-of-bounds (MOORE, David)." ob="Y" newcontext="V,1,10,V36">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Harden, Donovan" gain="12"></p_pa>
+    <p_tk vh="H" name="MOORE, David"></p_tk>
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="GSU36" context="V,1,10,V36" playid="19,4,196" type="R" tokens="RUSH:28,V38, TACK:2"
+      text="Kirk, Demarcus rush for 2 yards to the GSU38 (RYAN, Zack)." newcontext="V,2,8,V38">
+    <p_ru vh="V" name="Kirk, Demarcus" gain="2"></p_ru>
+    <p_tk vh="H" name="RYAN, Zack"></p_tk>
+   </play>
+   <play hasball="GSU" down="2" togo="8" spot="GSU38" context="V,2,8,V38" playid="19,5,197" type="P" tokens="PASS:4,C,45,V44 TACK:19"
+      text="Arbuckle, Nick pass complete to Rucker, Keith for 6 yards to the GSU44 (INGLE, Ben)." newcontext="V,3,2,V44">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Rucker, Keith" gain="6"></p_pa>
+    <p_tk vh="H" name="INGLE, Ben"></p_tk>
+   </play>
+   <play hasball="GSU" down="3" togo="2" spot="GSU44" context="V,3,2,V44" playid="19,6,198" type="P" tokens="PASS:4,I,9,*"
+      text="Arbuckle, Nick pass incomplete to Harden, Donovan." newcontext="V,4,2,V44">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="INC" rcv="Harden, Donovan"></p_pa>
+   </play>
+   <play hasball="GSU" down="4" togo="2" spot="GSU44" context="V,4,2,V44" playid="19,7,199" type="U" tokens="PUNT:96,H07 RET:5,H16 TACK:20,52"
+      text="Lutz, Wil punt 49 yards to the BALL7, LACANARIA, C. return 9 yards to the BALL16 (Williams, Bryan;Jones, Tevin)." newcontext="H,1,10,H16">
+    <p_pu vh="V" name="Lutz, Wil" gain="49" in20="Y"></p_pu>
+    <p_pr vh="H" name="LACANARIA, C." gain="9"></p_pr>
+    <p_tk vh="V" name="Williams, Bryan" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jones, Tevin" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="5" yards="20" top="1:40" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="H,H16,08:54" vh="H" spot="H16" clock="08:54" driveindex="20,199"></drivestart>
+   <play hasball="BALL" down="1" togo="10" spot="BALL16" context="H,1,10,H16" playid="20,1,200" clock="08:54" tokens="{DRIVE}:08:54"
+      text="BALL STATE drive start at 08:54." newcontext="H,1,10,H16">
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="BALL16" context="H,1,10,H16" playid="20,2,201" type="P" tokens="PASS:15,C,16,H25 TACK:47"
+      text="NEAL, Riley pass complete to MABON, KeVonn for 9 yards to the BALL25 (Curney, Ed)." newcontext="H,2,1,H25">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="MABON, KeVonn" gain="9"></p_pa>
+    <p_tk vh="V" name="Curney, Ed"></p_tk>
+   </play>
+   <play hasball="BALL" down="2" togo="1" spot="BALL25" context="H,2,1,H25" playid="20,3,202" type="R" first="R" tokens="RUSH:25,H31, TACK:47,3"
+      text="GREEN, Darian rush for 6 yards to the BALL31, 1ST DOWN BALL (Curney, Ed;Batiste, Tarris)." newcontext="H,1,10,H31">
+    <p_ru vh="H" name="GREEN, Darian" gain="6"></p_ru>
+    <p_tk vh="V" name="Curney, Ed" assist="Y"></p_tk>
+    <p_tk vh="V" name="Batiste, Tarris" assist="Y"></p_tk>
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="BALL31" context="H,1,10,H31" playid="20,4,203" type="P" tokens="PASS:15,I,16,* BRUP:10"
+      text="NEAL, Riley pass incomplete to MABON, KeVonn (Sullivan, C.)." newcontext="H,2,10,H31">
+    <p_pa vh="H" qb="NEAL, Riley" result="INC" rcv="MABON, KeVonn"></p_pa>
+    <p_bu vh="V" name="Sullivan, C."></p_bu>
+   </play>
+   <play hasball="BALL" down="2" togo="10" spot="BALL31" context="H,2,10,H31" playid="20,5,204" type="R" tokens="RUSH:25,H35, TACK:42"
+      text="GREEN, Darian rush for 4 yards to the BALL35 (Payne, Trey)." newcontext="H,3,6,H35">
+    <p_ru vh="H" name="GREEN, Darian" gain="4"></p_ru>
+    <p_tk vh="V" name="Payne, Trey"></p_tk>
+   </play>
+   <play hasball="BALL" down="3" togo="6" spot="BALL35" context="H,3,6,H35" playid="20,6,205" type="P" tokens="PASS:15,C,85,H38 TACK:10"
+      text="NEAL, Riley pass complete to BROWN, C. for 3 yards to the BALL38 (Sullivan, C.)." newcontext="H,4,3,H38">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="BROWN, C." gain="3"></p_pa>
+    <p_tk vh="V" name="Sullivan, C."></p_tk>
+   </play>
+   <play hasball="BALL" down="4" togo="3" spot="BALL38" context="H,4,3,H38" playid="20,7,206" type="U" tokens="PUNT:12,V28 DN:"
+      text="SCHMIDT, Kyle punt 34 yards to the GSU28, downed." newcontext="V,1,10,V28">
+    <p_pu vh="H" name="SCHMIDT, Kyle" gain="34"></p_pu>
+   </play>
+   <drivesum plays="5" yards="22" top="1:56" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="V,V28,06:58" vh="V" spot="V28" clock="06:58" driveindex="21,206"></drivestart>
+   <play hasball="GSU" down="1" togo="10" spot="GSU28" context="V,1,10,V28" playid="21,1,207" clock="06:58" tokens="{DRIVE}:06:58"
+      text="GEORGIA STATE drive start at 06:58." newcontext="V,1,10,V28">
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="GSU28" context="V,1,10,V28" playid="21,2,208" type="R" tokens="RUSH:28,V26, TACK:2"
+      text="Kirk, Demarcus rush for loss of 2 yards to the GSU26 (RYAN, Zack)." newcontext="V,2,12,V26">
+    <p_ru vh="V" name="Kirk, Demarcus" gain="-2"></p_ru>
+    <p_tk vh="H" name="RYAN, Zack"></p_tk>
+   </play>
+   <play hasball="GSU" down="2" togo="12" spot="GSU26" context="V,2,12,V26" playid="21,3,209" type="P" tokens="PASS:4,I,28,* BRUP:35"
+      text="Arbuckle, Nick pass incomplete to Kirk, Demarcus (NOEL, Keenan)." newcontext="V,3,12,V26">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="INC" rcv="Kirk, Demarcus"></p_pa>
+    <p_bu vh="H" name="NOEL, Keenan"></p_bu>
+   </play>
+   <play hasball="GSU" down="3" togo="12" spot="GSU26" context="V,3,12,V26" playid="21,4,210" type="P" tokens="PASS:4,C,19,V31 TACK:43"
+      text="Arbuckle, Nick pass complete to Davis, Robert for 5 yards to the GSU31 (CROMARTIE, D.)." newcontext="V,4,7,V31">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Davis, Robert" gain="5"></p_pa>
+    <p_tk vh="H" name="CROMARTIE, D."></p_tk>
+   </play>
+   <play hasball="GSU" down="4" togo="7" spot="GSU31" context="V,4,7,V31" playid="21,5,211" type="E" first="E" tokens="PUNT:96,H18 RET:5,H29 TACK:88 PEN:H,RK,A,85,V46,1 NOPLAY:"
+      text="Lutz, Wil punt 51 yards to the BALL18, LACANARIA, C. return to the BALL29 (Werts, Ari), PENALTY BALL roughing the kicker (BROWN, C.) 15 yards to the GSU46, 1ST DOWN GSU, NO PLAY." newcontext="V,1,10,V46">
+    <p_pn vh="H" code="RK" type="roughing the kicker" name="BROWN, C." result="ACCEPT" at="V31" yards="15"></p_pn>
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="GSU46" context="V,1,10,V46" playid="21,6,212" type="R" tokens="RUSH:28,V48, TACK:93,57"
+      text="Kirk, Demarcus rush for 2 yards to the GSU48 (WILLIS, Kevin;POSLEY, Joshua)." newcontext="V,2,8,V48">
+    <p_ru vh="V" name="Kirk, Demarcus" gain="2"></p_ru>
+    <p_tk vh="H" name="WILLIS, Kevin" assist="Y"></p_tk>
+    <p_tk vh="H" name="POSLEY, Joshua" assist="Y"></p_tk>
+   </play>
+   <play hasball="GSU" down="2" togo="8" spot="GSU48" context="V,2,8,V48" playid="21,7,213" type="R" tokens="RUSH:28,V48, TACK:57,19"
+      text="Kirk, Demarcus rush for no gain to the GSU48 (POSLEY, Joshua;INGLE, Ben)." newcontext="V,3,8,V48">
+    <p_ru vh="V" name="Kirk, Demarcus" gain="0"></p_ru>
+    <p_tk vh="H" name="POSLEY, Joshua" assist="Y"></p_tk>
+    <p_tk vh="H" name="INGLE, Ben" assist="Y"></p_tk>
+   </play>
+   <play hasball="GSU" down="3" togo="8" spot="GSU48" context="V,3,8,V48" playid="21,8,214" type="P" tokens="PASS:4,I,19,* QBH:H,57"
+      text="Arbuckle, Nick pass incomplete to Davis, Robert, QB hurry by POSLEY, Joshua." newcontext="V,4,8,V48">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="INC" rcv="Davis, Robert"></p_pa>
+    <p_qbh vh="H" name="POSLEY, Joshua"></p_qbh>
+   </play>
+   <play hasball="GSU" down="4" togo="8" spot="GSU48" context="V,4,8,V48" playid="21,9,215" type="U" tokens="PUNT:96,H27 DN: BLOCK:6"
+      text="Lutz, Wil punt 25 yards to the BALL27, downed (blocked by WILLIAMSON, T.)." newcontext="H,1,10,H27">
+    <p_pu vh="V" name="Lutz, Wil" gain="25"></p_pu>
+   </play>
+   <drivesum plays="6" yards="20" top="2:59" driveindex="21" complete="Y"></drivesum>
+   <drivestart poss="H,H27,03:59" vh="H" spot="H27" clock="03:59" driveindex="22,215"></drivestart>
+   <play hasball="BALL" down="1" togo="10" spot="BALL27" context="H,1,10,H27" playid="22,1,216" clock="03:59" tokens="{DRIVE}:03:59"
+      text="BALL STATE drive start at 03:59." newcontext="H,1,10,H27">
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="BALL27" context="H,1,10,H27" playid="22,2,217" type="P" tokens="PASS:15,C,1,H31"
+      text="NEAL, Riley pass complete to HOGUE, Jordan for 4 yards to the BALL31." newcontext="H,2,6,H31">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="HOGUE, Jordan" gain="4"></p_pa>
+   </play>
+   <play hasball="BALL" down="2" togo="6" spot="BALL31" context="H,2,6,H31" playid="22,3,218" type="P" tokens="PASS:15,I,8,* BRUP:16"
+      text="NEAL, Riley pass incomplete to WILLIAMS, Jord. (Smith, Jerome)." newcontext="H,3,6,H31">
+    <p_pa vh="H" qb="NEAL, Riley" result="INC" rcv="WILLIAMS, Jord."></p_pa>
+    <p_bu vh="V" name="Smith, Jerome"></p_bu>
+   </play>
+   <play hasball="BALL" down="3" togo="6" spot="BALL31" context="H,3,6,H31" playid="22,4,219" type="E" tokens="PEN:H,FS,A,1,H26,N"
+      text="PENALTY BALL false start (HOGUE, Jordan) 5 yards to the BALL26." newcontext="H,3,11,H26">
+    <p_pn vh="H" code="FS" type="false start" name="HOGUE, Jordan" result="ACCEPT" at="H31" yards="5"></p_pn>
+   </play>
+   <play hasball="BALL" down="3" togo="11" spot="BALL26" context="H,3,11,H26" playid="22,5,220" type="P" tokens="PASS:15,I,8,* QBH:V,3"
+      text="NEAL, Riley pass incomplete to WILLIAMS, Jord., QB hurry by Batiste, Tarris." newcontext="H,4,11,H26">
+    <p_pa vh="H" qb="NEAL, Riley" result="INC" rcv="WILLIAMS, Jord."></p_pa>
+    <p_qbh vh="V" name="Batiste, Tarris"></p_qbh>
+   </play>
+   <play hasball="BALL" down="4" togo="11" spot="BALL26" context="H,4,11,H26" playid="22,6,221" type="U" tokens="PUNT:12,V30 DN:"
+      text="SCHMIDT, Kyle punt 44 yards to the GSU30, downed." newcontext="V,1,10,V30">
+    <p_pu vh="H" name="SCHMIDT, Kyle" gain="44"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-1" top="0:33" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="V,V30,03:26" vh="V" spot="V30" clock="03:26" driveindex="23,221"></drivestart>
+   <play hasball="GSU" down="1" togo="10" spot="GSU30" context="V,1,10,V30" playid="23,1,222" clock="03:26" tokens="{DRIVE}:03:26"
+      text="GEORGIA STATE drive start at 03:26." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="GSU30" context="V,1,10,V30" playid="23,2,223" type="R" tokens="RUSH:28,V31, TACK:3,9"
+      text="Kirk, Demarcus rush for 1 yard to the GSU31 (WIGGINS, Sean;AYERS, Michael)." newcontext="V,2,9,V31">
+    <p_ru vh="V" name="Kirk, Demarcus" gain="1"></p_ru>
+    <p_tk vh="H" name="WIGGINS, Sean" assist="Y"></p_tk>
+    <p_tk vh="H" name="AYERS, Michael" assist="Y"></p_tk>
+   </play>
+   <play hasball="GSU" down="2" togo="9" spot="GSU31" context="V,2,9,V31" playid="23,3,224" type="#" clock="03:21" tokens="TOUT:H T:03:21"
+      text="Timeout Ball State, clock 03:21." newcontext="V,2,9,V31">
+    <p_to vh="H" team="Ball State"></p_to>
+   </play>
+   <play hasball="GSU" down="2" togo="9" spot="GSU31" context="V,2,9,V31" playid="23,4,225" type="P" first="P" tokens="PASS:4,C,9,H01 OB: TACK:21"
+      text="Arbuckle, Nick pass complete to Harden, Donovan for 68 yards to the BALL1, 1ST DOWN GSU, out-of-bounds (HESTER, Martez)." ob="Y" newcontext="V,1,0,H01">
+    <p_pa vh="V" qb="Arbuckle, Nick" result="COMP" rcv="Harden, Donovan" gain="68"></p_pa>
+    <p_tk vh="H" name="HESTER, Martez"></p_tk>
+   </play>
+   <play hasball="GSU" down="1" togo="0" spot="BALL01" context="V,1,0,H01" playid="23,5,226" type="R" tokens="RUSH:4,H01, TACK:3,9"
+      text="Arbuckle, Nick rush for no gain to the BALL1 (WIGGINS, Sean;AYERS, Michael)." newcontext="V,2,0,H01">
+    <p_ru vh="V" name="Arbuckle, Nick" gain="0"></p_ru>
+    <p_tk vh="H" name="WIGGINS, Sean" assist="Y"></p_tk>
+    <p_tk vh="H" name="AYERS, Michael" assist="Y"></p_tk>
+   </play>
+   <play hasball="GSU" down="2" togo="0" spot="BALL01" context="V,2,0,H01" playid="23,6,227" type="#" clock="02:22" tokens="TOUT:H T:02:22"
+      text="Timeout Ball State, clock 02:22." newcontext="V,2,0,H01">
+    <p_to vh="H" team="Ball State"></p_to>
+   </play>
+   <play hasball="GSU" down="2" togo="0" spot="BALL01" context="V,2,0,H01" playid="23,7,228" type="R" score="Y" vscore="30" hscore="19" clock="02:13" tokens="RUSH:4,H00, T:02:13"
+      text="Arbuckle, Nick rush for 1 yard to the BALL0, TOUCHDOWN, clock 02:13." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Arbuckle, Nick" gain="1"></p_ru>
+   </play>
+   <play hasball="GSU" down="1" togo="0" spot="BALL03" context="V,1,0,H03" playid="23,8,229" type="X" score="Y" vscore="31" hscore="19" tokens="PAT:K,96,G"
+      text="Lutz, Wil kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Lutz, Wil" qb="Lutz, Wil" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="31" H="19"></score>
+   <drivesum plays="4" yards="70" top="1:13" driveindex="23" complete="Y"></drivesum>
+   <play hasball="GSU" down="1" togo="0" spot="GSU35" context="V,1,0,V35" playid="23,9,230" type="K" tokens="KO:96,H00 TB:"
+      text="Lutz, Wil kickoff 65 yards to the BALL0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Lutz, Wil" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,02:13" vh="H" spot="H25" clock="02:13" driveindex="24,230"></drivestart>
+   <play hasball="BALL" down="1" togo="10" spot="BALL25" context="H,1,10,H25" playid="24,1,231" clock="02:13" tokens="{DRIVE}:02:13"
+      text="BALL STATE drive start at 02:13." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="BALL" down="1" togo="10" spot="BALL25" context="H,1,10,H25" playid="24,2,232" type="P" tokens="PASS:15,I,10,* BRUP:3"
+      text="NEAL, Riley pass incomplete to SHILLINGS, C. (Batiste, Tarris)." newcontext="H,2,10,H25">
+    <p_pa vh="H" qb="NEAL, Riley" result="INC" rcv="SHILLINGS, C."></p_pa>
+    <p_bu vh="V" name="Batiste, Tarris"></p_bu>
+   </play>
+   <play hasball="BALL" down="2" togo="10" spot="BALL25" context="H,2,10,H25" playid="24,3,233" type="P" tokens="PASS:15,C,5,H28 OB:"
+      text="NEAL, Riley pass complete to LACANARIA, C. for 3 yards to the BALL28, out-of-bounds." ob="Y" newcontext="H,3,7,H28">
+    <p_pa vh="H" qb="NEAL, Riley" result="COMP" rcv="LACANARIA, C." gain="3"></p_pa>
+   </play>
+   <play hasball="BALL" down="3" togo="7" spot="BALL28" context="H,3,7,H28" playid="24,4,234" type="E" tokens="PASS:15,C,85,H37 OB: PEN:H,HO,A,66,H18,N NOPLAY:"
+      text="NEAL, Riley pass complete to BROWN, C. for 9 yards to the BALL37, out-of-bounds, PENALTY BALL holding (BELL, Steven) 10 yards to the BALL18, NO PLAY." ob="Y" newcontext="H,3,17,H18">
+    <p_pn vh="H" code="HO" type="holding" name="BELL, Steven" result="ACCEPT" at="H28" yards="10"></p_pn>
+   </play>
+   <play hasball="BALL" down="3" togo="17" spot="BALL18" context="H,3,17,H18" playid="24,5,235" type="P" turnover="I" tokens="PASS:15,X,20,V44 RET:20,V44 TACK:10 PEN:V,UC,A,9,V29,N D:1,10 SPOT:V,V29,Y"
+      text="NEAL, Riley pass intercepted by Williams, Bryan at the GSU44, Williams, Bryan return 0 yards to the GSU44 (SHILLINGS, C.), PENALTY GSU unsportsmanlike conduct (Harden, Donovan) 15 yards to the GSU29, 1st and 10, GSU ball on GSU29." newcontext="V,1,10,V29">
+    <p_pa vh="H" qb="NEAL, Riley" result="INT"></p_pa>
+    <p_ir vh="V" name="Williams, Bryan" at="V44" gain="0"></p_ir>
+    <p_tk vh="H" name="SHILLINGS, C."></p_tk>
+    <p_pn vh="V" code="UC" type="unsportsmanlike conduct" name="Harden, Donovan" result="ACCEPT" at="V44" yards="15"></p_pn>
+   </play>
+   <drivesum plays="3" yards="-7" top="0:27" driveindex="24" complete="Y"></drivesum>
+   <drivestart poss="V,V29,01:46" vh="V" spot="V29" clock="01:46" driveindex="25,235"></drivestart>
+   <play hasball="GSU" down="1" togo="10" spot="GSU29" context="V,1,10,V29" playid="25,1,236" clock="01:46" tokens="{DRIVE}:01:46"
+      text="GEORGIA STATE drive start at 01:46." newcontext="V,1,10,V29">
+   </play>
+   <play hasball="GSU" down="1" togo="10" spot="GSU29" context="V,1,10,V29" playid="25,2,237" type="R" tokens="RUSH:TM,V27,"
+      text="TEAM rush for loss of 2 yards to the GSU27." newcontext="V,2,12,V27">
+    <p_ru vh="V" name="TEAM" gain="-2"></p_ru>
+   </play>
+   <play hasball="GSU" down="2" togo="12" spot="GSU27" context="V,2,12,V27" playid="25,3,238" type="R" tokens="RUSH:TM,V24,"
+      text="TEAM rush for loss of 3 yards to the GSU24." newcontext="V,3,15,V24">
+    <p_ru vh="V" name="TEAM" gain="-3"></p_ru>
+   </play>
+   <play hasball="GSU" down="3" togo="15" spot="GSU24" context="V,3,15,V24" playid="25,4,239" type="R" tokens="RUSH:TM,V21,"
+      text="TEAM rush for loss of 3 yards to the GSU21." newcontext="V,4,18,V21">
+    <p_ru vh="V" name="TEAM" gain="-3"></p_ru>
+   </play>
+   <play hasball="GSU" down="4" togo="18" spot="GSU21" context="V,4,18,V21" playid="25,5,240" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of game, clock 00:00." newcontext="V,4,18,V21">
+   </play>
+   <drivesum plays="3" yards="-8" top="1:46" driveindex="25" complete="Y"></drivesum>
+   <score final="Y" V="31" H="19"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="GSU">
+    <firstdowns no="4" rush="0" pass="3" penalty="1"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="1" thirdatt="6" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="10:03"></misc>
+    <rush att="12" yds="-16" gain="8" loss="24" td="1" long="0"></rush>
+    <pass comp="6" att="10" int="0" yds="98" td="0" long="40" sacks="1" sackyds="14"></pass>
+    <rcv no="6" yds="98" td="0" long="40"></rcv>
+    <punt no="3" yds="121" long="8" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="40.3"></punt>
+    <ko no="1" yds="65" ob="0" tb="1"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="7" tacka="8" tot_tack="15" sacks="0" sackyds="0" brup="3" qbh="1" int="1" intyds="0"></defense>
+    <kr no="1" yds="16" td="0" long="0"></kr>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="BALL">
+    <firstdowns no="4" rush="2" pass="2" penalty="0"></firstdowns>
+    <penalties no="3" yds="30"></penalties>
+    <conversions thirdconv="2" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="04:57"></misc>
+    <rush att="4" yds="16" gain="16" loss="0" td="0" long="0"></rush>
+    <pass comp="9" att="14" int="1" yds="64" td="1" long="2" sacks="0" sackyds="0"></pass>
+    <rcv no="9" yds="64" td="1" long="2"></rcv>
+    <punt no="2" yds="78" long="3" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="39.0"></punt>
+    <ko no="1" yds="57" ob="0" tb="0"></ko>
+    <pat passatt="1" passmade="0"></pat>
+    <defense tackua="11" tacka="10" tot_tack="21" tflua="2" tfla="0" tflyds="16" sacks="1" sackyds="14" brup="1" qbh="1" blkd="1"></defense>
+    <pr no="2" yds="33" td="0" long="20"></pr>
+    <scoring td="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="V" id="GSU" down="4" togo="18" spot="GSU21" context="V,4,18,V21" qtr="4" clock="00:00" vtoh="1" htoh="2"
+       lastplay="End of game, clock 00:00."></downtogo>
+ </plays>
+ <message text=""></message>
+ <dnp vh="V" id="GSU">
+  <player name="Winchester, A." checkname="WINCHESTER,A" uni="1Q" class="FR" gp="0" code="1Q"></player>
+  <player name="Jones, Collins" checkname="JONES,COLLINS" uni="1B" class="SO" gp="0" code="1B"></player>
+  <player name="Andrews, Dexter" checkname="ANDREWS,DEXTER" uni="2A" class="JR" gp="0" code="2A"></player>
+  <player name="Valverde, A." checkname="VALVERDE,A" uni="2B" class="FR" gp="0" code="2B"></player>
+  <player name="West, Davis" checkname="WEST,DAVIS" uni="2D" class="FR" gp="0" code="2D"></player>
+  <player name="Collins, K." checkname="COLLINS,K" uni="2C" class="JR" gp="0" code="2C"></player>
+  <player name="Height, Nyiakki" checkname="HEIGHT,NYIAKKI" uni="5" class="SR" gp="0" code="5"></player>
+  <player name="Orozco, Juan" checkname="OROZCO,JUAN" uni="5A" class="JR" gp="0" code="5A"></player>
+  <player name="Lugo, Giovanni" checkname="LUGO,GIOVANNI" uni="6Q" class="FR" gp="0" code="6Q"></player>
+  <player name="Dowling, Robert" checkname="DOWLING,ROBERT" uni="7" class="JR" gp="0" code="7"></player>
+  <player name="Ruiz, Joel" checkname="RUIZ,JOEL" uni="8" class="SR" gp="0" code="8"></player>
+  <player name="Ringer, Kaleb" checkname="RINGER,KALEB" uni="11" class="JR" gp="0" code="11"></player>
+  <player name="Scaife, Emiere" checkname="SCAIFE,EMIERE" uni="12" class="FR" gp="0" code="12"></player>
+  <player name="Myers, Kam" checkname="MYERS,KAM" uni="13" class="JR" gp="0" code="13"></player>
+  <player name="Allen, Antreal" checkname="ALLEN,ANTREAL" uni="21" class="SO" gp="0" code="21"></player>
+  <player name="Bateman, Taz" checkname="BATEMAN,TAZ" uni="22" class="SO" gp="0" code="22"></player>
+  <player name="Dorn, Kendrick" checkname="DORN,KENDRICK" uni="23" class="JR" gp="0" code="23"></player>
+  <player name="Caffey, Marcus" checkname="CAFFEY,MARCUS" uni="24" class="SR" gp="0" code="24"></player>
+  <player name="Phillips, K." checkname="PHILLIPS,K" uni="30" class="FR" gp="0" code="30"></player>
+  <player name="Peterkin, R." checkname="PETERKIN,R" uni="31" class="FR" gp="0" code="31"></player>
+  <player name="Ricks, Malik" checkname="RICKS,MALIK" uni="32" class="SO" gp="0" code="32"></player>
+  <player name="Hill, Trent" checkname="HILL,TRENT" uni="37" class="JR" gp="0" code="37"></player>
+  <player name="Spencer, Jameel" checkname="SPENCER,JAMEEL" uni="38" class="JR" gp="0" code="38"></player>
+  <player name="Matthews, M." checkname="MATTHEWS,M" uni="41" class="FR" gp="0" code="41"></player>
+  <player name="Scott, Matavius" checkname="SCOTT,MATAVIUS" uni="43" class="SO" gp="0" code="43"></player>
+  <player name="Griffin, J." checkname="GRIFFIN,J" uni="48" class="JR" gp="0" code="48"></player>
+  <player name="Zeigler, Daniel" checkname="ZEIGLER,DANIEL" uni="54" class="SO" gp="0" code="54"></player>
+  <player name="Otiwu, Justin" checkname="OTIWU,JUSTIN" uni="57" class="SO" gp="0" code="57"></player>
+  <player name="Word, Mitch" checkname="WORD,MITCH" uni="61" class="JR" gp="0" code="61"></player>
+  <player name="Cunningham, W." checkname="CUNNINGHAM,W" uni="62" class="SO" gp="0" code="62"></player>
+  <player name="Hawkins, Akil" checkname="HAWKINS,AKIL" uni="64" class="JR" gp="0" code="64"></player>
+  <player name="Huey, David" checkname="HUEY,DAVID" uni="67" class="SR" gp="0" code="67"></player>
+  <player name="Folau, Kelepi" checkname="FOLAU,KELEPI" uni="68" class="SR" gp="0" code="68"></player>
+  <player name="Wolgamott, S." checkname="WOLGAMOTT,S" uni="70" class="SR" gp="0" code="70"></player>
+  <player name="Cannon, Derrick" checkname="CANNON,DERRICK" uni="73" class="SR" gp="0" code="73"></player>
+  <player name="Ivory, Michael" checkname="IVORY,MICHAEL" uni="75" class="JR" gp="0" code="75"></player>
+  <player name="Simonsen, Tyler" checkname="SIMONSEN,TYLER" uni="77" class="JR" gp="0" code="77"></player>
+  <player name="Bell, Madison" checkname="BELL,MADISON" uni="79" class="SO" gp="0" code="79"></player>
+  <player name="Sweeting, Avery" checkname="SWEETING,AVERY" uni="80" class="SR" gp="0" code="80"></player>
+  <player name="Long, Nich" checkname="LONG,NICH" uni="90" class="FR" gp="0" code="90"></player>
+  <player name="Kelley, D." checkname="KELLEY,D" uni="92" class="SO" gp="0" code="92"></player>
+  <player name="Wright, Brandon" checkname="WRIGHT,BRANDON" uni="93" class="FR" gp="0" code="93"></player>
+  <player name="Nesmith, Jacob" checkname="NESMITH,JACOB" uni="94" class="JR" gp="0" code="94"></player>
+  <player name="Paxton, Nate" checkname="PAXTON,NATE" uni="98" class="SR" gp="0" code="98"></player>
+ </dnp>
+ <dnp vh="H" id="BALL">
+  <player name="BEST, Jesse" checkname="BEST,JESSE" uni="1A" class="FR" gp="0" code="1A"></player>
+  <player name="ANDERS, Blake" checkname="ANDERS,BLAKE" uni="1E" class="JR" gp="0" code="1E"></player>
+  <player name="MULLEN, Kendric" checkname="MULLEN,KENDRIC" uni="1B" class="FR" gp="0" code="1B"></player>
+  <player name="SOLOMON, Terin" checkname="SOLOMON,TERIN" uni="1C" class="JR" gp="0" code="1C"></player>
+  <player name="TURNER, Quinten" checkname="TURNER,QUINTEN" uni="1D" class="FR" gp="0" code="1D"></player>
+  <player name="BLAIR, Zack" checkname="BLAIR,ZACK" uni="2A" class="FR" gp="0" code="2A"></player>
+  <player name="LEWIS, Kyle" checkname="LEWIS,KYLE" uni="2C" class="JR" gp="0" code="2C"></player>
+  <player name="SEMBELL, Evan" checkname="SEMBELL,EVAN" uni="2B" class="FR" gp="0" code="2B"></player>
+  <player name="LOWE, Payton" checkname="LOWE,PAYTON" uni="3A" class="SO" gp="0" code="3A"></player>
+  <player name="BOST, Darren" checkname="BOST,DARREN" uni="4B" class="JR" gp="0" code="4B"></player>
+  <player name="SHEKO, Anthony" checkname="SHEKO,ANTHONY" uni="4C" class="FR" gp="0" code="4C"></player>
+  <player name="BOOKER, Kadin" checkname="BOOKER,KADIN" uni="5B" class="SO" gp="0" code="5B"></player>
+  <player name="TOWLE, Brendon" checkname="TOWLE,BRENDON" uni="5A" class="JR" gp="0" code="5A"></player>
+  <player name="MORRISON, David" checkname="MORRISON,DAVID" uni="11" class="FR" gp="0" code="11"></player>
+  <player name="SCOTT-EMUAKPOR," checkname="SCOTT-EMUAKPOR" uni="18" class="JR" gp="0" code="18"></player>
+  <player name="SMITH, Ralph" checkname="SMITH,RALPH" uni="24" class="SO" gp="0" code="24"></player>
+  <player name="McNULTY, Armani" checkname="MCNULTY,ARMANI" uni="28" class="FR" gp="0" code="28"></player>
+  <player name="HALL, Corey" checkname="HALL,COREY" uni="29" class="JR" gp="0" code="29"></player>
+  <player name="WADE, Romero" checkname="WADE,ROMERO" uni="31" class="FR" gp="0" code="31"></player>
+  <player name="HOLDER, Tyree" checkname="HOLDER,TYREE" uni="33" class="JR" gp="0" code="33"></player>
+  <player name="WHITE, Jacob" checkname="WHITE,JACOB" uni="36" class="FR" gp="0" code="36"></player>
+  <player name="GODFREY, John" checkname="GODFREY,JOHN" uni="39" class="JR" gp="0" code="39"></player>
+  <player name="STONEFIELD, P." checkname="STONEFIELD,P" uni="41" class="SO" gp="0" code="41"></player>
+  <player name="RABY, Michael" checkname="RABY,MICHAEL" uni="44" class="SR" gp="0" code="44"></player>
+  <player name="JAFFAL, AJ" checkname="JAFFAL,AJ" uni="46" class="FR" gp="0" code="46"></player>
+  <player name="FLOYD, Meshech" checkname="FLOYD,MESHECH" uni="48" class="FR" gp="0" code="48"></player>
+  <player name="SEGER, Kyle" checkname="SEGER,KYLE" uni="49" class="JR" gp="0" code="49"></player>
+  <player name="SINGLETON, D." checkname="SINGLETON,D" uni="50" class="FR" gp="0" code="50"></player>
+  <player name="SCHROEDER, Fred" checkname="SCHROEDER,FRED" uni="52" class="FR" gp="0" code="52"></player>
+  <player name="KING, Malik" checkname="KING,MALIK" uni="53" class="FR" gp="0" code="53"></player>
+  <player name="O'CONNELL, Pat." checkname="O'CONNELL,PAT" uni="54" class="FR" gp="0" code="54"></player>
+  <player name="BARRIOS, Issac" checkname="BARRIOS,ISSAC" uni="61" class="FR" gp="0" code="61"></player>
+  <player name="WILLIAMSON, Gr." checkname="WILLIAMSON,GR" uni="63" class="FR" gp="0" code="63"></player>
+  <player name="POENITSCH, And." checkname="POENITSCH,AND" uni="64" class="FR" gp="0" code="64"></player>
+  <player name="ANDERSON, Ian" checkname="ANDERSON,IAN" uni="69" class="SR" gp="0" code="69"></player>
+  <player name="JOSS, Alex" checkname="JOSS,ALEX" uni="70" class="FR" gp="0" code="70"></player>
+  <player name="RICKETTS, Zac" checkname="RICKETTS,ZAC" uni="71" class="FR" gp="0" code="71"></player>
+  <player name="VRABAC, Haris" checkname="VRABAC,HARIS" uni="72" class="SO" gp="0" code="72"></player>
+  <player name="MALONEY, Pat" checkname="MALONEY,PAT" uni="73" class="SO" gp="0" code="73"></player>
+  <player name="PALAZETI, V." checkname="PALAZETI,V" uni="75" class="SO" gp="0" code="75"></player>
+  <player name="ORNDORFF, Alex" checkname="ORNDORFF,ALEX" uni="77" class="FR" gp="0" code="77"></player>
+  <player name="LLOYD, Jarrid" checkname="LLOYD,JARRID" uni="79" class="SO" gp="0" code="79"></player>
+  <player name="SCHRANK, Kyle" checkname="SCHRANK,KYLE" uni="81" class="FR" gp="0" code="81"></player>
+  <player name="COOK, Clayton" checkname="COOK,CLAYTON" uni="83" class="FR" gp="0" code="83"></player>
+  <player name="PINTER, Danny" checkname="PINTER,DANNY" uni="84" class="FR" gp="0" code="84"></player>
+  <player name="MILLER, Riley" checkname="MILLER,RILEY" uni="86" class="FR" gp="0" code="86"></player>
+  <player name="REECE, Devin" checkname="REECE,DEVIN" uni="89" class="FR" gp="0" code="89"></player>
+  <player name="HAMMONDS JR, S." checkname="HAMMONDS JR,S" uni="90" class="FR" gp="0" code="90"></player>
+  <player name="HUTCHINSON, Ak." checkname="HUTCHINSON,AK" uni="91" class="FR" gp="0" code="91"></player>
+  <player name="SMITH, Darnell" checkname="SMITH,DARNELL" uni="95" class="SR" gp="0" code="95"></player>
+  <player name="KNIGHT JR., K." checkname="KNIGHT JR.,K" uni="99" class="FR" gp="0" code="99"></player>
+ </dnp>
+ <longplays thresh="70">
+ </longplays>
+</fbgame>

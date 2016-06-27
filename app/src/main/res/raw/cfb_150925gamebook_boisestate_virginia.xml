@@ -1,0 +1,1798 @@
+<fbgame source="Tas Football" version="4.16.07" generated="9/27/2015">
+ <venue gameid="VA0925" visid="BOISE" homeid="VA" visname="Boise State" homename="Virginia"
+      date="9/25/2015" location="Charlottesville, Va." stadium="Smith/Harrison/Scott"
+      start="8:02 PM" end="11:22 PM" nitegame="Y"
+      duration="3:20" attend="42427" temp="67" wind="NNE 11" weather="Light Rain">
+  <officials ref="Reggie Smith" ump="Joel Bellinger" line="Mike Moeller" lj="Mark Stewart" bj="Lyndon Nixon" fj="Matt Mills" sj="Tim Murray" cj="Dan Scanlan" alt="Dan Scanlan"></officials>
+  <rules qtrs="4" mins="15" downs="4" yds="10" kospot="35" tbspot="20" kotbspot="25" patspot="3" safspot="20" td="6" fg="3" pat="1" patx="2" saf="2" defpat="2" rouge="1" field="100" toh="3" sackrush="Y" fgaplay="Y" netpunttb="Y"></rules>
+ </venue>
+ <team vh="V" code="66" id="BOISE" name="Boise State" record="3-1" abb="B">
+  <linescore prds="4" line="17,12,17,10" score="56">
+   <lineprd prd="1" score="17"></lineprd>
+   <lineprd prd="2" score="12"></lineprd>
+   <lineprd prd="3" score="17"></lineprd>
+   <lineprd prd="4" score="10"></lineprd>
+  </linescore>
+  <totals totoff_plays="69" totoff_yards="447" totoff_avg="6.5">
+   <firstdowns no="19" rush="5" pass="13" penalty="1"></firstdowns>
+   <penalties no="4" yds="25"></penalties>
+   <conversions thirdconv="3" thirdatt="14" fourthconv="1" fourthatt="2"></conversions>
+   <fumbles no="1" lost="0"></fumbles>
+   <misc yds="0" top="28:05" ona="0" onm="0" ptsto="27"></misc>
+   <redzone att="5" scores="4" points="20" tdrush="1" tdpass="1" fgmade="2" endfga="0" enddowns="1" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="31" yds="89" gain="127" loss="38" td="1" long="47"></rush>
+   <pass comp="25" att="38" int="0" yds="358" td="3" long="64" sacks="4" sackyds="28"></pass>
+   <rcv no="25" yds="358" td="3" long="64"></rcv>
+   <punt no="4" yds="179" long="51" blkd="0" tb="0" fc="2" plus50="1" inside20="0" avg="44.8"></punt>
+   <ko no="11" yds="690" ob="0" tb="2"></ko>
+   <fg made="4" att="5" long="51" blkd="0"></fg>
+   <pat kickatt="6" kickmade="6"></pat>
+   <defense tackua="37" tacka="38" tot_tack="75" tflua="6" tfla="4" tflyds="29" sacks="4" sackyds="16" brup="2" saf="1" ff="1" fr="1" fryds="10" int="4" intyds="66"></defense>
+   <kr no="2" yds="29" td="0" long="21"></kr>
+   <pr no="1" yds="0" td="0" long="0"></pr>
+   <ir no="4" yds="66" td="2" long="25"></ir>
+   <fr no="1" yds="10" td="0" long="10"></fr>
+   <scoring td="6" fg="4" saf="1" patkick="6"></scoring>
+  </totals>
+  <player name="STUART, Thomas" shortname="STUART, Thomas" checkname="STUART,THOMAS" uni="0C" class="SO" gp="1" code="0C">
+   <rush att="2" yds="-7" gain="2" loss="9" td="0" long="2"></rush>
+   <pass comp="1" att="1" int="0" yds="37" td="0" long="37" sacks="1" sackyds="9"></pass>
+  </player>
+  <player name="RYPIEN, Brett" shortname="RYPIEN, Brett" checkname="RYPIEN,BRETT" uni="0D" class="FR" gp="1" gs="1" opos="QB" code="0D">
+   <rush att="6" yds="-3" gain="19" loss="22" td="0" long="11"></rush>
+   <pass comp="24" att="35" int="0" yds="321" td="3" long="64" sacks="3" sackyds="19"></pass>
+   <fumbles no="1" lost="0"></fumbles>
+  </player>
+  <player name="WILLIAMS-RHODES" shortname="WILLIAMS-RHODES" checkname="WILLIAMS-RHODES" uni="1" class="SR" gp="1" gs="1" opos="H" code="1">
+   <rush att="1" yds="5" gain="5" loss="0" td="0" long="5"></rush>
+   <rcv no="6" yds="28" td="0" long="20"></rcv>
+  </player>
+  <player name="JOHNSON, T." shortname="JOHNSON, T." checkname="JOHNSON,T" uni="2J" class="SR" gp="1" code="2J"></player>
+  <player name="MOXEY, Jonathan" shortname="MOXEY, Jonathan" checkname="MOXEY,JONATHAN" uni="2" class="JR" gp="1" gs="1" dpos="CB" code="2">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="JAMES, C." shortname="JAMES, C." checkname="JAMES,C" uni="3" class="JR" gp="1" code="3">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="THOMPSON, D." shortname="THOMPSON, D." checkname="THOMPSON,D" uni="4" class="SR" gp="1" gs="1" dpos="S" code="4">
+   <defense tackua="3" tacka="2" tot_tack="5" tflua="0" tfla="1" tflyds="3" int="1" intyds="19"></defense>
+   <ir no="1" yds="19" td="0" long="19"></ir>
+  </player>
+  <player name="GONZALEZ, Blake" shortname="GONZALEZ, Blake" checkname="GONZALEZ,BLAKE" uni="4H" class="FR" gp="1" code="4H"></player>
+  <player name="DEAYON, Donte" shortname="DEAYON, Donte" checkname="DEAYON,DONTE" uni="5" class="SR" gp="1" gs="1" dpos="CB" code="5">
+   <defense tackua="2" tacka="2" tot_tack="4" int="1" intyds="1"></defense>
+   <pr no="1" yds="0" td="0" long="0"></pr>
+   <ir no="1" yds="1" td="0" long="1"></ir>
+  </player>
+  <player name="ANDERSON, Chaz" shortname="ANDERSON, Chaz" checkname="ANDERSON,CHAZ" uni="6" class="JR" gp="1" gs="1" opos="Z" code="6">
+   <rcv no="2" yds="30" td="0" long="22"></rcv>
+  </player>
+  <player name="MARTARANO, J." shortname="MARTARANO, J." checkname="MARTARANO,J" uni="7" class="SO" gp="1" code="7">
+   <defense tackua="0" tacka="3" tot_tack="3"></defense>
+  </player>
+  <player name="CORREA, Kamalei" shortname="CORREA, Kamalei" checkname="CORREA,KAMALEI" uni="8" class="JR" gp="1" gs="1" dpos="STUD" code="8">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="MASTON, Mercy" shortname="MASTON, Mercy" checkname="MASTON,MERCY" uni="9" class="SR" gp="1" code="9">
+   <defense tackua="0" tacka="2" tot_tack="2" int="1" intyds="25"></defense>
+   <ir no="1" yds="25" td="1" long="25"></ir>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="MILES, Durrant" shortname="MILES, Durrant" checkname="MILES,DURRANT" uni="9A" class="FR" gp="1" code="9A"></player>
+  <player name="YOUNG, Cory" shortname="YOUNG, Cory" checkname="YOUNG,CORY" uni="10" class="FR" gp="1" code="10"></player>
+  <player name="McNICHOLS, J." shortname="McNICHOLS, J." checkname="MCNICHOLS,J" uni="13" class="SO" gp="1" gs="1" opos="RB" code="13">
+   <rush att="9" yds="69" gain="69" loss="0" td="1" long="47"></rush>
+   <rcv no="5" yds="47" td="1" long="19"></rcv>
+   <kr no="1" yds="8" td="0" long="8"></kr>
+   <scoring td="2"></scoring>
+  </player>
+  <player name="HORTON, Tyler" shortname="HORTON, Tyler" checkname="HORTON,TYLER" uni="14" class="FR" gp="1" code="14"></player>
+  <player name="POPE, Taylor" shortname="POPE, Taylor" checkname="POPE,TAYLOR" uni="16" class="JR" gp="1" code="16"></player>
+  <player name="COTTRELL, A." shortname="COTTRELL, A." checkname="COTTRELL,A" uni="17" class="FR" gp="1" code="17">
+   <rcv no="1" yds="37" td="0" long="37"></rcv>
+  </player>
+  <player name="FRAZIER, Jabril" shortname="FRAZIER, Jabril" checkname="FRAZIER,JABRIL" uni="18" class="FR" gp="1" code="18">
+   <defense tackua="2" tacka="1" tot_tack="3" tflua="1" tfla="1" tflyds="3" sackua="1" sacka="1" sackyds="3"></defense>
+  </player>
+  <player name="WALE, Sean" shortname="WALE, Sean" checkname="WALE,SEAN" uni="19" class="JR" gp="1" code="19">
+   <punt no="4" yds="179" long="51" blkd="0" tb="0" fc="2" plus50="1" inside20="0" avg="44.8"></punt>
+  </player>
+  <player name="VALLEJO, Tanner" shortname="VALLEJO, Tanner" checkname="VALLEJO,TANNER" uni="20" class="JR" gp="1" gs="1" dpos="MLB" code="20">
+   <defense tackua="1" tacka="2" tot_tack="3"></defense>
+  </player>
+  <player name="FIELDS, Jack" shortname="FIELDS, Jack" checkname="FIELDS,JACK" uni="21" class="SR" gp="1" code="21">
+   <rush att="3" yds="9" gain="9" loss="0" td="0" long="6"></rush>
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="MILES, Kameron" shortname="MILES, Kameron" checkname="MILES,KAMERON" uni="24" class="SO" gp="1" code="24">
+   <defense tackua="2" tacka="0" tot_tack="2" brup="1" ff="1"></defense>
+  </player>
+  <player name="FORD, Raymond" shortname="FORD, Raymond" checkname="FORD,RAYMOND" uni="25" class="JR" gp="1" code="25">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="DEMAS, Devan" shortname="DEMAS, Devan" checkname="DEMAS,DEVAN" uni="26" class="JR" gp="1" code="26">
+   <rush att="3" yds="1" gain="6" loss="5" td="0" long="6"></rush>
+  </player>
+  <player name="RICHARDSON, AJ" shortname="RICHARDSON, AJ" checkname="RICHARDSON,AJ" uni="28" class="FR" gp="1" code="28"></player>
+  <player name="SUMNER-GARDNER" shortname="SUMNER-GARDNER" checkname="SUMNER-GARDNER" uni="29" class="SO" gp="1" gs="1" dpos="S" code="29">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="WOLPIN, Ryan" shortname="WOLPIN, Ryan" checkname="WOLPIN,RYAN" uni="30" class="SO" gp="1" code="30"></player>
+  <player name="SEIBOLD, Skyler" shortname="SEIBOLD, Skyler" checkname="SEIBOLD,SKYLER" uni="31" class="FR" gp="1" code="31">
+   <defense tackua="0" tacka="2" tot_tack="2"></defense>
+  </player>
+  <player name="GRAY, Tyler" shortname="GRAY, Tyler" checkname="GRAY,TYLER" uni="36" class="SR" gp="1" gs="1" dpos="WLB" code="36">
+   <defense tackua="1" tacka="2" tot_tack="3" tflua="0" tfla="1" tflyds="2"></defense>
+  </player>
+  <player name="HARTSFIELD, C." shortname="HARTSFIELD, C." checkname="HARTSFIELD,C" uni="37" class="SO" gp="1" code="37"></player>
+  <player name="VANDER ESCH, L." shortname="VANDER ESCH, L." checkname="VANDER ESCH,L" uni="38" class="FR" gp="1" code="38">
+   <defense tackua="2" tacka="1" tot_tack="3"></defense>
+  </player>
+  <player name="YOUNG, Kelsey" shortname="YOUNG, Kelsey" checkname="YOUNG,KELSEY" uni="39" class="SR" gp="1" code="39">
+   <rush att="5" yds="17" gain="17" loss="0" td="0" long="7"></rush>
+   <kr no="1" yds="21" td="0" long="21"></kr>
+  </player>
+  <player name="NANCE, Armand" shortname="NANCE, Armand" checkname="NANCE,ARMAND" uni="40" class="SR" gp="1" gs="1" dpos="NT" code="40">
+   <defense tackua="1" tacka="2" tot_tack="3" tflua="1" tfla="0" tflyds="10" sackua="1" sacka="0" sackyds="10"></defense>
+  </player>
+  <player name="LEE, Darren" shortname="LEE, Darren" checkname="LEE,DARREN" uni="44" class="JR" gp="1" code="44">
+   <defense tackua="1" tacka="3" tot_tack="4" brup="1"></defense>
+  </player>
+  <player name="KEANE, Kevin" shortname="KEANE, Kevin" checkname="KEANE,KEVIN" uni="46" class="SR" gp="1" code="46"></player>
+  <player name="MOA, David" shortname="MOA, David" checkname="MOA,DAVID" uni="48" class="FR" gp="1" code="48">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="RAUSA, Tyler" shortname="RAUSA, Tyler" checkname="RAUSA,TYLER" uni="49" class="JR" gp="1" code="49">
+   <ko no="11" yds="690" ob="0" tb="2"></ko>
+   <fg made="4" att="5" long="51" blkd="0"></fg>
+   <pat kickatt="6" kickmade="6"></pat>
+   <scoring fg="4" patkick="6"></scoring>
+  </player>
+  <player name="WEAVER, Ben" shortname="WEAVER, Ben" checkname="WEAVER,BEN" uni="51" class="JR" gp="1" gs="1" dpos="WLB" code="51">
+   <defense tackua="4" tacka="5" tot_tack="9" fr="1" fryds="10"></defense>
+   <fr no="1" yds="10" td="0" long="10"></fr>
+  </player>
+  <player name="TERCEK, Andrew" shortname="TERCEK, Andrew" checkname="TERCEK,ANDREW" uni="52" class="SO" gp="1" code="52"></player>
+  <player name="Mataele, T." shortname="Mataele, T." checkname="MATAELE,T" uni="55" class="SR" gp="1" code="55"></player>
+  <player name="ASH, Robert" shortname="ASH, Robert" checkname="ASH,ROBERT" uni="58" class="SR" gp="1" code="58">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="HAMPTON, Mason" shortname="HAMPTON, Mason" checkname="HAMPTON,MASON" uni="59" class="SO" gp="1" code="59"></player>
+  <player name="BUHR, Kellen" shortname="BUHR, Kellen" checkname="BUHR,KELLEN" uni="60" class="JR" gp="1" code="60"></player>
+  <player name="YAKOO, Mario" shortname="YAKOO, Mario" checkname="YAKOO,MARIO" uni="66" class="JR" gp="1" gs="1" opos="RT" code="66"></player>
+  <player name="HORN, Tyler" shortname="HORN, Tyler" checkname="HORN,TYLER" uni="69" class="SR" gp="1" gs="1" dpos="DE" code="69">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="BAGGETT, Steven" shortname="BAGGETT, Steven" checkname="BAGGETT,STEVEN" uni="70" class="JR" gp="1" gs="1" opos="RG" code="70"></player>
+  <player name="ODHIAMBO, Rees" shortname="ODHIAMBO, Rees" checkname="ODHIAMBO,REES" uni="71" class="SR" gp="1" gs="1" opos="LT" code="71"></player>
+  <player name="HENRY, Marcus" shortname="HENRY, Marcus" checkname="HENRY,MARCUS" uni="72" class="SR" gp="1" gs="1" opos="C" code="72"></player>
+  <player name="AVERILL, Travis" shortname="AVERILL, Travis" checkname="AVERILL,TRAVIS" uni="73" class="JR" gp="1" gs="1" opos="LG" code="73"></player>
+  <player name="LEWIS, Archie" shortname="LEWIS, Archie" checkname="LEWIS,ARCHIE" uni="74" class="SO" gp="1" code="74"></player>
+  <player name="ERTEL, JErhen" shortname="ERTEL, JErhen" checkname="ERTEL,JERHEN" uni="76" class="SR" gp="1" code="76"></player>
+  <player name="BUTLER, Akilian" shortname="BUTLER, Akilian" checkname="BUTLER,AKILIAN" uni="81" class="FR" gp="1" code="81"></player>
+  <player name="SPERBECK, T." shortname="SPERBECK, T." checkname="SPERBECK,T" uni="82" class="JR" gp="1" gs="1" opos="X" code="82">
+   <pass comp="0" att="2" int="0" yds="0" td="0" long="0" sacks="0" sackyds="0"></pass>
+   <rcv no="5" yds="121" td="2" long="64"></rcv>
+   <scoring td="2"></scoring>
+  </player>
+  <player name="HARDEE, Jake" shortname="HARDEE, Jake" checkname="HARDEE,JAKE" uni="84" class="SR" gp="1" code="84">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="HUFF, Holden" shortname="HUFF, Holden" checkname="HUFF,HOLDEN" uni="85" class="SR" gp="1" code="85">
+   <rcv no="1" yds="47" td="0" long="47"></rcv>
+  </player>
+  <player name="DHAENENS, Alec" shortname="DHAENENS, Alec" checkname="DHAENENS,ALEC" uni="87" class="SO" gp="1" code="87"></player>
+  <player name="ROH, Jake" shortname="ROH, Jake" checkname="ROH,JAKE" uni="88" class="SO" gp="1" gs="1" opos="TE" code="88">
+   <rcv no="5" yds="48" td="0" long="15"></rcv>
+  </player>
+  <player name="TAIMATUIA, J." shortname="TAIMATUIA, J." checkname="TAIMATUIA,J" uni="90" class="SR" gp="1" gs="1" dpos="DT" code="90">
+   <defense tackua="0" tacka="1" tot_tack="1" int="1" intyds="21"></defense>
+   <ir no="1" yds="21" td="1" long="21"></ir>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="LUCERO, D." shortname="LUCERO, D." checkname="LUCERO,D" uni="91" class="FR" gp="1" code="91">
+   <defense tackua="2" tacka="0" tot_tack="2" tflua="1" tfla="0" tflyds="3"></defense>
+  </player>
+  <player name="McCASKILL, Sam" shortname="McCASKILL, Sam" checkname="MCCASKILL,SAM" uni="94" class="JR" gp="1" code="94">
+   <defense tackua="1" tacka="3" tot_tack="4" tflua="0" tfla="1" tflyds="2" sackua="0" sacka="1" sackyds="2"></defense>
+  </player>
+  <player name="HOYTE, Elliott" shortname="HOYTE, Elliott" checkname="HOYTE,ELLIOTT" uni="96" class="JR" gp="1" code="96">
+   <defense tackua="2" tacka="0" tot_tack="2" tflua="1" tfla="0" tflyds="2"></defense>
+  </player>
+  <player name="SILSBY, Austin" shortname="SILSBY, Austin" checkname="SILSBY,AUSTIN" uni="97" class="SO" gp="1" code="97">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="BOLES, Dereck" shortname="BOLES, Dereck" checkname="BOLES,DERECK" uni="99" class="FR" gp="1" code="99">
+   <defense tackua="2" tacka="2" tot_tack="4" tflua="1" tfla="0" tflyds="3"></defense>
+  </player>
+  <player name="TEAM" shortname="TEAM" checkname="TEAM" uni="TM" class="" gp="1" code="198">
+   <rush att="2" yds="-2" gain="0" loss="2" td="0" long="0"></rush>
+   <defense tackua="1" tacka="0" tot_tack="1" tflua="1" tfla="0" tflyds="1" sackua="1" sacka="0" sackyds="1" saf="1"></defense>
+   <scoring saf="1"></scoring>
+  </player>
+ </team>
+ <team vh="H" code="746" id="VA" name="Virginia" record="1-3" abb="V">
+  <linescore prds="4" line="7,7,0,0" score="14">
+   <lineprd prd="1" score="7"></lineprd>
+   <lineprd prd="2" score="7"></lineprd>
+   <lineprd prd="3" score="0"></lineprd>
+   <lineprd prd="4" score="0"></lineprd>
+  </linescore>
+  <totals totoff_plays="66" totoff_yards="273" totoff_avg="4.1">
+   <firstdowns no="10" rush="1" pass="9" penalty="0"></firstdowns>
+   <penalties no="9" yds="80"></penalties>
+   <conversions thirdconv="7" thirdatt="17" fourthconv="0" fourthatt="1"></conversions>
+   <fumbles no="1" lost="1"></fumbles>
+   <misc yds="0" top="31:55" ona="0" onm="0" ptsto="0"></misc>
+   <redzone att="0" scores="0" points="0" tdrush="0" tdpass="0" fgmade="0" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="33" yds="40" gain="69" loss="29" td="0" long="10"></rush>
+   <pass comp="16" att="33" int="4" yds="233" td="2" long="75" sacks="4" sackyds="16"></pass>
+   <rcv no="16" yds="233" td="2" long="75"></rcv>
+   <punt no="6" yds="235" long="51" blkd="0" tb="0" fc="2" plus50="1" inside20="1" avg="39.2"></punt>
+   <ko no="4" yds="250" ob="1" tb="1"></ko>
+   <fg made="0" att="1" long="0" blkd="0"></fg>
+   <pat kickatt="2" kickmade="2"></pat>
+   <defense tackua="44" tacka="18" tot_tack="62" tflua="7" tfla="4" tflyds="41" sacks="4" sackyds="28" brup="3" ff="1"></defense>
+   <kr no="9" yds="231" td="0" long="54"></kr>
+   <pr no="2" yds="21" td="0" long="18"></pr>
+   <scoring td="2" patkick="2"></scoring>
+  </totals>
+  <player name="Frye, I" shortname="Frye, I" checkname="FRYE,I" uni="1F" class="SR" gp="1" code="1F">
+   <fg made="0" att="1" long="0" blkd="0"></fg>
+   <pat kickatt="2" kickmade="2"></pat>
+   <scoring patkick="2"></scoring>
+  </player>
+  <player name="Mackay, A" shortname="Mackay, A" checkname="MACKAY,A" uni="1A" class="SO" gp="1" code="1A"></player>
+  <player name="Brewer, C" shortname="Brewer, C" checkname="BREWER,C" uni="2B" class="JR" gp="1" code="2B">
+   <rush att="2" yds="-2" gain="1" loss="3" td="0" long="1"></rush>
+   <pass comp="4" att="8" int="1" yds="34" td="0" long="14" sacks="1" sackyds="3"></pass>
+  </player>
+  <player name="Garner, K" shortname="Garner, K" checkname="GARNER,K" uni="2" class="SO" gp="1" code="2"></player>
+  <player name="Coleman, J" shortname="Coleman, J" checkname="COLEMAN,J" uni="3J" class="JR" gp="1" code="3J">
+   <punt no="1" yds="31" long="31" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="31.0"></punt>
+  </player>
+  <player name="Blanding, Q" shortname="Blanding, Q" checkname="BLANDING,Q" uni="3" class="FR" gp="1" gs="1" dpos="FS" code="3">
+   <defense tackua="3" tacka="1" tot_tack="4"></defense>
+  </player>
+  <player name="Mizzell, T" shortname="Mizzell, T" checkname="MIZZELL,T" uni="4" class="JR" gp="1" gs="1" opos="TB" code="4">
+   <rush att="7" yds="2" gain="7" loss="5" td="0" long="4"></rush>
+   <rcv no="5" yds="59" td="1" long="45"></rcv>
+   <fumbles no="1" lost="1"></fumbles>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Reid, A" shortname="Reid, A" checkname="REID,A" uni="5R" class="JR" gp="1" code="5R">
+   <rush att="3" yds="11" gain="11" loss="0" td="0" long="8"></rush>
+  </player>
+  <player name="Harris, T" shortname="Harris, T" checkname="HARRIS,T" uni="5" class="JR" gp="1" gs="1" dpos="CB" code="5">
+   <defense tackua="3" tacka="0" tot_tack="3" tflua="1" tfla="0" tflyds="1" brup="2"></defense>
+  </player>
+  <player name="Carter, D" shortname="Carter, D" checkname="CARTER,D" uni="6" class="FR" gp="1" code="6"></player>
+  <player name="Thorpe, T.J." shortname="Thorpe, T.J." checkname="THORPE,TJ" uni="8" class="SR" gp="1" gs="1" opos="WR" code="8">
+   <rcv no="1" yds="75" td="1" long="75"></rcv>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Brown, A" shortname="Brown, A" checkname="BROWN,A" uni="9" class="SO" gp="1" code="9">
+   <defense tackua="1" tacka="0" tot_tack="1" tflua="1" tfla="0" tflyds="1"></defense>
+  </player>
+  <player name="Severin, C" shortname="Severin, C" checkname="SEVERIN,C" uni="9S" class="SR" gp="1" gs="1" opos="WR" code="9S">
+   <rcv no="4" yds="34" td="0" long="16"></rcv>
+  </player>
+  <player name="Ellis, J" shortname="Ellis, J" checkname="ELLIS,J" uni="10" class="FR" gp="1" code="10">
+   <rush att="6" yds="-2" gain="6" loss="8" td="0" long="4"></rush>
+  </player>
+  <player name="Walker, D" shortname="Walker, D" checkname="WALKER,D" uni="11" class="JR" gp="1" code="11"></player>
+  <player name="Robinson, M" shortname="Robinson, M" checkname="ROBINSON,M" uni="13" class="FR" gp="1" code="13"></player>
+  <player name="Johns, M" shortname="Johns, M" checkname="JOHNS,M" uni="15" class="JR" gp="1" gs="1" opos="QB" code="15">
+   <rush att="7" yds="9" gain="22" loss="13" td="0" long="10"></rush>
+   <pass comp="12" att="25" int="3" yds="199" td="2" long="75" sacks="3" sackyds="13"></pass>
+  </player>
+  <player name="Thomas, M" shortname="Thomas, M" checkname="THOMAS,M" uni="16" class="SR" gp="1" code="16">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Dockins, K" shortname="Dockins, K" checkname="DOCKINS,K" uni="17" class="JR" gp="1" code="17"></player>
+  <player name="Conte, N" shortname="Conte, N" checkname="CONTE,N" uni="18" class="JR" gp="1" code="18">
+   <punt no="5" yds="204" long="51" blkd="0" tb="0" fc="2" plus50="1" inside20="1" avg="40.8"></punt>
+   <ko no="1" yds="65" ob="1" tb="0"></ko>
+  </player>
+  <player name="Thornhill, J" shortname="Thornhill, J" checkname="THORNHILL,J" uni="21" class="FR" gp="1" code="21"></player>
+  <player name="Hamm, D" shortname="Hamm, D" checkname="HAMM,D" uni="22" class="SO" gp="1" code="22">
+   <rush att="8" yds="22" gain="22" loss="0" td="0" long="6"></rush>
+   <rcv no="3" yds="20" td="0" long="14"></rcv>
+  </player>
+  <player name="Canady, M" shortname="Canady, M" checkname="CANADY,M" uni="26" class="SR" gp="1" gs="1" dpos="CB" code="26">
+   <defense tackua="4" tacka="0" tot_tack="4" tflua="1" tfla="0" tflyds="4"></defense>
+   <pr no="2" yds="21" td="0" long="18"></pr>
+  </player>
+  <player name="Wahee, W" shortname="Wahee, W" checkname="WAHEE,W" uni="28" class="JR" gp="1" gs="1" dpos="CB" code="28">
+   <defense tackua="3" tacka="0" tot_tack="3" brup="1"></defense>
+  </player>
+  <player name="Gallon, E" shortname="Gallon, E" checkname="GALLON,E" uni="29" class="FR" gp="1" code="29"></player>
+  <player name="Sheppard, D" shortname="Sheppard, D" checkname="SHEPPARD,D" uni="30" class="FR" gp="1" code="30"></player>
+  <player name="Peace" shortname="Peace" checkname="PEACE" uni="31" class="" gp="1" code="31">
+   <defense tackua="1" tacka="2" tot_tack="3"></defense>
+  </player>
+  <player name="Moore, M" shortname="Moore, M" checkname="MOORE,M" uni="32" class="SR" gp="1" gs="1" dpos="DE" code="32">
+   <defense tackua="3" tacka="2" tot_tack="5" tflua="1" tfla="2" tflyds="14" sackua="1" sacka="1" sackyds="12" ff="1"></defense>
+  </player>
+  <player name="Zaccheaus, O" shortname="Zaccheaus, O" checkname="ZACCHEAUS,O" uni="33" class="FR" gp="1" code="33">
+   <kr no="9" yds="231" td="0" long="54"></kr>
+  </player>
+  <player name="Moore, K" shortname="Moore, K" checkname="MOORE,K" uni="34" class="SR" gp="1" gs="1" dpos="DT" code="34">
+   <defense tackua="1" tacka="1" tot_tack="2" tflua="1" tfla="0" tflyds="5" sackua="1" sacka="0" sackyds="5"></defense>
+  </player>
+  <player name="Rainey, K" shortname="Rainey, K" checkname="RAINEY,K" uni="38" class="JR" gp="1" gs="1" dpos="SS" code="38">
+   <defense tackua="6" tacka="1" tot_tack="7"></defense>
+  </player>
+  <player name="Latimore, D" shortname="Latimore, D" checkname="LATIMORE,D" uni="39" class="FR" gp="1" code="39">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Wingo-Reeves, C" shortname="Wingo-Reeves, C" checkname="WINGO-REEVES,C" uni="41" class="JR" gp="1" code="41"></player>
+  <player name="Shirley, T" shortname="Shirley, T" checkname="SHIRLEY,T" uni="42" class="SO" gp="1" code="42"></player>
+  <player name="Corney, T" shortname="Corney, T" checkname="CORNEY,T" uni="43" class="SR" gp="1" gs="1" dpos="DE" code="43">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Butts" shortname="Butts" checkname="BUTTS" uni="45" class="" gp="1" code="45">
+   <rcv no="1" yds="8" td="0" long="8"></rcv>
+  </player>
+  <player name="Croce, V" shortname="Croce, V" checkname="CROCE,V" uni="47" class="SR" gp="1" gs="1" opos="FB" code="47"></player>
+  <player name="Matteo, J" shortname="Matteo, J" checkname="MATTEO,J" uni="50" class="JR" gp="1" gs="1" opos="C" code="50"></player>
+  <player name="Bradshaw, Z" shortname="Bradshaw, Z" checkname="BRADSHAW,Z" uni="51" class="JR" gp="1" gs="1" dpos="WLB" code="51">
+   <defense tackua="6" tacka="4" tot_tack="10"></defense>
+  </player>
+  <player name="Kiser, M" shortname="Kiser, M" checkname="KISER,M" uni="53" class="SO" gp="1" gs="1" dpos="MLB" code="53">
+   <defense tackua="6" tacka="1" tot_tack="7" tflua="2" tfla="1" tflyds="14" sackua="1" sacka="0" sackyds="9"></defense>
+  </player>
+  <player name="Dean, D" shortname="Dean, D" checkname="DEAN,D" uni="55" class="SR" gp="1" gs="1" dpos="DT" code="55">
+   <defense tackua="0" tacka="2" tot_tack="2" tflua="0" tfla="1" tflyds="2" sackua="0" sacka="1" sackyds="2"></defense>
+  </player>
+  <player name="Miles-Redmond,A" shortname="Miles-Redmond,A" checkname="MILES-REDMOND,A" uni="56" class="JR" gp="1" code="56"></player>
+  <player name="Hall, M" shortname="Hall, M" checkname="HALL,M" uni="59" class="JR" gp="1" code="59">
+   <defense tackua="1" tacka="3" tot_tack="4"></defense>
+  </player>
+  <player name="Pond, J" shortname="Pond, J" checkname="POND,J" uni="60" class="SR" gp="1" code="60"></player>
+  <player name="Karl, S" shortname="Karl, S" checkname="KARL,S" uni="62" class="JR" gp="1" gs="1" opos="LG" code="62"></player>
+  <player name="Burbank, R" shortname="Burbank, R" checkname="BURBANK,R" uni="65" class="SR" gp="1" gs="1" opos="RG" code="65"></player>
+  <player name="English, J" shortname="English, J" checkname="ENGLISH,J" uni="67" class="SO" gp="1" code="67"></player>
+  <player name="McDonald, J" shortname="McDonald, J" checkname="MCDONALD,J" uni="71" class="SO" gp="1" code="71"></player>
+  <player name="Smith, E" shortname="Smith, E" checkname="SMITH,E" uni="72" class="JR" gp="1" gs="1" opos="RT" code="72">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Mooney, M" shortname="Mooney, M" checkname="MOONEY,M" uni="76" class="JR" gp="1" gs="1" opos="LT" code="76"></player>
+  <player name="Eldridge, D" shortname="Eldridge, D" checkname="ELDRIDGE,D" uni="82" class="FR" gp="1" code="82"></player>
+  <player name="Johnson, K" shortname="Johnson, K" checkname="JOHNSON,K" uni="85" class="JR" gp="1" code="85">
+   <rcv no="1" yds="23" td="0" long="23"></rcv>
+  </player>
+  <player name="Hopkins, C" shortname="Hopkins, C" checkname="HOPKINS,C" uni="86" class="SR" gp="1" gs="1" opos="TE" code="86">
+   <rcv no="1" yds="14" td="0" long="14"></rcv>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Santoro, R" shortname="Santoro, R" checkname="SANTORO,R" uni="88" class="SO" gp="1" code="88"></player>
+  <player name="Burns, R" shortname="Burns, R" checkname="BURNS,R" uni="89" class="SR" gp="1" code="89"></player>
+  <player name="Sims, D" shortname="Sims, D" checkname="SIMS,D" uni="91" class="JR" gp="1" code="91">
+   <ko no="3" yds="185" ob="0" tb="1"></ko>
+  </player>
+  <player name="Wilkins, D" shortname="Wilkins, D" checkname="WILKINS,D" uni="93" class="JR" gp="1" code="93">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+ </team>
+ <scores>
+  <score vh="V" team="BOISE" qtr="1" clock="14:46" type="TD" how="INT" yds="21" scorer="TAIMATUIA, J." patby="RAUSA, Tyler" pattype="KICK" patres="GOOD" vscore="7" hscore="0" driveindex="2"></score>
+  <score vh="V" team="BOISE" qtr="1" clock="10:16" type="TD" how="RUSH" yds="2" scorer="McNICHOLS, J." patby="RAUSA, Tyler" pattype="KICK" patres="GOOD" plays="6" drive="80" top="2:32" vscore="14" hscore="0" driveindex="4"></score>
+  <score vh="V" team="BOISE" qtr="1" clock="07:53" type="FG" yds="51" scorer="RAUSA, Tyler" plays="4" drive="-5" top="0:55" vscore="17" hscore="0" driveindex="6"></score>
+  <score vh="H" team="VA" qtr="1" clock="06:51" type="TD" how="PASS" yds="75" scorer="Thorpe, T.J." passer="Johns, M" patby="Frye, I" pattype="KICK" patres="GOOD" plays="3" drive="75" top="1:02" vscore="17" hscore="7" driveindex="7"></score>
+  <score vh="V" team="BOISE" qtr="2" clock="08:26" type="TD" how="PASS" yds="10" scorer="McNICHOLS, J." passer="RYPIEN, Brett" patby="RAUSA, Tyler" pattype="KICK" patres="GOOD" plays="6" drive="69" top="2:23" vscore="24" hscore="7" driveindex="14"></score>
+  <score vh="V" team="BOISE" qtr="2" clock="07:36" type="SAF" yds="10" scorer="TEAM" vscore="26" hscore="7" driveindex="15"></score>
+  <score vh="V" team="BOISE" qtr="2" clock="05:11" type="FG" yds="30" scorer="RAUSA, Tyler" plays="6" drive="37" top="2:25" vscore="29" hscore="7" driveindex="17"></score>
+  <score vh="H" team="VA" qtr="2" clock="03:09" type="TD" how="PASS" yds="45" scorer="Mizzell, T" passer="Johns, M" patby="Frye, I" pattype="KICK" patres="GOOD" plays="4" drive="65" top="2:02" vscore="29" hscore="14" driveindex="18"></score>
+  <score vh="V" team="BOISE" qtr="3" clock="10:19" type="FG" yds="39" scorer="RAUSA, Tyler" plays="14" drive="53" top="4:41" vscore="32" hscore="14" driveindex="21"></score>
+  <score vh="V" team="BOISE" qtr="3" clock="08:01" type="TD" how="PASS" yds="30" scorer="SPERBECK, T." passer="RYPIEN, Brett" patby="RAUSA, Tyler" pattype="KICK" patres="GOOD" plays="1" drive="30" top="0:06" vscore="39" hscore="14" driveindex="23"></score>
+  <score vh="V" team="BOISE" qtr="3" clock="03:00" type="TD" how="INT" yds="25" scorer="MASTON, Mercy" patby="RAUSA, Tyler" pattype="KICK" patres="GOOD" vscore="46" hscore="14" driveindex="27"></score>
+  <score vh="V" team="BOISE" qtr="4" clock="13:26" type="FG" yds="45" scorer="RAUSA, Tyler" plays="5" drive="9" top="2:00" vscore="49" hscore="14" driveindex="29"></score>
+  <score vh="V" team="BOISE" qtr="4" clock="10:26" type="TD" how="PASS" yds="64" scorer="SPERBECK, T." passer="RYPIEN, Brett" patby="RAUSA, Tyler" pattype="KICK" patres="GOOD" plays="3" drive="71" top="1:21" vscore="56" hscore="14" driveindex="31"></score>
+ </scores>
+ <fgas>
+  <fga vh="V" team="BOISE" kicker="RAUSA, Tyler" qtr="1" clock="07:53" distance="51" result="good"></fga>
+  <fga vh="V" team="BOISE" kicker="RAUSA, Tyler" qtr="1" clock="02:03" distance="54" result="missed"></fga>
+  <fga vh="H" team="VA" kicker="Frye, I" qtr="2" clock="10:49" distance="48" result="missed"></fga>
+  <fga vh="V" team="BOISE" kicker="RAUSA, Tyler" qtr="2" clock="05:11" distance="30" result="good"></fga>
+  <fga vh="V" team="BOISE" kicker="RAUSA, Tyler" qtr="3" clock="10:19" distance="39" result="good"></fga>
+  <fga vh="V" team="BOISE" kicker="RAUSA, Tyler" qtr="4" clock="13:26" distance="45" result="good"></fga>
+ </fgas>
+ <drives>
+  <drive vh="H" team="VA" start="KO,1,15:00,27" end="INT,1,14:46,27" plays="1" yards="0" top="0:14" start_how="KO" start_qtr="1" start_time="15:00" start_spot="VA27" end_how="INT" end_qtr="1" end_time="14:46" end_spot="VA27" driveindex="1"></drive>
+  <drive vh="V" team="BOISE" start="INT,1,14:46,100" end="TD,1,14:46,100" plays="0" yards="0" top="0:00" start_how="INT" start_qtr="1" start_time="14:46" start_spot="VA00" end_how="TD" end_qtr="1" end_time="14:46" end_spot="VA00" driveindex="2"></drive>
+  <drive vh="H" team="VA" start="KO,1,14:46,20" end="PUNT,1,12:48,29" plays="3" yards="9" top="1:58" start_how="KO" start_qtr="1" start_time="14:46" start_spot="VA20" end_how="PUNT" end_qtr="1" end_time="12:48" end_spot="VA29" driveindex="3"></drive>
+  <drive vh="V" team="BOISE" start="PUNT,1,12:48,20" end="TD,1,10:16,100" plays="6" yards="80" top="2:32" start_how="PUNT" start_qtr="1" start_time="12:48" start_spot="BOISE20" end_how="TD" end_qtr="1" end_time="10:16" end_spot="VA00" rz="1" driveindex="4"></drive>
+  <drive vh="H" team="VA" start="KO,1,10:16,25" end="INT,1,08:48,22" plays="3" yards="-3" top="1:28" start_how="KO" start_qtr="1" start_time="10:16" start_spot="VA25" end_how="INT" end_qtr="1" end_time="08:48" end_spot="VA22" driveindex="5"></drive>
+  <drive vh="V" team="BOISE" start="INT,1,08:48,71" end="FG,1,07:53,66" plays="4" yards="-5" top="0:55" start_how="INT" start_qtr="1" start_time="08:48" start_spot="VA29" end_how="FG" end_qtr="1" end_time="07:53" end_spot="VA34" driveindex="6"></drive>
+  <drive vh="H" team="VA" start="KO,1,07:53,25" end="TD,1,06:51,100" plays="3" yards="75" top="1:02" start_how="KO" start_qtr="1" start_time="07:53" start_spot="VA25" end_how="TD" end_qtr="1" end_time="06:51" end_spot="BOISE00" driveindex="7"></drive>
+  <drive vh="V" team="BOISE" start="KO,1,06:51,18" end="PUNT,1,05:19,9" plays="3" yards="-9" top="1:32" start_how="KO" start_qtr="1" start_time="06:51" start_spot="BOISE18" end_how="PUNT" end_qtr="1" end_time="05:19" end_spot="BOISE09" driveindex="8"></drive>
+  <drive vh="H" team="VA" start="PUNT,1,05:19,58" end="PUNT,1,04:22,57" plays="3" yards="-1" top="0:57" start_how="PUNT" start_qtr="1" start_time="05:19" start_spot="BOISE42" end_how="PUNT" end_qtr="1" end_time="04:22" end_spot="BOISE43" driveindex="9"></drive>
+  <drive vh="V" team="BOISE" start="PUNT,1,04:22,13" end="FGA,1,02:03,63" plays="7" yards="50" top="2:19" start_how="PUNT" start_qtr="1" start_time="04:22" start_spot="BOISE13" end_how="FGA" end_qtr="1" end_time="02:03" end_spot="VA37" driveindex="10"></drive>
+  <drive vh="H" team="VA" start="FGA,1,02:03,37" end="PUNT,1,00:45,42" plays="3" yards="5" top="1:18" start_how="FGA" start_qtr="1" start_time="02:03" start_spot="VA37" end_how="PUNT" end_qtr="1" end_time="00:45" end_spot="VA42" driveindex="11"></drive>
+  <drive vh="V" team="BOISE" start="PUNT,1,00:45,20" end="PUNT,2,14:50,24" plays="3" yards="4" top="0:55" start_how="PUNT" start_qtr="1" start_time="00:45" start_spot="BOISE20" end_how="PUNT" end_qtr="2" end_time="14:50" end_spot="BOISE24" driveindex="12"></drive>
+  <drive vh="H" team="VA" start="PUNT,2,14:50,24" end="FGA,2,10:49,69" plays="8" yards="45" top="4:01" start_how="PUNT" start_qtr="2" start_time="14:50" start_spot="VA24" end_how="FGA" end_qtr="2" end_time="10:49" end_spot="BOISE31" driveindex="13"></drive>
+  <drive vh="V" team="BOISE" start="FGA,2,10:49,31" end="TD,2,08:26,100" plays="6" yards="69" top="2:23" start_how="FGA" start_qtr="2" start_time="10:49" start_spot="BOISE31" end_how="TD" end_qtr="2" end_time="08:26" end_spot="VA00" rz="1" driveindex="14"></drive>
+  <drive vh="H" team="VA" start="KO,2,08:26,10" end="SAF,2,07:36,0" plays="2" yards="-10" top="0:50" start_how="KO" start_qtr="2" start_time="08:26" start_spot="VA10" end_how="SAF" end_qtr="2" end_time="07:36" end_spot="VA00" driveindex="15"></drive>
+  <drive vh="V" team="BOISE" start="KO,2,07:36,50" end="POSS,2,07:36,50" plays="0" yards="0" top="0:00" start_how="KO" start_qtr="2" start_time="07:36" start_spot="BOISE50" end_how="POSS" end_qtr="2" end_time="07:36" end_spot="BOISE50" driveindex="16"></drive>
+  <drive vh="V" team="BOISE" start="POSS,2,07:36,50" end="FG,2,05:11,87" plays="6" yards="37" top="2:25" start_how="POSS" start_qtr="2" start_time="07:36" start_spot="BOISE50" end_how="FG" end_qtr="2" end_time="05:11" end_spot="VA13" rz="1" driveindex="17"></drive>
+  <drive vh="H" team="VA" start="KO,2,05:11,35" end="TD,2,03:09,100" plays="4" yards="65" top="2:02" start_how="KO" start_qtr="2" start_time="05:11" start_spot="VA35" end_how="TD" end_qtr="2" end_time="03:09" end_spot="BOISE00" driveindex="18"></drive>
+  <drive vh="V" team="BOISE" start="KO,2,03:09,26" end="PUNT,2,02:01,29" plays="3" yards="3" top="1:08" start_how="KO" start_qtr="2" start_time="03:09" start_spot="BOISE26" end_how="PUNT" end_qtr="2" end_time="02:01" end_spot="BOISE29" driveindex="19"></drive>
+  <drive vh="H" team="VA" start="PUNT,2,02:01,28" end="HALF,2,00:00,34" plays="6" yards="6" top="2:01" start_how="PUNT" start_qtr="2" start_time="02:01" start_spot="VA28" end_how="HALF" end_qtr="2" end_time="00:00" end_spot="VA34" driveindex="20"></drive>
+  <drive vh="V" team="BOISE" start="KO,3,15:00,25" end="FG,3,10:19,78" plays="14" yards="53" top="4:41" start_how="KO" start_qtr="3" start_time="15:00" start_spot="BOISE25" end_how="FG" end_qtr="3" end_time="10:19" end_spot="VA22" driveindex="21"></drive>
+  <drive vh="H" team="VA" start="KO,3,10:19,21" end="FUMB,3,08:07,40" plays="5" yards="19" top="2:12" start_how="KO" start_qtr="3" start_time="10:19" start_spot="VA21" end_how="FUMB" end_qtr="3" end_time="08:07" end_spot="VA40" driveindex="22"></drive>
+  <drive vh="V" team="BOISE" start="FUMB,3,08:07,70" end="TD,3,08:01,100" plays="1" yards="30" top="0:06" start_how="FUMB" start_qtr="3" start_time="08:07" start_spot="VA30" end_how="TD" end_qtr="3" end_time="08:01" end_spot="VA00" driveindex="23"></drive>
+  <drive vh="H" team="VA" start="KO,3,08:01,60" end="DOWNS,3,06:08,62" plays="4" yards="2" top="1:53" start_how="KO" start_qtr="3" start_time="08:01" start_spot="BOISE40" end_how="DOWNS" end_qtr="3" end_time="06:08" end_spot="BOISE38" driveindex="24"></drive>
+  <drive vh="V" team="BOISE" start="DOWNS,3,06:08,38" end="PUNT,3,03:54,35" plays="6" yards="-3" top="2:14" start_how="DOWNS" start_qtr="3" start_time="06:08" start_spot="BOISE38" end_how="PUNT" end_qtr="3" end_time="03:54" end_spot="BOISE35" driveindex="25"></drive>
+  <drive vh="H" team="VA" start="PUNT,3,03:54,25" end="INT,3,03:00,20" plays="2" yards="-5" top="0:54" start_how="PUNT" start_qtr="3" start_time="03:54" start_spot="VA25" end_how="INT" end_qtr="3" end_time="03:00" end_spot="VA20" driveindex="26"></drive>
+  <drive vh="V" team="BOISE" start="INT,3,03:00,100" end="TD,3,03:00,100" plays="0" yards="0" top="0:00" start_how="INT" start_qtr="3" start_time="03:00" start_spot="VA00" end_how="TD" end_qtr="3" end_time="03:00" end_spot="VA00" driveindex="27"></drive>
+  <drive vh="H" team="VA" start="KO,3,03:00,18" end="INT,3,00:26,29" plays="5" yards="11" top="2:34" start_how="KO" start_qtr="3" start_time="03:00" start_spot="VA18" end_how="INT" end_qtr="3" end_time="00:26" end_spot="VA29" driveindex="28"></drive>
+  <drive vh="V" team="BOISE" start="INT,3,00:26,63" end="FG,4,13:26,72" plays="5" yards="9" top="2:00" start_how="INT" start_qtr="3" start_time="00:26" start_spot="VA37" end_how="FG" end_qtr="4" end_time="13:26" end_spot="VA28" rz="1" driveindex="29"></drive>
+  <drive vh="H" team="VA" start="KO,4,13:26,18" end="PUNT,4,11:47,22" plays="3" yards="4" top="1:39" start_how="KO" start_qtr="4" start_time="13:26" start_spot="VA18" end_how="PUNT" end_qtr="4" end_time="11:47" end_spot="VA22" driveindex="30"></drive>
+  <drive vh="V" team="BOISE" start="PUNT,4,11:47,29" end="TD,4,10:26,100" plays="3" yards="71" top="1:21" start_how="PUNT" start_qtr="4" start_time="11:47" start_spot="BOISE29" end_how="TD" end_qtr="4" end_time="10:26" end_spot="VA00" driveindex="31"></drive>
+  <drive vh="H" team="VA" start="KO,4,10:26,22" end="PUNT,4,08:15,23" plays="3" yards="1" top="2:11" start_how="KO" start_qtr="4" start_time="10:26" start_spot="VA22" end_how="PUNT" end_qtr="4" end_time="08:15" end_spot="VA23" driveindex="32"></drive>
+  <drive vh="V" team="BOISE" start="PUNT,4,08:15,41" end="DOWNS,4,05:42,86" plays="5" yards="45" top="2:33" start_how="PUNT" start_qtr="4" start_time="08:15" start_spot="BOISE41" end_how="DOWNS" end_qtr="4" end_time="05:42" end_spot="VA14" rz="1" driveindex="33"></drive>
+  <drive vh="H" team="VA" start="DOWNS,4,05:42,14" end="PUNT,4,01:01,34" plays="9" yards="20" top="4:41" start_how="DOWNS" start_qtr="4" start_time="05:42" start_spot="VA14" end_how="PUNT" end_qtr="4" end_time="01:01" end_spot="VA34" driveindex="34"></drive>
+  <drive vh="V" team="BOISE" start="PUNT,4,01:01,35" end="HALF,4,00:00,33" plays="2" yards="-2" top="1:01" start_how="PUNT" start_qtr="4" start_time="01:01" start_spot="BOISE35" end_how="HALF" end_qtr="4" end_time="00:00" end_spot="BOISE33" driveindex="35"></drive>
+ </drives>
+ <plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE35" context="V,1,10,V35" playid="0,1,0" tokens="CMT:Boise State wins toss, defers."
+      text="Boise State wins toss, defers." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE35" context="V,1,10,V35" playid="0,2,1" tokens="SPOT:V,V35,N"
+      text="BOISE ball on BOISE35." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE35" context="V,1,10,V35" playid="0,3,2" type="#" clock="15:00" tokens="T:15:00"
+      text="Clock 15:00." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE35" context="V,1,10,V35" playid="0,4,3" type="K" tokens="KO:49,H00 RET:33,H27 OB: TACK:3"
+      text="RAUSA, Tyler kickoff 65 yards to the VA0, Zaccheaus, O return 27 yards to the VA27, out-of-bounds (JAMES, C.)." ob="Y" newcontext="H,1,10,H27">
+    <p_ko vh="V" name="RAUSA, Tyler" gain="65"></p_ko>
+    <p_kr vh="H" name="Zaccheaus, O" gain="27"></p_kr>
+    <p_tk vh="V" name="JAMES, C."></p_tk>
+   </play>
+   <drivestart poss="H,H27,15:00" vh="H" spot="H27" clock="15:00" driveindex="1,3"></drivestart>
+   <play hasball="VA" down="1" togo="10" spot="VA27" context="H,1,10,H27" playid="1,1,4" type="P" score="Y" vscore="6" hscore="0" turnover="I" clock="14:46" tokens="PASS:15,X,90,H21 RET:90,H00 T:14:46"
+      text="Johns, M pass intercepted by TAIMATUIA, J. at the VA21, TAIMATUIA, J. return 21 yards to the VA0, TOUCHDOWN, clock 14:46." newcontext="V,1,0,H03">
+    <p_pa vh="H" qb="Johns, M" result="INT"></p_pa>
+    <p_ir vh="V" name="TAIMATUIA, J." at="H21" gain="21"></p_ir>
+   </play>
+   <drivesum plays="1" yards="0" top="0:14" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="V,H03,14:46" vh="V" spot="H03" clock="14:46" driveindex="2,4"></drivestart>
+   <play hasball="BOISE" down="1" togo="0" spot="VA03" context="V,1,0,H03" playid="2,1,5" type="X" score="Y" vscore="7" hscore="0" tokens="PAT:K,49,G"
+      text="RAUSA, Tyler kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="RAUSA, Tyler" qb="RAUSA, Tyler" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="0"></score>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="2" complete="Y"></drivesum>
+   <play hasball="BOISE" down="1" togo="0" spot="BOISE35" context="V,1,0,V35" playid="2,2,6" type="K" tokens="KO:49,H00 RET:33,H20 TACK:44,31"
+      text="RAUSA, Tyler kickoff 65 yards to the VA0, Zaccheaus, O return 20 yards to the VA20 (LEE, Darren;SEIBOLD, Skyler)." newcontext="H,1,10,H20">
+    <p_ko vh="V" name="RAUSA, Tyler" gain="65"></p_ko>
+    <p_kr vh="H" name="Zaccheaus, O" gain="20"></p_kr>
+    <p_tk vh="V" name="LEE, Darren" assist="Y"></p_tk>
+    <p_tk vh="V" name="SEIBOLD, Skyler" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H20,14:46" vh="H" spot="H20" clock="14:46" driveindex="3,6"></drivestart>
+   <play hasball="VA" down="1" togo="10" spot="VA20" context="H,1,10,H20" playid="3,1,7" clock="14:46" tokens="{DRIVE}:14:46"
+      text="VIRGINIA drive start at 14:46." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="VA" down="1" togo="10" spot="VA20" context="H,1,10,H20" playid="3,2,8" type="R" tokens="RUSH:4,H20, TACK:20,36"
+      text="Mizzell, T rush for no gain to the VA20 (VALLEJO, Tanner;GRAY, Tyler)." newcontext="H,2,10,H20">
+    <p_ru vh="H" name="Mizzell, T" gain="0"></p_ru>
+    <p_tk vh="V" name="VALLEJO, Tanner" assist="Y"></p_tk>
+    <p_tk vh="V" name="GRAY, Tyler" assist="Y"></p_tk>
+   </play>
+   <play hasball="VA" down="2" togo="10" spot="VA20" context="H,2,10,H20" playid="3,3,9" type="P" tokens="PASS:15,I,9S,*"
+      text="Johns, M pass incomplete to Severin, C." newcontext="H,3,10,H20">
+    <p_pa vh="H" qb="Johns, M" result="INC" rcv="Severin, C"></p_pa>
+   </play>
+   <play hasball="VA" down="3" togo="10" spot="VA20" context="H,3,10,H20" playid="3,4,10" type="R" tokens="RUSH:15,H29, TACK:51"
+      text="Johns, M rush for 9 yards to the VA29 (WEAVER, Ben)." newcontext="H,4,1,H29">
+    <p_ru vh="H" name="Johns, M" gain="9"></p_ru>
+    <p_tk vh="V" name="WEAVER, Ben"></p_tk>
+   </play>
+   <play hasball="VA" down="4" togo="1" spot="VA29" context="H,4,1,H29" playid="3,5,11" type="#" clock="12:57" tokens="TOUT:H T:12:57"
+      text="Timeout Virginia, clock 12:57." newcontext="H,4,1,H29">
+    <p_to vh="H" team="Virginia"></p_to>
+   </play>
+   <comment text="Replay confirmed on spot of ball"></comment>
+   <play hasball="VA" down="4" togo="1" spot="VA29" context="H,4,1,H29" playid="3,6,13" type="U" tokens="PUNT:18,V20 RET:5,V20 TACK:28"
+      text="Conte, N punt 51 yards to the BOISE20, DEAYON, Donte return 0 yards to the BOISE20 (Wahee, W)." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="Conte, N" gain="51"></p_pu>
+    <p_pr vh="V" name="DEAYON, Donte" gain="0"></p_pr>
+    <p_tk vh="H" name="Wahee, W"></p_tk>
+   </play>
+   <drivesum plays="3" yards="9" top="1:58" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="V,V20,12:48" vh="V" spot="V20" clock="12:48" driveindex="4,13"></drivestart>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE20" context="V,1,10,V20" playid="4,1,14" clock="12:48" tokens="{DRIVE}:12:48"
+      text="BOISE STATE drive start at 12:48." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE20" context="V,1,10,V20" playid="4,2,15" type="P" tokens="PASS:0D,C,6,V28 TACK:51"
+      text="RYPIEN, Brett pass complete to ANDERSON, Chaz for 8 yards to the BOISE28 (Bradshaw, Z)." newcontext="V,2,2,V28">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="COMP" rcv="ANDERSON, Chaz" gain="8"></p_pa>
+    <p_tk vh="H" name="Bradshaw, Z"></p_tk>
+   </play>
+   <play hasball="BOISE" down="2" togo="2" spot="BOISE28" context="V,2,2,V28" playid="4,3,16" type="P" tokens="PASS:0D,C,1,V29 TACK:38"
+      text="RYPIEN, Brett pass complete to WILLIAMS-RHODES for 1 yard to the BOISE29 (Rainey, K)." newcontext="V,3,1,V29">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="COMP" rcv="WILLIAMS-RHODES" gain="1"></p_pa>
+    <p_tk vh="H" name="Rainey, K"></p_tk>
+   </play>
+   <play hasball="BOISE" down="3" togo="1" spot="BOISE29" context="V,3,1,V29" playid="4,4,17" type="R" first="R" tokens="RUSH:13,H24, OB: TACK:26"
+      text="McNICHOLS, J. rush for 47 yards to the VA24, 1ST DOWN BOISE, out-of-bounds (Canady, M)." ob="Y" newcontext="V,1,10,H24">
+    <p_ru vh="V" name="McNICHOLS, J." gain="47"></p_ru>
+    <p_tk vh="H" name="Canady, M"></p_tk>
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="VA24" context="V,1,10,H24" playid="4,5,18" type="P" first="P" tokens="PASS:0D,C,1,H04 TACK:38"
+      text="RYPIEN, Brett pass complete to WILLIAMS-RHODES for 20 yards to the VA4, 1ST DOWN BOISE (Rainey, K)." newcontext="V,1,0,H04">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="COMP" rcv="WILLIAMS-RHODES" gain="20"></p_pa>
+    <p_tk vh="H" name="Rainey, K"></p_tk>
+   </play>
+   <play hasball="BOISE" down="1" togo="0" spot="VA04" context="V,1,0,H04" playid="4,6,19" type="R" tokens="RUSH:13,H02, TACK:51"
+      text="McNICHOLS, J. rush for 2 yards to the VA2 (Bradshaw, Z)." newcontext="V,2,0,H02">
+    <p_ru vh="V" name="McNICHOLS, J." gain="2"></p_ru>
+    <p_tk vh="H" name="Bradshaw, Z"></p_tk>
+   </play>
+   <play hasball="BOISE" down="2" togo="0" spot="VA02" context="V,2,0,H02" playid="4,7,20" type="R" score="Y" vscore="13" hscore="0" clock="10:16" tokens="RUSH:13,H00, T:10:16"
+      text="McNICHOLS, J. rush for 2 yards to the VA0, TOUCHDOWN, clock 10:16." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="McNICHOLS, J." gain="2"></p_ru>
+   </play>
+   <play hasball="BOISE" down="1" togo="0" spot="VA03" context="V,1,0,H03" playid="4,8,21" type="X" score="Y" vscore="14" hscore="0" tokens="PAT:K,49,G"
+      text="RAUSA, Tyler kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="RAUSA, Tyler" qb="RAUSA, Tyler" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="0"></score>
+   <drivesum plays="6" yards="80" top="2:32" driveindex="4" complete="Y"></drivesum>
+   <play hasball="BOISE" down="1" togo="0" spot="BOISE35" context="V,1,0,V35" playid="4,9,22" type="K" tokens="KO:49,H00 TB:"
+      text="RAUSA, Tyler kickoff 65 yards to the VA0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="RAUSA, Tyler" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,10:16" vh="H" spot="H25" clock="10:16" driveindex="5,22"></drivestart>
+   <play hasball="VA" down="1" togo="10" spot="VA25" context="H,1,10,H25" playid="5,1,23" clock="10:16" tokens="{DRIVE}:10:16"
+      text="VIRGINIA drive start at 10:16." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="VA" down="1" togo="10" spot="VA25" context="H,1,10,H25" playid="5,2,24" type="R" tokens="RUSH:4,H27, TACK:51"
+      text="Mizzell, T rush for 2 yards to the VA27 (WEAVER, Ben)." newcontext="H,2,8,H27">
+    <p_ru vh="H" name="Mizzell, T" gain="2"></p_ru>
+    <p_tk vh="V" name="WEAVER, Ben"></p_tk>
+   </play>
+   <play hasball="VA" down="2" togo="8" spot="VA27" context="H,2,8,H27" playid="5,3,25" type="R" tokens="RUSH:4,H22, TACK:4,36"
+      text="Mizzell, T rush for loss of 5 yards to the VA22 (THOMPSON, D.;GRAY, Tyler)." newcontext="H,3,13,H22">
+    <p_ru vh="H" name="Mizzell, T" gain="-5"></p_ru>
+    <p_tk vh="V" name="THOMPSON, D." assist="Y"></p_tk>
+    <p_tk vh="V" name="GRAY, Tyler" assist="Y"></p_tk>
+   </play>
+   <play hasball="VA" down="3" togo="13" spot="VA22" context="H,3,13,H22" playid="5,4,26" type="P" turnover="I" tokens="PASS:15,X,4,H48 RET:4,H29 TACK:72"
+      text="Johns, M pass intercepted by THOMPSON, D. at the VA48, THOMPSON, D. return 19 yards to the VA29 (Smith, E)." newcontext="V,1,10,H29">
+    <p_pa vh="H" qb="Johns, M" result="INT"></p_pa>
+    <p_ir vh="V" name="THOMPSON, D." at="H48" gain="19"></p_ir>
+    <p_tk vh="H" name="Smith, E"></p_tk>
+   </play>
+   <drivesum plays="3" yards="-3" top="1:28" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="V,H29,08:48" vh="V" spot="H29" clock="08:48" driveindex="6,26"></drivestart>
+   <play hasball="BOISE" down="1" togo="10" spot="VA29" context="V,1,10,H29" playid="6,1,27" clock="08:48" tokens="{DRIVE}:08:48"
+      text="BOISE STATE drive start at 08:48." newcontext="V,1,10,H29">
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="VA29" context="V,1,10,H29" playid="6,2,28" type="P" tokens="PASS:0D,I,1,*"
+      text="RYPIEN, Brett pass incomplete to WILLIAMS-RHODES." newcontext="V,2,10,H29">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="INC" rcv="WILLIAMS-RHODES"></p_pa>
+   </play>
+   <play hasball="BOISE" down="2" togo="10" spot="VA29" context="V,2,10,H29" playid="6,3,29" type="P" tokens="PASS:82,I,85,*"
+      text="SPERBECK, T. pass incomplete to HUFF, Holden." newcontext="V,3,10,H29">
+    <p_pa vh="V" qb="SPERBECK, T." result="INC" rcv="HUFF, Holden"></p_pa>
+   </play>
+   <play hasball="BOISE" down="3" togo="10" spot="VA29" context="V,3,10,H29" playid="6,4,30" type="P" tokens="PASS:0D,F,TM,H34 SACK:32,55 FUMB:V,H34,0D"
+      text="RYPIEN, Brett sacked for loss of 5 yards to the VA34 (Moore, M;Dean, D), fumble by RYPIEN, Brett recovered by BOISE RYPIEN, Brett at VA34." newcontext="V,4,15,H34">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="FUMB" gain="-5"></p_pa>
+    <p_fumb vh="V" name="RYPIEN, Brett" at="H34" frvh="V" frname="RYPIEN, Brett"></p_fumb>
+    <p_tk vh="H" name="Moore, M" sack="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Dean, D" sack="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="BOISE" down="4" togo="15" spot="VA34" context="V,4,15,H34" playid="6,5,31" type="F" score="Y" vscore="17" hscore="0" clock="07:53" tokens="FGA:49,51,G T:07:53"
+      text="RAUSA, Tyler field goal attempt from 51 GOOD, clock 07:53." newcontext="V,1,0,V35">
+    <p_fg vh="V" name="RAUSA, Tyler" distance="51" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="17" H="0"></score>
+   <drivesum plays="4" yards="-5" top="0:55" driveindex="6" complete="Y"></drivesum>
+   <play hasball="BOISE" down="1" togo="0" spot="BOISE35" context="V,1,0,V35" playid="6,6,32" type="K" tokens="KO:49,H00 TB:"
+      text="RAUSA, Tyler kickoff 65 yards to the VA0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="RAUSA, Tyler" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,07:53" vh="H" spot="H25" clock="07:53" driveindex="7,32"></drivestart>
+   <play hasball="VA" down="1" togo="10" spot="VA25" context="H,1,10,H25" playid="7,1,33" clock="07:53" tokens="{DRIVE}:07:53"
+      text="VIRGINIA drive start at 07:53." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="VA" down="1" togo="10" spot="VA25" context="H,1,10,H25" playid="7,2,34" type="P" tokens="PASS:15,I,8,*"
+      text="Johns, M pass incomplete to Thorpe, T.J.." newcontext="H,2,10,H25">
+    <p_pa vh="H" qb="Johns, M" result="INC" rcv="Thorpe, T.J."></p_pa>
+   </play>
+   <play hasball="VA" down="2" togo="10" spot="VA25" context="H,2,10,H25" playid="7,3,35" type="R" tokens="RUSH:4,H25, TACK:40,51"
+      text="Mizzell, T rush for no gain to the VA25 (NANCE, Armand;WEAVER, Ben)." newcontext="H,3,10,H25">
+    <p_ru vh="H" name="Mizzell, T" gain="0"></p_ru>
+    <p_tk vh="V" name="NANCE, Armand" assist="Y"></p_tk>
+    <p_tk vh="V" name="WEAVER, Ben" assist="Y"></p_tk>
+   </play>
+   <play hasball="VA" down="3" togo="10" spot="VA25" context="H,3,10,H25" playid="7,4,36" type="P" first="P" score="Y" vscore="17" hscore="6" clock="06:51" tokens="PASS:15,C,8,V00 T:06:51"
+      text="Johns, M pass complete to Thorpe, T.J. for 75 yards to the BOISE0, 1ST DOWN VA, TOUCHDOWN, clock 06:51." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Johns, M" result="COMP" rcv="Thorpe, T.J." gain="75"></p_pa>
+   </play>
+   <comment text="Unsportsmanlike conduct calls against VA No. 8 and BSU No. 51."></comment>
+   <comment text="Touchdown reviewed, play stands."></comment>
+   <play hasball="VA" down="1" togo="0" spot="BOISE03" context="H,1,0,V03" playid="7,5,39" type="X" score="Y" vscore="17" hscore="7" tokens="PAT:K,1F,G"
+      text="Frye, I kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Frye, I" qb="Frye, I" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="17" H="7"></score>
+   <drivesum plays="3" yards="75" top="1:02" driveindex="7" complete="Y"></drivesum>
+   <play hasball="VA" down="1" togo="0" spot="VA35" context="H,1,0,H35" playid="7,6,40" type="K" tokens="KO:91,V10 RET:13,V18 TACK:16"
+      text="Sims, D kickoff 55 yards to the BOISE10, McNICHOLS, J. return 8 yards to the BOISE18 (Thomas, M)." newcontext="V,1,10,V18">
+    <p_ko vh="H" name="Sims, D" gain="55"></p_ko>
+    <p_kr vh="V" name="McNICHOLS, J." gain="8"></p_kr>
+    <p_tk vh="H" name="Thomas, M"></p_tk>
+   </play>
+   <drivestart poss="V,V18,06:51" vh="V" spot="V18" clock="06:51" driveindex="8,40"></drivestart>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE18" context="V,1,10,V18" playid="8,1,41" clock="06:51" tokens="{DRIVE}:06:51"
+      text="BOISE STATE drive start at 06:51." newcontext="V,1,10,V18">
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE18" context="V,1,10,V18" playid="8,2,42" type="R" tokens="RUSH:26,V14, TACK:53,32"
+      text="DEMAS, Devan rush for loss of 4 yards to the BOISE14 (Kiser, M;Moore, M)." newcontext="V,2,14,V14">
+    <p_ru vh="V" name="DEMAS, Devan" gain="-4"></p_ru>
+    <p_tk vh="H" name="Kiser, M" assist="Y"></p_tk>
+    <p_tk vh="H" name="Moore, M" assist="Y"></p_tk>
+   </play>
+   <play hasball="BOISE" down="2" togo="14" spot="BOISE14" context="V,2,14,V14" playid="8,3,43" type="P" tokens="PASS:0D,I,6,*"
+      text="RYPIEN, Brett pass incomplete to ANDERSON, Chaz." newcontext="V,3,14,V14">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="INC" rcv="ANDERSON, Chaz"></p_pa>
+   </play>
+   <play hasball="BOISE" down="3" togo="14" spot="BOISE14" context="V,3,14,V14" playid="8,4,44" type="E" tokens="PEN:V,FS,A,73,V09,N"
+      text="PENALTY BOISE false start (AVERILL, Travis) 5 yards to the BOISE9." newcontext="V,3,19,V09">
+    <p_pn vh="V" code="FS" type="false start" name="AVERILL, Travis" result="ACCEPT" at="V14" yards="5"></p_pn>
+   </play>
+   <play hasball="BOISE" down="3" togo="19" spot="BOISE09" context="V,3,19,V09" playid="8,5,45" type="P" tokens="PASS:0D,C,1,V09 TACK:28"
+      text="RYPIEN, Brett pass complete to WILLIAMS-RHODES for no gain to the BOISE9 (Wahee, W)." newcontext="V,4,19,V09">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="COMP" rcv="WILLIAMS-RHODES" gain="0"></p_pa>
+    <p_tk vh="H" name="Wahee, W"></p_tk>
+   </play>
+   <play hasball="BOISE" down="4" togo="19" spot="BOISE09" context="V,4,19,V09" playid="8,6,46" type="U" tokens="PUNT:19,H40 RET:26,V42 TACK:31,29"
+      text="WALE, Sean punt 51 yards to the VA40, Canady, M return 18 yards to the BOISE42 (SEIBOLD, Skyler;SUMNER-GARDNER)." newcontext="H,1,10,V42">
+    <p_pu vh="V" name="WALE, Sean" gain="51"></p_pu>
+    <p_pr vh="H" name="Canady, M" gain="18"></p_pr>
+    <p_tk vh="V" name="SEIBOLD, Skyler" assist="Y"></p_tk>
+    <p_tk vh="V" name="SUMNER-GARDNER" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="-9" top="1:32" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="H,V42,05:19" vh="H" spot="V42" clock="05:19" driveindex="9,46"></drivestart>
+   <play hasball="VA" down="1" togo="10" spot="BOISE42" context="H,1,10,V42" playid="9,1,47" clock="05:19" tokens="{DRIVE}:05:19"
+      text="VIRGINIA drive start at 05:19." newcontext="H,1,10,V42">
+   </play>
+   <play hasball="VA" down="1" togo="10" spot="BOISE42" context="H,1,10,V42" playid="9,2,48" type="P" tokens="PASS:15,I,4,*"
+      text="Johns, M pass incomplete to Mizzell, T." newcontext="H,2,10,V42">
+    <p_pa vh="H" qb="Johns, M" result="INC" rcv="Mizzell, T"></p_pa>
+   </play>
+   <play hasball="VA" down="2" togo="10" spot="BOISE42" context="H,2,10,V42" playid="9,3,49" type="P" tokens="PASS:15,I,86,*"
+      text="Johns, M pass incomplete to Hopkins, C." newcontext="H,3,10,V42">
+    <p_pa vh="H" qb="Johns, M" result="INC" rcv="Hopkins, C"></p_pa>
+   </play>
+   <play hasball="VA" down="3" togo="10" spot="BOISE42" context="H,3,10,V42" playid="9,4,50" type="P" tokens="PASS:15,S,TM,V43 SACK:TM"
+      text="Johns, M sacked for loss of 1 yard to the BOISE43 (TEAM)." newcontext="H,4,11,V43">
+    <p_pa vh="H" qb="Johns, M" result="SACK" gain="-1"></p_pa>
+    <p_tk vh="V" name="TEAM" sack="Y"></p_tk>
+   </play>
+   <play hasball="VA" down="4" togo="11" spot="BOISE43" context="H,4,11,V43" playid="9,5,51" type="U" tokens="PUNT:18,V13 OB:"
+      text="Conte, N punt 30 yards to the BOISE13, out-of-bounds." ob="Y" newcontext="V,1,10,V13">
+    <p_pu vh="H" name="Conte, N" gain="30" in20="Y" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-1" top="0:57" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="V,V13,04:22" vh="V" spot="V13" clock="04:22" driveindex="10,51"></drivestart>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE13" context="V,1,10,V13" playid="10,1,52" clock="04:22" tokens="{DRIVE}:04:22"
+      text="BOISE STATE drive start at 04:22." newcontext="V,1,10,V13">
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE13" context="V,1,10,V13" playid="10,2,53" type="P" first="P" tokens="PASS:0D,C,82,V25 TACK:38"
+      text="RYPIEN, Brett pass complete to SPERBECK, T. for 12 yards to the BOISE25, 1ST DOWN BOISE (Rainey, K)." newcontext="V,1,10,V25">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="COMP" rcv="SPERBECK, T." gain="12"></p_pa>
+    <p_tk vh="H" name="Rainey, K"></p_tk>
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE25" context="V,1,10,V25" playid="10,3,54" type="R" tokens="RUSH:0D,V22, TACK:53"
+      text="RYPIEN, Brett rush for loss of 3 yards to the BOISE22 (Kiser, M)." newcontext="V,2,13,V22">
+    <p_ru vh="V" name="RYPIEN, Brett" gain="-3"></p_ru>
+    <p_tk vh="H" name="Kiser, M"></p_tk>
+   </play>
+   <play hasball="BOISE" down="2" togo="13" spot="BOISE22" context="V,2,13,V22" playid="10,4,55" type="P" first="P" tokens="PASS:0D,C,85,H31 TACK:26"
+      text="RYPIEN, Brett pass complete to HUFF, Holden for 47 yards to the VA31, 1ST DOWN BOISE (Canady, M)." newcontext="V,1,10,H31">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="COMP" rcv="HUFF, Holden" gain="47"></p_pa>
+    <p_tk vh="H" name="Canady, M"></p_tk>
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="VA31" context="V,1,10,H31" playid="10,5,56" type="R" tokens="RUSH:13,H27, TACK:53"
+      text="McNICHOLS, J. rush for 4 yards to the VA27 (Kiser, M)." newcontext="V,2,6,H27">
+    <p_ru vh="V" name="McNICHOLS, J." gain="4"></p_ru>
+    <p_tk vh="H" name="Kiser, M"></p_tk>
+   </play>
+   <play hasball="BOISE" down="2" togo="6" spot="VA27" context="V,2,6,H27" playid="10,6,57" type="E" tokens="PEN:V,HO,A,71,H37,N"
+      text="PENALTY BOISE holding (ODHIAMBO, Rees) 10 yards to the VA37." newcontext="V,2,16,H37">
+    <p_pn vh="V" code="HO" type="holding" name="ODHIAMBO, Rees" result="ACCEPT" at="H27" yards="10"></p_pn>
+   </play>
+   <play hasball="BOISE" down="2" togo="16" spot="VA37" context="V,2,16,H37" playid="10,7,58" type="P" tokens="PASS:0D,I,6,* BRUP:5"
+      text="RYPIEN, Brett pass incomplete to ANDERSON, Chaz (Harris, T)." newcontext="V,3,16,H37">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="INC" rcv="ANDERSON, Chaz"></p_pa>
+    <p_bu vh="H" name="Harris, T"></p_bu>
+   </play>
+   <play hasball="BOISE" down="3" togo="16" spot="VA37" context="V,3,16,H37" playid="10,8,59" type="P" tokens="PASS:0D,I,88,*"
+      text="RYPIEN, Brett pass incomplete to ROH, Jake." newcontext="V,4,16,H37">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="INC" rcv="ROH, Jake"></p_pa>
+   </play>
+   <play hasball="BOISE" down="4" togo="16" spot="VA37" context="V,4,16,H37" playid="10,9,60" type="F" clock="02:03" tokens="FGA:49,54,M,H37,2 T:02:03"
+      text="RAUSA, Tyler field goal attempt from 54 MISSED - hit right upright, spot at VA37, clock 02:03." newcontext="H,1,10,H37">
+    <p_fg vh="V" name="RAUSA, Tyler" distance="54" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="7" yards="50" top="2:19" driveindex="10" complete="Y"></drivesum>
+   <drivestart poss="H,H37,02:03" vh="H" spot="H37" clock="02:03" driveindex="11,60"></drivestart>
+   <play hasball="VA" down="1" togo="10" spot="VA37" context="H,1,10,H37" playid="11,1,61" clock="02:03" tokens="{DRIVE}:02:03"
+      text="VIRGINIA drive start at 02:03." newcontext="H,1,10,H37">
+   </play>
+   <play hasball="VA" down="1" togo="10" spot="VA37" context="H,1,10,H37" playid="11,2,62" type="R" tokens="RUSH:22,H39, TACK:51,94"
+      text="Hamm, D rush for 2 yards to the VA39 (WEAVER, Ben;McCASKILL, Sam)." newcontext="H,2,8,H39">
+    <p_ru vh="H" name="Hamm, D" gain="2"></p_ru>
+    <p_tk vh="V" name="WEAVER, Ben" assist="Y"></p_tk>
+    <p_tk vh="V" name="McCASKILL, Sam" assist="Y"></p_tk>
+   </play>
+   <play hasball="VA" down="2" togo="8" spot="VA39" context="H,2,8,H39" playid="11,3,63" type="P" tokens="PASS:15,I,8,*"
+      text="Johns, M pass incomplete to Thorpe, T.J.." newcontext="H,3,8,H39">
+    <p_pa vh="H" qb="Johns, M" result="INC" rcv="Thorpe, T.J."></p_pa>
+   </play>
+   <play hasball="VA" down="3" togo="8" spot="VA39" context="H,3,8,H39" playid="11,4,64" type="P" tokens="PASS:15,S,TM,H37 SACK:18"
+      text="Johns, M sacked for loss of 2 yards to the VA37 (FRAZIER, Jabril)." newcontext="H,4,10,H37">
+    <p_pa vh="H" qb="Johns, M" result="SACK" gain="-2"></p_pa>
+    <p_tk vh="V" name="FRAZIER, Jabril" sack="Y"></p_tk>
+   </play>
+   <play hasball="VA" down="4" togo="10" spot="VA37" context="H,4,10,H37" playid="11,5,65" type="E" tokens="PEN:V,SU,A,TM,H42,N"
+      text="PENALTY BOISE substitution infraction 5 yards to the VA42." newcontext="H,4,5,H42">
+    <p_pn vh="V" code="SU" type="substitution infraction" result="ACCEPT" at="H37" yards="5"></p_pn>
+   </play>
+   <play hasball="VA" down="4" togo="5" spot="VA42" context="H,4,5,H42" playid="11,6,66" type="U" tokens="PUNT:18,V20 FC:5"
+      text="Conte, N punt 38 yards to the BOISE20, fair catch by DEAYON, Donte." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="Conte, N" gain="38" fc="DEAYON, Donte"></p_pu>
+   </play>
+   <drivesum plays="3" yards="5" top="1:18" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="V,V20,00:45" vh="V" spot="V20" clock="00:45" driveindex="12,66"></drivestart>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE20" context="V,1,10,V20" playid="12,1,67" clock="00:45" tokens="{DRIVE}:00:45"
+      text="BOISE STATE drive start at 00:45." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE20" context="V,1,10,V20" playid="12,2,68" type="P" tokens="PASS:0D,C,88,V29 TACK:32"
+      text="RYPIEN, Brett pass complete to ROH, Jake for 9 yards to the BOISE29 (Moore, M)." newcontext="V,2,1,V29">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="COMP" rcv="ROH, Jake" gain="9"></p_pa>
+    <p_tk vh="H" name="Moore, M"></p_tk>
+   </play>
+   <play hasball="BOISE" down="2" togo="1" spot="BOISE29" context="V,2,1,V29" playid="12,3,69" type="P" tokens="PASS:0D,I,82,*"
+      text="RYPIEN, Brett pass incomplete to SPERBECK, T.." newcontext="V,3,1,V29">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="INC" rcv="SPERBECK, T."></p_pa>
+   </play>
+   <play hasball="BOISE" down="3" togo="1" spot="BOISE29" context="V,3,1,V29" playid="12,4,70" type="P" tokens="PASS:0D,S,TM,V24 SACK:34"
+      text="RYPIEN, Brett sacked for loss of 5 yards to the BOISE24 (Moore, K)." newcontext="V,4,6,V24">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="SACK" gain="-5"></p_pa>
+    <p_tk vh="H" name="Moore, K" sack="Y"></p_tk>
+   </play>
+   <score qtr="1" V="17" H="7"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="BOISE">
+    <firstdowns no="4" rush="1" pass="3" penalty="0"></firstdowns>
+    <penalties no="3" yds="20"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="08:03"></misc>
+    <rush att="8" yds="38" gain="55" loss="17" td="1" long="47"></rush>
+    <pass comp="7" att="13" int="0" yds="97" td="0" long="47" sacks="2" sackyds="10"></pass>
+    <rcv no="7" yds="97" td="0" long="47"></rcv>
+    <punt no="1" yds="51" long="51" blkd="0" tb="0" fc="0" plus50="1" inside20="0" avg="51.0"></punt>
+    <ko no="4" yds="260" ob="0" tb="2"></ko>
+    <fg made="1" att="2" long="51" blkd="0"></fg>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="5" tacka="12" tot_tack="17" tflua="2" tfla="2" tflyds="8" sacks="2" sackyds="3" int="2" intyds="40"></defense>
+    <kr no="1" yds="8" td="0" long="8"></kr>
+    <pr no="1" yds="0" td="0" long="0"></pr>
+    <ir no="2" yds="40" td="1" long="21"></ir>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="2" fg="1" patkick="2"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="VA">
+    <firstdowns no="1" rush="0" pass="1" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:57"></misc>
+    <rush att="8" yds="5" gain="13" loss="8" td="0" long="9"></rush>
+    <pass comp="1" att="8" int="2" yds="75" td="1" long="75" sacks="2" sackyds="3"></pass>
+    <rcv no="1" yds="75" td="1" long="75"></rcv>
+    <punt no="3" yds="119" long="51" blkd="0" tb="0" fc="1" plus50="1" inside20="1" avg="39.7"></punt>
+    <ko no="1" yds="55" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="15" tacka="4" tot_tack="19" tflua="2" tfla="4" tflyds="17" sacks="2" sackyds="10" brup="1" ff="1"></defense>
+    <kr no="2" yds="47" td="0" long="27"></kr>
+    <pr no="1" yds="18" td="0" long="18"></pr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="BOISE" down="4" togo="6" spot="BOISE24" context="V,4,6,V24" playid="12,5,71" type="#" clock="15:00" tokens="Q:2 T:15:00"
+      text="Start of 2nd quarter, clock 15:00." newcontext="V,4,6,V24">
+   </play>
+   <play hasball="BOISE" down="4" togo="6" spot="BOISE24" context="V,4,6,V24" playid="12,6,72" type="U" tokens="PUNT:19,H31 RET:26,H34 TACK:84 PEN:H,BL,A,30,H24,N D:1,10 SPOT:H,H24,Y"
+      text="WALE, Sean punt 45 yards to the VA31, Canady, M return 3 yards to the VA34 (HARDEE, Jake), PENALTY VA illegal block (Sheppard, D) 10 yards to the VA24, 1st and 10, VA ball on VA24." newcontext="H,1,10,H24">
+    <p_pu vh="V" name="WALE, Sean" gain="45"></p_pu>
+    <p_pr vh="H" name="Canady, M" gain="3"></p_pr>
+    <p_tk vh="V" name="HARDEE, Jake"></p_tk>
+    <p_pn vh="H" code="BL" type="illegal block" name="Sheppard, D" result="ACCEPT" at="H34" yards="10"></p_pn>
+   </play>
+   <drivesum plays="3" yards="4" top="0:55" driveindex="12" complete="Y"></drivesum>
+   <drivestart poss="H,H24,14:50" vh="H" spot="H24" clock="14:50" driveindex="13,72"></drivestart>
+   <play hasball="VA" down="1" togo="10" spot="VA24" context="H,1,10,H24" playid="13,1,73" clock="14:50" tokens="{DRIVE}:14:50"
+      text="VIRGINIA drive start at 14:50." newcontext="H,1,10,H24">
+   </play>
+   <play hasball="VA" down="1" togo="10" spot="VA24" context="H,1,10,H24" playid="13,2,74" type="P" first="P" tokens="PASS:15,C,22,H38 TACK:2,51"
+      text="Johns, M pass complete to Hamm, D for 14 yards to the VA38, 1ST DOWN VA (MOXEY, Jonathan;WEAVER, Ben)." newcontext="H,1,10,H38">
+    <p_pa vh="H" qb="Johns, M" result="COMP" rcv="Hamm, D" gain="14"></p_pa>
+    <p_tk vh="V" name="MOXEY, Jonathan" assist="Y"></p_tk>
+    <p_tk vh="V" name="WEAVER, Ben" assist="Y"></p_tk>
+   </play>
+   <play hasball="VA" down="1" togo="10" spot="VA38" context="H,1,10,H38" playid="13,3,75" type="P" tokens="PASS:15,I,8,*"
+      text="Johns, M pass incomplete to Thorpe, T.J.." newcontext="H,2,10,H38">
+    <p_pa vh="H" qb="Johns, M" result="INC" rcv="Thorpe, T.J."></p_pa>
+   </play>
+   <play hasball="VA" down="2" togo="10" spot="VA38" context="H,2,10,H38" playid="13,4,76" type="P" tokens="PASS:15,C,4,H39 TACK:51"
+      text="Johns, M pass complete to Mizzell, T for 1 yard to the VA39 (WEAVER, Ben)." newcontext="H,3,9,H39">
+    <p_pa vh="H" qb="Johns, M" result="COMP" rcv="Mizzell, T" gain="1"></p_pa>
+    <p_tk vh="V" name="WEAVER, Ben"></p_tk>
+   </play>
+   <play hasball="VA" down="3" togo="9" spot="VA39" context="H,3,9,H39" playid="13,5,77" type="P" first="P" tokens="PASS:15,C,85,V38 TACK:4"
+      text="Johns, M pass complete to Johnson, K for 23 yards to the BOISE38, 1ST DOWN VA (THOMPSON, D.)." newcontext="H,1,10,V38">
+    <p_pa vh="H" qb="Johns, M" result="COMP" rcv="Johnson, K" gain="23"></p_pa>
+    <p_tk vh="V" name="THOMPSON, D."></p_tk>
+   </play>
+   <play hasball="VA" down="1" togo="10" spot="BOISE38" context="H,1,10,V38" playid="13,6,78" type="R" tokens="RUSH:22,V36, TACK:58"
+      text="Hamm, D rush for 2 yards to the BOISE36 (ASH, Robert)." newcontext="H,2,8,V36">
+    <p_ru vh="H" name="Hamm, D" gain="2"></p_ru>
+    <p_tk vh="V" name="ASH, Robert"></p_tk>
+   </play>
+   <play hasball="VA" down="2" togo="8" spot="BOISE36" context="H,2,8,V36" playid="13,7,79" type="R" tokens="RUSH:10,V34, TACK:18"
+      text="Ellis, J rush for 2 yards to the BOISE34 (FRAZIER, Jabril)." newcontext="H,3,6,V34">
+    <p_ru vh="H" name="Ellis, J" gain="2"></p_ru>
+    <p_tk vh="V" name="FRAZIER, Jabril"></p_tk>
+   </play>
+   <play hasball="VA" down="3" togo="6" spot="BOISE34" context="H,3,6,V34" playid="13,8,80" type="P" tokens="PASS:15,C,22,V31 TACK:5"
+      text="Johns, M pass complete to Hamm, D for 3 yards to the BOISE31 (DEAYON, Donte)." newcontext="H,4,3,V31">
+    <p_pa vh="H" qb="Johns, M" result="COMP" rcv="Hamm, D" gain="3"></p_pa>
+    <p_tk vh="V" name="DEAYON, Donte"></p_tk>
+   </play>
+   <play hasball="VA" down="4" togo="3" spot="BOISE31" context="H,4,3,V31" playid="13,9,81" type="F" clock="10:49" tokens="FGA:1F,48,M,V31,L T:10:49"
+      text="Frye, I field goal attempt from 48 MISSED - wide left, spot at BOISE31, clock 10:49." newcontext="V,1,10,V31">
+    <p_fg vh="H" name="Frye, I" distance="48" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="8" yards="45" top="4:01" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="V,V31,10:49" vh="V" spot="V31" clock="10:49" driveindex="14,81"></drivestart>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE31" context="V,1,10,V31" playid="14,1,82" clock="10:49" tokens="{DRIVE}:10:49"
+      text="BOISE STATE drive start at 10:49." newcontext="V,1,10,V31">
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE31" context="V,1,10,V31" playid="14,2,83" type="P" first="P" tokens="PASS:0D,C,6,H47 OB: TACK:5"
+      text="RYPIEN, Brett pass complete to ANDERSON, Chaz for 22 yards to the VA47, 1ST DOWN BOISE, out-of-bounds (Harris, T)." ob="Y" newcontext="V,1,10,H47">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="COMP" rcv="ANDERSON, Chaz" gain="22"></p_pa>
+    <p_tk vh="H" name="Harris, T"></p_tk>
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="VA47" context="V,1,10,H47" playid="14,3,84" type="R" tokens="RUSH:13,H47, TACK:55,51"
+      text="McNICHOLS, J. rush for no gain to the VA47 (Dean, D;Bradshaw, Z)." newcontext="V,2,10,H47">
+    <p_ru vh="V" name="McNICHOLS, J." gain="0"></p_ru>
+    <p_tk vh="H" name="Dean, D" assist="Y"></p_tk>
+    <p_tk vh="H" name="Bradshaw, Z" assist="Y"></p_tk>
+   </play>
+   <play hasball="BOISE" down="2" togo="10" spot="VA47" context="V,2,10,H47" playid="14,4,85" type="P" first="P" tokens="PASS:0D,C,88,H36 TACK:3"
+      text="RYPIEN, Brett pass complete to ROH, Jake for 11 yards to the VA36, 1ST DOWN BOISE (Blanding, Q)." newcontext="V,1,10,H36">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="COMP" rcv="ROH, Jake" gain="11"></p_pa>
+    <p_tk vh="H" name="Blanding, Q"></p_tk>
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="VA36" context="V,1,10,H36" playid="14,5,86" type="P" first="P" tokens="PASS:0D,C,13,H25 OB: TACK:51"
+      text="RYPIEN, Brett pass complete to McNICHOLS, J. for 11 yards to the VA25, 1ST DOWN BOISE, out-of-bounds (Bradshaw, Z)." ob="Y" newcontext="V,1,10,H25">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="COMP" rcv="McNICHOLS, J." gain="11"></p_pa>
+    <p_tk vh="H" name="Bradshaw, Z"></p_tk>
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="VA25" context="V,1,10,H25" playid="14,6,87" type="P" first="P" tokens="PASS:0D,C,88,H10 TACK:53"
+      text="RYPIEN, Brett pass complete to ROH, Jake for 15 yards to the VA10, 1ST DOWN BOISE (Kiser, M)." newcontext="V,1,0,H10">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="COMP" rcv="ROH, Jake" gain="15"></p_pa>
+    <p_tk vh="H" name="Kiser, M"></p_tk>
+   </play>
+   <play hasball="BOISE" down="1" togo="0" spot="VA10" context="V,1,0,H10" playid="14,7,88" type="P" score="Y" vscore="23" hscore="7" clock="08:26" tokens="PASS:0D,C,13,H00 T:08:26"
+      text="RYPIEN, Brett pass complete to McNICHOLS, J. for 10 yards to the VA0, TOUCHDOWN, clock 08:26." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="COMP" rcv="McNICHOLS, J." gain="10"></p_pa>
+   </play>
+   <play hasball="BOISE" down="1" togo="0" spot="VA03" context="V,1,0,H03" playid="14,8,89" type="X" score="Y" vscore="24" hscore="7" tokens="PAT:K,49,G"
+      text="RAUSA, Tyler kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="RAUSA, Tyler" qb="RAUSA, Tyler" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="24" H="7"></score>
+   <drivesum plays="6" yards="69" top="2:23" driveindex="14" complete="Y"></drivesum>
+   <play hasball="BOISE" down="1" togo="0" spot="BOISE35" context="V,1,0,V35" playid="14,9,90" type="K" tokens="KO:49,H06 RET:33,H20 TACK:25,38 PEN:H,HO,A,85,H10,N D:1,10 SPOT:H,H10,Y"
+      text="RAUSA, Tyler kickoff 59 yards to the VA6, Zaccheaus, O return 14 yards to the VA20 (FORD, Raymond;VANDER ESCH, L.), PENALTY VA holding (Johnson, K) 10 yards to the VA10, 1st and 10, VA ball on VA10." newcontext="H,1,10,H10">
+    <p_ko vh="V" name="RAUSA, Tyler" gain="59"></p_ko>
+    <p_kr vh="H" name="Zaccheaus, O" gain="14"></p_kr>
+    <p_tk vh="V" name="FORD, Raymond" assist="Y"></p_tk>
+    <p_tk vh="V" name="VANDER ESCH, L." assist="Y"></p_tk>
+    <p_pn vh="H" code="HO" type="holding" name="Johnson, K" result="ACCEPT" at="H20" yards="10"></p_pn>
+   </play>
+   <drivestart poss="H,H10,08:26" vh="H" spot="H10" clock="08:26" driveindex="15,90"></drivestart>
+   <play hasball="VA" down="1" togo="10" spot="VA10" context="H,1,10,H10" playid="15,1,91" clock="08:26" tokens="{DRIVE}:08:26"
+      text="VIRGINIA drive start at 08:26." newcontext="H,1,10,H10">
+   </play>
+   <play hasball="VA" down="1" togo="10" spot="VA10" context="H,1,10,H10" playid="15,2,92" type="R" tokens="RUSH:10,H10, TACK:20"
+      text="Ellis, J rush for no gain to the VA10 (VALLEJO, Tanner)." newcontext="H,2,10,H10">
+    <p_ru vh="H" name="Ellis, J" gain="0"></p_ru>
+    <p_tk vh="V" name="VALLEJO, Tanner"></p_tk>
+   </play>
+   <play hasball="VA" down="2" togo="10" spot="VA10" context="H,2,10,H10" playid="15,3,93" type="P" score="Y" vscore="26" hscore="7" clock="07:36" tokens="PASS:15,S,TM,H00 SACK:40 SAF:V,TM T:07:36"
+      text="Johns, M sacked for loss of 10 yards to the VA0 (NANCE, Armand), TEAM safety, clock 07:36." newcontext="H,1,0,H20">
+    <p_pa vh="H" qb="Johns, M" result="SACK" gain="-10"></p_pa>
+    <p_tk vh="V" name="NANCE, Armand" sack="Y"></p_tk>
+   </play>
+   <score V="26" H="7"></score>
+   <drivesum plays="2" yards="-10" top="0:50" driveindex="15" complete="Y"></drivesum>
+   <play hasball="VA" down="1" togo="0" spot="VA20" context="H,1,0,H20" playid="15,4,94" type="K" tokens="KO:18,V15 OB: SPOT:V,V50,Y"
+      text="Conte, N kickoff 65 yards to the BOISE15, out-of-bounds, BOISE ball on 50 yardline." ob="Y" newcontext="V,1,10,V50">
+    <p_ko vh="H" name="Conte, N" gain="65" result="O"></p_ko>
+   </play>
+   <drivestart poss="V,V50,07:36" vh="V" spot="V50" clock="07:36" driveindex="16,94"></drivestart>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE50" context="V,1,10,V50" playid="16,1,95" tokens="POSS: SPOT:V,H50,Y D:1,10"
+      text="Change of possession, BOISE ball on 50 yardline, 1st and 10." newcontext="V,1,10,V50">
+   </play>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="V,V50,07:36" vh="V" spot="V50" clock="07:36" driveindex="17,95"></drivestart>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE50" context="V,1,10,V50" playid="17,1,96" clock="07:36" tokens="{DRIVE}:07:36"
+      text="BOISE STATE drive start at 07:36." newcontext="V,1,10,V50">
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE50" context="V,1,10,V50" playid="17,2,97" type="P" first="P" tokens="PASS:0D,C,82,H40 OB: TACK:"
+      text="RYPIEN, Brett pass complete to SPERBECK, T. for 10 yards to the VA40, 1ST DOWN BOISE, out-of-bounds, ." ob="Y" newcontext="V,1,10,H40">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="COMP" rcv="SPERBECK, T." gain="10"></p_pa>
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="VA40" context="V,1,10,H40" playid="17,3,98" type="P" first="P" tokens="PASS:0D,C,13,H21 TACK:3,59"
+      text="RYPIEN, Brett pass complete to McNICHOLS, J. for 19 yards to the VA21, 1ST DOWN BOISE (Blanding, Q;Hall, M)." newcontext="V,1,10,H21">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="COMP" rcv="McNICHOLS, J." gain="19"></p_pa>
+    <p_tk vh="H" name="Blanding, Q" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hall, M" assist="Y"></p_tk>
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="VA21" context="V,1,10,H21" playid="17,4,99" type="P" tokens="PASS:0D,C,88,H14 TACK:51"
+      text="RYPIEN, Brett pass complete to ROH, Jake for 7 yards to the VA14 (Bradshaw, Z)." newcontext="V,2,3,H14">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="COMP" rcv="ROH, Jake" gain="7"></p_pa>
+    <p_tk vh="H" name="Bradshaw, Z"></p_tk>
+   </play>
+   <play hasball="BOISE" down="2" togo="3" spot="VA14" context="V,2,3,H14" playid="17,5,100" type="R" tokens="RUSH:13,H12, TACK:51,59"
+      text="McNICHOLS, J. rush for 2 yards to the VA12 (Bradshaw, Z;Hall, M)." newcontext="V,3,1,H12">
+    <p_ru vh="V" name="McNICHOLS, J." gain="2"></p_ru>
+    <p_tk vh="H" name="Bradshaw, Z" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hall, M" assist="Y"></p_tk>
+   </play>
+   <play hasball="BOISE" down="3" togo="1" spot="VA12" context="V,3,1,H12" playid="17,6,101" type="P" tokens="PASS:0D,C,13,H13 TACK:5"
+      text="RYPIEN, Brett pass complete to McNICHOLS, J. for loss of 1 yard to the VA13 (Harris, T)." newcontext="V,4,2,H13">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="COMP" rcv="McNICHOLS, J." gain="-1"></p_pa>
+    <p_tk vh="H" name="Harris, T"></p_tk>
+   </play>
+   <play hasball="BOISE" down="4" togo="2" spot="VA13" context="V,4,2,H13" playid="17,7,102" type="F" score="Y" vscore="29" hscore="7" clock="05:11" tokens="FGA:49,30,G T:05:11"
+      text="RAUSA, Tyler field goal attempt from 30 GOOD, clock 05:11." newcontext="V,1,0,V35">
+    <p_fg vh="V" name="RAUSA, Tyler" distance="30" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="29" H="7"></score>
+   <drivesum plays="6" yards="37" top="2:25" driveindex="17" complete="Y"></drivesum>
+   <play hasball="BOISE" down="1" togo="0" spot="BOISE35" context="V,1,0,V35" playid="17,8,103" type="K" tokens="KO:49,H00 RET:33,H35 TACK:3"
+      text="RAUSA, Tyler kickoff 65 yards to the VA0, Zaccheaus, O return 35 yards to the VA35 (JAMES, C.)." newcontext="H,1,10,H35">
+    <p_ko vh="V" name="RAUSA, Tyler" gain="65"></p_ko>
+    <p_kr vh="H" name="Zaccheaus, O" gain="35"></p_kr>
+    <p_tk vh="V" name="JAMES, C."></p_tk>
+   </play>
+   <drivestart poss="H,H35,05:11" vh="H" spot="H35" clock="05:11" driveindex="18,103"></drivestart>
+   <play hasball="VA" down="1" togo="10" spot="VA35" context="H,1,10,H35" playid="18,1,104" clock="05:11" tokens="{DRIVE}:05:11"
+      text="VIRGINIA drive start at 05:11." newcontext="H,1,10,H35">
+   </play>
+   <play hasball="VA" down="1" togo="10" spot="VA35" context="H,1,10,H35" playid="18,2,105" type="R" tokens="RUSH:4,H36, TACK:99,20"
+      text="Mizzell, T rush for 1 yard to the VA36 (BOLES, Dereck;VALLEJO, Tanner)." newcontext="H,2,9,H36">
+    <p_ru vh="H" name="Mizzell, T" gain="1"></p_ru>
+    <p_tk vh="V" name="BOLES, Dereck" assist="Y"></p_tk>
+    <p_tk vh="V" name="VALLEJO, Tanner" assist="Y"></p_tk>
+   </play>
+   <play hasball="VA" down="2" togo="9" spot="VA36" context="H,2,9,H36" playid="18,3,106" type="P" first="P" tokens="PASS:15,C,9S,V48 TACK:29"
+      text="Johns, M pass complete to Severin, C for 16 yards to the BOISE48, 1ST DOWN VA (SUMNER-GARDNER)." newcontext="H,1,10,V48">
+    <p_pa vh="H" qb="Johns, M" result="COMP" rcv="Severin, C" gain="16"></p_pa>
+    <p_tk vh="V" name="SUMNER-GARDNER"></p_tk>
+   </play>
+   <play hasball="VA" down="1" togo="10" spot="BOISE48" context="H,1,10,V48" playid="18,4,107" type="P" tokens="PASS:15,C,9S,V45 TACK:51"
+      text="Johns, M pass complete to Severin, C for 3 yards to the BOISE45 (WEAVER, Ben)." newcontext="H,2,7,V45">
+    <p_pa vh="H" qb="Johns, M" result="COMP" rcv="Severin, C" gain="3"></p_pa>
+    <p_tk vh="V" name="WEAVER, Ben"></p_tk>
+   </play>
+   <play hasball="VA" down="2" togo="7" spot="BOISE45" context="H,2,7,V45" playid="18,5,108" type="P" first="P" score="Y" vscore="29" hscore="13" clock="03:09" tokens="PASS:15,C,4,V00 T:03:09"
+      text="Johns, M pass complete to Mizzell, T for 45 yards to the BOISE0, 1ST DOWN VA, TOUCHDOWN, clock 03:09." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Johns, M" result="COMP" rcv="Mizzell, T" gain="45"></p_pa>
+   </play>
+   <play hasball="VA" down="1" togo="0" spot="BOISE03" context="H,1,0,V03" playid="18,6,109" type="X" score="Y" vscore="29" hscore="14" tokens="PAT:K,1F,G"
+      text="Frye, I kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Frye, I" qb="Frye, I" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="29" H="14"></score>
+   <drivesum plays="4" yards="65" top="2:02" driveindex="18" complete="Y"></drivesum>
+   <play hasball="VA" down="1" togo="0" spot="VA35" context="H,1,0,H35" playid="18,7,110" type="K" tokens="KO:91,V00 RET:39,V21 TACK:31,59 PEN:H,OS,A,TM,V26,N D:1,10 SPOT:V,V26,Y"
+      text="Sims, D kickoff 65 yards to the BOISE0, YOUNG, Kelsey return 21 yards to the BOISE21 (Peace;Hall, M), PENALTY VA offside 5 yards to the BOISE26, 1st and 10, BOISE ball on BOISE26." newcontext="V,1,10,V26">
+    <p_ko vh="H" name="Sims, D" gain="65"></p_ko>
+    <p_kr vh="V" name="YOUNG, Kelsey" gain="21"></p_kr>
+    <p_tk vh="H" name="Peace" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hall, M" assist="Y"></p_tk>
+    <p_pn vh="H" code="OS" type="offside" result="ACCEPT" at="V21" yards="5"></p_pn>
+   </play>
+   <drivestart poss="V,V26,03:09" vh="V" spot="V26" clock="03:09" driveindex="19,110"></drivestart>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE26" context="V,1,10,V26" playid="19,1,111" clock="03:09" tokens="{DRIVE}:03:09"
+      text="BOISE STATE drive start at 03:09." newcontext="V,1,10,V26">
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE26" context="V,1,10,V26" playid="19,2,112" type="R" tokens="RUSH:39,V29, TACK:93"
+      text="YOUNG, Kelsey rush for 3 yards to the BOISE29 (Wilkins, D)." newcontext="V,2,7,V29">
+    <p_ru vh="V" name="YOUNG, Kelsey" gain="3"></p_ru>
+    <p_tk vh="H" name="Wilkins, D"></p_tk>
+   </play>
+   <play hasball="BOISE" down="2" togo="7" spot="BOISE29" context="V,2,7,V29" playid="19,3,113" type="P" tokens="PASS:0D,C,82,V34 TACK:26"
+      text="RYPIEN, Brett pass complete to SPERBECK, T. for 5 yards to the BOISE34 (Canady, M)." newcontext="V,3,2,V34">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="COMP" rcv="SPERBECK, T." gain="5"></p_pa>
+    <p_tk vh="H" name="Canady, M"></p_tk>
+   </play>
+   <play hasball="BOISE" down="3" togo="2" spot="BOISE34" context="V,3,2,V34" playid="19,4,114" type="P" tokens="PASS:0D,I,1,* BRUP:28"
+      text="RYPIEN, Brett pass incomplete to WILLIAMS-RHODES (Wahee, W)." newcontext="V,4,2,V34">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="INC" rcv="WILLIAMS-RHODES"></p_pa>
+    <p_bu vh="H" name="Wahee, W"></p_bu>
+   </play>
+   <play hasball="BOISE" down="4" togo="2" spot="BOISE34" context="V,4,2,V34" playid="19,5,115" type="E" tokens="PEN:V,FS,A,TM,V29,N"
+      text="PENALTY BOISE false start 5 yards to the BOISE29." newcontext="V,4,7,V29">
+    <p_pn vh="V" code="FS" type="false start" result="ACCEPT" at="V34" yards="5"></p_pn>
+   </play>
+   <play hasball="BOISE" down="4" togo="7" spot="BOISE29" context="V,4,7,V29" playid="19,6,116" type="U" tokens="PUNT:19,H28 FC:26"
+      text="WALE, Sean punt 43 yards to the VA28, fair catch by Canady, M." newcontext="H,1,10,H28">
+    <p_pu vh="V" name="WALE, Sean" gain="43" fc="Canady, M"></p_pu>
+   </play>
+   <drivesum plays="3" yards="3" top="1:08" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="H,H28,02:01" vh="H" spot="H28" clock="02:01" driveindex="20,116"></drivestart>
+   <play hasball="VA" down="1" togo="10" spot="VA28" context="H,1,10,H28" playid="20,1,117" clock="02:01" tokens="{DRIVE}:02:01"
+      text="VIRGINIA drive start at 02:01." newcontext="H,1,10,H28">
+   </play>
+   <play hasball="VA" down="1" togo="10" spot="VA28" context="H,1,10,H28" playid="20,2,118" type="P" tokens="PASS:15,I,5R,*"
+      text="Johns, M pass incomplete to Reid, A." newcontext="H,2,10,H28">
+    <p_pa vh="H" qb="Johns, M" result="INC" rcv="Reid, A"></p_pa>
+   </play>
+   <play hasball="VA" down="2" togo="10" spot="VA28" context="H,2,10,H28" playid="20,3,119" type="P" tokens="PASS:15,C,4,H30 TACK:40,7"
+      text="Johns, M pass complete to Mizzell, T for 2 yards to the VA30 (NANCE, Armand;MARTARANO, J.)." newcontext="H,3,8,H30">
+    <p_pa vh="H" qb="Johns, M" result="COMP" rcv="Mizzell, T" gain="2"></p_pa>
+    <p_tk vh="V" name="NANCE, Armand" assist="Y"></p_tk>
+    <p_tk vh="V" name="MARTARANO, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="VA" down="3" togo="8" spot="VA30" context="H,3,8,H30" playid="20,4,120" type="R" first="R" tokens="RUSH:15,H40,"
+      text="Johns, M rush for 10 yards to the VA40, 1ST DOWN VA." newcontext="H,1,10,H40">
+    <p_ru vh="H" name="Johns, M" gain="10"></p_ru>
+   </play>
+   <play hasball="VA" down="1" togo="10" spot="VA40" context="H,1,10,H40" playid="20,5,121" type="R" tokens="RUSH:15,H43, TACK:96"
+      text="Johns, M rush for 3 yards to the VA43 (HOYTE, Elliott)." newcontext="H,2,7,H43">
+    <p_ru vh="H" name="Johns, M" gain="3"></p_ru>
+    <p_tk vh="V" name="HOYTE, Elliott"></p_tk>
+   </play>
+   <play hasball="VA" down="2" togo="7" spot="VA43" context="H,2,7,H43" playid="20,6,122" type="#" clock="00:46" tokens="TOUT:H T:00:46"
+      text="Timeout Virginia, clock 00:46." newcontext="H,2,7,H43">
+    <p_to vh="H" team="Virginia"></p_to>
+   </play>
+   <play hasball="VA" down="2" togo="7" spot="VA43" context="H,2,7,H43" playid="20,7,123" type="E" tokens="PEN:H,FS,A,76,H38,N"
+      text="PENALTY VA false start (Mooney, M) 5 yards to the VA38." newcontext="H,2,12,H38">
+    <p_pn vh="H" code="FS" type="false start" name="Mooney, M" result="ACCEPT" at="H43" yards="5"></p_pn>
+   </play>
+   <play hasball="VA" down="2" togo="12" spot="VA38" context="H,2,12,H38" playid="20,8,124" type="E" tokens="PASS:15,I,4,* BRUP:3 PEN:H,PI,A,4,H23,N NOPLAY:"
+      text="Johns, M pass incomplete to Mizzell, T (JAMES, C.), PENALTY VA pass interference (Mizzell, T) 15 yards to the VA23, NO PLAY." newcontext="H,2,27,H23">
+    <p_pn vh="H" code="PI" type="pass interference" name="Mizzell, T" result="ACCEPT" at="H38" yards="15"></p_pn>
+   </play>
+   <play hasball="VA" down="2" togo="27" spot="VA23" context="H,2,27,H23" playid="20,9,125" type="R" tokens="RUSH:5R,H26, TACK:36"
+      text="Reid, A rush for 3 yards to the VA26 (GRAY, Tyler)." newcontext="H,3,24,H26">
+    <p_ru vh="H" name="Reid, A" gain="3"></p_ru>
+    <p_tk vh="V" name="GRAY, Tyler"></p_tk>
+   </play>
+   <play hasball="VA" down="3" togo="24" spot="VA26" context="H,3,24,H26" playid="20,10,126" type="R" tokens="RUSH:5R,H34, TACK:2"
+      text="Reid, A rush for 8 yards to the VA34 (MOXEY, Jonathan)." newcontext="H,4,16,H34">
+    <p_ru vh="H" name="Reid, A" gain="8"></p_ru>
+    <p_tk vh="V" name="MOXEY, Jonathan"></p_tk>
+   </play>
+   <play hasball="VA" down="4" togo="16" spot="VA34" context="H,4,16,H34" playid="20,11,127" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of half, clock 00:00." newcontext="H,4,16,H34">
+   </play>
+   <drivesum plays="6" yards="6" top="2:01" driveindex="20" complete="Y"></drivesum>
+   <score qtr="2" V="29" H="14"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="BOISE">
+    <firstdowns no="6" rush="0" pass="6" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:06"></misc>
+    <rush att="3" yds="5" gain="5" loss="0" td="0" long="0"></rush>
+    <pass comp="10" att="11" int="0" yds="109" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="10" yds="109" td="1" long="0"></rcv>
+    <punt no="2" yds="88" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="44.0"></punt>
+    <ko no="2" yds="124" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="0" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="14" tacka="8" tot_tack="22" tflua="1" tfla="0" tflyds="10" sacks="1" sackyds="10" saf="1"></defense>
+    <kr no="1" yds="21" td="0" long="13"></kr>
+    <scoring td="1" fg="1" saf="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="VA">
+    <firstdowns no="5" rush="1" pass="4" penalty="0"></firstdowns>
+    <penalties no="5" yds="45"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:54"></misc>
+    <rush att="9" yds="19" gain="29" loss="10" td="0" long="1"></rush>
+    <pass comp="8" att="10" int="0" yds="107" td="1" long="0" sacks="1" sackyds="10"></pass>
+    <rcv no="8" yds="107" td="1" long="0"></rcv>
+    <ko no="2" yds="130" ob="1" tb="0"></ko>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="8" tacka="8" tot_tack="16" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" brup="1"></defense>
+    <kr no="2" yds="49" td="0" long="8"></kr>
+    <pr no="1" yds="3" td="0" long="0"></pr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <comment text="Intentional grounding called in the endzone.  Safety."></comment>
+   <comment text="Intentional grounding called in endzone resulting in safety."></comment>
+   <play hasball="VA" down="4" togo="16" spot="VA34" context="H,4,16,H34" playid="20,12,128" type="#" clock="15:00" tokens="Q:3 T:15:00 SPOT:H,H35,N"
+      text="Start of 3rd quarter, clock 15:00, VA ball on VA35." newcontext="H,4,16,H35">
+   </play>
+   <play hasball="VA" down="4" togo="16" spot="VA35" context="H,4,16,H35" playid="20,13,131" tokens="SPOT:H,H35,N"
+      text="VA ball on VA35." newcontext="H,4,16,H35">
+   </play>
+   <play hasball="VA" down="4" togo="16" spot="VA35" context="H,4,16,H35" playid="20,14,132" type="K" tokens="KO:91,V00 TB:"
+      text="Sims, D kickoff 65 yards to the BOISE0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Sims, D" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,15:00" vh="V" spot="V25" clock="15:00" driveindex="21,132"></drivestart>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE25" context="V,1,10,V25" playid="21,1,133" clock="15:00" tokens="{DRIVE}:15:00"
+      text="BOISE STATE drive start at 15:00." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE25" context="V,1,10,V25" playid="21,2,134" type="P" tokens="PASS:0D,I,82,*"
+      text="RYPIEN, Brett pass incomplete to SPERBECK, T.." newcontext="V,2,10,V25">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="INC" rcv="SPERBECK, T."></p_pa>
+   </play>
+   <play hasball="BOISE" down="2" togo="10" spot="BOISE25" context="V,2,10,V25" playid="21,3,135" type="P" first="P" tokens="PASS:0D,C,1,V35 TACK:53"
+      text="RYPIEN, Brett pass complete to WILLIAMS-RHODES for 10 yards to the BOISE35, 1ST DOWN BOISE (Kiser, M)." newcontext="V,1,10,V35">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="COMP" rcv="WILLIAMS-RHODES" gain="10"></p_pa>
+    <p_tk vh="H" name="Kiser, M"></p_tk>
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE35" context="V,1,10,V35" playid="21,4,136" type="P" tokens="PASS:0D,I,82,*"
+      text="RYPIEN, Brett pass incomplete to SPERBECK, T.." newcontext="V,2,10,V35">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="INC" rcv="SPERBECK, T."></p_pa>
+   </play>
+   <play hasball="BOISE" down="2" togo="10" spot="BOISE35" context="V,2,10,V35" playid="21,5,137" type="R" first="R" tokens="RUSH:0D,V46, OB:"
+      text="RYPIEN, Brett rush for 11 yards to the BOISE46, 1ST DOWN BOISE, out-of-bounds." ob="Y" newcontext="V,1,10,V46">
+    <p_ru vh="V" name="RYPIEN, Brett" gain="11"></p_ru>
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE46" context="V,1,10,V46" playid="21,6,138" type="R" tokens="RUSH:13,V49, TACK:51"
+      text="McNICHOLS, J. rush for 3 yards to the BOISE49 (Bradshaw, Z)." newcontext="V,2,7,V49">
+    <p_ru vh="V" name="McNICHOLS, J." gain="3"></p_ru>
+    <p_tk vh="H" name="Bradshaw, Z"></p_tk>
+   </play>
+   <play hasball="BOISE" down="2" togo="7" spot="BOISE49" context="V,2,7,V49" playid="21,7,139" type="R" first="R" tokens="RUSH:13,H42, TACK:53"
+      text="McNICHOLS, J. rush for 9 yards to the VA42, 1ST DOWN BOISE (Kiser, M)." newcontext="V,1,10,H42">
+    <p_ru vh="V" name="McNICHOLS, J." gain="9"></p_ru>
+    <p_tk vh="H" name="Kiser, M"></p_tk>
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="VA42" context="V,1,10,H42" playid="21,8,140" type="R" tokens="RUSH:1,H37, TACK:38"
+      text="WILLIAMS-RHODES rush for 5 yards to the VA37 (Rainey, K)." newcontext="V,2,5,H37">
+    <p_ru vh="V" name="WILLIAMS-RHODES" gain="5"></p_ru>
+    <p_tk vh="H" name="Rainey, K"></p_tk>
+   </play>
+   <play hasball="BOISE" down="2" togo="5" spot="VA37" context="V,2,5,H37" playid="21,9,141" type="P" tokens="PASS:82,I,1,*"
+      text="SPERBECK, T. pass incomplete to WILLIAMS-RHODES." newcontext="V,3,5,H37">
+    <p_pa vh="V" qb="SPERBECK, T." result="INC" rcv="WILLIAMS-RHODES"></p_pa>
+   </play>
+   <play hasball="BOISE" down="3" togo="5" spot="VA37" context="V,3,5,H37" playid="21,10,142" type="P" tokens="PASS:0D,I,82,*"
+      text="RYPIEN, Brett pass incomplete to SPERBECK, T.." newcontext="V,4,5,H37">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="INC" rcv="SPERBECK, T."></p_pa>
+   </play>
+   <play hasball="BOISE" down="4" togo="5" spot="VA37" context="V,4,5,H37" playid="21,11,143" type="R" first="R" tokens="RUSH:0D,H29,"
+      text="RYPIEN, Brett rush for 8 yards to the VA29, 1ST DOWN BOISE." newcontext="V,1,10,H29">
+    <p_ru vh="V" name="RYPIEN, Brett" gain="8"></p_ru>
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="VA29" context="V,1,10,H29" playid="21,12,144" type="R" tokens="RUSH:39,H26, TACK:51"
+      text="YOUNG, Kelsey rush for 3 yards to the VA26 (Bradshaw, Z)." newcontext="V,2,7,H26">
+    <p_ru vh="V" name="YOUNG, Kelsey" gain="3"></p_ru>
+    <p_tk vh="H" name="Bradshaw, Z"></p_tk>
+   </play>
+   <play hasball="BOISE" down="2" togo="7" spot="VA26" context="V,2,7,H26" playid="21,13,145" type="R" tokens="RUSH:39,H22, TACK:43,51"
+      text="YOUNG, Kelsey rush for 4 yards to the VA22 (Corney, T;Bradshaw, Z)." newcontext="V,3,3,H22">
+    <p_ru vh="V" name="YOUNG, Kelsey" gain="4"></p_ru>
+    <p_tk vh="H" name="Corney, T" assist="Y"></p_tk>
+    <p_tk vh="H" name="Bradshaw, Z" assist="Y"></p_tk>
+   </play>
+   <play hasball="BOISE" down="3" togo="3" spot="VA22" context="V,3,3,H22" playid="21,14,146" type="R" tokens="RUSH:13,H22, TACK:38"
+      text="McNICHOLS, J. rush for no gain to the VA22 (Rainey, K)." newcontext="V,4,3,H22">
+    <p_ru vh="V" name="McNICHOLS, J." gain="0"></p_ru>
+    <p_tk vh="H" name="Rainey, K"></p_tk>
+   </play>
+   <play hasball="BOISE" down="4" togo="3" spot="VA22" context="V,4,3,H22" playid="21,15,147" type="F" score="Y" vscore="32" hscore="14" clock="10:19" tokens="FGA:49,39,G T:10:19"
+      text="RAUSA, Tyler field goal attempt from 39 GOOD, clock 10:19." newcontext="V,1,0,V35">
+    <p_fg vh="V" name="RAUSA, Tyler" distance="39" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="32" H="14"></score>
+   <drivesum plays="14" yards="53" top="4:41" driveindex="21" complete="Y"></drivesum>
+   <play hasball="BOISE" down="1" togo="0" spot="BOISE35" context="V,1,0,V35" playid="21,16,148" type="K" tokens="KO:49,H03 RET:33,H21 TACK:21"
+      text="RAUSA, Tyler kickoff 62 yards to the VA3, Zaccheaus, O return 18 yards to the VA21 (FIELDS, Jack)." newcontext="H,1,10,H21">
+    <p_ko vh="V" name="RAUSA, Tyler" gain="62"></p_ko>
+    <p_kr vh="H" name="Zaccheaus, O" gain="18"></p_kr>
+    <p_tk vh="V" name="FIELDS, Jack"></p_tk>
+   </play>
+   <drivestart poss="H,H21,10:19" vh="H" spot="H21" clock="10:19" driveindex="22,148"></drivestart>
+   <play hasball="VA" down="1" togo="10" spot="VA21" context="H,1,10,H21" playid="22,1,149" clock="10:19" tokens="{DRIVE}:10:19"
+      text="VIRGINIA drive start at 10:19." newcontext="H,1,10,H21">
+   </play>
+   <play hasball="VA" down="1" togo="10" spot="VA21" context="H,1,10,H21" playid="22,2,150" type="R" tokens="RUSH:4,H21, TACK:90,51"
+      text="Mizzell, T rush for no gain to the VA21 (TAIMATUIA, J.;WEAVER, Ben)." newcontext="H,2,10,H21">
+    <p_ru vh="H" name="Mizzell, T" gain="0"></p_ru>
+    <p_tk vh="V" name="TAIMATUIA, J." assist="Y"></p_tk>
+    <p_tk vh="V" name="WEAVER, Ben" assist="Y"></p_tk>
+   </play>
+   <play hasball="VA" down="2" togo="10" spot="VA21" context="H,2,10,H21" playid="22,3,151" type="P" tokens="PASS:15,C,9S,H24 TACK:4"
+      text="Johns, M pass complete to Severin, C for 3 yards to the VA24 (THOMPSON, D.)." newcontext="H,3,7,H24">
+    <p_pa vh="H" qb="Johns, M" result="COMP" rcv="Severin, C" gain="3"></p_pa>
+    <p_tk vh="V" name="THOMPSON, D."></p_tk>
+   </play>
+   <play hasball="VA" down="3" togo="7" spot="VA24" context="H,3,7,H24" playid="22,4,152" type="P" first="P" tokens="PASS:15,C,9S,H36 TACK:5"
+      text="Johns, M pass complete to Severin, C for 12 yards to the VA36, 1ST DOWN VA (DEAYON, Donte)." newcontext="H,1,10,H36">
+    <p_pa vh="H" qb="Johns, M" result="COMP" rcv="Severin, C" gain="12"></p_pa>
+    <p_tk vh="V" name="DEAYON, Donte"></p_tk>
+   </play>
+   <play hasball="VA" down="1" togo="10" spot="VA36" context="H,1,10,H36" playid="22,5,153" type="P" tokens="PASS:15,I,4,*"
+      text="Johns, M pass incomplete to Mizzell, T." newcontext="H,2,10,H36">
+    <p_pa vh="H" qb="Johns, M" result="INC" rcv="Mizzell, T"></p_pa>
+   </play>
+   <play hasball="VA" down="2" togo="10" spot="VA36" context="H,2,10,H36" playid="22,6,154" type="R" turnover="F" tokens="RUSH:4,H40, FORCE:24 FUMB:V,H40,51 +:51,H30 TACK:8"
+      text="Mizzell, T rush for 4 yards to the VA40, fumble forced by MILES, Kameron, fumble by Mizzell, T recovered by BOISE WEAVER, Ben at VA40, WEAVER, Ben for 10 yards to the VA30 (Thorpe, T.J.)." newcontext="V,1,10,H30">
+    <p_ru vh="H" name="Mizzell, T" gain="4"></p_ru>
+    <p_fr vh="V" name="WEAVER, Ben" gain="10"></p_fr>
+    <p_fumb vh="H" name="Mizzell, T" at="H40" frvh="V" frname="WEAVER, Ben"></p_fumb>
+    <p_tk vh="V" name="MILES, Kameron" ff="Y"></p_tk>
+    <p_tk vh="H" name="Thorpe, T.J."></p_tk>
+   </play>
+   <drivesum plays="5" yards="19" top="2:12" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="V,H30,08:07" vh="V" spot="H30" clock="08:07" driveindex="23,154"></drivestart>
+   <play hasball="BOISE" down="1" togo="10" spot="VA30" context="V,1,10,H30" playid="23,1,155" clock="08:07" tokens="{DRIVE}:08:07 SPOT:V,H30,Y"
+      text="BOISE STATE drive start at 08:07, BOISE ball on VA30." newcontext="V,1,10,H30">
+   </play>
+   <comment text="Replay confirms call."></comment>
+   <play hasball="BOISE" down="1" togo="10" spot="VA30" context="V,1,10,H30" playid="23,2,157" type="P" first="P" score="Y" vscore="38" hscore="14" clock="08:01" tokens="PASS:0D,C,82,H00 T:08:01"
+      text="RYPIEN, Brett pass complete to SPERBECK, T. for 30 yards to the VA0, 1ST DOWN BOISE, TOUCHDOWN, clock 08:01." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="COMP" rcv="SPERBECK, T." gain="30"></p_pa>
+   </play>
+   <play hasball="BOISE" down="1" togo="0" spot="VA03" context="V,1,0,H03" playid="23,3,158" type="X" score="Y" vscore="39" hscore="14" tokens="PAT:K,49,G"
+      text="RAUSA, Tyler kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="RAUSA, Tyler" qb="RAUSA, Tyler" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="39" H="14"></score>
+   <drivesum plays="1" yards="30" top="0:06" driveindex="23" complete="Y"></drivesum>
+   <play hasball="BOISE" down="1" togo="0" spot="BOISE35" context="V,1,0,V35" playid="23,4,159" type="K" tokens="KO:49,H06 RET:33,V40 OB:"
+      text="RAUSA, Tyler kickoff 59 yards to the VA6, Zaccheaus, O return 54 yards to the BOISE40, out-of-bounds." ob="Y" newcontext="H,1,10,V40">
+    <p_ko vh="V" name="RAUSA, Tyler" gain="59"></p_ko>
+    <p_kr vh="H" name="Zaccheaus, O" gain="54"></p_kr>
+   </play>
+   <drivestart poss="H,V40,08:01" vh="H" spot="V40" clock="08:01" driveindex="24,159"></drivestart>
+   <play hasball="VA" down="1" togo="10" spot="BOISE40" context="H,1,10,V40" playid="24,1,160" clock="08:01" tokens="{DRIVE}:08:01"
+      text="VIRGINIA drive start at 08:01." newcontext="H,1,10,V40">
+   </play>
+   <play hasball="VA" down="1" togo="10" spot="BOISE40" context="H,1,10,V40" playid="24,2,161" type="P" tokens="PASS:15,I,45,*"
+      text="Johns, M pass incomplete to Butts." newcontext="H,2,10,V40">
+    <p_pa vh="H" qb="Johns, M" result="INC" rcv="Butts"></p_pa>
+   </play>
+   <play hasball="VA" down="2" togo="10" spot="BOISE40" context="H,2,10,V40" playid="24,3,162" type="P" tokens="PASS:15,C,4,V38 TACK:4,9"
+      text="Johns, M pass complete to Mizzell, T for 2 yards to the BOISE38 (THOMPSON, D.;MASTON, Mercy)." newcontext="H,3,8,V38">
+    <p_pa vh="H" qb="Johns, M" result="COMP" rcv="Mizzell, T" gain="2"></p_pa>
+    <p_tk vh="V" name="THOMPSON, D." assist="Y"></p_tk>
+    <p_tk vh="V" name="MASTON, Mercy" assist="Y"></p_tk>
+   </play>
+   <play hasball="VA" down="3" togo="8" spot="BOISE38" context="H,3,8,V38" playid="24,4,163" type="R" tokens="RUSH:15,V38, TACK:99"
+      text="Johns, M rush for no gain to the BOISE38 (BOLES, Dereck)." newcontext="H,4,8,V38">
+    <p_ru vh="H" name="Johns, M" gain="0"></p_ru>
+    <p_tk vh="V" name="BOLES, Dereck"></p_tk>
+   </play>
+   <play hasball="VA" down="4" togo="8" spot="BOISE38" context="H,4,8,V38" playid="24,5,164" type="P" tokens="PASS:15,I,8,* BRUP:24"
+      text="Johns, M pass incomplete to Thorpe, T.J. (MILES, Kameron)." newcontext="V,1,10,V38">
+    <p_pa vh="H" qb="Johns, M" result="INC" rcv="Thorpe, T.J."></p_pa>
+    <p_bu vh="V" name="MILES, Kameron"></p_bu>
+   </play>
+   <drivesum plays="4" yards="2" top="1:53" driveindex="24" complete="Y"></drivesum>
+   <drivestart poss="V,V38,06:08" vh="V" spot="V38" clock="06:08" driveindex="25,164"></drivestart>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE38" context="V,1,10,V38" playid="25,1,165" clock="06:08" tokens="{DRIVE}:06:08"
+      text="BOISE STATE drive start at 06:08." newcontext="V,1,10,V38">
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE38" context="V,1,10,V38" playid="25,2,166" type="P" tokens="PASS:0D,C,13,V46 TACK:3"
+      text="RYPIEN, Brett pass complete to McNICHOLS, J. for 8 yards to the BOISE46 (Blanding, Q)." newcontext="V,2,2,V46">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="COMP" rcv="McNICHOLS, J." gain="8"></p_pa>
+    <p_tk vh="H" name="Blanding, Q"></p_tk>
+   </play>
+   <play hasball="BOISE" down="2" togo="2" spot="BOISE46" context="V,2,2,V46" playid="25,3,167" type="P" tokens="PASS:0D,I,85,*"
+      text="RYPIEN, Brett pass incomplete to HUFF, Holden." newcontext="V,3,2,V46">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="INC" rcv="HUFF, Holden"></p_pa>
+   </play>
+   <play hasball="BOISE" down="3" togo="2" spot="BOISE46" context="V,3,2,V46" playid="25,4,168" type="R" first="R" tokens="RUSH:0C,V48, TACK:34,38"
+      text="STUART, Thomas rush for 2 yards to the BOISE48, 1ST DOWN BOISE (Moore, K;Rainey, K)." newcontext="V,1,10,V48">
+    <p_ru vh="V" name="STUART, Thomas" gain="2"></p_ru>
+    <p_tk vh="H" name="Moore, K" assist="Y"></p_tk>
+    <p_tk vh="H" name="Rainey, K" assist="Y"></p_tk>
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE48" context="V,1,10,V48" playid="25,5,169" type="P" tokens="PASS:0C,S,TM,V39 SACK:32"
+      text="STUART, Thomas sacked for loss of 9 yards to the BOISE39 (Moore, M)." newcontext="V,2,19,V39">
+    <p_pa vh="V" qb="STUART, Thomas" result="SACK" gain="-9"></p_pa>
+    <p_tk vh="H" name="Moore, M" sack="Y"></p_tk>
+   </play>
+   <play hasball="BOISE" down="2" togo="19" spot="BOISE39" context="V,2,19,V39" playid="25,6,170" type="P" tokens="PASS:0D,I,82,* BRUP:5"
+      text="RYPIEN, Brett pass incomplete to SPERBECK, T. (Harris, T)." newcontext="V,3,19,V39">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="INC" rcv="SPERBECK, T."></p_pa>
+    <p_bu vh="H" name="Harris, T"></p_bu>
+   </play>
+   <play hasball="BOISE" down="3" togo="19" spot="BOISE39" context="V,3,19,V39" playid="25,7,171" type="P" tokens="PASS:0D,C,1,V35 TACK:26"
+      text="RYPIEN, Brett pass complete to WILLIAMS-RHODES for loss of 4 yards to the BOISE35 (Canady, M)." newcontext="V,4,23,V35">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="COMP" rcv="WILLIAMS-RHODES" gain="-4"></p_pa>
+    <p_tk vh="H" name="Canady, M"></p_tk>
+   </play>
+   <play hasball="BOISE" down="4" togo="23" spot="BOISE35" context="V,4,23,V35" playid="25,8,172" type="U" tokens="PUNT:19,H25 FC:33"
+      text="WALE, Sean punt 40 yards to the VA25, fair catch by Zaccheaus, O." newcontext="H,1,10,H25">
+    <p_pu vh="V" name="WALE, Sean" gain="40" fc="Zaccheaus, O"></p_pu>
+   </play>
+   <drivesum plays="6" yards="-3" top="2:14" driveindex="25" complete="Y"></drivesum>
+   <drivestart poss="H,H25,03:54" vh="H" spot="H25" clock="03:54" driveindex="26,172"></drivestart>
+   <play hasball="VA" down="1" togo="10" spot="VA25" context="H,1,10,H25" playid="26,1,173" clock="03:54" tokens="{DRIVE}:03:54"
+      text="VIRGINIA drive start at 03:54." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="VA" down="1" togo="10" spot="VA25" context="H,1,10,H25" playid="26,2,174" type="E" tokens="PEN:H,FS,A,65,H20,N"
+      text="PENALTY VA false start (Burbank, R) 5 yards to the VA20." newcontext="H,1,15,H20">
+    <p_pn vh="H" code="FS" type="false start" name="Burbank, R" result="ACCEPT" at="H25" yards="5"></p_pn>
+   </play>
+   <play hasball="VA" down="1" togo="15" spot="VA20" context="H,1,15,H20" playid="26,3,175" type="R" tokens="RUSH:5R,H20, TACK:8,5"
+      text="Reid, A rush for no gain to the VA20 (CORREA, Kamalei;DEAYON, Donte)." newcontext="H,2,15,H20">
+    <p_ru vh="H" name="Reid, A" gain="0"></p_ru>
+    <p_tk vh="V" name="CORREA, Kamalei" assist="Y"></p_tk>
+    <p_tk vh="V" name="DEAYON, Donte" assist="Y"></p_tk>
+   </play>
+   <play hasball="VA" down="2" togo="15" spot="VA20" context="H,2,15,H20" playid="26,4,176" type="P" score="Y" vscore="45" hscore="14" turnover="I" clock="03:00" tokens="PASS:15,X,9,H25 RET:9,H00 T:03:00"
+      text="Johns, M pass intercepted by MASTON, Mercy at the VA25, MASTON, Mercy return 25 yards to the VA0, TOUCHDOWN, clock 03:00." newcontext="V,1,0,H03">
+    <p_pa vh="H" qb="Johns, M" result="INT"></p_pa>
+    <p_ir vh="V" name="MASTON, Mercy" at="H25" gain="25"></p_ir>
+   </play>
+   <drivesum plays="2" yards="-5" top="0:54" driveindex="26" complete="Y"></drivesum>
+   <drivestart poss="V,H03,03:00" vh="V" spot="H03" clock="03:00" driveindex="27,176"></drivestart>
+   <play hasball="BOISE" down="1" togo="0" spot="VA03" context="V,1,0,H03" playid="27,1,177" type="X" score="Y" vscore="46" hscore="14" tokens="PAT:K,49,G"
+      text="RAUSA, Tyler kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="RAUSA, Tyler" qb="RAUSA, Tyler" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="46" H="14"></score>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="27" complete="Y"></drivesum>
+   <play hasball="BOISE" down="1" togo="0" spot="BOISE35" context="V,1,0,V35" playid="27,2,178" type="K" tokens="KO:49,H07 RET:33,H33 OB: TACK:21 PEN:H,PF,A,85,H18,N D:1,10 SPOT:H,H18,Y"
+      text="RAUSA, Tyler kickoff 58 yards to the VA7, Zaccheaus, O return 26 yards to the VA33, out-of-bounds (FIELDS, Jack), PENALTY VA personal foul (Johnson, K) 15 yards to the VA18, 1st and 10, VA ball on VA18." ob="Y" newcontext="H,1,10,H18">
+    <p_ko vh="V" name="RAUSA, Tyler" gain="58"></p_ko>
+    <p_kr vh="H" name="Zaccheaus, O" gain="26"></p_kr>
+    <p_tk vh="V" name="FIELDS, Jack"></p_tk>
+    <p_pn vh="H" code="PF" type="personal foul" name="Johnson, K" result="ACCEPT" at="H33" yards="15"></p_pn>
+   </play>
+   <drivestart poss="H,H18,03:00" vh="H" spot="H18" clock="03:00" driveindex="28,178"></drivestart>
+   <play hasball="VA" down="1" togo="10" spot="VA18" context="H,1,10,H18" playid="28,1,179" clock="03:00" tokens="{DRIVE}:03:00"
+      text="VIRGINIA drive start at 03:00." newcontext="H,1,10,H18">
+   </play>
+   <play hasball="VA" down="1" togo="10" spot="VA18" context="H,1,10,H18" playid="28,2,180" type="R" tokens="RUSH:22,H20, TACK:4 PEN:H,HO,A,50,H10,N"
+      text="Hamm, D rush for 2 yards to the VA20 (THOMPSON, D.), PENALTY VA holding (Matteo, J) 10 yards to the VA10." newcontext="H,1,18,H10">
+    <p_ru vh="H" name="Hamm, D" gain="2"></p_ru>
+    <p_tk vh="V" name="THOMPSON, D."></p_tk>
+    <p_pn vh="H" code="HO" type="holding" name="Matteo, J" result="ACCEPT" at="H20" yards="10"></p_pn>
+   </play>
+   <play hasball="VA" down="1" togo="18" spot="VA10" context="H,1,18,H10" playid="28,3,181" tokens="D:1,18"
+      text="1st and 18." newcontext="H,1,18,H10">
+   </play>
+   <play hasball="VA" down="1" togo="18" spot="VA10" context="H,1,18,H10" playid="28,4,182" type="R" tokens="RUSH:22,H12, TACK:5,51"
+      text="Hamm, D rush for 2 yards to the VA12 (DEAYON, Donte;WEAVER, Ben)." newcontext="H,2,16,H12">
+    <p_ru vh="H" name="Hamm, D" gain="2"></p_ru>
+    <p_tk vh="V" name="DEAYON, Donte" assist="Y"></p_tk>
+    <p_tk vh="V" name="WEAVER, Ben" assist="Y"></p_tk>
+   </play>
+   <play hasball="VA" down="2" togo="16" spot="VA12" context="H,2,16,H12" playid="28,5,183" type="R" tokens="RUSH:22,H15, TACK:7,94"
+      text="Hamm, D rush for 3 yards to the VA15 (MARTARANO, J.;McCASKILL, Sam)." newcontext="H,3,13,H15">
+    <p_ru vh="H" name="Hamm, D" gain="3"></p_ru>
+    <p_tk vh="V" name="MARTARANO, J." assist="Y"></p_tk>
+    <p_tk vh="V" name="McCASKILL, Sam" assist="Y"></p_tk>
+   </play>
+   <play hasball="VA" down="3" togo="13" spot="VA15" context="H,3,13,H15" playid="28,6,184" type="P" first="P" tokens="PASS:2B,C,86,H29 TACK:7,9"
+      text="Brewer, C pass complete to Hopkins, C for 14 yards to the VA29, 1ST DOWN VA (MARTARANO, J.;MASTON, Mercy)." newcontext="H,1,10,H29">
+    <p_pa vh="H" qb="Brewer, C" result="COMP" rcv="Hopkins, C" gain="14"></p_pa>
+    <p_tk vh="V" name="MARTARANO, J." assist="Y"></p_tk>
+    <p_tk vh="V" name="MASTON, Mercy" assist="Y"></p_tk>
+   </play>
+   <play hasball="VA" down="1" togo="10" spot="VA29" context="H,1,10,H29" playid="28,7,185" type="P" turnover="I" tokens="PASS:2B,X,5,H38 RET:5,H37 TACK:86"
+      text="Brewer, C pass intercepted by DEAYON, Donte at the VA38, DEAYON, Donte return 1 yards to the VA37 (Hopkins, C)." newcontext="V,1,10,H37">
+    <p_pa vh="H" qb="Brewer, C" result="INT"></p_pa>
+    <p_ir vh="V" name="DEAYON, Donte" at="H38" gain="1"></p_ir>
+    <p_tk vh="H" name="Hopkins, C"></p_tk>
+   </play>
+   <drivesum plays="5" yards="11" top="2:34" driveindex="28" complete="Y"></drivesum>
+   <drivestart poss="V,H37,00:26" vh="V" spot="H37" clock="00:26" driveindex="29,185"></drivestart>
+   <play hasball="BOISE" down="1" togo="10" spot="VA37" context="V,1,10,H37" playid="29,1,186" clock="00:26" tokens="{DRIVE}:00:26"
+      text="BOISE STATE drive start at 00:26." newcontext="V,1,10,H37">
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="VA37" context="V,1,10,H37" playid="29,2,187" type="R" tokens="RUSH:26,H31, OB: TACK:3"
+      text="DEMAS, Devan rush for 6 yards to the VA31, out-of-bounds (Blanding, Q)." ob="Y" newcontext="V,2,4,H31">
+    <p_ru vh="V" name="DEMAS, Devan" gain="6"></p_ru>
+    <p_tk vh="H" name="Blanding, Q"></p_tk>
+   </play>
+   <score qtr="3" V="46" H="14"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="BOISE">
+    <firstdowns no="6" rush="4" pass="2" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:27"></misc>
+    <rush att="11" yds="42" gain="51" loss="9" td="0" long="0"></rush>
+    <pass comp="4" att="10" int="0" yds="44" td="1" long="0" sacks="1" sackyds="9"></pass>
+    <rcv no="4" yds="44" td="1" long="0"></rcv>
+    <punt no="1" yds="40" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="40.0"></punt>
+    <ko no="3" yds="179" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="0" blkd="0"></fg>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="7" tacka="12" tot_tack="19" sacks="0" sackyds="0" brup="1" ff="1" fr="1" fryds="10" int="2" intyds="26"></defense>
+    <ir no="2" yds="26" td="1" long="4"></ir>
+    <fr no="1" yds="10" td="0" long="10"></fr>
+    <scoring td="2" fg="1" patkick="2"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="VA">
+    <firstdowns no="2" rush="0" pass="2" penalty="0"></firstdowns>
+    <penalties no="3" yds="30"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="07:33"></misc>
+    <rush att="7" yds="11" gain="11" loss="0" td="0" long="0"></rush>
+    <pass comp="4" att="9" int="2" yds="31" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="31" td="0" long="0"></rcv>
+    <ko no="1" yds="65" ob="0" tb="1"></ko>
+    <defense tackua="12" tacka="4" tot_tack="16" tflua="2" tfla="0" tflyds="13" sacks="1" sackyds="9" brup="1"></defense>
+    <kr no="3" yds="98" td="0" long="19"></kr>
+    <fumbles no="1" lost="1"></fumbles>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="BOISE" down="2" togo="4" spot="VA31" context="V,2,4,H31" playid="29,3,188" type="#" clock="15:00" tokens="Q:4 T:15:00"
+      text="Start of 4th quarter, clock 15:00." newcontext="V,2,4,H31">
+   </play>
+   <play hasball="BOISE" down="2" togo="4" spot="VA31" context="V,2,4,H31" playid="29,4,189" type="E" first="E" tokens="PEN:H,OS,A,32,H26,1"
+      text="PENALTY VA offside (Moore, M) 5 yards to the VA26, 1ST DOWN BOISE." newcontext="V,1,10,H26">
+    <p_pn vh="H" code="OS" type="offside" name="Moore, M" result="ACCEPT" at="H31" yards="5"></p_pn>
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="VA26" context="V,1,10,H26" playid="29,5,190" type="R" tokens="RUSH:39,H26, TACK:32"
+      text="YOUNG, Kelsey rush for no gain to the VA26 (Moore, M)." newcontext="V,2,10,H26">
+    <p_ru vh="V" name="YOUNG, Kelsey" gain="0"></p_ru>
+    <p_tk vh="H" name="Moore, M"></p_tk>
+   </play>
+   <play hasball="BOISE" down="2" togo="10" spot="VA26" context="V,2,10,H26" playid="29,6,191" type="R" tokens="RUSH:39,H19, OB: TACK:5"
+      text="YOUNG, Kelsey rush for 7 yards to the VA19, out-of-bounds (Harris, T)." ob="Y" newcontext="V,3,3,H19">
+    <p_ru vh="V" name="YOUNG, Kelsey" gain="7"></p_ru>
+    <p_tk vh="H" name="Harris, T"></p_tk>
+   </play>
+   <play hasball="BOISE" down="3" togo="3" spot="VA19" context="V,3,3,H19" playid="29,7,192" type="P" tokens="PASS:0D,S,TM,H28 SACK:53"
+      text="RYPIEN, Brett sacked for loss of 9 yards to the VA28 (Kiser, M)." newcontext="V,4,12,H28">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="SACK" gain="-9"></p_pa>
+    <p_tk vh="H" name="Kiser, M" sack="Y"></p_tk>
+   </play>
+   <play hasball="BOISE" down="4" togo="12" spot="VA28" context="V,4,12,H28" playid="29,8,193" type="F" score="Y" vscore="49" hscore="14" clock="13:26" tokens="FGA:49,45,G T:13:26"
+      text="RAUSA, Tyler field goal attempt from 45 GOOD, clock 13:26." newcontext="V,1,0,V35">
+    <p_fg vh="V" name="RAUSA, Tyler" distance="45" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="49" H="14"></score>
+   <drivesum plays="5" yards="9" top="2:00" driveindex="29" complete="Y"></drivesum>
+   <play hasball="BOISE" down="1" togo="0" spot="BOISE35" context="V,1,0,V35" playid="29,9,194" type="K" tokens="KO:49,H03 RET:33,H18 TACK:91"
+      text="RAUSA, Tyler kickoff 62 yards to the VA3, Zaccheaus, O return 15 yards to the VA18 (LUCERO, D.)." newcontext="H,1,10,H18">
+    <p_ko vh="V" name="RAUSA, Tyler" gain="62"></p_ko>
+    <p_kr vh="H" name="Zaccheaus, O" gain="15"></p_kr>
+    <p_tk vh="V" name="LUCERO, D."></p_tk>
+   </play>
+   <drivestart poss="H,H18,13:26" vh="H" spot="H18" clock="13:26" driveindex="30,194"></drivestart>
+   <play hasball="VA" down="1" togo="10" spot="VA18" context="H,1,10,H18" playid="30,1,195" clock="13:26" tokens="{DRIVE}:13:26"
+      text="VIRGINIA drive start at 13:26." newcontext="H,1,10,H18">
+   </play>
+   <play hasball="VA" down="1" togo="10" spot="VA18" context="H,1,10,H18" playid="30,2,196" type="R" tokens="RUSH:10,H16, TACK:96"
+      text="Ellis, J rush for loss of 2 yards to the VA16 (HOYTE, Elliott)." newcontext="H,2,12,H16">
+    <p_ru vh="H" name="Ellis, J" gain="-2"></p_ru>
+    <p_tk vh="V" name="HOYTE, Elliott"></p_tk>
+   </play>
+   <play hasball="VA" down="2" togo="12" spot="VA16" context="H,2,12,H16" playid="30,3,197" type="R" tokens="RUSH:22,H22, TACK:69"
+      text="Hamm, D rush for 6 yards to the VA22 (HORN, Tyler)." newcontext="H,3,6,H22">
+    <p_ru vh="H" name="Hamm, D" gain="6"></p_ru>
+    <p_tk vh="V" name="HORN, Tyler"></p_tk>
+   </play>
+   <play hasball="VA" down="3" togo="6" spot="VA22" context="H,3,6,H22" playid="30,4,198" type="P" tokens="PASS:2B,I,22,*"
+      text="Brewer, C pass incomplete to Hamm, D." newcontext="H,4,6,H22">
+    <p_pa vh="H" qb="Brewer, C" result="INC" rcv="Hamm, D"></p_pa>
+   </play>
+   <play hasball="VA" down="4" togo="6" spot="VA22" context="H,4,6,H22" playid="30,5,199" type="U" tokens="PUNT:18,V29 FC:1"
+      text="Conte, N punt 49 yards to the BOISE29, fair catch by WILLIAMS-RHODES." newcontext="V,1,10,V29">
+    <p_pu vh="H" name="Conte, N" gain="49" fc="WILLIAMS-RHODES"></p_pu>
+   </play>
+   <drivesum plays="3" yards="4" top="1:39" driveindex="30" complete="Y"></drivesum>
+   <drivestart poss="V,V29,11:47" vh="V" spot="V29" clock="11:47" driveindex="31,199"></drivestart>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE29" context="V,1,10,V29" playid="31,1,200" clock="11:47" tokens="{DRIVE}:11:47"
+      text="BOISE STATE drive start at 11:47." newcontext="V,1,10,V29">
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE29" context="V,1,10,V29" playid="31,2,201" type="P" tokens="PASS:0D,C,88,V35 TACK:38"
+      text="RYPIEN, Brett pass complete to ROH, Jake for 6 yards to the BOISE35 (Rainey, K)." newcontext="V,2,4,V35">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="COMP" rcv="ROH, Jake" gain="6"></p_pa>
+    <p_tk vh="H" name="Rainey, K"></p_tk>
+   </play>
+   <play hasball="BOISE" down="2" togo="4" spot="BOISE35" context="V,2,4,V35" playid="31,3,202" type="P" tokens="PASS:0D,C,1,V36 TACK:51,31"
+      text="RYPIEN, Brett pass complete to WILLIAMS-RHODES for 1 yard to the BOISE36 (Bradshaw, Z;Peace)." newcontext="V,3,3,V36">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="COMP" rcv="WILLIAMS-RHODES" gain="1"></p_pa>
+    <p_tk vh="H" name="Bradshaw, Z" assist="Y"></p_tk>
+    <p_tk vh="H" name="Peace" assist="Y"></p_tk>
+   </play>
+   <play hasball="BOISE" down="3" togo="3" spot="BOISE36" context="V,3,3,V36" playid="31,4,203" type="P" first="P" score="Y" vscore="55" hscore="14" clock="10:26" tokens="PASS:0D,C,82,H00 T:10:26"
+      text="RYPIEN, Brett pass complete to SPERBECK, T. for 64 yards to the VA0, 1ST DOWN BOISE, TOUCHDOWN, clock 10:26." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="RYPIEN, Brett" result="COMP" rcv="SPERBECK, T." gain="64"></p_pa>
+   </play>
+   <play hasball="BOISE" down="1" togo="0" spot="VA03" context="V,1,0,H03" playid="31,5,204" type="X" score="Y" vscore="56" hscore="14" tokens="PAT:K,49,G"
+      text="RAUSA, Tyler kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="RAUSA, Tyler" qb="RAUSA, Tyler" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="56" H="14"></score>
+   <drivesum plays="3" yards="71" top="1:21" driveindex="31" complete="Y"></drivesum>
+   <play hasball="BOISE" down="1" togo="0" spot="BOISE35" context="V,1,0,V35" playid="31,6,205" type="K" tokens="KO:49,H00 RET:33,H22 TACK:44"
+      text="RAUSA, Tyler kickoff 65 yards to the VA0, Zaccheaus, O return 22 yards to the VA22 (LEE, Darren)." newcontext="H,1,10,H22">
+    <p_ko vh="V" name="RAUSA, Tyler" gain="65"></p_ko>
+    <p_kr vh="H" name="Zaccheaus, O" gain="22"></p_kr>
+    <p_tk vh="V" name="LEE, Darren"></p_tk>
+   </play>
+   <drivestart poss="H,H22,10:26" vh="H" spot="H22" clock="10:26" driveindex="32,205"></drivestart>
+   <play hasball="VA" down="1" togo="10" spot="VA22" context="H,1,10,H22" playid="32,1,206" clock="10:26" tokens="{DRIVE}:10:26"
+      text="VIRGINIA drive start at 10:26." newcontext="H,1,10,H22">
+   </play>
+   <play hasball="VA" down="1" togo="10" spot="VA22" context="H,1,10,H22" playid="32,2,207" type="R" tokens="RUSH:10,H19, TACK:91"
+      text="Ellis, J rush for loss of 3 yards to the VA19 (LUCERO, D.)." newcontext="H,2,13,H19">
+    <p_ru vh="H" name="Ellis, J" gain="-3"></p_ru>
+    <p_tk vh="V" name="LUCERO, D."></p_tk>
+   </play>
+   <play hasball="VA" down="2" togo="13" spot="VA19" context="H,2,13,H19" playid="32,3,208" type="R" tokens="RUSH:2B,H20, TACK:94"
+      text="Brewer, C rush for 1 yard to the VA20 (McCASKILL, Sam)." newcontext="H,3,12,H20">
+    <p_ru vh="H" name="Brewer, C" gain="1"></p_ru>
+    <p_tk vh="V" name="McCASKILL, Sam"></p_tk>
+   </play>
+   <play hasball="VA" down="3" togo="12" spot="VA20" context="H,3,12,H20" playid="32,4,209" type="P" tokens="PASS:2B,C,22,H23 TACK:44,99"
+      text="Brewer, C pass complete to Hamm, D for 3 yards to the VA23 (LEE, Darren;BOLES, Dereck)." newcontext="H,4,9,H23">
+    <p_pa vh="H" qb="Brewer, C" result="COMP" rcv="Hamm, D" gain="3"></p_pa>
+    <p_tk vh="V" name="LEE, Darren" assist="Y"></p_tk>
+    <p_tk vh="V" name="BOLES, Dereck" assist="Y"></p_tk>
+   </play>
+   <play hasball="VA" down="4" togo="9" spot="VA23" context="H,4,9,H23" playid="32,5,210" type="U" tokens="PUNT:18,V41 DN:"
+      text="Conte, N punt 36 yards to the BOISE41, downed." newcontext="V,1,10,V41">
+    <p_pu vh="H" name="Conte, N" gain="36"></p_pu>
+   </play>
+   <drivesum plays="3" yards="1" top="2:11" driveindex="32" complete="Y"></drivesum>
+   <drivestart poss="V,V41,08:15" vh="V" spot="V41" clock="08:15" driveindex="33,210"></drivestart>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE41" context="V,1,10,V41" playid="33,1,211" clock="08:15" tokens="{DRIVE}:08:15"
+      text="BOISE STATE drive start at 08:15." newcontext="V,1,10,V41">
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE41" context="V,1,10,V41" playid="33,2,212" type="P" first="P" tokens="PASS:0C,C,17,H22 TACK:39"
+      text="STUART, Thomas pass complete to COTTRELL, A. for 37 yards to the VA22, 1ST DOWN BOISE (Latimore, D)." newcontext="V,1,10,H22">
+    <p_pa vh="V" qb="STUART, Thomas" result="COMP" rcv="COTTRELL, A." gain="37"></p_pa>
+    <p_tk vh="H" name="Latimore, D"></p_tk>
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="VA22" context="V,1,10,H22" playid="33,3,213" type="R" tokens="RUSH:26,H23, TACK:9"
+      text="DEMAS, Devan rush for loss of 1 yard to the VA23 (Brown, A)." newcontext="V,2,11,H23">
+    <p_ru vh="V" name="DEMAS, Devan" gain="-1"></p_ru>
+    <p_tk vh="H" name="Brown, A"></p_tk>
+   </play>
+   <play hasball="BOISE" down="2" togo="11" spot="VA23" context="V,2,11,H23" playid="33,4,214" type="R" tokens="RUSH:21,H20, TACK:59"
+      text="FIELDS, Jack rush for 3 yards to the VA20 (Hall, M)." newcontext="V,3,8,H20">
+    <p_ru vh="V" name="FIELDS, Jack" gain="3"></p_ru>
+    <p_tk vh="H" name="Hall, M"></p_tk>
+   </play>
+   <play hasball="BOISE" down="3" togo="8" spot="VA20" context="V,3,8,H20" playid="33,5,215" type="R" tokens="RUSH:21,H20, TACK:31"
+      text="FIELDS, Jack rush for no gain to the VA20 (Peace)." newcontext="V,4,8,H20">
+    <p_ru vh="V" name="FIELDS, Jack" gain="0"></p_ru>
+    <p_tk vh="H" name="Peace"></p_tk>
+   </play>
+   <play hasball="BOISE" down="4" togo="8" spot="VA20" context="V,4,8,H20" playid="33,6,216" type="R" tokens="RUSH:21,H14, TACK:28"
+      text="FIELDS, Jack rush for 6 yards to the VA14 (Wahee, W)." newcontext="H,1,10,H14">
+    <p_ru vh="V" name="FIELDS, Jack" gain="6"></p_ru>
+    <p_tk vh="H" name="Wahee, W"></p_tk>
+   </play>
+   <drivesum plays="5" yards="45" top="2:33" driveindex="33" complete="Y"></drivesum>
+   <drivestart poss="H,H14,05:42" vh="H" spot="H14" clock="05:42" driveindex="34,216"></drivestart>
+   <play hasball="VA" down="1" togo="10" spot="VA14" context="H,1,10,H14" playid="34,1,217" clock="05:42" tokens="{DRIVE}:05:42"
+      text="VIRGINIA drive start at 05:42." newcontext="H,1,10,H14">
+   </play>
+   <play hasball="VA" down="1" togo="10" spot="VA14" context="H,1,10,H14" playid="34,2,218" type="R" tokens="RUSH:22,H15, TACK:97,44"
+      text="Hamm, D rush for 1 yard to the VA15 (SILSBY, Austin;LEE, Darren)." newcontext="H,2,9,H15">
+    <p_ru vh="H" name="Hamm, D" gain="1"></p_ru>
+    <p_tk vh="V" name="SILSBY, Austin" assist="Y"></p_tk>
+    <p_tk vh="V" name="LEE, Darren" assist="Y"></p_tk>
+   </play>
+   <play hasball="VA" down="2" togo="9" spot="VA15" context="H,2,9,H15" playid="34,3,219" type="R" tokens="RUSH:22,H19, TACK:48"
+      text="Hamm, D rush for 4 yards to the VA19 (MOA, David)." newcontext="H,3,5,H19">
+    <p_ru vh="H" name="Hamm, D" gain="4"></p_ru>
+    <p_tk vh="V" name="MOA, David"></p_tk>
+   </play>
+   <play hasball="VA" down="3" togo="5" spot="VA19" context="H,3,5,H19" playid="34,4,220" type="P" first="P" tokens="PASS:2B,C,4,H28 TACK:38"
+      text="Brewer, C pass complete to Mizzell, T for 9 yards to the VA28, 1ST DOWN VA (VANDER ESCH, L.)." newcontext="H,1,10,H28">
+    <p_pa vh="H" qb="Brewer, C" result="COMP" rcv="Mizzell, T" gain="9"></p_pa>
+    <p_tk vh="V" name="VANDER ESCH, L."></p_tk>
+   </play>
+   <play hasball="VA" down="1" togo="10" spot="VA28" context="H,1,10,H28" playid="34,5,221" type="R" tokens="RUSH:10,H32, TACK:38"
+      text="Ellis, J rush for 4 yards to the VA32 (VANDER ESCH, L.)." newcontext="H,2,6,H32">
+    <p_ru vh="H" name="Ellis, J" gain="4"></p_ru>
+    <p_tk vh="V" name="VANDER ESCH, L."></p_tk>
+   </play>
+   <play hasball="VA" down="2" togo="6" spot="VA32" context="H,2,6,H32" playid="34,6,222" type="P" tokens="PASS:2B,I,22,*"
+      text="Brewer, C pass incomplete to Hamm, D." newcontext="H,3,6,H32">
+    <p_pa vh="H" qb="Brewer, C" result="INC" rcv="Hamm, D"></p_pa>
+   </play>
+   <play hasball="VA" down="3" togo="6" spot="VA32" context="H,3,6,H32" playid="34,7,223" type="P" first="P" tokens="PASS:2B,C,45,H40 TACK:24"
+      text="Brewer, C pass complete to Butts for 8 yards to the VA40, 1ST DOWN VA (MILES, Kameron)." newcontext="H,1,10,H40">
+    <p_pa vh="H" qb="Brewer, C" result="COMP" rcv="Butts" gain="8"></p_pa>
+    <p_tk vh="V" name="MILES, Kameron"></p_tk>
+   </play>
+   <play hasball="VA" down="1" togo="10" spot="VA40" context="H,1,10,H40" playid="34,8,224" type="R" tokens="RUSH:10,H37, TACK:99"
+      text="Ellis, J rush for loss of 3 yards to the VA37 (BOLES, Dereck)." newcontext="H,2,13,H37">
+    <p_ru vh="H" name="Ellis, J" gain="-3"></p_ru>
+    <p_tk vh="V" name="BOLES, Dereck"></p_tk>
+   </play>
+   <play hasball="VA" down="2" togo="13" spot="VA37" context="H,2,13,H37" playid="34,9,225" type="P" tokens="PASS:2B,S,TM,H34 SACK:94,18"
+      text="Brewer, C sacked for loss of 3 yards to the VA34 (McCASKILL, Sam;FRAZIER, Jabril)." newcontext="H,3,16,H34">
+    <p_pa vh="H" qb="Brewer, C" result="SACK" gain="-3"></p_pa>
+    <p_tk vh="V" name="McCASKILL, Sam" sack="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="FRAZIER, Jabril" sack="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="VA" down="3" togo="16" spot="VA34" context="H,3,16,H34" playid="34,10,226" type="P" tokens="PASS:2B,I,TM,* BRUP:44"
+      text="Brewer, C pass incomplete (LEE, Darren)." newcontext="H,4,16,H34">
+    <p_pa vh="H" qb="Brewer, C" result="INC"></p_pa>
+    <p_bu vh="V" name="LEE, Darren"></p_bu>
+   </play>
+   <play hasball="VA" down="4" togo="16" spot="VA34" context="H,4,16,H34" playid="34,11,227" type="U" tokens="PUNT:3J,V35 DN:"
+      text="Coleman, J punt 31 yards to the BOISE35, downed." newcontext="V,1,10,V35">
+    <p_pu vh="H" name="Coleman, J" gain="31"></p_pu>
+   </play>
+   <drivesum plays="9" yards="20" top="4:41" driveindex="34" complete="Y"></drivesum>
+   <drivestart poss="V,V35,01:01" vh="V" spot="V35" clock="01:01" driveindex="35,227"></drivestart>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE35" context="V,1,10,V35" playid="35,1,228" clock="01:01" tokens="{DRIVE}:01:01"
+      text="BOISE STATE drive start at 01:01." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="BOISE" down="1" togo="10" spot="BOISE35" context="V,1,10,V35" playid="35,2,229" type="R" tokens="RUSH:TM,V34,"
+      text="TEAM rush for loss of 1 yard to the BOISE34." newcontext="V,2,11,V34">
+    <p_ru vh="V" name="TEAM" gain="-1"></p_ru>
+   </play>
+   <play hasball="BOISE" down="2" togo="11" spot="BOISE34" context="V,2,11,V34" playid="35,3,230" type="R" tokens="RUSH:TM,V33,"
+      text="TEAM rush for loss of 1 yard to the BOISE33." newcontext="V,3,12,V33">
+    <p_ru vh="V" name="TEAM" gain="-1"></p_ru>
+   </play>
+   <play hasball="BOISE" down="3" togo="12" spot="BOISE33" context="V,3,12,V33" playid="35,4,231" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of game, clock 00:00." newcontext="V,3,12,V33">
+   </play>
+   <drivesum plays="2" yards="-2" top="1:01" driveindex="35" complete="Y"></drivesum>
+   <score final="Y" V="56" H="14"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="BOISE">
+    <firstdowns no="3" rush="0" pass="2" penalty="1"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:29"></misc>
+    <rush att="9" yds="4" gain="16" loss="12" td="0" long="0"></rush>
+    <pass comp="4" att="4" int="0" yds="108" td="1" long="17" sacks="1" sackyds="9"></pass>
+    <rcv no="4" yds="108" td="1" long="17"></rcv>
+    <ko no="2" yds="127" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="0" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="11" tacka="6" tot_tack="17" tflua="3" tfla="2" tflyds="11" sacks="1" sackyds="3" brup="1"></defense>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="VA">
+    <firstdowns no="2" rush="0" pass="2" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="2" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:31"></misc>
+    <rush att="9" yds="5" gain="16" loss="11" td="0" long="0"></rush>
+    <pass comp="3" att="6" int="0" yds="20" td="0" long="0" sacks="1" sackyds="3"></pass>
+    <rcv no="3" yds="20" td="0" long="0"></rcv>
+    <punt no="3" yds="116" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="38.7"></punt>
+    <defense tackua="9" tacka="2" tot_tack="11" tflua="2" tfla="0" tflyds="10" sacks="1" sackyds="9"></defense>
+    <kr no="2" yds="37" td="0" long="0"></kr>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="V" id="BOISE" down="3" togo="12" spot="BOISE33" context="V,3,12,V33" qtr="4" clock="00:00" vtoh="0" htoh="0"
+       lastplay="End of game, clock 00:00."></downtogo>
+ </plays>
+ <message text=""></message>
+ <dnp vh="V" id="BOISE">
+  <player name="JEFFERSON, B." checkname="JEFFERSON,B" uni="0I" class="FR" gp="0" code="0I"></player>
+  <player name="UPSHAW, Anthony" checkname="UPSHAW,ANTHONY" uni="0G" class="FR" gp="0" code="0G"></player>
+  <player name="MODSTER, Sean" checkname="MODSTER,SEAN" uni="0H" class="FR" gp="0" code="0H"></player>
+  <player name="COLLINGHAM, G." checkname="COLLINGHAM,G" uni="0E" class="FR" gp="0" code="0E"></player>
+  <player name="BROWN, Brandon" checkname="BROWN,BRANDON" uni="1G" class="SO" gp="0" code="1G"></player>
+  <player name="OGLE, Alex" checkname="OGLE,ALEX" uni="1H" class="FR" gp="0" code="1H"></player>
+  <player name="TYLER, Ryan" checkname="TYLER,RYAN" uni="1E" class="FR" gp="0" code="1E"></player>
+  <player name="SMITH, Rick" checkname="SMITH,RICK" uni="1I" class="JR" gp="0" code="1I"></player>
+  <player name="ESTRADA, G." checkname="ESTRADA,G" uni="2F" class="FR" gp="0" code="2F"></player>
+  <player name="Blair, Ladarryl" checkname="BLAIR,LADARRYL" uni="2A" class="FR" gp="0" code="2A"></player>
+  <player name="ZIMMERMAN, Tyus" checkname="ZIMMERMAN,TYUS" uni="3B" class="FR" gp="0" code="3B"></player>
+  <player name="JOHNSON, Isaiah" checkname="JOHNSON,ISAIAH" uni="3J" class="FR" gp="0" code="3J"></player>
+  <player name="PISTONE, Matt" checkname="PISTONE,MATT" uni="4G" class="FR" gp="0" code="4G"></player>
+  <player name="FINLEY, Ryan" checkname="FINLEY,RYAN" uni="15" class="SO" gp="0" code="15"></player>
+  <player name="BERGER, Drew" checkname="BERGER,DREW" uni="22" class="FR" gp="0" code="22"></player>
+  <player name="WRIGHT, Damion" checkname="WRIGHT,DAMION" uni="23" class="FR" gp="0" code="23"></player>
+  <player name="RODDIE, Donzale" checkname="RODDIE,DONZALE" uni="27" class="FR" gp="0" code="27"></player>
+  <player name="McNAIR, Rondell" checkname="MCNAIR,RONDELL" uni="32" class="SR" gp="0" code="32"></player>
+  <player name="PEREZ, Gabe" checkname="PEREZ,GABE" uni="33" class="JR" gp="0" code="33"></player>
+  <player name="JACKSON, D." checkname="JACKSON,D" uni="34" class="FR" gp="0" code="34"></player>
+  <player name="HENDRIX, M." checkname="HENDRIX,M" uni="35" class="FR" gp="0" code="35"></player>
+  <player name="HEFFNER, Will" checkname="HEFFNER,WILL" uni="41" class="FR" gp="0" code="41"></player>
+  <player name="COTA, Will" checkname="COTA,WILL" uni="42" class="SO" gp="0" code="42"></player>
+  <player name="PROVENZANO, Joe" checkname="PROVENZANO,JOE" uni="43" class="FR" gp="0" code="43"></player>
+  <player name="EWERS, Blair" checkname="EWERS,BLAIR" uni="45" class="FR" gp="0" code="45"></player>
+  <player name="YATES, Eric" checkname="YATES,ERIC" uni="47" class="FR" gp="0" code="47"></player>
+  <player name="SHIELDS, Sawyer" checkname="SHIELDS,SAWYER" uni="50" class="FR" gp="0" code="50"></player>
+  <player name="WHITNEY, Sam" checkname="WHITNEY,SAM" uni="53" class="FR" gp="0" code="53"></player>
+  <player name="LOCHER, Matt" checkname="LOCHER,MATT" uni="54" class="FR" gp="0" code="54"></player>
+  <player name="BACON, Troy" checkname="BACON,TROY" uni="56" class="FR" gp="0" code="56"></player>
+  <player name="SU'ESU'E, T." checkname="SU'ESU'E,T" uni="57" class="FR" gp="0" code="57"></player>
+  <player name="NETTLES, Hunter" checkname="NETTLES,HUNTER" uni="63" class="JR" gp="0" code="63"></player>
+  <player name="LARSON, Garrett" checkname="LARSON,GARRETT" uni="67" class="FR" gp="0" code="67"></player>
+  <player name="URQUHART, Dan" checkname="URQUHART,DAN" uni="68" class="JR" gp="0" code="68"></player>
+  <player name="MOLCHON, John" checkname="MOLCHON,JOHN" uni="77" class="FR" gp="0" code="77"></player>
+  <player name="PRECIADO, A." checkname="PRECIADO,A" uni="78" class="FR" gp="0" code="78"></player>
+  <player name="QUEVEDO, Eric" checkname="QUEVEDO,ERIC" uni="79" class="FR" gp="0" code="79"></player>
+  <player name="Dean, D.J." checkname="DEAN,DJ" uni="80" class="SO" gp="0" code="80"></player>
+  <player name="McKINZIE, David" checkname="MCKINZIE,DAVID" uni="83" class="SO" gp="0" code="83"></player>
+  <player name="BLAKLEY, Chase" checkname="BLAKLEY,CHASE" uni="86" class="FR" gp="0" code="86"></player>
+  <player name="BARR, Brock" checkname="BARR,BROCK" uni="89" class="JR" gp="0" code="89"></player>
+  <player name="SEMONS, Paul" checkname="SEMONS,PAUL" uni="92" class="FR" gp="0" code="92"></player>
+  <player name="O'ROURKE, Max" checkname="O'ROURKE,MAX" uni="93" class="FR" gp="0" code="93"></player>
+  <player name="HILL, Kaleb" checkname="HILL,KALEB" uni="95" class="FR" gp="0" code="95"></player>
+  <player name="TURNER, Antoine" checkname="TURNER,ANTOINE" uni="98" class="SR" gp="0" code="98"></player>
+ </dnp>
+ <dnp vh="H" id="VA">
+  <player name="Stalker, C.J." checkname="STALKER,CJ" uni="1S" class="FR" gp="0" code="1S"></player>
+  <player name="Nicholson, D" checkname="NICHOLSON,D" uni="1" class="SR" gp="0" code="1"></player>
+  <player name="Marshall, B" checkname="MARSHALL,B" uni="1M" class="SO" gp="0" code="1M"></player>
+  <player name="Calloway, A" checkname="CALLOWAY,A" uni="2C" class="SO" gp="0" code="2C"></player>
+  <player name="Smith, L" checkname="SMITH,L" uni="3S" class="JR" gp="0" code="3S"></player>
+  <player name="Cutler, C" checkname="CUTLER,C" uni="3R" class="FR" gp="0" code="3R"></player>
+  <player name="Guerci, M" checkname="GUERCI,M" uni="4G" class="FR" gp="0" code="4G"></player>
+  <player name="Gamble, T" checkname="GAMBLE,T" uni="4T" class="FR" gp="0" code="4T"></player>
+  <player name="Johns, N" checkname="JOHNS,N" uni="6J" class="FR" gp="0" code="6J"></player>
+  <player name="Spaziani, J" checkname="SPAZIANI,J" uni="7S" class="FR" gp="0" code="7S"></player>
+  <player name="Gibson, K" checkname="GIBSON,K" uni="7" class="FR" gp="0" code="7"></player>
+  <player name="Coleman, L" checkname="COLEMAN,L" uni="9C" class="FR" gp="0" code="9C"></player>
+  <player name="Levrone, A" checkname="LEVRONE,A" uni="14" class="SO" gp="0" code="14"></player>
+  <player name="Dowling, D" checkname="DOWLING,D" uni="19" class="SO" gp="0" code="19"></player>
+  <player name="Muhammad-Wyatt" checkname="MUHAMMAD-WYATT" uni="23" class="FR" gp="0" code="23"></player>
+  <player name="Sharp, C" checkname="SHARP,C" uni="25" class="FR" gp="0" code="25"></player>
+  <player name="Cook, M" checkname="COOK,M" uni="27" class="SO" gp="0" code="27"></player>
+  <player name="Paul, G" checkname="PAUL,G" uni="36" class="FR" gp="0" code="36"></player>
+  <player name="Urie, B" checkname="URIE,B" uni="37" class="FR" gp="0" code="37"></player>
+  <player name="Cowley, T" checkname="COWLEY,T" uni="44" class="FR" gp="0" code="44"></player>
+  <player name="Polk, G" checkname="POLK,G" uni="52" class="FR" gp="0" code="52"></player>
+  <player name="Jones, C" checkname="JONES,C" uni="54" class="FR" gp="0" code="54"></player>
+  <player name="Trucilla, J" checkname="TRUCILLA,J" uni="57" class="FR" gp="0" code="57"></player>
+  <player name="Hanback, E" checkname="HANBACK,E" uni="58" class="FR" gp="0" code="58"></player>
+  <player name="Doull, R" checkname="DOULL,R" uni="63" class="JR" gp="0" code="63"></player>
+  <player name="Fieler, J" checkname="FIELER,J" uni="64" class="FR" gp="0" code="64"></player>
+  <player name="Moss, S" checkname="MOSS,S" uni="70" class="FR" gp="0" code="70"></player>
+  <player name="Bischoff, R" checkname="BISCHOFF,R" uni="74" class="FR" gp="0" code="74"></player>
+  <player name="Olanrewaju, S" checkname="OLANREWAJU,S" uni="75" class="JR" gp="0" code="75"></player>
+  <player name="Whitmire, J" checkname="WHITMIRE,J" uni="77" class="SR" gp="0" code="77"></player>
+  <player name="Babcock, J" checkname="BABCOCK,J" uni="79" class="SO" gp="0" code="79"></player>
+  <player name="Brown, J" checkname="BROWN,J" uni="81" class="JR" gp="0" code="81"></player>
+  <player name="Hogg, B" checkname="HOGG,B" uni="83" class="FR" gp="0" code="83"></player>
+  <player name="Burney, R" checkname="BURNEY,R" uni="87" class="FR" gp="0" code="87"></player>
+  <player name="Abdullah, N" checkname="ABDULLAH,N" uni="94" class="FR" gp="0" code="94"></player>
+  <player name="Wright, S" checkname="WRIGHT,S" uni="96" class="FR" gp="0" code="96"></player>
+ </dnp>
+ <longplays thresh="70">
+  <longplay vh="H" id="VA" yds="75" play="PASS" players="Johns, M to Thorpe, T.J." td="Y"></longplay>
+ </longplays>
+</fbgame>

@@ -1,0 +1,1686 @@
+<fbgame source="Tas Football" version="4.16.07" generated="10/25/2015">
+ <venue gameid="OSU-COLO" visid="COLO" homeid="OS" visname="Colorado" homename="Oregon State"
+      date="10/24/2015" location="Corvallis, Ore." stadium="Reser Stadium"
+      start="7:37 pm" end="10:50" leaguegame="Y" nitegame="Y"
+      duration="3:13" attend="36977" temp="56 deg." wind="1mph wnw" weather="cloudy, brisk">
+  <officials ref="Land Clark" ump="Matt Jordan" line="Bob Day" lj="Jeff Robinson" bj="Justin Nelson" fj="John Morton" sj="Bernie Hulscher" cj="John Love" alt="John Love"></officials>
+  <rules qtrs="4" mins="15" downs="4" yds="10" kospot="35" tbspot="20" kotbspot="25" patspot="3" safspot="20" td="6" fg="3" pat="1" patx="2" saf="2" defpat="2" rouge="1" field="100" toh="3" sackrush="Y" fgaplay="Y" netpunttb="Y"></rules>
+ </venue>
+ <team vh="V" code="157" id="COLO" name="Colorado" record="4-4" conf-record="1-3" abb="C">
+  <linescore prds="4" line="3,7,0,7" score="17">
+   <lineprd prd="1" score="3"></lineprd>
+   <lineprd prd="2" score="7"></lineprd>
+   <lineprd prd="3" score="0"></lineprd>
+   <lineprd prd="4" score="7"></lineprd>
+  </linescore>
+  <totals totoff_plays="68" totoff_yards="328" totoff_avg="4.8">
+   <firstdowns no="20" rush="11" pass="8" penalty="1"></firstdowns>
+   <penalties no="9" yds="80"></penalties>
+   <conversions thirdconv="5" thirdatt="14" fourthconv="1" fourthatt="1"></conversions>
+   <fumbles no="1" lost="0"></fumbles>
+   <misc yds="0" top="33:44" ona="0" onm="0" ptsto="0"></misc>
+   <redzone att="4" scores="3" points="17" tdrush="1" tdpass="1" fgmade="1" endfga="1" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="45" yds="188" gain="208" loss="20" td="1" long="24"></rush>
+   <pass comp="16" att="23" int="0" yds="140" td="1" long="22" sacks="1" sackyds="9"></pass>
+   <rcv no="16" yds="140" td="1" long="22"></rcv>
+   <punt no="6" yds="252" long="58" blkd="0" tb="0" fc="4" plus50="1" inside20="2" avg="42.0"></punt>
+   <ko no="4" yds="251" ob="0" tb="0"></ko>
+   <fg made="1" att="2" long="21" blkd="0"></fg>
+   <pat kickatt="2" kickmade="2"></pat>
+   <defense tackua="45" tacka="18" tot_tack="63" tflua="5" tfla="0" tflyds="31" sacks="5" sackyds="31" brup="4" qbh="1" ff="1" int="1" intyds="0"></defense>
+   <kr no="3" yds="58" td="0" long="21"></kr>
+   <ir no="1" yds="0" td="0" long="0"></ir>
+   <scoring td="2" fg="1" patkick="2"></scoring>
+  </totals>
+  <player name="Carr, Patrick" shortname="Carr, Patrick" checkname="CARR,PATRICK" uni="1" class="FR" gp="1" gs="1" opos="RB" code="1">
+   <rush att="2" yds="7" gain="7" loss="0" td="0" long="4"></rush>
+  </player>
+  <player name="Crawley, Ken" shortname="Crawley, Ken" checkname="CRAWLEY,KEN" uni="2" class="SR" gp="1" gs="1" dpos="CB" code="2">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="Witherspoon,Ahk" shortname="Witherspoon,Ahk" checkname="WITHERSPOON,AHK" uni="2C" class="JR" gp="1" gs="1" dpos="CB" code="2C">
+   <defense tackua="5" tacka="0" tot_tack="5"></defense>
+  </player>
+  <player name="Ross, Devin" shortname="Ross, Devin" checkname="ROSS,DEVIN" uni="2B" class="SO" gp="1" gs="1" opos="WR" code="2B">
+   <rcv no="1" yds="19" td="0" long="19"></rcv>
+  </player>
+  <player name="Bobo, Bryce" shortname="Bobo, Bryce" checkname="BOBO,BRYCE" uni="4" class="SO" gp="1" gs="1" opos="WR" code="4">
+   <rcv no="2" yds="14" td="0" long="8"></rcv>
+  </player>
+  <player name="Awuzie, Chidobe" shortname="Awuzie, Chidobe" checkname="AWUZIE,CHIDOBE" uni="4A" class="JR" gp="1" gs="1" dpos="CB" code="4A">
+   <defense tackua="3" tacka="3" tot_tack="6" tflua="1" tfla="0" tflyds="3" sackua="1" sacka="0" sackyds="3" brup="2" int="1" intyds="0"></defense>
+   <ir no="1" yds="0" td="0" long="0"></ir>
+  </player>
+  <player name="White, Evan" shortname="White, Evan" checkname="WHITE,EVAN" uni="6" class="SO" gp="1" code="6"></player>
+  <player name="Fisher, Nick" shortname="Fisher, Nick" checkname="FISHER,NICK" uni="7A" class="FR" gp="1" code="7A"></player>
+  <player name="Kinney, Alex" shortname="Kinney, Alex" checkname="KINNEY,ALEX" uni="8A" class="FR" gp="1" code="8A">
+   <punt no="6" yds="252" long="58" blkd="0" tb="0" fc="4" plus50="1" inside20="2" avg="42.0"></punt>
+  </player>
+  <player name="Laguda, Afolabi" shortname="Laguda, Afolabi" checkname="LAGUDA,AFOLABI" uni="8" class="SO" gp="1" code="8"></player>
+  <player name="Thompson,Tedric" shortname="Thompson,Tedric" checkname="THOMPSON,TEDRIC" uni="9" class="JR" gp="1" gs="1" dpos="SS" code="9">
+   <defense tackua="2" tacka="1" tot_tack="3" brup="1"></defense>
+  </player>
+  <player name="Gonzalez, Diego" shortname="Gonzalez, Diego" checkname="GONZALEZ,DIEGO" uni="10" class="JR" gp="1" code="10">
+   <fg made="1" att="2" long="21" blkd="0"></fg>
+   <pat kickatt="2" kickmade="2"></pat>
+   <scoring fg="1" patkick="2"></scoring>
+  </player>
+  <player name="Walker, John" shortname="Walker, John" checkname="WALKER,JOHN" uni="12" class="JR" gp="1" code="12"></player>
+  <player name="Liufau, Sefo" shortname="Liufau, Sefo" checkname="LIUFAU,SEFO" uni="13" class="JR" gp="1" gs="1" opos="QB" code="13">
+   <rush att="18" yds="44" gain="59" loss="15" td="1" long="16"></rush>
+   <pass comp="16" att="23" int="0" yds="140" td="1" long="22" sacks="1" sackyds="9"></pass>
+   <fumbles no="1" lost="0"></fumbles>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="MacIntyre, Jay" shortname="MacIntyre, Jay" checkname="MACINTYRE,JAY" uni="14" class="FR" gp="1" code="14">
+   <rcv no="2" yds="3" td="0" long="4"></rcv>
+  </player>
+  <player name="Graham, Chris" shortname="Graham, Chris" checkname="GRAHAM,CHRIS" uni="15" class="SO" gp="1" code="15">
+   <ko no="4" yds="251" ob="0" tb="0"></ko>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Awini, Jaleel" shortname="Awini, Jaleel" checkname="AWINI,JALEEL" uni="16" class="JR" gp="1" code="16">
+   <defense tackua="3" tacka="1" tot_tack="4"></defense>
+  </player>
+  <player name="Frazier, George" shortname="Frazier, George" checkname="FRAZIER,GEORGE" uni="18" class="SO" gp="1" code="18"></player>
+  <player name="Bell, Jered" shortname="Bell, Jered" checkname="BELL,JERED" uni="21" class="SR" gp="1" gs="1" dpos="FS" code="21">
+   <defense tackua="7" tacka="2" tot_tack="9"></defense>
+  </player>
+  <player name="Spruce, Nelson" shortname="Spruce, Nelson" checkname="SPRUCE,NELSON" uni="22" class="SR" gp="1" gs="1" opos="WR" code="22">
+   <rcv no="6" yds="60" td="1" long="15"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Lindsay,Phillip" shortname="Lindsay,Phillip" checkname="LINDSAY,PHILLIP" uni="23" class="SO" gp="1" code="23">
+   <rush att="9" yds="51" gain="54" loss="3" td="0" long="24"></rush>
+   <rcv no="2" yds="14" td="0" long="10"></rcv>
+  </player>
+  <player name="Walker, Lee" shortname="Walker, Lee" checkname="WALKER,LEE" uni="25" class="FR" gp="1" code="25">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Oliver, Isaiah" shortname="Oliver, Isaiah" checkname="OLIVER,ISAIAH" uni="26" class="FR" gp="1" code="26"></player>
+  <player name="Silzer, Cameron" shortname="Silzer, Cameron" checkname="SILZER,CAMERON" uni="28" class="JR" gp="1" code="28">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Lee, Donovan" shortname="Lee, Donovan" checkname="LEE,DONOVAN" uni="29" class="SO" gp="1" code="29">
+   <rush att="8" yds="55" gain="55" loss="0" td="0" long="17"></rush>
+   <rcv no="2" yds="8" td="0" long="4"></rcv>
+   <kr no="2" yds="41" td="0" long="21"></kr>
+  </player>
+  <player name="Olugbode,Kennet" shortname="Olugbode,Kennet" checkname="OLUGBODE,KENNET" uni="31" class="JR" gp="1" gs="1" dpos="JACK" code="31">
+   <defense tackua="5" tacka="2" tot_tack="7" tflua="1" tfla="0" tflyds="9" sackua="1" sacka="0" sackyds="9" brup="1"></defense>
+  </player>
+  <player name="Gamboa, Rick" shortname="Gamboa, Rick" checkname="GAMBOA,RICK" uni="32" class="FR" gp="1" gs="1" dpos="MIKE" code="32">
+   <defense tackua="2" tacka="3" tot_tack="5"></defense>
+  </player>
+  <player name="Murphy, Jordan" shortname="Murphy, Jordan" checkname="MURPHY,JORDAN" uni="33" class="SR" gp="1" code="33">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Hill, Chris" shortname="Hill, Chris" checkname="HILL,CHRIS" uni="38" class="SO" gp="1" code="38">
+   <kr no="1" yds="17" td="0" long="17"></kr>
+  </player>
+  <player name="Sanchez, Jaisen" shortname="Sanchez, Jaisen" checkname="SANCHEZ,JAISEN" uni="39" class="FR" gp="1" code="39"></player>
+  <player name="Powell,Christia" shortname="Powell,Christia" checkname="POWELL,CHRISTIA" uni="46" class="SR" gp="1" code="46">
+   <rush att="7" yds="33" gain="33" loss="0" td="0" long="8"></rush>
+  </player>
+  <player name="Shaver,Christia" shortname="Shaver,Christia" checkname="SHAVER,CHRISTIA" uni="47" class="SO" gp="1" code="47">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Jackson, Leo" shortname="Jackson, Leo" checkname="JACKSON,LEO" uni="52" class="SO" gp="1" gs="1" dpos="DE" code="52">
+   <defense tackua="2" tacka="1" tot_tack="3" tflua="1" tfla="0" tflyds="4" sackua="1" sacka="0" sackyds="4"></defense>
+  </player>
+  <player name="Wiefels, Sully" shortname="Wiefels, Sully" checkname="WIEFELS,SULLY" uni="53" class="JR" gp="1" code="53"></player>
+  <player name="Kafovalu,Samson" shortname="Kafovalu,Samson" checkname="KAFOVALU,SAMSON" uni="54" class="JR" gp="1" code="54">
+   <defense tackua="3" tacka="1" tot_tack="4" tflua="1" tfla="0" tflyds="8" sackua="1" sacka="0" sackyds="8"></defense>
+  </player>
+  <player name="Franke, Jase" shortname="Franke, Jase" checkname="FRANKE,JASE" uni="56" class="FR" gp="1" code="56">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Solis, Justin" shortname="Solis, Justin" checkname="SOLIS,JUSTIN" uni="57" class="SR" gp="1" gs="1" dpos="DT" code="57">
+   <defense tackua="3" tacka="1" tot_tack="4"></defense>
+  </player>
+  <player name="Coleman, Tim" shortname="Coleman, Tim" checkname="COLEMAN,TIM" uni="59" class="SO" gp="1" code="59"></player>
+  <player name="Smith, Wyatt Tu" shortname="Smith, Wyatt Tu" checkname="SMITH,WYATT TU" uni="69" class="SR" gp="1" code="69"></player>
+  <player name="Callahan, Shane" shortname="Callahan, Shane" checkname="CALLAHAN,SHANE" uni="70" class="JR" gp="1" gs="1" opos="LG" code="70"></player>
+  <player name="Kronshage, Sam" shortname="Kronshage, Sam" checkname="KRONSHAGE,SAM" uni="71" class="SO" gp="1" gs="1" opos="LT" code="71"></player>
+  <player name="Kelley, Alex" shortname="Kelley, Alex" checkname="KELLEY,ALEX" uni="74" class="JR" gp="1" gs="1" opos="C" code="74"></player>
+  <player name="Kaiser, Josh" shortname="Kaiser, Josh" checkname="KAISER,JOSH" uni="75" class="FR" gp="1" code="75"></player>
+  <player name="Nembot,Stephane" shortname="Nembot,Stephane" checkname="NEMBOT,STEPHANE" uni="77" class="SR" gp="1" gs="1" opos="RT" code="77"></player>
+  <player name="Lisella, John" shortname="Lisella, John" checkname="LISELLA,JOHN" uni="78" class="FR" gp="1" code="78"></player>
+  <player name="Huckins,Jonatha" shortname="Huckins,Jonatha" checkname="HUCKINS,JONATHA" uni="79" class="SO" gp="1" gs="1" opos="RG" code="79"></player>
+  <player name="Irwin, Sean" shortname="Irwin, Sean" checkname="IRWIN,SEAN" uni="81" class="JR" gp="1" gs="1" opos="TE" code="81">
+   <rcv no="1" yds="22" td="0" long="22"></rcv>
+  </player>
+  <player name="Orban, Robert" shortname="Orban, Robert" checkname="ORBAN,ROBERT" uni="82" class="SO" gp="1" code="82"></player>
+  <player name="Johnson, Colin" shortname="Johnson, Colin" checkname="JOHNSON,COLIN" uni="84" class="SR" gp="1" code="84"></player>
+  <player name="Keeney, Dylan" shortname="Keeney, Dylan" checkname="KEENEY,DYLAN" uni="86" class="FR" gp="1" code="86"></player>
+  <player name="Jones, Hayden" shortname="Jones, Hayden" checkname="JONES,HAYDEN" uni="89" class="FR" gp="1" code="89"></player>
+  <player name="Carrell, Jordan" shortname="Carrell, Jordan" checkname="CARRELL,JORDAN" uni="92" class="JR" gp="1" gs="1" dpos="DT" code="92">
+   <defense tackua="2" tacka="1" tot_tack="3"></defense>
+  </player>
+  <player name="McCartney,Derek" shortname="McCartney,Derek" checkname="MCCARTNEY,DEREK" uni="95" class="SO" gp="1" gs="1" dpos="SAM" code="95"></player>
+  <player name="Hasselbach,Terr" shortname="Hasselbach,Terr" checkname="HASSELBACH,TERR" uni="96" class="FR" gp="1" code="96">
+   <defense tackua="1" tacka="0" tot_tack="1" tflua="1" tfla="0" tflyds="7" sackua="1" sacka="0" sackyds="7" ff="1"></defense>
+  </player>
+  <player name="Gilbert, Jimmie" shortname="Gilbert, Jimmie" checkname="GILBERT,JIMMIE" uni="98" class="JR" gp="1" code="98">
+   <defense tackua="0" tacka="1" tot_tack="1" qbh="1"></defense>
+  </player>
+  <player name="Boatman, Brian" shortname="Boatman, Brian" checkname="BOATMAN,BRIAN" uni="99" class="SO" gp="1" code="99"></player>
+  <player name="TEAM" shortname="TEAM" checkname="TEAM" uni="TM" class="FR" gp="1" code="198">
+   <rush att="1" yds="-2" gain="0" loss="2" td="0" long="0"></rush>
+  </player>
+ </team>
+ <team vh="H" code="528" id="OS" name="Oregon State" record="2-5" conf-record="0-4" abb="O">
+  <linescore prds="4" line="7,3,0,3" score="13">
+   <lineprd prd="1" score="7"></lineprd>
+   <lineprd prd="2" score="3"></lineprd>
+   <lineprd prd="3" score="0"></lineprd>
+   <lineprd prd="4" score="3"></lineprd>
+  </linescore>
+  <totals totoff_plays="73" totoff_yards="401" totoff_avg="5.5">
+   <firstdowns no="17" rush="9" pass="7" penalty="1"></firstdowns>
+   <penalties no="8" yds="65"></penalties>
+   <conversions thirdconv="6" thirdatt="15" fourthconv="0" fourthatt="3"></conversions>
+   <fumbles no="1" lost="0"></fumbles>
+   <misc yds="0" top="26:16" ona="0" onm="0" ptsto="0"></misc>
+   <redzone att="3" scores="3" points="13" tdrush="1" tdpass="0" fgmade="2" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="41" yds="202" gain="226" loss="24" td="1" long="27"></rush>
+   <pass comp="13" att="32" int="1" yds="199" td="0" long="36" sacks="5" sackyds="31"></pass>
+   <rcv no="13" yds="199" td="0" long="36"></rcv>
+   <punt no="3" yds="110" long="40" blkd="0" tb="0" fc="3" plus50="0" inside20="1" avg="36.7"></punt>
+   <ko no="4" yds="241" ob="0" tb="1"></ko>
+   <fg made="2" att="3" long="42" blkd="0"></fg>
+   <pat kickatt="1" kickmade="1"></pat>
+   <defense tackua="41" tacka="38" tot_tack="79" tflua="2" tfla="2" tflyds="13" sacks="1" sackyds="9" brup="2" qbh="3"></defense>
+   <kr no="4" yds="110" td="0" long="41"></kr>
+   <scoring td="1" fg="2" patkick="1"></scoring>
+  </totals>
+  <player name="Collins, Seth" shortname="Collins, Seth" checkname="COLLINS,SETH" uni="0D" class="FR" gp="1" gs="1" opos="QB" code="0D">
+   <rush att="9" yds="50" gain="54" loss="4" td="0" long="27"></rush>
+   <pass comp="4" att="7" int="0" yds="77" td="0" long="35" sacks="1" sackyds="4"></pass>
+  </player>
+  <player name="Brown, Chris" shortname="Brown, Chris" checkname="BROWN,CHRIS" uni="1" class="JR" gp="1" code="1">
+   <rush att="5" yds="42" gain="42" loss="0" td="0" long="13"></rush>
+  </player>
+  <player name="Mitchell, Nick" shortname="Mitchell, Nick" checkname="MITCHELL,NICK" uni="1D" class="FR" gp="1" gs="1" opos="QB" code="1D">
+   <rush att="4" yds="-18" gain="2" loss="20" td="0" long="0"></rush>
+   <pass comp="9" att="24" int="1" yds="122" td="0" long="36" sacks="4" sackyds="27"></pass>
+   <rcv no="1" yds="11" td="0" long="11"></rcv>
+   <fumbles no="1" lost="0"></fumbles>
+  </player>
+  <player name="Owens, Garrett" shortname="Owens, Garrett" checkname="OWENS,GARRETT" uni="2A" class="SO" gp="1" code="2A">
+   <ko no="4" yds="241" ob="0" tb="1"></ko>
+   <fg made="2" att="3" long="42" blkd="0"></fg>
+   <pat kickatt="1" kickmade="1"></pat>
+   <scoring fg="2" patkick="1"></scoring>
+  </player>
+  <player name="Arnold,Brandon" shortname="Arnold,Brandon" checkname="ARNOLD,BRANDON" uni="3" class="SO" gp="1" code="3">
+   <defense tackua="3" tacka="1" tot_tack="4"></defense>
+  </player>
+  <player name="Strong, Justin" shortname="Strong, Justin" checkname="STRONG,JUSTIN" uni="4" class="SO" gp="1" gs="1" dpos="FS" code="4">
+   <defense tackua="2" tacka="2" tot_tack="4"></defense>
+  </player>
+  <player name="Haley, Kyle" shortname="Haley, Kyle" checkname="HALEY,KYLE" uni="5" class="JR" gp="1" code="5">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Bolden,Victor" shortname="Bolden,Victor" checkname="BOLDEN,VICTOR" uni="6" class="JR" gp="1" gs="1" opos="WR" code="6">
+   <rush att="1" yds="5" gain="5" loss="0" td="0" long="5"></rush>
+   <rcv no="3" yds="60" td="0" long="36"></rcv>
+   <kr no="4" yds="110" td="0" long="41"></kr>
+  </player>
+  <player name="Mageo, Rommel" shortname="Mageo, Rommel" checkname="MAGEO,ROMMEL" uni="8" class="JR" gp="1" gs="1" dpos="MIKE" code="8">
+   <defense tackua="3" tacka="5" tot_tack="8"></defense>
+  </player>
+  <player name="Guyton, Datrin" shortname="Guyton, Datrin" checkname="GUYTON,DATRIN" uni="9" class="FR" gp="1" gs="1" opos="WR" code="9">
+   <rcv no="4" yds="56" td="0" long="26"></rcv>
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Hill, Kendall" shortname="Hill, Kendall" checkname="HILL,KENDALL" uni="12" class="JR" gp="1" code="12">
+   <defense tackua="4" tacka="1" tot_tack="5"></defense>
+  </player>
+  <player name="Villamin, J." shortname="Villamin, J." checkname="VILLAMIN,J" uni="13" class="SO" gp="1" gs="1" opos="WR" code="13">
+   <rcv no="4" yds="65" td="0" long="35"></rcv>
+  </player>
+  <player name="Decoud, Treston" shortname="Decoud, Treston" checkname="DECOUD,TRESTON" uni="14" class="JR" gp="1" gs="1" dpos="CB" code="14">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="Lucas, Paul" shortname="Lucas, Paul" checkname="LUCAS,PAUL" uni="16" class="FR" gp="1" code="16">
+   <rcv no="1" yds="7" td="0" long="7"></rcv>
+  </player>
+  <player name="Noland-Lewis, C" shortname="Noland-Lewis, C" checkname="NOLAND-LEWIS,C" uni="17" class="JR" gp="1" gs="1" dpos="NB" code="17">
+   <defense tackua="3" tacka="2" tot_tack="5" tflua="0" tfla="1" tflyds="4" sackua="0" sacka="1" sackyds="4" qbh="1"></defense>
+  </player>
+  <player name="Gilmore, Malik" shortname="Gilmore, Malik" checkname="GILMORE,MALIK" uni="18" class="JR" gp="1" code="18"></player>
+  <player name="Haskins, Damien" shortname="Haskins, Damien" checkname="HASKINS,DAMIEN" uni="23" class="SO" gp="1" code="23">
+   <rush att="1" yds="0" gain="0" loss="0" td="0" long="0"></rush>
+  </player>
+  <player name="Woods,Storm" shortname="Woods,Storm" checkname="WOODS,STORM" uni="24" class="SR" gp="1" code="24">
+   <rush att="1" yds="1" gain="1" loss="0" td="0" long="1"></rush>
+  </player>
+  <player name="Bailey,Jaylynn" shortname="Bailey,Jaylynn" checkname="BAILEY,JAYLYNN" uni="25" class="SO" gp="1" code="25"></player>
+  <player name="Chappell, Devin" shortname="Chappell, Devin" checkname="CHAPPELL,DEVIN" uni="26" class="JR" gp="1" gs="1" dpos="SS" code="26">
+   <defense tackua="1" tacka="2" tot_tack="3"></defense>
+  </player>
+  <player name="Patrick, Naji" shortname="Patrick, Naji" checkname="PATRICK,NAJI" uni="27" class="SR" gp="1" code="27">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Williams, D." shortname="Williams, D." checkname="WILLIAMS,D" uni="29" class="FR" gp="1" gs="1" dpos="CB" code="29">
+   <defense tackua="4" tacka="0" tot_tack="4" qbh="1"></defense>
+  </player>
+  <player name="Ovgard, Gabe" shortname="Ovgard, Gabe" checkname="OVGARD,GABE" uni="30" class="FR" gp="1" code="30"></player>
+  <player name="Porebski, Nick" shortname="Porebski, Nick" checkname="POREBSKI,NICK" uni="31" class="SO" gp="1" code="31">
+   <punt no="3" yds="110" long="40" blkd="0" tb="0" fc="3" plus50="0" inside20="1" avg="36.7"></punt>
+  </player>
+  <player name="Willis, J." shortname="Willis, J." checkname="WILLIS,J" uni="32" class="FR" gp="1" code="32">
+   <defense tackua="2" tacka="1" tot_tack="3"></defense>
+  </player>
+  <player name="Nall, Ryan" shortname="Nall, Ryan" checkname="NALL,RYAN" uni="34" class="FR" gp="1" gs="1" opos="TB" code="34">
+   <rush att="20" yds="122" gain="122" loss="0" td="1" long="20"></rush>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Saulo, Caleb" shortname="Saulo, Caleb" checkname="SAULO,CALEB" uni="35" class="JR" gp="1" gs="1" dpos="WILL" code="35">
+   <defense tackua="2" tacka="4" tot_tack="6"></defense>
+  </player>
+  <player name="Navarro, Ryan" shortname="Navarro, Ryan" checkname="NAVARRO,RYAN" uni="36" class="JR" gp="1" code="36"></player>
+  <player name="Okonkwo, C." shortname="Okonkwo, C." checkname="OKONKWO,C" uni="38" class="SO" gp="1" code="38"></player>
+  <player name="Ortiz, Ricky" shortname="Ortiz, Ricky" checkname="ORTIZ,RICKY" uni="42" class="JR" gp="1" code="42">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Soesman, Adam" shortname="Soesman, Adam" checkname="SOESMAN,ADAM" uni="43" class="FR" gp="1" code="43">
+   <defense tackua="1" tacka="0" tot_tack="1" tflua="1" tfla="0" tflyds="1"></defense>
+  </player>
+  <player name="Wallen, Shane" shortname="Wallen, Shane" checkname="WALLEN,SHANE" uni="45" class="SR" gp="1" code="45"></player>
+  <player name="Ugwoegbu, B." shortname="Ugwoegbu, B." checkname="UGWOEGBU,B" uni="47" class="FR" gp="1" code="47">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="James, Jaswha" shortname="James, Jaswha" checkname="JAMES,JASWHA" uni="48" class="SR" gp="1" gs="1" dpos="LE" code="48">
+   <defense tackua="2" tacka="2" tot_tack="4"></defense>
+  </player>
+  <player name="Mitchell, Josh" shortname="Mitchell, Josh" checkname="MITCHELL,JOSH" uni="50" class="SR" gp="1" gs="1" opos="C" code="50">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Delp, Kammy" shortname="Delp, Kammy" checkname="DELP,KAMMY" uni="51" class="FR" gp="1" code="51"></player>
+  <player name="Houston, Sumner" shortname="Houston, Sumner" checkname="HOUSTON,SUMNER" uni="52" class="FR" gp="1" code="52">
+   <defense tackua="0" tacka="3" tot_tack="3"></defense>
+  </player>
+  <player name="Hungalu, Manase" shortname="Hungalu, Manase" checkname="HUNGALU,MANASE" uni="55" class="SO" gp="1" gs="1" dpos="STUD" code="55">
+   <defense tackua="1" tacka="6" tot_tack="7"></defense>
+  </player>
+  <player name="Seumalo, Isaac" shortname="Seumalo, Isaac" checkname="SEUMALO,ISAAC" uni="56" class="JR" gp="1" gs="1" opos="RG" code="56"></player>
+  <player name="Barnett, L." shortname="Barnett, L." checkname="BARNETT,L" uni="59" class="SR" gp="1" code="59">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Hopkins, Will" shortname="Hopkins, Will" checkname="HOPKINS,WILL" uni="60" class="SO" gp="1" code="60"></player>
+  <player name="Clarkson, Drew" shortname="Clarkson, Drew" checkname="CLARKSON,DREW" uni="61" class="FR" gp="1" code="61"></player>
+  <player name="Lauina, Fred" shortname="Lauina, Fred" checkname="LAUINA,FRED" uni="64" class="SO" gp="1" gs="1" opos="LG" code="64"></player>
+  <player name="Tauaho, Sosaia" shortname="Tauaho, Sosaia" checkname="TAUAHO,SOSAIA" uni="68" class="JR" gp="1" code="68"></player>
+  <player name="Stanton, Dustin" shortname="Stanton, Dustin" checkname="STANTON,DUSTIN" uni="74" class="JR" gp="1" gs="1" opos="RT" code="74"></player>
+  <player name="Harlow, Sean" shortname="Harlow, Sean" checkname="HARLOW,SEAN" uni="77" class="JR" gp="1" gs="1" opos="LT" code="77"></player>
+  <player name="Togiai, Noah" shortname="Togiai, Noah" checkname="TOGIAI,NOAH" uni="81" class="FR" gp="1" code="81"></player>
+  <player name="Clute, Kellen" shortname="Clute, Kellen" checkname="CLUTE,KELLEN" uni="83" class="SR" gp="1" code="83"></player>
+  <player name="Dockery, Rahmel" shortname="Dockery, Rahmel" checkname="DOCKERY,RAHMEL" uni="88" class="JR" gp="1" code="88"></player>
+  <player name="Failauga, Titus" shortname="Failauga, Titus" checkname="FAILAUGA,TITUS" uni="93" class="SO" gp="1" code="93">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="Pritchard, B." shortname="Pritchard, B." checkname="PRITCHARD,B" uni="95" class="SO" gp="1" gs="1" dpos="RE" code="95">
+   <defense tackua="1" tacka="3" tot_tack="4" tflua="0" tfla="1" tflyds="5" sackua="0" sacka="1" sackyds="5" brup="1"></defense>
+  </player>
+  <player name="Peko, Kyle" shortname="Peko, Kyle" checkname="PEKO,KYLE" uni="99" class="SR" gp="1" gs="1" dpos="NT" code="99">
+   <defense tackua="4" tacka="2" tot_tack="6" tflua="1" tfla="0" tflyds="3" brup="1" qbh="1"></defense>
+  </player>
+  <player name="TEAM" shortname="TEAM" checkname="TEAM" uni="TM" class="FR" gp="1" code="198">
+   <pass comp="0" att="1" int="0" yds="0" td="0" long="0" sacks="0" sackyds="0"></pass>
+  </player>
+ </team>
+ <scores>
+  <score vh="V" team="COLO" qtr="1" clock="06:26" type="FG" yds="21" scorer="Gonzalez, Diego" plays="13" drive="73" top="8:34" vscore="3" hscore="0" driveindex="1"></score>
+  <score vh="H" team="OS" qtr="1" clock="02:58" type="TD" how="RUSH" yds="1" scorer="Nall, Ryan" patby="Owens, Garrett" pattype="KICK" patres="GOOD" plays="8" drive="74" top="3:21" vscore="3" hscore="7" driveindex="2"></score>
+  <score vh="V" team="COLO" qtr="2" clock="09:11" type="TD" how="PASS" yds="15" scorer="Spruce, Nelson" passer="Liufau, Sefo" patby="Gonzalez, Diego" pattype="KICK" patres="GOOD" plays="10" drive="67" top="4:11" vscore="10" hscore="7" driveindex="5"></score>
+  <score vh="H" team="OS" qtr="2" clock="05:44" type="FG" yds="42" scorer="Owens, Garrett" plays="9" drive="50" top="3:20" vscore="10" hscore="10" driveindex="6"></score>
+  <score vh="V" team="COLO" qtr="4" clock="12:31" type="TD" how="RUSH" yds="4" scorer="Liufau, Sefo" patby="Gonzalez, Diego" pattype="KICK" patres="GOOD" plays="13" drive="85" top="4:22" vscore="17" hscore="10" driveindex="14"></score>
+  <score vh="H" team="OS" qtr="4" clock="09:12" type="FG" yds="34" scorer="Owens, Garrett" plays="9" drive="60" top="3:13" vscore="17" hscore="13" driveindex="15"></score>
+ </scores>
+ <fgas>
+  <fga vh="V" team="COLO" kicker="Gonzalez, Diego" qtr="1" clock="06:26" distance="21" result="good"></fga>
+  <fga vh="H" team="OS" kicker="Owens, Garrett" qtr="2" clock="05:44" distance="42" result="good"></fga>
+  <fga vh="H" team="OS" kicker="Owens, Garrett" qtr="3" clock="11:06" distance="44" result="missed"></fga>
+  <fga vh="V" team="COLO" kicker="Gonzalez, Diego" qtr="3" clock="04:13" distance="45" result="missed"></fga>
+  <fga vh="H" team="OS" kicker="Owens, Garrett" qtr="4" clock="09:12" distance="34" result="good"></fga>
+ </fgas>
+ <drives>
+  <drive vh="V" team="COLO" start="KO,1,15:00,25" end="FG,1,06:26,98" plays="13" yards="73" top="8:34" start_how="KO" start_qtr="1" start_time="15:00" start_spot="COLO25" end_how="FG" end_qtr="1" end_time="06:26" end_spot="OS02" rz="1" driveindex="1"></drive>
+  <drive vh="H" team="OS" start="KO,1,06:19,26" end="TD,1,02:58,100" plays="8" yards="74" top="3:21" start_how="KO" start_qtr="1" start_time="06:19" start_spot="OS26" end_how="TD" end_qtr="1" end_time="02:58" end_spot="COLO00" rz="1" driveindex="2"></drive>
+  <drive vh="V" team="COLO" start="KO,1,02:51,24" end="PUNT,1,00:21,17" plays="3" yards="-7" top="2:30" start_how="KO" start_qtr="1" start_time="02:51" start_spot="COLO24" end_how="PUNT" end_qtr="1" end_time="00:21" end_spot="COLO17" driveindex="3"></drive>
+  <drive vh="H" team="OS" start="PUNT,1,00:21,44" end="DOWNS,2,13:22,67" plays="7" yards="23" top="1:59" start_how="PUNT" start_qtr="1" start_time="00:21" start_spot="OS44" end_how="DOWNS" end_qtr="2" end_time="13:22" end_spot="COLO33" driveindex="4"></drive>
+  <drive vh="V" team="COLO" start="DOWNS,2,13:22,33" end="TD,2,09:11,100" plays="10" yards="67" top="4:11" start_how="DOWNS" start_qtr="2" start_time="13:22" start_spot="COLO33" end_how="TD" end_qtr="2" end_time="09:11" end_spot="OS00" rz="1" driveindex="5"></drive>
+  <drive vh="H" team="OS" start="KO,2,09:04,26" end="FG,2,05:44,76" plays="9" yards="50" top="3:20" start_how="KO" start_qtr="2" start_time="09:04" start_spot="OS26" end_how="FG" end_qtr="2" end_time="05:44" end_spot="COLO24" rz="1" driveindex="6"></drive>
+  <drive vh="V" team="COLO" start="KO,2,05:39,25" end="PUNT,2,03:46,32" plays="5" yards="7" top="1:53" start_how="KO" start_qtr="2" start_time="05:39" start_spot="COLO25" end_how="PUNT" end_qtr="2" end_time="03:46" end_spot="COLO32" driveindex="7"></drive>
+  <drive vh="H" team="OS" start="PUNT,2,03:46,10" end="PUNT,2,01:32,23" plays="5" yards="13" top="2:14" start_how="PUNT" start_qtr="2" start_time="03:46" start_spot="OS10" end_how="PUNT" end_qtr="2" end_time="01:32" end_spot="OS23" driveindex="8"></drive>
+  <drive vh="V" team="COLO" start="PUNT,2,01:32,40" end="PUNT,2,01:02,42" plays="3" yards="2" top="0:30" start_how="PUNT" start_qtr="2" start_time="01:32" start_spot="COLO40" end_how="PUNT" end_qtr="2" end_time="01:02" end_spot="COLO42" driveindex="9"></drive>
+  <drive vh="H" team="OS" start="PUNT,2,01:02,10" end="HALF,2,00:00,39" plays="7" yards="29" top="1:02" start_how="PUNT" start_qtr="2" start_time="01:02" start_spot="OS10" end_how="HALF" end_qtr="2" end_time="00:00" end_spot="OS39" driveindex="10"></drive>
+  <drive vh="H" team="OS" start="KO,3,14:53,43" end="FGA,3,11:06,74" plays="8" yards="31" top="3:47" start_how="KO" start_qtr="3" start_time="14:53" start_spot="OS43" end_how="FGA" end_qtr="3" end_time="11:06" end_spot="COLO26" driveindex="11"></drive>
+  <drive vh="V" team="COLO" start="FGA,3,11:06,26" end="FGA,3,04:13,72" plays="13" yards="46" top="6:53" start_how="FGA" start_qtr="3" start_time="11:06" start_spot="COLO26" end_how="FGA" end_qtr="3" end_time="04:13" end_spot="OS28" rz="1" driveindex="12"></drive>
+  <drive vh="H" team="OS" start="FGA,3,04:13,28" end="PUNT,3,01:53,52" plays="5" yards="24" top="2:20" start_how="FGA" start_qtr="3" start_time="04:13" start_spot="OS28" end_how="PUNT" end_qtr="3" end_time="01:53" end_spot="COLO48" driveindex="13"></drive>
+  <drive vh="V" team="COLO" start="PUNT,3,01:53,15" end="TD,4,12:31,100" plays="13" yards="85" top="4:22" start_how="PUNT" start_qtr="3" start_time="01:53" start_spot="COLO15" end_how="TD" end_qtr="4" end_time="12:31" end_spot="OS00" rz="1" driveindex="14"></drive>
+  <drive vh="H" team="OS" start="KO,4,12:25,24" end="FG,4,09:12,84" plays="9" yards="60" top="3:13" start_how="KO" start_qtr="4" start_time="12:25" start_spot="OS24" end_how="FG" end_qtr="4" end_time="09:12" end_spot="COLO16" rz="1" driveindex="15"></drive>
+  <drive vh="V" team="COLO" start="KO,4,09:08,28" end="PUNT,4,07:38,35" plays="3" yards="7" top="1:30" start_how="KO" start_qtr="4" start_time="09:08" start_spot="COLO28" end_how="PUNT" end_qtr="4" end_time="07:38" end_spot="COLO35" driveindex="16"></drive>
+  <drive vh="H" team="OS" start="PUNT,4,07:38,33" end="DOWNS,4,04:39,69" plays="9" yards="36" top="2:59" start_how="PUNT" start_qtr="4" start_time="07:38" start_spot="OS33" end_how="DOWNS" end_qtr="4" end_time="04:39" end_spot="COLO31" driveindex="17"></drive>
+  <drive vh="V" team="COLO" start="DOWNS,4,04:39,31" end="PUNT,4,02:28,32" plays="3" yards="1" top="2:11" start_how="DOWNS" start_qtr="4" start_time="04:39" start_spot="COLO31" end_how="PUNT" end_qtr="4" end_time="02:28" end_spot="COLO32" driveindex="18"></drive>
+  <drive vh="H" team="OS" start="PUNT,4,02:28,25" end="PUNT,4,02:03,25" plays="3" yards="0" top="0:25" start_how="PUNT" start_qtr="4" start_time="02:28" start_spot="OS25" end_how="PUNT" end_qtr="4" end_time="02:03" end_spot="OS25" driveindex="19"></drive>
+  <drive vh="V" team="COLO" start="PUNT,4,02:03,25" end="PUNT,4,01:33,34" plays="3" yards="9" top="0:30" start_how="PUNT" start_qtr="4" start_time="02:03" start_spot="COLO25" end_how="PUNT" end_qtr="4" end_time="01:33" end_spot="COLO34" driveindex="20"></drive>
+  <drive vh="H" team="OS" start="PUNT,4,01:33,34" end="INT,4,00:24,60" plays="6" yards="26" top="1:09" start_how="PUNT" start_qtr="4" start_time="01:33" start_spot="OS34" end_how="INT" end_qtr="4" end_time="00:24" end_spot="COLO40" driveindex="21"></drive>
+  <drive vh="V" team="COLO" start="INT,4,00:24,38" end="HALF,4,00:00,36" plays="1" yards="-2" top="0:24" start_how="INT" start_qtr="4" start_time="00:24" start_spot="COLO38" end_how="HALF" end_qtr="4" end_time="00:00" end_spot="COLO36" driveindex="22"></drive>
+ </drives>
+ <plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="COLO" down="1" togo="10" spot="COLO35" context="V,1,10,V35" playid="0,1,0" tokens="CMT:OSU wins the toss, defers; Colorado will receive &amp; defend south goal"
+      text="OSU wins the toss, defers; Colorado will receive &amp; defend south goal" newcontext="V,1,10,V35">
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="COLO35" context="V,1,10,V35" playid="0,2,1" tokens="SPOT:H,H35,N"
+      text="OS ball on OS35." newcontext="H,1,10,H35">
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="OS35" context="H,1,10,H35" playid="0,3,2" type="K" tokens="KO:2A,V00 TB:"
+      text="Owens, Garrett kickoff 65 yards to the COLO0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Owens, Garrett" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,15:00" vh="V" spot="V25" clock="15:00" driveindex="1,2"></drivestart>
+   <play hasball="COLO" down="1" togo="10" spot="COLO25" context="V,1,10,V25" playid="1,1,3" type="E" tokens="RUSH:1,V38, OB: TACK:4 PEN:V,HO,A,TM,V15,N NOPLAY:"
+      text="Carr, Patrick rush for 13 yards to the COLO38, out-of-bounds (Strong, Justin), PENALTY COLO holding 10 yards to the COLO15, NO PLAY." ob="Y" newcontext="V,1,20,V15">
+    <p_pn vh="V" code="HO" type="holding" result="ACCEPT" at="V25" yards="10"></p_pn>
+   </play>
+   <play hasball="COLO" down="1" togo="20" spot="COLO15" context="V,1,20,V15" playid="1,2,4" type="R" tokens="RUSH:13,V19, TACK:55,8"
+      text="Liufau, Sefo rush for 4 yards to the COLO19 (Hungalu, Manase;Mageo, Rommel)." newcontext="V,2,16,V19">
+    <p_ru vh="V" name="Liufau, Sefo" gain="4"></p_ru>
+    <p_tk vh="H" name="Hungalu, Manase" assist="Y"></p_tk>
+    <p_tk vh="H" name="Mageo, Rommel" assist="Y"></p_tk>
+   </play>
+   <play hasball="COLO" down="2" togo="16" spot="COLO19" context="V,2,16,V19" playid="1,3,5" type="E" tokens="PEN:H,OD,A,95,V24,N"
+      text="PENALTY OS offside defense (Pritchard, B.) 5 yards to the COLO24." newcontext="V,2,11,V24">
+    <p_pn vh="H" code="OD" type="offside defense" name="Pritchard, B." result="ACCEPT" at="V19" yards="5"></p_pn>
+   </play>
+   <play hasball="COLO" down="2" togo="11" spot="COLO24" context="V,2,11,V24" playid="1,4,6" type="P" tokens="PASS:13,C,22,V34 OB: TACK:29"
+      text="Liufau, Sefo pass complete to Spruce, Nelson for 10 yards to the COLO34, out-of-bounds (Williams, D.)." ob="Y" newcontext="V,3,1,V34">
+    <p_pa vh="V" qb="Liufau, Sefo" result="COMP" rcv="Spruce, Nelson" gain="10"></p_pa>
+    <p_tk vh="H" name="Williams, D."></p_tk>
+   </play>
+   <play hasball="COLO" down="3" togo="1" spot="COLO34" context="V,3,1,V34" playid="1,5,7" type="R" first="R" tokens="RUSH:46,V38, TACK:8,35"
+      text="Powell,Christia rush for 4 yards to the COLO38, 1ST DOWN COLO (Mageo, Rommel;Saulo, Caleb)." newcontext="V,1,10,V38">
+    <p_ru vh="V" name="Powell,Christia" gain="4"></p_ru>
+    <p_tk vh="H" name="Mageo, Rommel" assist="Y"></p_tk>
+    <p_tk vh="H" name="Saulo, Caleb" assist="Y"></p_tk>
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="COLO38" context="V,1,10,V38" playid="1,6,8" type="R" tokens="RUSH:29,V44, TACK:99"
+      text="Lee, Donovan rush for 6 yards to the COLO44 (Peko, Kyle)." newcontext="V,2,4,V44">
+    <p_ru vh="V" name="Lee, Donovan" gain="6"></p_ru>
+    <p_tk vh="H" name="Peko, Kyle"></p_tk>
+   </play>
+   <play hasball="COLO" down="2" togo="4" spot="COLO44" context="V,2,4,V44" playid="1,7,9" type="E" first="E" tokens="RUSH:13,V47, TACK:35 PEN:H,OD,A,26,V49,N NOPLAY:"
+      text="Liufau, Sefo rush for 3 yards to the COLO47 (Saulo, Caleb), PENALTY OS offside defense (Chappell, Devin) 5 yards to the COLO49, 1ST DOWN COLO, NO PLAY." newcontext="V,1,10,V49">
+    <p_pn vh="H" code="OD" type="offside defense" name="Chappell, Devin" result="ACCEPT" at="V44" yards="5"></p_pn>
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="COLO49" context="V,1,10,V49" playid="1,8,10" type="R" first="R" tokens="RUSH:29,H34, TACK:5"
+      text="Lee, Donovan rush for 17 yards to the OS34, 1ST DOWN COLO (Haley, Kyle)." newcontext="V,1,10,H34">
+    <p_ru vh="V" name="Lee, Donovan" gain="17"></p_ru>
+    <p_tk vh="H" name="Haley, Kyle"></p_tk>
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="OS34" context="V,1,10,H34" playid="1,9,11" type="R" tokens="RUSH:23,H32, TACK:32"
+      text="Lindsay,Phillip rush for 2 yards to the OS32 (Willis, J.)." newcontext="V,2,8,H32">
+    <p_ru vh="V" name="Lindsay,Phillip" gain="2"></p_ru>
+    <p_tk vh="H" name="Willis, J."></p_tk>
+   </play>
+   <play hasball="COLO" down="2" togo="8" spot="OS32" context="V,2,8,H32" playid="1,10,12" type="P" tokens="PASS:13,C,23,H28 OB: TACK:32"
+      text="Liufau, Sefo pass complete to Lindsay,Phillip for 4 yards to the OS28, out-of-bounds (Willis, J.)." ob="Y" newcontext="V,3,4,H28">
+    <p_pa vh="V" qb="Liufau, Sefo" result="COMP" rcv="Lindsay,Phillip" gain="4"></p_pa>
+    <p_tk vh="H" name="Willis, J."></p_tk>
+   </play>
+   <play hasball="COLO" down="3" togo="4" spot="OS28" context="V,3,4,H28" playid="1,11,13" type="P" first="P" tokens="PASS:13,C,2B,H09 OB: TACK:17"
+      text="Liufau, Sefo pass complete to Ross, Devin for 19 yards to the OS9, 1ST DOWN COLO, out-of-bounds (Noland-Lewis, C)." ob="Y" newcontext="V,1,0,H09">
+    <p_pa vh="V" qb="Liufau, Sefo" result="COMP" rcv="Ross, Devin" gain="19"></p_pa>
+    <p_tk vh="H" name="Noland-Lewis, C"></p_tk>
+   </play>
+   <play hasball="COLO" down="1" togo="0" spot="OS09" context="V,1,0,H09" playid="1,12,14" type="E" tokens="PEN:V,FS,A,71,H14,N"
+      text="PENALTY COLO false start (Kronshage, Sam) 5 yards to the OS14." newcontext="V,1,0,H14">
+    <p_pn vh="V" code="FS" type="false start" name="Kronshage, Sam" result="ACCEPT" at="H09" yards="5"></p_pn>
+   </play>
+   <play hasball="COLO" down="1" togo="0" spot="OS14" context="V,1,0,H14" playid="1,13,15" type="R" tokens="RUSH:29,H07, TACK:8,26"
+      text="Lee, Donovan rush for 7 yards to the OS7 (Mageo, Rommel;Chappell, Devin)." newcontext="V,2,0,H07">
+    <p_ru vh="V" name="Lee, Donovan" gain="7"></p_ru>
+    <p_tk vh="H" name="Mageo, Rommel" assist="Y"></p_tk>
+    <p_tk vh="H" name="Chappell, Devin" assist="Y"></p_tk>
+   </play>
+   <play hasball="COLO" down="2" togo="0" spot="OS07" context="V,2,0,H07" playid="1,14,16" type="R" tokens="RUSH:13,H05, TACK:26 PEN:V,HO,A,23,H15,N"
+      text="Liufau, Sefo rush for 2 yards to the OS5 (Chappell, Devin), PENALTY COLO holding (Lindsay,Phillip) 10 yards to the OS15." newcontext="V,2,0,H15">
+    <p_ru vh="V" name="Liufau, Sefo" gain="2"></p_ru>
+    <p_tk vh="H" name="Chappell, Devin"></p_tk>
+    <p_pn vh="V" code="HO" type="holding" name="Lindsay,Phillip" result="ACCEPT" at="H05" yards="10"></p_pn>
+   </play>
+   <play hasball="COLO" down="2" togo="0" spot="OS15" context="V,2,0,H15" playid="1,15,17" tokens="D:2,15"
+      text="2nd and 15." newcontext="V,2,0,H15">
+   </play>
+   <play hasball="COLO" down="2" togo="0" spot="OS15" context="V,2,0,H15" playid="1,16,18" type="P" tokens="PASS:13,C,22,H07 TACK:14"
+      text="Liufau, Sefo pass complete to Spruce, Nelson for 8 yards to the OS7 (Decoud, Treston)." newcontext="V,3,0,H07">
+    <p_pa vh="V" qb="Liufau, Sefo" result="COMP" rcv="Spruce, Nelson" gain="8"></p_pa>
+    <p_tk vh="H" name="Decoud, Treston"></p_tk>
+   </play>
+   <play hasball="COLO" down="3" togo="0" spot="OS07" context="V,3,0,H07" playid="1,17,19" type="R" tokens="RUSH:13,H02, TACK:47"
+      text="Liufau, Sefo rush for 5 yards to the OS2 (Ugwoegbu, B.)." newcontext="V,4,0,H02">
+    <p_ru vh="V" name="Liufau, Sefo" gain="5"></p_ru>
+    <p_tk vh="H" name="Ugwoegbu, B."></p_tk>
+   </play>
+   <play hasball="COLO" down="4" togo="0" spot="OS02" context="V,4,0,H02" playid="1,18,20" type="F" score="Y" vscore="3" hscore="0" clock="06:26" tokens="FGA:10,21,G T:06:26"
+      text="Gonzalez, Diego field goal attempt from 21 GOOD, clock 06:26." newcontext="V,1,0,V35">
+    <p_fg vh="V" name="Gonzalez, Diego" distance="21" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="3" H="0"></score>
+   <drivesum plays="13" yards="73" top="8:34" driveindex="1" complete="Y"></drivesum>
+   <play hasball="COLO" down="1" togo="0" spot="COLO35" context="V,1,0,V35" playid="1,19,21" type="K" tokens="KO:15,H02 RET:6,H26 TACK:33"
+      text="Graham, Chris kickoff 63 yards to the OS2, Bolden,Victor return 24 yards to the OS26 (Murphy, Jordan)." newcontext="H,1,10,H26">
+    <p_ko vh="V" name="Graham, Chris" gain="63"></p_ko>
+    <p_kr vh="H" name="Bolden,Victor" gain="24"></p_kr>
+    <p_tk vh="V" name="Murphy, Jordan"></p_tk>
+   </play>
+   <drivestart poss="H,H26,06:19" vh="H" spot="H26" clock="06:19" driveindex="2,21"></drivestart>
+   <play hasball="OS" down="1" togo="10" spot="OS26" context="H,1,10,H26" playid="2,1,22" clock="06:19" tokens="{DRIVE}:06:19"
+      text="OREGON STATE drive start at 06:19." newcontext="H,1,10,H26">
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="OS26" context="H,1,10,H26" playid="2,2,23" type="R" tokens="RUSH:0D,H29, TACK:9"
+      text="Collins, Seth rush for 3 yards to the OS29 (Thompson,Tedric)." newcontext="H,2,7,H29">
+    <p_ru vh="H" name="Collins, Seth" gain="3"></p_ru>
+    <p_tk vh="V" name="Thompson,Tedric"></p_tk>
+   </play>
+   <play hasball="OS" down="2" togo="7" spot="OS29" context="H,2,7,H29" playid="2,3,24" type="R" first="R" tokens="RUSH:0D,V44, TACK:21"
+      text="Collins, Seth rush for 27 yards to the COLO44, 1ST DOWN OS (Bell, Jered)." newcontext="H,1,10,V44">
+    <p_ru vh="H" name="Collins, Seth" gain="27"></p_ru>
+    <p_tk vh="V" name="Bell, Jered"></p_tk>
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="COLO44" context="H,1,10,V44" playid="2,4,25" type="P" tokens="PASS:0D,C,16,V37 OB:"
+      text="Collins, Seth pass complete to Lucas, Paul for 7 yards to the COLO37, out-of-bounds." ob="Y" newcontext="H,2,3,V37">
+    <p_pa vh="H" qb="Collins, Seth" result="COMP" rcv="Lucas, Paul" gain="7"></p_pa>
+   </play>
+   <play hasball="OS" down="2" togo="3" spot="COLO37" context="H,2,3,V37" playid="2,5,26" type="R" tokens="RUSH:23,V37, TACK:2,32"
+      text="Haskins, Damien rush for no gain to the COLO37 (Crawley, Ken;Gamboa, Rick)." newcontext="H,3,3,V37">
+    <p_ru vh="H" name="Haskins, Damien" gain="0"></p_ru>
+    <p_tk vh="V" name="Crawley, Ken" assist="Y"></p_tk>
+    <p_tk vh="V" name="Gamboa, Rick" assist="Y"></p_tk>
+   </play>
+   <play hasball="OS" down="3" togo="3" spot="COLO37" context="H,3,3,V37" playid="2,6,27" type="P" first="P" tokens="PASS:0D,C,6,V13 TACK:2C"
+      text="Collins, Seth pass complete to Bolden,Victor for 24 yards to the COLO13, 1ST DOWN OS (Witherspoon,Ahk)." newcontext="H,1,10,V13">
+    <p_pa vh="H" qb="Collins, Seth" result="COMP" rcv="Bolden,Victor" gain="24"></p_pa>
+    <p_tk vh="V" name="Witherspoon,Ahk"></p_tk>
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="COLO13" context="H,1,10,V13" playid="2,7,28" tokens="QB:H,1D"
+      text="Mitchell, Nick at QB for Oregon State." newcontext="H,1,10,V13">
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="COLO13" context="H,1,10,V13" playid="2,8,29" type="P" first="P" tokens="PASS:0D,C,1D,V02 OB: TACK:21"
+      text="Collins, Seth pass complete to Mitchell, Nick for 11 yards to the COLO2, 1ST DOWN OS, out-of-bounds (Bell, Jered)." ob="Y" newcontext="H,1,0,V02">
+    <p_pa vh="H" qb="Collins, Seth" result="COMP" rcv="Mitchell, Nick" gain="11"></p_pa>
+    <p_tk vh="V" name="Bell, Jered"></p_tk>
+   </play>
+   <play hasball="OS" down="1" togo="0" spot="COLO02" context="H,1,0,V02" playid="2,9,30" type="#" clock="03:38" tokens="TOUT:V T:03:38"
+      text="Timeout Colorado, clock 03:38." newcontext="H,1,0,V02">
+    <p_to vh="V" team="Colorado"></p_to>
+   </play>
+   <play hasball="OS" down="1" togo="0" spot="COLO02" context="H,1,0,V02" playid="2,10,31" tokens="QB:H,0D"
+      text="Collins, Seth at QB for Oregon State." newcontext="H,1,0,V02">
+   </play>
+   <play hasball="OS" down="1" togo="0" spot="COLO02" context="H,1,0,V02" playid="2,11,32" type="R" tokens="RUSH:24,V01, TACK:57,31"
+      text="Woods,Storm rush for 1 yard to the COLO1 (Solis, Justin;Olugbode,Kennet)." newcontext="H,2,0,V01">
+    <p_ru vh="H" name="Woods,Storm" gain="1"></p_ru>
+    <p_tk vh="V" name="Solis, Justin" assist="Y"></p_tk>
+    <p_tk vh="V" name="Olugbode,Kennet" assist="Y"></p_tk>
+   </play>
+   <comment text="previous play under review; ruling on the field stands"></comment>
+   <play hasball="OS" down="2" togo="0" spot="COLO01" context="H,2,0,V01" playid="2,12,34" type="R" score="Y" vscore="3" hscore="6" clock="02:58" tokens="RUSH:34,V00, T:02:58"
+      text="Nall, Ryan rush for 1 yard to the COLO0, TOUCHDOWN, clock 02:58." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Nall, Ryan" gain="1"></p_ru>
+   </play>
+   <play hasball="OS" down="1" togo="0" spot="COLO03" context="H,1,0,V03" playid="2,13,35" type="X" score="Y" vscore="3" hscore="7" tokens="PAT:K,2A,G"
+      text="Owens, Garrett kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Owens, Garrett" qb="Owens, Garrett" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="3" H="7"></score>
+   <drivesum plays="8" yards="74" top="3:21" driveindex="2" complete="Y"></drivesum>
+   <play hasball="OS" down="1" togo="0" spot="OS35" context="H,1,0,H35" playid="2,14,36" type="K" tokens="KO:2A,V03 RET:29,V24 TACK:27,9"
+      text="Owens, Garrett kickoff 62 yards to the COLO3, Lee, Donovan return 21 yards to the COLO24 (Patrick, Naji;Guyton, Datrin)." newcontext="V,1,10,V24">
+    <p_ko vh="H" name="Owens, Garrett" gain="62"></p_ko>
+    <p_kr vh="V" name="Lee, Donovan" gain="21"></p_kr>
+    <p_tk vh="H" name="Patrick, Naji" assist="Y"></p_tk>
+    <p_tk vh="H" name="Guyton, Datrin" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V24,02:51" vh="V" spot="V24" clock="02:51" driveindex="3,36"></drivestart>
+   <play hasball="COLO" down="1" togo="10" spot="COLO24" context="V,1,10,V24" playid="3,1,37" clock="02:51" tokens="{DRIVE}:02:51"
+      text="COLORADO drive start at 02:51." newcontext="V,1,10,V24">
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="COLO24" context="V,1,10,V24" playid="3,2,38" type="R" tokens="RUSH:23,V28, TACK:35,55"
+      text="Lindsay,Phillip rush for 4 yards to the COLO28 (Saulo, Caleb;Hungalu, Manase)." newcontext="V,2,6,V28">
+    <p_ru vh="V" name="Lindsay,Phillip" gain="4"></p_ru>
+    <p_tk vh="H" name="Saulo, Caleb" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hungalu, Manase" assist="Y"></p_tk>
+   </play>
+   <play hasball="COLO" down="2" togo="6" spot="COLO28" context="V,2,6,V28" playid="3,3,39" type="R" tokens="RUSH:13,V31, TACK:35"
+      text="Liufau, Sefo rush for 3 yards to the COLO31 (Saulo, Caleb)." newcontext="V,3,3,V31">
+    <p_ru vh="V" name="Liufau, Sefo" gain="3"></p_ru>
+    <p_tk vh="H" name="Saulo, Caleb"></p_tk>
+   </play>
+   <play hasball="COLO" down="3" togo="3" spot="COLO31" context="V,3,3,V31" playid="3,4,40" type="E" tokens="PASS:13,C,22,V38 TACK:29 PEN:V,PF,A,77,V16,N NOPLAY:"
+      text="Liufau, Sefo pass complete to Spruce, Nelson for 7 yards to the COLO38 (Williams, D.), PENALTY COLO personal foul (Nembot,Stephane) 15 yards to the COLO16, NO PLAY." newcontext="V,3,18,V16">
+    <p_pn vh="V" code="PF" type="personal foul" name="Nembot,Stephane" result="ACCEPT" at="V31" yards="15"></p_pn>
+   </play>
+   <play hasball="COLO" down="3" togo="18" spot="COLO16" context="V,3,18,V16" playid="3,5,41" type="R" tokens="RUSH:23,V22, TACK:17"
+      text="Lindsay,Phillip rush for 6 yards to the COLO22 (Noland-Lewis, C)." newcontext="V,4,12,V22">
+    <p_ru vh="V" name="Lindsay,Phillip" gain="6"></p_ru>
+    <p_tk vh="H" name="Noland-Lewis, C"></p_tk>
+   </play>
+   <play hasball="COLO" down="4" togo="12" spot="COLO22" context="V,4,12,V22" playid="3,6,42" type="E" tokens="PUNT:8A,H28 RET:88,H27 TACK:6 PEN:V,FO,A,TM,V17,N NOPLAY:"
+      text="Kinney, Alex punt 50 yards to the OS28, Dockery, Rahmel return to the OS27 (White, Evan), PENALTY COLO illegal formation 5 yards to the COLO17, NO PLAY." newcontext="V,4,17,V17">
+    <p_pn vh="V" code="FO" type="illegal formation" result="ACCEPT" at="V22" yards="5"></p_pn>
+   </play>
+   <play hasball="COLO" down="4" togo="17" spot="COLO17" context="V,4,17,V17" playid="3,7,43" type="U" tokens="PUNT:8A,H44 FC:88"
+      text="Kinney, Alex punt 39 yards to the OS44, fair catch by Dockery, Rahmel." newcontext="H,1,10,H44">
+    <p_pu vh="V" name="Kinney, Alex" gain="39" fc="Dockery, Rahmel"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-7" top="2:30" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="H,H44,00:21" vh="H" spot="H44" clock="00:21" driveindex="4,43"></drivestart>
+   <play hasball="OS" down="1" togo="10" spot="OS44" context="H,1,10,H44" playid="4,1,44" clock="00:21" tokens="{DRIVE}:00:21"
+      text="OREGON STATE drive start at 00:21." newcontext="H,1,10,H44">
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="OS44" context="H,1,10,H44" playid="4,2,45" type="P" tokens="PASS:0D,I,9,*"
+      text="Collins, Seth pass incomplete to Guyton, Datrin." newcontext="H,2,10,H44">
+    <p_pa vh="H" qb="Collins, Seth" result="INC" rcv="Guyton, Datrin"></p_pa>
+   </play>
+   <play hasball="OS" down="2" togo="10" spot="OS44" context="H,2,10,H44" playid="4,3,46" type="R" tokens="RUSH:34,H48, TACK:92,98"
+      text="Nall, Ryan rush for 4 yards to the OS48 (Carrell, Jordan;Gilbert, Jimmie)." newcontext="H,3,6,H48">
+    <p_ru vh="H" name="Nall, Ryan" gain="4"></p_ru>
+    <p_tk vh="V" name="Carrell, Jordan" assist="Y"></p_tk>
+    <p_tk vh="V" name="Gilbert, Jimmie" assist="Y"></p_tk>
+   </play>
+   <score qtr="1" V="3" H="7"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="COLO">
+    <firstdowns no="4" rush="2" pass="1" penalty="1"></firstdowns>
+    <penalties no="5" yds="45"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="11:11"></misc>
+    <rush att="11" yds="60" gain="60" loss="0" td="0" long="17"></rush>
+    <pass comp="4" att="4" int="0" yds="41" td="0" long="19" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="41" td="0" long="19"></rcv>
+    <punt no="1" yds="39" long="39" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="39.0"></punt>
+    <ko no="1" yds="63" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="21" blkd="0"></fg>
+    <defense tackua="5" tacka="6" tot_tack="11" sacks="0" sackyds="0"></defense>
+    <kr no="1" yds="21" td="0" long="21"></kr>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="OS">
+    <firstdowns no="3" rush="1" pass="2" penalty="0"></firstdowns>
+    <penalties no="2" yds="10"></penalties>
+    <conversions thirdconv="1" thirdatt="1" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="03:49"></misc>
+    <rush att="6" yds="36" gain="36" loss="0" td="1" long="27"></rush>
+    <pass comp="3" att="4" int="0" yds="42" td="0" long="24" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="42" td="0" long="24"></rcv>
+    <ko no="2" yds="127" ob="0" tb="1"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="11" tacka="10" tot_tack="21" sacks="0" sackyds="0"></defense>
+    <kr no="1" yds="24" td="0" long="24"></kr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="OS" down="3" togo="6" spot="OS48" context="H,3,6,H48" playid="4,4,47" type="#" clock="15:00" tokens="Q:2 T:15:00"
+      text="Start of 2nd quarter, clock 15:00." newcontext="H,3,6,H48">
+   </play>
+   <play hasball="OS" down="3" togo="6" spot="OS48" context="H,3,6,H48" playid="4,5,48" type="R" first="R" tokens="RUSH:0D,V42, TACK:21"
+      text="Collins, Seth rush for 10 yards to the COLO42, 1ST DOWN OS (Bell, Jered)." newcontext="H,1,10,V42">
+    <p_ru vh="H" name="Collins, Seth" gain="10"></p_ru>
+    <p_tk vh="V" name="Bell, Jered"></p_tk>
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="COLO42" context="H,1,10,V42" playid="4,6,49" type="R" tokens="RUSH:6,V37, TACK:2C"
+      text="Bolden,Victor rush for 5 yards to the COLO37 (Witherspoon,Ahk)." newcontext="H,2,5,V37">
+    <p_ru vh="H" name="Bolden,Victor" gain="5"></p_ru>
+    <p_tk vh="V" name="Witherspoon,Ahk"></p_tk>
+   </play>
+   <play hasball="OS" down="2" togo="5" spot="COLO37" context="H,2,5,V37" playid="4,7,50" type="P" tokens="PASS:0D,I,6,*"
+      text="Collins, Seth pass incomplete to Bolden,Victor." newcontext="H,3,5,V37">
+    <p_pa vh="H" qb="Collins, Seth" result="INC" rcv="Bolden,Victor"></p_pa>
+   </play>
+   <play hasball="OS" down="3" togo="5" spot="COLO37" context="H,3,5,V37" playid="4,8,51" type="R" tokens="RUSH:0D,V33, TACK:31"
+      text="Collins, Seth rush for 4 yards to the COLO33 (Olugbode,Kennet)." newcontext="H,4,1,V33">
+    <p_ru vh="H" name="Collins, Seth" gain="4"></p_ru>
+    <p_tk vh="V" name="Olugbode,Kennet"></p_tk>
+   </play>
+   <play hasball="OS" down="4" togo="1" spot="COLO33" context="H,4,1,V33" playid="4,9,52" type="R" tokens="RUSH:34,V33, TACK:57"
+      text="Nall, Ryan rush for no gain to the COLO33 (Solis, Justin)." newcontext="V,1,10,V33">
+    <p_ru vh="H" name="Nall, Ryan" gain="0"></p_ru>
+    <p_tk vh="V" name="Solis, Justin"></p_tk>
+   </play>
+   <drivesum plays="7" yards="23" top="1:59" driveindex="4" complete="Y"></drivesum>
+   <drivestart poss="V,V33,13:22" vh="V" spot="V33" clock="13:22" driveindex="5,52"></drivestart>
+   <play hasball="COLO" down="1" togo="10" spot="COLO33" context="V,1,10,V33" playid="5,1,53" clock="13:22" tokens="{DRIVE}:13:22"
+      text="COLORADO drive start at 13:22." newcontext="V,1,10,V33">
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="COLO33" context="V,1,10,V33" playid="5,2,54" type="P" tokens="PASS:13,C,22,V38 TACK:14"
+      text="Liufau, Sefo pass complete to Spruce, Nelson for 5 yards to the COLO38 (Decoud, Treston)." newcontext="V,2,5,V38">
+    <p_pa vh="V" qb="Liufau, Sefo" result="COMP" rcv="Spruce, Nelson" gain="5"></p_pa>
+    <p_tk vh="H" name="Decoud, Treston"></p_tk>
+   </play>
+   <play hasball="COLO" down="2" togo="5" spot="COLO38" context="V,2,5,V38" playid="5,3,55" type="R" tokens="RUSH:1,V41, TACK:3,48"
+      text="Carr, Patrick rush for 3 yards to the COLO41 (Arnold,Brandon;James, Jaswha)." newcontext="V,3,2,V41">
+    <p_ru vh="V" name="Carr, Patrick" gain="3"></p_ru>
+    <p_tk vh="H" name="Arnold,Brandon" assist="Y"></p_tk>
+    <p_tk vh="H" name="James, Jaswha" assist="Y"></p_tk>
+   </play>
+   <play hasball="COLO" down="3" togo="2" spot="COLO41" context="V,3,2,V41" playid="5,4,56" type="R" first="R" tokens="RUSH:13,V43, TACK:55,4"
+      text="Liufau, Sefo rush for 2 yards to the COLO43, 1ST DOWN COLO (Hungalu, Manase;Strong, Justin)." newcontext="V,1,10,V43">
+    <p_ru vh="V" name="Liufau, Sefo" gain="2"></p_ru>
+    <p_tk vh="H" name="Hungalu, Manase" assist="Y"></p_tk>
+    <p_tk vh="H" name="Strong, Justin" assist="Y"></p_tk>
+   </play>
+   <comment text="OSU's #14 injured on the play, leaves in ambulance"></comment>
+   <play hasball="COLO" down="1" togo="10" spot="COLO43" context="V,1,10,V43" playid="5,5,58" type="P" tokens="PASS:13,I,25,* QBH:H,17"
+      text="Liufau, Sefo pass incomplete to Walker, Lee, QB hurry by Noland-Lewis, C." newcontext="V,2,10,V43">
+    <p_pa vh="V" qb="Liufau, Sefo" result="INC" rcv="Walker, Lee"></p_pa>
+    <p_qbh vh="H" name="Noland-Lewis, C"></p_qbh>
+   </play>
+   <play hasball="COLO" down="2" togo="10" spot="COLO43" context="V,2,10,V43" playid="5,6,59" type="P" first="P" tokens="PASS:13,C,23,H47 OB: TACK:12"
+      text="Liufau, Sefo pass complete to Lindsay,Phillip for 10 yards to the OS47, 1ST DOWN COLO, out-of-bounds (Hill, Kendall)." ob="Y" newcontext="V,1,10,H47">
+    <p_pa vh="V" qb="Liufau, Sefo" result="COMP" rcv="Lindsay,Phillip" gain="10"></p_pa>
+    <p_tk vh="H" name="Hill, Kendall"></p_tk>
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="OS47" context="V,1,10,H47" playid="5,7,60" type="P" first="P" tokens="PASS:13,C,22,H37 TACK:29"
+      text="Liufau, Sefo pass complete to Spruce, Nelson for 10 yards to the OS37, 1ST DOWN COLO (Williams, D.)." newcontext="V,1,10,H37">
+    <p_pa vh="V" qb="Liufau, Sefo" result="COMP" rcv="Spruce, Nelson" gain="10"></p_pa>
+    <p_tk vh="H" name="Williams, D."></p_tk>
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="OS37" context="V,1,10,H37" playid="5,8,61" type="R" first="R" tokens="RUSH:23,H13, OB: TACK:4"
+      text="Lindsay,Phillip rush for 24 yards to the OS13, 1ST DOWN COLO, out-of-bounds (Strong, Justin)." ob="Y" newcontext="V,1,10,H13">
+    <p_ru vh="V" name="Lindsay,Phillip" gain="24"></p_ru>
+    <p_tk vh="H" name="Strong, Justin"></p_tk>
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="OS13" context="V,1,10,H13" playid="5,9,62" type="E" tokens="PEN:V,FS,A,79,H18,N"
+      text="PENALTY COLO false start (Huckins,Jonatha) 5 yards to the OS18." newcontext="V,1,15,H18">
+    <p_pn vh="V" code="FS" type="false start" name="Huckins,Jonatha" result="ACCEPT" at="H13" yards="5"></p_pn>
+   </play>
+   <play hasball="COLO" down="1" togo="15" spot="OS18" context="V,1,15,H18" playid="5,10,63" type="P" tokens="PASS:13,C,14,H14 OB: TACK:47"
+      text="Liufau, Sefo pass complete to MacIntyre, Jay for 4 yards to the OS14, out-of-bounds (Ugwoegbu, B.)." ob="Y" newcontext="V,2,11,H14">
+    <p_pa vh="V" qb="Liufau, Sefo" result="COMP" rcv="MacIntyre, Jay" gain="4"></p_pa>
+    <p_tk vh="H" name="Ugwoegbu, B."></p_tk>
+   </play>
+   <play hasball="COLO" down="2" togo="11" spot="OS14" context="V,2,11,H14" playid="5,11,64" type="P" tokens="PASS:13,C,14,H15 TACK:43"
+      text="Liufau, Sefo pass complete to MacIntyre, Jay for loss of 1 yard to the OS15 (Soesman, Adam)." newcontext="V,3,12,H15">
+    <p_pa vh="V" qb="Liufau, Sefo" result="COMP" rcv="MacIntyre, Jay" gain="-1"></p_pa>
+    <p_tk vh="H" name="Soesman, Adam"></p_tk>
+   </play>
+   <play hasball="COLO" down="3" togo="12" spot="OS15" context="V,3,12,H15" playid="5,12,65" type="P" first="P" score="Y" vscore="9" hscore="7" clock="09:11" tokens="PASS:13,C,22,H00 T:09:11"
+      text="Liufau, Sefo pass complete to Spruce, Nelson for 15 yards to the OS0, 1ST DOWN COLO, TOUCHDOWN, clock 09:11." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Liufau, Sefo" result="COMP" rcv="Spruce, Nelson" gain="15"></p_pa>
+   </play>
+   <play hasball="COLO" down="1" togo="0" spot="OS03" context="V,1,0,H03" playid="5,13,66" type="X" score="Y" vscore="10" hscore="7" tokens="PAT:K,10,G"
+      text="Gonzalez, Diego kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Gonzalez, Diego" qb="Gonzalez, Diego" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="10" H="7"></score>
+   <drivesum plays="10" yards="67" top="4:11" driveindex="5" complete="Y"></drivesum>
+   <play hasball="COLO" down="1" togo="0" spot="COLO35" context="V,1,0,V35" playid="5,14,67" type="K" tokens="KO:15,H05 RET:6,H26 TACK:28"
+      text="Graham, Chris kickoff 60 yards to the OS5, Bolden,Victor return 21 yards to the OS26 (Silzer, Cameron)." newcontext="H,1,10,H26">
+    <p_ko vh="V" name="Graham, Chris" gain="60"></p_ko>
+    <p_kr vh="H" name="Bolden,Victor" gain="21"></p_kr>
+    <p_tk vh="V" name="Silzer, Cameron"></p_tk>
+   </play>
+   <drivestart poss="H,H26,09:04" vh="H" spot="H26" clock="09:04" driveindex="6,67"></drivestart>
+   <play hasball="OS" down="1" togo="10" spot="OS26" context="H,1,10,H26" playid="6,1,68" clock="09:04" tokens="{DRIVE}:09:04"
+      text="OREGON STATE drive start at 09:04." newcontext="H,1,10,H26">
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="OS26" context="H,1,10,H26" playid="6,2,69" tokens="QB:H,1D"
+      text="Mitchell, Nick at QB for Oregon State." newcontext="H,1,10,H26">
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="OS26" context="H,1,10,H26" playid="6,3,70" type="P" tokens="PASS:1D,C,13,H35"
+      text="Mitchell, Nick pass complete to Villamin, J. for 9 yards to the OS35." newcontext="H,2,1,H35">
+    <p_pa vh="H" qb="Mitchell, Nick" result="COMP" rcv="Villamin, J." gain="9"></p_pa>
+   </play>
+   <play hasball="OS" down="2" togo="1" spot="OS35" context="H,2,1,H35" playid="6,4,71" type="R" first="R" tokens="RUSH:34,H38, TACK:31"
+      text="Nall, Ryan rush for 3 yards to the OS38, 1ST DOWN OS (Olugbode,Kennet)." newcontext="H,1,10,H38">
+    <p_ru vh="H" name="Nall, Ryan" gain="3"></p_ru>
+    <p_tk vh="V" name="Olugbode,Kennet"></p_tk>
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="OS38" context="H,1,10,H38" playid="6,5,72" type="P" tokens="PASS:1D,C,13,H38 TACK:9"
+      text="Mitchell, Nick pass complete to Villamin, J. for no gain to the OS38 (Thompson,Tedric)." newcontext="H,2,10,H38">
+    <p_pa vh="H" qb="Mitchell, Nick" result="COMP" rcv="Villamin, J." gain="0"></p_pa>
+    <p_tk vh="V" name="Thompson,Tedric"></p_tk>
+   </play>
+   <play hasball="OS" down="2" togo="10" spot="OS38" context="H,2,10,H38" playid="6,6,73" type="R" tokens="RUSH:1,H44, TACK:21"
+      text="Brown, Chris rush for 6 yards to the OS44 (Bell, Jered)." newcontext="H,3,4,H44">
+    <p_ru vh="H" name="Brown, Chris" gain="6"></p_ru>
+    <p_tk vh="V" name="Bell, Jered"></p_tk>
+   </play>
+   <play hasball="OS" down="3" togo="4" spot="OS44" context="H,3,4,H44" playid="6,7,74" type="P" first="P" tokens="PASS:1D,C,6,V20 TACK:21"
+      text="Mitchell, Nick pass complete to Bolden,Victor for 36 yards to the COLO20, 1ST DOWN OS (Bell, Jered)." newcontext="H,1,10,V20">
+    <p_pa vh="H" qb="Mitchell, Nick" result="COMP" rcv="Bolden,Victor" gain="36"></p_pa>
+    <p_tk vh="V" name="Bell, Jered"></p_tk>
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="COLO20" context="H,1,10,V20" playid="6,8,75" type="P" tokens="PASS:1D,S,TM,V29 SACK:31 PEN:H,IG,A,1D,V29,+"
+      text="Mitchell, Nick sacked for loss of 9 yards to the COLO29 (Olugbode,Kennet), PENALTY OS intentional grounding (Mitchell, Nick) 0 yards to the COLO29." newcontext="H,2,19,V29">
+    <p_pa vh="H" qb="Mitchell, Nick" result="SACK" gain="-9"></p_pa>
+    <p_tk vh="V" name="Olugbode,Kennet" sack="Y"></p_tk>
+    <p_pn vh="H" code="IG" type="intentional grounding" name="Mitchell, Nick" result="ACCEPT"></p_pn>
+   </play>
+   <play hasball="OS" down="2" togo="19" spot="COLO29" context="H,2,19,V29" playid="6,9,76" tokens="D:2,19"
+      text="2nd and 19." newcontext="H,2,19,V29">
+   </play>
+   <play hasball="OS" down="2" togo="19" spot="COLO29" context="H,2,19,V29" playid="6,10,77" type="R" tokens="RUSH:1,V24, TACK:92"
+      text="Brown, Chris rush for 5 yards to the COLO24 (Carrell, Jordan)." newcontext="H,3,14,V24">
+    <p_ru vh="H" name="Brown, Chris" gain="5"></p_ru>
+    <p_tk vh="V" name="Carrell, Jordan"></p_tk>
+   </play>
+   <play hasball="OS" down="3" togo="14" spot="COLO24" context="H,3,14,V24" playid="6,11,78" type="P" tokens="PASS:1D,I,6,*"
+      text="Mitchell, Nick pass incomplete to Bolden,Victor." newcontext="H,4,14,V24">
+    <p_pa vh="H" qb="Mitchell, Nick" result="INC" rcv="Bolden,Victor"></p_pa>
+   </play>
+   <play hasball="OS" down="4" togo="14" spot="COLO24" context="H,4,14,V24" playid="6,12,79" type="F" score="Y" vscore="10" hscore="10" clock="05:44" tokens="FGA:2A,42,G T:05:44"
+      text="Owens, Garrett field goal attempt from 42 GOOD, clock 05:44." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="Owens, Garrett" distance="42" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="10" H="10"></score>
+   <drivesum plays="9" yards="50" top="3:20" driveindex="6" complete="Y"></drivesum>
+   <play hasball="OS" down="1" togo="0" spot="OS35" context="H,1,0,H35" playid="6,13,80" type="K" tokens="KO:2A,V08 RET:38,V25 TACK:3"
+      text="Owens, Garrett kickoff 57 yards to the COLO8, Hill, Chris return 17 yards to the COLO25 (Arnold,Brandon)." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Owens, Garrett" gain="57"></p_ko>
+    <p_kr vh="V" name="Hill, Chris" gain="17"></p_kr>
+    <p_tk vh="H" name="Arnold,Brandon"></p_tk>
+   </play>
+   <drivestart poss="V,V25,05:39" vh="V" spot="V25" clock="05:39" driveindex="7,80"></drivestart>
+   <play hasball="COLO" down="1" togo="10" spot="COLO25" context="V,1,10,V25" playid="7,1,81" clock="05:39" tokens="{DRIVE}:05:39"
+      text="COLORADO drive start at 05:39." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="COLO25" context="V,1,10,V25" playid="7,2,82" type="R" tokens="RUSH:46,V33, TACK:95,35"
+      text="Powell,Christia rush for 8 yards to the COLO33 (Pritchard, B.;Saulo, Caleb)." newcontext="V,2,2,V33">
+    <p_ru vh="V" name="Powell,Christia" gain="8"></p_ru>
+    <p_tk vh="H" name="Pritchard, B." assist="Y"></p_tk>
+    <p_tk vh="H" name="Saulo, Caleb" assist="Y"></p_tk>
+   </play>
+   <play hasball="COLO" down="2" togo="2" spot="COLO33" context="V,2,2,V33" playid="7,3,83" type="R" first="R" tokens="RUSH:46,V38, TACK:17"
+      text="Powell,Christia rush for 5 yards to the COLO38, 1ST DOWN COLO (Noland-Lewis, C)." newcontext="V,1,10,V38">
+    <p_ru vh="V" name="Powell,Christia" gain="5"></p_ru>
+    <p_tk vh="H" name="Noland-Lewis, C"></p_tk>
+   </play>
+   <comment text="OSU's #48 injured on the play, walks off the field"></comment>
+   <play hasball="COLO" down="1" togo="10" spot="COLO38" context="V,1,10,V38" playid="7,4,85" type="P" tokens="PASS:13,I,2B,* QBH:H,99"
+      text="Liufau, Sefo pass incomplete to Ross, Devin, QB hurry by Peko, Kyle." newcontext="V,2,10,V38">
+    <p_pa vh="V" qb="Liufau, Sefo" result="INC" rcv="Ross, Devin"></p_pa>
+    <p_qbh vh="H" name="Peko, Kyle"></p_qbh>
+   </play>
+   <play hasball="COLO" down="2" togo="10" spot="COLO38" context="V,2,10,V38" playid="7,5,86" type="P" tokens="PASS:13,I,29,*"
+      text="Liufau, Sefo pass incomplete to Lee, Donovan." newcontext="V,3,10,V38">
+    <p_pa vh="V" qb="Liufau, Sefo" result="INC" rcv="Lee, Donovan"></p_pa>
+   </play>
+   <play hasball="COLO" down="3" togo="10" spot="COLO38" context="V,3,10,V38" playid="7,6,87" type="R" tokens="RUSH:13,V32, FUMB:V,V32,13"
+      text="Liufau, Sefo rush for loss of 6 yards to the COLO32, fumble by Liufau, Sefo recovered by COLO Liufau, Sefo at COLO32." newcontext="V,4,16,V32">
+    <p_ru vh="V" name="Liufau, Sefo" gain="-6"></p_ru>
+    <p_fumb vh="V" name="Liufau, Sefo" at="V32" frvh="V" frname="Liufau, Sefo"></p_fumb>
+   </play>
+   <play hasball="COLO" down="4" togo="16" spot="COLO32" context="V,4,16,V32" playid="7,7,88" type="U" tokens="PUNT:8A,H10 DN:"
+      text="Kinney, Alex punt 58 yards to the OS10, downed." newcontext="H,1,10,H10">
+    <p_pu vh="V" name="Kinney, Alex" gain="58" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="5" yards="7" top="1:53" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="H,H10,03:46" vh="H" spot="H10" clock="03:46" driveindex="8,88"></drivestart>
+   <play hasball="OS" down="1" togo="10" spot="OS10" context="H,1,10,H10" playid="8,1,89" clock="03:46" tokens="{DRIVE}:03:46"
+      text="OREGON STATE drive start at 03:46." newcontext="H,1,10,H10">
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="OS10" context="H,1,10,H10" playid="8,2,90" type="R" tokens="RUSH:34,H15, TACK:56"
+      text="Nall, Ryan rush for 5 yards to the OS15 (Franke, Jase)." newcontext="H,2,5,H15">
+    <p_ru vh="H" name="Nall, Ryan" gain="5"></p_ru>
+    <p_tk vh="V" name="Franke, Jase"></p_tk>
+   </play>
+   <play hasball="OS" down="2" togo="5" spot="OS15" context="H,2,5,H15" playid="8,3,91" type="P" first="P" tokens="PASS:1D,C,13,H36 TACK:31"
+      text="Mitchell, Nick pass complete to Villamin, J. for 21 yards to the OS36, 1ST DOWN OS (Olugbode,Kennet)." newcontext="H,1,10,H36">
+    <p_pa vh="H" qb="Mitchell, Nick" result="COMP" rcv="Villamin, J." gain="21"></p_pa>
+    <p_tk vh="V" name="Olugbode,Kennet"></p_tk>
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="OS36" context="H,1,10,H36" playid="8,4,92" type="E" tokens="PEN:H,PF,A,77,H21,N"
+      text="PENALTY OS personal foul (Harlow, Sean) 15 yards to the OS21." newcontext="H,1,25,H21">
+    <p_pn vh="H" code="PF" type="personal foul" name="Harlow, Sean" result="ACCEPT" at="H36" yards="15"></p_pn>
+   </play>
+   <play hasball="OS" down="1" togo="25" spot="OS21" context="H,1,25,H21" playid="8,5,93" tokens="D:1,10"
+      text="1st and 10." newcontext="H,1,10,H21">
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="OS21" context="H,1,10,H21" playid="8,6,94" type="P" tokens="PASS:1D,S,TM,H18 SACK:4A"
+      text="Mitchell, Nick sacked for loss of 3 yards to the OS18 (Awuzie, Chidobe)." newcontext="H,2,13,H18">
+    <p_pa vh="H" qb="Mitchell, Nick" result="SACK" gain="-3"></p_pa>
+    <p_tk vh="V" name="Awuzie, Chidobe" sack="Y"></p_tk>
+   </play>
+   <play hasball="OS" down="2" togo="13" spot="OS18" context="H,2,13,H18" playid="8,7,95" type="#" clock="02:16" tokens="TOUT:H T:02:16"
+      text="Timeout Oregon State, clock 02:16." newcontext="H,2,13,H18">
+    <p_to vh="H" team="Oregon State"></p_to>
+   </play>
+   <play hasball="OS" down="2" togo="13" spot="OS18" context="H,2,13,H18" playid="8,8,96" type="R" tokens="RUSH:34,H23, TACK:32,4A"
+      text="Nall, Ryan rush for 5 yards to the OS23 (Gamboa, Rick;Awuzie, Chidobe)." newcontext="H,3,8,H23">
+    <p_ru vh="H" name="Nall, Ryan" gain="5"></p_ru>
+    <p_tk vh="V" name="Gamboa, Rick" assist="Y"></p_tk>
+    <p_tk vh="V" name="Awuzie, Chidobe" assist="Y"></p_tk>
+   </play>
+   <play hasball="OS" down="3" togo="8" spot="OS23" context="H,3,8,H23" playid="8,9,97" type="P" tokens="PASS:1D,I,9,* QBH:V,98"
+      text="Mitchell, Nick pass incomplete to Guyton, Datrin, QB hurry by Gilbert, Jimmie." newcontext="H,4,8,H23">
+    <p_pa vh="H" qb="Mitchell, Nick" result="INC" rcv="Guyton, Datrin"></p_pa>
+    <p_qbh vh="V" name="Gilbert, Jimmie"></p_qbh>
+   </play>
+   <play hasball="OS" down="4" togo="8" spot="OS23" context="H,4,8,H23" playid="8,10,98" type="U" tokens="PUNT:31,V40 FC:22"
+      text="Porebski, Nick punt 37 yards to the COLO40, fair catch by Spruce, Nelson." newcontext="V,1,10,V40">
+    <p_pu vh="H" name="Porebski, Nick" gain="37" fc="Spruce, Nelson"></p_pu>
+   </play>
+   <drivesum plays="5" yards="13" top="2:14" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="V,V40,01:32" vh="V" spot="V40" clock="01:32" driveindex="9,98"></drivestart>
+   <play hasball="COLO" down="1" togo="10" spot="COLO40" context="V,1,10,V40" playid="9,1,99" clock="01:32" tokens="{DRIVE}:01:32"
+      text="COLORADO drive start at 01:32." newcontext="V,1,10,V40">
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="COLO40" context="V,1,10,V40" playid="9,2,100" type="P" tokens="PASS:13,I,TM,* BRUP:95"
+      text="Liufau, Sefo pass incomplete (Pritchard, B.)." newcontext="V,2,10,V40">
+    <p_pa vh="V" qb="Liufau, Sefo" result="INC"></p_pa>
+    <p_bu vh="H" name="Pritchard, B."></p_bu>
+   </play>
+   <play hasball="COLO" down="2" togo="10" spot="COLO40" context="V,2,10,V40" playid="9,3,101" type="R" tokens="RUSH:13,V42, OB: TACK:8"
+      text="Liufau, Sefo rush for 2 yards to the COLO42, out-of-bounds (Mageo, Rommel)." ob="Y" newcontext="V,3,8,V42">
+    <p_ru vh="V" name="Liufau, Sefo" gain="2"></p_ru>
+    <p_tk vh="H" name="Mageo, Rommel"></p_tk>
+   </play>
+   <play hasball="COLO" down="3" togo="8" spot="COLO42" context="V,3,8,V42" playid="9,4,102" type="R" tokens="RUSH:13,V42, TACK:8,55"
+      text="Liufau, Sefo rush for no gain to the COLO42 (Mageo, Rommel;Hungalu, Manase)." newcontext="V,4,8,V42">
+    <p_ru vh="V" name="Liufau, Sefo" gain="0"></p_ru>
+    <p_tk vh="H" name="Mageo, Rommel" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hungalu, Manase" assist="Y"></p_tk>
+   </play>
+   <play hasball="COLO" down="4" togo="8" spot="COLO42" context="V,4,8,V42" playid="9,5,103" type="U" tokens="PUNT:8A,H10 FC:88"
+      text="Kinney, Alex punt 48 yards to the OS10, fair catch by Dockery, Rahmel." newcontext="H,1,10,H10">
+    <p_pu vh="V" name="Kinney, Alex" gain="48" in20="Y" fc="Dockery, Rahmel"></p_pu>
+   </play>
+   <drivesum plays="3" yards="2" top="0:30" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="H,H10,01:02" vh="H" spot="H10" clock="01:02" driveindex="10,103"></drivestart>
+   <play hasball="OS" down="1" togo="10" spot="OS10" context="H,1,10,H10" playid="10,1,104" clock="01:02" tokens="{DRIVE}:01:02"
+      text="OREGON STATE drive start at 01:02." newcontext="H,1,10,H10">
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="OS10" context="H,1,10,H10" playid="10,2,105" type="R" tokens="RUSH:34,H16, TACK:25"
+      text="Nall, Ryan rush for 6 yards to the OS16 (Walker, Lee)." newcontext="H,2,4,H16">
+    <p_ru vh="H" name="Nall, Ryan" gain="6"></p_ru>
+    <p_tk vh="V" name="Walker, Lee"></p_tk>
+   </play>
+   <play hasball="OS" down="2" togo="4" spot="OS16" context="H,2,4,H16" playid="10,3,106" type="R" first="R" tokens="RUSH:34,H32, TACK:4A,21"
+      text="Nall, Ryan rush for 16 yards to the OS32, 1ST DOWN OS (Awuzie, Chidobe;Bell, Jered)." newcontext="H,1,10,H32">
+    <p_ru vh="H" name="Nall, Ryan" gain="16"></p_ru>
+    <p_tk vh="V" name="Awuzie, Chidobe" assist="Y"></p_tk>
+    <p_tk vh="V" name="Bell, Jered" assist="Y"></p_tk>
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="OS32" context="H,1,10,H32" playid="10,4,107" type="#" clock="00:32" tokens="TOUT:H T:00:32"
+      text="Timeout Oregon State, clock 00:32." newcontext="H,1,10,H32">
+    <p_to vh="H" team="Oregon State"></p_to>
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="OS32" context="H,1,10,H32" playid="10,5,108" type="P" tokens="PASS:1D,I,6,* BRUP:4A"
+      text="Mitchell, Nick pass incomplete to Bolden,Victor (Awuzie, Chidobe)." newcontext="H,2,10,H32">
+    <p_pa vh="H" qb="Mitchell, Nick" result="INC" rcv="Bolden,Victor"></p_pa>
+    <p_bu vh="V" name="Awuzie, Chidobe"></p_bu>
+   </play>
+   <play hasball="OS" down="2" togo="10" spot="OS32" context="H,2,10,H32" playid="10,6,109" type="P" tokens="PASS:1D,I,1,*"
+      text="Mitchell, Nick pass incomplete to Brown, Chris." newcontext="H,3,10,H32">
+    <p_pa vh="H" qb="Mitchell, Nick" result="INC" rcv="Brown, Chris"></p_pa>
+   </play>
+   <play hasball="OS" down="3" togo="10" spot="OS32" context="H,3,10,H32" playid="10,7,110" type="R" first="R" tokens="RUSH:1,H45, TACK:31"
+      text="Brown, Chris rush for 13 yards to the OS45, 1ST DOWN OS (Olugbode,Kennet)." newcontext="H,1,10,H45">
+    <p_ru vh="H" name="Brown, Chris" gain="13"></p_ru>
+    <p_tk vh="V" name="Olugbode,Kennet"></p_tk>
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="OS45" context="H,1,10,H45" playid="10,8,111" type="P" tokens="PASS:TM,I,TM,*"
+      text="TEAM pass incomplete." newcontext="H,2,10,H45">
+    <p_pa vh="H" qb="TEAM" result="INC"></p_pa>
+   </play>
+   <play hasball="OS" down="2" togo="10" spot="OS45" context="H,2,10,H45" playid="10,9,112" type="E" tokens="PASS:1D,C,9,V17 PEN:H,PI,A,9,H30,N NOPLAY:"
+      text="Mitchell, Nick pass complete to Guyton, Datrin for 38 yards to the COLO17, PENALTY OS pass interference (Guyton, Datrin) 15 yards to the OS30, NO PLAY." newcontext="H,2,25,H30">
+    <p_pn vh="H" code="PI" type="pass interference" name="Guyton, Datrin" result="ACCEPT" at="H45" yards="15"></p_pn>
+   </play>
+   <play hasball="OS" down="2" togo="25" spot="OS30" context="H,2,25,H30" playid="10,10,113" type="R" tokens="RUSH:1,H39, TACK:16"
+      text="Brown, Chris rush for 9 yards to the OS39 (Awini, Jaleel)." newcontext="H,3,16,H39">
+    <p_ru vh="H" name="Brown, Chris" gain="9"></p_ru>
+    <p_tk vh="V" name="Awini, Jaleel"></p_tk>
+   </play>
+   <play hasball="OS" down="3" togo="16" spot="OS39" context="H,3,16,H39" playid="10,11,114" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of half, clock 00:00." newcontext="H,3,16,H39">
+   </play>
+   <drivesum plays="7" yards="29" top="1:02" driveindex="10" complete="Y"></drivesum>
+   <score qtr="2" V="10" H="10"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="COLO">
+    <firstdowns no="6" rush="3" pass="3" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="06:39"></misc>
+    <rush att="8" yds="38" gain="44" loss="6" td="0" long="7"></rush>
+    <pass comp="6" att="10" int="0" yds="43" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="43" td="1" long="0"></rcv>
+    <punt no="2" yds="106" long="19" blkd="0" tb="0" fc="1" plus50="1" inside20="2" avg="53.0"></punt>
+    <ko no="1" yds="60" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="17" tacka="4" tot_tack="21" tflua="2" tfla="0" tflyds="12" sacks="2" sackyds="12" brup="1" qbh="1"></defense>
+    <kr no="1" yds="17" td="0" long="0"></kr>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="OS">
+    <firstdowns no="6" rush="4" pass="2" penalty="0"></firstdowns>
+    <penalties no="3" yds="30"></penalties>
+    <conversions thirdconv="3" thirdatt="6" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:21"></misc>
+    <rush att="15" yds="75" gain="87" loss="12" td="0" long="0"></rush>
+    <pass comp="4" att="10" int="0" yds="66" td="0" long="12" sacks="2" sackyds="12"></pass>
+    <rcv no="4" yds="66" td="0" long="12"></rcv>
+    <punt no="1" yds="37" long="37" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="37.0"></punt>
+    <ko no="1" yds="57" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="42" blkd="0"></fg>
+    <defense tackua="9" tacka="8" tot_tack="17" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" brup="1" qbh="2"></defense>
+    <kr no="1" yds="21" td="0" long="0"></kr>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="OS" down="3" togo="16" spot="OS39" context="H,3,16,H39" playid="10,12,115" type="#" clock="15:00" tokens="Q:3 T:15:00 SPOT:V,V35,N"
+      text="Start of 3rd quarter, clock 15:00, COLO ball on COLO35." newcontext="V,3,16,V35">
+   </play>
+   <play hasball="COLO" down="3" togo="16" spot="COLO35" context="V,3,16,V35" playid="10,13,116" type="K" tokens="KO:15,H02 RET:6,H43 TACK:15"
+      text="Graham, Chris kickoff 63 yards to the OS2, Bolden,Victor return 41 yards to the OS43 (Graham, Chris)." newcontext="H,1,10,H43">
+    <p_ko vh="V" name="Graham, Chris" gain="63"></p_ko>
+    <p_kr vh="H" name="Bolden,Victor" gain="41"></p_kr>
+    <p_tk vh="V" name="Graham, Chris"></p_tk>
+   </play>
+   <drivestart poss="H,H43,14:53" vh="H" spot="H43" clock="14:53" driveindex="11,116"></drivestart>
+   <play hasball="OS" down="1" togo="10" spot="OS43" context="H,1,10,H43" playid="11,1,117" clock="14:53" tokens="{DRIVE}:14:53"
+      text="OREGON STATE drive start at 14:53." newcontext="H,1,10,H43">
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="OS43" context="H,1,10,H43" playid="11,2,118" tokens="QB:H,0D"
+      text="Collins, Seth at QB for Oregon State." newcontext="H,1,10,H43">
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="OS43" context="H,1,10,H43" playid="11,3,119" type="R" tokens="RUSH:34,H45, TACK:4A,21 PEN:H,HO,A,77,H35,N"
+      text="Nall, Ryan rush for 2 yards to the OS45 (Awuzie, Chidobe;Bell, Jered), PENALTY OS holding (Harlow, Sean) 10 yards to the OS35." newcontext="H,1,18,H35">
+    <p_ru vh="H" name="Nall, Ryan" gain="2"></p_ru>
+    <p_tk vh="V" name="Awuzie, Chidobe" assist="Y"></p_tk>
+    <p_tk vh="V" name="Bell, Jered" assist="Y"></p_tk>
+    <p_pn vh="H" code="HO" type="holding" name="Harlow, Sean" result="ACCEPT" at="H45" yards="10"></p_pn>
+   </play>
+   <play hasball="OS" down="1" togo="18" spot="OS35" context="H,1,18,H35" playid="11,4,120" tokens="D:1,18"
+      text="1st and 18." newcontext="H,1,18,H35">
+   </play>
+   <play hasball="OS" down="1" togo="18" spot="OS35" context="H,1,18,H35" playid="11,5,121" type="R" tokens="RUSH:0D,H35, TACK:57"
+      text="Collins, Seth rush for no gain to the OS35 (Solis, Justin)." newcontext="H,2,18,H35">
+    <p_ru vh="H" name="Collins, Seth" gain="0"></p_ru>
+    <p_tk vh="V" name="Solis, Justin"></p_tk>
+   </play>
+   <play hasball="OS" down="2" togo="18" spot="OS35" context="H,2,18,H35" playid="11,6,122" type="R" tokens="RUSH:0D,H40, TACK:31,16"
+      text="Collins, Seth rush for 5 yards to the OS40 (Olugbode,Kennet;Awini, Jaleel)." newcontext="H,3,13,H40">
+    <p_ru vh="H" name="Collins, Seth" gain="5"></p_ru>
+    <p_tk vh="V" name="Olugbode,Kennet" assist="Y"></p_tk>
+    <p_tk vh="V" name="Awini, Jaleel" assist="Y"></p_tk>
+   </play>
+   <play hasball="OS" down="3" togo="13" spot="OS40" context="H,3,13,H40" playid="11,7,123" type="P" first="P" tokens="PASS:0D,C,13,V25 TACK:2C"
+      text="Collins, Seth pass complete to Villamin, J. for 35 yards to the COLO25, 1ST DOWN OS (Witherspoon,Ahk)." newcontext="H,1,10,V25">
+    <p_pa vh="H" qb="Collins, Seth" result="COMP" rcv="Villamin, J." gain="35"></p_pa>
+    <p_tk vh="V" name="Witherspoon,Ahk"></p_tk>
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="COLO25" context="H,1,10,V25" playid="11,8,124" type="R" tokens="RUSH:0D,V23, TACK:57"
+      text="Collins, Seth rush for 2 yards to the COLO23 (Solis, Justin)." newcontext="H,2,8,V23">
+    <p_ru vh="H" name="Collins, Seth" gain="2"></p_ru>
+    <p_tk vh="V" name="Solis, Justin"></p_tk>
+   </play>
+   <play hasball="OS" down="2" togo="8" spot="COLO23" context="H,2,8,V23" playid="11,9,125" type="R" tokens="RUSH:34,V22, TACK:52"
+      text="Nall, Ryan rush for 1 yard to the COLO22 (Jackson, Leo)." newcontext="H,3,7,V22">
+    <p_ru vh="H" name="Nall, Ryan" gain="1"></p_ru>
+    <p_tk vh="V" name="Jackson, Leo"></p_tk>
+   </play>
+   <play hasball="OS" down="3" togo="7" spot="COLO22" context="H,3,7,V22" playid="11,10,126" type="P" tokens="PASS:0D,S,TM,V26 SACK:52"
+      text="Collins, Seth sacked for loss of 4 yards to the COLO26 (Jackson, Leo)." newcontext="H,4,11,V26">
+    <p_pa vh="H" qb="Collins, Seth" result="SACK" gain="-4"></p_pa>
+    <p_tk vh="V" name="Jackson, Leo" sack="Y"></p_tk>
+   </play>
+   <play hasball="OS" down="4" togo="11" spot="COLO26" context="H,4,11,V26" playid="11,11,127" type="F" clock="11:06" tokens="FGA:2A,44,M,V26,L T:11:06"
+      text="Owens, Garrett field goal attempt from 44 MISSED - wide left, spot at COLO26, clock 11:06." newcontext="V,1,10,V26">
+    <p_fg vh="H" name="Owens, Garrett" distance="44" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="8" yards="31" top="3:47" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="V,V26,11:06" vh="V" spot="V26" clock="11:06" driveindex="12,127"></drivestart>
+   <play hasball="COLO" down="1" togo="10" spot="COLO26" context="V,1,10,V26" playid="12,1,128" clock="11:06" tokens="{DRIVE}:11:06"
+      text="COLORADO drive start at 11:06." newcontext="V,1,10,V26">
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="COLO26" context="V,1,10,V26" playid="12,2,129" type="R" tokens="RUSH:46,V30, TACK:99"
+      text="Powell,Christia rush for 4 yards to the COLO30 (Peko, Kyle)." newcontext="V,2,6,V30">
+    <p_ru vh="V" name="Powell,Christia" gain="4"></p_ru>
+    <p_tk vh="H" name="Peko, Kyle"></p_tk>
+   </play>
+   <play hasball="COLO" down="2" togo="6" spot="COLO30" context="V,2,6,V30" playid="12,3,130" type="P" first="P" tokens="PASS:13,C,4,V38 TACK:17,4"
+      text="Liufau, Sefo pass complete to Bobo, Bryce for 8 yards to the COLO38, 1ST DOWN COLO (Noland-Lewis, C;Strong, Justin)." newcontext="V,1,10,V38">
+    <p_pa vh="V" qb="Liufau, Sefo" result="COMP" rcv="Bobo, Bryce" gain="8"></p_pa>
+    <p_tk vh="H" name="Noland-Lewis, C" assist="Y"></p_tk>
+    <p_tk vh="H" name="Strong, Justin" assist="Y"></p_tk>
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="COLO38" context="V,1,10,V38" playid="12,4,131" type="R" first="R" tokens="RUSH:13,H46, OB: TACK:35"
+      text="Liufau, Sefo rush for 16 yards to the OS46, 1ST DOWN COLO, out-of-bounds (Saulo, Caleb)." ob="Y" newcontext="V,1,10,H46">
+    <p_ru vh="V" name="Liufau, Sefo" gain="16"></p_ru>
+    <p_tk vh="H" name="Saulo, Caleb"></p_tk>
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="OS46" context="V,1,10,H46" playid="12,5,132" type="R" tokens="RUSH:23,H37, OB: TACK:29"
+      text="Lindsay,Phillip rush for 9 yards to the OS37, out-of-bounds (Williams, D.)." ob="Y" newcontext="V,2,1,H37">
+    <p_ru vh="V" name="Lindsay,Phillip" gain="9"></p_ru>
+    <p_tk vh="H" name="Williams, D."></p_tk>
+   </play>
+   <play hasball="COLO" down="2" togo="1" spot="OS37" context="V,2,1,H37" playid="12,6,133" type="R" first="R" tokens="RUSH:23,H33, TACK:52,59"
+      text="Lindsay,Phillip rush for 4 yards to the OS33, 1ST DOWN COLO (Houston, Sumner;Barnett, L.)." newcontext="V,1,10,H33">
+    <p_ru vh="V" name="Lindsay,Phillip" gain="4"></p_ru>
+    <p_tk vh="H" name="Houston, Sumner" assist="Y"></p_tk>
+    <p_tk vh="H" name="Barnett, L." assist="Y"></p_tk>
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="OS33" context="V,1,10,H33" playid="12,7,134" type="R" tokens="RUSH:23,H31, TACK:52,93"
+      text="Lindsay,Phillip rush for 2 yards to the OS31 (Houston, Sumner;Failauga, Titus)." newcontext="V,2,8,H31">
+    <p_ru vh="V" name="Lindsay,Phillip" gain="2"></p_ru>
+    <p_tk vh="H" name="Houston, Sumner" assist="Y"></p_tk>
+    <p_tk vh="H" name="Failauga, Titus" assist="Y"></p_tk>
+   </play>
+   <play hasball="COLO" down="2" togo="8" spot="OS31" context="V,2,8,H31" playid="12,8,135" type="R" tokens="RUSH:13,H27, TACK:93"
+      text="Liufau, Sefo rush for 4 yards to the OS27 (Failauga, Titus)." newcontext="V,3,4,H27">
+    <p_ru vh="V" name="Liufau, Sefo" gain="4"></p_ru>
+    <p_tk vh="H" name="Failauga, Titus"></p_tk>
+   </play>
+   <play hasball="COLO" down="3" togo="4" spot="OS27" context="V,3,4,H27" playid="12,9,136" type="R" tokens="RUSH:13,H24, TACK:48"
+      text="Liufau, Sefo rush for 3 yards to the OS24 (James, Jaswha)." newcontext="V,4,1,H24">
+    <p_ru vh="V" name="Liufau, Sefo" gain="3"></p_ru>
+    <p_tk vh="H" name="James, Jaswha"></p_tk>
+   </play>
+   <play hasball="COLO" down="4" togo="1" spot="OS24" context="V,4,1,H24" playid="12,10,137" type="R" first="R" tokens="RUSH:13,H23, TACK:55,8"
+      text="Liufau, Sefo rush for 1 yard to the OS23, 1ST DOWN COLO (Hungalu, Manase;Mageo, Rommel)." newcontext="V,1,10,H23">
+    <p_ru vh="V" name="Liufau, Sefo" gain="1"></p_ru>
+    <p_tk vh="H" name="Hungalu, Manase" assist="Y"></p_tk>
+    <p_tk vh="H" name="Mageo, Rommel" assist="Y"></p_tk>
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="OS23" context="V,1,10,H23" playid="12,11,138" type="R" tokens="RUSH:13,H23, TACK:8"
+      text="Liufau, Sefo rush for no gain to the OS23 (Mageo, Rommel)." newcontext="V,2,10,H23">
+    <p_ru vh="V" name="Liufau, Sefo" gain="0"></p_ru>
+    <p_tk vh="H" name="Mageo, Rommel"></p_tk>
+   </play>
+   <play hasball="COLO" down="2" togo="10" spot="OS23" context="V,2,10,H23" playid="12,12,139" type="R" tokens="RUSH:1,H19, TACK:99"
+      text="Carr, Patrick rush for 4 yards to the OS19 (Peko, Kyle)." newcontext="V,3,6,H19">
+    <p_ru vh="V" name="Carr, Patrick" gain="4"></p_ru>
+    <p_tk vh="H" name="Peko, Kyle"></p_tk>
+   </play>
+   <play hasball="COLO" down="3" togo="6" spot="OS19" context="V,3,6,H19" playid="12,13,140" type="P" tokens="PASS:13,S,TM,H28 SACK:95,17"
+      text="Liufau, Sefo sacked for loss of 9 yards to the OS28 (Pritchard, B.;Noland-Lewis, C)." newcontext="V,4,15,H28">
+    <p_pa vh="V" qb="Liufau, Sefo" result="SACK" gain="-9"></p_pa>
+    <p_tk vh="H" name="Pritchard, B." sack="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Noland-Lewis, C" sack="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="COLO" down="4" togo="15" spot="OS28" context="V,4,15,H28" playid="12,14,141" type="F" clock="04:13" tokens="FGA:10,45,M,H28,R T:04:13"
+      text="Gonzalez, Diego field goal attempt from 45 MISSED - wide right, spot at OS28, clock 04:13." newcontext="H,1,10,H28">
+    <p_fg vh="V" name="Gonzalez, Diego" distance="45" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="13" yards="46" top="6:53" driveindex="12" complete="Y"></drivesum>
+   <drivestart poss="H,H28,04:13" vh="H" spot="H28" clock="04:13" driveindex="13,141"></drivestart>
+   <play hasball="OS" down="1" togo="10" spot="OS28" context="H,1,10,H28" playid="13,1,142" clock="04:13" tokens="{DRIVE}:04:13"
+      text="OREGON STATE drive start at 04:13." newcontext="H,1,10,H28">
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="OS28" context="H,1,10,H28" playid="13,2,143" type="R" tokens="RUSH:34,H37, TACK:2"
+      text="Nall, Ryan rush for 9 yards to the OS37 (Crawley, Ken)." newcontext="H,2,1,H37">
+    <p_ru vh="H" name="Nall, Ryan" gain="9"></p_ru>
+    <p_tk vh="V" name="Crawley, Ken"></p_tk>
+   </play>
+   <play hasball="OS" down="2" togo="1" spot="OS37" context="H,2,1,H37" playid="13,3,144" type="R" first="R" tokens="RUSH:34,V43, TACK:16"
+      text="Nall, Ryan rush for 20 yards to the COLO43, 1ST DOWN OS (Awini, Jaleel)." newcontext="H,1,10,V43">
+    <p_ru vh="H" name="Nall, Ryan" gain="20"></p_ru>
+    <p_tk vh="V" name="Awini, Jaleel"></p_tk>
+   </play>
+   <comment text="OSU's #77 injured on the play; carted off the field"></comment>
+   <play hasball="OS" down="1" togo="10" spot="COLO43" context="H,1,10,V43" playid="13,4,146" type="P" tokens="PASS:0D,I,6,*"
+      text="Collins, Seth pass incomplete to Bolden,Victor." newcontext="H,2,10,V43">
+    <p_pa vh="H" qb="Collins, Seth" result="INC" rcv="Bolden,Victor"></p_pa>
+   </play>
+   <play hasball="OS" down="2" togo="10" spot="COLO43" context="H,2,10,V43" playid="13,5,147" type="R" tokens="RUSH:0D,V40, TACK:54"
+      text="Collins, Seth rush for 3 yards to the COLO40 (Kafovalu,Samson)." newcontext="H,3,7,V40">
+    <p_ru vh="H" name="Collins, Seth" gain="3"></p_ru>
+    <p_tk vh="V" name="Kafovalu,Samson"></p_tk>
+   </play>
+   <play hasball="OS" down="3" togo="7" spot="COLO40" context="H,3,7,V40" playid="13,6,148" tokens="QB:H,1D"
+      text="Mitchell, Nick at QB for Oregon State." newcontext="H,3,7,V40">
+   </play>
+   <play hasball="OS" down="3" togo="7" spot="COLO40" context="H,3,7,V40" playid="13,7,149" type="P" tokens="PASS:1D,S,TM,V48 SACK:54"
+      text="Mitchell, Nick sacked for loss of 8 yards to the COLO48 (Kafovalu,Samson)." newcontext="H,4,15,V48">
+    <p_pa vh="H" qb="Mitchell, Nick" result="SACK" gain="-8"></p_pa>
+    <p_tk vh="V" name="Kafovalu,Samson" sack="Y"></p_tk>
+   </play>
+   <play hasball="OS" down="4" togo="15" spot="COLO48" context="H,4,15,V48" playid="13,8,150" type="U" tokens="PUNT:31,V15 FC:22"
+      text="Porebski, Nick punt 33 yards to the COLO15, fair catch by Spruce, Nelson." newcontext="V,1,10,V15">
+    <p_pu vh="H" name="Porebski, Nick" gain="33" in20="Y" fc="Spruce, Nelson"></p_pu>
+   </play>
+   <drivesum plays="5" yards="24" top="2:20" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="V,V15,01:53" vh="V" spot="V15" clock="01:53" driveindex="14,150"></drivestart>
+   <play hasball="COLO" down="1" togo="10" spot="COLO15" context="V,1,10,V15" playid="14,1,151" clock="01:53" tokens="{DRIVE}:01:53"
+      text="COLORADO drive start at 01:53." newcontext="V,1,10,V15">
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="COLO15" context="V,1,10,V15" playid="14,2,152" type="R" tokens="RUSH:29,V22, TACK:8"
+      text="Lee, Donovan rush for 7 yards to the COLO22 (Mageo, Rommel)." newcontext="V,2,3,V22">
+    <p_ru vh="V" name="Lee, Donovan" gain="7"></p_ru>
+    <p_tk vh="H" name="Mageo, Rommel"></p_tk>
+   </play>
+   <play hasball="COLO" down="2" togo="3" spot="COLO22" context="V,2,3,V22" playid="14,3,153" type="R" first="R" tokens="RUSH:29,V26, TACK:3"
+      text="Lee, Donovan rush for 4 yards to the COLO26, 1ST DOWN COLO (Arnold,Brandon)." newcontext="V,1,10,V26">
+    <p_ru vh="V" name="Lee, Donovan" gain="4"></p_ru>
+    <p_tk vh="H" name="Arnold,Brandon"></p_tk>
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="COLO26" context="V,1,10,V26" playid="14,4,154" type="R" tokens="RUSH:13,V29, OB: TACK:12"
+      text="Liufau, Sefo rush for 3 yards to the COLO29, out-of-bounds (Hill, Kendall)." ob="Y" newcontext="V,2,7,V29">
+    <p_ru vh="V" name="Liufau, Sefo" gain="3"></p_ru>
+    <p_tk vh="H" name="Hill, Kendall"></p_tk>
+   </play>
+   <play hasball="COLO" down="2" togo="7" spot="COLO29" context="V,2,7,V29" playid="14,5,155" type="P" tokens="PASS:13,C,29,V33 OB: TACK:4"
+      text="Liufau, Sefo pass complete to Lee, Donovan for 4 yards to the COLO33, out-of-bounds (Strong, Justin)." ob="Y" newcontext="V,3,3,V33">
+    <p_pa vh="V" qb="Liufau, Sefo" result="COMP" rcv="Lee, Donovan" gain="4"></p_pa>
+    <p_tk vh="H" name="Strong, Justin"></p_tk>
+   </play>
+   <play hasball="COLO" down="3" togo="3" spot="COLO33" context="V,3,3,V33" playid="14,6,156" type="P" first="P" tokens="PASS:13,C,29,V37 TACK:12"
+      text="Liufau, Sefo pass complete to Lee, Donovan for 4 yards to the COLO37, 1ST DOWN COLO (Hill, Kendall)." newcontext="V,1,10,V37">
+    <p_pa vh="V" qb="Liufau, Sefo" result="COMP" rcv="Lee, Donovan" gain="4"></p_pa>
+    <p_tk vh="H" name="Hill, Kendall"></p_tk>
+   </play>
+   <score qtr="3" V="10" H="10"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="COLO">
+    <firstdowns no="6" rush="4" pass="2" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:46"></misc>
+    <rush att="14" yds="52" gain="61" loss="9" td="0" long="0"></rush>
+    <pass comp="3" att="3" int="0" yds="16" td="0" long="0" sacks="1" sackyds="9"></pass>
+    <rcv no="3" yds="16" td="0" long="0"></rcv>
+    <ko no="1" yds="63" ob="0" tb="0"></ko>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <defense tackua="10" tacka="4" tot_tack="14" tflua="2" tfla="0" tflyds="12" sacks="2" sackyds="12"></defense>
+   </qtrsummary>
+   <qtrsummary vh="H" id="OS">
+    <firstdowns no="2" rush="1" pass="1" penalty="0"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:14"></misc>
+    <rush att="10" yds="30" gain="42" loss="12" td="0" long="0"></rush>
+    <pass comp="1" att="2" int="0" yds="35" td="0" long="0" sacks="2" sackyds="12"></pass>
+    <rcv no="1" yds="35" td="0" long="0"></rcv>
+    <punt no="1" yds="33" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="33.0"></punt>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <defense tackua="12" tacka="10" tot_tack="22" tflua="0" tfla="2" tflyds="9" sacks="1" sackyds="9"></defense>
+    <kr no="1" yds="41" td="0" long="17"></kr>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="COLO" down="1" togo="10" spot="COLO37" context="V,1,10,V37" playid="14,7,157" type="#" clock="15:00" tokens="Q:4 T:15:00"
+      text="Start of 4th quarter, clock 15:00." newcontext="V,1,10,V37">
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="COLO37" context="V,1,10,V37" playid="14,8,158" type="P" tokens="PASS:13,I,TM,* QBH:H,29"
+      text="Liufau, Sefo pass incomplete, QB hurry by Williams, D.." newcontext="V,2,10,V37">
+    <p_pa vh="V" qb="Liufau, Sefo" result="INC"></p_pa>
+    <p_qbh vh="H" name="Williams, D."></p_qbh>
+   </play>
+   <play hasball="COLO" down="2" togo="10" spot="COLO37" context="V,2,10,V37" playid="14,9,159" type="P" first="P" tokens="PASS:13,C,81,H41"
+      text="Liufau, Sefo pass complete to Irwin, Sean for 22 yards to the OS41, 1ST DOWN COLO." newcontext="V,1,10,H41">
+    <p_pa vh="V" qb="Liufau, Sefo" result="COMP" rcv="Irwin, Sean" gain="22"></p_pa>
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="OS41" context="V,1,10,H41" playid="14,10,160" type="E" tokens="RUSH:29,H37, TACK:32 PEN:H,OD,A,TM,H36,N NOPLAY:"
+      text="Lee, Donovan rush for 4 yards to the OS37 (Willis, J.), PENALTY OS offside defense 5 yards to the OS36, NO PLAY." newcontext="V,1,5,H36">
+    <p_pn vh="H" code="OD" type="offside defense" result="ACCEPT" at="H41" yards="5"></p_pn>
+   </play>
+   <play hasball="COLO" down="1" togo="5" spot="OS36" context="V,1,5,H36" playid="14,11,161" type="R" first="R" tokens="RUSH:13,H28, TACK:95,32"
+      text="Liufau, Sefo rush for 8 yards to the OS28, 1ST DOWN COLO (Pritchard, B.;Willis, J.)." newcontext="V,1,10,H28">
+    <p_ru vh="V" name="Liufau, Sefo" gain="8"></p_ru>
+    <p_tk vh="H" name="Pritchard, B." assist="Y"></p_tk>
+    <p_tk vh="H" name="Willis, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="OS28" context="V,1,10,H28" playid="14,12,162" type="P" tokens="PASS:13,I,22,*"
+      text="Liufau, Sefo pass incomplete to Spruce, Nelson." newcontext="V,2,10,H28">
+    <p_pa vh="V" qb="Liufau, Sefo" result="INC" rcv="Spruce, Nelson"></p_pa>
+   </play>
+   <play hasball="COLO" down="2" togo="10" spot="OS28" context="V,2,10,H28" playid="14,13,163" type="P" first="P" tokens="PASS:13,C,22,H16 OB: TACK:12"
+      text="Liufau, Sefo pass complete to Spruce, Nelson for 12 yards to the OS16, 1ST DOWN COLO, out-of-bounds (Hill, Kendall)." ob="Y" newcontext="V,1,10,H16">
+    <p_pa vh="V" qb="Liufau, Sefo" result="COMP" rcv="Spruce, Nelson" gain="12"></p_pa>
+    <p_tk vh="H" name="Hill, Kendall"></p_tk>
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="OS16" context="V,1,10,H16" playid="14,14,164" type="R" tokens="RUSH:29,H10, TACK:3"
+      text="Lee, Donovan rush for 6 yards to the OS10 (Arnold,Brandon)." newcontext="V,2,4,H10">
+    <p_ru vh="V" name="Lee, Donovan" gain="6"></p_ru>
+    <p_tk vh="H" name="Arnold,Brandon"></p_tk>
+   </play>
+   <play hasball="COLO" down="2" togo="4" spot="OS10" context="V,2,4,H10" playid="14,15,165" type="R" first="R" tokens="RUSH:29,H04, TACK:55"
+      text="Lee, Donovan rush for 6 yards to the OS4, 1ST DOWN COLO (Hungalu, Manase)." newcontext="V,1,0,H04">
+    <p_ru vh="V" name="Lee, Donovan" gain="6"></p_ru>
+    <p_tk vh="H" name="Hungalu, Manase"></p_tk>
+   </play>
+   <play hasball="COLO" down="1" togo="0" spot="OS04" context="V,1,0,H04" playid="14,16,166" type="R" score="Y" vscore="16" hscore="10" clock="12:31" tokens="RUSH:13,H00, T:12:31"
+      text="Liufau, Sefo rush for 4 yards to the OS0, TOUCHDOWN, clock 12:31." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Liufau, Sefo" gain="4"></p_ru>
+   </play>
+   <play hasball="COLO" down="1" togo="0" spot="OS03" context="V,1,0,H03" playid="14,17,167" type="X" score="Y" vscore="17" hscore="10" tokens="PAT:K,10,G"
+      text="Gonzalez, Diego kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Gonzalez, Diego" qb="Gonzalez, Diego" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="17" H="10"></score>
+   <drivesum plays="13" yards="85" top="4:22" driveindex="14" complete="Y"></drivesum>
+   <play hasball="COLO" down="1" togo="0" spot="COLO35" context="V,1,0,V35" playid="14,18,168" type="K" tokens="KO:15,H00 RET:6,H24 TACK:47"
+      text="Graham, Chris kickoff 65 yards to the OS0, Bolden,Victor return 24 yards to the OS24 (Shaver,Christia)." newcontext="H,1,10,H24">
+    <p_ko vh="V" name="Graham, Chris" gain="65"></p_ko>
+    <p_kr vh="H" name="Bolden,Victor" gain="24"></p_kr>
+    <p_tk vh="V" name="Shaver,Christia"></p_tk>
+   </play>
+   <drivestart poss="H,H24,12:25" vh="H" spot="H24" clock="12:25" driveindex="15,168"></drivestart>
+   <play hasball="OS" down="1" togo="10" spot="OS24" context="H,1,10,H24" playid="15,1,169" clock="12:25" tokens="{DRIVE}:12:25"
+      text="OREGON STATE drive start at 12:25." newcontext="H,1,10,H24">
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="OS24" context="H,1,10,H24" playid="15,2,170" type="R" tokens="RUSH:34,H26, TACK:54"
+      text="Nall, Ryan rush for 2 yards to the OS26 (Kafovalu,Samson)." newcontext="H,2,8,H26">
+    <p_ru vh="H" name="Nall, Ryan" gain="2"></p_ru>
+    <p_tk vh="V" name="Kafovalu,Samson"></p_tk>
+   </play>
+   <play hasball="OS" down="2" togo="8" spot="OS26" context="H,2,8,H26" playid="15,3,171" type="P" first="P" tokens="PASS:1D,C,9,V48 OB: TACK:2C"
+      text="Mitchell, Nick pass complete to Guyton, Datrin for 26 yards to the COLO48, 1ST DOWN OS, out-of-bounds (Witherspoon,Ahk)." ob="Y" newcontext="H,1,10,V48">
+    <p_pa vh="H" qb="Mitchell, Nick" result="COMP" rcv="Guyton, Datrin" gain="26"></p_pa>
+    <p_tk vh="V" name="Witherspoon,Ahk"></p_tk>
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="COLO48" context="H,1,10,V48" playid="15,4,172" type="R" first="R" tokens="RUSH:34,V32, TACK:21"
+      text="Nall, Ryan rush for 16 yards to the COLO32, 1ST DOWN OS (Bell, Jered)." newcontext="H,1,10,V32">
+    <p_ru vh="H" name="Nall, Ryan" gain="16"></p_ru>
+    <p_tk vh="V" name="Bell, Jered"></p_tk>
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="COLO32" context="H,1,10,V32" playid="15,5,173" type="R" tokens="RUSH:1,V23, TACK:54,52"
+      text="Brown, Chris rush for 9 yards to the COLO23 (Kafovalu,Samson;Jackson, Leo)." newcontext="H,2,1,V23">
+    <p_ru vh="H" name="Brown, Chris" gain="9"></p_ru>
+    <p_tk vh="V" name="Kafovalu,Samson" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jackson, Leo" assist="Y"></p_tk>
+   </play>
+   <comment text="OSU's #1 injured on the play; walks off the field"></comment>
+   <play hasball="OS" down="2" togo="1" spot="COLO23" context="H,2,1,V23" playid="15,6,175" type="R" first="R" tokens="RUSH:34,V10, TACK:9,32"
+      text="Nall, Ryan rush for 13 yards to the COLO10, 1ST DOWN OS (Thompson,Tedric;Gamboa, Rick)." newcontext="H,1,0,V10">
+    <p_ru vh="H" name="Nall, Ryan" gain="13"></p_ru>
+    <p_tk vh="V" name="Thompson,Tedric" assist="Y"></p_tk>
+    <p_tk vh="V" name="Gamboa, Rick" assist="Y"></p_tk>
+   </play>
+   <play hasball="OS" down="1" togo="0" spot="COLO10" context="H,1,0,V10" playid="15,7,176" type="E" tokens="RUSH:34,V06, TACK:21 PEN:H,HO,A,TM,V20,N NOPLAY:"
+      text="Nall, Ryan rush for 4 yards to the COLO6 (Bell, Jered), PENALTY OS holding 10 yards to the COLO20, NO PLAY." newcontext="H,1,0,V20">
+    <p_pn vh="H" code="HO" type="holding" result="ACCEPT" at="V10" yards="10"></p_pn>
+   </play>
+   <play hasball="OS" down="1" togo="0" spot="COLO20" context="H,1,0,V20" playid="15,8,177" type="P" tokens="PASS:1D,I,81,*"
+      text="Mitchell, Nick pass incomplete to Togiai, Noah." newcontext="H,2,0,V20">
+    <p_pa vh="H" qb="Mitchell, Nick" result="INC" rcv="Togiai, Noah"></p_pa>
+   </play>
+   <play hasball="OS" down="2" togo="0" spot="COLO20" context="H,2,0,V20" playid="15,9,178" type="R" tokens="RUSH:34,V16, TACK:32"
+      text="Nall, Ryan rush for 4 yards to the COLO16 (Gamboa, Rick)." newcontext="H,3,0,V16">
+    <p_ru vh="H" name="Nall, Ryan" gain="4"></p_ru>
+    <p_tk vh="V" name="Gamboa, Rick"></p_tk>
+   </play>
+   <play hasball="OS" down="3" togo="0" spot="COLO16" context="H,3,0,V16" playid="15,10,179" type="P" tokens="PASS:1D,I,9,* PEN:H,PI,D"
+      text="Mitchell, Nick pass incomplete to Guyton, Datrin, PENALTY OS pass interference declined." newcontext="H,4,0,V16">
+    <p_pa vh="H" qb="Mitchell, Nick" result="INC" rcv="Guyton, Datrin"></p_pa>
+    <p_pn vh="H" code="PI" type="pass interference" name="Guyton, Datrin" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="OS" down="4" togo="0" spot="COLO16" context="H,4,0,V16" playid="15,11,180" type="F" score="Y" vscore="17" hscore="13" clock="09:12" tokens="FGA:2A,34,G T:09:12"
+      text="Owens, Garrett field goal attempt from 34 GOOD, clock 09:12." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="Owens, Garrett" distance="34" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="17" H="13"></score>
+   <drivesum plays="9" yards="60" top="3:13" driveindex="15" complete="Y"></drivesum>
+   <play hasball="OS" down="1" togo="0" spot="OS35" context="H,1,0,H35" playid="15,12,181" type="K" tokens="KO:2A,V08 RET:29,V28 TACK:42"
+      text="Owens, Garrett kickoff 57 yards to the COLO8, Lee, Donovan return 20 yards to the COLO28 (Ortiz, Ricky)." newcontext="V,1,10,V28">
+    <p_ko vh="H" name="Owens, Garrett" gain="57"></p_ko>
+    <p_kr vh="V" name="Lee, Donovan" gain="20"></p_kr>
+    <p_tk vh="H" name="Ortiz, Ricky"></p_tk>
+   </play>
+   <drivestart poss="V,V28,09:08" vh="V" spot="V28" clock="09:08" driveindex="16,181"></drivestart>
+   <play hasball="COLO" down="1" togo="10" spot="COLO28" context="V,1,10,V28" playid="16,1,182" clock="09:08" tokens="{DRIVE}:09:08"
+      text="COLORADO drive start at 09:08." newcontext="V,1,10,V28">
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="COLO28" context="V,1,10,V28" playid="16,2,183" type="R" tokens="RUSH:46,V33, TACK:95"
+      text="Powell,Christia rush for 5 yards to the COLO33 (Pritchard, B.)." newcontext="V,2,5,V33">
+    <p_ru vh="V" name="Powell,Christia" gain="5"></p_ru>
+    <p_tk vh="H" name="Pritchard, B."></p_tk>
+   </play>
+   <play hasball="COLO" down="2" togo="5" spot="COLO33" context="V,2,5,V33" playid="16,3,184" type="R" tokens="RUSH:29,V35, TACK:48,99"
+      text="Lee, Donovan rush for 2 yards to the COLO35 (James, Jaswha;Peko, Kyle)." newcontext="V,3,3,V35">
+    <p_ru vh="V" name="Lee, Donovan" gain="2"></p_ru>
+    <p_tk vh="H" name="James, Jaswha" assist="Y"></p_tk>
+    <p_tk vh="H" name="Peko, Kyle" assist="Y"></p_tk>
+   </play>
+   <play hasball="COLO" down="3" togo="3" spot="COLO35" context="V,3,3,V35" playid="16,4,185" type="P" tokens="PASS:13,I,4,* BRUP:99"
+      text="Liufau, Sefo pass incomplete to Bobo, Bryce (Peko, Kyle)." newcontext="V,4,3,V35">
+    <p_pa vh="V" qb="Liufau, Sefo" result="INC" rcv="Bobo, Bryce"></p_pa>
+    <p_bu vh="H" name="Peko, Kyle"></p_bu>
+   </play>
+   <play hasball="COLO" down="4" togo="3" spot="COLO35" context="V,4,3,V35" playid="16,5,186" type="U" tokens="PUNT:8A,H33 DN:"
+      text="Kinney, Alex punt 32 yards to the OS33, downed." newcontext="H,1,10,H33">
+    <p_pu vh="V" name="Kinney, Alex" gain="32"></p_pu>
+   </play>
+   <drivesum plays="3" yards="7" top="1:30" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="H,H33,07:38" vh="H" spot="H33" clock="07:38" driveindex="17,186"></drivestart>
+   <play hasball="OS" down="1" togo="10" spot="OS33" context="H,1,10,H33" playid="17,1,187" clock="07:38" tokens="{DRIVE}:07:38"
+      text="OREGON STATE drive start at 07:38." newcontext="H,1,10,H33">
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="OS33" context="H,1,10,H33" playid="17,2,188" type="R" tokens="RUSH:34,H42, TACK:16"
+      text="Nall, Ryan rush for 9 yards to the OS42 (Awini, Jaleel)." newcontext="H,2,1,H42">
+    <p_ru vh="H" name="Nall, Ryan" gain="9"></p_ru>
+    <p_tk vh="V" name="Awini, Jaleel"></p_tk>
+   </play>
+   <play hasball="OS" down="2" togo="1" spot="OS42" context="H,2,1,H42" playid="17,3,189" type="R" first="R" tokens="RUSH:34,H48, TACK:32"
+      text="Nall, Ryan rush for 6 yards to the OS48, 1ST DOWN OS (Gamboa, Rick)." newcontext="H,1,10,H48">
+    <p_ru vh="H" name="Nall, Ryan" gain="6"></p_ru>
+    <p_tk vh="V" name="Gamboa, Rick"></p_tk>
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="OS48" context="H,1,10,H48" playid="17,4,190" type="R" tokens="RUSH:34,H48, TACK:92"
+      text="Nall, Ryan rush for no gain to the OS48 (Carrell, Jordan)." newcontext="H,2,10,H48">
+    <p_ru vh="H" name="Nall, Ryan" gain="0"></p_ru>
+    <p_tk vh="V" name="Carrell, Jordan"></p_tk>
+   </play>
+   <play hasball="OS" down="2" togo="10" spot="OS48" context="H,2,10,H48" playid="17,5,191" type="R" tokens="RUSH:34,H48, TACK:4A"
+      text="Nall, Ryan rush for no gain to the OS48 (Awuzie, Chidobe)." newcontext="H,3,10,H48">
+    <p_ru vh="H" name="Nall, Ryan" gain="0"></p_ru>
+    <p_tk vh="V" name="Awuzie, Chidobe"></p_tk>
+   </play>
+   <play hasball="OS" down="3" togo="10" spot="OS48" context="H,3,10,H48" playid="17,6,192" type="P" first="P" tokens="PASS:1D,C,9,V31 TACK:21"
+      text="Mitchell, Nick pass complete to Guyton, Datrin for 21 yards to the COLO31, 1ST DOWN OS (Bell, Jered)." newcontext="H,1,10,V31">
+    <p_pa vh="H" qb="Mitchell, Nick" result="COMP" rcv="Guyton, Datrin" gain="21"></p_pa>
+    <p_tk vh="V" name="Bell, Jered"></p_tk>
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="COLO31" context="H,1,10,V31" playid="17,7,193" type="P" tokens="PASS:1D,I,81,* BRUP:31"
+      text="Mitchell, Nick pass incomplete to Togiai, Noah (Olugbode,Kennet)." newcontext="H,2,10,V31">
+    <p_pa vh="H" qb="Mitchell, Nick" result="INC" rcv="Togiai, Noah"></p_pa>
+    <p_bu vh="V" name="Olugbode,Kennet"></p_bu>
+   </play>
+   <play hasball="OS" down="2" togo="10" spot="COLO31" context="H,2,10,V31" playid="17,8,194" type="P" tokens="PASS:1D,I,16,*"
+      text="Mitchell, Nick pass incomplete to Lucas, Paul." newcontext="H,3,10,V31">
+    <p_pa vh="H" qb="Mitchell, Nick" result="INC" rcv="Lucas, Paul"></p_pa>
+   </play>
+   <play hasball="OS" down="3" togo="10" spot="COLO31" context="H,3,10,V31" playid="17,9,195" type="P" tokens="PASS:1D,I,6,* BRUP:9"
+      text="Mitchell, Nick pass incomplete to Bolden,Victor (Thompson,Tedric)." newcontext="H,4,10,V31">
+    <p_pa vh="H" qb="Mitchell, Nick" result="INC" rcv="Bolden,Victor"></p_pa>
+    <p_bu vh="V" name="Thompson,Tedric"></p_bu>
+   </play>
+   <play hasball="OS" down="4" togo="10" spot="COLO31" context="H,4,10,V31" playid="17,10,196" type="P" tokens="PASS:1D,I,13,*"
+      text="Mitchell, Nick pass incomplete to Villamin, J.." newcontext="V,1,10,V31">
+    <p_pa vh="H" qb="Mitchell, Nick" result="INC" rcv="Villamin, J."></p_pa>
+   </play>
+   <drivesum plays="9" yards="36" top="2:59" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="V,V31,04:39" vh="V" spot="V31" clock="04:39" driveindex="18,196"></drivestart>
+   <play hasball="COLO" down="1" togo="10" spot="COLO31" context="V,1,10,V31" playid="18,1,197" clock="04:39" tokens="{DRIVE}:04:39"
+      text="COLORADO drive start at 04:39." newcontext="V,1,10,V31">
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="COLO31" context="V,1,10,V31" playid="18,2,198" type="R" tokens="RUSH:23,V34, TACK:99,12"
+      text="Lindsay,Phillip rush for 3 yards to the COLO34 (Peko, Kyle;Hill, Kendall)." newcontext="V,2,7,V34">
+    <p_ru vh="V" name="Lindsay,Phillip" gain="3"></p_ru>
+    <p_tk vh="H" name="Peko, Kyle" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hill, Kendall" assist="Y"></p_tk>
+   </play>
+   <play hasball="COLO" down="2" togo="7" spot="COLO34" context="V,2,7,V34" playid="18,3,199" type="P" tokens="PASS:13,C,4,V40 TACK:29"
+      text="Liufau, Sefo pass complete to Bobo, Bryce for 6 yards to the COLO40 (Williams, D.)." newcontext="V,3,1,V40">
+    <p_pa vh="V" qb="Liufau, Sefo" result="COMP" rcv="Bobo, Bryce" gain="6"></p_pa>
+    <p_tk vh="H" name="Williams, D."></p_tk>
+   </play>
+   <play hasball="COLO" down="3" togo="1" spot="COLO40" context="V,3,1,V40" playid="18,4,200" type="R" tokens="RUSH:23,V37, TACK:99"
+      text="Lindsay,Phillip rush for loss of 3 yards to the COLO37 (Peko, Kyle)." newcontext="V,4,4,V37">
+    <p_ru vh="V" name="Lindsay,Phillip" gain="-3"></p_ru>
+    <p_tk vh="H" name="Peko, Kyle"></p_tk>
+   </play>
+   <play hasball="COLO" down="4" togo="4" spot="COLO37" context="V,4,4,V37" playid="18,5,201" type="E" tokens="PEN:V,DG,A,8A,V32,N"
+      text="PENALTY COLO delay of game (Kinney, Alex) 5 yards to the COLO32." newcontext="V,4,9,V32">
+    <p_pn vh="V" code="DG" type="delay of game" name="Kinney, Alex" result="ACCEPT" at="V37" yards="5"></p_pn>
+   </play>
+   <play hasball="COLO" down="4" togo="9" spot="COLO32" context="V,4,9,V32" playid="18,6,202" type="U" tokens="PUNT:8A,H25 FC:88"
+      text="Kinney, Alex punt 43 yards to the OS25, fair catch by Dockery, Rahmel." newcontext="H,1,10,H25">
+    <p_pu vh="V" name="Kinney, Alex" gain="43" fc="Dockery, Rahmel"></p_pu>
+   </play>
+   <drivesum plays="3" yards="1" top="2:11" driveindex="18" complete="Y"></drivesum>
+   <drivestart poss="H,H25,02:28" vh="H" spot="H25" clock="02:28" driveindex="19,202"></drivestart>
+   <play hasball="OS" down="1" togo="10" spot="OS25" context="H,1,10,H25" playid="19,1,203" clock="02:28" tokens="{DRIVE}:02:28"
+      text="OREGON STATE drive start at 02:28." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="OS25" context="H,1,10,H25" playid="19,2,204" type="P" tokens="PASS:1D,I,16,*"
+      text="Mitchell, Nick pass incomplete to Lucas, Paul." newcontext="H,2,10,H25">
+    <p_pa vh="H" qb="Mitchell, Nick" result="INC" rcv="Lucas, Paul"></p_pa>
+   </play>
+   <play hasball="OS" down="2" togo="10" spot="OS25" context="H,2,10,H25" playid="19,3,205" type="P" tokens="PASS:1D,I,9,*"
+      text="Mitchell, Nick pass incomplete to Guyton, Datrin." newcontext="H,3,10,H25">
+    <p_pa vh="H" qb="Mitchell, Nick" result="INC" rcv="Guyton, Datrin"></p_pa>
+   </play>
+   <play hasball="OS" down="3" togo="10" spot="OS25" context="H,3,10,H25" playid="19,4,206" type="P" tokens="PASS:1D,I,6,* BRUP:4A"
+      text="Mitchell, Nick pass incomplete to Bolden,Victor (Awuzie, Chidobe)." newcontext="H,4,10,H25">
+    <p_pa vh="H" qb="Mitchell, Nick" result="INC" rcv="Bolden,Victor"></p_pa>
+    <p_bu vh="V" name="Awuzie, Chidobe"></p_bu>
+   </play>
+   <play hasball="OS" down="4" togo="10" spot="OS25" context="H,4,10,H25" playid="19,5,207" type="U" tokens="PUNT:31,V35 FC:22 PEN:V,HO,A,92,V25,N D:1,10 SPOT:V,V25,Y"
+      text="Porebski, Nick punt 40 yards to the COLO35, fair catch by Spruce, Nelson, PENALTY COLO holding (Carrell, Jordan) 10 yards to the COLO25, 1st and 10, COLO ball on COLO25." newcontext="V,1,10,V25">
+    <p_pu vh="H" name="Porebski, Nick" gain="40" fc="Spruce, Nelson"></p_pu>
+    <p_pn vh="V" code="HO" type="holding" name="Carrell, Jordan" result="ACCEPT" at="V35" yards="10"></p_pn>
+   </play>
+   <drivesum plays="3" yards="0" top="0:25" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="V,V25,02:03" vh="V" spot="V25" clock="02:03" driveindex="20,207"></drivestart>
+   <play hasball="COLO" down="1" togo="10" spot="COLO25" context="V,1,10,V25" playid="20,1,208" clock="02:03" tokens="{DRIVE}:02:03"
+      text="COLORADO drive start at 02:03." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="COLO25" context="V,1,10,V25" playid="20,2,209" type="R" tokens="RUSH:46,V28, TACK:52,55"
+      text="Powell,Christia rush for 3 yards to the COLO28 (Houston, Sumner;Hungalu, Manase)." newcontext="V,2,7,V28">
+    <p_ru vh="V" name="Powell,Christia" gain="3"></p_ru>
+    <p_tk vh="H" name="Houston, Sumner" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hungalu, Manase" assist="Y"></p_tk>
+   </play>
+   <play hasball="COLO" down="2" togo="7" spot="COLO28" context="V,2,7,V28" playid="20,3,210" type="#" clock="01:54" tokens="TOUT:H T:01:54"
+      text="Timeout Oregon State, clock 01:54." newcontext="V,2,7,V28">
+    <p_to vh="H" team="Oregon State"></p_to>
+   </play>
+   <play hasball="COLO" down="2" togo="7" spot="COLO28" context="V,2,7,V28" playid="20,4,211" type="R" tokens="RUSH:46,V32, TACK:35,26"
+      text="Powell,Christia rush for 4 yards to the COLO32 (Saulo, Caleb;Chappell, Devin)." newcontext="V,3,3,V32">
+    <p_ru vh="V" name="Powell,Christia" gain="4"></p_ru>
+    <p_tk vh="H" name="Saulo, Caleb" assist="Y"></p_tk>
+    <p_tk vh="H" name="Chappell, Devin" assist="Y"></p_tk>
+   </play>
+   <play hasball="COLO" down="3" togo="3" spot="COLO32" context="V,3,3,V32" playid="20,5,212" type="#" clock="01:46" tokens="TOUT:H T:01:46"
+      text="Timeout Oregon State, clock 01:46." newcontext="V,3,3,V32">
+    <p_to vh="H" team="Oregon State"></p_to>
+   </play>
+   <play hasball="COLO" down="3" togo="3" spot="COLO32" context="V,3,3,V32" playid="20,6,213" type="R" tokens="RUSH:13,V34, TACK:48"
+      text="Liufau, Sefo rush for 2 yards to the COLO34 (James, Jaswha)." newcontext="V,4,1,V34">
+    <p_ru vh="V" name="Liufau, Sefo" gain="2"></p_ru>
+    <p_tk vh="H" name="James, Jaswha"></p_tk>
+   </play>
+   <play hasball="COLO" down="4" togo="1" spot="COLO34" context="V,4,1,V34" playid="20,7,214" type="#" clock="01:39" tokens="TOUT:H T:01:39"
+      text="Timeout Oregon State, clock 01:39." newcontext="V,4,1,V34">
+    <p_to vh="H" team="Oregon State"></p_to>
+   </play>
+   <play hasball="COLO" down="4" togo="1" spot="COLO34" context="V,4,1,V34" playid="20,8,215" type="U" tokens="PUNT:8A,H34 FC:88"
+      text="Kinney, Alex punt 32 yards to the OS34, fair catch by Dockery, Rahmel." newcontext="H,1,10,H34">
+    <p_pu vh="V" name="Kinney, Alex" gain="32" fc="Dockery, Rahmel"></p_pu>
+   </play>
+   <drivesum plays="3" yards="9" top="0:30" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="H,H34,01:33" vh="H" spot="H34" clock="01:33" driveindex="21,215"></drivestart>
+   <play hasball="OS" down="1" togo="10" spot="OS34" context="H,1,10,H34" playid="21,1,216" clock="01:33" tokens="{DRIVE}:01:33"
+      text="OREGON STATE drive start at 01:33." newcontext="H,1,10,H34">
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="OS34" context="H,1,10,H34" playid="21,2,217" type="P" tokens="PASS:1D,C,9,H39 OB: TACK:2C"
+      text="Mitchell, Nick pass complete to Guyton, Datrin for 5 yards to the OS39, out-of-bounds (Witherspoon,Ahk)." ob="Y" newcontext="H,2,5,H39">
+    <p_pa vh="H" qb="Mitchell, Nick" result="COMP" rcv="Guyton, Datrin" gain="5"></p_pa>
+    <p_tk vh="V" name="Witherspoon,Ahk"></p_tk>
+   </play>
+   <play hasball="OS" down="2" togo="5" spot="OS39" context="H,2,5,H39" playid="21,3,218" type="P" tokens="PASS:1D,F,TM,H32 SACK:96 FUMB:H,H41,34"
+      text="Mitchell, Nick sacked for loss of 7 yards to the OS32 (Hasselbach,Terr), fumble by Mitchell, Nick recovered by OS Nall, Ryan at OS41." newcontext="H,3,3,H41">
+    <p_pa vh="H" qb="Mitchell, Nick" result="FUMB" gain="-7"></p_pa>
+    <p_fumb vh="H" name="Mitchell, Nick" at="H41" frvh="H" frname="Nall, Ryan"></p_fumb>
+    <p_tk vh="V" name="Hasselbach,Terr" sack="Y"></p_tk>
+   </play>
+   <play hasball="OS" down="3" togo="3" spot="OS41" context="H,3,3,H41" playid="21,4,219" type="E" first="E" tokens="PASS:1D,I,6,* PEN:V,PI,A,4A,V44,1 NOPLAY:"
+      text="Mitchell, Nick pass incomplete to Bolden,Victor, PENALTY COLO pass interference (Awuzie, Chidobe) 15 yards to the COLO44, 1ST DOWN OS, NO PLAY." newcontext="H,1,10,V44">
+    <p_pn vh="V" code="PI" type="pass interference" name="Awuzie, Chidobe" result="ACCEPT" at="H41" yards="15"></p_pn>
+   </play>
+   <play hasball="OS" down="1" togo="10" spot="COLO44" context="H,1,10,V44" playid="21,5,220" type="P" tokens="PASS:1D,I,6,*"
+      text="Mitchell, Nick pass incomplete to Bolden,Victor." newcontext="H,2,10,V44">
+    <p_pa vh="H" qb="Mitchell, Nick" result="INC" rcv="Bolden,Victor"></p_pa>
+   </play>
+   <play hasball="OS" down="2" togo="10" spot="COLO44" context="H,2,10,V44" playid="21,6,221" type="P" tokens="PASS:1D,C,6,V44 TACK:4A"
+      text="Mitchell, Nick pass complete to Bolden,Victor for no gain to the COLO44 (Awuzie, Chidobe)." newcontext="H,3,10,V44">
+    <p_pa vh="H" qb="Mitchell, Nick" result="COMP" rcv="Bolden,Victor" gain="0"></p_pa>
+    <p_tk vh="V" name="Awuzie, Chidobe"></p_tk>
+   </play>
+   <play hasball="OS" down="3" togo="10" spot="COLO44" context="H,3,10,V44" playid="21,7,222" type="P" tokens="PASS:1D,C,9,V40 OB:"
+      text="Mitchell, Nick pass complete to Guyton, Datrin for 4 yards to the COLO40, out-of-bounds." ob="Y" newcontext="H,4,6,V40">
+    <p_pa vh="H" qb="Mitchell, Nick" result="COMP" rcv="Guyton, Datrin" gain="4"></p_pa>
+   </play>
+   <play hasball="OS" down="4" togo="6" spot="COLO40" context="H,4,6,V40" playid="21,8,223" type="P" turnover="I" tokens="PASS:1D,X,4A,V38 RET:4A,V38 TACK:50"
+      text="Mitchell, Nick pass intercepted by Awuzie, Chidobe at the COLO38, Awuzie, Chidobe return 0 yards to the COLO38 (Mitchell, Josh)." newcontext="V,1,10,V38">
+    <p_pa vh="H" qb="Mitchell, Nick" result="INT"></p_pa>
+    <p_ir vh="V" name="Awuzie, Chidobe" at="V38" gain="0"></p_ir>
+    <p_tk vh="H" name="Mitchell, Josh"></p_tk>
+   </play>
+   <drivesum plays="6" yards="26" top="1:09" driveindex="21" complete="Y"></drivesum>
+   <drivestart poss="V,V38,00:24" vh="V" spot="V38" clock="00:24" driveindex="22,223"></drivestart>
+   <play hasball="COLO" down="1" togo="10" spot="COLO38" context="V,1,10,V38" playid="22,1,224" clock="00:24" tokens="{DRIVE}:00:24"
+      text="COLORADO drive start at 00:24." newcontext="V,1,10,V38">
+   </play>
+   <play hasball="COLO" down="1" togo="10" spot="COLO38" context="V,1,10,V38" playid="22,2,225" type="R" tokens="RUSH:TM,V36,"
+      text="TEAM rush for loss of 2 yards to the COLO36." newcontext="V,2,12,V36">
+    <p_ru vh="V" name="TEAM" gain="-2"></p_ru>
+   </play>
+   <play hasball="COLO" down="2" togo="12" spot="COLO36" context="V,2,12,V36" playid="22,3,226" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of game, clock 00:00." newcontext="V,2,12,V36">
+   </play>
+   <drivesum plays="1" yards="-2" top="0:24" driveindex="22" complete="Y"></drivesum>
+   <score final="Y" V="17" H="13"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="COLO">
+    <firstdowns no="4" rush="2" pass="2" penalty="0"></firstdowns>
+    <penalties no="3" yds="30"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:08"></misc>
+    <rush att="12" yds="38" gain="43" loss="5" td="1" long="0"></rush>
+    <pass comp="3" att="6" int="0" yds="40" td="0" long="3" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="40" td="0" long="3"></rcv>
+    <punt no="3" yds="107" long="0" blkd="0" tb="0" fc="2" plus50="0" inside20="0" avg="35.7"></punt>
+    <ko no="1" yds="65" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="13" tacka="4" tot_tack="17" tflua="1" tfla="0" tflyds="7" sacks="1" sackyds="7" brup="3" ff="1" int="1" intyds="0"></defense>
+    <kr no="1" yds="20" td="0" long="0"></kr>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="OS">
+    <firstdowns no="6" rush="3" pass="2" penalty="1"></firstdowns>
+    <penalties no="2" yds="15"></penalties>
+    <conversions thirdconv="1" thirdatt="5" fourthconv="0" fourthatt="2"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="07:52"></misc>
+    <rush att="10" yds="61" gain="61" loss="0" td="0" long="0"></rush>
+    <pass comp="5" att="16" int="1" yds="56" td="0" long="0" sacks="1" sackyds="7"></pass>
+    <rcv no="5" yds="56" td="0" long="0"></rcv>
+    <punt no="1" yds="40" long="3" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="40.0"></punt>
+    <ko no="1" yds="57" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="0" blkd="0"></fg>
+    <defense tackua="9" tacka="10" tot_tack="19" tflua="1" tfla="0" tflyds="3" sacks="0" sackyds="0" brup="1" qbh="1"></defense>
+    <kr no="1" yds="24" td="0" long="0"></kr>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="V" id="COLO" down="2" togo="12" spot="COLO36" context="V,2,12,V36" qtr="4" clock="00:00" vtoh="0" htoh="3"
+       lastplay="End of game, clock 00:00."></downtogo>
+ </plays>
+ <message text=""></message>
+ <dnp vh="V" id="COLO">
+  <player name="Gordon, Dino" checkname="GORDON,DINO" uni="1C" class="FR" gp="0" code="1C"></player>
+  <player name="Montez, Steven" checkname="MONTEZ,STEVEN" uni="1B" class="FR" gp="0" code="1B"></player>
+  <player name="Lynch, Peter" checkname="LYNCH,PETER" uni="1D" class="FR" gp="0" code="1D"></player>
+  <player name="Apsay, Cade" checkname="APSAY,CADE" uni="1A" class="FR" gp="0" code="1A"></player>
+  <player name="Moeller, Ryan" checkname="MOELLER,RYAN" uni="2A" class="SO" gp="0" code="2A"></player>
+  <player name="Evans, Kyle" checkname="EVANS,KYLE" uni="2D" class="FR" gp="0" code="2D"></player>
+  <player name="Cooper, Lucas" checkname="COOPER,LUCAS" uni="3B" class="FR" gp="0" code="3B"></player>
+  <player name="Rippy, Deaysean" checkname="RIPPY,DEAYSEAN" uni="3" class="JR" gp="0" code="3"></player>
+  <player name="Headley, Trent" checkname="HEADLEY,TRENT" uni="4B" class="SO" gp="0" code="4B"></player>
+  <player name="Lynott, Tim" checkname="LYNOTT,TIM" uni="5B" class="FR" gp="0" code="5B"></player>
+  <player name="Wright, Yuri" checkname="WRIGHT,YURI" uni="5A" class="JR" gp="0" code="5A"></player>
+  <player name="Fields, Shay" checkname="FIELDS,SHAY" uni="5" class="SO" gp="0" code="5"></player>
+  <player name="Gehrke, Jordan" checkname="GEHRKE,JORDAN" uni="7" class="JR" gp="0" code="7"></player>
+  <player name="Howard, Aaron" checkname="HOWARD,AARON" uni="9A" class="JR" gp="0" code="9A"></player>
+  <player name="Patterson, T.J." checkname="PATTERSON,TJ" uni="9B" class="SO" gp="0" code="9B"></player>
+  <player name="Mosley, Marques" checkname="MOSLEY,MARQUES" uni="17" class="SR" gp="0" code="17"></player>
+  <player name="Adkins, Michael" checkname="ADKINS,MICHAEL" uni="19" class="JR" gp="0" code="19"></player>
+  <player name="Hall, Joseph" checkname="HALL,JOSEPH" uni="27" class="SO" gp="0" code="27"></player>
+  <player name="Severson, Ryan" checkname="SEVERSON,RYAN" uni="30" class="JR" gp="0" code="30"></player>
+  <player name="Shaw, Hunter" checkname="SHAW,HUNTER" uni="34" class="SR" gp="0" code="34"></player>
+  <player name="Finch, John" checkname="FINCH,JOHN" uni="35" class="SR" gp="0" code="35"></player>
+  <player name="Norgard, Clay" checkname="NORGARD,CLAY" uni="36" class="JR" gp="0" code="36"></player>
+  <player name="Grundman, Sean" checkname="GRUNDMAN,SEAN" uni="37" class="SO" gp="0" code="37"></player>
+  <player name="Beemster,Camero" checkname="BEEMSTER,CAMERO" uni="40" class="SO" gp="0" code="40"></player>
+  <player name="Bergner, Andrew" checkname="BERGNER,ANDREW" uni="41" class="SO" gp="0" code="41"></player>
+  <player name="Falo, N.J." checkname="FALO,NJ" uni="42" class="FR" gp="0" code="42"></player>
+  <player name="Bounds, Chris" checkname="BOUNDS,CHRIS" uni="43" class="FR" gp="0" code="43"></player>
+  <player name="Gillam, Addison" checkname="GILLAM,ADDISON" uni="44" class="JR" gp="0" code="44"></player>
+  <player name="Watanabe, Grant" checkname="WATANABE,GRANT" uni="45" class="FR" gp="0" code="45"></player>
+  <player name="Eaton, Erik" checkname="EATON,ERIK" uni="48" class="FR" gp="0" code="48"></player>
+  <player name="Gregory,Garrett" checkname="GREGORY,GARRETT" uni="49" class="SO" gp="0" code="49"></player>
+  <player name="Umu, Frank" checkname="UMU,FRANK" uni="50" class="FR" gp="0" code="50"></player>
+  <player name="Center, Connor" checkname="CENTER,CONNOR" uni="51" class="SO" gp="0" code="51"></player>
+  <player name="Tonz, Brett" checkname="TONZ,BRETT" uni="55" class="FR" gp="0" code="55"></player>
+  <player name="Robbins, Blake" checkname="ROBBINS,BLAKE" uni="58" class="JR" gp="0" code="58"></player>
+  <player name="Middlemiss,Dill" checkname="MIDDLEMISS,DILL" uni="60" class="FR" gp="0" code="60"></player>
+  <player name="Caldwell, Ed" checkname="CALDWELL,ED" uni="61" class="JR" gp="0" code="61"></player>
+  <player name="Bale, J.T." checkname="BALE,JT" uni="63" class="FR" gp="0" code="63"></player>
+  <player name="Haigler, Aaron" checkname="HAIGLER,AARON" uni="64" class="FR" gp="0" code="64"></player>
+  <player name="Arvia, Vincent" checkname="ARVIA,VINCENT" uni="65" class="SR" gp="0" code="65"></player>
+  <player name="Sutton, Colin" checkname="SUTTON,COLIN" uni="66" class="SO" gp="0" code="66"></player>
+  <player name="Kough, Gerrad" checkname="KOUGH,GERRAD" uni="68" class="SO" gp="0" code="68"></player>
+  <player name="Tuiloma, Lyle" checkname="TUILOMA,LYLE" uni="72" class="FR" gp="0" code="72"></player>
+  <player name="Miller, Isaac" checkname="MILLER,ISAAC" uni="73" class="FR" gp="0" code="73"></player>
+  <player name="Irwin, Jeromy" checkname="IRWIN,JEROMY" uni="76" class="JR" gp="0" code="76"></player>
+  <player name="Jan, Justin" checkname="JAN,JUSTIN" uni="80" class="FR" gp="0" code="80"></player>
+  <player name="Cochrane,Xavier" checkname="COCHRANE,XAVIER" uni="87" class="FR" gp="0" code="87"></player>
+  <player name="Wilson, De'Jon" checkname="WILSON,DE'JON" uni="90" class="JR" gp="0" code="90"></player>
+  <player name="Lopez, Eddy" checkname="LOPEZ,EDDY" uni="91" class="SO" gp="0" code="91"></player>
+  <player name="Mathewes,Michae" checkname="MATHEWES,MICHAE" uni="93" class="FR" gp="0" code="93"></player>
+  <player name="Wyman, Bryan" checkname="WYMAN,BRYAN" uni="97" class="SO" gp="0" code="97"></player>
+ </dnp>
+ <dnp vh="H" id="OS">
+  <player name="McMaryion, M." checkname="MCMARYION,M" uni="0C" class="FR" gp="0" code="0C"></player>
+  <player name="Smith, Caleb" checkname="SMITH,CALEB" uni="1J" class="SR" gp="0" code="1J"></player>
+  <player name="Cope, Ryan" checkname="COPE,RYAN" uni="2I" class="JR" gp="0" code="2I"></player>
+  <player name="Jarmon, Hunter" checkname="JARMON,HUNTER" uni="2" class="SO" gp="0" code="2"></player>
+  <player name="Wilson, Shawn" checkname="WILSON,SHAWN" uni="2H" class="FR" gp="0" code="2H"></player>
+  <player name="Crist, Ian" checkname="CRIST,IAN" uni="2G" class="JR" gp="0" code="2G"></player>
+  <player name="Irvine, Jay" checkname="IRVINE,JAY" uni="2D" class="FR" gp="0" code="2D"></player>
+  <player name="Greaves, Marcus" checkname="GREAVES,MARCUS" uni="3B" class="SO" gp="0" code="3B"></player>
+  <player name="Hawkins, Xavier" checkname="HAWKINS,XAVIER" uni="7" class="SO" gp="0" code="7"></player>
+  <player name="Grimble, Jalen" checkname="GRIMBLE,JALEN" uni="10" class="SR" gp="0" code="10"></player>
+  <player name="Scott, Larry" checkname="SCOTT,LARRY" uni="15" class="SR" gp="0" code="15"></player>
+  <player name="Hayes, Chris" checkname="HAYES,CHRIS" uni="20" class="SO" gp="0" code="20"></player>
+  <player name="Sands, Deltron" checkname="SANDS,DELTRON" uni="21" class="FR" gp="0" code="21"></player>
+  <player name="Crawford, X." checkname="CRAWFORD,X" uni="22" class="FR" gp="0" code="22"></player>
+  <player name="Standish, Zach" checkname="STANDISH,ZACH" uni="28" class="FR" gp="0" code="28"></player>
+  <player name="Rodriguez, D." checkname="RODRIGUEZ,D" uni="39" class="FR" gp="0" code="39"></player>
+  <player name="Liuchan, Ricky" checkname="LIUCHAN,RICKY" uni="44" class="FR" gp="0" code="44"></player>
+  <player name="Choukair, J." checkname="CHOUKAIR,J" uni="46" class="FR" gp="0" code="46"></player>
+  <player name="Henry, David" checkname="HENRY,DAVID" uni="49" class="SO" gp="0" code="49"></player>
+  <player name="Hufanga, T.J." checkname="HUFANGA,TJ" uni="53" class="SO" gp="0" code="53"></player>
+  <player name="Kelsey, Connor" checkname="KELSEY,CONNOR" uni="57" class="FR" gp="0" code="57"></player>
+  <player name="Johnson, Mason" checkname="JOHNSON,MASON" uni="63" class="FR" gp="0" code="63"></player>
+  <player name="Moore, Trent" checkname="MOORE,TRENT" uni="67" class="FR" gp="0" code="67"></player>
+  <player name="Schubert, P." checkname="SCHUBERT,P" uni="69" class="FR" gp="0" code="69"></player>
+  <player name="Olson, Robert" checkname="OLSON,ROBERT" uni="71" class="FR" gp="0" code="71"></player>
+  <player name="Brandel, Blake" checkname="BRANDEL,BLAKE" uni="73" class="FR" gp="0" code="73"></player>
+  <player name="Demogerontas, Y" checkname="DEMOGERONTAS,Y" uni="76" class="FR" gp="0" code="76"></player>
+  <player name="Curtius, Sam" checkname="CURTIUS,SAM" uni="78" class="SO" gp="0" code="78"></player>
+  <player name="Keenan, Bobby" checkname="KEENAN,BOBBY" uni="79" class="JR" gp="0" code="79"></player>
+  <player name="VanderVeen, B." checkname="VANDERVEEN,B" uni="80" class="JR" gp="0" code="80"></player>
+  <player name="Wily-Matagi, T." checkname="WILY-MATAGI,T" uni="82" class="FR" gp="0" code="82"></player>
+  <player name="Kell, Drew" checkname="KELL,DREW" uni="87" class="FR" gp="0" code="87"></player>
+  <player name="Robins, Ali'i" checkname="ROBINS,ALI'I" uni="90" class="SR" gp="0" code="90"></player>
+  <player name="Tago, Noke" checkname="TAGO,NOKE" uni="91" class="JR" gp="0" code="91"></player>
+  <player name="Hollingsworth" checkname="HOLLINGSWORTH" uni="94" class="JR" gp="0" code="94"></player>
+  <player name="Williams, L." checkname="WILLIAMS,L" uni="96" class="FR" gp="0" code="96"></player>
+  <player name="Vakameilalo, K." checkname="VAKAMEILALO,K" uni="97" class="FR" gp="0" code="97"></player>
+ </dnp>
+ <longplays thresh="70">
+ </longplays>
+</fbgame>

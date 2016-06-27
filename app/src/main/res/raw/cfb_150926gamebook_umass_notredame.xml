@@ -1,0 +1,1933 @@
+<fbgame source="Tas Football" version="4.16.07" generated="9/27/2015">
+ <venue gameid="UMASS-ND" visid="UMASS" homeid="ND" visname="Massachusetts" homename="Notre Dame"
+      date="9/26/2015" location="Notre Dame, Indiana" stadium="Notre Dame Stadium"
+      start="3:40 pm" end="7:10 pm"
+      duration="3:30" attend="80795" temp="75" wind="W 13" weather="Partly Sunny">
+  <officials ref="Pat Garvey" ump="Danny Worell" line="John Busch" lj="Allen Andrick" bj="Scott Maslin" fj="Jim Biddle" sj="Angie Bartis" cj="Joe Pennucci" alt="Joe Pennucci"></officials>
+  <rules qtrs="4" mins="15" downs="4" yds="10" kospot="35" tbspot="20" kotbspot="25" patspot="3" safspot="20" td="6" fg="3" pat="1" patx="2" saf="2" defpat="2" rouge="1" field="100" toh="3" sackrush="Y" fgaplay="Y" netpunttb="Y"></rules>
+ </venue>
+ <team vh="V" code="400" id="UMASS" name="Massachusetts" record="0-3" abb="V">
+  <linescore prds="4" line="6,14,0,7" score="27">
+   <lineprd prd="1" score="6"></lineprd>
+   <lineprd prd="2" score="14"></lineprd>
+   <lineprd prd="3" score="0"></lineprd>
+   <lineprd prd="4" score="7"></lineprd>
+  </linescore>
+  <totals totoff_plays="77" totoff_yards="450" totoff_avg="5.8">
+   <firstdowns no="22" rush="4" pass="13" penalty="5"></firstdowns>
+   <penalties no="4" yds="35"></penalties>
+   <conversions thirdconv="5" thirdatt="16" fourthconv="1" fourthatt="3"></conversions>
+   <fumbles no="1" lost="0"></fumbles>
+   <misc yds="0" top="29:45" ona="0" onm="0" ptsto="7"></misc>
+   <redzone att="3" scores="2" points="14" tdrush="2" tdpass="0" fgmade="0" endfga="0" enddowns="1" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="29" yds="148" gain="179" loss="31" td="3" long="83"></rush>
+   <pass comp="28" att="48" int="1" yds="302" td="1" long="56" sacks="2" sackyds="19"></pass>
+   <rcv no="28" yds="302" td="1" long="56"></rcv>
+   <punt no="7" yds="318" long="52" blkd="0" tb="1" fc="3" plus50="3" inside20="3" avg="45.4"></punt>
+   <ko no="5" yds="315" ob="0" tb="1"></ko>
+   <pat kickatt="4" kickmade="3"></pat>
+   <defense tackua="38" tacka="44" tot_tack="82" tflua="0" tfla="4" tflyds="3" sacks="1" sackyds="2" brup="1" int="1" intyds="12"></defense>
+   <kr no="8" yds="151" td="0" long="28"></kr>
+   <pr no="1" yds="7" td="0" long="7"></pr>
+   <ir no="1" yds="12" td="0" long="12"></ir>
+   <scoring td="4" patkick="3"></scoring>
+  </totals>
+  <player name="Brackett, K." shortname="Brackett, K." checkname="BRACKETT,K" uni="1A" class="SR" gp="1" gs="1" dpos="CB" code="1A">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Sharpe, T." shortname="Sharpe, T." checkname="SHARPE,T" uni="1" class="SR" gp="1" gs="1" opos="WR" code="1">
+   <rcv no="8" yds="83" td="0" long="15"></rcv>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Comis, R." shortname="Comis, R." checkname="COMIS,R" uni="2" class="SO" gp="1" code="2">
+   <rush att="2" yds="5" gain="5" loss="0" td="0" long="5"></rush>
+   <pass comp="8" att="8" int="0" yds="69" td="1" long="33" sacks="0" sackyds="0"></pass>
+  </player>
+  <player name="Edmonds, Z." shortname="Edmonds, Z." checkname="EDMONDS,Z" uni="2Z" class="SO" gp="1" gs="1" dpos="LB" code="2Z">
+   <defense tackua="2" tacka="2" tot_tack="4" tflua="0" tfla="1" tflyds="0"></defense>
+  </player>
+  <player name="Isabella, A." shortname="Isabella, A." checkname="ISABELLA,A" uni="2D" class="FR" gp="1" code="2D">
+   <rcv no="1" yds="-1" td="0" long="0"></rcv>
+   <kr no="6" yds="116" td="0" long="28"></kr>
+   <fumbles no="1" lost="0"></fumbles>
+  </player>
+  <player name="Hamilton, J." shortname="Hamilton, J." checkname="HAMILTON,J" uni="2A" class="SO" gp="1" code="2A">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Messiah, K." shortname="Messiah, K." checkname="MESSIAH,K" uni="3" class="SR" gp="1" gs="1" dpos="LB" code="3">
+   <defense tackua="2" tacka="2" tot_tack="4"></defense>
+  </player>
+  <player name="Jette, R." shortname="Jette, R." checkname="JETTE,R" uni="4" class="SR" gp="1" gs="1" dpos="CB" code="4">
+   <defense tackua="0" tacka="2" tot_tack="2"></defense>
+  </player>
+  <player name="Jonah, D." shortname="Jonah, D." checkname="JONAH,D" uni="5A" class="SR" gp="1" code="5A"></player>
+  <player name="Angeh, P." shortname="Angeh, P." checkname="ANGEH,P" uni="5" class="JR" gp="1" gs="1" dpos="DT" code="5">
+   <defense tackua="1" tacka="2" tot_tack="3" tflua="0" tfla="1" tflyds="1" sackua="0" sacka="1" sackyds="1"></defense>
+  </player>
+  <player name="Wilson, J." shortname="Wilson, J." checkname="WILSON,J" uni="6" class="SR" gp="1" gs="1" opos="RB" code="6">
+   <rush att="7" yds="51" gain="51" loss="0" td="1" long="18"></rush>
+   <rcv no="2" yds="24" td="0" long="16"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Frohnapfel, B." shortname="Frohnapfel, B." checkname="FROHNAPFEL,B" uni="7" class="SR" gp="1" gs="1" opos="QB" code="7">
+   <rush att="3" yds="-19" gain="0" loss="19" td="0" long="0"></rush>
+   <pass comp="20" att="40" int="1" yds="233" td="0" long="56" sacks="2" sackyds="19"></pass>
+  </player>
+  <player name="Huber, S." shortname="Huber, S." checkname="HUBER,S" uni="8" class="SO" gp="1" gs="1" dpos="LB" code="8">
+   <defense tackua="3" tacka="3" tot_tack="6"></defense>
+  </player>
+  <player name="Young, M." shortname="Young, M." checkname="YOUNG,M" uni="8A" class="FR" gp="1" code="8A">
+   <rush att="5" yds="103" gain="103" loss="0" td="1" long="83"></rush>
+   <rcv no="1" yds="4" td="0" long="4"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Dudley-Giles, T" shortname="Dudley-Giles, T" checkname="DUDLEY-GILES,T" uni="9" class="SR" gp="1" gs="1" dpos="SS" code="9">
+   <defense tackua="7" tacka="3" tot_tack="10" int="1" intyds="12"></defense>
+   <pr no="1" yds="7" td="0" long="7"></pr>
+   <ir no="1" yds="12" td="0" long="12"></ir>
+  </player>
+  <player name="Michel, M." shortname="Michel, M." checkname="MICHEL,M" uni="10" class="SR" gp="1" gs="1" opos="WR" code="10">
+   <rush att="2" yds="-1" gain="3" loss="4" td="0" long="3"></rush>
+   <rcv no="6" yds="46" td="0" long="25"></rcv>
+  </player>
+  <player name="Stafford, T." shortname="Stafford, T." checkname="STAFFORD,T" uni="12" class="SO" gp="1" code="12"></player>
+  <player name="Harris, S." shortname="Harris, S." checkname="HARRIS,S" uni="14" class="SO" gp="1" code="14">
+   <rcv no="2" yds="27" td="0" long="21"></rcv>
+  </player>
+  <player name="Doyle, A." shortname="Doyle, A." checkname="DOYLE,A" uni="15" class="JR" gp="1" code="15"></player>
+  <player name="Long, E." shortname="Long, E." checkname="LONG,E" uni="16" class="SR" gp="1" code="16">
+   <rcv no="2" yds="11" td="0" long="6"></rcv>
+  </player>
+  <player name="Santos-Knox, J." shortname="Santos-Knox, J." checkname="SANTOS-KNOX,J" uni="17" class="SR" gp="1" gs="1" dpos="LB" code="17">
+   <defense tackua="4" tacka="6" tot_tack="10" brup="1"></defense>
+  </player>
+  <player name="Verboys, A." shortname="Verboys, A." checkname="VERBOYS,A" uni="18" class="FR" gp="1" code="18"></player>
+  <player name="Nesmith, S." shortname="Nesmith, S." checkname="NESMITH,S" uni="19" class="SO" gp="1" code="19">
+   <rcv no="3" yds="88" td="1" long="56"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Woodley, L." shortname="Woodley, L." checkname="WOODLEY,L" uni="20" class="JR" gp="1" code="20">
+   <rush att="1" yds="1" gain="1" loss="0" td="0" long="1"></rush>
+   <rcv no="2" yds="9" td="0" long="9"></rcv>
+  </player>
+  <player name="Lucas, B." shortname="Lucas, B." checkname="LUCAS,B" uni="23" class="SR" gp="1" code="23">
+   <ko no="5" yds="315" ob="0" tb="1"></ko>
+   <pat kickatt="1" kickmade="0"></pat>
+  </player>
+  <player name="Singh, C." shortname="Singh, C." checkname="SINGH,C" uni="24" class="FR" gp="1" code="24">
+   <defense tackua="3" tacka="1" tot_tack="4"></defense>
+  </player>
+  <player name="Colton, J." shortname="Colton, J." checkname="COLTON,J" uni="25" class="SR" gp="1" gs="1" dpos="LB" code="25">
+   <defense tackua="8" tacka="2" tot_tack="10"></defense>
+  </player>
+  <player name="Addo, J." shortname="Addo, J." checkname="ADDO,J" uni="26" class="FR" gp="1" code="26">
+   <defense tackua="1" tacka="2" tot_tack="3"></defense>
+  </player>
+  <player name="Monteiro, J." shortname="Monteiro, J." checkname="MONTEIRO,J" uni="27" class="SO" gp="1" code="27">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Porter, J." shortname="Porter, J." checkname="PORTER,J" uni="28" class="SO" gp="1" code="28"></player>
+  <player name="Jones, J." shortname="Jones, J." checkname="JONES,J" uni="29" class="SR" gp="1" code="29">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Caggiano, M." shortname="Caggiano, M." checkname="CAGGIANO,M" uni="31" class="FR" gp="1" code="31">
+   <pat kickatt="3" kickmade="3"></pat>
+   <scoring patkick="3"></scoring>
+  </player>
+  <player name="Mills, R." shortname="Mills, R." checkname="MILLS,R" uni="33" class="SR" gp="1" code="33"></player>
+  <player name="Casali, S." shortname="Casali, S." checkname="CASALI,S" uni="34" class="SO" gp="1" code="34">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Lindsay, S." shortname="Lindsay, S." checkname="LINDSAY,S" uni="35" class="FR" gp="1" code="35">
+   <rush att="8" yds="5" gain="13" loss="8" td="1" long="6"></rush>
+   <rcv no="1" yds="11" td="0" long="11"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Libby, A." shortname="Libby, A." checkname="LIBBY,A" uni="37" class="SO" gp="1" code="37"></player>
+  <player name="Robinson, J." shortname="Robinson, J." checkname="ROBINSON,J" uni="42" class="JR" gp="1" code="42">
+   <defense tackua="2" tacka="4" tot_tack="6"></defense>
+  </player>
+  <player name="Ngobidi, P." shortname="Ngobidi, P." checkname="NGOBIDI,P" uni="44" class="JR" gp="1" code="44">
+   <defense tackua="0" tacka="2" tot_tack="2"></defense>
+  </player>
+  <player name="Mack, D." shortname="Mack, D." checkname="MACK,D" uni="45" class="SO" gp="1" code="45"></player>
+  <player name="Amato, L." shortname="Amato, L." checkname="AMATO,L" uni="46" class="SO" gp="1" code="46">
+   <defense tackua="0" tacka="2" tot_tack="2" tflua="0" tfla="1" tflyds="1"></defense>
+  </player>
+  <player name="Dowe Jr., M." shortname="Dowe Jr., M." checkname="DOWE JR.,M" uni="47" class="JR" gp="1" code="47">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Oliphant, J." shortname="Oliphant, J." checkname="OLIPHANT,J" uni="48" class="FR" gp="1" code="48">
+   <kr no="2" yds="35" td="0" long="19"></kr>
+  </player>
+  <player name="Rodriguez, J." shortname="Rodriguez, J." checkname="RODRIGUEZ,J" uni="49" class="FR" gp="1" code="49"></player>
+  <player name="Berus, N." shortname="Berus, N." checkname="BERUS,N" uni="53" class="SO" gp="1" code="53">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Seals, T." shortname="Seals, T." checkname="SEALS,T" uni="54" class="SR" gp="1" gs="1" dpos="DE" code="54">
+   <defense tackua="0" tacka="3" tot_tack="3" tflua="0" tfla="1" tflyds="1" sackua="0" sacka="1" sackyds="1"></defense>
+  </player>
+  <player name="Bruns, J." shortname="Bruns, J." checkname="BRUNS,J" uni="55" class="SR" gp="1" code="55"></player>
+  <player name="Asante, E." shortname="Asante, E." checkname="ASANTE,E" uni="60" class="JR" gp="1" code="60">
+   <defense tackua="0" tacka="2" tot_tack="2"></defense>
+  </player>
+  <player name="Previte, J." shortname="Previte, J." checkname="PREVITE,J" uni="61" class="FR" gp="1" code="61"></player>
+  <player name="Leneus, A." shortname="Leneus, A." checkname="LENEUS,A" uni="64" class="SR" gp="1" code="64"></player>
+  <player name="Wilkinson, E." shortname="Wilkinson, E." checkname="WILKINSON,E" uni="68" class="JR" gp="1" gs="1" opos="RT" code="68"></player>
+  <player name="Johnson, R." shortname="Johnson, R." checkname="JOHNSON,R" uni="70" class="SR" gp="1" code="70"></player>
+  <player name="Boland, M." shortname="Boland, M." checkname="BOLAND,M" uni="71" class="JR" gp="1" gs="1" opos="RG" code="71"></player>
+  <player name="Hoeller, F." shortname="Hoeller, F." checkname="HOELLER,F" uni="73" class="JR" gp="1" gs="1" opos="LG" code="73"></player>
+  <player name="Kolter, L." shortname="Kolter, L." checkname="KOLTER,L" uni="74" class="SO" gp="1" code="74"></player>
+  <player name="Henderson, T." shortname="Henderson, T." checkname="HENDERSON,T" uni="76" class="JR" gp="1" gs="1" opos="TE" code="76"></player>
+  <player name="Smith, T." shortname="Smith, T." checkname="SMITH,T" uni="77" class="JR" gp="1" gs="1" opos="LT" code="77"></player>
+  <player name="Sparks, M." shortname="Sparks, M." checkname="SPARKS,M" uni="78" class="SR" gp="1" gs="1" opos="C" code="78"></player>
+  <player name="Largay, J." shortname="Largay, J." checkname="LARGAY,J" uni="79" class="FR" gp="1" code="79"></player>
+  <player name="Lemieux, C." shortname="Lemieux, C." checkname="LEMIEUX,C" uni="82" class="SO" gp="1" code="82"></player>
+  <player name="Custis, S." shortname="Custis, S." checkname="CUSTIS,S" uni="83" class="SO" gp="1" code="83"></player>
+  <player name="Howard, B." shortname="Howard, B." checkname="HOWARD,B" uni="85" class="SR" gp="1" gs="1" opos="TE" code="85"></player>
+  <player name="Richard, A." shortname="Richard, A." checkname="RICHARD,A" uni="90" class="JR" gp="1" code="90">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="Kitching, R." shortname="Kitching, R." checkname="KITCHING,R" uni="92" class="SR" gp="1" code="92">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Holines, S." shortname="Holines, S." checkname="HOLINES,S" uni="95" class="SO" gp="1" gs="1" dpos="DT" code="95"></player>
+  <player name="Laurent, L." shortname="Laurent, L." checkname="LAURENT,L" uni="99" class="SO" gp="1" code="99">
+   <rush att="1" yds="3" gain="3" loss="0" td="0" long="3"></rush>
+   <punt no="7" yds="318" long="52" blkd="0" tb="1" fc="3" plus50="3" inside20="3" avg="45.4"></punt>
+  </player>
+ </team>
+ <team vh="H" code="513" id="ND" name="Notre Dame" record="4-0" abb="H" rank="6">
+  <linescore prds="4" line="14,21,20,7" score="62">
+   <lineprd prd="1" score="14"></lineprd>
+   <lineprd prd="2" score="21"></lineprd>
+   <lineprd prd="3" score="20"></lineprd>
+   <lineprd prd="4" score="7"></lineprd>
+  </linescore>
+  <totals totoff_plays="79" totoff_yards="681" totoff_avg="8.6">
+   <firstdowns no="30" rush="17" pass="13" penalty="0"></firstdowns>
+   <penalties no="8" yds="75"></penalties>
+   <conversions thirdconv="8" thirdatt="13" fourthconv="0" fourthatt="0"></conversions>
+   <fumbles no="1" lost="0"></fumbles>
+   <misc yds="0" top="30:15" ona="0" onm="0" ptsto="0"></misc>
+   <redzone att="4" scores="4" points="27" tdrush="3" tdpass="1" fgmade="0" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="51" yds="457" gain="485" loss="28" td="6" long="70"></rush>
+   <pass comp="18" att="28" int="1" yds="224" td="2" long="37" sacks="1" sackyds="2"></pass>
+   <rcv no="18" yds="224" td="2" long="37"></rcv>
+   <punt no="5" yds="262" long="59" blkd="0" tb="3" fc="0" plus50="3" inside20="1" avg="52.4"></punt>
+   <ko no="10" yds="624" ob="0" tb="2"></ko>
+   <pat kickatt="9" kickmade="8"></pat>
+   <defense tackua="46" tacka="32" tot_tack="78" tflua="9" tfla="0" tflyds="35" sacks="2" sackyds="19" brup="7" qbh="8" blkd="1" ff="1" int="1" intyds="-3"></defense>
+   <kr no="4" yds="95" td="0" long="29"></kr>
+   <pr no="3" yds="63" td="1" long="50"></pr>
+   <ir no="1" yds="-3" td="0" long="0"></ir>
+   <scoring td="9" patkick="8"></scoring>
+  </totals>
+  <player name="JONES, Alize" shortname="JONES, Alize" checkname="JONES,ALIZE" uni="1A" class="FR" gp="1" gs="1" opos="TE" code="1A">
+   <rcv no="3" yds="56" td="0" long="37"></rcv>
+  </player>
+  <player name="WIMBUSH,Brandon" shortname="WIMBUSH,Brandon" checkname="WIMBUSH,BRANDON" uni="1B" class="FR" gp="1" code="1B">
+   <rush att="4" yds="92" gain="92" loss="0" td="1" long="58"></rush>
+   <pass comp="3" att="5" int="0" yds="17" td="0" long="9" sacks="0" sackyds="0"></pass>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="BROWN, Chris" shortname="BROWN, Chris" checkname="BROWN,CHRIS" uni="2" class="SR" gp="1" gs="1" opos="WR" code="2">
+   <rcv no="2" yds="34" td="1" long="27"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="BONGIOVI, Jesse" shortname="BONGIOVI, Jesse" checkname="BONGIOVI,JESSE" uni="3B" class="JR" gp="1" code="3B"></player>
+  <player name="CARLISLE, Amir" shortname="CARLISLE, Amir" checkname="CARLISLE,AMIR" uni="3" class="SR" gp="1" gs="1" opos="WR" code="3">
+   <rush att="2" yds="13" gain="13" loss="0" td="0" long="9"></rush>
+   <rcv no="5" yds="52" td="0" long="16"></rcv>
+   <kr no="3" yds="75" td="0" long="29"></kr>
+  </player>
+  <player name="CONEY, Te'von" shortname="CONEY, Te'von" checkname="CONEY,TE'VON" uni="4" class="FR" gp="1" code="4">
+   <defense tackua="2" tacka="2" tot_tack="4"></defense>
+  </player>
+  <player name="VANGORDER, M." shortname="VANGORDER, M." checkname="VANGORDER,M" uni="4A" class="SO" gp="1" code="4A"></player>
+  <player name="MORGAN, Nyles" shortname="MORGAN, Nyles" checkname="MORGAN,NYLES" uni="5" class="SO" gp="1" code="5">
+   <defense tackua="3" tacka="4" tot_tack="7"></defense>
+  </player>
+  <player name="RUSSELL, K." shortname="RUSSELL, K." checkname="RUSSELL,K" uni="6" class="SR" gp="1" gs="1" dpos="CB" code="6">
+   <defense tackua="4" tacka="3" tot_tack="7" tflua="1" tfla="0" tflyds="1" brup="1"></defense>
+  </player>
+  <player name="FULLER, Will" shortname="FULLER, Will" checkname="FULLER,WILL" uni="7" class="JR" gp="1" gs="1" opos="WR" code="7">
+   <rcv no="4" yds="57" td="1" long="26"></rcv>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="HARRELL, Mark" shortname="HARRELL, Mark" checkname="HARRELL,MARK" uni="7A" class="SR" gp="1" code="7A"></player>
+  <player name="SANDERS, C.J." shortname="SANDERS, C.J." checkname="SANDERS,CJ" uni="9A" class="FR" gp="1" code="9A">
+   <rcv no="1" yds="0" td="0" long="0"></rcv>
+   <pr no="3" yds="63" td="1" long="50"></pr>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="SMITH, Jaylon" shortname="SMITH, Jaylon" checkname="SMITH,JAYLON" uni="9" class="JR" gp="1" gs="1" dpos="LB" code="9">
+   <defense tackua="4" tacka="2" tot_tack="6" tflua="1" tfla="0" tflyds="3" brup="1" qbh="1"></defense>
+  </player>
+  <player name="REDFIELD, Max" shortname="REDFIELD, Max" checkname="REDFIELD,MAX" uni="10" class="JR" gp="1" gs="1" dpos="S" code="10">
+   <defense tackua="3" tacka="1" tot_tack="4" qbh="1"></defense>
+  </player>
+  <player name="BUTLER, Devin" shortname="BUTLER, Devin" checkname="BUTLER,DEVIN" uni="12" class="JR" gp="1" code="12">
+   <defense tackua="1" tacka="1" tot_tack="2" brup="1"></defense>
+  </player>
+  <player name="KIZER, DeShone" shortname="KIZER, DeShone" checkname="KIZER,DESHONE" uni="14" class="SO" gp="1" gs="1" opos="QB" code="14">
+   <rush att="9" yds="42" gain="44" loss="2" td="1" long="13"></rush>
+   <pass comp="15" att="22" int="1" yds="207" td="2" long="37" sacks="1" sackyds="2"></pass>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="HUNTER JR,Torii" shortname="HUNTER JR,Torii" checkname="HUNTER JR,TORII" uni="16" class="JR" gp="1" code="16">
+   <rcv no="1" yds="9" td="0" long="9"></rcv>
+  </player>
+  <player name="ONWUALU, James" shortname="ONWUALU, James" checkname="ONWUALU,JAMES" uni="17" class="JR" gp="1" gs="1" dpos="LB" code="17">
+   <defense tackua="2" tacka="2" tot_tack="4" tflua="2" tfla="0" tflyds="7" sackua="1" sacka="0" sackyds="6" brup="1"></defense>
+  </player>
+  <player name="HOUNSHELL, C." shortname="HOUNSHELL, C." checkname="HOUNSHELL,C" uni="18" class="SR" gp="1" code="18"></player>
+  <player name="YOON, Justin" shortname="YOON, Justin" checkname="YOON,JUSTIN" uni="19" class="FR" gp="1" code="19">
+   <pat kickatt="9" kickmade="8"></pat>
+   <scoring patkick="8"></scoring>
+  </player>
+  <player name="PROSISE, C.J." shortname="PROSISE, C.J." checkname="PROSISE,CJ" uni="20" class="SR" gp="1" gs="1" opos="RB" code="20">
+   <rush att="15" yds="149" gain="154" loss="5" td="2" long="57"></rush>
+   <fumbles no="1" lost="0"></fumbles>
+   <scoring td="2"></scoring>
+  </player>
+  <player name="WATKINS, Nick" shortname="WATKINS, Nick" checkname="WATKINS,NICK" uni="21" class="SO" gp="1" code="21">
+   <defense tackua="2" tacka="1" tot_tack="3"></defense>
+  </player>
+  <player name="SHUMATE, Elijah" shortname="SHUMATE, Elijah" checkname="SHUMATE,ELIJAH" uni="22" class="SR" gp="1" gs="1" dpos="S" code="22">
+   <defense tackua="5" tacka="1" tot_tack="6"></defense>
+  </player>
+  <player name="COLEMAN, Nick" shortname="COLEMAN, Nick" checkname="COLEMAN,NICK" uni="24" class="FR" gp="1" code="24">
+   <defense brup="2"></defense>
+  </player>
+  <player name="WEBSTER, Austin" shortname="WEBSTER, Austin" checkname="WEBSTER,AUSTIN" uni="26" class="SO" gp="1" code="26"></player>
+  <player name="FERTITTA, Nicco" shortname="FERTITTA, Nicco" checkname="FERTITTA,NICCO" uni="28" class="FR" gp="1" code="28">
+   <defense tackua="1" tacka="0" tot_tack="1" ff="1"></defense>
+  </player>
+  <player name="BARATTI, Nicky" shortname="BARATTI, Nicky" checkname="BARATTI,NICKY" uni="29" class="SR" gp="1" code="29">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="TURNER, John" shortname="TURNER, John" checkname="TURNER,JOHN" uni="31" class="SR" gp="1" code="31"></player>
+  <player name="OSSELLO, Nick" shortname="OSSELLO, Nick" checkname="OSSELLO,NICK" uni="32" class="SR" gp="1" code="32"></player>
+  <player name="ADAMS, Josh" shortname="ADAMS, Josh" checkname="ADAMS,JOSH" uni="33" class="FR" gp="1" code="33">
+   <rush att="13" yds="133" gain="134" loss="1" td="1" long="70"></rush>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="WILLIAMS,Dexter" shortname="WILLIAMS,Dexter" checkname="WILLIAMS,DEXTER" uni="34" class="FR" gp="1" code="34">
+   <rush att="7" yds="48" gain="48" loss="0" td="1" long="14"></rush>
+   <kr no="1" yds="20" td="0" long="20"></kr>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="LUKE, Cole" shortname="LUKE, Cole" checkname="LUKE,COLE" uni="36" class="JR" gp="1" gs="1" dpos="CB" code="36">
+   <defense tackua="3" tacka="1" tot_tack="4" tflua="1" tfla="0" tflyds="2" int="1" intyds="-3"></defense>
+   <ir no="1" yds="-3" td="0" long="0"></ir>
+  </player>
+  <player name="HUNTER, Omar" shortname="HUNTER, Omar" checkname="HUNTER,OMAR" uni="37" class="JR" gp="1" code="37"></player>
+  <player name="SCHMIDT, Joe" shortname="SCHMIDT, Joe" checkname="SCHMIDT,JOE" uni="38" class="SR" gp="1" gs="1" dpos="LB" code="38">
+   <defense tackua="1" tacka="5" tot_tack="6"></defense>
+  </player>
+  <player name="RECKER, Drew" shortname="RECKER, Drew" checkname="RECKER,DREW" uni="39" class="JR" gp="1" code="39"></player>
+  <player name="FARLEY,Matthias" shortname="FARLEY,Matthias" checkname="FARLEY,MATTHIAS" uni="41" class="SR" gp="1" gs="1" dpos="S" code="41">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="RANDOLPH, Doug" shortname="RANDOLPH, Doug" checkname="RANDOLPH,DOUG" uni="44" class="JR" gp="1" code="44">
+   <defense qbh="1"></defense>
+  </player>
+  <player name="OKWARA, Romeo" shortname="OKWARA, Romeo" checkname="OKWARA,ROMEO" uni="45" class="SR" gp="1" gs="1" dpos="DL" code="45">
+   <defense tackua="1" tacka="0" tot_tack="1" blkd="1"></defense>
+  </player>
+  <player name="CAVALARIS, C." shortname="CAVALARIS, C." checkname="CAVALARIS,C" uni="47" class="SR" gp="1" code="47"></player>
+  <player name="MARTINI, Greer" shortname="MARTINI, Greer" checkname="MARTINI,GREER" uni="48" class="SO" gp="1" code="48">
+   <defense tackua="5" tacka="3" tot_tack="8" tflua="1" tfla="0" tflyds="1"></defense>
+  </player>
+  <player name="MUSTIPHER, Sam" shortname="MUSTIPHER, Sam" checkname="MUSTIPHER,SAM" uni="53" class="SO" gp="1" code="53"></player>
+  <player name="BONNER, J." shortname="BONNER, J." checkname="BONNER,J" uni="55" class="SO" gp="1" code="55">
+   <defense tackua="0" tacka="2" tot_tack="2"></defense>
+  </player>
+  <player name="NELSON, Quenton" shortname="NELSON, Quenton" checkname="NELSON,QUENTON" uni="56" class="SO" gp="1" gs="1" opos="LG" code="56"></player>
+  <player name="GRACE, Jarrett" shortname="GRACE, Jarrett" checkname="GRACE,JARRETT" uni="59" class="SR" gp="1" code="59">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="MONTELUS, John" shortname="MONTELUS, John" checkname="MONTELUS,JOHN" uni="60" class="JR" gp="1" code="60"></player>
+  <player name="DALY, Scott" shortname="DALY, Scott" checkname="DALY,SCOTT" uni="61" class="SR" gp="1" code="61"></player>
+  <player name="McGOVERN, Colin" shortname="McGOVERN, Colin" checkname="MCGOVERN,COLIN" uni="62" class="JR" gp="1" code="62"></player>
+  <player name="McGLINCHEY,Mike" shortname="McGLINCHEY,Mike" checkname="MCGLINCHEY,MIKE" uni="68" class="JR" gp="1" gs="1" opos="RT" code="68"></player>
+  <player name="BIVIN, Hunter" shortname="BIVIN, Hunter" checkname="BIVIN,HUNTER" uni="70" class="JR" gp="1" code="70"></player>
+  <player name="BARS, Alex" shortname="BARS, Alex" checkname="BARS,ALEX" uni="71" class="SO" gp="1" code="71"></player>
+  <player name="MARTIN, Nick" shortname="MARTIN, Nick" checkname="MARTIN,NICK" uni="72" class="SR" gp="1" gs="1" opos="C" code="72"></player>
+  <player name="CAGE, Daniel" shortname="CAGE, Daniel" checkname="CAGE,DANIEL" uni="75" class="SO" gp="1" gs="1" dpos="DL" code="75">
+   <defense tackua="1" tacka="0" tot_tack="1" tflua="1" tfla="0" tflyds="4"></defense>
+  </player>
+  <player name="STANLEY, Ronnie" shortname="STANLEY, Ronnie" checkname="STANLEY,RONNIE" uni="78" class="SR" gp="1" gs="1" opos="LT" code="78"></player>
+  <player name="ELMER, Steve" shortname="ELMER, Steve" checkname="ELMER,STEVE" uni="79" class="JR" gp="1" gs="1" opos="RG" code="79"></player>
+  <player name="WEISHAR, Nic" shortname="WEISHAR, Nic" checkname="WEISHAR,NIC" uni="82" class="SO" gp="1" code="82">
+   <rcv no="1" yds="8" td="0" long="8"></rcv>
+  </player>
+  <player name="NEWSOME, Tyler" shortname="NEWSOME, Tyler" checkname="NEWSOME,TYLER" uni="85" class="SO" gp="1" code="85">
+   <punt no="5" yds="262" long="59" blkd="0" tb="3" fc="0" plus50="3" inside20="1" avg="52.4"></punt>
+   <ko no="10" yds="624" ob="0" tb="2"></ko>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="ST. BROWN. E." shortname="ST. BROWN. E." checkname=",ST BROWN E" uni="86" class="FR" gp="1" code="86">
+   <rcv no="1" yds="8" td="0" long="8"></rcv>
+  </player>
+  <player name="MATUSKA, Jacob" shortname="MATUSKA, Jacob" checkname="MATUSKA,JACOB" uni="89" class="JR" gp="1" code="89">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="ROCHELL, Isaac" shortname="ROCHELL, Isaac" checkname="ROCHELL,ISAAC" uni="90" class="JR" gp="1" code="90">
+   <defense tackua="2" tacka="0" tot_tack="2" tflua="1" tfla="0" tflyds="4" qbh="2"></defense>
+  </player>
+  <player name="DAY, Sheldon" shortname="DAY, Sheldon" checkname="DAY,SHELDON" uni="91" class="SR" gp="1" gs="1" dpos="DL" code="91">
+   <defense tackua="2" tacka="1" tot_tack="3" tflua="1" tfla="0" tflyds="13" sackua="1" sacka="0" sackyds="13" brup="1" qbh="3"></defense>
+  </player>
+  <player name="BLANKENSHIP, G." shortname="BLANKENSHIP, G." checkname="BLANKENSHIP,G" uni="92" class="SO" gp="1" code="92"></player>
+  <player name="MOKWUAH, Pete" shortname="MOKWUAH, Pete" checkname="MOKWUAH,PETE" uni="96" class="SO" gp="1" code="96"></player>
+  <player name="TRUMBETTI, A." shortname="TRUMBETTI, A." checkname="TRUMBETTI,A" uni="98" class="JR" gp="1" code="98"></player>
+  <player name="TILLERY, Jerry" shortname="TILLERY, Jerry" checkname="TILLERY,JERRY" uni="99" class="SO" gp="1" code="99"></player>
+  <player name="TEAM" shortname="TEAM" checkname="TEAM" uni="TM" class="FR" gp="1" code="198">
+   <rush att="1" yds="-20" gain="0" loss="20" td="0" long="0"></rush>
+   <pass comp="0" att="1" int="0" yds="0" td="0" long="0" sacks="0" sackyds="0"></pass>
+  </player>
+ </team>
+ <scores>
+  <score vh="H" team="ND" qtr="1" clock="06:02" type="TD" how="RUSH" yds="57" scorer="PROSISE, C.J." patby="YOON, Justin" pattype="KICK" patres="GOOD" plays="8" drive="95" top="3:06" vscore="0" hscore="7" driveindex="4"></score>
+  <score vh="H" team="ND" qtr="1" clock="00:19" type="TD" how="RUSH" yds="7" scorer="KIZER, DeShone" patby="YOON, Justin" pattype="KICK" patres="GOOD" plays="10" drive="80" top="4:26" vscore="0" hscore="14" driveindex="6"></score>
+  <score vh="V" team="UMASS" qtr="1" clock="00:00" type="TD" how="RUSH" yds="83" scorer="Young, M." patby="Lucas, B." pattype="KICK" patres="BLKD" plays="1" drive="78" top="0:19" vscore="6" hscore="14" driveindex="7"></score>
+  <score vh="V" team="UMASS" qtr="2" clock="11:17" type="TD" how="RUSH" yds="1" scorer="Lindsay, S." patby="Caggiano, M." pattype="KICK" patres="GOOD" plays="10" drive="50" top="3:33" vscore="13" hscore="14" driveindex="9"></score>
+  <score vh="H" team="ND" qtr="2" clock="07:47" type="TD" how="PASS" yds="26" scorer="FULLER, Will" passer="KIZER, DeShone" patby="YOON, Justin" pattype="KICK" patres="GOOD" plays="10" drive="74" top="3:30" vscore="13" hscore="21" driveindex="10"></score>
+  <score vh="V" team="UMASS" qtr="2" clock="06:44" type="TD" how="RUSH" yds="1" scorer="Wilson, J." patby="Caggiano, M." pattype="KICK" patres="GOOD" plays="3" drive="75" top="1:03" vscore="20" hscore="21" driveindex="11"></score>
+  <score vh="H" team="ND" qtr="2" clock="03:21" type="TD" how="PUNT" yds="50" scorer="SANDERS, C.J." patby="YOON, Justin" pattype="KICK" patres="GOOD" vscore="20" hscore="28" driveindex="14"></score>
+  <score vh="H" team="ND" qtr="2" clock="00:06" type="TD" how="PASS" yds="7" scorer="BROWN, Chris" passer="KIZER, DeShone" patby="YOON, Justin" pattype="KICK" patres="GOOD" plays="10" drive="74" top="1:21" vscore="20" hscore="35" driveindex="16"></score>
+  <score vh="H" team="ND" qtr="3" clock="12:02" type="TD" how="RUSH" yds="16" scorer="PROSISE, C.J." patby="YOON, Justin" pattype="KICK" patres="GOOD" plays="7" drive="73" top="2:58" vscore="20" hscore="42" driveindex="18"></score>
+  <score vh="H" team="ND" qtr="3" clock="09:28" type="TD" how="RUSH" yds="14" scorer="WILLIAMS,Dexter" patby="YOON, Justin" pattype="KICK" patres="FAIL" plays="2" drive="30" top="0:35" vscore="20" hscore="48" driveindex="20"></score>
+  <score vh="H" team="ND" qtr="3" clock="02:18" type="TD" how="RUSH" yds="58" scorer="WIMBUSH,Brandon" patby="YOON, Justin" pattype="KICK" patres="GOOD" plays="5" drive="85" top="2:13" vscore="20" hscore="55" driveindex="24"></score>
+  <score vh="H" team="ND" qtr="4" clock="08:34" type="TD" how="RUSH" yds="70" scorer="ADAMS, Josh" patby="YOON, Justin" pattype="KICK" patres="GOOD" plays="4" drive="82" top="1:37" vscore="20" hscore="62" driveindex="28"></score>
+  <score vh="V" team="UMASS" qtr="4" clock="03:35" type="TD" how="PASS" yds="33" scorer="Nesmith, S." passer="Comis, R." patby="Caggiano, M." pattype="KICK" patres="GOOD" plays="10" drive="77" top="4:59" vscore="27" hscore="62" driveindex="29"></score>
+ </scores>
+ <drives>
+  <drive vh="V" team="UMASS" start="KO,1,15:00,25" end="PUNT,1,13:42,33" plays="3" yards="8" top="1:18" start_how="KO" start_qtr="1" start_time="15:00" start_spot="UMASS25" end_how="PUNT" end_qtr="1" end_time="13:42" end_spot="UMASS33" driveindex="1"></drive>
+  <drive vh="H" team="ND" start="PUNT,1,13:42,15" end="PUNT,1,12:22,21" plays="3" yards="6" top="1:20" start_how="PUNT" start_qtr="1" start_time="13:42" start_spot="ND15" end_how="PUNT" end_qtr="1" end_time="12:22" end_spot="ND21" driveindex="2"></drive>
+  <drive vh="V" team="UMASS" start="PUNT,1,12:22,27" end="PUNT,1,09:08,54" plays="7" yards="27" top="3:14" start_how="PUNT" start_qtr="1" start_time="12:22" start_spot="UMASS27" end_how="PUNT" end_qtr="1" end_time="09:08" end_spot="ND46" driveindex="3"></drive>
+  <drive vh="H" team="ND" start="PUNT,1,09:08,5" end="TD,1,06:02,100" plays="8" yards="95" top="3:06" start_how="PUNT" start_qtr="1" start_time="09:08" start_spot="ND05" end_how="TD" end_qtr="1" end_time="06:02" end_spot="UMASS00" driveindex="4"></drive>
+  <drive vh="V" team="UMASS" start="KO,1,06:02,20" end="PUNT,1,04:45,48" plays="5" yards="28" top="1:17" start_how="KO" start_qtr="1" start_time="06:02" start_spot="UMASS20" end_how="PUNT" end_qtr="1" end_time="04:45" end_spot="UMASS48" driveindex="5"></drive>
+  <drive vh="H" team="ND" start="PUNT,1,04:45,20" end="TD,1,00:19,100" plays="10" yards="80" top="4:26" start_how="PUNT" start_qtr="1" start_time="04:45" start_spot="ND20" end_how="TD" end_qtr="1" end_time="00:19" end_spot="UMASS00" rz="1" driveindex="6"></drive>
+  <drive vh="V" team="UMASS" start="KO,1,00:19,22" end="TD,1,00:00,100" plays="1" yards="78" top="0:19" start_how="KO" start_qtr="1" start_time="00:19" start_spot="UMASS22" end_how="TD" end_qtr="1" end_time="00:00" end_spot="ND00" driveindex="7"></drive>
+  <drive vh="H" team="ND" start="KO,2,15:00,25" end="INT,2,14:50,25" plays="1" yards="0" top="0:10" start_how="KO" start_qtr="2" start_time="15:00" start_spot="ND25" end_how="INT" end_qtr="2" end_time="14:50" end_spot="ND25" driveindex="8"></drive>
+  <drive vh="V" team="UMASS" start="INT,2,14:50,50" end="TD,2,11:17,100" plays="10" yards="50" top="3:33" start_how="INT" start_qtr="2" start_time="14:50" start_spot="UMASS50" end_how="TD" end_qtr="2" end_time="11:17" end_spot="ND00" rz="1" driveindex="9"></drive>
+  <drive vh="H" team="ND" start="KO,2,11:17,26" end="TD,2,07:47,100" plays="10" yards="74" top="3:30" start_how="KO" start_qtr="2" start_time="11:17" start_spot="ND26" end_how="TD" end_qtr="2" end_time="07:47" end_spot="UMASS00" driveindex="10"></drive>
+  <drive vh="V" team="UMASS" start="KO,2,07:47,25" end="TD,2,06:44,100" plays="3" yards="75" top="1:03" start_how="KO" start_qtr="2" start_time="07:47" start_spot="UMASS25" end_how="TD" end_qtr="2" end_time="06:44" end_spot="ND00" rz="1" driveindex="11"></drive>
+  <drive vh="H" team="ND" start="KO,2,06:44,29" end="PUNT,2,04:24,47" plays="5" yards="18" top="2:20" start_how="KO" start_qtr="2" start_time="06:44" start_spot="ND29" end_how="PUNT" end_qtr="2" end_time="04:24" end_spot="ND47" driveindex="12"></drive>
+  <drive vh="V" team="UMASS" start="PUNT,2,04:24,1" end="PUNT,2,03:21,2" plays="3" yards="1" top="1:03" start_how="PUNT" start_qtr="2" start_time="04:24" start_spot="UMASS01" end_how="PUNT" end_qtr="2" end_time="03:21" end_spot="UMASS02" driveindex="13"></drive>
+  <drive vh="H" team="ND" start="PUNT,2,03:21,100" end="TD,2,03:21,100" plays="0" yards="0" top="0:00" start_how="PUNT" start_qtr="2" start_time="03:21" start_spot="UMASS00" end_how="TD" end_qtr="2" end_time="03:21" end_spot="UMASS00" driveindex="14"></drive>
+  <drive vh="V" team="UMASS" start="KO,2,03:21,19" end="PUNT,2,01:27,33" plays="6" yards="14" top="1:54" start_how="KO" start_qtr="2" start_time="03:21" start_spot="UMASS19" end_how="PUNT" end_qtr="2" end_time="01:27" end_spot="UMASS33" driveindex="15"></drive>
+  <drive vh="H" team="ND" start="PUNT,2,01:27,26" end="TD,2,00:06,100" plays="10" yards="74" top="1:21" start_how="PUNT" start_qtr="2" start_time="01:27" start_spot="ND26" end_how="TD" end_qtr="2" end_time="00:06" end_spot="UMASS00" rz="1" driveindex="16"></drive>
+  <drive vh="V" team="UMASS" start="KO,2,00:06,37" end="HALF,2,00:00,37" plays="0" yards="0" top="0:06" start_how="KO" start_qtr="2" start_time="00:06" start_spot="UMASS37" end_how="HALF" end_qtr="2" end_time="00:00" end_spot="UMASS37" driveindex="17"></drive>
+  <drive vh="H" team="ND" start="KO,3,15:00,27" end="TD,3,12:02,100" plays="7" yards="73" top="2:58" start_how="KO" start_qtr="3" start_time="15:00" start_spot="ND27" end_how="TD" end_qtr="3" end_time="12:02" end_spot="UMASS00" rz="1" driveindex="18"></drive>
+  <drive vh="V" team="UMASS" start="KO,3,12:02,25" end="DOWNS,3,10:03,30" plays="4" yards="5" top="1:59" start_how="KO" start_qtr="3" start_time="12:02" start_spot="UMASS25" end_how="DOWNS" end_qtr="3" end_time="10:03" end_spot="UMASS30" driveindex="19"></drive>
+  <drive vh="H" team="ND" start="DOWNS,3,10:03,70" end="TD,3,09:28,100" plays="2" yards="30" top="0:35" start_how="DOWNS" start_qtr="3" start_time="10:03" start_spot="UMASS30" end_how="TD" end_qtr="3" end_time="09:28" end_spot="UMASS00" rz="1" driveindex="20"></drive>
+  <drive vh="V" team="UMASS" start="KO,3,09:28,18" end="PUNT,3,08:00,23" plays="3" yards="5" top="1:28" start_how="KO" start_qtr="3" start_time="09:28" start_spot="UMASS18" end_how="PUNT" end_qtr="3" end_time="08:00" end_spot="UMASS23" driveindex="21"></drive>
+  <drive vh="H" team="ND" start="PUNT,3,08:00,37" end="PUNT,3,06:30,43" plays="3" yards="6" top="1:30" start_how="PUNT" start_qtr="3" start_time="08:00" start_spot="ND37" end_how="PUNT" end_qtr="3" end_time="06:30" end_spot="ND43" driveindex="22"></drive>
+  <drive vh="V" team="UMASS" start="PUNT,3,06:30,20" end="PUNT,3,04:31,54" plays="5" yards="34" top="1:59" start_how="PUNT" start_qtr="3" start_time="06:30" start_spot="UMASS20" end_how="PUNT" end_qtr="3" end_time="04:31" end_spot="ND46" driveindex="23"></drive>
+  <drive vh="H" team="ND" start="PUNT,3,04:31,15" end="TD,3,02:18,100" plays="5" yards="85" top="2:13" start_how="PUNT" start_qtr="3" start_time="04:31" start_spot="ND15" end_how="TD" end_qtr="3" end_time="02:18" end_spot="UMASS00" driveindex="24"></drive>
+  <drive vh="V" team="UMASS" start="KO,3,02:18,13" end="INT,3,00:03,20" plays="4" yards="7" top="2:15" start_how="KO" start_qtr="3" start_time="02:18" start_spot="UMASS13" end_how="INT" end_qtr="3" end_time="00:03" end_spot="UMASS20" driveindex="25"></drive>
+  <drive vh="H" team="ND" start="INT,3,00:03,42" end="PUNT,4,12:45,51" plays="7" yards="9" top="2:18" start_how="INT" start_qtr="3" start_time="00:03" start_spot="ND42" end_how="PUNT" end_qtr="4" end_time="12:45" end_spot="UMASS49" driveindex="26"></drive>
+  <drive vh="V" team="UMASS" start="PUNT,4,12:45,20" end="DOWNS,4,10:11,82" plays="11" yards="62" top="2:34" start_how="PUNT" start_qtr="4" start_time="12:45" start_spot="UMASS20" end_how="DOWNS" end_qtr="4" end_time="10:11" end_spot="ND18" rz="1" driveindex="27"></drive>
+  <drive vh="H" team="ND" start="DOWNS,4,10:11,18" end="TD,4,08:34,100" plays="4" yards="82" top="1:37" start_how="DOWNS" start_qtr="4" start_time="10:11" start_spot="ND18" end_how="TD" end_qtr="4" end_time="08:34" end_spot="UMASS00" driveindex="28"></drive>
+  <drive vh="V" team="UMASS" start="KO,4,08:34,23" end="TD,4,03:35,100" plays="10" yards="77" top="4:59" start_how="KO" start_qtr="4" start_time="08:34" start_spot="UMASS23" end_how="TD" end_qtr="4" end_time="03:35" end_spot="ND00" driveindex="29"></drive>
+  <drive vh="H" team="ND" start="KO,4,03:35,21" end="PUNT,4,00:44,55" plays="4" yards="34" top="2:51" start_how="KO" start_qtr="4" start_time="03:35" start_spot="ND21" end_how="PUNT" end_qtr="4" end_time="00:44" end_spot="UMASS45" driveindex="30"></drive>
+  <drive vh="V" team="UMASS" start="PUNT,4,00:44,20" end="HALF,4,00:00,24" plays="2" yards="4" top="0:44" start_how="PUNT" start_qtr="4" start_time="00:44" start_spot="UMASS20" end_how="HALF" end_qtr="4" end_time="00:00" end_spot="UMASS24" driveindex="31"></drive>
+ </drives>
+ <plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS35" context="V,1,10,V35" playid="0,1,0" tokens="CMT:UMass wins toss and will receive; ND will defend the south goal."
+      text="UMass wins toss and will receive; ND will defend the south goal." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS35" context="V,1,10,V35" playid="0,2,1" tokens="SPOT:H,H35,N"
+      text="ND ball on ND35." newcontext="H,1,10,H35">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND35" context="H,1,10,H35" playid="0,3,2" type="K" tokens="KO:85,V00 TB:"
+      text="NEWSOME, Tyler kickoff 65 yards to the UMASS0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="NEWSOME, Tyler" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,15:00" vh="V" spot="V25" clock="15:00" driveindex="1,2"></drivestart>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS25" context="V,1,10,V25" playid="1,1,3" type="P" tokens="PASS:7,I,1,* BRUP:6"
+      text="Frohnapfel, B. pass incomplete to Sharpe, T. (RUSSELL, K.)." newcontext="V,2,10,V25">
+    <p_pa vh="V" qb="Frohnapfel, B." result="INC" rcv="Sharpe, T."></p_pa>
+    <p_bu vh="H" name="RUSSELL, K."></p_bu>
+   </play>
+   <play hasball="UMASS" down="2" togo="10" spot="UMASS25" context="V,2,10,V25" playid="1,2,4" type="P" tokens="PASS:7,C,10,V23 TACK:36"
+      text="Frohnapfel, B. pass complete to Michel, M. for loss of 2 yards to the UMASS23 (LUKE, Cole)." newcontext="V,3,12,V23">
+    <p_pa vh="V" qb="Frohnapfel, B." result="COMP" rcv="Michel, M." gain="-2"></p_pa>
+    <p_tk vh="H" name="LUKE, Cole"></p_tk>
+   </play>
+   <play hasball="UMASS" down="3" togo="12" spot="UMASS23" context="V,3,12,V23" playid="1,3,5" type="P" tokens="PASS:7,C,1,V33 TACK:36 QBH:H,91"
+      text="Frohnapfel, B. pass complete to Sharpe, T. for 10 yards to the UMASS33 (LUKE, Cole), QB hurry by DAY, Sheldon." newcontext="V,4,2,V33">
+    <p_pa vh="V" qb="Frohnapfel, B." result="COMP" rcv="Sharpe, T." gain="10"></p_pa>
+    <p_tk vh="H" name="LUKE, Cole"></p_tk>
+    <p_qbh vh="H" name="DAY, Sheldon"></p_qbh>
+   </play>
+   <play hasball="UMASS" down="4" togo="2" spot="UMASS33" context="V,4,2,V33" playid="1,4,6" type="U" tokens="PUNT:99,H15 FC:9A"
+      text="Laurent, L. punt 52 yards to the ND15, fair catch by SANDERS, C.J.." newcontext="H,1,10,H15">
+    <p_pu vh="V" name="Laurent, L." gain="52" in20="Y" fc="SANDERS, C.J."></p_pu>
+   </play>
+   <drivesum plays="3" yards="8" top="1:18" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="H,H15,13:42" vh="H" spot="H15" clock="13:42" driveindex="2,6"></drivestart>
+   <play hasball="ND" down="1" togo="10" spot="ND15" context="H,1,10,H15" playid="2,1,7" clock="13:42" tokens="{DRIVE}:13:42"
+      text="NOTRE DAME drive start at 13:42." newcontext="H,1,10,H15">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND15" context="H,1,10,H15" playid="2,2,8" type="P" tokens="PASS:14,S,TM,H13 SACK:54,5"
+      text="KIZER, DeShone sacked for loss of 2 yards to the ND13 (Seals, T.;Angeh, P.)." newcontext="H,2,12,H13">
+    <p_pa vh="H" qb="KIZER, DeShone" result="SACK" gain="-2"></p_pa>
+    <p_tk vh="V" name="Seals, T." sack="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Angeh, P." sack="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="12" spot="ND13" context="H,2,12,H13" playid="2,3,9" type="R" tokens="RUSH:20,H21, OB: TACK:17"
+      text="PROSISE, C.J. rush for 8 yards to the ND21, out-of-bounds (Santos-Knox, J.)." ob="Y" newcontext="H,3,4,H21">
+    <p_ru vh="H" name="PROSISE, C.J." gain="8"></p_ru>
+    <p_tk vh="V" name="Santos-Knox, J."></p_tk>
+   </play>
+   <play hasball="ND" down="3" togo="4" spot="ND21" context="H,3,4,H21" playid="2,4,10" type="P" tokens="PASS:14,I,82,* BRUP:17"
+      text="KIZER, DeShone pass incomplete to WEISHAR, Nic (Santos-Knox, J.)." newcontext="H,4,4,H21">
+    <p_pa vh="H" qb="KIZER, DeShone" result="INC" rcv="WEISHAR, Nic"></p_pa>
+    <p_bu vh="V" name="Santos-Knox, J."></p_bu>
+   </play>
+   <play hasball="ND" down="4" togo="4" spot="ND21" context="H,4,4,H21" playid="2,5,11" type="U" tokens="PUNT:85,V20 RET:9,V27 TACK:12"
+      text="NEWSOME, Tyler punt 59 yards to the UMASS20, Dudley-Giles, T return 7 yards to the UMASS27 (BUTLER, Devin)." newcontext="V,1,10,V27">
+    <p_pu vh="H" name="NEWSOME, Tyler" gain="59"></p_pu>
+    <p_pr vh="V" name="Dudley-Giles, T" gain="7"></p_pr>
+    <p_tk vh="H" name="BUTLER, Devin"></p_tk>
+   </play>
+   <drivesum plays="3" yards="6" top="1:20" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="V,V27,12:22" vh="V" spot="V27" clock="12:22" driveindex="3,11"></drivestart>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS27" context="V,1,10,V27" playid="3,1,12" clock="12:22" tokens="{DRIVE}:12:22"
+      text="MASSACHUSETTS drive start at 12:22." newcontext="V,1,10,V27">
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS27" context="V,1,10,V27" playid="3,2,13" type="R" tokens="RUSH:35,V31, TACK:38,91"
+      text="Lindsay, S. rush for 4 yards to the UMASS31 (SCHMIDT, Joe;DAY, Sheldon)." newcontext="V,2,6,V31">
+    <p_ru vh="V" name="Lindsay, S." gain="4"></p_ru>
+    <p_tk vh="H" name="SCHMIDT, Joe" assist="Y"></p_tk>
+    <p_tk vh="H" name="DAY, Sheldon" assist="Y"></p_tk>
+   </play>
+   <play hasball="UMASS" down="2" togo="6" spot="UMASS31" context="V,2,6,V31" playid="3,3,14" type="R" first="E" tokens="RUSH:35,V28, TACK:9 PEN:H,FM,A,9,V43,1"
+      text="Lindsay, S. rush for loss of 3 yards to the UMASS28 (SMITH, Jaylon), PENALTY ND face mask (SMITH, Jaylon) 15 yards to the UMASS43, 1ST DOWN UMASS." newcontext="V,1,10,V43">
+    <p_ru vh="V" name="Lindsay, S." gain="-3"></p_ru>
+    <p_tk vh="H" name="SMITH, Jaylon"></p_tk>
+    <p_pn vh="H" code="FM" type="face mask" name="SMITH, Jaylon" result="ACCEPT" at="V28" yards="15"></p_pn>
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS43" context="V,1,10,V43" playid="3,4,15" tokens="D:1,10"
+      text="1st and 10." newcontext="V,1,10,V43">
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS43" context="V,1,10,V43" playid="3,5,16" type="E" tokens="PEN:V,FS,A,83,V38,N"
+      text="PENALTY UMASS false start (Custis, S.) 5 yards to the UMASS38." newcontext="V,1,15,V38">
+    <p_pn vh="V" code="FS" type="false start" name="Custis, S." result="ACCEPT" at="V43" yards="5"></p_pn>
+   </play>
+   <play hasball="UMASS" down="1" togo="15" spot="UMASS38" context="V,1,15,V38" playid="3,6,17" type="R" first="R" tokens="RUSH:6,H44, TACK:45"
+      text="Wilson, J. rush for 18 yards to the ND44, 1ST DOWN UMASS (OKWARA, Romeo)." newcontext="V,1,10,H44">
+    <p_ru vh="V" name="Wilson, J." gain="18"></p_ru>
+    <p_tk vh="H" name="OKWARA, Romeo"></p_tk>
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="ND44" context="V,1,10,H44" playid="3,7,18" type="P" tokens="PASS:7,S,TM,V50 SACK:17"
+      text="Frohnapfel, B. sacked for loss of 6 yards to the 50 yardline (ONWUALU, James)." newcontext="V,2,16,V50">
+    <p_pa vh="V" qb="Frohnapfel, B." result="SACK" gain="-6"></p_pa>
+    <p_tk vh="H" name="ONWUALU, James" sack="Y"></p_tk>
+   </play>
+   <play hasball="UMASS" down="2" togo="16" spot="UMASS50" context="V,2,16,V50" playid="3,8,19" type="P" tokens="PASS:7,C,6,H42 TACK:91 PEN:V,CL,A,74,V43,N"
+      text="Frohnapfel, B. pass complete to Wilson, J. for 8 yards to the ND42 (DAY, Sheldon), PENALTY UMASS clipping (Kolter, L.) 15 yards to the UMASS43." newcontext="V,2,23,V43">
+    <p_pa vh="V" qb="Frohnapfel, B." result="COMP" rcv="Wilson, J." gain="8"></p_pa>
+    <p_tk vh="H" name="DAY, Sheldon"></p_tk>
+    <p_pn vh="V" code="CL" type="clipping" name="Kolter, L." result="ACCEPT" at="H42" yards="15"></p_pn>
+   </play>
+   <play hasball="UMASS" down="2" togo="23" spot="UMASS43" context="V,2,23,V43" playid="3,9,20" tokens="D:2,23"
+      text="2nd and 23." newcontext="V,2,23,V43">
+   </play>
+   <play hasball="UMASS" down="2" togo="23" spot="UMASS43" context="V,2,23,V43" playid="3,10,21" type="P" tokens="PASS:7,I,22,*"
+      text="Frohnapfel, B. pass incomplete to Abrokwah, S.." newcontext="V,3,23,V43">
+    <p_pa vh="V" qb="Frohnapfel, B." result="INC" rcv="Abrokwah, S."></p_pa>
+   </play>
+   <play hasball="UMASS" down="3" togo="23" spot="UMASS43" context="V,3,23,V43" playid="3,11,22" type="R" tokens="RUSH:6,H46, TACK:41,38"
+      text="Wilson, J. rush for 11 yards to the ND46 (FARLEY,Matthias;SCHMIDT, Joe)." newcontext="V,4,12,H46">
+    <p_ru vh="V" name="Wilson, J." gain="11"></p_ru>
+    <p_tk vh="H" name="FARLEY,Matthias" assist="Y"></p_tk>
+    <p_tk vh="H" name="SCHMIDT, Joe" assist="Y"></p_tk>
+   </play>
+   <play hasball="UMASS" down="4" togo="12" spot="ND46" context="V,4,12,H46" playid="3,12,23" type="U" tokens="PUNT:99,H05 FC:9A"
+      text="Laurent, L. punt 41 yards to the ND5, fair catch by SANDERS, C.J.." newcontext="H,1,10,H05">
+    <p_pu vh="V" name="Laurent, L." gain="41" in20="Y" fc="SANDERS, C.J."></p_pu>
+   </play>
+   <drivesum plays="7" yards="27" top="3:14" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="H,H05,09:08" vh="H" spot="H05" clock="09:08" driveindex="4,23"></drivestart>
+   <play hasball="ND" down="1" togo="10" spot="ND05" context="H,1,10,H05" playid="4,1,24" clock="09:08" tokens="{DRIVE}:09:08"
+      text="NOTRE DAME drive start at 09:08." newcontext="H,1,10,H05">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND05" context="H,1,10,H05" playid="4,2,25" type="R" first="R" tokens="RUSH:20,H19, TACK:3"
+      text="PROSISE, C.J. rush for 14 yards to the ND19, 1ST DOWN ND (Messiah, K.)." newcontext="H,1,10,H19">
+    <p_ru vh="H" name="PROSISE, C.J." gain="14"></p_ru>
+    <p_tk vh="V" name="Messiah, K."></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND19" context="H,1,10,H19" playid="4,3,26" type="R" tokens="RUSH:20,H26, TACK:2Z"
+      text="PROSISE, C.J. rush for 7 yards to the ND26 (Edmonds, Z.)." newcontext="H,2,3,H26">
+    <p_ru vh="H" name="PROSISE, C.J." gain="7"></p_ru>
+    <p_tk vh="V" name="Edmonds, Z."></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="3" spot="ND26" context="H,2,3,H26" playid="4,4,27" type="P" tokens="PASS:14,I,3,*"
+      text="KIZER, DeShone pass incomplete to CARLISLE, Amir." newcontext="H,3,3,H26">
+    <p_pa vh="H" qb="KIZER, DeShone" result="INC" rcv="CARLISLE, Amir"></p_pa>
+   </play>
+   <play hasball="ND" down="3" togo="3" spot="ND26" context="H,3,3,H26" playid="4,5,28" type="R" first="R" tokens="RUSH:20,H30, TACK:54,42"
+      text="PROSISE, C.J. rush for 4 yards to the ND30, 1ST DOWN ND (Seals, T.;Robinson, J.)." newcontext="H,1,10,H30">
+    <p_ru vh="H" name="PROSISE, C.J." gain="4"></p_ru>
+    <p_tk vh="V" name="Seals, T." assist="Y"></p_tk>
+    <p_tk vh="V" name="Robinson, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND30" context="H,1,10,H30" playid="4,6,29" type="R" tokens="RUSH:14,H30, TACK:2Z,17"
+      text="KIZER, DeShone rush for no gain to the ND30 (Edmonds, Z.;Santos-Knox, J.)." newcontext="H,2,10,H30">
+    <p_ru vh="H" name="KIZER, DeShone" gain="0"></p_ru>
+    <p_tk vh="V" name="Edmonds, Z." assist="Y"></p_tk>
+    <p_tk vh="V" name="Santos-Knox, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="10" spot="ND30" context="H,2,10,H30" playid="4,7,30" type="P" first="P" tokens="PASS:14,C,1A,H42 TACK:9"
+      text="KIZER, DeShone pass complete to JONES, Alize for 12 yards to the ND42, 1ST DOWN ND (Dudley-Giles, T)." newcontext="H,1,10,H42">
+    <p_pa vh="H" qb="KIZER, DeShone" result="COMP" rcv="JONES, Alize" gain="12"></p_pa>
+    <p_tk vh="V" name="Dudley-Giles, T"></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND42" context="H,1,10,H42" playid="4,8,31" type="R" tokens="RUSH:20,H43, TACK:42,44"
+      text="PROSISE, C.J. rush for 1 yard to the ND43 (Robinson, J.;Ngobidi, P.)." newcontext="H,2,9,H43">
+    <p_ru vh="H" name="PROSISE, C.J." gain="1"></p_ru>
+    <p_tk vh="V" name="Robinson, J." assist="Y"></p_tk>
+    <p_tk vh="V" name="Ngobidi, P." assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="9" spot="ND43" context="H,2,9,H43" playid="4,9,32" type="R" first="R" score="Y" vscore="0" hscore="6" clock="06:02" tokens="RUSH:20,V00, T:06:02"
+      text="PROSISE, C.J. rush for 57 yards to the UMASS0, 1ST DOWN ND, TOUCHDOWN, clock 06:02." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="PROSISE, C.J." gain="57"></p_ru>
+   </play>
+   <play hasball="ND" down="1" togo="0" spot="UMASS03" context="H,1,0,V03" playid="4,10,33" type="X" score="Y" vscore="0" hscore="7" tokens="PAT:K,19,G"
+      text="YOON, Justin kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="YOON, Justin" qb="YOON, Justin" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="7"></score>
+   <drivesum plays="8" yards="95" top="3:06" driveindex="4" complete="Y"></drivesum>
+   <play hasball="ND" down="1" togo="0" spot="ND35" context="H,1,0,H35" playid="4,11,34" type="K" tokens="KO:85,V04 RET:48,V20 TACK:21"
+      text="NEWSOME, Tyler kickoff 61 yards to the UMASS4, Oliphant, J. return 16 yards to the UMASS20 (WATKINS, Nick)." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="NEWSOME, Tyler" gain="61"></p_ko>
+    <p_kr vh="V" name="Oliphant, J." gain="16"></p_kr>
+    <p_tk vh="H" name="WATKINS, Nick"></p_tk>
+   </play>
+   <drivestart poss="V,V20,06:02" vh="V" spot="V20" clock="06:02" driveindex="5,34"></drivestart>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS20" context="V,1,10,V20" playid="5,1,35" clock="06:02" tokens="{DRIVE}:06:02"
+      text="MASSACHUSETTS drive start at 06:02." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS20" context="V,1,10,V20" playid="5,2,36" type="R" tokens="RUSH:6,V23, TACK:9"
+      text="Wilson, J. rush for 3 yards to the UMASS23 (SMITH, Jaylon)." newcontext="V,2,7,V23">
+    <p_ru vh="V" name="Wilson, J." gain="3"></p_ru>
+    <p_tk vh="H" name="SMITH, Jaylon"></p_tk>
+   </play>
+   <play hasball="UMASS" down="2" togo="7" spot="UMASS23" context="V,2,7,V23" playid="5,3,37" type="P" first="P" tokens="PASS:7,C,10,V48 TACK:36"
+      text="Frohnapfel, B. pass complete to Michel, M. for 25 yards to the UMASS48, 1ST DOWN UMASS (LUKE, Cole)." newcontext="V,1,10,V48">
+    <p_pa vh="V" qb="Frohnapfel, B." result="COMP" rcv="Michel, M." gain="25"></p_pa>
+    <p_tk vh="H" name="LUKE, Cole"></p_tk>
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS48" context="V,1,10,V48" playid="5,4,38" type="P" tokens="PASS:7,I,10,*"
+      text="Frohnapfel, B. pass incomplete to Michel, M.." newcontext="V,2,10,V48">
+    <p_pa vh="V" qb="Frohnapfel, B." result="INC" rcv="Michel, M."></p_pa>
+   </play>
+   <play hasball="UMASS" down="2" togo="10" spot="UMASS48" context="V,2,10,V48" playid="5,5,39" type="P" tokens="PASS:7,I,6,* QBH:H,91"
+      text="Frohnapfel, B. pass incomplete to Wilson, J., QB hurry by DAY, Sheldon." newcontext="V,3,10,V48">
+    <p_pa vh="V" qb="Frohnapfel, B." result="INC" rcv="Wilson, J."></p_pa>
+    <p_qbh vh="H" name="DAY, Sheldon"></p_qbh>
+   </play>
+   <play hasball="UMASS" down="3" togo="10" spot="UMASS48" context="V,3,10,V48" playid="5,6,40" type="P" tokens="PASS:7,I,1,*"
+      text="Frohnapfel, B. pass incomplete to Sharpe, T.." newcontext="V,4,10,V48">
+    <p_pa vh="V" qb="Frohnapfel, B." result="INC" rcv="Sharpe, T."></p_pa>
+   </play>
+   <play hasball="UMASS" down="4" togo="10" spot="UMASS48" context="V,4,10,V48" playid="5,7,41" type="U" tokens="PUNT:99,H00 TB:"
+      text="Laurent, L. punt 52 yards to the ND0, touchback." newcontext="H,1,10,H20">
+    <p_pu vh="V" name="Laurent, L." gain="52" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="5" yards="28" top="1:17" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="H,H20,04:45" vh="H" spot="H20" clock="04:45" driveindex="6,41"></drivestart>
+   <play hasball="ND" down="1" togo="10" spot="ND20" context="H,1,10,H20" playid="6,1,42" clock="04:45" tokens="{DRIVE}:04:45"
+      text="NOTRE DAME drive start at 04:45." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND20" context="H,1,10,H20" playid="6,2,43" type="R" tokens="RUSH:3,H29, TACK:25"
+      text="CARLISLE, Amir rush for 9 yards to the ND29 (Colton, J.)." newcontext="H,2,1,H29">
+    <p_ru vh="H" name="CARLISLE, Amir" gain="9"></p_ru>
+    <p_tk vh="V" name="Colton, J."></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="1" spot="ND29" context="H,2,1,H29" playid="6,3,44" type="P" first="P" tokens="PASS:14,C,7,H39"
+      text="KIZER, DeShone pass complete to FULLER, Will for 10 yards to the ND39, 1ST DOWN ND." newcontext="H,1,10,H39">
+    <p_pa vh="H" qb="KIZER, DeShone" result="COMP" rcv="FULLER, Will" gain="10"></p_pa>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND39" context="H,1,10,H39" playid="6,4,45" type="R" tokens="RUSH:20,H48, TACK:9"
+      text="PROSISE, C.J. rush for 9 yards to the ND48 (Dudley-Giles, T)." newcontext="H,2,1,H48">
+    <p_ru vh="H" name="PROSISE, C.J." gain="9"></p_ru>
+    <p_tk vh="V" name="Dudley-Giles, T"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="1" spot="ND48" context="H,2,1,H48" playid="6,5,46" type="P" first="P" tokens="PASS:14,C,3,V46 TACK:17,9"
+      text="KIZER, DeShone pass complete to CARLISLE, Amir for 6 yards to the UMASS46, 1ST DOWN ND (Santos-Knox, J.;Dudley-Giles, T)." newcontext="H,1,10,V46">
+    <p_pa vh="H" qb="KIZER, DeShone" result="COMP" rcv="CARLISLE, Amir" gain="6"></p_pa>
+    <p_tk vh="V" name="Santos-Knox, J." assist="Y"></p_tk>
+    <p_tk vh="V" name="Dudley-Giles, T" assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="UMASS46" context="H,1,10,V46" playid="6,6,47" type="R" tokens="RUSH:33,V39, TACK:9"
+      text="ADAMS, Josh rush for 7 yards to the UMASS39 (Dudley-Giles, T)." newcontext="H,2,3,V39">
+    <p_ru vh="H" name="ADAMS, Josh" gain="7"></p_ru>
+    <p_tk vh="V" name="Dudley-Giles, T"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="3" spot="UMASS39" context="H,2,3,V39" playid="6,7,48" type="P" first="P" tokens="PASS:14,C,3,V32 TACK:25"
+      text="KIZER, DeShone pass complete to CARLISLE, Amir for 7 yards to the UMASS32, 1ST DOWN ND (Colton, J.)." newcontext="H,1,10,V32">
+    <p_pa vh="H" qb="KIZER, DeShone" result="COMP" rcv="CARLISLE, Amir" gain="7"></p_pa>
+    <p_tk vh="V" name="Colton, J."></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="UMASS32" context="H,1,10,V32" playid="6,8,49" type="R" tokens="RUSH:33,V26, TACK:9,44"
+      text="ADAMS, Josh rush for 6 yards to the UMASS26 (Dudley-Giles, T;Ngobidi, P.)." newcontext="H,2,4,V26">
+    <p_ru vh="H" name="ADAMS, Josh" gain="6"></p_ru>
+    <p_tk vh="V" name="Dudley-Giles, T" assist="Y"></p_tk>
+    <p_tk vh="V" name="Ngobidi, P." assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="4" spot="UMASS26" context="H,2,4,V26" playid="6,9,50" type="R" first="R" tokens="RUSH:20,V15, OB: TACK:9"
+      text="PROSISE, C.J. rush for 11 yards to the UMASS15, 1ST DOWN ND, out-of-bounds (Dudley-Giles, T)." ob="Y" newcontext="H,1,10,V15">
+    <p_ru vh="H" name="PROSISE, C.J." gain="11"></p_ru>
+    <p_tk vh="V" name="Dudley-Giles, T"></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="UMASS15" context="H,1,10,V15" playid="6,10,51" type="R" first="R" tokens="RUSH:20,V02, TACK:9,17"
+      text="PROSISE, C.J. rush for 13 yards to the UMASS2, 1ST DOWN ND (Dudley-Giles, T;Santos-Knox, J.)." newcontext="H,1,0,V02">
+    <p_ru vh="H" name="PROSISE, C.J." gain="13"></p_ru>
+    <p_tk vh="V" name="Dudley-Giles, T" assist="Y"></p_tk>
+    <p_tk vh="V" name="Santos-Knox, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="0" spot="UMASS02" context="H,1,0,V02" playid="6,11,52" type="E" tokens="PEN:H,DG,A,TM,V07,N"
+      text="PENALTY ND delay of game 5 yards to the UMASS7." newcontext="H,1,0,V07">
+    <p_pn vh="H" code="DG" type="delay of game" result="ACCEPT" at="V02" yards="5"></p_pn>
+   </play>
+   <play hasball="ND" down="1" togo="0" spot="UMASS07" context="H,1,0,V07" playid="6,12,53" type="R" score="Y" vscore="0" hscore="13" clock="00:19" tokens="RUSH:14,V00, T:00:19"
+      text="KIZER, DeShone rush for 7 yards to the UMASS0, TOUCHDOWN, clock 00:19." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="KIZER, DeShone" gain="7"></p_ru>
+   </play>
+   <play hasball="ND" down="1" togo="0" spot="UMASS03" context="H,1,0,V03" playid="6,13,54" type="X" score="Y" vscore="0" hscore="14" tokens="PAT:K,19,G"
+      text="YOON, Justin kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="YOON, Justin" qb="YOON, Justin" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="14"></score>
+   <drivesum plays="10" yards="80" top="4:26" driveindex="6" complete="Y"></drivesum>
+   <play hasball="ND" down="1" togo="0" spot="ND35" context="H,1,0,H35" playid="6,14,55" type="K" tokens="KO:85,V03 RET:48,V22 TACK:5"
+      text="NEWSOME, Tyler kickoff 62 yards to the UMASS3, Oliphant, J. return 19 yards to the UMASS22 (MORGAN, Nyles)." newcontext="V,1,10,V22">
+    <p_ko vh="H" name="NEWSOME, Tyler" gain="62"></p_ko>
+    <p_kr vh="V" name="Oliphant, J." gain="19"></p_kr>
+    <p_tk vh="H" name="MORGAN, Nyles"></p_tk>
+   </play>
+   <drivestart poss="V,V22,00:19" vh="V" spot="V22" clock="00:19" driveindex="7,55"></drivestart>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS22" context="V,1,10,V22" playid="7,1,56" clock="00:19" tokens="{DRIVE}:00:19"
+      text="MASSACHUSETTS drive start at 00:19." newcontext="V,1,10,V22">
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS22" context="V,1,10,V22" playid="7,2,57" type="E" tokens="PEN:V,DG,A,TM,V17,N"
+      text="PENALTY UMASS delay of game 5 yards to the UMASS17." newcontext="V,1,15,V17">
+    <p_pn vh="V" code="DG" type="delay of game" result="ACCEPT" at="V22" yards="5"></p_pn>
+   </play>
+   <play hasball="UMASS" down="1" togo="15" spot="UMASS17" context="V,1,15,V17" playid="7,3,58" type="R" first="R" score="Y" vscore="6" hscore="14" clock="00:00" tokens="RUSH:8A,H00, T:00:00"
+      text="Young, M. rush for 83 yards to the ND0, 1ST DOWN UMASS, TOUCHDOWN, clock 00:00." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Young, M." gain="83"></p_ru>
+   </play>
+   <play hasball="UMASS" down="1" togo="0" spot="ND03" context="V,1,0,H03" playid="7,4,59" type="X" tokens="PAT:K,23,B BLOCK:45"
+      text="Lucas, B. kick attempt failed (blocked) (blocked by OKWARA, Romeo)." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Lucas, B." qb="Lucas, B." type="K" result="BLOCKED"></p_pat>
+   </play>
+   <score V="6" H="14"></score>
+   <score qtr="1" V="6" H="14"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UMASS">
+    <firstdowns no="4" rush="2" pass="1" penalty="1"></firstdowns>
+    <penalties no="3" yds="25"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:08"></misc>
+    <rush att="7" yds="110" gain="119" loss="9" td="1" long="83"></rush>
+    <pass comp="4" att="9" int="0" yds="41" td="0" long="25" sacks="1" sackyds="6"></pass>
+    <rcv no="4" yds="41" td="0" long="25"></rcv>
+    <punt no="3" yds="145" long="52" blkd="0" tb="1" fc="2" plus50="2" inside20="2" avg="48.3"></punt>
+    <pat kickatt="1" kickmade="0"></pat>
+    <defense tackua="9" tacka="14" tot_tack="23" tflua="0" tfla="2" tflyds="2" sacks="1" sackyds="2" brup="1"></defense>
+    <kr no="2" yds="35" td="0" long="19"></kr>
+    <pr no="1" yds="7" td="0" long="7"></pr>
+    <scoring td="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ND">
+    <firstdowns no="9" rush="5" pass="4" penalty="0"></firstdowns>
+    <penalties no="2" yds="20"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:52"></misc>
+    <rush att="15" yds="151" gain="153" loss="2" td="2" long="57"></rush>
+    <pass comp="4" att="6" int="0" yds="35" td="0" long="12" sacks="1" sackyds="2"></pass>
+    <rcv no="4" yds="35" td="0" long="12"></rcv>
+    <punt no="1" yds="59" long="59" blkd="0" tb="0" fc="0" plus50="1" inside20="0" avg="59.0"></punt>
+    <ko no="3" yds="188" ob="0" tb="1"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="11" tacka="4" tot_tack="15" tflua="3" tfla="0" tflyds="11" sacks="1" sackyds="6" brup="1" qbh="2" blkd="1"></defense>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="UMASS" down="1" togo="0" spot="UMASS35" context="V,1,0,V35" playid="7,5,60" type="#" clock="15:00" tokens="Q:2 T:15:00"
+      text="Start of 2nd quarter, clock 15:00." newcontext="V,1,0,V35">
+   </play>
+   <drivesum plays="1" yards="78" top="0:19" driveindex="7" complete="Y"></drivesum>
+   <play hasball="UMASS" down="1" togo="0" spot="UMASS35" context="V,1,0,V35" playid="7,6,61" type="K" tokens="KO:23,H00 TB:"
+      text="Lucas, B. kickoff 65 yards to the ND0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Lucas, B." gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,15:00" vh="H" spot="H25" clock="15:00" driveindex="8,61"></drivestart>
+   <play hasball="ND" down="1" togo="10" spot="ND25" context="H,1,10,H25" playid="8,1,62" clock="15:00" tokens="{DRIVE}:15:00"
+      text="NOTRE DAME drive start at 15:00." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND25" context="H,1,10,H25" playid="8,2,63" clock="15:00" tokens="{DRIVE}:15:00"
+      text="NOTRE DAME drive start at 15:00." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND25" context="H,1,10,H25" playid="8,3,64" type="P" turnover="I" tokens="PASS:14,X,9,V38 RET:9,V50 TACK:7"
+      text="KIZER, DeShone pass intercepted by Dudley-Giles, T at the UMASS38, Dudley-Giles, T return 12 yards to the 50 yardline (FULLER, Will)." newcontext="V,1,10,V50">
+    <p_pa vh="H" qb="KIZER, DeShone" result="INT"></p_pa>
+    <p_ir vh="V" name="Dudley-Giles, T" at="V38" gain="12"></p_ir>
+    <p_tk vh="H" name="FULLER, Will"></p_tk>
+   </play>
+   <drivesum plays="1" yards="0" top="0:10" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="V,V50,14:50" vh="V" spot="V50" clock="14:50" driveindex="9,64"></drivestart>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS50" context="V,1,10,V50" playid="9,1,65" clock="14:50" tokens="{DRIVE}:14:50"
+      text="MASSACHUSETTS drive start at 14:50." newcontext="V,1,10,V50">
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS50" context="V,1,10,V50" playid="9,2,66" type="P" first="P" tokens="PASS:7,C,6,H34 TACK:6"
+      text="Frohnapfel, B. pass complete to Wilson, J. for 16 yards to the ND34, 1ST DOWN UMASS (RUSSELL, K.)." newcontext="V,1,10,H34">
+    <p_pa vh="V" qb="Frohnapfel, B." result="COMP" rcv="Wilson, J." gain="16"></p_pa>
+    <p_tk vh="H" name="RUSSELL, K."></p_tk>
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="ND34" context="V,1,10,H34" playid="9,3,67" type="R" tokens="RUSH:8A,H34, TACK:17,38"
+      text="Young, M. rush for no gain to the ND34 (ONWUALU, James;SCHMIDT, Joe)." newcontext="V,2,10,H34">
+    <p_ru vh="V" name="Young, M." gain="0"></p_ru>
+    <p_tk vh="H" name="ONWUALU, James" assist="Y"></p_tk>
+    <p_tk vh="H" name="SCHMIDT, Joe" assist="Y"></p_tk>
+   </play>
+   <play hasball="UMASS" down="2" togo="10" spot="ND34" context="V,2,10,H34" playid="9,4,68" type="P" tokens="PASS:7,C,10,H29 TACK:9"
+      text="Frohnapfel, B. pass complete to Michel, M. for 5 yards to the ND29 (SMITH, Jaylon)." newcontext="V,3,5,H29">
+    <p_pa vh="V" qb="Frohnapfel, B." result="COMP" rcv="Michel, M." gain="5"></p_pa>
+    <p_tk vh="H" name="SMITH, Jaylon"></p_tk>
+   </play>
+   <play hasball="UMASS" down="3" togo="5" spot="ND29" context="V,3,5,H29" playid="9,5,69" type="P" tokens="PASS:7,I,TM,* BRUP:91"
+      text="Frohnapfel, B. pass incomplete (DAY, Sheldon)." newcontext="V,4,5,H29">
+    <p_pa vh="V" qb="Frohnapfel, B." result="INC"></p_pa>
+    <p_bu vh="H" name="DAY, Sheldon"></p_bu>
+   </play>
+   <play hasball="UMASS" down="4" togo="5" spot="ND29" context="V,4,5,H29" playid="9,6,70" type="#" clock="13:00" tokens="TOUT:V T:13:00"
+      text="Timeout Massachusetts, clock 13:00." newcontext="V,4,5,H29">
+    <p_to vh="V" team="Massachusetts"></p_to>
+   </play>
+   <play hasball="UMASS" down="4" togo="5" spot="ND29" context="V,4,5,H29" playid="9,7,71" type="P" first="P" tokens="PASS:7,C,1,H20 TACK:22"
+      text="Frohnapfel, B. pass complete to Sharpe, T. for 9 yards to the ND20, 1ST DOWN UMASS (SHUMATE, Elijah)." newcontext="V,1,10,H20">
+    <p_pa vh="V" qb="Frohnapfel, B." result="COMP" rcv="Sharpe, T." gain="9"></p_pa>
+    <p_tk vh="H" name="SHUMATE, Elijah"></p_tk>
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="ND20" context="V,1,10,H20" playid="9,8,72" type="P" tokens="PASS:7,C,10,H18 TACK:48"
+      text="Frohnapfel, B. pass complete to Michel, M. for 2 yards to the ND18 (MARTINI, Greer)." newcontext="V,2,8,H18">
+    <p_pa vh="V" qb="Frohnapfel, B." result="COMP" rcv="Michel, M." gain="2"></p_pa>
+    <p_tk vh="H" name="MARTINI, Greer"></p_tk>
+   </play>
+   <play hasball="UMASS" down="2" togo="8" spot="ND18" context="V,2,8,H18" playid="9,9,73" type="P" tokens="PASS:7,I,10,*"
+      text="Frohnapfel, B. pass incomplete to Michel, M.." newcontext="V,3,8,H18">
+    <p_pa vh="V" qb="Frohnapfel, B." result="INC" rcv="Michel, M."></p_pa>
+   </play>
+   <play hasball="UMASS" down="3" togo="8" spot="ND18" context="V,3,8,H18" playid="9,10,74" type="R" first="R" tokens="RUSH:6,H02, TACK:38,9"
+      text="Wilson, J. rush for 16 yards to the ND2, 1ST DOWN UMASS (SCHMIDT, Joe;SMITH, Jaylon)." newcontext="V,1,0,H02">
+    <p_ru vh="V" name="Wilson, J." gain="16"></p_ru>
+    <p_tk vh="H" name="SCHMIDT, Joe" assist="Y"></p_tk>
+    <p_tk vh="H" name="SMITH, Jaylon" assist="Y"></p_tk>
+   </play>
+   <play hasball="UMASS" down="1" togo="0" spot="ND02" context="V,1,0,H02" playid="9,11,75" type="R" tokens="RUSH:6,H01, TACK:48"
+      text="Wilson, J. rush for 1 yard to the ND1 (MARTINI, Greer)." newcontext="V,2,0,H01">
+    <p_ru vh="V" name="Wilson, J." gain="1"></p_ru>
+    <p_tk vh="H" name="MARTINI, Greer"></p_tk>
+   </play>
+   <play hasball="UMASS" down="2" togo="0" spot="ND01" context="V,2,0,H01" playid="9,12,76" type="R" score="Y" vscore="12" hscore="14" clock="11:17" tokens="RUSH:35,H00, T:11:17"
+      text="Lindsay, S. rush for 1 yard to the ND0, TOUCHDOWN, clock 11:17." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Lindsay, S." gain="1"></p_ru>
+   </play>
+   <play hasball="UMASS" down="1" togo="0" spot="ND03" context="V,1,0,H03" playid="9,13,77" type="X" score="Y" vscore="13" hscore="14" tokens="PAT:K,31,G"
+      text="Caggiano, M. kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Caggiano, M." qb="Caggiano, M." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="13" H="14"></score>
+   <drivesum plays="10" yards="50" top="3:33" driveindex="9" complete="Y"></drivesum>
+   <play hasball="UMASS" down="1" togo="0" spot="UMASS35" context="V,1,0,V35" playid="9,14,78" type="K" tokens="KO:23,H04 RET:3,H26 TACK:26,90"
+      text="Lucas, B. kickoff 61 yards to the ND4, CARLISLE, Amir return 22 yards to the ND26 (Addo, J.;Richard, A.)." newcontext="H,1,10,H26">
+    <p_ko vh="V" name="Lucas, B." gain="61"></p_ko>
+    <p_kr vh="H" name="CARLISLE, Amir" gain="22"></p_kr>
+    <p_tk vh="V" name="Addo, J." assist="Y"></p_tk>
+    <p_tk vh="V" name="Richard, A." assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H26,11:17" vh="H" spot="H26" clock="11:17" driveindex="10,78"></drivestart>
+   <play hasball="ND" down="1" togo="10" spot="ND26" context="H,1,10,H26" playid="10,1,79" clock="11:17" tokens="{DRIVE}:11:17"
+      text="NOTRE DAME drive start at 11:17." newcontext="H,1,10,H26">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND26" context="H,1,10,H26" playid="10,2,80" type="R" tokens="RUSH:33,H30, TACK:17"
+      text="ADAMS, Josh rush for 4 yards to the ND30 (Santos-Knox, J.)." newcontext="H,2,6,H30">
+    <p_ru vh="H" name="ADAMS, Josh" gain="4"></p_ru>
+    <p_tk vh="V" name="Santos-Knox, J."></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="6" spot="ND30" context="H,2,6,H30" playid="10,3,81" type="R" first="R" tokens="RUSH:14,H37, OB: TACK:25"
+      text="KIZER, DeShone rush for 7 yards to the ND37, 1ST DOWN ND, out-of-bounds (Colton, J.)." ob="Y" newcontext="H,1,10,H37">
+    <p_ru vh="H" name="KIZER, DeShone" gain="7"></p_ru>
+    <p_tk vh="V" name="Colton, J."></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND37" context="H,1,10,H37" playid="10,4,82" type="R" tokens="RUSH:33,H45, OB: TACK:42"
+      text="ADAMS, Josh rush for 8 yards to the ND45, out-of-bounds (Robinson, J.)." ob="Y" newcontext="H,2,2,H45">
+    <p_ru vh="H" name="ADAMS, Josh" gain="8"></p_ru>
+    <p_tk vh="V" name="Robinson, J."></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="2" spot="ND45" context="H,2,2,H45" playid="10,5,83" type="R" tokens="RUSH:33,H46, TACK:42,54"
+      text="ADAMS, Josh rush for 1 yard to the ND46 (Robinson, J.;Seals, T.)." newcontext="H,3,1,H46">
+    <p_ru vh="H" name="ADAMS, Josh" gain="1"></p_ru>
+    <p_tk vh="V" name="Robinson, J." assist="Y"></p_tk>
+    <p_tk vh="V" name="Seals, T." assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="3" togo="1" spot="ND46" context="H,3,1,H46" playid="10,6,84" type="R" first="R" tokens="RUSH:14,H49, TACK:42,3"
+      text="KIZER, DeShone rush for 3 yards to the ND49, 1ST DOWN ND (Robinson, J.;Messiah, K.)." newcontext="H,1,10,H49">
+    <p_ru vh="H" name="KIZER, DeShone" gain="3"></p_ru>
+    <p_tk vh="V" name="Robinson, J." assist="Y"></p_tk>
+    <p_tk vh="V" name="Messiah, K." assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND49" context="H,1,10,H49" playid="10,7,85" type="R" tokens="RUSH:3,V47, TACK:9"
+      text="CARLISLE, Amir rush for 4 yards to the UMASS47 (Dudley-Giles, T)." newcontext="H,2,6,V47">
+    <p_ru vh="H" name="CARLISLE, Amir" gain="4"></p_ru>
+    <p_tk vh="V" name="Dudley-Giles, T"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="6" spot="UMASS47" context="H,2,6,V47" playid="10,8,86" type="P" first="P" tokens="PASS:14,C,3,V40 TACK:17"
+      text="KIZER, DeShone pass complete to CARLISLE, Amir for 7 yards to the UMASS40, 1ST DOWN ND (Santos-Knox, J.)." newcontext="H,1,10,V40">
+    <p_pa vh="H" qb="KIZER, DeShone" result="COMP" rcv="CARLISLE, Amir" gain="7"></p_pa>
+    <p_tk vh="V" name="Santos-Knox, J."></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="UMASS40" context="H,1,10,V40" playid="10,9,87" type="R" tokens="RUSH:14,V34, TACK:17"
+      text="KIZER, DeShone rush for 6 yards to the UMASS34 (Santos-Knox, J.)." newcontext="H,2,4,V34">
+    <p_ru vh="H" name="KIZER, DeShone" gain="6"></p_ru>
+    <p_tk vh="V" name="Santos-Knox, J."></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="4" spot="UMASS34" context="H,2,4,V34" playid="10,10,88" type="R" first="R" tokens="RUSH:14,V26, OB:"
+      text="KIZER, DeShone rush for 8 yards to the UMASS26, 1ST DOWN ND, out-of-bounds." ob="Y" newcontext="H,1,10,V26">
+    <p_ru vh="H" name="KIZER, DeShone" gain="8"></p_ru>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="UMASS26" context="H,1,10,V26" playid="10,11,89" type="P" first="P" score="Y" vscore="13" hscore="20" clock="07:47" tokens="PASS:14,C,7,V00 T:07:47"
+      text="KIZER, DeShone pass complete to FULLER, Will for 26 yards to the UMASS0, 1ST DOWN ND, TOUCHDOWN, clock 07:47." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="KIZER, DeShone" result="COMP" rcv="FULLER, Will" gain="26"></p_pa>
+   </play>
+   <play hasball="ND" down="1" togo="0" spot="UMASS03" context="H,1,0,V03" playid="10,12,90" type="X" score="Y" vscore="13" hscore="21" tokens="PAT:K,19,G"
+      text="YOON, Justin kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="YOON, Justin" qb="YOON, Justin" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="13" H="21"></score>
+   <drivesum plays="10" yards="74" top="3:30" driveindex="10" complete="Y"></drivesum>
+   <play hasball="ND" down="1" togo="0" spot="ND35" context="H,1,0,H35" playid="10,13,91" type="K" tokens="KO:85,V02 RET:2D,V25 TACK:85"
+      text="NEWSOME, Tyler kickoff 63 yards to the UMASS2, Isabella, A. return 23 yards to the UMASS25 (NEWSOME, Tyler)." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="NEWSOME, Tyler" gain="63"></p_ko>
+    <p_kr vh="V" name="Isabella, A." gain="23"></p_kr>
+    <p_tk vh="H" name="NEWSOME, Tyler"></p_tk>
+   </play>
+   <drivestart poss="V,V25,07:47" vh="V" spot="V25" clock="07:47" driveindex="11,91"></drivestart>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS25" context="V,1,10,V25" playid="11,1,92" clock="07:47" tokens="{DRIVE}:07:47"
+      text="MASSACHUSETTS drive start at 07:47." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS25" context="V,1,10,V25" playid="11,2,93" type="P" first="P" tokens="PASS:7,C,19,H19 TACK:22,36"
+      text="Frohnapfel, B. pass complete to Nesmith, S. for 56 yards to the ND19, 1ST DOWN UMASS (SHUMATE, Elijah;LUKE, Cole)." newcontext="V,1,10,H19">
+    <p_pa vh="V" qb="Frohnapfel, B." result="COMP" rcv="Nesmith, S." gain="56"></p_pa>
+    <p_tk vh="H" name="SHUMATE, Elijah" assist="Y"></p_tk>
+    <p_tk vh="H" name="LUKE, Cole" assist="Y"></p_tk>
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="ND19" context="V,1,10,H19" playid="11,3,94" type="E" first="E" tokens="PEN:H,PI,A,36,H4,1"
+      text="PENALTY ND pass interference (LUKE, Cole) 15 yards to the ND4, 1ST DOWN UMASS." newcontext="V,1,0,H04">
+    <p_pn vh="H" code="PI" type="pass interference" name="LUKE, Cole" result="ACCEPT" at="H19" yards="15"></p_pn>
+   </play>
+   <play hasball="UMASS" down="1" togo="0" spot="ND04" context="V,1,0,H04" playid="11,4,95" type="R" tokens="RUSH:10,H01, OB: TACK:22"
+      text="Michel, M. rush for 3 yards to the ND1, out-of-bounds (SHUMATE, Elijah)." ob="Y" newcontext="V,2,0,H01">
+    <p_ru vh="V" name="Michel, M." gain="3"></p_ru>
+    <p_tk vh="H" name="SHUMATE, Elijah"></p_tk>
+   </play>
+   <play hasball="UMASS" down="2" togo="0" spot="ND01" context="V,2,0,H01" playid="11,5,96" type="E" first="E" tokens="PEN:H,PI,A,45,H01,1"
+      text="PENALTY ND pass interference (OKWARA, Romeo) 0 yards to the ND1, 1ST DOWN UMASS." newcontext="V,1,0,H01">
+    <p_pn vh="H" code="PI" type="pass interference" name="OKWARA, Romeo" result="ACCEPT"></p_pn>
+   </play>
+   <play hasball="UMASS" down="1" togo="0" spot="ND01" context="V,1,0,H01" playid="11,6,97" type="R" score="Y" vscore="19" hscore="21" clock="06:44" tokens="RUSH:6,H00, T:06:44"
+      text="Wilson, J. rush for 1 yard to the ND0, TOUCHDOWN, clock 06:44." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Wilson, J." gain="1"></p_ru>
+   </play>
+   <play hasball="UMASS" down="1" togo="0" spot="ND03" context="V,1,0,H03" playid="11,7,98" type="X" score="Y" vscore="20" hscore="21" tokens="PAT:K,31,G"
+      text="Caggiano, M. kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Caggiano, M." qb="Caggiano, M." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="20" H="21"></score>
+   <drivesum plays="3" yards="75" top="1:03" driveindex="11" complete="Y"></drivesum>
+   <play hasball="UMASS" down="1" togo="0" spot="UMASS35" context="V,1,0,V35" playid="11,8,99" type="K" tokens="KO:23,H00 RET:3,H29 TACK:29"
+      text="Lucas, B. kickoff 65 yards to the ND0, CARLISLE, Amir return 29 yards to the ND29 (Jones, J.)." newcontext="H,1,10,H29">
+    <p_ko vh="V" name="Lucas, B." gain="65"></p_ko>
+    <p_kr vh="H" name="CARLISLE, Amir" gain="29"></p_kr>
+    <p_tk vh="V" name="Jones, J."></p_tk>
+   </play>
+   <drivestart poss="H,H29,06:44" vh="H" spot="H29" clock="06:44" driveindex="12,99"></drivestart>
+   <play hasball="ND" down="1" togo="10" spot="ND29" context="H,1,10,H29" playid="12,1,100" clock="06:44" tokens="{DRIVE}:06:44"
+      text="NOTRE DAME drive start at 06:44." newcontext="H,1,10,H29">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND29" context="H,1,10,H29" playid="12,2,101" type="R" tokens="RUSH:20,H35, TACK:3,8"
+      text="PROSISE, C.J. rush for 6 yards to the ND35 (Messiah, K.;Huber, S.)." newcontext="H,2,4,H35">
+    <p_ru vh="H" name="PROSISE, C.J." gain="6"></p_ru>
+    <p_tk vh="V" name="Messiah, K." assist="Y"></p_tk>
+    <p_tk vh="V" name="Huber, S." assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="4" spot="ND35" context="H,2,4,H35" playid="12,3,102" type="P" first="P" tokens="PASS:14,C,7,H39 TACK:17,4"
+      text="KIZER, DeShone pass complete to FULLER, Will for 4 yards to the ND39, 1ST DOWN ND (Santos-Knox, J.;Jette, R.)." newcontext="H,1,10,H39">
+    <p_pa vh="H" qb="KIZER, DeShone" result="COMP" rcv="FULLER, Will" gain="4"></p_pa>
+    <p_tk vh="V" name="Santos-Knox, J." assist="Y"></p_tk>
+    <p_tk vh="V" name="Jette, R." assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND39" context="H,1,10,H39" playid="12,4,103" type="R" tokens="RUSH:20,H34, FUMB:H,H34,20"
+      text="PROSISE, C.J. rush for loss of 5 yards to the ND34, fumble by PROSISE, C.J. recovered by ND PROSISE, C.J. at ND34." newcontext="H,2,15,H34">
+    <p_ru vh="H" name="PROSISE, C.J." gain="-5"></p_ru>
+    <p_fumb vh="H" name="PROSISE, C.J." at="H34" frvh="H" frname="PROSISE, C.J."></p_fumb>
+   </play>
+   <play hasball="ND" down="2" togo="15" spot="ND34" context="H,2,15,H34" playid="12,5,104" type="P" tokens="PASS:14,I,3,*"
+      text="KIZER, DeShone pass incomplete to CARLISLE, Amir." newcontext="H,3,15,H34">
+    <p_pa vh="H" qb="KIZER, DeShone" result="INC" rcv="CARLISLE, Amir"></p_pa>
+   </play>
+   <play hasball="ND" down="3" togo="15" spot="ND34" context="H,3,15,H34" playid="12,6,105" type="R" tokens="RUSH:14,H47, TACK:8"
+      text="KIZER, DeShone rush for 13 yards to the ND47 (Huber, S.)." newcontext="H,4,2,H47">
+    <p_ru vh="H" name="KIZER, DeShone" gain="13"></p_ru>
+    <p_tk vh="V" name="Huber, S."></p_tk>
+   </play>
+   <play hasball="ND" down="4" togo="2" spot="ND47" context="H,4,2,H47" playid="12,7,106" type="U" tokens="PUNT:85,V01 DN:"
+      text="NEWSOME, Tyler punt 52 yards to the UMASS1, downed." newcontext="V,1,10,V01">
+    <p_pu vh="H" name="NEWSOME, Tyler" gain="52" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="5" yards="18" top="2:20" driveindex="12" complete="Y"></drivesum>
+   <drivestart poss="V,V01,04:24" vh="V" spot="V01" clock="04:24" driveindex="13,106"></drivestart>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS01" context="V,1,10,V01" playid="13,1,107" clock="04:24" tokens="{DRIVE}:04:24"
+      text="MASSACHUSETTS drive start at 04:24." newcontext="V,1,10,V01">
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS01" context="V,1,10,V01" playid="13,2,108" type="P" tokens="PASS:7,I,1,*"
+      text="Frohnapfel, B. pass incomplete to Sharpe, T.." newcontext="V,2,10,V01">
+    <p_pa vh="V" qb="Frohnapfel, B." result="INC" rcv="Sharpe, T."></p_pa>
+   </play>
+   <play hasball="UMASS" down="2" togo="10" spot="UMASS01" context="V,2,10,V01" playid="13,3,109" type="R" tokens="RUSH:6,V02, TACK:9"
+      text="Wilson, J. rush for 1 yard to the UMASS2 (SMITH, Jaylon)." newcontext="V,3,9,V02">
+    <p_ru vh="V" name="Wilson, J." gain="1"></p_ru>
+    <p_tk vh="H" name="SMITH, Jaylon"></p_tk>
+   </play>
+   <play hasball="UMASS" down="3" togo="9" spot="UMASS02" context="V,3,9,V02" playid="13,4,110" type="P" tokens="PASS:7,I,10,*"
+      text="Frohnapfel, B. pass incomplete to Michel, M.." newcontext="V,4,9,V02">
+    <p_pa vh="V" qb="Frohnapfel, B." result="INC" rcv="Michel, M."></p_pa>
+   </play>
+   <play hasball="UMASS" down="4" togo="9" spot="UMASS02" context="V,4,9,V02" playid="13,5,111" type="U" score="Y" vscore="20" hscore="27" clock="03:21" tokens="PUNT:99,V50 RET:9A,V00 T:03:21"
+      text="Laurent, L. punt 48 yards to the 50 yardline, SANDERS, C.J. return 50 yards to the UMASS0, TOUCHDOWN, clock 03:21." newcontext="H,1,0,V03">
+    <p_pu vh="V" name="Laurent, L." gain="48"></p_pu>
+    <p_pr vh="H" name="SANDERS, C.J." gain="50"></p_pr>
+   </play>
+   <drivesum plays="3" yards="1" top="1:03" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="H,V03,03:21" vh="H" spot="V03" clock="03:21" driveindex="14,111"></drivestart>
+   <play hasball="ND" down="1" togo="0" spot="UMASS03" context="H,1,0,V03" playid="14,1,112" type="X" score="Y" vscore="20" hscore="28" tokens="PAT:K,19,G"
+      text="YOON, Justin kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="YOON, Justin" qb="YOON, Justin" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="20" H="28"></score>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="14" complete="Y"></drivesum>
+   <play hasball="ND" down="1" togo="0" spot="ND35" context="H,1,0,H35" playid="14,2,113" type="K" tokens="KO:85,V00 RET:2D,V19 TACK:41"
+      text="NEWSOME, Tyler kickoff 65 yards to the UMASS0, Isabella, A. return 19 yards to the UMASS19 (FARLEY,Matthias)." newcontext="V,1,10,V19">
+    <p_ko vh="H" name="NEWSOME, Tyler" gain="65"></p_ko>
+    <p_kr vh="V" name="Isabella, A." gain="19"></p_kr>
+    <p_tk vh="H" name="FARLEY,Matthias"></p_tk>
+   </play>
+   <drivestart poss="V,V19,03:21" vh="V" spot="V19" clock="03:21" driveindex="15,113"></drivestart>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS19" context="V,1,10,V19" playid="15,1,114" clock="03:21" tokens="{DRIVE}:03:21"
+      text="MASSACHUSETTS drive start at 03:21." newcontext="V,1,10,V19">
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS19" context="V,1,10,V19" playid="15,2,115" type="R" tokens="RUSH:8A,V20, TACK:17,6"
+      text="Young, M. rush for 1 yard to the UMASS20 (ONWUALU, James;RUSSELL, K.)." newcontext="V,2,9,V20">
+    <p_ru vh="V" name="Young, M." gain="1"></p_ru>
+    <p_tk vh="H" name="ONWUALU, James" assist="Y"></p_tk>
+    <p_tk vh="H" name="RUSSELL, K." assist="Y"></p_tk>
+   </play>
+   <play hasball="UMASS" down="2" togo="9" spot="UMASS20" context="V,2,9,V20" playid="15,3,116" type="P" tokens="PASS:7,C,1,V25 TACK:38,6"
+      text="Frohnapfel, B. pass complete to Sharpe, T. for 5 yards to the UMASS25 (SCHMIDT, Joe;RUSSELL, K.)." newcontext="V,3,4,V25">
+    <p_pa vh="V" qb="Frohnapfel, B." result="COMP" rcv="Sharpe, T." gain="5"></p_pa>
+    <p_tk vh="H" name="SCHMIDT, Joe" assist="Y"></p_tk>
+    <p_tk vh="H" name="RUSSELL, K." assist="Y"></p_tk>
+   </play>
+   <play hasball="UMASS" down="3" togo="4" spot="UMASS25" context="V,3,4,V25" playid="15,4,117" type="P" first="P" tokens="PASS:7,C,14,V46 TACK:10 QBH:H,9"
+      text="Frohnapfel, B. pass complete to Harris, S. for 21 yards to the UMASS46, 1ST DOWN UMASS (REDFIELD, Max), QB hurry by SMITH, Jaylon." newcontext="V,1,10,V46">
+    <p_pa vh="V" qb="Frohnapfel, B." result="COMP" rcv="Harris, S." gain="21"></p_pa>
+    <p_tk vh="H" name="REDFIELD, Max"></p_tk>
+    <p_qbh vh="H" name="SMITH, Jaylon"></p_qbh>
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS46" context="V,1,10,V46" playid="15,5,118" type="P" tokens="PASS:7,I,1,*"
+      text="Frohnapfel, B. pass incomplete to Sharpe, T.." newcontext="V,2,10,V46">
+    <p_pa vh="V" qb="Frohnapfel, B." result="INC" rcv="Sharpe, T."></p_pa>
+   </play>
+   <play hasball="UMASS" down="2" togo="10" spot="UMASS46" context="V,2,10,V46" playid="15,6,119" type="P" tokens="PASS:7,I,10,*"
+      text="Frohnapfel, B. pass incomplete to Michel, M.." newcontext="V,3,10,V46">
+    <p_pa vh="V" qb="Frohnapfel, B." result="INC" rcv="Michel, M."></p_pa>
+   </play>
+   <play hasball="UMASS" down="3" togo="10" spot="UMASS46" context="V,3,10,V46" playid="15,7,120" type="#" clock="01:42" tokens="TOUT:V T:01:42"
+      text="Timeout Massachusetts, clock 01:42." newcontext="V,3,10,V46">
+    <p_to vh="V" team="Massachusetts"></p_to>
+   </play>
+   <play hasball="UMASS" down="3" togo="10" spot="UMASS46" context="V,3,10,V46" playid="15,8,121" type="P" tokens="PASS:7,S,TM,V33 SACK:91"
+      text="Frohnapfel, B. sacked for loss of 13 yards to the UMASS33 (DAY, Sheldon)." newcontext="V,4,23,V33">
+    <p_pa vh="V" qb="Frohnapfel, B." result="SACK" gain="-13"></p_pa>
+    <p_tk vh="H" name="DAY, Sheldon" sack="Y"></p_tk>
+   </play>
+   <play hasball="UMASS" down="4" togo="23" spot="UMASS33" context="V,4,23,V33" playid="15,9,122" type="#" clock="01:35" tokens="TOUT:H T:01:35"
+      text="Timeout Notre Dame, clock 01:35." newcontext="V,4,23,V33">
+    <p_to vh="H" team="Notre Dame"></p_to>
+   </play>
+   <play hasball="UMASS" down="4" togo="23" spot="UMASS33" context="V,4,23,V33" playid="15,10,123" type="U" tokens="PUNT:99,H25 RET:9A,H26"
+      text="Laurent, L. punt 42 yards to the ND25, SANDERS, C.J. return 1 yards to the ND26." newcontext="H,1,10,H26">
+    <p_pu vh="V" name="Laurent, L." gain="42"></p_pu>
+    <p_pr vh="H" name="SANDERS, C.J." gain="1"></p_pr>
+   </play>
+   <drivesum plays="6" yards="14" top="1:54" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="H,H26,01:27" vh="H" spot="H26" clock="01:27" driveindex="16,123"></drivestart>
+   <play hasball="ND" down="1" togo="10" spot="ND26" context="H,1,10,H26" playid="16,1,124" clock="01:27" tokens="{DRIVE}:01:27"
+      text="NOTRE DAME drive start at 01:27." newcontext="H,1,10,H26">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND26" context="H,1,10,H26" playid="16,2,125" type="P" tokens="PASS:14,C,1A,H33 TACK:4,17"
+      text="KIZER, DeShone pass complete to JONES, Alize for 7 yards to the ND33 (Jette, R.;Santos-Knox, J.)." newcontext="H,2,3,H33">
+    <p_pa vh="H" qb="KIZER, DeShone" result="COMP" rcv="JONES, Alize" gain="7"></p_pa>
+    <p_tk vh="V" name="Jette, R." assist="Y"></p_tk>
+    <p_tk vh="V" name="Santos-Knox, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="3" spot="ND33" context="H,2,3,H33" playid="16,3,126" type="P" tokens="PASS:14,I,7,*"
+      text="KIZER, DeShone pass incomplete to FULLER, Will." newcontext="H,3,3,H33">
+    <p_pa vh="H" qb="KIZER, DeShone" result="INC" rcv="FULLER, Will"></p_pa>
+   </play>
+   <play hasball="ND" down="3" togo="3" spot="ND33" context="H,3,3,H33" playid="16,4,127" type="P" first="P" tokens="PASS:14,C,2,V40 TACK:8"
+      text="KIZER, DeShone pass complete to BROWN, Chris for 27 yards to the UMASS40, 1ST DOWN ND (Huber, S.)." newcontext="H,1,10,V40">
+    <p_pa vh="H" qb="KIZER, DeShone" result="COMP" rcv="BROWN, Chris" gain="27"></p_pa>
+    <p_tk vh="V" name="Huber, S."></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="UMASS40" context="H,1,10,V40" playid="16,5,128" type="P" tokens="PASS:14,I,2,*"
+      text="KIZER, DeShone pass incomplete to BROWN, Chris." newcontext="H,2,10,V40">
+    <p_pa vh="H" qb="KIZER, DeShone" result="INC" rcv="BROWN, Chris"></p_pa>
+   </play>
+   <play hasball="ND" down="2" togo="10" spot="UMASS40" context="H,2,10,V40" playid="16,6,129" type="P" first="P" tokens="PASS:14,C,7,V23 TACK:25,8"
+      text="KIZER, DeShone pass complete to FULLER, Will for 17 yards to the UMASS23, 1ST DOWN ND (Colton, J.;Huber, S.)." newcontext="H,1,10,V23">
+    <p_pa vh="H" qb="KIZER, DeShone" result="COMP" rcv="FULLER, Will" gain="17"></p_pa>
+    <p_tk vh="V" name="Colton, J." assist="Y"></p_tk>
+    <p_tk vh="V" name="Huber, S." assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="UMASS23" context="H,1,10,V23" playid="16,7,130" type="P" tokens="PASS:TM,I,TM,*"
+      text="TEAM pass incomplete." newcontext="H,2,10,V23">
+    <p_pa vh="H" qb="TEAM" result="INC"></p_pa>
+   </play>
+   <play hasball="ND" down="2" togo="10" spot="UMASS23" context="H,2,10,V23" playid="16,8,131" type="P" tokens="PASS:14,I,7,*"
+      text="KIZER, DeShone pass incomplete to FULLER, Will." newcontext="H,3,10,V23">
+    <p_pa vh="H" qb="KIZER, DeShone" result="INC" rcv="FULLER, Will"></p_pa>
+   </play>
+   <play hasball="ND" down="3" togo="10" spot="UMASS23" context="H,3,10,V23" playid="16,9,132" type="P" first="P" tokens="PASS:14,C,3,V07 TACK:25"
+      text="KIZER, DeShone pass complete to CARLISLE, Amir for 16 yards to the UMASS7, 1ST DOWN ND (Colton, J.)." newcontext="H,1,0,V07">
+    <p_pa vh="H" qb="KIZER, DeShone" result="COMP" rcv="CARLISLE, Amir" gain="16"></p_pa>
+    <p_tk vh="V" name="Colton, J."></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="0" spot="UMASS07" context="H,1,0,V07" playid="16,10,133" type="#" clock="00:16" tokens="TOUT:H T:00:16"
+      text="Timeout Notre Dame, clock 00:16." newcontext="H,1,0,V07">
+    <p_to vh="H" team="Notre Dame"></p_to>
+   </play>
+   <play hasball="ND" down="1" togo="0" spot="UMASS07" context="H,1,0,V07" playid="16,11,134" type="R" tokens="RUSH:14,V07, TACK:25,8"
+      text="KIZER, DeShone rush for no gain to the UMASS7 (Colton, J.;Huber, S.)." newcontext="H,2,0,V07">
+    <p_ru vh="H" name="KIZER, DeShone" gain="0"></p_ru>
+    <p_tk vh="V" name="Colton, J." assist="Y"></p_tk>
+    <p_tk vh="V" name="Huber, S." assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="0" spot="UMASS07" context="H,2,0,V07" playid="16,12,135" type="#" clock="00:10" tokens="TOUT:H T:00:10"
+      text="Timeout Notre Dame, clock 00:10." newcontext="H,2,0,V07">
+    <p_to vh="H" team="Notre Dame"></p_to>
+   </play>
+   <play hasball="ND" down="2" togo="0" spot="UMASS07" context="H,2,0,V07" playid="16,13,136" type="P" score="Y" vscore="20" hscore="34" clock="00:06" tokens="PASS:14,C,2,V00 T:00:06"
+      text="KIZER, DeShone pass complete to BROWN, Chris for 7 yards to the UMASS0, TOUCHDOWN, clock 00:06." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="KIZER, DeShone" result="COMP" rcv="BROWN, Chris" gain="7"></p_pa>
+   </play>
+   <play hasball="ND" down="1" togo="0" spot="UMASS03" context="H,1,0,V03" playid="16,14,137" type="X" score="Y" vscore="20" hscore="35" tokens="PAT:K,19,G"
+      text="YOON, Justin kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="YOON, Justin" qb="YOON, Justin" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="20" H="35"></score>
+   <drivesum plays="10" yards="74" top="1:21" driveindex="16" complete="Y"></drivesum>
+   <play hasball="ND" down="1" togo="0" spot="ND35" context="H,1,0,H35" playid="16,15,138" type="K" tokens="KO:85,V09 RET:2D,V37 OB: TACK:22"
+      text="NEWSOME, Tyler kickoff 56 yards to the UMASS9, Isabella, A. return 28 yards to the UMASS37, out-of-bounds (SHUMATE, Elijah)." ob="Y" newcontext="V,1,10,V37">
+    <p_ko vh="H" name="NEWSOME, Tyler" gain="56"></p_ko>
+    <p_kr vh="V" name="Isabella, A." gain="28"></p_kr>
+    <p_tk vh="H" name="SHUMATE, Elijah"></p_tk>
+   </play>
+   <drivestart poss="V,V37,00:06" vh="V" spot="V37" clock="00:06" driveindex="17,138"></drivestart>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS37" context="V,1,10,V37" playid="17,1,139" clock="00:06" tokens="{DRIVE}:00:06"
+      text="MASSACHUSETTS drive start at 00:06." newcontext="V,1,10,V37">
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS37" context="V,1,10,V37" playid="17,2,140" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of half, clock 00:00." newcontext="V,1,10,V37">
+   </play>
+   <drivesum plays="0" yards="0" top="0:06" driveindex="17" complete="Y"></drivesum>
+   <score qtr="2" V="20" H="35"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UMASS">
+    <firstdowns no="7" rush="1" pass="4" penalty="2"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="2" thirdatt="5" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:39"></misc>
+    <rush att="9" yds="11" gain="24" loss="13" td="2" long="0"></rush>
+    <pass comp="7" att="13" int="0" yds="114" td="0" long="31" sacks="1" sackyds="13"></pass>
+    <rcv no="7" yds="114" td="0" long="31"></rcv>
+    <punt no="2" yds="90" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="45.0"></punt>
+    <ko no="3" yds="191" ob="0" tb="1"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="10" tacka="16" tot_tack="26" sacks="0" sackyds="0" int="1" intyds="12"></defense>
+    <kr no="3" yds="70" td="0" long="9"></kr>
+    <ir no="1" yds="12" td="0" long="12"></ir>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ND">
+    <firstdowns no="9" rush="3" pass="6" penalty="0"></firstdowns>
+    <penalties no="2" yds="15"></penalties>
+    <conversions thirdconv="3" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="07:21"></misc>
+    <rush att="12" yds="55" gain="60" loss="5" td="0" long="0"></rush>
+    <pass comp="8" att="14" int="1" yds="111" td="2" long="15" sacks="0" sackyds="0"></pass>
+    <rcv no="8" yds="111" td="2" long="15"></rcv>
+    <punt no="1" yds="52" long="0" blkd="0" tb="0" fc="0" plus50="1" inside20="1" avg="52.0"></punt>
+    <ko no="3" yds="184" ob="0" tb="0"></ko>
+    <pat kickatt="3" kickmade="3"></pat>
+    <defense tackua="13" tacka="10" tot_tack="23" tflua="1" tfla="0" tflyds="13" sacks="1" sackyds="13" brup="1" qbh="1"></defense>
+    <kr no="2" yds="51" td="0" long="29"></kr>
+    <pr no="2" yds="51" td="1" long="50"></pr>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="3" patkick="3"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS37" context="V,1,10,V37" playid="17,3,141" type="#" clock="15:00" tokens="Q:3 T:15:00"
+      text="Start of 3rd quarter, clock 15:00." newcontext="V,1,10,V37">
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS37" context="V,1,10,V37" playid="17,4,142" type="K" tokens="KO:23,H03 RET:3,H27 TACK:25"
+      text="Lucas, B. kickoff 60 yards to the ND3, CARLISLE, Amir return 24 yards to the ND27 (Colton, J.)." newcontext="H,1,10,H27">
+    <p_ko vh="V" name="Lucas, B." gain="60"></p_ko>
+    <p_kr vh="H" name="CARLISLE, Amir" gain="24"></p_kr>
+    <p_tk vh="V" name="Colton, J."></p_tk>
+   </play>
+   <drivestart poss="H,H27,15:00" vh="H" spot="H27" clock="15:00" driveindex="18,142"></drivestart>
+   <play hasball="ND" down="1" togo="10" spot="ND27" context="H,1,10,H27" playid="18,1,143" clock="15:00" tokens="{DRIVE}:15:00"
+      text="NOTRE DAME drive start at 15:00." newcontext="H,1,10,H27">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND27" context="H,1,10,H27" playid="18,2,144" type="R" tokens="RUSH:20,H30, TACK:5,17"
+      text="PROSISE, C.J. rush for 3 yards to the ND30 (Angeh, P.;Santos-Knox, J.)." newcontext="H,2,7,H30">
+    <p_ru vh="H" name="PROSISE, C.J." gain="3"></p_ru>
+    <p_tk vh="V" name="Angeh, P." assist="Y"></p_tk>
+    <p_tk vh="V" name="Santos-Knox, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="7" spot="ND30" context="H,2,7,H30" playid="18,3,145" type="R" tokens="RUSH:20,H31, TACK:2Z"
+      text="PROSISE, C.J. rush for 1 yard to the ND31 (Edmonds, Z.)." newcontext="H,3,6,H31">
+    <p_ru vh="H" name="PROSISE, C.J." gain="1"></p_ru>
+    <p_tk vh="V" name="Edmonds, Z."></p_tk>
+   </play>
+   <play hasball="ND" down="3" togo="6" spot="ND31" context="H,3,6,H31" playid="18,4,146" type="P" first="P" tokens="PASS:14,C,82,H39 TACK:25"
+      text="KIZER, DeShone pass complete to WEISHAR, Nic for 8 yards to the ND39, 1ST DOWN ND (Colton, J.)." newcontext="H,1,10,H39">
+    <p_pa vh="H" qb="KIZER, DeShone" result="COMP" rcv="WEISHAR, Nic" gain="8"></p_pa>
+    <p_tk vh="V" name="Colton, J."></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND39" context="H,1,10,H39" playid="18,5,147" type="R" tokens="RUSH:20,H43, TACK:25"
+      text="PROSISE, C.J. rush for 4 yards to the ND43 (Colton, J.)." newcontext="H,2,6,H43">
+    <p_ru vh="H" name="PROSISE, C.J." gain="4"></p_ru>
+    <p_tk vh="V" name="Colton, J."></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="6" spot="ND43" context="H,2,6,H43" playid="18,6,148" type="R" tokens="RUSH:33,H47, TACK:3"
+      text="ADAMS, Josh rush for 4 yards to the ND47 (Messiah, K.)." newcontext="H,3,2,H47">
+    <p_ru vh="H" name="ADAMS, Josh" gain="4"></p_ru>
+    <p_tk vh="V" name="Messiah, K."></p_tk>
+   </play>
+   <play hasball="ND" down="3" togo="2" spot="ND47" context="H,3,2,H47" playid="18,7,149" type="P" first="P" tokens="PASS:14,C,1A,V16 TACK:9"
+      text="KIZER, DeShone pass complete to JONES, Alize for 37 yards to the UMASS16, 1ST DOWN ND (Dudley-Giles, T)." newcontext="H,1,10,V16">
+    <p_pa vh="H" qb="KIZER, DeShone" result="COMP" rcv="JONES, Alize" gain="37"></p_pa>
+    <p_tk vh="V" name="Dudley-Giles, T"></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="UMASS16" context="H,1,10,V16" playid="18,8,150" type="R" first="R" score="Y" vscore="20" hscore="41" clock="12:02" tokens="RUSH:20,V00, T:12:02"
+      text="PROSISE, C.J. rush for 16 yards to the UMASS0, 1ST DOWN ND, TOUCHDOWN, clock 12:02." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="PROSISE, C.J." gain="16"></p_ru>
+   </play>
+   <play hasball="ND" down="1" togo="0" spot="UMASS03" context="H,1,0,V03" playid="18,9,151" type="X" score="Y" vscore="20" hscore="42" tokens="PAT:K,19,G"
+      text="YOON, Justin kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="YOON, Justin" qb="YOON, Justin" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="20" H="42"></score>
+   <drivesum plays="7" yards="73" top="2:58" driveindex="18" complete="Y"></drivesum>
+   <play hasball="ND" down="1" togo="0" spot="ND35" context="H,1,0,H35" playid="18,10,152" type="K" tokens="KO:85,V00 TB:"
+      text="NEWSOME, Tyler kickoff 65 yards to the UMASS0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="NEWSOME, Tyler" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,12:02" vh="V" spot="V25" clock="12:02" driveindex="19,152"></drivestart>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS25" context="V,1,10,V25" playid="19,1,153" clock="12:02" tokens="{DRIVE}:12:02"
+      text="MASSACHUSETTS drive start at 12:02." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS25" context="V,1,10,V25" playid="19,2,154" type="P" tokens="PASS:7,I,35,* BRUP:17 QBH:H,90"
+      text="Frohnapfel, B. pass incomplete to Lindsay, S. (ONWUALU, James), QB hurry by ROCHELL, Isaac." newcontext="V,2,10,V25">
+    <p_pa vh="V" qb="Frohnapfel, B." result="INC" rcv="Lindsay, S."></p_pa>
+    <p_bu vh="H" name="ONWUALU, James"></p_bu>
+    <p_qbh vh="H" name="ROCHELL, Isaac"></p_qbh>
+   </play>
+   <play hasball="UMASS" down="2" togo="10" spot="UMASS25" context="V,2,10,V25" playid="19,3,155" type="R" tokens="RUSH:35,V27, TACK:22"
+      text="Lindsay, S. rush for 2 yards to the UMASS27 (SHUMATE, Elijah)." newcontext="V,3,8,V27">
+    <p_ru vh="V" name="Lindsay, S." gain="2"></p_ru>
+    <p_tk vh="H" name="SHUMATE, Elijah"></p_tk>
+   </play>
+   <play hasball="UMASS" down="3" togo="8" spot="UMASS27" context="V,3,8,V27" playid="19,4,156" type="R" tokens="RUSH:7,V27, TACK:90"
+      text="Frohnapfel, B. rush for no gain to the UMASS27 (ROCHELL, Isaac)." newcontext="V,4,8,V27">
+    <p_ru vh="V" name="Frohnapfel, B." gain="0"></p_ru>
+    <p_tk vh="H" name="ROCHELL, Isaac"></p_tk>
+   </play>
+   <play hasball="UMASS" down="4" togo="8" spot="UMASS27" context="V,4,8,V27" playid="19,5,157" type="R" tokens="RUSH:99,V30, TACK:59,48"
+      text="Laurent, L. rush for 3 yards to the UMASS30 (GRACE, Jarrett;MARTINI, Greer)." newcontext="H,1,10,V30">
+    <p_ru vh="V" name="Laurent, L." gain="3"></p_ru>
+    <p_tk vh="H" name="GRACE, Jarrett" assist="Y"></p_tk>
+    <p_tk vh="H" name="MARTINI, Greer" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="4" yards="5" top="1:59" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="H,V30,10:03" vh="H" spot="V30" clock="10:03" driveindex="20,157"></drivestart>
+   <play hasball="ND" down="1" togo="10" spot="UMASS30" context="H,1,10,V30" playid="20,1,158" clock="10:03" tokens="{DRIVE}:10:03"
+      text="NOTRE DAME drive start at 10:03." newcontext="H,1,10,V30">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="UMASS30" context="H,1,10,V30" playid="20,2,159" type="P" first="P" tokens="PASS:14,C,3,V14 TACK:25"
+      text="KIZER, DeShone pass complete to CARLISLE, Amir for 16 yards to the UMASS14, 1ST DOWN ND (Colton, J.)." newcontext="H,1,10,V14">
+    <p_pa vh="H" qb="KIZER, DeShone" result="COMP" rcv="CARLISLE, Amir" gain="16"></p_pa>
+    <p_tk vh="V" name="Colton, J."></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="UMASS14" context="H,1,10,V14" playid="20,3,160" type="R" first="R" score="Y" vscore="20" hscore="48" clock="09:28" tokens="RUSH:34,V00, T:09:28"
+      text="WILLIAMS,Dexter rush for 14 yards to the UMASS0, 1ST DOWN ND, TOUCHDOWN, clock 09:28." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="WILLIAMS,Dexter" gain="14"></p_ru>
+   </play>
+   <play hasball="ND" down="1" togo="0" spot="UMASS03" context="H,1,0,V03" playid="20,4,161" type="X" tokens="PAT:K,19,M"
+      text="YOON, Justin kick attempt failed." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="YOON, Justin" qb="YOON, Justin" type="K" result="MISSED"></p_pat>
+   </play>
+   <score V="20" H="48"></score>
+   <drivesum plays="2" yards="30" top="0:35" driveindex="20" complete="Y"></drivesum>
+   <play hasball="ND" down="1" togo="0" spot="ND35" context="H,1,0,H35" playid="20,5,162" type="K" tokens="KO:85,V03 RET:2D,V18 TACK:4"
+      text="NEWSOME, Tyler kickoff 62 yards to the UMASS3, Isabella, A. return 15 yards to the UMASS18 (CONEY, Te'von)." newcontext="V,1,10,V18">
+    <p_ko vh="H" name="NEWSOME, Tyler" gain="62"></p_ko>
+    <p_kr vh="V" name="Isabella, A." gain="15"></p_kr>
+    <p_tk vh="H" name="CONEY, Te'von"></p_tk>
+   </play>
+   <drivestart poss="V,V18,09:28" vh="V" spot="V18" clock="09:28" driveindex="21,162"></drivestart>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS18" context="V,1,10,V18" playid="21,1,163" clock="09:28" tokens="{DRIVE}:09:28"
+      text="MASSACHUSETTS drive start at 09:28." newcontext="V,1,10,V18">
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS18" context="V,1,10,V18" playid="21,2,164" type="R" tokens="RUSH:35,V24, TACK:38"
+      text="Lindsay, S. rush for 6 yards to the UMASS24 (SCHMIDT, Joe)." newcontext="V,2,4,V24">
+    <p_ru vh="V" name="Lindsay, S." gain="6"></p_ru>
+    <p_tk vh="H" name="SCHMIDT, Joe"></p_tk>
+   </play>
+   <play hasball="UMASS" down="2" togo="4" spot="UMASS24" context="V,2,4,V24" playid="21,3,165" type="R" tokens="RUSH:35,V23, TACK:17"
+      text="Lindsay, S. rush for loss of 1 yard to the UMASS23 (ONWUALU, James)." newcontext="V,3,5,V23">
+    <p_ru vh="V" name="Lindsay, S." gain="-1"></p_ru>
+    <p_tk vh="H" name="ONWUALU, James"></p_tk>
+   </play>
+   <play hasball="UMASS" down="3" togo="5" spot="UMASS23" context="V,3,5,V23" playid="21,4,166" type="P" tokens="PASS:7,I,1,* BRUP:12 QBH:H,91"
+      text="Frohnapfel, B. pass incomplete to Sharpe, T. (BUTLER, Devin), QB hurry by DAY, Sheldon." newcontext="V,4,5,V23">
+    <p_pa vh="V" qb="Frohnapfel, B." result="INC" rcv="Sharpe, T."></p_pa>
+    <p_bu vh="H" name="BUTLER, Devin"></p_bu>
+    <p_qbh vh="H" name="DAY, Sheldon"></p_qbh>
+   </play>
+   <play hasball="UMASS" down="4" togo="5" spot="UMASS23" context="V,4,5,V23" playid="21,5,167" type="U" tokens="PUNT:99,H25 RET:9A,H37 TACK:27,53"
+      text="Laurent, L. punt 52 yards to the ND25, SANDERS, C.J. return 12 yards to the ND37 (Monteiro, J.;Berus, N.)." newcontext="H,1,10,H37">
+    <p_pu vh="V" name="Laurent, L." gain="52"></p_pu>
+    <p_pr vh="H" name="SANDERS, C.J." gain="12"></p_pr>
+    <p_tk vh="V" name="Monteiro, J." assist="Y"></p_tk>
+    <p_tk vh="V" name="Berus, N." assist="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="5" top="1:28" driveindex="21" complete="Y"></drivesum>
+   <drivestart poss="H,H37,08:00" vh="H" spot="H37" clock="08:00" driveindex="22,167"></drivestart>
+   <play hasball="ND" down="1" togo="10" spot="ND37" context="H,1,10,H37" playid="22,1,168" clock="08:00" tokens="{DRIVE}:08:00"
+      text="NOTRE DAME drive start at 08:00." newcontext="H,1,10,H37">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND37" context="H,1,10,H37" playid="22,2,169" type="R" tokens="RUSH:33,H45, TACK:1A,92"
+      text="ADAMS, Josh rush for 8 yards to the ND45 (Brackett, K.;Kitching, R.)." newcontext="H,2,2,H45">
+    <p_ru vh="H" name="ADAMS, Josh" gain="8"></p_ru>
+    <p_tk vh="V" name="Brackett, K." assist="Y"></p_tk>
+    <p_tk vh="V" name="Kitching, R." assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="2" spot="ND45" context="H,2,2,H45" playid="22,3,170" type="P" tokens="PASS:1B,I,7,*"
+      text="WIMBUSH,Brandon pass incomplete to FULLER, Will." newcontext="H,3,2,H45">
+    <p_pa vh="H" qb="WIMBUSH,Brandon" result="INC" rcv="FULLER, Will"></p_pa>
+   </play>
+   <play hasball="ND" down="3" togo="2" spot="ND45" context="H,3,2,H45" playid="22,4,171" type="E" tokens="PEN:H,FS,A,72,H40,N"
+      text="PENALTY ND false start (MARTIN, Nick) 5 yards to the ND40." newcontext="H,3,7,H40">
+    <p_pn vh="H" code="FS" type="false start" name="MARTIN, Nick" result="ACCEPT" at="H45" yards="5"></p_pn>
+   </play>
+   <play hasball="ND" down="3" togo="7" spot="ND40" context="H,3,7,H40" playid="22,5,172" type="R" tokens="RUSH:1B,H43, TACK:5"
+      text="WIMBUSH,Brandon rush for 3 yards to the ND43 (Angeh, P.)." newcontext="H,4,4,H43">
+    <p_ru vh="H" name="WIMBUSH,Brandon" gain="3"></p_ru>
+    <p_tk vh="V" name="Angeh, P."></p_tk>
+   </play>
+   <play hasball="ND" down="4" togo="4" spot="ND43" context="H,4,4,H43" playid="22,6,173" type="U" tokens="PUNT:85,V00 TB:"
+      text="NEWSOME, Tyler punt 57 yards to the UMASS0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="NEWSOME, Tyler" gain="57" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="6" top="1:30" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="V,V20,06:30" vh="V" spot="V20" clock="06:30" driveindex="23,173"></drivestart>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS20" context="V,1,10,V20" playid="23,1,174" clock="06:30" tokens="{DRIVE}:06:30"
+      text="MASSACHUSETTS drive start at 06:30." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS20" context="V,1,10,V20" playid="23,2,175" type="P" tokens="PASS:7,C,1,V25 TACK:22"
+      text="Frohnapfel, B. pass complete to Sharpe, T. for 5 yards to the UMASS25 (SHUMATE, Elijah)." newcontext="V,2,5,V25">
+    <p_pa vh="V" qb="Frohnapfel, B." result="COMP" rcv="Sharpe, T." gain="5"></p_pa>
+    <p_tk vh="H" name="SHUMATE, Elijah"></p_tk>
+   </play>
+   <play hasball="UMASS" down="2" togo="5" spot="UMASS25" context="V,2,5,V25" playid="23,3,176" type="P" first="P" tokens="PASS:7,C,1,V39 OB: TACK:6 PEN:H,PF,A,90,H46,1"
+      text="Frohnapfel, B. pass complete to Sharpe, T. for 14 yards to the UMASS39, 1ST DOWN UMASS, out-of-bounds (RUSSELL, K.), PENALTY ND personal foul (ROCHELL, Isaac) 15 yards to the ND46, 1ST DOWN UMASS." ob="Y" newcontext="V,1,10,H46">
+    <p_pa vh="V" qb="Frohnapfel, B." result="COMP" rcv="Sharpe, T." gain="14"></p_pa>
+    <p_tk vh="H" name="RUSSELL, K."></p_tk>
+    <p_pn vh="H" code="PF" type="personal foul" name="ROCHELL, Isaac" result="ACCEPT" at="V39" yards="15"></p_pn>
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="ND46" context="V,1,10,H46" playid="23,4,177" tokens="D:1,10"
+      text="1st and 10." newcontext="V,1,10,H46">
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="ND46" context="V,1,10,H46" playid="23,5,178" type="R" tokens="RUSH:10,V50, TACK:75"
+      text="Michel, M. rush for loss of 4 yards to the 50 yardline (CAGE, Daniel)." newcontext="V,2,14,V50">
+    <p_ru vh="V" name="Michel, M." gain="-4"></p_ru>
+    <p_tk vh="H" name="CAGE, Daniel"></p_tk>
+   </play>
+   <play hasball="UMASS" down="2" togo="14" spot="UMASS50" context="V,2,14,V50" playid="23,6,179" type="P" tokens="PASS:7,C,8A,H46 TACK:6,9"
+      text="Frohnapfel, B. pass complete to Young, M. for 4 yards to the ND46 (RUSSELL, K.;SMITH, Jaylon)." newcontext="V,3,10,H46">
+    <p_pa vh="V" qb="Frohnapfel, B." result="COMP" rcv="Young, M." gain="4"></p_pa>
+    <p_tk vh="H" name="RUSSELL, K." assist="Y"></p_tk>
+    <p_tk vh="H" name="SMITH, Jaylon" assist="Y"></p_tk>
+   </play>
+   <play hasball="UMASS" down="3" togo="10" spot="ND46" context="V,3,10,H46" playid="23,7,180" type="P" tokens="PASS:7,I,TM,* BRUP:9"
+      text="Frohnapfel, B. pass incomplete (SMITH, Jaylon)." newcontext="V,4,10,H46">
+    <p_pa vh="V" qb="Frohnapfel, B." result="INC"></p_pa>
+    <p_bu vh="H" name="SMITH, Jaylon"></p_bu>
+   </play>
+   <play hasball="UMASS" down="4" togo="10" spot="ND46" context="V,4,10,H46" playid="23,8,181" type="U" tokens="PUNT:99,H15 FC:9A"
+      text="Laurent, L. punt 31 yards to the ND15, fair catch by SANDERS, C.J.." newcontext="H,1,10,H15">
+    <p_pu vh="V" name="Laurent, L." gain="31" in20="Y" fc="SANDERS, C.J."></p_pu>
+   </play>
+   <drivesum plays="5" yards="34" top="1:59" driveindex="23" complete="Y"></drivesum>
+   <drivestart poss="H,H15,04:31" vh="H" spot="H15" clock="04:31" driveindex="24,181"></drivestart>
+   <play hasball="ND" down="1" togo="10" spot="ND15" context="H,1,10,H15" playid="24,1,182" clock="04:31" tokens="{DRIVE}:04:31"
+      text="NOTRE DAME drive start at 04:31." newcontext="H,1,10,H15">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND15" context="H,1,10,H15" playid="24,2,183" type="P" tokens="PASS:1B,C,16,H24 TACK:24"
+      text="WIMBUSH,Brandon pass complete to HUNTER JR,Torii for 9 yards to the ND24 (Singh, C.)." newcontext="H,2,1,H24">
+    <p_pa vh="H" qb="WIMBUSH,Brandon" result="COMP" rcv="HUNTER JR,Torii" gain="9"></p_pa>
+    <p_tk vh="V" name="Singh, C."></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="1" spot="ND24" context="H,2,1,H24" playid="24,3,184" type="R" first="R" tokens="RUSH:33,H35, TACK:24,60"
+      text="ADAMS, Josh rush for 11 yards to the ND35, 1ST DOWN ND (Singh, C.;Asante, E.)." newcontext="H,1,10,H35">
+    <p_ru vh="H" name="ADAMS, Josh" gain="11"></p_ru>
+    <p_tk vh="V" name="Singh, C." assist="Y"></p_tk>
+    <p_tk vh="V" name="Asante, E." assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND35" context="H,1,10,H35" playid="24,4,185" type="R" tokens="RUSH:33,H43, TACK:8"
+      text="ADAMS, Josh rush for 8 yards to the ND43 (Huber, S.)." newcontext="H,2,2,H43">
+    <p_ru vh="H" name="ADAMS, Josh" gain="8"></p_ru>
+    <p_tk vh="V" name="Huber, S."></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="2" spot="ND43" context="H,2,2,H43" playid="24,5,186" type="R" tokens="RUSH:33,H42, TACK:46,2Z"
+      text="ADAMS, Josh rush for loss of 1 yard to the ND42 (Amato, L.;Edmonds, Z.)." newcontext="H,3,3,H42">
+    <p_ru vh="H" name="ADAMS, Josh" gain="-1"></p_ru>
+    <p_tk vh="V" name="Amato, L." assist="Y"></p_tk>
+    <p_tk vh="V" name="Edmonds, Z." assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="3" togo="3" spot="ND42" context="H,3,3,H42" playid="24,6,187" type="R" first="R" score="Y" vscore="20" hscore="54" clock="02:18" tokens="RUSH:1B,V00, T:02:18"
+      text="WIMBUSH,Brandon rush for 58 yards to the UMASS0, 1ST DOWN ND, TOUCHDOWN, clock 02:18." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="WIMBUSH,Brandon" gain="58"></p_ru>
+   </play>
+   <play hasball="ND" down="1" togo="0" spot="UMASS03" context="H,1,0,V03" playid="24,7,188" type="X" score="Y" vscore="20" hscore="55" tokens="PAT:K,19,G"
+      text="YOON, Justin kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="YOON, Justin" qb="YOON, Justin" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="20" H="55"></score>
+   <drivesum plays="5" yards="85" top="2:13" driveindex="24" complete="Y"></drivesum>
+   <play hasball="ND" down="1" togo="0" spot="ND35" context="H,1,0,H35" playid="24,8,189" type="K" tokens="KO:85,V03 RET:2D,V18 FORCE:28 FUMB:V,V13,2D"
+      text="NEWSOME, Tyler kickoff 62 yards to the UMASS3, Isabella, A. return 15 yards to the UMASS18, fumble forced by FERTITTA, Nicco, fumble by Isabella, A. recovered by UMASS Isabella, A. at UMASS13." newcontext="V,1,10,V13">
+    <p_ko vh="H" name="NEWSOME, Tyler" gain="62"></p_ko>
+    <p_kr vh="V" name="Isabella, A." gain="15"></p_kr>
+    <p_fumb vh="V" name="Isabella, A." at="V13" frvh="V" frname="Isabella, A."></p_fumb>
+    <p_tk vh="H" name="FERTITTA, Nicco" ff="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V13,02:18" vh="V" spot="V13" clock="02:18" driveindex="25,189"></drivestart>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS13" context="V,1,10,V13" playid="25,1,190" clock="02:18" tokens="{DRIVE}:02:18 SPOT:V,V13,Y"
+      text="MASSACHUSETTS drive start at 02:18, UMASS ball on UMASS13." newcontext="V,1,10,V13">
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS13" context="V,1,10,V13" playid="25,2,191" type="P" first="P" tokens="PASS:7,C,10,V25 TACK:6"
+      text="Frohnapfel, B. pass complete to Michel, M. for 12 yards to the UMASS25, 1ST DOWN UMASS (RUSSELL, K.)." newcontext="V,1,10,V25">
+    <p_pa vh="V" qb="Frohnapfel, B." result="COMP" rcv="Michel, M." gain="12"></p_pa>
+    <p_tk vh="H" name="RUSSELL, K."></p_tk>
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS25" context="V,1,10,V25" playid="25,3,192" tokens="QBH:H,90"
+      text="QB hurry by ROCHELL, Isaac." newcontext="V,1,10,V25">
+    <p_qbh vh="H" name="ROCHELL, Isaac"></p_qbh>
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS25" context="V,1,10,V25" playid="25,4,193" type="R" tokens="RUSH:35,V21, TACK:90"
+      text="Lindsay, S. rush for loss of 4 yards to the UMASS21 (ROCHELL, Isaac)." newcontext="V,2,14,V21">
+    <p_ru vh="V" name="Lindsay, S." gain="-4"></p_ru>
+    <p_tk vh="H" name="ROCHELL, Isaac"></p_tk>
+   </play>
+   <play hasball="UMASS" down="2" togo="14" spot="UMASS21" context="V,2,14,V21" playid="25,5,194" type="P" tokens="PASS:7,C,19,V20 TACK:6"
+      text="Frohnapfel, B. pass complete to Nesmith, S. for loss of 1 yard to the UMASS20 (RUSSELL, K.)." newcontext="V,3,15,V20">
+    <p_pa vh="V" qb="Frohnapfel, B." result="COMP" rcv="Nesmith, S." gain="-1"></p_pa>
+    <p_tk vh="H" name="RUSSELL, K."></p_tk>
+   </play>
+   <play hasball="UMASS" down="3" togo="15" spot="UMASS20" context="V,3,15,V20" playid="25,6,195" type="P" turnover="I" tokens="PASS:7,X,36,H45 RET:36,H42 TACK:1"
+      text="Frohnapfel, B. pass intercepted by LUKE, Cole at the ND45, LUKE, Cole return -3 yards to the ND42 (Sharpe, T.)." newcontext="H,1,10,H42">
+    <p_pa vh="V" qb="Frohnapfel, B." result="INT"></p_pa>
+    <p_ir vh="H" name="LUKE, Cole" at="H45" gain="-3"></p_ir>
+    <p_tk vh="V" name="Sharpe, T."></p_tk>
+   </play>
+   <drivesum plays="4" yards="7" top="2:15" driveindex="25" complete="Y"></drivesum>
+   <drivestart poss="H,H42,00:03" vh="H" spot="H42" clock="00:03" driveindex="26,195"></drivestart>
+   <play hasball="ND" down="1" togo="10" spot="ND42" context="H,1,10,H42" playid="26,1,196" clock="00:03" tokens="{DRIVE}:00:03"
+      text="NOTRE DAME drive start at 00:03." newcontext="H,1,10,H42">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND42" context="H,1,10,H42" playid="26,2,197" type="R" tokens="RUSH:34,H48, TACK:24"
+      text="WILLIAMS,Dexter rush for 6 yards to the ND48 (Singh, C.)." newcontext="H,2,4,H48">
+    <p_ru vh="H" name="WILLIAMS,Dexter" gain="6"></p_ru>
+    <p_tk vh="V" name="Singh, C."></p_tk>
+   </play>
+   <score qtr="3" V="20" H="55"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UMASS">
+    <firstdowns no="3" rush="0" pass="2" penalty="1"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="4" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="07:41"></misc>
+    <rush att="7" yds="2" gain="11" loss="9" td="0" long="0"></rush>
+    <pass comp="5" att="9" int="1" yds="34" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="34" td="0" long="0"></rcv>
+    <punt no="2" yds="83" long="0" blkd="0" tb="0" fc="1" plus50="1" inside20="1" avg="41.5"></punt>
+    <ko no="1" yds="60" ob="0" tb="0"></ko>
+    <defense tackua="12" tacka="10" tot_tack="22" tflua="0" tfla="2" tflyds="1" sacks="0" sackyds="0"></defense>
+    <kr no="2" yds="25" td="0" long="0"></kr>
+    <fumbles no="1" lost="0"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ND">
+    <firstdowns no="7" rush="4" pass="3" penalty="0"></firstdowns>
+    <penalties no="2" yds="20"></penalties>
+    <conversions thirdconv="3" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:19"></misc>
+    <rush att="13" yds="135" gain="136" loss="1" td="3" long="1"></rush>
+    <pass comp="4" att="5" int="0" yds="70" td="0" long="10" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="70" td="0" long="10"></rcv>
+    <punt no="1" yds="57" long="0" blkd="0" tb="1" fc="0" plus50="1" inside20="0" avg="57.0"></punt>
+    <ko no="3" yds="189" ob="0" tb="1"></ko>
+    <pat kickatt="3" kickmade="2"></pat>
+    <defense tackua="12" tacka="4" tot_tack="16" tflua="4" tfla="0" tflyds="10" sacks="0" sackyds="0" brup="3" qbh="3" ff="1" int="1" intyds="-3"></defense>
+    <kr no="1" yds="24" td="0" long="0"></kr>
+    <pr no="1" yds="12" td="0" long="0"></pr>
+    <ir no="1" yds="-3" td="0" long="0"></ir>
+    <scoring td="3" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="ND" down="2" togo="4" spot="ND48" context="H,2,4,H48" playid="26,3,198" type="#" clock="15:00" tokens="Q:4 T:15:00"
+      text="Start of 4th quarter, clock 15:00." newcontext="H,2,4,H48">
+   </play>
+   <play hasball="ND" down="2" togo="4" spot="ND48" context="H,2,4,H48" playid="26,4,199" type="R" first="R" tokens="RUSH:34,V47, TACK:9"
+      text="WILLIAMS,Dexter rush for 5 yards to the UMASS47, 1ST DOWN ND (Dudley-Giles, T)." newcontext="H,1,10,V47">
+    <p_ru vh="H" name="WILLIAMS,Dexter" gain="5"></p_ru>
+    <p_tk vh="V" name="Dudley-Giles, T"></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="UMASS47" context="H,1,10,V47" playid="26,5,200" type="R" tokens="RUSH:34,V42, TACK:42"
+      text="WILLIAMS,Dexter rush for 5 yards to the UMASS42 (Robinson, J.)." newcontext="H,2,5,V42">
+    <p_ru vh="H" name="WILLIAMS,Dexter" gain="5"></p_ru>
+    <p_tk vh="V" name="Robinson, J."></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="5" spot="UMASS42" context="H,2,5,V42" playid="26,6,201" type="R" first="R" tokens="RUSH:34,V32,"
+      text="WILLIAMS,Dexter rush for 10 yards to the UMASS32, 1ST DOWN ND." newcontext="H,1,10,V32">
+    <p_ru vh="H" name="WILLIAMS,Dexter" gain="10"></p_ru>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="UMASS32" context="H,1,10,V32" playid="26,7,202" type="P" tokens="PASS:1B,C,86,V24"
+      text="WIMBUSH,Brandon pass complete to ST. BROWN. E. for 8 yards to the UMASS24." newcontext="H,2,2,V24">
+    <p_pa vh="H" qb="WIMBUSH,Brandon" result="COMP" rcv="ST. BROWN. E." gain="8"></p_pa>
+   </play>
+   <play hasball="ND" down="2" togo="2" spot="UMASS24" context="H,2,2,V24" playid="26,8,203" type="R" tokens="RUSH:TM,V44,"
+      text="TEAM rush for loss of 20 yards to the UMASS44." newcontext="H,3,22,V44">
+    <p_ru vh="H" name="TEAM" gain="-20"></p_ru>
+   </play>
+   <play hasball="ND" down="3" togo="22" spot="UMASS44" context="H,3,22,V44" playid="26,9,204" type="E" tokens="PEN:H,IE,A,53,V49,N"
+      text="PENALTY ND IE (MUSTIPHER, Sam) 5 yards to the UMASS49." newcontext="H,3,27,V49">
+    <p_pn vh="H" code="IE" type="IE" name="MUSTIPHER, Sam" result="ACCEPT" at="V44" yards="5"></p_pn>
+   </play>
+   <play hasball="ND" down="3" togo="27" spot="UMASS49" context="H,3,27,V49" playid="26,10,205" type="P" tokens="PASS:1B,I,16,*"
+      text="WIMBUSH,Brandon pass incomplete to HUNTER JR,Torii." newcontext="H,4,27,V49">
+    <p_pa vh="H" qb="WIMBUSH,Brandon" result="INC" rcv="HUNTER JR,Torii"></p_pa>
+   </play>
+   <play hasball="ND" down="4" togo="27" spot="UMASS49" context="H,4,27,V49" playid="26,11,206" type="U" tokens="PUNT:85,V00 TB:"
+      text="NEWSOME, Tyler punt 49 yards to the UMASS0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="NEWSOME, Tyler" gain="49" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="7" yards="9" top="2:18" driveindex="26" complete="Y"></drivesum>
+   <drivestart poss="V,V20,12:45" vh="V" spot="V20" clock="12:45" driveindex="27,206"></drivestart>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS20" context="V,1,10,V20" playid="27,1,207" clock="12:45" tokens="{DRIVE}:12:45"
+      text="MASSACHUSETTS drive start at 12:45." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS20" context="V,1,10,V20" playid="27,2,208" type="R" first="R" tokens="RUSH:8A,V37, TACK:10"
+      text="Young, M. rush for 17 yards to the UMASS37, 1ST DOWN UMASS (REDFIELD, Max)." newcontext="V,1,10,V37">
+    <p_ru vh="V" name="Young, M." gain="17"></p_ru>
+    <p_tk vh="H" name="REDFIELD, Max"></p_tk>
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS37" context="V,1,10,V37" playid="27,3,209" type="P" tokens="PASS:7,I,20,*"
+      text="Frohnapfel, B. pass incomplete to Woodley, L.." newcontext="V,2,10,V37">
+    <p_pa vh="V" qb="Frohnapfel, B." result="INC" rcv="Woodley, L."></p_pa>
+   </play>
+   <play hasball="UMASS" down="2" togo="10" spot="UMASS37" context="V,2,10,V37" playid="27,4,210" type="R" tokens="RUSH:20,V38, TACK:5,48"
+      text="Woodley, L. rush for 1 yard to the UMASS38 (MORGAN, Nyles;MARTINI, Greer)." newcontext="V,3,9,V38">
+    <p_ru vh="V" name="Woodley, L." gain="1"></p_ru>
+    <p_tk vh="H" name="MORGAN, Nyles" assist="Y"></p_tk>
+    <p_tk vh="H" name="MARTINI, Greer" assist="Y"></p_tk>
+   </play>
+   <play hasball="UMASS" down="3" togo="9" spot="UMASS38" context="V,3,9,V38" playid="27,5,211" type="P" first="P" tokens="PASS:7,C,1,H47 TACK:10"
+      text="Frohnapfel, B. pass complete to Sharpe, T. for 15 yards to the ND47, 1ST DOWN UMASS (REDFIELD, Max)." newcontext="V,1,10,H47">
+    <p_pa vh="V" qb="Frohnapfel, B." result="COMP" rcv="Sharpe, T." gain="15"></p_pa>
+    <p_tk vh="H" name="REDFIELD, Max"></p_tk>
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="ND47" context="V,1,10,H47" playid="27,6,212" type="P" tokens="PASS:7,C,10,H43 TACK:29"
+      text="Frohnapfel, B. pass complete to Michel, M. for 4 yards to the ND43 (BARATTI, Nicky)." newcontext="V,2,6,H43">
+    <p_pa vh="V" qb="Frohnapfel, B." result="COMP" rcv="Michel, M." gain="4"></p_pa>
+    <p_tk vh="H" name="BARATTI, Nicky"></p_tk>
+   </play>
+   <play hasball="UMASS" down="2" togo="6" spot="ND43" context="V,2,6,H43" playid="27,7,213" type="P" first="P" tokens="PASS:7,C,1,H32 TACK:21"
+      text="Frohnapfel, B. pass complete to Sharpe, T. for 11 yards to the ND32, 1ST DOWN UMASS (WATKINS, Nick)." newcontext="V,1,10,H32">
+    <p_pa vh="V" qb="Frohnapfel, B." result="COMP" rcv="Sharpe, T." gain="11"></p_pa>
+    <p_tk vh="H" name="WATKINS, Nick"></p_tk>
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="ND32" context="V,1,10,H32" playid="27,8,214" type="P" first="P" tokens="PASS:7,C,1,H18 OB:"
+      text="Frohnapfel, B. pass complete to Sharpe, T. for 14 yards to the ND18, 1ST DOWN UMASS, out-of-bounds." ob="Y" newcontext="V,1,10,H18">
+    <p_pa vh="V" qb="Frohnapfel, B." result="COMP" rcv="Sharpe, T." gain="14"></p_pa>
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="ND18" context="V,1,10,H18" playid="27,9,215" type="P" tokens="PASS:7,I,19,* BRUP:24"
+      text="Frohnapfel, B. pass incomplete to Nesmith, S. (COLEMAN, Nick)." newcontext="V,2,10,H18">
+    <p_pa vh="V" qb="Frohnapfel, B." result="INC" rcv="Nesmith, S."></p_pa>
+    <p_bu vh="H" name="COLEMAN, Nick"></p_bu>
+   </play>
+   <play hasball="UMASS" down="2" togo="10" spot="ND18" context="V,2,10,H18" playid="27,10,216" type="P" tokens="PASS:7,I,14,* BRUP:24"
+      text="Frohnapfel, B. pass incomplete to Harris, S. (COLEMAN, Nick)." newcontext="V,3,10,H18">
+    <p_pa vh="V" qb="Frohnapfel, B." result="INC" rcv="Harris, S."></p_pa>
+    <p_bu vh="H" name="COLEMAN, Nick"></p_bu>
+   </play>
+   <play hasball="UMASS" down="3" togo="10" spot="ND18" context="V,3,10,H18" playid="27,11,217" type="P" tokens="PASS:7,I,10,*"
+      text="Frohnapfel, B. pass incomplete to Michel, M.." newcontext="V,4,10,H18">
+    <p_pa vh="V" qb="Frohnapfel, B." result="INC" rcv="Michel, M."></p_pa>
+   </play>
+   <play hasball="UMASS" down="4" togo="10" spot="ND18" context="V,4,10,H18" playid="27,12,218" type="P" tokens="PASS:7,I,10,*"
+      text="Frohnapfel, B. pass incomplete to Michel, M.." newcontext="H,1,10,H18">
+    <p_pa vh="V" qb="Frohnapfel, B." result="INC" rcv="Michel, M."></p_pa>
+   </play>
+   <drivesum plays="11" yards="62" top="2:34" driveindex="27" complete="Y"></drivesum>
+   <drivestart poss="H,H18,10:11" vh="H" spot="H18" clock="10:11" driveindex="28,218"></drivestart>
+   <play hasball="ND" down="1" togo="10" spot="ND18" context="H,1,10,H18" playid="28,1,219" clock="10:11" tokens="{DRIVE}:10:11"
+      text="NOTRE DAME drive start at 10:11." newcontext="H,1,10,H18">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND18" context="H,1,10,H18" playid="28,2,220" type="R" tokens="RUSH:33,H22, TACK:90"
+      text="ADAMS, Josh rush for 4 yards to the ND22 (Richard, A.)." newcontext="H,2,6,H22">
+    <p_ru vh="H" name="ADAMS, Josh" gain="4"></p_ru>
+    <p_tk vh="V" name="Richard, A."></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="6" spot="ND22" context="H,2,6,H22" playid="28,3,221" type="R" tokens="RUSH:33,H25, TACK:34,60"
+      text="ADAMS, Josh rush for 3 yards to the ND25 (Casali, S.;Asante, E.)." newcontext="H,3,3,H25">
+    <p_ru vh="H" name="ADAMS, Josh" gain="3"></p_ru>
+    <p_tk vh="V" name="Casali, S." assist="Y"></p_tk>
+    <p_tk vh="V" name="Asante, E." assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="3" togo="3" spot="ND25" context="H,3,3,H25" playid="28,4,222" type="R" first="R" tokens="RUSH:1B,H30, TACK:2A"
+      text="WIMBUSH,Brandon rush for 5 yards to the ND30, 1ST DOWN ND (Hamilton, J.)." newcontext="H,1,10,H30">
+    <p_ru vh="H" name="WIMBUSH,Brandon" gain="5"></p_ru>
+    <p_tk vh="V" name="Hamilton, J."></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND30" context="H,1,10,H30" playid="28,5,223" type="R" first="R" score="Y" vscore="20" hscore="61" clock="08:34" tokens="RUSH:33,V00, T:08:34"
+      text="ADAMS, Josh rush for 70 yards to the UMASS0, 1ST DOWN ND, TOUCHDOWN, clock 08:34." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="ADAMS, Josh" gain="70"></p_ru>
+   </play>
+   <play hasball="ND" down="1" togo="0" spot="UMASS03" context="H,1,0,V03" playid="28,6,224" type="X" score="Y" vscore="20" hscore="62" tokens="PAT:K,19,G"
+      text="YOON, Justin kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="YOON, Justin" qb="YOON, Justin" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="20" H="62"></score>
+   <drivesum plays="4" yards="82" top="1:37" driveindex="28" complete="Y"></drivesum>
+   <play hasball="ND" down="1" togo="0" spot="ND35" context="H,1,0,H35" playid="28,7,225" type="K" tokens="KO:85,V02 RET:2D,V23 TACK:12,21"
+      text="NEWSOME, Tyler kickoff 63 yards to the UMASS2, Isabella, A. return 21 yards to the UMASS23 (BUTLER, Devin;WATKINS, Nick)." newcontext="V,1,10,V23">
+    <p_ko vh="H" name="NEWSOME, Tyler" gain="63"></p_ko>
+    <p_kr vh="V" name="Isabella, A." gain="21"></p_kr>
+    <p_tk vh="H" name="BUTLER, Devin" assist="Y"></p_tk>
+    <p_tk vh="H" name="WATKINS, Nick" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V23,08:34" vh="V" spot="V23" clock="08:34" driveindex="29,225"></drivestart>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS23" context="V,1,10,V23" playid="29,1,226" clock="08:34" tokens="{DRIVE}:08:34"
+      text="MASSACHUSETTS drive start at 08:34." newcontext="V,1,10,V23">
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS23" context="V,1,10,V23" playid="29,2,227" type="E" tokens="PEN:V,HO,A,TM,V13,N"
+      text="PENALTY UMASS holding 10 yards to the UMASS13." newcontext="V,1,20,V13">
+    <p_pn vh="V" code="HO" type="holding" result="ACCEPT" at="V23" yards="10"></p_pn>
+   </play>
+   <play hasball="UMASS" down="1" togo="20" spot="UMASS13" context="V,1,20,V13" playid="29,3,228" type="R" tokens="RUSH:8A,V15, TACK:89,55"
+      text="Young, M. rush for 2 yards to the UMASS15 (MATUSKA, Jacob;BONNER, J.)." newcontext="V,2,18,V15">
+    <p_ru vh="V" name="Young, M." gain="2"></p_ru>
+    <p_tk vh="H" name="MATUSKA, Jacob" assist="Y"></p_tk>
+    <p_tk vh="H" name="BONNER, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="UMASS" down="2" togo="18" spot="UMASS15" context="V,2,18,V15" playid="29,4,229" type="P" tokens="PASS:2,C,20,V24 TACK:5,4"
+      text="Comis, R. pass complete to Woodley, L. for 9 yards to the UMASS24 (MORGAN, Nyles;CONEY, Te'von)." newcontext="V,3,9,V24">
+    <p_pa vh="V" qb="Comis, R." result="COMP" rcv="Woodley, L." gain="9"></p_pa>
+    <p_tk vh="H" name="MORGAN, Nyles" assist="Y"></p_tk>
+    <p_tk vh="H" name="CONEY, Te'von" assist="Y"></p_tk>
+   </play>
+   <play hasball="UMASS" down="3" togo="9" spot="UMASS24" context="V,3,9,V24" playid="29,5,230" type="P" first="E" tokens="PASS:2,C,20,V24 TACK:5 QBH:H,44 PEN:H,FM,A,5,V39,1"
+      text="Comis, R. pass complete to Woodley, L. for no gain to the UMASS24 (MORGAN, Nyles), QB hurry by RANDOLPH, Doug, PENALTY ND face mask (MORGAN, Nyles) 15 yards to the UMASS39, 1ST DOWN UMASS." newcontext="V,1,10,V39">
+    <p_pa vh="V" qb="Comis, R." result="COMP" rcv="Woodley, L." gain="0"></p_pa>
+    <p_tk vh="H" name="MORGAN, Nyles"></p_tk>
+    <p_pn vh="H" code="FM" type="face mask" name="MORGAN, Nyles" result="ACCEPT" at="V24" yards="15"></p_pn>
+    <p_qbh vh="H" name="RANDOLPH, Doug"></p_qbh>
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS39" context="V,1,10,V39" playid="29,6,231" tokens="D:1,10"
+      text="1st and 10." newcontext="V,1,10,V39">
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS39" context="V,1,10,V39" playid="29,7,232" type="R" tokens="RUSH:35,V39, TACK:48,5"
+      text="Lindsay, S. rush for no gain to the UMASS39 (MARTINI, Greer;MORGAN, Nyles)." newcontext="V,2,10,V39">
+    <p_ru vh="V" name="Lindsay, S." gain="0"></p_ru>
+    <p_tk vh="H" name="MARTINI, Greer" assist="Y"></p_tk>
+    <p_tk vh="H" name="MORGAN, Nyles" assist="Y"></p_tk>
+   </play>
+   <play hasball="UMASS" down="2" togo="10" spot="UMASS39" context="V,2,10,V39" playid="29,8,233" type="P" tokens="PASS:2,C,16,V44 TACK:4"
+      text="Comis, R. pass complete to Long, E. for 5 yards to the UMASS44 (CONEY, Te'von)." newcontext="V,3,5,V44">
+    <p_pa vh="V" qb="Comis, R." result="COMP" rcv="Long, E." gain="5"></p_pa>
+    <p_tk vh="H" name="CONEY, Te'von"></p_tk>
+   </play>
+   <play hasball="UMASS" down="3" togo="5" spot="UMASS44" context="V,3,5,V44" playid="29,9,234" type="P" first="P" tokens="PASS:2,C,16,V50 TACK:5 QBH:H,10"
+      text="Comis, R. pass complete to Long, E. for 6 yards to the 50 yardline, 1ST DOWN UMASS (MORGAN, Nyles), QB hurry by REDFIELD, Max." newcontext="V,1,10,V50">
+    <p_pa vh="V" qb="Comis, R." result="COMP" rcv="Long, E." gain="6"></p_pa>
+    <p_tk vh="H" name="MORGAN, Nyles"></p_tk>
+    <p_qbh vh="H" name="REDFIELD, Max"></p_qbh>
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS50" context="V,1,10,V50" playid="29,10,235" type="R" tokens="RUSH:2,V50, TACK:55,5"
+      text="Comis, R. rush for no gain to the 50 yardline (BONNER, J.;MORGAN, Nyles)." newcontext="V,2,10,V50">
+    <p_ru vh="V" name="Comis, R." gain="0"></p_ru>
+    <p_tk vh="H" name="BONNER, J." assist="Y"></p_tk>
+    <p_tk vh="H" name="MORGAN, Nyles" assist="Y"></p_tk>
+   </play>
+   <play hasball="UMASS" down="2" togo="10" spot="UMASS50" context="V,2,10,V50" playid="29,11,236" type="P" tokens="PASS:2,C,14,H44 TACK:48"
+      text="Comis, R. pass complete to Harris, S. for 6 yards to the ND44 (MARTINI, Greer)." newcontext="V,3,4,H44">
+    <p_pa vh="V" qb="Comis, R." result="COMP" rcv="Harris, S." gain="6"></p_pa>
+    <p_tk vh="H" name="MARTINI, Greer"></p_tk>
+   </play>
+   <play hasball="UMASS" down="3" togo="4" spot="ND44" context="V,3,4,H44" playid="29,12,237" type="P" first="P" tokens="PASS:2,C,35,H33 TACK:4,10"
+      text="Comis, R. pass complete to Lindsay, S. for 11 yards to the ND33, 1ST DOWN UMASS (CONEY, Te'von;REDFIELD, Max)." newcontext="V,1,10,H33">
+    <p_pa vh="V" qb="Comis, R." result="COMP" rcv="Lindsay, S." gain="11"></p_pa>
+    <p_tk vh="H" name="CONEY, Te'von" assist="Y"></p_tk>
+    <p_tk vh="H" name="REDFIELD, Max" assist="Y"></p_tk>
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="ND33" context="V,1,10,H33" playid="29,13,238" type="P" first="P" score="Y" vscore="26" hscore="62" clock="03:35" tokens="PASS:2,C,19,H00 T:03:35"
+      text="Comis, R. pass complete to Nesmith, S. for 33 yards to the ND0, 1ST DOWN UMASS, TOUCHDOWN, clock 03:35." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Comis, R." result="COMP" rcv="Nesmith, S." gain="33"></p_pa>
+   </play>
+   <play hasball="UMASS" down="1" togo="0" spot="ND03" context="V,1,0,H03" playid="29,14,239" type="X" score="Y" vscore="27" hscore="62" tokens="PAT:K,31,G"
+      text="Caggiano, M. kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Caggiano, M." qb="Caggiano, M." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="27" H="62"></score>
+   <drivesum plays="10" yards="77" top="4:59" driveindex="29" complete="Y"></drivesum>
+   <play hasball="UMASS" down="1" togo="0" spot="UMASS35" context="V,1,0,V35" playid="29,15,240" type="K" tokens="KO:23,H01 RET:34,H21 TACK:26,46"
+      text="Lucas, B. kickoff 64 yards to the ND1, WILLIAMS,Dexter return 20 yards to the ND21 (Addo, J.;Amato, L.)." newcontext="H,1,10,H21">
+    <p_ko vh="V" name="Lucas, B." gain="64"></p_ko>
+    <p_kr vh="H" name="WILLIAMS,Dexter" gain="20"></p_kr>
+    <p_tk vh="V" name="Addo, J." assist="Y"></p_tk>
+    <p_tk vh="V" name="Amato, L." assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H21,03:35" vh="H" spot="H21" clock="03:35" driveindex="30,240"></drivestart>
+   <play hasball="ND" down="1" togo="10" spot="ND21" context="H,1,10,H21" playid="30,1,241" clock="03:35" tokens="{DRIVE}:03:35"
+      text="NOTRE DAME drive start at 03:35." newcontext="H,1,10,H21">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND21" context="H,1,10,H21" playid="30,2,242" type="R" first="R" tokens="RUSH:1B,H47, OB:"
+      text="WIMBUSH,Brandon rush for 26 yards to the ND47, 1ST DOWN ND, out-of-bounds." ob="Y" newcontext="H,1,10,H47">
+    <p_ru vh="H" name="WIMBUSH,Brandon" gain="26"></p_ru>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND47" context="H,1,10,H47" playid="30,3,243" type="R" tokens="RUSH:34,H49, TACK:24"
+      text="WILLIAMS,Dexter rush for 2 yards to the ND49 (Singh, C.)." newcontext="H,2,8,H49">
+    <p_ru vh="H" name="WILLIAMS,Dexter" gain="2"></p_ru>
+    <p_tk vh="V" name="Singh, C."></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="8" spot="ND49" context="H,2,8,H49" playid="30,4,244" type="R" tokens="RUSH:34,V45, TACK:47"
+      text="WILLIAMS,Dexter rush for 6 yards to the UMASS45 (Dowe Jr., M.)." newcontext="H,3,2,V45">
+    <p_ru vh="H" name="WILLIAMS,Dexter" gain="6"></p_ru>
+    <p_tk vh="V" name="Dowe Jr., M."></p_tk>
+   </play>
+   <play hasball="ND" down="3" togo="2" spot="UMASS45" context="H,3,2,V45" playid="30,5,245" type="P" tokens="PASS:1B,C,9A,V45 TACK:26"
+      text="WIMBUSH,Brandon pass complete to SANDERS, C.J. for no gain to the UMASS45 (Addo, J.)." newcontext="H,4,2,V45">
+    <p_pa vh="H" qb="WIMBUSH,Brandon" result="COMP" rcv="SANDERS, C.J." gain="0"></p_pa>
+    <p_tk vh="V" name="Addo, J."></p_tk>
+   </play>
+   <play hasball="ND" down="4" togo="2" spot="UMASS45" context="H,4,2,V45" playid="30,6,246" type="#" clock="00:52" tokens="TOUT:H T:00:52"
+      text="Timeout Notre Dame, clock 00:52." newcontext="H,4,2,V45">
+    <p_to vh="H" team="Notre Dame"></p_to>
+   </play>
+   <play hasball="ND" down="4" togo="2" spot="UMASS45" context="H,4,2,V45" playid="30,7,247" type="U" tokens="PUNT:85,V00 TB:"
+      text="NEWSOME, Tyler punt 45 yards to the UMASS0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="NEWSOME, Tyler" gain="45" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="4" yards="34" top="2:51" driveindex="30" complete="Y"></drivesum>
+   <drivestart poss="V,V20,00:44" vh="V" spot="V20" clock="00:44" driveindex="31,247"></drivestart>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS20" context="V,1,10,V20" playid="31,1,248" clock="00:44" tokens="{DRIVE}:00:44"
+      text="MASSACHUSETTS drive start at 00:44." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="UMASS" down="1" togo="10" spot="UMASS20" context="V,1,10,V20" playid="31,2,249" type="P" tokens="PASS:2,C,2D,V19 TACK:48"
+      text="Comis, R. pass complete to Isabella, A. for loss of 1 yard to the UMASS19 (MARTINI, Greer)." newcontext="V,2,11,V19">
+    <p_pa vh="V" qb="Comis, R." result="COMP" rcv="Isabella, A." gain="-1"></p_pa>
+    <p_tk vh="H" name="MARTINI, Greer"></p_tk>
+   </play>
+   <play hasball="UMASS" down="2" togo="11" spot="UMASS19" context="V,2,11,V19" playid="31,3,250" type="R" tokens="RUSH:2,V24, TACK:48"
+      text="Comis, R. rush for 5 yards to the UMASS24 (MARTINI, Greer)." newcontext="V,3,6,V24">
+    <p_ru vh="V" name="Comis, R." gain="5"></p_ru>
+    <p_tk vh="H" name="MARTINI, Greer"></p_tk>
+   </play>
+   <play hasball="UMASS" down="3" togo="6" spot="UMASS24" context="V,3,6,V24" playid="31,4,251" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of game, clock 00:00." newcontext="V,3,6,V24">
+   </play>
+   <drivesum plays="2" yards="4" top="0:44" driveindex="31" complete="Y"></drivesum>
+   <score final="Y" V="27" H="62"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UMASS">
+    <firstdowns no="8" rush="1" pass="6" penalty="1"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="3" thirdatt="4" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:17"></misc>
+    <rush att="6" yds="25" gain="25" loss="0" td="0" long="0"></rush>
+    <pass comp="12" att="17" int="0" yds="113" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="12" yds="113" td="1" long="0"></rcv>
+    <ko no="1" yds="64" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="7" tacka="4" tot_tack="11" sacks="0" sackyds="0"></defense>
+    <kr no="1" yds="21" td="0" long="0"></kr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ND">
+    <firstdowns no="5" rush="5" pass="0" penalty="0"></firstdowns>
+    <penalties no="2" yds="20"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:43"></misc>
+    <rush att="11" yds="116" gain="136" loss="20" td="1" long="12"></rush>
+    <pass comp="2" att="3" int="0" yds="8" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="8" td="0" long="0"></rcv>
+    <punt no="2" yds="94" long="0" blkd="0" tb="2" fc="0" plus50="0" inside20="0" avg="47.0"></punt>
+    <ko no="1" yds="63" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="10" tacka="14" tot_tack="24" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" brup="2" qbh="2"></defense>
+    <kr no="1" yds="20" td="0" long="0"></kr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="V" id="UMASS" down="3" togo="6" spot="UMASS24" context="V,3,6,V24" qtr="4" clock="00:00" vtoh="0" htoh="1"
+       lastplay="End of game, clock 00:00."></downtogo>
+ </plays>
+ <message text=""></message>
+ <dnp vh="V" id="UMASS">
+  <player name="Sosinski, J." checkname="SOSINSKI,J" uni="1H" class="FR" gp="0" code="1H"></player>
+  <player name="Williams, M." checkname="WILLIAMS,M" uni="2F" class="FR" gp="0" code="2F"></player>
+  <player name="Morel, M." checkname="MOREL,M" uni="2C" class="FR" gp="0" code="2C"></player>
+  <player name="Brisbane, M." checkname="BRISBANE,M" uni="2B" class="SO" gp="0" code="2B"></player>
+  <player name="Devariste, J." checkname="DEVARISTE,J" uni="3I" class="FR" gp="0" code="3I"></player>
+  <player name="Whipple, A." checkname="WHIPPLE,A" uni="3A" class="SO" gp="0" code="3A"></player>
+  <player name="Moses, L." checkname="MOSES,L" uni="4A" class="FR" gp="0" code="4A"></player>
+  <player name="Kern, K." checkname="KERN,K" uni="4G" class="FR" gp="0" code="4G"></player>
+  <player name="Murray, S." checkname="MURRAY,S" uni="5B" class="FR" gp="0" code="5B"></player>
+  <player name="Derolus, J." checkname="DEROLUS,J" uni="8B" class="FR" gp="0" code="8B"></player>
+  <player name="Coveney, J." checkname="COVENEY,J" uni="9B" class="FR" gp="0" code="9B"></player>
+  <player name="Horn, K." checkname="HORN,K" uni="9F" class="FR" gp="0" code="9F"></player>
+  <player name="Yongue, T." checkname="YONGUE,T" uni="9C" class="FR" gp="0" code="9C"></player>
+  <player name="Evans, D." checkname="EVANS,D" uni="9A" class="FR" gp="0" code="9A"></player>
+  <player name="Woods, D." checkname="WOODS,D" uni="11" class="SO" gp="0" code="11"></player>
+  <player name="West, R." checkname="WEST,R" uni="13" class="FR" gp="0" code="13"></player>
+  <player name="Bailey-Smith, K" checkname="BAILEY-SMITH,K" uni="21" class="SR" gp="0" code="21"></player>
+  <player name="Abrokwah, S." checkname="ABROKWAH,S" uni="22" class="JR" gp="0" code="22"></player>
+  <player name="Tuleja, M." checkname="TULEJA,M" uni="32" class="SR" gp="0" code="32"></player>
+  <player name="Beckford, D." checkname="BECKFORD,D" uni="36" class="SR" gp="0" code="36"></player>
+  <player name="Lucier, J." checkname="LUCIER,J" uni="40" class="FR" gp="0" code="40"></player>
+  <player name="Downey, D." checkname="DOWNEY,D" uni="41" class="SO" gp="0" code="41"></player>
+  <player name="Mangram, B." checkname="MANGRAM,B" uni="43" class="FR" gp="0" code="43"></player>
+  <player name="Yerardi, M." checkname="YERARDI,M" uni="50" class="FR" gp="0" code="50"></player>
+  <player name="Appia, C." checkname="APPIA,C" uni="51" class="FR" gp="0" code="51"></player>
+  <player name="Langston, V." checkname="LANGSTON,V" uni="52" class="JR" gp="0" code="52"></player>
+  <player name="Parsons, J." checkname="PARSONS,J" uni="56" class="FR" gp="0" code="56"></player>
+  <player name="Driscoll, J." checkname="DRISCOLL,J" uni="58" class="FR" gp="0" code="58"></player>
+  <player name="Comaroto, P." checkname="COMAROTO,P" uni="59" class="FR" gp="0" code="59"></player>
+  <player name="Belcher, Z." checkname="BELCHER,Z" uni="62" class="SR" gp="0" code="62"></player>
+  <player name="Angelas, D." checkname="ANGELAS,D" uni="63" class="FR" gp="0" code="63"></player>
+  <player name="Fernandez, A." checkname="FERNANDEZ,A" uni="66" class="FR" gp="0" code="66"></player>
+  <player name="DiNicola, D." checkname="DINICOLA,D" uni="67" class="FR" gp="0" code="67"></player>
+  <player name="Dennis, B." checkname="DENNIS,B" uni="69" class="FR" gp="0" code="69"></player>
+  <player name="Dumais, D." checkname="DUMAIS,D" uni="72" class="FR" gp="0" code="72"></player>
+  <player name="Williams, J." checkname="WILLIAMS,J" uni="80" class="SR" gp="0" code="80"></player>
+  <player name="Adarkwah, A." checkname="ADARKWAH,A" uni="84" class="FR" gp="0" code="84"></player>
+  <player name="Taylor, L." checkname="TAYLOR,L" uni="86" class="FR" gp="0" code="86"></player>
+  <player name="Reynolds, T." checkname="REYNOLDS,T" uni="87" class="FR" gp="0" code="87"></player>
+  <player name="Davis, B." checkname="DAVIS,B" uni="88" class="SR" gp="0" code="88"></player>
+  <player name="Josey, D." checkname="JOSEY,D" uni="89" class="FR" gp="0" code="89"></player>
+  <player name="Carter, C." checkname="CARTER,C" uni="91" class="FR" gp="0" code="91"></player>
+  <player name="Noel, J." checkname="NOEL,J" uni="93" class="SO" gp="0" code="93"></player>
+  <player name="Patton, M." checkname="PATTON,M" uni="96" class="FR" gp="0" code="96"></player>
+  <player name="Kinsey, A." checkname="KINSEY,A" uni="97" class="FR" gp="0" code="97"></player>
+  <player name="Harley, D." checkname="HARLEY,D" uni="98" class="FR" gp="0" code="98"></player>
+ </dnp>
+ <dnp vh="H" id="ND">
+  <player name="WILLIAMS, M." checkname="WILLIAMS,M" uni="1F" class="FR" gp="0" code="1F"></player>
+  <player name="HENRY, Nolan" checkname="HENRY,NOLAN" uni="1E" class="FR" gp="0" code="1E"></player>
+  <player name="REGAN, Robert" checkname="REGAN,ROBERT" uni="1G" class="FR" gp="0" code="1G"></player>
+  <player name="ROSS, Austin" checkname="ROSS,AUSTIN" uni="2D" class="JR" gp="0" code="2D"></player>
+  <player name="KOHLER, Sam" checkname="KOHLER,SAM" uni="2E" class="SO" gp="0" code="2E"></player>
+  <player name="WHITE, Ashton" checkname="WHITE,ASHTON" uni="2B" class="FR" gp="0" code="2B"></player>
+  <player name="ALLEN, Travis" checkname="ALLEN,TRAVIS" uni="2A" class="SR" gp="0" code="2A"></player>
+  <player name="BRYAN, Cam" checkname="BRYAN,CAM" uni="3A" class="SR" gp="0" code="3A"></player>
+  <player name="FINKE, Chris" checkname="FINKE,CHRIS" uni="3C" class="FR" gp="0" code="3C"></player>
+  <player name="THOMPSON, Jimmy" checkname="THOMPSON,JIMMY" uni="4C" class="FR" gp="0" code="4C"></player>
+  <player name="CONRAD, Kyle" checkname="CONRAD,KYLE" uni="4B" class="FR" gp="0" code="4B"></player>
+  <player name="McOSKER, EAMON" checkname="MCOSKER,EAMON" uni="4D" class="SR" gp="0" code="4D"></player>
+  <player name="ROSS, Bailey" checkname="ROSS,BAILEY" uni="4E" class="JR" gp="0" code="4E"></player>
+  <player name="MAZZA, Patrick" checkname="MAZZA,PATRICK" uni="8C" class="JR" gp="0" code="8C"></player>
+  <player name="SEBASTIAN, A." checkname="SEBASTIAN,A" uni="8A" class="SR" gp="0" code="8A"></player>
+  <player name="SHERIDAN,Buster" checkname="SHERIDAN,BUSTER" uni="8B" class="JR" gp="0" code="8B"></player>
+  <player name="ZAIRE, Malik" checkname="ZAIRE,MALIK" uni="8" class="JR" gp="0" code="8"></player>
+  <player name="SMITH, Hunter" checkname="SMITH,HUNTER" uni="9B" class="SR" gp="0" code="9B"></player>
+  <player name="BRENT, Justin" checkname="BRENT,JUSTIN" uni="11" class="SO" gp="0" code="11"></player>
+  <player name="LUATUA, Tyler" checkname="LUATUA,TYLER" uni="13" class="SO" gp="0" code="13"></player>
+  <player name="HOLMES, Corey" checkname="HOLMES,COREY" uni="15" class="SO" gp="0" code="15"></player>
+  <player name="TRANQUILL, Drue" checkname="TRANQUILL,DRUE" uni="23" class="SO" gp="0" code="23"></player>
+  <player name="FOLSTON, Tarean" checkname="FOLSTON,TAREAN" uni="25" class="JR" gp="0" code="25"></player>
+  <player name="BILAL, Asmar" checkname="BILAL,ASMAR" uni="27" class="FR" gp="0" code="27"></player>
+  <player name="BARAJAS, Josh" checkname="BARAJAS,JOSH" uni="30" class="FR" gp="0" code="30"></player>
+  <player name="HAMMANN, Grant" checkname="HAMMANN,GRANT" uni="35" class="SO" gp="0" code="35"></player>
+  <player name="MURPHY, Kier" checkname="MURPHY,KIER" uni="40" class="FR" gp="0" code="40"></player>
+  <player name="RINEY, Jeff" checkname="RINEY,JEFF" uni="42" class="FR" gp="0" code="42"></player>
+  <player name="CHERESON, John" checkname="CHERESON,JOHN" uni="43" class="JR" gp="0" code="43"></player>
+  <player name="ANDERSON, Josh" checkname="ANDERSON,JOSH" uni="46" class="SR" gp="0" code="46"></player>
+  <player name="HUTSON, Brandon" checkname="HUTSON,BRANDON" uni="49" class="FR" gp="0" code="49"></player>
+  <player name="SPRUELL, Devyn" checkname="SPRUELL,DEVYN" uni="51" class="FR" gp="0" code="51"></player>
+  <player name="FEIST, Lincoln" checkname="FEIST,LINCOLN" uni="54" class="FR" gp="0" code="54"></player>
+  <player name="TAYLOR, Elijah" checkname="TAYLOR,ELIJAH" uni="58" class="FR" gp="0" code="58"></player>
+  <player name="BUSH, Sam" checkname="BUSH,SAM" uni="63" class="SO" gp="0" code="63"></player>
+  <player name="KILANDER, Ryan" checkname="KILANDER,RYAN" uni="64" class="SO" gp="0" code="64"></player>
+  <player name="HOGE, Tristan" checkname="HOGE,TRISTAN" uni="66" class="FR" gp="0" code="66"></player>
+  <player name="BYRNE, Jimmy" checkname="BYRNE,JIMMY" uni="67" class="SO" gp="0" code="67"></player>
+  <player name="TIASSUM,Brandon" checkname="TIASSUM,BRANDON" uni="77" class="FR" gp="0" code="77"></player>
+  <player name="SMYTHE, Durham" checkname="SMYTHE,DURHAM" uni="80" class="JR" gp="0" code="80"></player>
+  <player name="BOYKIN, Miles" checkname="BOYKIN,MILES" uni="81" class="FR" gp="0" code="81"></player>
+  <player name="GUYTON, Jalen" checkname="GUYTON,JALEN" uni="83" class="FR" gp="0" code="83"></player>
+  <player name="SUTTMAN, Ben" checkname="SUTTMAN,BEN" uni="84" class="JR" gp="0" code="84"></player>
+  <player name="CENTLIVRE, K." checkname="CENTLIVRE,K" uni="87" class="SO" gp="0" code="87"></player>
+  <player name="ROBINSON, Corey" checkname="ROBINSON,COREY" uni="88" class="JR" gp="0" code="88"></player>
+  <player name="HAYES, Jay" checkname="HAYES,JAY" uni="93" class="SO" gp="0" code="93"></player>
+ </dnp>
+ <longplays thresh="70">
+  <longplay vh="V" id="UMASS" yds="83" play="RUSH" players="Young, M." td="Y"></longplay>
+  <longplay vh="H" id="ND" yds="70" play="RUSH" players="ADAMS, Josh" td="Y"></longplay>
+ </longplays>
+</fbgame>

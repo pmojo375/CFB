@@ -1,0 +1,1830 @@
+<fbgame source="Tas Football" version="4.16.07" generated="11/22/2015">
+ <venue gameid="FAU_1121" visid="FAU" homeid="UF" visname="FAU" homename="Florida"
+      date="11/21/2015" location="Gainesville, Fla." stadium="Ben Hill Griffin"
+      start="12:02 pm" end="3:35 pm"
+      duration="3:33" attend="90107" temp="74" wind="ENE 5" weather="Cloudy, 80% humidity">
+  <officials ref="John McDaid" ump="Tom Quick" line="Randall Kizer" lj="Paul Petrisko" bj="John Wright" fj="Phillip Davenpo" sj="Chris Conley" cj="Brian Davis" alt="Brian Davis"></officials>
+  <rules qtrs="4" mins="15" downs="4" yds="10" kospot="35" tbspot="20" kotbspot="25" patspot="3" safspot="20" td="6" fg="3" pat="1" patx="2" saf="2" defpat="2" rouge="1" field="100" toh="3" sackrush="Y" fgaplay="Y" netpunttb="Y"></rules>
+ </venue>
+ <team vh="V" code="229" id="FAU" name="FAU" record="2-9" conf-record="2-5" abb="A">
+  <linescore prds="5" line="0,0,7,7,0" score="14">
+   <lineprd prd="1" score="0"></lineprd>
+   <lineprd prd="2" score="0"></lineprd>
+   <lineprd prd="3" score="7"></lineprd>
+   <lineprd prd="4" score="7"></lineprd>
+   <lineprd prd="5" score="0"></lineprd>
+  </linescore>
+  <totals totoff_plays="84" totoff_yards="299" totoff_avg="3.6">
+   <firstdowns no="18" rush="11" pass="6" penalty="1"></firstdowns>
+   <penalties no="7" yds="55"></penalties>
+   <conversions thirdconv="5" thirdatt="19" fourthconv="1" fourthatt="2"></conversions>
+   <fumbles no="2" lost="2"></fumbles>
+   <misc yds="0" top="29:58" ona="0" onm="0" ptsto="7"></misc>
+   <redzone att="2" scores="1" points="7" tdrush="0" tdpass="1" fgmade="0" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="1" endgame="0"></redzone>
+   <rush att="45" yds="140" gain="176" loss="36" td="0" long="12"></rush>
+   <pass comp="20" att="39" int="1" yds="159" td="1" long="28" sacks="5" sackyds="29"></pass>
+   <rcv no="20" yds="159" td="1" long="28"></rcv>
+   <punt no="8" yds="379" long="60" blkd="0" tb="0" fc="3" plus50="3" inside20="3" avg="47.4"></punt>
+   <ko no="3" yds="195" ob="0" tb="2"></ko>
+   <fg made="0" att="1" long="0" blkd="0"></fg>
+   <pat kickatt="2" kickmade="2"></pat>
+   <defense tackua="43" tacka="18" tot_tack="61" tflua="9" tfla="2" tflyds="41" sacks="5" sackyds="32" qbh="4" blkd="1" ff="1" fr="1" fryds="0" int="1" intyds="0"></defense>
+   <kr no="1" yds="25" td="0" long="25"></kr>
+   <pr no="1" yds="5" td="0" long="5"></pr>
+   <ir no="1" yds="0" td="0" long="0"></ir>
+   <fr no="0" yds="0" td="1" long="0"></fr>
+   <scoring td="2" patkick="2"></scoring>
+  </totals>
+  <player name="ROSE, Ocie" shortname="ROSE, Ocie" checkname="ROSE,OCIE" uni="1D" class="FR" gp="1" gs="1" dpos="LB" code="1D">
+   <defense tackua="1" tacka="0" tot_tack="1" tflua="1" tfla="0" tflyds="1" fr="1" fryds="0"></defense>
+   <fr no="0" yds="0" td="1" long="0"></fr>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="BUSSEY, Henry" shortname="BUSSEY, Henry" checkname="BUSSEY,HENRY" uni="1" class="SO" gp="1" gs="1" opos="W" code="1">
+   <rush att="1" yds="0" gain="0" loss="0" td="0" long="0"></rush>
+   <rcv no="4" yds="16" td="0" long="12"></rcv>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="MILLER, Herb" shortname="MILLER, Herb" checkname="MILLER,HERB" uni="1A" class="FR" gp="1" code="1A">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="BRYANT, Brandin" shortname="BRYANT, Brandin" checkname="BRYANT,BRANDIN" uni="2" class="SR" gp="1" gs="1" dpos="RT" code="2">
+   <defense tackua="2" tacka="2" tot_tack="4" tflua="2" tfla="0" tflyds="7" sackua="1" sacka="0" sackyds="6"></defense>
+  </player>
+  <player name="CLARK, Marcus" shortname="CLARK, Marcus" checkname="CLARK,MARCUS" uni="2A" class="SO" gp="1" code="2A">
+   <rush att="7" yds="31" gain="31" loss="0" td="0" long="7"></rush>
+   <rcv no="2" yds="9" td="0" long="9"></rcv>
+  </player>
+  <player name="CAMERON, Tyler" shortname="CAMERON, Tyler" checkname="CAMERON,TYLER" uni="3" class="SR" gp="1" gs="1" opos="TE" code="3">
+   <rcv no="2" yds="14" td="0" long="11"></rcv>
+  </player>
+  <player name="WILLIAMS, K" shortname="WILLIAMS, K" checkname="WILLIAMS,K" uni="5" class="FR" gp="1" code="5"></player>
+  <player name="LEBLANC, C." shortname="LEBLANC, C." checkname="LEBLANC,C" uni="7" class="SR" gp="1" gs="1" dpos="CB" code="7">
+   <defense tackua="3" tacka="1" tot_tack="4"></defense>
+   <kr no="1" yds="25" td="0" long="25"></kr>
+  </player>
+  <player name="INTERNICOLA, Ni" shortname="INTERNICOLA, Ni" checkname="INTERNICOLA,NI" uni="8D" class="SO" gp="1" code="8D">
+   <defense tackua="1" tacka="0" tot_tack="1" qbh="1" blkd="1"></defense>
+  </player>
+  <player name="LEONARD, Ralph" shortname="LEONARD, Ralph" checkname="LEONARD,RALPH" uni="8" class="FR" gp="1" code="8"></player>
+  <player name="HOWELL, Greg" shortname="HOWELL, Greg" checkname="HOWELL,GREG" uni="9" class="SO" gp="1" gs="1" opos="RB" code="9">
+   <rush att="12" yds="60" gain="60" loss="0" td="0" long="12"></rush>
+  </player>
+  <player name="HENDRICKSON, Tr" shortname="HENDRICKSON, Tr" checkname="HENDRICKSON,TR" uni="9D" class="JR" gp="1" gs="1" dpos="RE" code="9D">
+   <defense tackua="3" tacka="2" tot_tack="5" tflua="2" tfla="0" tflyds="12" sackua="2" sacka="0" sackyds="12" qbh="1" ff="1"></defense>
+  </player>
+  <player name="COLEY, Trevon" shortname="COLEY, Trevon" checkname="COLEY,TREVON" uni="11" class="SR" gp="1" gs="1" dpos="LT" code="11">
+   <defense tackua="3" tacka="2" tot_tack="5"></defense>
+  </player>
+  <player name="LEWIS, Shelton" shortname="LEWIS, Shelton" checkname="LEWIS,SHELTON" uni="13" class="FR" gp="1" code="13"></player>
+  <player name="DRISKEL, Jason" shortname="DRISKEL, Jason" checkname="DRISKEL,JASON" uni="16" class="FR" gp="1" code="16">
+   <rush att="4" yds="-5" gain="11" loss="16" td="0" long="9"></rush>
+   <pass comp="3" att="6" int="0" yds="11" td="0" long="9" sacks="2" sackyds="16"></pass>
+   <fumbles no="1" lost="1"></fumbles>
+  </player>
+  <player name="JOSEPH, Greg I" shortname="JOSEPH, Greg I" checkname="JOSEPH,GREG I" uni="17" class="FR" gp="1" code="17">
+   <ko no="3" yds="195" ob="0" tb="2"></ko>
+   <fg made="0" att="1" long="0" blkd="0"></fg>
+   <pat kickatt="2" kickmade="2"></pat>
+   <scoring patkick="2"></scoring>
+  </player>
+  <player name="YOUNG, Jalen" shortname="YOUNG, Jalen" checkname="YOUNG,JALEN" uni="18" class="FR" gp="1" gs="1" dpos="FS" code="18">
+   <defense tackua="2" tacka="2" tot_tack="4" tflua="1" tfla="0" tflyds="1"></defense>
+  </player>
+  <player name="STOSHAK, Jake" shortname="STOSHAK, Jake" checkname="STOSHAK,JAKE" uni="19" class="FR" gp="1" code="19"></player>
+  <player name="ARCHER, Rodrick" shortname="ARCHER, Rodrick" checkname="ARCHER,RODRICK" uni="21" class="FR" gp="1" code="21"></player>
+  <player name="WILLIAMS, Raekw" shortname="WILLIAMS, Raekw" checkname="WILLIAMS,RAEKW" uni="23" class="SO" gp="1" gs="1" dpos="CB" code="23">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="THOMAS, Lester" shortname="THOMAS, Lester" checkname="THOMAS,LESTER" uni="24" class="JR" gp="1" code="24"></player>
+  <player name="WARREN, Jay" shortname="WARREN, Jay" checkname="WARREN,JAY" uni="25" class="JR" gp="1" code="25">
+   <rush att="5" yds="31" gain="31" loss="0" td="0" long="11"></rush>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="SOROH, Andrew" shortname="SOROH, Andrew" checkname="SOROH,ANDREW" uni="27" class="FR" gp="1" code="27"></player>
+  <player name="AL-SHAAIR, Azee" shortname="AL-SHAAIR, Azee" checkname="AL-SHAAIR,AZEE" uni="28" class="FR" gp="1" gs="1" dpos="LB" code="28">
+   <defense tackua="6" tacka="3" tot_tack="9" tflua="1" tfla="0" tflyds="5"></defense>
+  </player>
+  <player name="NEASMAN, Sharro" shortname="NEASMAN, Sharro" checkname="NEASMAN,SHARRO" uni="29" class="SR" gp="1" gs="1" dpos="SS" code="29">
+   <defense tackua="5" tacka="1" tot_tack="6" int="1" intyds="0"></defense>
+   <ir no="1" yds="0" td="0" long="0"></ir>
+  </player>
+  <player name="HARRIS, Kris" shortname="HARRIS, Kris" checkname="HARRIS,KRIS" uni="31" class="FR" gp="1" code="31"></player>
+  <player name="JOHNSON, Jaquez" shortname="JOHNSON, Jaquez" checkname="JOHNSON,JAQUEZ" uni="32" class="SR" gp="1" gs="1" opos="QB" code="32">
+   <rush att="12" yds="15" gain="31" loss="16" td="0" long="8"></rush>
+   <pass comp="17" att="33" int="1" yds="148" td="1" long="28" sacks="3" sackyds="13"></pass>
+   <fumbles no="1" lost="1"></fumbles>
+  </player>
+  <player name="HOMER, Tevin" shortname="HOMER, Tevin" checkname="HOMER,TEVIN" uni="33" class="FR" gp="1" code="33"></player>
+  <player name="WHITFIELD, F." shortname="WHITFIELD, F." checkname="WHITFIELD,F" uni="34" class="SR" gp="1" code="34">
+   <defense tackua="3" tacka="0" tot_tack="3" tflua="1" tfla="0" tflyds="1" qbh="1"></defense>
+  </player>
+  <player name="STERLING, Adria" shortname="STERLING, Adria" checkname="STERLING,ADRIA" uni="40" class="JR" gp="1" code="40"></player>
+  <player name="STEWART, Jake" shortname="STEWART, Jake" checkname="STEWART,JAKE" uni="44" class="FR" gp="1" code="44"></player>
+  <player name="WARD, Jerrad" shortname="WARD, Jerrad" checkname="WARD,JERRAD" uni="47" class="SO" gp="1" code="47">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="OZDEMIR, Nate" shortname="OZDEMIR, Nate" checkname="OZDEMIR,NATE" uni="50" class="SO" gp="1" gs="1" dpos="LB" code="50">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="SMITH, Jakobi" shortname="SMITH, Jakobi" checkname="SMITH,JAKOBI" uni="53" class="SO" gp="1" gs="1" opos="RG" code="53"></player>
+  <player name="ELLIS, Ray" shortname="ELLIS, Ray" checkname="ELLIS,RAY" uni="54" class="SO" gp="1" code="54">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="BAIN, Reggie" shortname="BAIN, Reggie" checkname="BAIN,REGGIE" uni="58" class="SO" gp="1" gs="1" opos="LT" code="58"></player>
+  <player name="EUGENE, R." shortname="EUGENE, R." checkname="EUGENE,R" uni="59" class="SR" gp="1" code="59">
+   <defense tackua="0" tacka="2" tot_tack="2" tflua="0" tfla="1" tflyds="2" sackua="0" sacka="1" sackyds="2"></defense>
+  </player>
+  <player name="WOODS, Antonyo" shortname="WOODS, Antonyo" checkname="WOODS,ANTONYO" uni="64" class="SO" gp="1" code="64"></player>
+  <player name="DEBEOR, Dillon" shortname="DEBEOR, Dillon" checkname="DEBEOR,DILLON" uni="66" class="JR" gp="1" gs="1" opos="C" code="66"></player>
+  <player name="SCHOMP, Dalton" shortname="SCHOMP, Dalton" checkname="SCHOMP,DALTON" uni="67" class="JR" gp="1" code="67">
+   <rush att="1" yds="12" gain="12" loss="0" td="0" long="12"></rush>
+   <punt no="8" yds="379" long="60" blkd="0" tb="0" fc="3" plus50="3" inside20="3" avg="47.4"></punt>
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="MARSAILLE, Miki" shortname="MARSAILLE, Miki" checkname="MARSAILLE,MIKI" uni="73" class="SR" gp="1" gs="1" opos="LG" code="73"></player>
+  <player name="HICKMON, Byers" shortname="HICKMON, Byers" checkname="HICKMON,BYERS" uni="74" class="FR" gp="1" code="74"></player>
+  <player name="PARFITT, Kelly" shortname="PARFITT, Kelly" checkname="PARFITT,KELLY" uni="76" class="JR" gp="1" gs="1" opos="RT" code="76"></player>
+  <player name="TERRY, Nate" shortname="TERRY, Nate" checkname="TERRY,NATE" uni="80" class="SO" gp="1" code="80"></player>
+  <player name="WOODS, Kalib" shortname="WOODS, Kalib" checkname="WOODS,KALIB" uni="81" class="SO" gp="1" gs="1" opos="Z" code="81">
+   <rcv no="4" yds="34" td="1" long="10"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="SOLOMON, Kamrin" shortname="SOLOMON, Kamrin" checkname="SOLOMON,KAMRIN" uni="82" class="SO" gp="1" code="82">
+   <rcv no="2" yds="33" td="0" long="26"></rcv>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="THOMAS, Tony" shortname="THOMAS, Tony" checkname="THOMAS,TONY" uni="83" class="JR" gp="1" code="83"></player>
+  <player name="STOSHAK, Jenson" shortname="STOSHAK, Jenson" checkname="STOSHAK,JENSON" uni="88" class="SR" gp="1" gs="1" opos="LW" code="88">
+   <rcv no="6" yds="53" td="0" long="28"></rcv>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+   <pr no="1" yds="5" td="0" long="5"></pr>
+  </player>
+  <player name="OGBONDA, S." shortname="OGBONDA, S." checkname="OGBONDA,S" uni="90" class="JR" gp="1" code="90">
+   <defense tackua="0" tacka="1" tot_tack="1" tflua="0" tfla="1" tflyds="1" sackua="0" sacka="1" sackyds="1"></defense>
+  </player>
+  <player name="WINNER, Casey" shortname="WINNER, Casey" checkname="WINNER,CASEY" uni="92" class="FR" gp="1" code="92"></player>
+  <player name="SNYDER, Hunter" shortname="SNYDER, Hunter" checkname="SNYDER,HUNTER" uni="94" class="FR" gp="1" gs="1" dpos="LE" code="94">
+   <defense tackua="4" tacka="0" tot_tack="4" tflua="1" tfla="0" tflyds="11" sackua="1" sacka="0" sackyds="11" qbh="1"></defense>
+  </player>
+  <player name="TEAM" shortname="TEAM" checkname="TEAM" uni="TM" class="FR" gp="1" code="198">
+   <rush att="3" yds="-4" gain="0" loss="4" td="0" long="0"></rush>
+  </player>
+ </team>
+ <team vh="H" code="235" id="UF" name="Florida" record="10-1" conf-record="7-1" abb="F" rank="8">
+  <linescore prds="5" line="0,0,14,0,6" score="20">
+   <lineprd prd="1" score="0"></lineprd>
+   <lineprd prd="2" score="0"></lineprd>
+   <lineprd prd="3" score="14"></lineprd>
+   <lineprd prd="4" score="0"></lineprd>
+   <lineprd prd="5" score="6"></lineprd>
+  </linescore>
+  <totals totoff_plays="61" totoff_yards="252" totoff_avg="4.1">
+   <firstdowns no="13" rush="6" pass="6" penalty="1"></firstdowns>
+   <penalties no="5" yds="43"></penalties>
+   <conversions thirdconv="2" thirdatt="13" fourthconv="0" fourthatt="0"></conversions>
+   <fumbles no="2" lost="1"></fumbles>
+   <misc yds="0" top="30:02" ona="0" onm="0" ptsto="7"></misc>
+   <redzone att="3" scores="1" points="7" tdrush="1" tdpass="0" fgmade="0" endfga="2" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="43" yds="123" gain="185" loss="62" td="1" long="25"></rush>
+   <pass comp="9" att="18" int="1" yds="129" td="2" long="53" sacks="5" sackyds="32"></pass>
+   <rcv no="9" yds="129" td="2" long="53"></rcv>
+   <punt no="9" yds="391" long="57" blkd="0" tb="0" fc="5" plus50="2" inside20="6" avg="43.4"></punt>
+   <ko no="3" yds="195" ob="0" tb="2"></ko>
+   <fg made="0" att="2" long="0" blkd="0"></fg>
+   <pat kickatt="3" kickmade="2"></pat>
+   <defense tackua="51" tacka="16" tot_tack="67" tflua="9" tfla="0" tflyds="43" sacks="5" sackyds="29" brup="9" ff="2" fr="2" fryds="48" int="1" intyds="0"></defense>
+   <kr no="1" yds="22" td="0" long="22"></kr>
+   <pr no="3" yds="55" td="0" long="52"></pr>
+   <ir no="1" yds="0" td="0" long="0"></ir>
+   <fr no="1" yds="48" td="0" long="48"></fr>
+   <scoring td="3" patkick="2"></scoring>
+  </totals>
+  <player name="Hargreaves,V." shortname="Hargreaves,V." checkname="HARGREAVES,V" uni="1" class="JR" gp="1" gs="1" dpos="CB" code="1"></player>
+  <player name="Rolin,M." shortname="Rolin,M." checkname="ROLIN,M" uni="2R" class="SO" gp="1" gs="1" dpos="LB" code="2R"></player>
+  <player name="Harris,Tr." shortname="Harris,Tr." checkname="HARRIS,TR" uni="3" class="SO" gp="1" gs="1" opos="QB" code="3">
+   <rush att="11" yds="26" gain="67" loss="41" td="0" long="25"></rush>
+   <pass comp="8" att="17" int="1" yds="122" td="2" long="53" sacks="5" sackyds="32"></pass>
+   <fumbles no="1" lost="1"></fumbles>
+  </player>
+  <player name="Morrison,A." shortname="Morrison,A." checkname="MORRISON,A" uni="3M" class="SR" gp="1" gs="1" dpos="MLB" code="3M">
+   <defense tackua="4" tacka="1" tot_tack="5" tflua="1" tfla="0" tflyds="9" sackua="1" sacka="0" sackyds="9" ff="1"></defense>
+  </player>
+  <player name="Powell,B." shortname="Powell,B." checkname="POWELL,B" uni="4" class="SO" gp="1" gs="1" opos="WR" code="4">
+   <kr no="1" yds="22" td="0" long="22"></kr>
+  </player>
+  <player name="Dillard,C." shortname="Dillard,C." checkname="DILLARD,C" uni="5D" class="SO" gp="1" gs="1" opos="C" code="5D"></player>
+  <player name="Fulwood,A." shortname="Fulwood,A." checkname="FULWOOD,A" uni="5" class="JR" gp="1" code="5"></player>
+  <player name="Wilson,Q." shortname="Wilson,Q." checkname="WILSON,Q" uni="6" class="SO" gp="1" code="6">
+   <defense tackua="3" tacka="0" tot_tack="3"></defense>
+  </player>
+  <player name="Dawson,D." shortname="Dawson,D." checkname="DAWSON,D" uni="7D" class="SO" gp="1" code="7D"></player>
+  <player name="Washington,N." shortname="Washington,N." checkname="WASHINGTON,N" uni="8" class="SO" gp="1" code="8">
+   <defense tackua="1" tacka="0" tot_tack="1" ff="1"></defense>
+  </player>
+  <player name="Showers,V." shortname="Showers,V." checkname="SHOWERS,V" uni="10" class="SR" gp="1" code="10">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Robinson,D." shortname="Robinson,D." checkname="ROBINSON,D" uni="11" class="JR" gp="1" gs="1" opos="WR" code="11"></player>
+  <player name="Grady,J." shortname="Grady,J." checkname="GRADY,J" uni="12" class="SR" gp="1" code="12">
+   <pass comp="1" att="1" int="0" yds="7" td="0" long="7" sacks="0" sackyds="0"></pass>
+  </player>
+  <player name="McMillian,D." shortname="McMillian,D." checkname="MCMILLIAN,D" uni="13" class="JR" gp="1" code="13">
+   <defense tackua="3" tacka="1" tot_tack="4"></defense>
+  </player>
+  <player name="Hardin,A." shortname="Hardin,A." checkname="HARDIN,A" uni="16" class="JR" gp="1" code="16">
+   <ko no="3" yds="195" ob="0" tb="2"></ko>
+   <fg made="0" att="2" long="0" blkd="0"></fg>
+   <pat kickatt="3" kickmade="2"></pat>
+   <scoring patkick="2"></scoring>
+  </player>
+  <player name="Townsend,J." shortname="Townsend,J." checkname="TOWNSEND,J" uni="19" class="SO" gp="1" code="19">
+   <punt no="9" yds="391" long="57" blkd="0" tb="0" fc="5" plus50="2" inside20="6" avg="43.4"></punt>
+  </player>
+  <player name="Maye,M." shortname="Maye,M." checkname="MAYE,M" uni="20" class="JR" gp="1" gs="1" dpos="S" code="20">
+   <defense tackua="3" tacka="0" tot_tack="3" fr="1" fryds="0"></defense>
+  </player>
+  <player name="Taylor,Kel." shortname="Taylor,Kel." checkname="TAYLOR,KEL" uni="21" class="JR" gp="1" gs="1" opos="RB" code="21">
+   <rush att="25" yds="98" gain="106" loss="8" td="1" long="20"></rush>
+   <rcv no="2" yds="19" td="0" long="12"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Powell,J." shortname="Powell,J." checkname="POWELL,J" uni="23" class="JR" gp="1" code="23">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="Poole,B." shortname="Poole,B." checkname="POOLE,B" uni="24" class="SR" gp="1" code="24">
+   <defense tackua="4" tacka="0" tot_tack="4" tflua="2" tfla="0" tflyds="5" brup="2"></defense>
+  </player>
+  <player name="Scarlett,J." shortname="Scarlett,J." checkname="SCARLETT,J" uni="25" class="FR" gp="1" code="25">
+   <rush att="2" yds="8" gain="8" loss="0" td="0" long="6"></rush>
+  </player>
+  <player name="Harris,M." shortname="Harris,M." checkname="HARRIS,M" uni="26" class="SO" gp="1" code="26">
+   <defense tackua="1" tacka="2" tot_tack="3"></defense>
+  </player>
+  <player name="Goolsby,D." shortname="Goolsby,D." checkname="GOOLSBY,D" uni="30" class="SO" gp="1" code="30"></player>
+  <player name="Tabor,J." shortname="Tabor,J." checkname="TABOR,J" uni="31" class="SO" gp="1" gs="1" dpos="CB" code="31">
+   <defense tackua="4" tacka="0" tot_tack="4" brup="5" int="1" intyds="0"></defense>
+   <ir no="1" yds="0" td="0" long="0"></ir>
+  </player>
+  <player name="Cronkrite,J." shortname="Cronkrite,J." checkname="CRONKRITE,J" uni="32" class="FR" gp="1" code="32">
+   <rush att="3" yds="2" gain="2" loss="0" td="0" long="1"></rush>
+   <rcv no="1" yds="16" td="0" long="16"></rcv>
+  </player>
+  <player name="Herndon,M." shortname="Herndon,M." checkname="HERNDON,M" uni="37" class="SR" gp="1" code="37"></player>
+  <player name="Davis,J." shortname="Davis,J." checkname="DAVIS,J" uni="40" class="JR" gp="1" gs="1" dpos="WLB" code="40">
+   <defense tackua="7" tacka="3" tot_tack="10" tflua="2" tfla="0" tflyds="12" sackua="2" sacka="0" sackyds="12"></defense>
+  </player>
+  <player name="Farr,R." shortname="Farr,R." checkname="FARR,R" uni="41" class="FR" gp="1" code="41"></player>
+  <player name="Neal,K." shortname="Neal,K." checkname="NEAL,K" uni="42" class="JR" gp="1" gs="1" dpos="S" code="42">
+   <defense tackua="4" tacka="2" tot_tack="6"></defense>
+  </player>
+  <player name="Harrell,A." shortname="Harrell,A." checkname="HARRELL,A" uni="48" class="SR" gp="1" code="48"></player>
+  <player name="Riles,A." shortname="Riles,A." checkname="RILES,A" uni="51" class="SO" gp="1" code="51"></player>
+  <player name="Dorsey,T." shortname="Dorsey,T." checkname="DORSEY,T" uni="52" class="FR" gp="1" code="52"></player>
+  <player name="Clark,K." shortname="Clark,K." checkname="CLARK,K" uni="54" class="FR" gp="1" gs="1" dpos="NT" code="54">
+   <defense tackua="3" tacka="3" tot_tack="6" tflua="1" tfla="0" tflyds="3" sackua="1" sacka="0" sackyds="3" brup="1"></defense>
+  </player>
+  <player name="Thurman,T." shortname="Thurman,T." checkname="THURMAN,T" uni="63" class="SR" gp="1" gs="1" opos="RG" code="63"></player>
+  <player name="Jordan,T." shortname="Jordan,T." checkname="JORDAN,T" uni="64" class="FR" gp="1" code="64"></player>
+  <player name="Ivey,M." shortname="Ivey,M." checkname="IVEY,M" uni="73" class="FR" gp="1" gs="1" opos="LG" code="73"></player>
+  <player name="Halter,M." shortname="Halter,M." checkname="HALTER,M" uni="75" class="SR" gp="1" gs="1" opos="RT" code="75"></player>
+  <player name="Sharpe,D." shortname="Sharpe,D." checkname="SHARPE,D" uni="78" class="SO" gp="1" gs="1" opos="LT" code="78"></player>
+  <player name="Callaway,A." shortname="Callaway,A." checkname="CALLAWAY,A" uni="81" class="FR" gp="1" gs="1" opos="WR" code="81">
+   <rush att="1" yds="2" gain="2" loss="0" td="0" long="2"></rush>
+   <rcv no="2" yds="52" td="1" long="53"></rcv>
+   <pr no="3" yds="55" td="0" long="52"></pr>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="McGee,J." shortname="McGee,J." checkname="MCGEE,J" uni="83" class="SR" gp="1" gs="1" opos="TE" code="83">
+   <rcv no="3" yds="36" td="1" long="13"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Thompson,Ch." shortname="Thompson,Ch." checkname="THOMPSON,CH" uni="85" class="JR" gp="1" code="85">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Bailey,A." shortname="Bailey,A." checkname="BAILEY,A" uni="89" class="SO" gp="1" code="89">
+   <rcv no="1" yds="6" td="0" long="6"></rcv>
+  </player>
+  <player name="Bullard,J." shortname="Bullard,J." checkname="BULLARD,J" uni="90" class="SR" gp="1" gs="1" dpos="DT" code="90">
+   <defense tackua="1" tacka="3" tot_tack="4" brup="1"></defense>
+  </player>
+  <player name="Bryan,T." shortname="Bryan,T." checkname="BRYAN,T" uni="93" class="FR" gp="1" code="93">
+   <defense tackua="1" tacka="0" tot_tack="1" fr="1" fryds="48"></defense>
+   <fr no="1" yds="48" td="0" long="48"></fr>
+  </player>
+  <player name="Cox,B." shortname="Cox,B." checkname="COX,B" uni="94" class="JR" gp="1" gs="1" dpos="DE" code="94">
+   <defense tackua="1" tacka="0" tot_tack="1" tflua="1" tfla="0" tflyds="3"></defense>
+  </player>
+  <player name="Davis,K." shortname="Davis,K." checkname="DAVIS,K" uni="95" class="FR" gp="1" code="95">
+   <defense tackua="2" tacka="1" tot_tack="3"></defense>
+  </player>
+  <player name="Jefferson,C." shortname="Jefferson,C." checkname="JEFFERSON,C" uni="96" class="FR" gp="1" gs="1" dpos="RUSH" code="96">
+   <defense tackua="4" tacka="0" tot_tack="4" tflua="2" tfla="0" tflyds="11" sackua="1" sacka="0" sackyds="5"></defense>
+  </player>
+  <player name="Reed,J." shortname="Reed,J." checkname="REED,J" uni="97" class="FR" gp="1" code="97">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="TEAM" shortname="TEAM" checkname="TEAM" uni="TM" class="SO" gp="1" code="198">
+   <rush att="1" yds="-13" gain="0" loss="13" td="0" long="0"></rush>
+   <fumbles no="1" lost="0"></fumbles>
+  </player>
+ </team>
+ <scores>
+  <score vh="H" team="UF" qtr="3" clock="09:44" type="TD" how="RUSH" yds="1" scorer="Taylor,Kel." patby="Hardin,A." pattype="KICK" patres="GOOD" plays="2" drive="2" top="0:17" vscore="0" hscore="7" driveindex="16"></score>
+  <score vh="H" team="UF" qtr="3" clock="05:34" type="TD" how="PASS" yds="53" scorer="Callaway,A." passer="Harris,Tr." patby="Hardin,A." pattype="KICK" patres="GOOD" plays="4" drive="91" top="2:13" vscore="0" hscore="14" driveindex="18"></score>
+  <score vh="V" team="FAU" qtr="3" clock="02:06" type="TD" how="PASS" yds="10" scorer="WOODS, Kalib" passer="JOHNSON, Jaquez" patby="JOSEPH, Greg I" pattype="KICK" patres="GOOD" plays="9" drive="75" top="3:28" vscore="7" hscore="14" driveindex="19"></score>
+  <score vh="V" team="FAU" qtr="4" clock="08:03" type="TD" how="FUMB" yds="0" scorer="ROSE, Ocie" patby="JOSEPH, Greg I" pattype="KICK" patres="GOOD" vscore="14" hscore="14" driveindex="25"></score>
+  <score vh="H" team="UF" qtr="5" clock="15:00" type="TD" how="PASS" yds="13" scorer="McGee,J." passer="Harris,Tr." patby="Hardin,A." pattype="KICK" patres="BLKD" plays="13" drive="0" top="1:02" vscore="14" hscore="20" driveindex="31"></score>
+ </scores>
+ <fgas>
+  <fga vh="H" team="UF" kicker="Hardin,A." qtr="2" clock="10:18" distance="33" result="missed"></fga>
+  <fga vh="V" team="FAU" kicker="JOSEPH, Greg I" qtr="2" clock="05:47" distance="46" result="missed"></fga>
+  <fga vh="H" team="UF" kicker="Hardin,A." qtr="4" clock="10:33" distance="34" result="missed"></fga>
+ </fgas>
+ <drives>
+  <drive vh="H" team="UF" start="KO,1,15:00,25" end="PUNT,1,11:48,44" plays="6" yards="19" top="3:12" start_how="KO" start_qtr="1" start_time="15:00" start_spot="UF25" end_how="PUNT" end_qtr="1" end_time="11:48" end_spot="UF44" driveindex="1"></drive>
+  <drive vh="V" team="FAU" start="PUNT,1,11:48,7" end="PUNT,1,07:47,21" plays="7" yards="14" top="4:01" start_how="PUNT" start_qtr="1" start_time="11:48" start_spot="FAU07" end_how="PUNT" end_qtr="1" end_time="07:47" end_spot="FAU21" driveindex="2"></drive>
+  <drive vh="H" team="UF" start="PUNT,1,07:47,36" end="PUNT,1,03:54,59" plays="7" yards="23" top="3:53" start_how="PUNT" start_qtr="1" start_time="07:47" start_spot="UF36" end_how="PUNT" end_qtr="1" end_time="03:54" end_spot="FAU41" driveindex="3"></drive>
+  <drive vh="V" team="FAU" start="PUNT,1,03:54,10" end="PUNT,2,14:53,28" plays="9" yards="18" top="4:01" start_how="PUNT" start_qtr="1" start_time="03:54" start_spot="FAU10" end_how="PUNT" end_qtr="2" end_time="14:53" end_spot="FAU28" driveindex="4"></drive>
+  <drive vh="H" team="UF" start="PUNT,2,14:53,30" end="PUNT,2,13:16,39" plays="3" yards="9" top="1:37" start_how="PUNT" start_qtr="2" start_time="14:53" start_spot="UF30" end_how="PUNT" end_qtr="2" end_time="13:16" end_spot="UF39" driveindex="5"></drive>
+  <drive vh="V" team="FAU" start="PUNT,2,13:16,4" end="PUNT,2,11:55,13" plays="3" yards="9" top="1:21" start_how="PUNT" start_qtr="2" start_time="13:16" start_spot="FAU04" end_how="PUNT" end_qtr="2" end_time="11:55" end_spot="FAU13" driveindex="6"></drive>
+  <drive vh="H" team="UF" start="PUNT,2,11:55,82" end="FGA,2,10:18,85" plays="4" yards="3" top="1:37" start_how="PUNT" start_qtr="2" start_time="11:55" start_spot="FAU18" end_how="FGA" end_qtr="2" end_time="10:18" end_spot="FAU15" rz="1" driveindex="7"></drive>
+  <drive vh="V" team="FAU" start="FGA,2,10:18,20" end="FGA,2,05:47,71" plays="10" yards="51" top="4:31" start_how="FGA" start_qtr="2" start_time="10:18" start_spot="FAU20" end_how="FGA" end_qtr="2" end_time="05:47" end_spot="UF29" driveindex="8"></drive>
+  <drive vh="H" team="UF" start="FGA,2,05:47,29" end="PUNT,2,03:46,38" plays="3" yards="9" top="2:01" start_how="FGA" start_qtr="2" start_time="05:47" start_spot="UF29" end_how="PUNT" end_qtr="2" end_time="03:46" end_spot="UF38" driveindex="9"></drive>
+  <drive vh="V" team="FAU" start="PUNT,2,03:46,13" end="PUNT,2,01:44,50" plays="7" yards="37" top="2:02" start_how="PUNT" start_qtr="2" start_time="03:46" start_spot="FAU13" end_how="PUNT" end_qtr="2" end_time="01:44" end_spot="FAU50" driveindex="10"></drive>
+  <drive vh="H" team="UF" start="PUNT,2,01:44,6" end="PUNT,2,00:06,12" plays="3" yards="6" top="1:38" start_how="PUNT" start_qtr="2" start_time="01:44" start_spot="UF06" end_how="PUNT" end_qtr="2" end_time="00:06" end_spot="UF12" driveindex="11"></drive>
+  <drive vh="V" team="FAU" start="PUNT,2,00:06,36" end="HALF,2,00:00,37" plays="1" yards="1" top="0:06" start_how="PUNT" start_qtr="2" start_time="00:06" start_spot="FAU36" end_how="HALF" end_qtr="2" end_time="00:00" end_spot="FAU37" driveindex="12"></drive>
+  <drive vh="V" team="FAU" start="KO,3,15:00,25" end="PUNT,3,13:23,19" plays="3" yards="-6" top="1:37" start_how="KO" start_qtr="3" start_time="15:00" start_spot="FAU25" end_how="PUNT" end_qtr="3" end_time="13:23" end_spot="FAU19" driveindex="13"></drive>
+  <drive vh="H" team="UF" start="PUNT,3,13:23,12" end="PUNT,3,11:41,27" plays="4" yards="15" top="1:42" start_how="PUNT" start_qtr="3" start_time="13:23" start_spot="UF12" end_how="PUNT" end_qtr="3" end_time="11:41" end_spot="UF27" driveindex="14"></drive>
+  <drive vh="V" team="FAU" start="PUNT,3,11:41,31" end="FUMB,3,10:01,50" plays="6" yards="19" top="1:40" start_how="PUNT" start_qtr="3" start_time="11:41" start_spot="FAU31" end_how="FUMB" end_qtr="3" end_time="10:01" end_spot="FAU50" driveindex="15"></drive>
+  <drive vh="H" team="UF" start="FUMB,3,10:01,98" end="TD,3,09:44,100" plays="2" yards="2" top="0:17" start_how="FUMB" start_qtr="3" start_time="10:01" start_spot="FAU02" end_how="TD" end_qtr="3" end_time="09:44" end_spot="FAU00" rz="1" driveindex="16"></drive>
+  <drive vh="V" team="FAU" start="KO,3,09:44,25" end="PUNT,3,07:47,45" plays="6" yards="20" top="1:57" start_how="KO" start_qtr="3" start_time="09:44" start_spot="FAU25" end_how="PUNT" end_qtr="3" end_time="07:47" end_spot="FAU45" driveindex="17"></drive>
+  <drive vh="H" team="UF" start="PUNT,3,07:47,9" end="TD,3,05:34,100" plays="4" yards="91" top="2:13" start_how="PUNT" start_qtr="3" start_time="07:47" start_spot="UF09" end_how="TD" end_qtr="3" end_time="05:34" end_spot="FAU00" driveindex="18"></drive>
+  <drive vh="V" team="FAU" start="KO,3,05:34,25" end="TD,3,02:06,100" plays="9" yards="75" top="3:28" start_how="KO" start_qtr="3" start_time="05:34" start_spot="FAU25" end_how="TD" end_qtr="3" end_time="02:06" end_spot="UF00" rz="1" driveindex="19"></drive>
+  <drive vh="H" team="UF" start="KO,3,02:06,22" end="INT,4,13:36,69" plays="6" yards="47" top="3:30" start_how="KO" start_qtr="3" start_time="02:06" start_spot="UF22" end_how="INT" end_qtr="4" end_time="13:36" end_spot="FAU31" driveindex="20"></drive>
+  <drive vh="V" team="FAU" start="INT,4,13:36,20" end="INT,4,12:43,20" plays="3" yards="0" top="0:53" start_how="INT" start_qtr="4" start_time="13:36" start_spot="FAU20" end_how="INT" end_qtr="4" end_time="12:43" end_spot="FAU20" driveindex="21"></drive>
+  <drive vh="H" team="UF" start="INT,4,12:43,79" end="FGA,4,10:33,85" plays="4" yards="6" top="2:10" start_how="INT" start_qtr="4" start_time="12:43" start_spot="FAU21" end_how="FGA" end_qtr="4" end_time="10:33" end_spot="FAU15" rz="1" driveindex="22"></drive>
+  <drive vh="V" team="FAU" start="FGA,4,10:33,20" end="PUNT,4,08:52,31" plays="5" yards="11" top="1:41" start_how="FGA" start_qtr="4" start_time="10:33" start_spot="FAU20" end_how="PUNT" end_qtr="4" end_time="08:52" end_spot="FAU31" driveindex="23"></drive>
+  <drive vh="H" team="UF" start="PUNT,4,08:52,10" end="FUMB,4,08:03,0" plays="2" yards="-10" top="0:49" start_how="PUNT" start_qtr="4" start_time="08:52" start_spot="UF10" end_how="FUMB" end_qtr="4" end_time="08:03" end_spot="UF00" driveindex="24"></drive>
+  <drive vh="V" team="FAU" start="FUMB,4,08:03,100" end="TD,4,08:03,100" plays="0" yards="0" top="0:00" start_how="FUMB" start_qtr="4" start_time="08:03" start_spot="UF00" end_how="TD" end_qtr="4" end_time="08:03" end_spot="UF00" driveindex="25"></drive>
+  <drive vh="H" team="UF" start="KO,4,08:03,25" end="PUNT,4,06:32,28" plays="3" yards="3" top="1:31" start_how="KO" start_qtr="4" start_time="08:03" start_spot="UF25" end_how="PUNT" end_qtr="4" end_time="06:32" end_spot="UF28" driveindex="26"></drive>
+  <drive vh="V" team="FAU" start="PUNT,4,06:32,36" end="FUMB,4,05:19,53" plays="3" yards="17" top="1:13" start_how="PUNT" start_qtr="4" start_time="06:32" start_spot="FAU36" end_how="FUMB" end_qtr="4" end_time="05:19" end_spot="UF47" driveindex="27"></drive>
+  <drive vh="H" team="UF" start="FUMB,4,05:19,47" end="PUNT,4,02:15,60" plays="6" yards="13" top="3:04" start_how="FUMB" start_qtr="4" start_time="05:19" start_spot="UF47" end_how="PUNT" end_qtr="4" end_time="02:15" end_spot="FAU40" driveindex="28"></drive>
+  <drive vh="V" team="FAU" start="PUNT,4,02:15,3" end="PUNT,4,01:50,7" plays="3" yards="4" top="0:25" start_how="PUNT" start_qtr="4" start_time="02:15" start_spot="FAU03" end_how="PUNT" end_qtr="4" end_time="01:50" end_spot="FAU07" driveindex="29"></drive>
+  <drive vh="H" team="UF" start="PUNT,4,01:50,59" end="PUNT,4,01:02,60" plays="3" yards="1" top="0:48" start_how="PUNT" start_qtr="4" start_time="01:50" start_spot="FAU41" end_how="PUNT" end_qtr="4" end_time="01:02" end_spot="FAU40" driveindex="30"></drive>
+  <drive vh="V" team="FAU" start="PUNT,4,01:02,75" end="HALF,4,00:00,75" plays="13" yards="0" top="1:02" start_how="PUNT" start_qtr="4" start_time="01:02" start_spot="UF25" end_how="HALF" end_qtr="4" end_time="00:00" end_spot="UF25" rz="1" driveindex="31"></drive>
+  <drive vh="H" team="UF" start="DOWNS,5,15:00,12" end=",0,00:00,12" plays="0" yards="0" top="0:00" start_how="DOWNS" start_qtr="5" start_time="15:00" start_spot="UF12" end_how="" end_qtr="0" end_time="00:00" end_spot="UF12" driveindex="32"></drive>
+ </drives>
+ <plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="FAU" down="1" togo="10" spot="FAU35" context="V,1,10,V35" playid="0,1,0" tokens="CMT:FAU Captains: 7 C. Leblanc, 11 T.Coley, 32 J.Johnson, 88 J.Stoshak"
+      text="FAU Captains: 7 C. Leblanc, 11 T.Coley, 32 J.Johnson, 88 J.Stoshak" newcontext="V,1,10,V35">
+   </play>
+   <comment text="UF Captains: 10 V.Showers, 42 K.Neal, 75 M.Halter, 94 B.Cox,Jr."></comment>
+   <comment text="Coin Toss: UF wins and receives, FAU defends the north end."></comment>
+   <play hasball="FAU" down="1" togo="10" spot="FAU35" context="V,1,10,V35" playid="0,2,3" tokens="SPOT:V,V35,N"
+      text="FAU ball on FAU35." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU35" context="V,1,10,V35" playid="0,3,4" type="K" tokens="KO:17,H00 TB:"
+      text="JOSEPH, Greg I kickoff 65 yards to the UF0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="JOSEPH, Greg I" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,15:00" vh="H" spot="H25" clock="15:00" driveindex="1,4"></drivestart>
+   <play hasball="UF" down="1" togo="10" spot="UF25" context="H,1,10,H25" playid="1,1,5" type="R" pcode="LG" tokens="RUSH:21,H30,LG TACK:28"
+      text="Taylor,Kel. rush over left guard for 5 yards to the UF30 (AL-SHAAIR, Azee)." newcontext="H,2,5,H30">
+    <p_ru vh="H" name="Taylor,Kel." gain="5"></p_ru>
+    <p_tk vh="V" name="AL-SHAAIR, Azee"></p_tk>
+   </play>
+   <play hasball="UF" down="2" togo="5" spot="UF30" context="H,2,5,H30" playid="1,2,6" type="P" pcode="SC" first="P" tokens="PASS:3,C,21,H42,SC TACK:34"
+      text="Harris,Tr. screen pass complete to Taylor,Kel. for 12 yards to the UF42, 1ST DOWN UF (WHITFIELD, F.)." newcontext="H,1,10,H42">
+    <p_pa vh="H" qb="Harris,Tr." result="COMP" rcv="Taylor,Kel." gain="12"></p_pa>
+    <p_tk vh="V" name="WHITFIELD, F."></p_tk>
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="UF42" context="H,1,10,H42" playid="1,3,7" type="P" pcode="SI" first="P" tokens="PASS:3,C,83,V47,SI OB: TACK:29"
+      text="Harris,Tr. sideline pass complete to McGee,J. for 11 yards to the FAU47, 1ST DOWN UF, out-of-bounds (NEASMAN, Sharro)." ob="Y" newcontext="H,1,10,V47">
+    <p_pa vh="H" qb="Harris,Tr." result="COMP" rcv="McGee,J." gain="11"></p_pa>
+    <p_tk vh="V" name="NEASMAN, Sharro"></p_tk>
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="FAU47" context="H,1,10,V47" playid="1,4,8" type="R" pcode="RT" tokens="RUSH:25,V45,RT TACK:94"
+      text="Scarlett,J. rush over right tackle for 2 yards to the FAU45 (SNYDER, Hunter)." newcontext="H,2,8,V45">
+    <p_ru vh="H" name="Scarlett,J." gain="2"></p_ru>
+    <p_tk vh="V" name="SNYDER, Hunter"></p_tk>
+   </play>
+   <play hasball="UF" down="2" togo="8" spot="FAU45" context="H,2,8,V45" playid="1,5,9" type="P" tokens="PASS:3,S,TM,H49 SACK:2"
+      text="Harris,Tr. sacked for loss of 6 yards to the UF49 (BRYANT, Brandin)." newcontext="H,3,14,H49">
+    <p_pa vh="H" qb="Harris,Tr." result="SACK" gain="-6"></p_pa>
+    <p_tk vh="V" name="BRYANT, Brandin" sack="Y"></p_tk>
+   </play>
+   <play hasball="UF" down="3" togo="14" spot="UF49" context="H,3,14,H49" playid="1,6,10" type="P" tokens="PASS:3,S,TM,H44 SACK:9D"
+      text="Harris,Tr. sacked for loss of 5 yards to the UF44 (HENDRICKSON, Tr)." newcontext="H,4,19,H44">
+    <p_pa vh="H" qb="Harris,Tr." result="SACK" gain="-5"></p_pa>
+    <p_tk vh="V" name="HENDRICKSON, Tr" sack="Y"></p_tk>
+   </play>
+   <play hasball="UF" down="4" togo="19" spot="UF44" context="H,4,19,H44" playid="1,7,11" type="U" tokens="PUNT:19,V07 FC:88"
+      text="Townsend,J. punt 49 yards to the FAU7, fair catch by STOSHAK, Jenson." newcontext="V,1,10,V07">
+    <p_pu vh="H" name="Townsend,J." gain="49" in20="Y" fc="STOSHAK, Jenson"></p_pu>
+   </play>
+   <drivesum plays="6" yards="19" top="3:12" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="V,V07,11:48" vh="V" spot="V07" clock="11:48" driveindex="2,11"></drivestart>
+   <play hasball="FAU" down="1" togo="10" spot="FAU07" context="V,1,10,V07" playid="2,1,12" clock="11:48" tokens="{DRIVE}:11:48"
+      text="FAU drive start at 11:48." newcontext="V,1,10,V07">
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU07" context="V,1,10,V07" playid="2,2,13" type="R" pcode="LE" tokens="RUSH:32,V09,LE TACK:42"
+      text="JOHNSON, Jaquez rush over left end for 2 yards to the FAU9 (Neal,K.)." newcontext="V,2,8,V09">
+    <p_ru vh="V" name="JOHNSON, Jaquez" gain="2"></p_ru>
+    <p_tk vh="H" name="Neal,K."></p_tk>
+   </play>
+   <play hasball="FAU" down="2" togo="8" spot="FAU09" context="V,2,8,V09" playid="2,3,14" type="P" pcode="SI" first="P" tokens="PASS:32,C,88,V18,SI OB: TACK:31"
+      text="JOHNSON, Jaquez sideline pass complete to STOSHAK, Jenson for 9 yards to the FAU18, 1ST DOWN FAU, out-of-bounds (Tabor,J.)." ob="Y" newcontext="V,1,10,V18">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="COMP" rcv="STOSHAK, Jenson" gain="9"></p_pa>
+    <p_tk vh="H" name="Tabor,J."></p_tk>
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU18" context="V,1,10,V18" playid="2,4,15" type="#" clock="10:58" tokens="T:10:58"
+      text="Clock 10:58." newcontext="V,1,10,V18">
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU18" context="V,1,10,V18" playid="2,5,16" type="P" pcode="SI" tokens="PASS:32,C,1,V27,SI TACK:3M"
+      text="JOHNSON, Jaquez sideline pass complete to BUSSEY, Henry for 9 yards to the FAU27 (Morrison,A.)." newcontext="V,2,1,V27">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="COMP" rcv="BUSSEY, Henry" gain="9"></p_pa>
+    <p_tk vh="H" name="Morrison,A."></p_tk>
+   </play>
+   <play hasball="FAU" down="2" togo="1" spot="FAU27" context="V,2,1,V27" playid="2,6,17" type="E" tokens="PEN:V,FS,A,TM,V22,N"
+      text="PENALTY FAU false start 5 yards to the FAU22." newcontext="V,2,6,V22">
+    <p_pn vh="V" code="FS" type="false start" result="ACCEPT" at="V27" yards="5"></p_pn>
+   </play>
+   <play hasball="FAU" down="2" togo="6" spot="FAU22" context="V,2,6,V22" playid="2,7,18" type="P" pcode="SL" first="P" tokens="PASS:32,C,88,V34,SL TACK:31"
+      text="JOHNSON, Jaquez slant pass complete to STOSHAK, Jenson for 12 yards to the FAU34, 1ST DOWN FAU (Tabor,J.)." newcontext="V,1,10,V34">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="COMP" rcv="STOSHAK, Jenson" gain="12"></p_pa>
+    <p_tk vh="H" name="Tabor,J."></p_tk>
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU34" context="V,1,10,V34" playid="2,8,19" type="#" clock="10:13" tokens="T:10:13"
+      text="Clock 10:13." newcontext="V,1,10,V34">
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU34" context="V,1,10,V34" playid="2,9,20" type="P" pcode="SC" tokens="PASS:32,C,2A,V34,SC TACK:24"
+      text="JOHNSON, Jaquez screen pass complete to CLARK, Marcus for no gain to the FAU34 (Poole,B.)." newcontext="V,2,10,V34">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="COMP" rcv="CLARK, Marcus" gain="0"></p_pa>
+    <p_tk vh="H" name="Poole,B."></p_tk>
+   </play>
+   <play hasball="FAU" down="2" togo="10" spot="FAU34" context="V,2,10,V34" playid="2,10,21" type="E" pcode="MI" tokens="PASS:32,I,82,*,MI PEN:V,CUT,A,TM,V19,N NOPLAY:"
+      text="JOHNSON, Jaquez middle pass incomplete to SOLOMON, Kamrin, PENALTY FAU illegal cut 15 yards to the FAU19, NO PLAY." newcontext="V,2,25,V19">
+    <p_pn vh="V" code="CUT" type="illegal cut" result="ACCEPT" at="V34" yards="15"></p_pn>
+   </play>
+   <play hasball="FAU" down="2" togo="25" spot="FAU19" context="V,2,25,V19" playid="2,11,22" type="E" tokens="PEN:V,FS,A,58,V14,N"
+      text="PENALTY FAU false start (BAIN, Reggie) 5 yards to the FAU14." newcontext="V,2,30,V14">
+    <p_pn vh="V" code="FS" type="false start" name="BAIN, Reggie" result="ACCEPT" at="V19" yards="5"></p_pn>
+   </play>
+   <play hasball="FAU" down="2" togo="30" spot="FAU14" context="V,2,30,V14" playid="2,12,23" type="R" pcode="MI" tokens="RUSH:2A,V19,MI TACK:20"
+      text="CLARK, Marcus rush up middle for 5 yards to the FAU19 (Maye,M.)." newcontext="V,3,25,V19">
+    <p_ru vh="V" name="CLARK, Marcus" gain="5"></p_ru>
+    <p_tk vh="H" name="Maye,M."></p_tk>
+   </play>
+   <play hasball="FAU" down="3" togo="25" spot="FAU19" context="V,3,25,V19" playid="2,13,24" type="E" tokens="PEN:V,FS,A,58,V14,N"
+      text="PENALTY FAU false start (BAIN, Reggie) 5 yards to the FAU14." newcontext="V,3,30,V14">
+    <p_pn vh="V" code="FS" type="false start" name="BAIN, Reggie" result="ACCEPT" at="V19" yards="5"></p_pn>
+   </play>
+   <play hasball="FAU" down="3" togo="30" spot="FAU14" context="V,3,30,V14" playid="2,14,25" type="R" pcode="RT" tokens="RUSH:2A,V21,RT TACK:23"
+      text="CLARK, Marcus rush over right tackle for 7 yards to the FAU21 (Powell,J.)." newcontext="V,4,23,V21">
+    <p_ru vh="V" name="CLARK, Marcus" gain="7"></p_ru>
+    <p_tk vh="H" name="Powell,J."></p_tk>
+   </play>
+   <play hasball="FAU" down="4" togo="23" spot="FAU21" context="V,4,23,V21" playid="2,15,26" type="U" tokens="PUNT:67,H34 RET:81,H36 TACK:88"
+      text="SCHOMP, Dalton punt 45 yards to the UF34, Callaway,A. return 2 yards to the UF36 (STOSHAK, Jenson)." newcontext="H,1,10,H36">
+    <p_pu vh="V" name="SCHOMP, Dalton" gain="45"></p_pu>
+    <p_pr vh="H" name="Callaway,A." gain="2"></p_pr>
+    <p_tk vh="V" name="STOSHAK, Jenson"></p_tk>
+   </play>
+   <drivesum plays="7" yards="14" top="4:01" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="H,H36,07:47" vh="H" spot="H36" clock="07:47" driveindex="3,26"></drivestart>
+   <play hasball="UF" down="1" togo="10" spot="UF36" context="H,1,10,H36" playid="3,1,27" clock="07:47" tokens="{DRIVE}:07:47"
+      text="FLORIDA drive start at 07:47." newcontext="H,1,10,H36">
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="UF36" context="H,1,10,H36" playid="3,2,28" type="R" pcode="LE" tokens="RUSH:32,H36,LE TACK:9D,18"
+      text="Cronkrite,J. rush over left end for no gain to the UF36 (HENDRICKSON, Tr;YOUNG, Jalen)." newcontext="H,2,10,H36">
+    <p_ru vh="H" name="Cronkrite,J." gain="0"></p_ru>
+    <p_tk vh="V" name="HENDRICKSON, Tr" assist="Y"></p_tk>
+    <p_tk vh="V" name="YOUNG, Jalen" assist="Y"></p_tk>
+   </play>
+   <play hasball="UF" down="2" togo="10" spot="UF36" context="H,2,10,H36" playid="3,3,29" type="P" pcode="CR" first="P" tokens="PASS:3,C,83,H48,CR TACK:7"
+      text="Harris,Tr. crossing pass complete to McGee,J. for 12 yards to the UF48, 1ST DOWN UF (LEBLANC, C.)." newcontext="H,1,10,H48">
+    <p_pa vh="H" qb="Harris,Tr." result="COMP" rcv="McGee,J." gain="12"></p_pa>
+    <p_tk vh="V" name="LEBLANC, C."></p_tk>
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="UF48" context="H,1,10,H48" playid="3,4,30" type="#" clock="06:46" tokens="T:06:46"
+      text="Clock 06:46." newcontext="H,1,10,H48">
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="UF48" context="H,1,10,H48" playid="3,5,31" type="R" pcode="MI" tokens="RUSH:21,V45,MI TACK:29"
+      text="Taylor,Kel. rush up middle for 7 yards to the FAU45 (NEASMAN, Sharro)." newcontext="H,2,3,V45">
+    <p_ru vh="H" name="Taylor,Kel." gain="7"></p_ru>
+    <p_tk vh="V" name="NEASMAN, Sharro"></p_tk>
+   </play>
+   <play hasball="UF" down="2" togo="3" spot="FAU45" context="H,2,3,V45" playid="3,6,32" type="#" clock="06:10" tokens="T:06:10"
+      text="Clock 06:10." newcontext="H,2,3,V45">
+   </play>
+   <play hasball="UF" down="2" togo="3" spot="FAU45" context="H,2,3,V45" playid="3,7,33" type="R" pcode="MI" first="R" tokens="RUSH:21,V39,MI TACK:11"
+      text="Taylor,Kel. rush up middle for 6 yards to the FAU39, 1ST DOWN UF (COLEY, Trevon)." newcontext="H,1,10,V39">
+    <p_ru vh="H" name="Taylor,Kel." gain="6"></p_ru>
+    <p_tk vh="V" name="COLEY, Trevon"></p_tk>
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="FAU39" context="H,1,10,V39" playid="3,8,34" type="P" pcode="DP" tokens="PASS:3,I,11,*,DP"
+      text="Harris,Tr. deep pass incomplete to Robinson,D.." newcontext="H,2,10,V39">
+    <p_pa vh="H" qb="Harris,Tr." result="INC" rcv="Robinson,D."></p_pa>
+   </play>
+   <play hasball="UF" down="2" togo="10" spot="FAU39" context="H,2,10,V39" playid="3,9,35" type="#" clock="05:21" tokens="T:05:21"
+      text="Clock 05:21." newcontext="H,2,10,V39">
+   </play>
+   <play hasball="UF" down="2" togo="10" spot="FAU39" context="H,2,10,V39" playid="3,10,36" type="R" pcode="LG" tokens="RUSH:21,V40,LG TACK:1D"
+      text="Taylor,Kel. rush over left guard for loss of 1 yard to the FAU40 (ROSE, Ocie)." newcontext="H,3,11,V40">
+    <p_ru vh="H" name="Taylor,Kel." gain="-1"></p_ru>
+    <p_tk vh="V" name="ROSE, Ocie"></p_tk>
+   </play>
+   <play hasball="UF" down="3" togo="11" spot="FAU40" context="H,3,11,V40" playid="3,11,37" type="P" pcode="SC" tokens="PASS:3,C,81,V41,SC TACK:18"
+      text="Harris,Tr. screen pass complete to Callaway,A. for loss of 1 yard to the FAU41 (YOUNG, Jalen)." newcontext="H,4,12,V41">
+    <p_pa vh="H" qb="Harris,Tr." result="COMP" rcv="Callaway,A." gain="-1"></p_pa>
+    <p_tk vh="V" name="YOUNG, Jalen"></p_tk>
+   </play>
+   <play hasball="UF" down="4" togo="12" spot="FAU41" context="H,4,12,V41" playid="3,12,38" type="U" tokens="PUNT:19,V10 DN:"
+      text="Townsend,J. punt 31 yards to the FAU10, downed." newcontext="V,1,10,V10">
+    <p_pu vh="H" name="Townsend,J." gain="31" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="7" yards="23" top="3:53" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="V,V10,03:54" vh="V" spot="V10" clock="03:54" driveindex="4,38"></drivestart>
+   <play hasball="FAU" down="1" togo="10" spot="FAU10" context="V,1,10,V10" playid="4,1,39" clock="03:54" tokens="{DRIVE}:03:54"
+      text="FAU drive start at 03:54." newcontext="V,1,10,V10">
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU10" context="V,1,10,V10" playid="4,2,40" tokens="QB:V,16"
+      text="DRISKEL, Jason at QB for FAU." newcontext="V,1,10,V10">
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU10" context="V,1,10,V10" playid="4,3,41" type="P" pcode="MI" tokens="PASS:16,C,81,V18,MI"
+      text="DRISKEL, Jason middle pass complete to WOODS, Kalib for 8 yards to the FAU18." newcontext="V,2,2,V18">
+    <p_pa vh="V" qb="DRISKEL, Jason" result="COMP" rcv="WOODS, Kalib" gain="8"></p_pa>
+   </play>
+   <play hasball="FAU" down="2" togo="2" spot="FAU18" context="V,2,2,V18" playid="4,4,42" type="R" pcode="LG" first="R" tokens="RUSH:2A,V25,LG TACK:42"
+      text="CLARK, Marcus rush over left guard for 7 yards to the FAU25, 1ST DOWN FAU (Neal,K.)." newcontext="V,1,10,V25">
+    <p_ru vh="V" name="CLARK, Marcus" gain="7"></p_ru>
+    <p_tk vh="H" name="Neal,K."></p_tk>
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU25" context="V,1,10,V25" playid="4,5,43" type="#" clock="03:15" tokens="T:03:15"
+      text="Clock 03:15." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU25" context="V,1,10,V25" playid="4,6,44" type="P" pcode="DP" tokens="PASS:16,I,81,*,DP BRUP:31"
+      text="DRISKEL, Jason deep pass incomplete to WOODS, Kalib (Tabor,J.)." newcontext="V,2,10,V25">
+    <p_pa vh="V" qb="DRISKEL, Jason" result="INC" rcv="WOODS, Kalib"></p_pa>
+    <p_bu vh="H" name="Tabor,J."></p_bu>
+   </play>
+   <play hasball="FAU" down="2" togo="10" spot="FAU25" context="V,2,10,V25" playid="4,7,45" type="#" clock="03:04" tokens="T:03:04"
+      text="Clock 03:04." newcontext="V,2,10,V25">
+   </play>
+   <play hasball="FAU" down="2" togo="10" spot="FAU25" context="V,2,10,V25" playid="4,8,46" type="R" pcode="MI" tokens="RUSH:2A,V29,MI TACK:54"
+      text="CLARK, Marcus rush up middle for 4 yards to the FAU29 (Clark,K.)." newcontext="V,3,6,V29">
+    <p_ru vh="V" name="CLARK, Marcus" gain="4"></p_ru>
+    <p_tk vh="H" name="Clark,K."></p_tk>
+   </play>
+   <play hasball="FAU" down="3" togo="6" spot="FAU29" context="V,3,6,V29" playid="4,9,47" type="P" tokens="PASS:16,I,3,*"
+      text="DRISKEL, Jason pass incomplete to CAMERON, Tyler." newcontext="V,4,6,V29">
+    <p_pa vh="V" qb="DRISKEL, Jason" result="INC" rcv="CAMERON, Tyler"></p_pa>
+   </play>
+   <play hasball="FAU" down="4" togo="6" spot="FAU29" context="V,4,6,V29" playid="4,10,48" type="R" pcode="MI" first="R" tokens="RUSH:67,V41,MI TACK:10"
+      text="SCHOMP, Dalton rush up middle for 12 yards to the FAU41, 1ST DOWN FAU (Showers,V.)." newcontext="V,1,10,V41">
+    <p_ru vh="V" name="SCHOMP, Dalton" gain="12"></p_ru>
+    <p_tk vh="H" name="Showers,V."></p_tk>
+   </play>
+   <comment text="FAKE PUNT"></comment>
+   <play hasball="FAU" down="1" togo="10" spot="FAU41" context="V,1,10,V41" playid="4,11,50" type="R" pcode="LE" tokens="RUSH:1,V41,LE TACK:40"
+      text="BUSSEY, Henry rush over left end for no gain to the FAU41 (Davis,J.)." newcontext="V,2,10,V41">
+    <p_ru vh="V" name="BUSSEY, Henry" gain="0"></p_ru>
+    <p_tk vh="H" name="Davis,J."></p_tk>
+   </play>
+   <play hasball="FAU" down="2" togo="10" spot="FAU41" context="V,2,10,V41" playid="4,12,51" type="#" clock="01:09" tokens="T:01:09"
+      text="Clock 01:09." newcontext="V,2,10,V41">
+   </play>
+   <play hasball="FAU" down="2" togo="10" spot="FAU41" context="V,2,10,V41" playid="4,13,52" type="P" pcode="SC" tokens="PASS:16,C,88,V35,SC TACK:96"
+      text="DRISKEL, Jason screen pass complete to STOSHAK, Jenson for loss of 6 yards to the FAU35 (Jefferson,C.)." newcontext="V,3,16,V35">
+    <p_pa vh="V" qb="DRISKEL, Jason" result="COMP" rcv="STOSHAK, Jenson" gain="-6"></p_pa>
+    <p_tk vh="H" name="Jefferson,C."></p_tk>
+   </play>
+   <comment text="pass knocked into the air by #51 A.Riles"></comment>
+   <play hasball="FAU" down="3" togo="16" spot="FAU35" context="V,3,16,V35" playid="4,14,54" type="P" tokens="PASS:16,S,TM,V28 SACK:40"
+      text="DRISKEL, Jason sacked for loss of 7 yards to the FAU28 (Davis,J.)." newcontext="V,4,23,V28">
+    <p_pa vh="V" qb="DRISKEL, Jason" result="SACK" gain="-7"></p_pa>
+    <p_tk vh="H" name="Davis,J." sack="Y"></p_tk>
+   </play>
+   <score qtr="1" V="0" H="0"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="FAU">
+    <firstdowns no="4" rush="2" pass="2" penalty="0"></firstdowns>
+    <penalties no="4" yds="30"></penalties>
+    <conversions thirdconv="0" thirdatt="1" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:55"></misc>
+    <rush att="8" yds="30" gain="37" loss="7" td="0" long="12"></rush>
+    <pass comp="6" att="8" int="0" yds="32" td="0" long="12" sacks="1" sackyds="7"></pass>
+    <rcv no="6" yds="32" td="0" long="12"></rcv>
+    <punt no="1" yds="45" long="45" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="45.0"></punt>
+    <ko no="1" yds="65" ob="0" tb="1"></ko>
+    <defense tackua="12" tacka="2" tot_tack="14" tflua="4" tfla="0" tflyds="13" sacks="2" sackyds="11"></defense>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UF">
+    <firstdowns no="4" rush="1" pass="3" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:05"></misc>
+    <rush att="8" yds="8" gain="20" loss="12" td="0" long="7"></rush>
+    <pass comp="4" att="5" int="0" yds="34" td="0" long="12" sacks="2" sackyds="11"></pass>
+    <rcv no="4" yds="34" td="0" long="12"></rcv>
+    <punt no="2" yds="80" long="49" blkd="0" tb="0" fc="1" plus50="0" inside20="2" avg="40.0"></punt>
+    <defense tackua="13" tacka="0" tot_tack="13" tflua="2" tfla="0" tflyds="13" sacks="1" sackyds="7" brup="1"></defense>
+    <pr no="1" yds="2" td="0" long="2"></pr>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="FAU" down="4" togo="23" spot="FAU28" context="V,4,23,V28" playid="4,15,55" type="#" clock="15:00" tokens="Q:2 T:15:00"
+      text="Start of 2nd quarter, clock 15:00." newcontext="V,4,23,V28">
+   </play>
+   <play hasball="FAU" down="4" togo="23" spot="FAU28" context="V,4,23,V28" playid="4,16,56" type="U" tokens="PUNT:67,H30 FC:81"
+      text="SCHOMP, Dalton punt 42 yards to the UF30, fair catch by Callaway,A.." newcontext="H,1,10,H30">
+    <p_pu vh="V" name="SCHOMP, Dalton" gain="42" fc="Callaway,A."></p_pu>
+   </play>
+   <drivesum plays="9" yards="18" top="4:01" driveindex="4" complete="Y"></drivesum>
+   <drivestart poss="H,H30,14:53" vh="H" spot="H30" clock="14:53" driveindex="5,56"></drivestart>
+   <play hasball="UF" down="1" togo="10" spot="UF30" context="H,1,10,H30" playid="5,1,57" clock="14:53" tokens="{DRIVE}:14:53"
+      text="FLORIDA drive start at 14:53." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="UF30" context="H,1,10,H30" playid="5,2,58" type="P" pcode="DP" tokens="PASS:3,I,81,*,DP"
+      text="Harris,Tr. deep pass incomplete to Callaway,A.." newcontext="H,2,10,H30">
+    <p_pa vh="H" qb="Harris,Tr." result="INC" rcv="Callaway,A."></p_pa>
+   </play>
+   <play hasball="UF" down="2" togo="10" spot="UF30" context="H,2,10,H30" playid="5,3,59" type="#" clock="14:48" tokens="T:14:48"
+      text="Clock 14:48." newcontext="H,2,10,H30">
+   </play>
+   <play hasball="UF" down="2" togo="10" spot="UF30" context="H,2,10,H30" playid="5,4,60" type="R" pcode="RT" tokens="RUSH:21,H25,RT TACK:28"
+      text="Taylor,Kel. rush over right tackle for loss of 5 yards to the UF25 (AL-SHAAIR, Azee)." newcontext="H,3,15,H25">
+    <p_ru vh="H" name="Taylor,Kel." gain="-5"></p_ru>
+    <p_tk vh="V" name="AL-SHAAIR, Azee"></p_tk>
+   </play>
+   <play hasball="UF" down="3" togo="15" spot="UF25" context="H,3,15,H25" playid="5,5,61" type="R" tokens="RUSH:3,H39, TACK:29"
+      text="Harris,Tr. rush for 14 yards to the UF39 (NEASMAN, Sharro)." newcontext="H,4,1,H39">
+    <p_ru vh="H" name="Harris,Tr." gain="14"></p_ru>
+    <p_tk vh="V" name="NEASMAN, Sharro"></p_tk>
+   </play>
+   <play hasball="UF" down="4" togo="1" spot="UF39" context="H,4,1,H39" playid="5,6,62" type="U" tokens="PUNT:19,V04 DN:"
+      text="Townsend,J. punt 57 yards to the FAU4, downed." newcontext="V,1,10,V04">
+    <p_pu vh="H" name="Townsend,J." gain="57" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="9" top="1:37" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="V,V04,13:16" vh="V" spot="V04" clock="13:16" driveindex="6,62"></drivestart>
+   <play hasball="FAU" down="1" togo="10" spot="FAU04" context="V,1,10,V04" playid="6,1,63" clock="13:16" tokens="{DRIVE}:13:16"
+      text="FAU drive start at 13:16." newcontext="V,1,10,V04">
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU04" context="V,1,10,V04" playid="6,2,64" tokens="QB:V,32"
+      text="JOHNSON, Jaquez at QB for FAU." newcontext="V,1,10,V04">
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU04" context="V,1,10,V04" playid="6,3,65" type="R" pcode="MI" tokens="RUSH:9,V05,MI TACK:97"
+      text="HOWELL, Greg rush up middle for 1 yard to the FAU5 (Reed,J.)." newcontext="V,2,9,V05">
+    <p_ru vh="V" name="HOWELL, Greg" gain="1"></p_ru>
+    <p_tk vh="H" name="Reed,J."></p_tk>
+   </play>
+   <play hasball="FAU" down="2" togo="9" spot="FAU05" context="V,2,9,V05" playid="6,4,66" type="P" pcode="SI" tokens="PASS:32,I,37,*,SI"
+      text="JOHNSON, Jaquez sideline pass incomplete to HOLMES, Calvain." newcontext="V,3,9,V05">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="INC" rcv="HOLMES, Calvain"></p_pa>
+   </play>
+   <play hasball="FAU" down="3" togo="9" spot="FAU05" context="V,3,9,V05" playid="6,5,67" type="R" pcode="LG" tokens="RUSH:9,V13,LG TACK:20"
+      text="HOWELL, Greg rush over left guard for 8 yards to the FAU13 (Maye,M.)." newcontext="V,4,1,V13">
+    <p_ru vh="V" name="HOWELL, Greg" gain="8"></p_ru>
+    <p_tk vh="H" name="Maye,M."></p_tk>
+   </play>
+   <play hasball="FAU" down="4" togo="1" spot="FAU13" context="V,4,1,V13" playid="6,6,68" type="U" tokens="PUNT:67,H30 RET:81,V18 TACK:50,67"
+      text="SCHOMP, Dalton punt 57 yards to the UF30, Callaway,A. return 52 yards to the FAU18 (OZDEMIR, Nate;SCHOMP, Dalton)." newcontext="H,1,10,V18">
+    <p_pu vh="V" name="SCHOMP, Dalton" gain="57"></p_pu>
+    <p_pr vh="H" name="Callaway,A." gain="52"></p_pr>
+    <p_tk vh="V" name="OZDEMIR, Nate" assist="Y"></p_tk>
+    <p_tk vh="V" name="SCHOMP, Dalton" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="9" top="1:21" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="H,V18,11:55" vh="H" spot="V18" clock="11:55" driveindex="7,68"></drivestart>
+   <play hasball="UF" down="1" togo="10" spot="FAU18" context="H,1,10,V18" playid="7,1,69" clock="11:55" tokens="{DRIVE}:11:55"
+      text="FLORIDA drive start at 11:55." newcontext="H,1,10,V18">
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="FAU18" context="H,1,10,V18" playid="7,2,70" type="R" pcode="MI" tokens="RUSH:21,V17,MI TACK:8D"
+      text="Taylor,Kel. rush up middle for 1 yard to the FAU17 (INTERNICOLA, Ni)." newcontext="H,2,9,V17">
+    <p_ru vh="H" name="Taylor,Kel." gain="1"></p_ru>
+    <p_tk vh="V" name="INTERNICOLA, Ni"></p_tk>
+   </play>
+   <play hasball="UF" down="2" togo="9" spot="FAU17" context="H,2,9,V17" playid="7,3,71" type="R" pcode="LE" tokens="RUSH:21,V15,LE TACK:54"
+      text="Taylor,Kel. rush over left end for 2 yards to the FAU15 (ELLIS, Ray)." newcontext="H,3,7,V15">
+    <p_ru vh="H" name="Taylor,Kel." gain="2"></p_ru>
+    <p_tk vh="V" name="ELLIS, Ray"></p_tk>
+   </play>
+   <play hasball="UF" down="3" togo="7" spot="FAU15" context="H,3,7,V15" playid="7,4,72" type="P" pcode="CR" tokens="PASS:3,I,83,*,CR"
+      text="Harris,Tr. crossing pass incomplete to McGee,J.." newcontext="H,4,7,V15">
+    <p_pa vh="H" qb="Harris,Tr." result="INC" rcv="McGee,J."></p_pa>
+   </play>
+   <play hasball="UF" down="4" togo="7" spot="FAU15" context="H,4,7,V15" playid="7,5,73" type="F" clock="10:18" tokens="FGA:16,33,M,V20,1 T:10:18"
+      text="Hardin,A. field goal attempt from 33 MISSED - hit left upright, spot at FAU20, clock 10:18." newcontext="V,1,10,V20">
+    <p_fg vh="H" name="Hardin,A." distance="33" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="4" yards="3" top="1:37" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="V,V20,10:18" vh="V" spot="V20" clock="10:18" driveindex="8,73"></drivestart>
+   <play hasball="FAU" down="1" togo="10" spot="FAU20" context="V,1,10,V20" playid="8,1,74" clock="10:18" tokens="{DRIVE}:10:18"
+      text="FAU drive start at 10:18." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU20" context="V,1,10,V20" playid="8,2,75" type="R" pcode="MI" tokens="RUSH:32,V23,MI TACK:96"
+      text="JOHNSON, Jaquez rush up middle for 3 yards to the FAU23 (Jefferson,C.)." newcontext="V,2,7,V23">
+    <p_ru vh="V" name="JOHNSON, Jaquez" gain="3"></p_ru>
+    <p_tk vh="H" name="Jefferson,C."></p_tk>
+   </play>
+   <play hasball="FAU" down="2" togo="7" spot="FAU23" context="V,2,7,V23" playid="8,3,76" type="E" tokens="PEN:H,OS,A,95,V28,N"
+      text="PENALTY UF offside (Davis,K.) 5 yards to the FAU28." newcontext="V,2,2,V28">
+    <p_pn vh="H" code="OS" type="offside" name="Davis,K." result="ACCEPT" at="V23" yards="5"></p_pn>
+   </play>
+   <play hasball="FAU" down="2" togo="2" spot="FAU28" context="V,2,2,V28" playid="8,4,77" type="R" pcode="MI" first="R" tokens="RUSH:25,V35,MI TACK:93"
+      text="WARREN, Jay rush up middle for 7 yards to the FAU35, 1ST DOWN FAU (Bryan,T.)." newcontext="V,1,10,V35">
+    <p_ru vh="V" name="WARREN, Jay" gain="7"></p_ru>
+    <p_tk vh="H" name="Bryan,T."></p_tk>
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU35" context="V,1,10,V35" playid="8,5,78" type="R" first="R" tokens="RUSH:25,V46, TACK:31"
+      text="WARREN, Jay rush for 11 yards to the FAU46, 1ST DOWN FAU (Tabor,J.)." newcontext="V,1,10,V46">
+    <p_ru vh="V" name="WARREN, Jay" gain="11"></p_ru>
+    <p_tk vh="H" name="Tabor,J."></p_tk>
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU46" context="V,1,10,V46" playid="8,6,79" type="P" pcode="SI" tokens="PASS:32,C,1,V44,SI TACK:24"
+      text="JOHNSON, Jaquez sideline pass complete to BUSSEY, Henry for loss of 2 yards to the FAU44 (Poole,B.)." newcontext="V,2,12,V44">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="COMP" rcv="BUSSEY, Henry" gain="-2"></p_pa>
+    <p_tk vh="H" name="Poole,B."></p_tk>
+   </play>
+   <play hasball="FAU" down="2" togo="12" spot="FAU44" context="V,2,12,V44" playid="8,7,80" type="P" pcode="MI" tokens="PASS:32,C,3,H45,MI TACK:13"
+      text="JOHNSON, Jaquez middle pass complete to CAMERON, Tyler for 11 yards to the UF45 (McMillian,D.)." newcontext="V,3,1,H45">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="COMP" rcv="CAMERON, Tyler" gain="11"></p_pa>
+    <p_tk vh="H" name="McMillian,D."></p_tk>
+   </play>
+   <play hasball="FAU" down="3" togo="1" spot="UF45" context="V,3,1,H45" playid="8,8,81" type="P" pcode="SC" first="P" tokens="PASS:32,C,1,H33,SC OB: TACK:42"
+      text="JOHNSON, Jaquez screen pass complete to BUSSEY, Henry for 12 yards to the UF33, 1ST DOWN FAU, out-of-bounds (Neal,K.)." ob="Y" newcontext="V,1,10,H33">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="COMP" rcv="BUSSEY, Henry" gain="12"></p_pa>
+    <p_tk vh="H" name="Neal,K."></p_tk>
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="UF33" context="V,1,10,H33" playid="8,9,82" type="R" pcode="MI" tokens="RUSH:25,H31,MI TACK:95,40"
+      text="WARREN, Jay rush up middle for 2 yards to the UF31 (Davis,K.;Davis,J.)." newcontext="V,2,8,H31">
+    <p_ru vh="V" name="WARREN, Jay" gain="2"></p_ru>
+    <p_tk vh="H" name="Davis,K." assist="Y"></p_tk>
+    <p_tk vh="H" name="Davis,J." assist="Y"></p_tk>
+   </play>
+   <play hasball="FAU" down="2" togo="8" spot="UF31" context="V,2,8,H31" playid="8,10,83" type="P" pcode="SI" tokens="PASS:32,C,3,H28,SI OB: TACK:40"
+      text="JOHNSON, Jaquez sideline pass complete to CAMERON, Tyler for 3 yards to the UF28, out-of-bounds (Davis,J.)." ob="Y" newcontext="V,3,5,H28">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="COMP" rcv="CAMERON, Tyler" gain="3"></p_pa>
+    <p_tk vh="H" name="Davis,J."></p_tk>
+   </play>
+   <play hasball="FAU" down="3" togo="5" spot="UF28" context="V,3,5,H28" playid="8,11,84" type="#" clock="06:35" tokens="T:06:35"
+      text="Clock 06:35." newcontext="V,3,5,H28">
+   </play>
+   <play hasball="FAU" down="3" togo="5" spot="UF28" context="V,3,5,H28" playid="8,12,85" type="E" pcode="MI" tokens="RUSH:32,H25,MI TACK:25,26 PEN:V,HO,A,64,H38,N NOPLAY:"
+      text="JOHNSON, Jaquez rush up middle for 3 yards to the UF25 (Scarlett,J.;Harris,M.), PENALTY FAU holding (WOODS, Antonyo) 10 yards to the UF38, NO PLAY." newcontext="V,3,15,H38">
+    <p_pn vh="V" code="HO" type="holding" name="WOODS, Antonyo" result="ACCEPT" at="H28" yards="10"></p_pn>
+   </play>
+   <play hasball="FAU" down="3" togo="15" spot="UF38" context="V,3,15,H38" playid="8,13,86" type="P" pcode="SI" tokens="PASS:32,C,2A,H29,SI OB: TACK:40"
+      text="JOHNSON, Jaquez sideline pass complete to CLARK, Marcus for 9 yards to the UF29, out-of-bounds (Davis,J.)." ob="Y" newcontext="V,4,6,H29">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="COMP" rcv="CLARK, Marcus" gain="9"></p_pa>
+    <p_tk vh="H" name="Davis,J."></p_tk>
+   </play>
+   <play hasball="FAU" down="4" togo="6" spot="UF29" context="V,4,6,H29" playid="8,14,87" type="F" clock="05:47" tokens="FGA:17,46,M,H29,R T:05:47"
+      text="JOSEPH, Greg I field goal attempt from 46 MISSED - wide right, spot at UF29, clock 05:47." newcontext="H,1,10,H29">
+    <p_fg vh="V" name="JOSEPH, Greg I" distance="46" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="10" yards="51" top="4:31" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="H,H29,05:47" vh="H" spot="H29" clock="05:47" driveindex="9,87"></drivestart>
+   <play hasball="UF" down="1" togo="10" spot="UF29" context="H,1,10,H29" playid="9,1,88" clock="05:47" tokens="{DRIVE}:05:47"
+      text="FLORIDA drive start at 05:47." newcontext="H,1,10,H29">
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="UF29" context="H,1,10,H29" playid="9,2,89" type="P" pcode="SI" tokens="PASS:3,S,TM,H18,SI SACK:94"
+      text="Harris,Tr. sacked for loss of 11 yards to the UF18 (SNYDER, Hunter)." newcontext="H,2,21,H18">
+    <p_pa vh="H" qb="Harris,Tr." result="SACK" gain="-11"></p_pa>
+    <p_tk vh="V" name="SNYDER, Hunter" sack="Y"></p_tk>
+   </play>
+   <play hasball="UF" down="2" togo="21" spot="UF18" context="H,2,21,H18" playid="9,3,90" type="R" pcode="QD" tokens="RUSH:3,H32,QD TACK:18"
+      text="Harris,Tr. rush quarterback draw for 14 yards to the UF32 (YOUNG, Jalen)." newcontext="H,3,7,H32">
+    <p_ru vh="H" name="Harris,Tr." gain="14"></p_ru>
+    <p_tk vh="V" name="YOUNG, Jalen"></p_tk>
+   </play>
+   <play hasball="UF" down="3" togo="7" spot="UF32" context="H,3,7,H32" playid="9,4,91" type="P" pcode="SI" tokens="PASS:3,C,89,H38,SI"
+      text="Harris,Tr. sideline pass complete to Bailey,A. for 6 yards to the UF38." newcontext="H,4,1,H38">
+    <p_pa vh="H" qb="Harris,Tr." result="COMP" rcv="Bailey,A." gain="6"></p_pa>
+   </play>
+   <play hasball="UF" down="4" togo="1" spot="UF38" context="H,4,1,H38" playid="9,5,92" type="U" tokens="PUNT:19,V13 FC:88"
+      text="Townsend,J. punt 49 yards to the FAU13, fair catch by STOSHAK, Jenson." newcontext="V,1,10,V13">
+    <p_pu vh="H" name="Townsend,J." gain="49" in20="Y" fc="STOSHAK, Jenson"></p_pu>
+   </play>
+   <drivesum plays="3" yards="9" top="2:01" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="V,V13,03:46" vh="V" spot="V13" clock="03:46" driveindex="10,92"></drivestart>
+   <play hasball="FAU" down="1" togo="10" spot="FAU13" context="V,1,10,V13" playid="10,1,93" clock="03:46" tokens="{DRIVE}:03:46"
+      text="FAU drive start at 03:46." newcontext="V,1,10,V13">
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU13" context="V,1,10,V13" playid="10,2,94" type="P" pcode="SI" tokens="PASS:32,C,81,V20,SI OB: TACK:42"
+      text="JOHNSON, Jaquez sideline pass complete to WOODS, Kalib for 7 yards to the FAU20, out-of-bounds (Neal,K.)." ob="Y" newcontext="V,2,3,V20">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="COMP" rcv="WOODS, Kalib" gain="7"></p_pa>
+    <p_tk vh="H" name="Neal,K."></p_tk>
+   </play>
+   <play hasball="FAU" down="2" togo="3" spot="FAU20" context="V,2,3,V20" playid="10,3,95" type="R" pcode="MI" first="R" tokens="RUSH:9,V24,MI TACK:54,40"
+      text="HOWELL, Greg rush up middle for 4 yards to the FAU24, 1ST DOWN FAU (Clark,K.;Davis,J.)." newcontext="V,1,10,V24">
+    <p_ru vh="V" name="HOWELL, Greg" gain="4"></p_ru>
+    <p_tk vh="H" name="Clark,K." assist="Y"></p_tk>
+    <p_tk vh="H" name="Davis,J." assist="Y"></p_tk>
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU24" context="V,1,10,V24" playid="10,4,96" type="R" pcode="RG" tokens="RUSH:9,V30,RG TACK:23"
+      text="HOWELL, Greg rush over right guard for 6 yards to the FAU30 (Powell,J.)." newcontext="V,2,4,V30">
+    <p_ru vh="V" name="HOWELL, Greg" gain="6"></p_ru>
+    <p_tk vh="H" name="Powell,J."></p_tk>
+   </play>
+   <play hasball="FAU" down="2" togo="4" spot="FAU30" context="V,2,4,V30" playid="10,5,97" type="P" pcode="SI" tokens="PASS:32,I,1,*,SI"
+      text="JOHNSON, Jaquez sideline pass incomplete to BUSSEY, Henry." newcontext="V,3,4,V30">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="INC" rcv="BUSSEY, Henry"></p_pa>
+   </play>
+   <play hasball="FAU" down="3" togo="4" spot="FAU30" context="V,3,4,V30" playid="10,6,98" type="E" pcode="SI" first="E" tokens="PASS:32,I,80,*,SI PEN:H,RP,A,42,V45,N NOPLAY:"
+      text="JOHNSON, Jaquez sideline pass incomplete to TERRY, Nate, PENALTY UF roughing passer (Neal,K.) 15 yards to the FAU45, 1ST DOWN FAU, NO PLAY." newcontext="V,1,10,V45">
+    <p_pn vh="H" code="RP" type="roughing passer" name="Neal,K." result="ACCEPT" at="V30" yards="15"></p_pn>
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU45" context="V,1,10,V45" playid="10,7,99" type="P" pcode="SI" tokens="PASS:32,C,88,V50,SI TACK:6"
+      text="JOHNSON, Jaquez sideline pass complete to STOSHAK, Jenson for 5 yards to the 50 yardline (Wilson,Q.)." newcontext="V,2,5,V50">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="COMP" rcv="STOSHAK, Jenson" gain="5"></p_pa>
+    <p_tk vh="H" name="Wilson,Q."></p_tk>
+   </play>
+   <play hasball="FAU" down="2" togo="5" spot="FAU50" context="V,2,5,V50" playid="10,8,100" type="P" pcode="SI" tokens="PASS:32,I,88,*,SI"
+      text="JOHNSON, Jaquez sideline pass incomplete to STOSHAK, Jenson." newcontext="V,3,5,V50">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="INC" rcv="STOSHAK, Jenson"></p_pa>
+   </play>
+   <play hasball="FAU" down="3" togo="5" spot="FAU50" context="V,3,5,V50" playid="10,9,101" type="P" tokens="PASS:32,I,82,* BRUP:31"
+      text="JOHNSON, Jaquez pass incomplete to SOLOMON, Kamrin (Tabor,J.)." newcontext="V,4,5,V50">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="INC" rcv="SOLOMON, Kamrin"></p_pa>
+    <p_bu vh="H" name="Tabor,J."></p_bu>
+   </play>
+   <play hasball="FAU" down="4" togo="5" spot="FAU50" context="V,4,5,V50" playid="10,10,102" type="U" tokens="PUNT:67,H06 FC:81"
+      text="SCHOMP, Dalton punt 44 yards to the UF6, fair catch by Callaway,A.." newcontext="H,1,10,H06">
+    <p_pu vh="V" name="SCHOMP, Dalton" gain="44" in20="Y" fc="Callaway,A."></p_pu>
+   </play>
+   <drivesum plays="7" yards="37" top="2:02" driveindex="10" complete="Y"></drivesum>
+   <drivestart poss="H,H06,01:44" vh="H" spot="H06" clock="01:44" driveindex="11,102"></drivestart>
+   <play hasball="UF" down="1" togo="10" spot="UF06" context="H,1,10,H06" playid="11,1,103" clock="01:44" tokens="{DRIVE}:01:44"
+      text="FLORIDA drive start at 01:44." newcontext="H,1,10,H06">
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="UF06" context="H,1,10,H06" playid="11,2,104" type="R" pcode="RG" tokens="RUSH:32,H07,RG TACK:28,2"
+      text="Cronkrite,J. rush over right guard for 1 yard to the UF7 (AL-SHAAIR, Azee;BRYANT, Brandin)." newcontext="H,2,9,H07">
+    <p_ru vh="H" name="Cronkrite,J." gain="1"></p_ru>
+    <p_tk vh="V" name="AL-SHAAIR, Azee" assist="Y"></p_tk>
+    <p_tk vh="V" name="BRYANT, Brandin" assist="Y"></p_tk>
+   </play>
+   <play hasball="UF" down="2" togo="9" spot="UF07" context="H,2,9,H07" playid="11,3,105" type="R" pcode="LT" tokens="RUSH:32,H08,LT TACK:2,28"
+      text="Cronkrite,J. rush over left tackle for 1 yard to the UF8 (BRYANT, Brandin;AL-SHAAIR, Azee)." newcontext="H,3,8,H08">
+    <p_ru vh="H" name="Cronkrite,J." gain="1"></p_ru>
+    <p_tk vh="V" name="BRYANT, Brandin" assist="Y"></p_tk>
+    <p_tk vh="V" name="AL-SHAAIR, Azee" assist="Y"></p_tk>
+   </play>
+   <play hasball="UF" down="3" togo="8" spot="UF08" context="H,3,8,H08" playid="11,4,106" type="R" pcode="QD" tokens="RUSH:3,H12,QD TACK:1"
+      text="Harris,Tr. rush quarterback draw for 4 yards to the UF12 (BUSSEY, Henry)." newcontext="H,4,4,H12">
+    <p_ru vh="H" name="Harris,Tr." gain="4"></p_ru>
+    <p_tk vh="V" name="BUSSEY, Henry"></p_tk>
+   </play>
+   <play hasball="UF" down="4" togo="4" spot="UF12" context="H,4,4,H12" playid="11,5,107" type="#" clock="00:17" tokens="TOUT:V T:00:17"
+      text="Timeout FAU, clock 00:17." newcontext="H,4,4,H12">
+    <p_to vh="V" team="FAU"></p_to>
+   </play>
+   <play hasball="UF" down="4" togo="4" spot="UF12" context="H,4,4,H12" playid="11,6,108" type="U" tokens="PUNT:19,V31 RET:88,V36 TACK:85"
+      text="Townsend,J. punt 57 yards to the FAU31, STOSHAK, Jenson return 5 yards to the FAU36 (Thompson,Ch.)." newcontext="V,1,10,V36">
+    <p_pu vh="H" name="Townsend,J." gain="57"></p_pu>
+    <p_pr vh="V" name="STOSHAK, Jenson" gain="5"></p_pr>
+    <p_tk vh="H" name="Thompson,Ch."></p_tk>
+   </play>
+   <drivesum plays="3" yards="6" top="1:38" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="V,V36,00:06" vh="V" spot="V36" clock="00:06" driveindex="12,108"></drivestart>
+   <play hasball="FAU" down="1" togo="10" spot="FAU36" context="V,1,10,V36" playid="12,1,109" clock="00:06" tokens="{DRIVE}:00:06"
+      text="FAU drive start at 00:06." newcontext="V,1,10,V36">
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU36" context="V,1,10,V36" playid="12,2,110" type="R" pcode="MI" tokens="RUSH:2A,V37,MI TACK:54,3M"
+      text="CLARK, Marcus rush up middle for 1 yard to the FAU37 (Clark,K.;Morrison,A.)." newcontext="V,2,9,V37">
+    <p_ru vh="V" name="CLARK, Marcus" gain="1"></p_ru>
+    <p_tk vh="H" name="Clark,K." assist="Y"></p_tk>
+    <p_tk vh="H" name="Morrison,A." assist="Y"></p_tk>
+   </play>
+   <play hasball="FAU" down="2" togo="9" spot="FAU37" context="V,2,9,V37" playid="12,3,111" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of half, clock 00:00." newcontext="V,2,9,V37">
+   </play>
+   <drivesum plays="1" yards="1" top="0:06" driveindex="12" complete="Y"></drivesum>
+   <score qtr="2" V="0" H="0"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="FAU">
+    <firstdowns no="5" rush="3" pass="1" penalty="1"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="1" thirdatt="6" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:07"></misc>
+    <rush att="9" yds="43" gain="43" loss="0" td="0" long="0"></rush>
+    <pass comp="7" att="11" int="0" yds="45" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="7" yds="45" td="0" long="0"></rcv>
+    <punt no="3" yds="143" long="12" blkd="0" tb="0" fc="2" plus50="1" inside20="1" avg="47.7"></punt>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <defense tackua="7" tacka="6" tot_tack="13" tflua="2" tfla="0" tflyds="16" sacks="1" sackyds="11"></defense>
+    <pr no="1" yds="5" td="0" long="5"></pr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UF">
+    <firstdowns no="0" rush="0" pass="0" penalty="0"></firstdowns>
+    <penalties no="2" yds="20"></penalties>
+    <conversions thirdconv="0" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:53"></misc>
+    <rush att="9" yds="21" gain="37" loss="16" td="0" long="7"></rush>
+    <pass comp="1" att="3" int="0" yds="6" td="0" long="0" sacks="1" sackyds="11"></pass>
+    <rcv no="1" yds="6" td="0" long="0"></rcv>
+    <punt no="3" yds="163" long="8" blkd="0" tb="0" fc="1" plus50="2" inside20="2" avg="54.3"></punt>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <defense tackua="14" tacka="6" tot_tack="20" tflua="1" tfla="0" tflyds="2" sacks="0" sackyds="0" brup="1"></defense>
+    <pr no="1" yds="52" td="0" long="50"></pr>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="FAU" down="2" togo="9" spot="FAU37" context="V,2,9,V37" playid="12,4,112" type="#" clock="15:00" tokens="Q:3 T:15:00 SPOT:H,H35,N"
+      text="Start of 3rd quarter, clock 15:00, UF ball on UF35." newcontext="H,2,9,H35">
+   </play>
+   <play hasball="UF" down="2" togo="9" spot="UF35" context="H,2,9,H35" playid="12,5,113" type="K" tokens="KO:16,V00 TB:"
+      text="Hardin,A. kickoff 65 yards to the FAU0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Hardin,A." gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,15:00" vh="V" spot="V25" clock="15:00" driveindex="13,113"></drivestart>
+   <play hasball="FAU" down="1" togo="10" spot="FAU25" context="V,1,10,V25" playid="13,1,114" clock="15:00" tokens="{DRIVE}:15:00"
+      text="FAU drive start at 15:00." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU25" context="V,1,10,V25" playid="13,2,115" type="P" tokens="PASS:32,S,TM,V22 SACK:54"
+      text="JOHNSON, Jaquez sacked for loss of 3 yards to the FAU22 (Clark,K.)." newcontext="V,2,13,V22">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="SACK" gain="-3"></p_pa>
+    <p_tk vh="H" name="Clark,K." sack="Y"></p_tk>
+   </play>
+   <play hasball="FAU" down="2" togo="13" spot="FAU22" context="V,2,13,V22" playid="13,3,116" type="P" pcode="SL" tokens="PASS:32,B,1,*,SL BRUP:90"
+      text="JOHNSON, Jaquez slant pass incomplete to BUSSEY, Henry (Bullard,J.)." newcontext="V,3,13,V22">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="BRUP" rcv="BUSSEY, Henry"></p_pa>
+    <p_bu vh="H" name="Bullard,J."></p_bu>
+   </play>
+   <comment text="pass knocked down at the line"></comment>
+   <play hasball="FAU" down="3" togo="13" spot="FAU22" context="V,3,13,V22" playid="13,4,118" type="P" pcode="SC" tokens="PASS:32,C,1,V19,SC TACK:24"
+      text="JOHNSON, Jaquez screen pass complete to BUSSEY, Henry for loss of 3 yards to the FAU19 (Poole,B.)." newcontext="V,4,16,V19">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="COMP" rcv="BUSSEY, Henry" gain="-3"></p_pa>
+    <p_tk vh="H" name="Poole,B."></p_tk>
+   </play>
+   <play hasball="FAU" down="4" togo="16" spot="FAU19" context="V,4,16,V19" playid="13,5,119" type="U" tokens="PUNT:67,H21 RET:81,H22 TACK:67 PEN:H,BL,A,31,H12,N D:1,10 SPOT:H,H12,Y"
+      text="SCHOMP, Dalton punt 60 yards to the UF21, Callaway,A. return 1 yards to the UF22 (SCHOMP, Dalton), PENALTY UF illegal block (Tabor,J.) 10 yards to the UF12, 1st and 10, UF ball on UF12." newcontext="H,1,10,H12">
+    <p_pu vh="V" name="SCHOMP, Dalton" gain="60"></p_pu>
+    <p_pr vh="H" name="Callaway,A." gain="1"></p_pr>
+    <p_tk vh="V" name="SCHOMP, Dalton"></p_tk>
+    <p_pn vh="H" code="BL" type="illegal block" name="Tabor,J." result="ACCEPT" at="H22" yards="10"></p_pn>
+   </play>
+   <drivesum plays="3" yards="-6" top="1:37" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="H,H12,13:23" vh="H" spot="H12" clock="13:23" driveindex="14,119"></drivestart>
+   <play hasball="UF" down="1" togo="10" spot="UF12" context="H,1,10,H12" playid="14,1,120" clock="13:23" tokens="{DRIVE}:13:23"
+      text="FLORIDA drive start at 13:23." newcontext="H,1,10,H12">
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="UF12" context="H,1,10,H12" playid="14,2,121" type="E" tokens="PEN:H,FS,A,21,H07,N"
+      text="PENALTY UF false start (Taylor,Kel.) 5 yards to the UF7." newcontext="H,1,15,H07">
+    <p_pn vh="H" code="FS" type="false start" name="Taylor,Kel." result="ACCEPT" at="H12" yards="5"></p_pn>
+   </play>
+   <play hasball="UF" down="1" togo="15" spot="UF07" context="H,1,15,H07" playid="14,3,122" type="R" pcode="MI" first="R" tokens="RUSH:21,H27,MI TACK:23"
+      text="Taylor,Kel. rush up middle for 20 yards to the UF27, 1ST DOWN UF (WILLIAMS, Raekw)." newcontext="H,1,10,H27">
+    <p_ru vh="H" name="Taylor,Kel." gain="20"></p_ru>
+    <p_tk vh="V" name="WILLIAMS, Raekw"></p_tk>
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="UF27" context="H,1,10,H27" playid="14,4,123" type="R" pcode="RE" tokens="RUSH:21,H26,RE TACK:2"
+      text="Taylor,Kel. rush over right end for loss of 1 yard to the UF26 (BRYANT, Brandin)." newcontext="H,2,11,H26">
+    <p_ru vh="H" name="Taylor,Kel." gain="-1"></p_ru>
+    <p_tk vh="V" name="BRYANT, Brandin"></p_tk>
+   </play>
+   <play hasball="UF" down="2" togo="11" spot="UF26" context="H,2,11,H26" playid="14,5,124" type="P" pcode="DP" tokens="PASS:3,I,11,*,DP"
+      text="Harris,Tr. deep pass incomplete to Robinson,D.." newcontext="H,3,11,H26">
+    <p_pa vh="H" qb="Harris,Tr." result="INC" rcv="Robinson,D."></p_pa>
+   </play>
+   <play hasball="UF" down="3" togo="11" spot="UF26" context="H,3,11,H26" playid="14,6,125" type="R" pcode="RE" tokens="RUSH:3,H27,RE OB: TACK:9D"
+      text="Harris,Tr. rush over right end for 1 yard to the UF27, out-of-bounds (HENDRICKSON, Tr)." ob="Y" newcontext="H,4,10,H27">
+    <p_ru vh="H" name="Harris,Tr." gain="1"></p_ru>
+    <p_tk vh="V" name="HENDRICKSON, Tr"></p_tk>
+   </play>
+   <comment text="scramble from pass formation"></comment>
+   <play hasball="UF" down="4" togo="10" spot="UF27" context="H,4,10,H27" playid="14,7,127" type="U" tokens="PUNT:19,V31 FC:88"
+      text="Townsend,J. punt 42 yards to the FAU31, fair catch by STOSHAK, Jenson." newcontext="V,1,10,V31">
+    <p_pu vh="H" name="Townsend,J." gain="42" fc="STOSHAK, Jenson"></p_pu>
+   </play>
+   <drivesum plays="4" yards="15" top="1:42" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="V,V31,11:41" vh="V" spot="V31" clock="11:41" driveindex="15,127"></drivestart>
+   <play hasball="FAU" down="1" togo="10" spot="FAU31" context="V,1,10,V31" playid="15,1,128" clock="11:41" tokens="{DRIVE}:11:41"
+      text="FAU drive start at 11:41." newcontext="V,1,10,V31">
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU31" context="V,1,10,V31" playid="15,2,129" tokens="QB:V,16"
+      text="DRISKEL, Jason at QB for FAU." newcontext="V,1,10,V31">
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU31" context="V,1,10,V31" playid="15,3,130" type="P" pcode="DI" tokens="PASS:16,I,1,*,DI"
+      text="DRISKEL, Jason deep in pass incomplete to BUSSEY, Henry." newcontext="V,2,10,V31">
+    <p_pa vh="V" qb="DRISKEL, Jason" result="INC" rcv="BUSSEY, Henry"></p_pa>
+   </play>
+   <play hasball="FAU" down="2" togo="10" spot="FAU31" context="V,2,10,V31" playid="15,4,131" type="R" pcode="RE" tokens="RUSH:16,V40,RE TACK:40"
+      text="DRISKEL, Jason rush over right end for 9 yards to the FAU40 (Davis,J.)." newcontext="V,3,1,V40">
+    <p_ru vh="V" name="DRISKEL, Jason" gain="9"></p_ru>
+    <p_tk vh="H" name="Davis,J."></p_tk>
+   </play>
+   <play hasball="FAU" down="3" togo="1" spot="FAU40" context="V,3,1,V40" playid="15,5,132" type="R" pcode="QS" first="R" tokens="RUSH:16,V42,QS TACK:90,42"
+      text="DRISKEL, Jason rush quarterback sneak for 2 yards to the FAU42, 1ST DOWN FAU (Bullard,J.;Neal,K.)." newcontext="V,1,10,V42">
+    <p_ru vh="V" name="DRISKEL, Jason" gain="2"></p_ru>
+    <p_tk vh="H" name="Bullard,J." assist="Y"></p_tk>
+    <p_tk vh="H" name="Neal,K." assist="Y"></p_tk>
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU42" context="V,1,10,V42" playid="15,6,133" type="P" pcode="SI" tokens="PASS:16,C,81,H49,SI"
+      text="DRISKEL, Jason sideline pass complete to WOODS, Kalib for 9 yards to the UF49." newcontext="V,2,1,H49">
+    <p_pa vh="V" qb="DRISKEL, Jason" result="COMP" rcv="WOODS, Kalib" gain="9"></p_pa>
+   </play>
+   <play hasball="FAU" down="2" togo="1" spot="UF49" context="V,2,1,H49" playid="15,7,134" type="R" pcode="MI" first="R" tokens="RUSH:25,H41,MI TACK:95"
+      text="WARREN, Jay rush up middle for 8 yards to the UF41, 1ST DOWN FAU (Davis,K.)." newcontext="V,1,10,H41">
+    <p_ru vh="V" name="WARREN, Jay" gain="8"></p_ru>
+    <p_tk vh="H" name="Davis,K."></p_tk>
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="UF41" context="V,1,10,H41" playid="15,8,135" type="P" turnover="F" tokens="PASS:16,F,TM,H50 SACK:3M FUMB:H,H50,93 +:93,V02 TACK:25"
+      text="DRISKEL, Jason sacked for loss of 9 yards to the 50 yardline (Morrison,A.), fumble by DRISKEL, Jason recovered by UF Bryan,T. at 50 yardline, Bryan,T. for 48 yards to the FAU2 (WARREN, Jay)." newcontext="H,1,0,V02">
+    <p_pa vh="V" qb="DRISKEL, Jason" result="FUMB" gain="-9"></p_pa>
+    <p_fr vh="H" name="Bryan,T." gain="48"></p_fr>
+    <p_fumb vh="V" name="DRISKEL, Jason" at="H50" frvh="H" frname="Bryan,T."></p_fumb>
+    <p_tk vh="H" name="Morrison,A." sack="Y"></p_tk>
+    <p_tk vh="V" name="WARREN, Jay"></p_tk>
+   </play>
+   <comment text="FAU challenges the fumble call.  Charged a T/O"></comment>
+   <drivesum plays="6" yards="19" top="1:40" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="H,V02,11:41" vh="H" spot="V02" clock="11:41" driveindex="16,135"></drivestart>
+   <play hasball="UF" down="1" togo="0" spot="FAU02" context="H,1,0,V02" playid="16,1,137" type="#" clock="10:01" tokens="TOUT:V T:10:01"
+      text="Timeout FAU, clock 10:01." newcontext="H,1,0,V02">
+    <p_to vh="V" team="FAU"></p_to>
+   </play>
+   <play hasball="UF" down="1" togo="0" spot="FAU02" context="H,1,0,V02" playid="16,2,138" clock="10:01" tokens="{DRIVE}:10:01 SPOT:H,V02,Y"
+      text="FLORIDA drive start at 10:01, UF ball on FAU2." newcontext="H,1,0,V02">
+   </play>
+   <play hasball="UF" down="1" togo="0" spot="FAU02" context="H,1,0,V02" playid="16,3,139" type="R" pcode="LE" tokens="RUSH:21,V01,LE TACK:7,11"
+      text="Taylor,Kel. rush over left end for 1 yard to the FAU1 (LEBLANC, C.;COLEY, Trevon)." newcontext="H,2,0,V01">
+    <p_ru vh="H" name="Taylor,Kel." gain="1"></p_ru>
+    <p_tk vh="V" name="LEBLANC, C." assist="Y"></p_tk>
+    <p_tk vh="V" name="COLEY, Trevon" assist="Y"></p_tk>
+   </play>
+   <play hasball="UF" down="2" togo="0" spot="FAU01" context="H,2,0,V01" playid="16,4,140" type="R" pcode="LT" score="Y" vscore="0" hscore="6" clock="09:44" tokens="RUSH:21,V00,LT T:09:44"
+      text="Taylor,Kel. rush over left tackle for 1 yard to the FAU0, TOUCHDOWN, clock 09:44." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Taylor,Kel." gain="1"></p_ru>
+   </play>
+   <play hasball="UF" down="1" togo="0" spot="FAU03" context="H,1,0,V03" playid="16,5,141" type="X" score="Y" vscore="0" hscore="7" tokens="PAT:K,16,G"
+      text="Hardin,A. kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Hardin,A." qb="Hardin,A." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="7"></score>
+   <drivesum plays="2" yards="2" top="0:17" driveindex="16" complete="Y"></drivesum>
+   <play hasball="UF" down="1" togo="0" spot="UF35" context="H,1,0,H35" playid="16,6,142" type="K" tokens="KO:16,V00 TB:"
+      text="Hardin,A. kickoff 65 yards to the FAU0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Hardin,A." gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,09:44" vh="V" spot="V25" clock="09:44" driveindex="17,142"></drivestart>
+   <play hasball="FAU" down="1" togo="10" spot="FAU25" context="V,1,10,V25" playid="17,1,143" clock="09:44" tokens="{DRIVE}:09:44"
+      text="FAU drive start at 09:44." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU25" context="V,1,10,V25" playid="17,2,144" tokens="QB:V,32"
+      text="JOHNSON, Jaquez at QB for FAU." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU25" context="V,1,10,V25" playid="17,3,145" type="P" tokens="PASS:32,I,88,* BRUP:31"
+      text="JOHNSON, Jaquez pass incomplete to STOSHAK, Jenson (Tabor,J.)." newcontext="V,2,10,V25">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="INC" rcv="STOSHAK, Jenson"></p_pa>
+    <p_bu vh="H" name="Tabor,J."></p_bu>
+   </play>
+   <play hasball="FAU" down="2" togo="10" spot="FAU25" context="V,2,10,V25" playid="17,4,146" type="P" pcode="SL" tokens="PASS:32,I,88,*,SL"
+      text="JOHNSON, Jaquez slant pass incomplete to STOSHAK, Jenson." newcontext="V,3,10,V25">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="INC" rcv="STOSHAK, Jenson"></p_pa>
+   </play>
+   <play hasball="FAU" down="3" togo="10" spot="FAU25" context="V,3,10,V25" playid="17,5,147" type="P" pcode="SI" first="P" tokens="PASS:32,C,82,H49,SI TACK:6"
+      text="JOHNSON, Jaquez sideline pass complete to SOLOMON, Kamrin for 26 yards to the UF49, 1ST DOWN FAU (Wilson,Q.)." newcontext="V,1,10,H49">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="COMP" rcv="SOLOMON, Kamrin" gain="26"></p_pa>
+    <p_tk vh="H" name="Wilson,Q."></p_tk>
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="UF49" context="V,1,10,H49" playid="17,6,148" type="R" pcode="MI" tokens="RUSH:2A,H45,MI TACK:95"
+      text="CLARK, Marcus rush up middle for 4 yards to the UF45 (Davis,K.)." newcontext="V,2,6,H45">
+    <p_ru vh="V" name="CLARK, Marcus" gain="4"></p_ru>
+    <p_tk vh="H" name="Davis,K."></p_tk>
+   </play>
+   <play hasball="FAU" down="2" togo="6" spot="UF45" context="V,2,6,H45" playid="17,7,149" type="P" tokens="PASS:32,S,TM,V50 SACK:96 PEN:V,IG,A,32,V50,N"
+      text="JOHNSON, Jaquez sacked for loss of 5 yards to the 50 yardline (Jefferson,C.), PENALTY FAU intentional grounding (JOHNSON, Jaquez) 0 yards to the 50 yardline." newcontext="V,2,11,V50">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="SACK" gain="-5"></p_pa>
+    <p_tk vh="H" name="Jefferson,C." sack="Y"></p_tk>
+    <p_pn vh="V" code="IG" type="intentional grounding" name="JOHNSON, Jaquez" result="ACCEPT"></p_pn>
+   </play>
+   <play hasball="FAU" down="2" togo="11" spot="FAU50" context="V,2,11,V50" playid="17,8,150" tokens="D:3,11"
+      text="3rd and 11." newcontext="V,3,11,V50">
+   </play>
+   <play hasball="FAU" down="3" togo="11" spot="FAU50" context="V,3,11,V50" playid="17,9,151" type="#" clock="08:34" tokens="T:08:34"
+      text="Clock 08:34." newcontext="V,3,11,V50">
+   </play>
+   <play hasball="FAU" down="3" togo="11" spot="FAU50" context="V,3,11,V50" playid="17,10,152" type="P" tokens="PASS:32,S,TM,V45 SACK:40"
+      text="JOHNSON, Jaquez sacked for loss of 5 yards to the FAU45 (Davis,J.)." newcontext="V,4,16,V45">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="SACK" gain="-5"></p_pa>
+    <p_tk vh="H" name="Davis,J." sack="Y"></p_tk>
+   </play>
+   <play hasball="FAU" down="4" togo="16" spot="FAU45" context="V,4,16,V45" playid="17,11,153" type="U" tokens="PUNT:67,H17 FC:81 PEN:H,PF,A,48,H09,N D:1,10 SPOT:H,H09,Y"
+      text="SCHOMP, Dalton punt 38 yards to the UF17, fair catch by Callaway,A., PENALTY UF personal foul (Harrell,A.) 8 yards to the UF9, 1st and 10, UF ball on UF9." newcontext="H,1,10,H09">
+    <p_pu vh="V" name="SCHOMP, Dalton" gain="38" in20="Y" fc="Callaway,A."></p_pu>
+    <p_pn vh="H" code="PF" type="personal foul" name="Harrell,A." result="ACCEPT" at="H17" yards="8"></p_pn>
+   </play>
+   <drivesum plays="6" yards="20" top="1:57" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="H,H09,07:47" vh="H" spot="H09" clock="07:47" driveindex="18,153"></drivestart>
+   <play hasball="UF" down="1" togo="10" spot="UF09" context="H,1,10,H09" playid="18,1,154" clock="07:47" tokens="{DRIVE}:07:47"
+      text="FLORIDA drive start at 07:47." newcontext="H,1,10,H09">
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="UF09" context="H,1,10,H09" playid="18,2,155" type="R" pcode="LG" tokens="RUSH:21,H12,LG TACK:50"
+      text="Taylor,Kel. rush over left guard for 3 yards to the UF12 (OZDEMIR, Nate)." newcontext="H,2,7,H12">
+    <p_ru vh="H" name="Taylor,Kel." gain="3"></p_ru>
+    <p_tk vh="V" name="OZDEMIR, Nate"></p_tk>
+   </play>
+   <play hasball="UF" down="2" togo="7" spot="UF12" context="H,2,7,H12" playid="18,3,156" type="E" pcode="DP" first="E" tokens="PASS:3,I,81,*,DP PEN:V,PI,A,23,H27,N NOPLAY:"
+      text="Harris,Tr. deep pass incomplete to Callaway,A., PENALTY FAU pass interference (WILLIAMS, Raekw) 15 yards to the UF27, 1ST DOWN UF, NO PLAY." newcontext="H,1,10,H27">
+    <p_pn vh="V" code="PI" type="pass interference" name="WILLIAMS, Raekw" result="ACCEPT" at="H12" yards="15"></p_pn>
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="UF27" context="H,1,10,H27" playid="18,4,157" type="R" pcode="RG" tokens="RUSH:21,H31,RG TACK:28"
+      text="Taylor,Kel. rush over right guard for 4 yards to the UF31 (AL-SHAAIR, Azee)." newcontext="H,2,6,H31">
+    <p_ru vh="H" name="Taylor,Kel." gain="4"></p_ru>
+    <p_tk vh="V" name="AL-SHAAIR, Azee"></p_tk>
+   </play>
+   <play hasball="UF" down="2" togo="6" spot="UF31" context="H,2,6,H31" playid="18,5,158" type="P" pcode="SI" first="P" tokens="PASS:3,C,32,H47,SI OB: TACK:28"
+      text="Harris,Tr. sideline pass complete to Cronkrite,J. for 16 yards to the UF47, 1ST DOWN UF, out-of-bounds (AL-SHAAIR, Azee)." ob="Y" newcontext="H,1,10,H47">
+    <p_pa vh="H" qb="Harris,Tr." result="COMP" rcv="Cronkrite,J." gain="16"></p_pa>
+    <p_tk vh="V" name="AL-SHAAIR, Azee"></p_tk>
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="UF47" context="H,1,10,H47" playid="18,6,159" type="P" pcode="PO" first="P" score="Y" vscore="0" hscore="13" clock="05:34" tokens="PASS:3,C,81,V00,PO T:05:34"
+      text="Harris,Tr. post pass complete to Callaway,A. for 53 yards to the FAU0, 1ST DOWN UF, TOUCHDOWN, clock 05:34." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Harris,Tr." result="COMP" rcv="Callaway,A." gain="53"></p_pa>
+   </play>
+   <play hasball="UF" down="1" togo="0" spot="FAU03" context="H,1,0,V03" playid="18,7,160" type="X" score="Y" vscore="0" hscore="14" tokens="PAT:K,16,G"
+      text="Hardin,A. kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Hardin,A." qb="Hardin,A." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="14"></score>
+   <drivesum plays="4" yards="91" top="2:13" driveindex="18" complete="Y"></drivesum>
+   <play hasball="UF" down="1" togo="0" spot="UF35" context="H,1,0,H35" playid="18,8,161" type="K" tokens="KO:16,V00 RET:7,V25 TACK:26"
+      text="Hardin,A. kickoff 65 yards to the FAU0, LEBLANC, C. return 25 yards to the FAU25 (Harris,M.)." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Hardin,A." gain="65"></p_ko>
+    <p_kr vh="V" name="LEBLANC, C." gain="25"></p_kr>
+    <p_tk vh="H" name="Harris,M."></p_tk>
+   </play>
+   <drivestart poss="V,V25,05:34" vh="V" spot="V25" clock="05:34" driveindex="19,161"></drivestart>
+   <play hasball="FAU" down="1" togo="10" spot="FAU25" context="V,1,10,V25" playid="19,1,162" clock="05:34" tokens="{DRIVE}:05:34"
+      text="FAU drive start at 05:34." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU25" context="V,1,10,V25" playid="19,2,163" type="R" pcode="LG" tokens="RUSH:9,V29,LG TACK:3M"
+      text="HOWELL, Greg rush over left guard for 4 yards to the FAU29 (Morrison,A.)." newcontext="V,2,6,V29">
+    <p_ru vh="V" name="HOWELL, Greg" gain="4"></p_ru>
+    <p_tk vh="H" name="Morrison,A."></p_tk>
+   </play>
+   <play hasball="FAU" down="2" togo="6" spot="FAU29" context="V,2,6,V29" playid="19,3,164" type="P" pcode="SI" first="P" tokens="PASS:32,C,88,H43,SI"
+      text="JOHNSON, Jaquez sideline pass complete to STOSHAK, Jenson for 28 yards to the UF43, 1ST DOWN FAU." newcontext="V,1,10,H43">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="COMP" rcv="STOSHAK, Jenson" gain="28"></p_pa>
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="UF43" context="V,1,10,H43" playid="19,4,165" type="R" pcode="LE" first="R" tokens="RUSH:9,H31,LE OB: TACK:31"
+      text="HOWELL, Greg rush over left end for 12 yards to the UF31, 1ST DOWN FAU, out-of-bounds (Tabor,J.)." ob="Y" newcontext="V,1,10,H31">
+    <p_ru vh="V" name="HOWELL, Greg" gain="12"></p_ru>
+    <p_tk vh="H" name="Tabor,J."></p_tk>
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="UF31" context="V,1,10,H31" playid="19,5,166" type="#" clock="04:25" tokens="T:04:25"
+      text="Clock 04:25." newcontext="V,1,10,H31">
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="UF31" context="V,1,10,H31" playid="19,6,167" type="R" pcode="MI" first="R" tokens="RUSH:9,H21,MI TACK:3M"
+      text="HOWELL, Greg rush up middle for 10 yards to the UF21, 1ST DOWN FAU (Morrison,A.)." newcontext="V,1,10,H21">
+    <p_ru vh="V" name="HOWELL, Greg" gain="10"></p_ru>
+    <p_tk vh="H" name="Morrison,A."></p_tk>
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="UF21" context="V,1,10,H21" playid="19,7,168" type="R" pcode="MI" tokens="RUSH:9,H12,MI TACK:90,26"
+      text="HOWELL, Greg rush up middle for 9 yards to the UF12 (Bullard,J.;Harris,M.)." newcontext="V,2,1,H12">
+    <p_ru vh="V" name="HOWELL, Greg" gain="9"></p_ru>
+    <p_tk vh="H" name="Bullard,J." assist="Y"></p_tk>
+    <p_tk vh="H" name="Harris,M." assist="Y"></p_tk>
+   </play>
+   <play hasball="FAU" down="2" togo="1" spot="UF12" context="V,2,1,H12" playid="19,8,169" type="R" pcode="QD" first="R" tokens="RUSH:32,H10,QD TACK:54"
+      text="JOHNSON, Jaquez rush quarterback draw for 2 yards to the UF10, 1ST DOWN FAU (Clark,K.)." newcontext="V,1,0,H10">
+    <p_ru vh="V" name="JOHNSON, Jaquez" gain="2"></p_ru>
+    <p_tk vh="H" name="Clark,K."></p_tk>
+   </play>
+   <play hasball="FAU" down="1" togo="0" spot="UF10" context="V,1,0,H10" playid="19,9,170" type="P" pcode="SI" tokens="PASS:32,I,81,*,SI BRUP:31"
+      text="JOHNSON, Jaquez sideline pass incomplete to WOODS, Kalib (Tabor,J.)." newcontext="V,2,0,H10">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="INC" rcv="WOODS, Kalib"></p_pa>
+    <p_bu vh="H" name="Tabor,J."></p_bu>
+   </play>
+   <play hasball="FAU" down="2" togo="0" spot="UF10" context="V,2,0,H10" playid="19,10,171" type="R" pcode="LT" tokens="RUSH:9,H10,LT TACK:26,90"
+      text="HOWELL, Greg rush over left tackle for no gain to the UF10 (Harris,M.;Bullard,J.)." newcontext="V,3,0,H10">
+    <p_ru vh="V" name="HOWELL, Greg" gain="0"></p_ru>
+    <p_tk vh="H" name="Harris,M." assist="Y"></p_tk>
+    <p_tk vh="H" name="Bullard,J." assist="Y"></p_tk>
+   </play>
+   <play hasball="FAU" down="3" togo="0" spot="UF10" context="V,3,0,H10" playid="19,11,172" type="P" pcode="PO" score="Y" vscore="6" hscore="14" clock="02:06" tokens="PASS:32,C,81,H00,PO T:02:06"
+      text="JOHNSON, Jaquez post pass complete to WOODS, Kalib for 10 yards to the UF0, TOUCHDOWN, clock 02:06." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="COMP" rcv="WOODS, Kalib" gain="10"></p_pa>
+   </play>
+   <play hasball="FAU" down="1" togo="0" spot="UF03" context="V,1,0,H03" playid="19,12,173" type="X" score="Y" vscore="7" hscore="14" tokens="PAT:K,17,G"
+      text="JOSEPH, Greg I kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="JOSEPH, Greg I" qb="JOSEPH, Greg I" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="14"></score>
+   <drivesum plays="9" yards="75" top="3:28" driveindex="19" complete="Y"></drivesum>
+   <play hasball="FAU" down="1" togo="0" spot="FAU35" context="V,1,0,V35" playid="19,13,174" type="K" tokens="KO:17,H00 RET:4,H22 TACK:82"
+      text="JOSEPH, Greg I kickoff 65 yards to the UF0, Powell,B. return 22 yards to the UF22 (SOLOMON, Kamrin)." newcontext="H,1,10,H22">
+    <p_ko vh="V" name="JOSEPH, Greg I" gain="65"></p_ko>
+    <p_kr vh="H" name="Powell,B." gain="22"></p_kr>
+    <p_tk vh="V" name="SOLOMON, Kamrin"></p_tk>
+   </play>
+   <drivestart poss="H,H22,02:06" vh="H" spot="H22" clock="02:06" driveindex="20,174"></drivestart>
+   <play hasball="UF" down="1" togo="10" spot="UF22" context="H,1,10,H22" playid="20,1,175" clock="02:06" tokens="{DRIVE}:02:06"
+      text="FLORIDA drive start at 02:06." newcontext="H,1,10,H22">
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="UF22" context="H,1,10,H22" playid="20,2,176" type="R" tokens="RUSH:TM,H06, FUMB:H,H09,3"
+      text="TEAM rush for loss of 16 yards to the UF6, fumble by TEAM recovered by UF Harris,Tr. at UF9." newcontext="H,2,23,H09">
+    <p_ru vh="H" name="TEAM" gain="-16"></p_ru>
+    <p_fumb vh="H" name="TEAM" at="H09" frvh="H" frname="Harris,Tr."></p_fumb>
+   </play>
+   <play hasball="UF" down="2" togo="23" spot="UF09" context="H,2,23,H09" playid="20,3,177" type="R" pcode="LE" tokens="RUSH:21,H18,LE OB: TACK:28"
+      text="Taylor,Kel. rush over left end for 9 yards to the UF18, out-of-bounds (AL-SHAAIR, Azee)." ob="Y" newcontext="H,3,14,H18">
+    <p_ru vh="H" name="Taylor,Kel." gain="9"></p_ru>
+    <p_tk vh="V" name="AL-SHAAIR, Azee"></p_tk>
+   </play>
+   <play hasball="UF" down="3" togo="14" spot="UF18" context="H,3,14,H18" playid="20,4,178" type="R" pcode="MI" first="R" tokens="RUSH:3,H43,MI TACK:1A"
+      text="Harris,Tr. rush up middle for 25 yards to the UF43, 1ST DOWN UF (MILLER, Herb)." newcontext="H,1,10,H43">
+    <p_ru vh="H" name="Harris,Tr." gain="25"></p_ru>
+    <p_tk vh="V" name="MILLER, Herb"></p_tk>
+   </play>
+   <comment text="scramble from pass formation"></comment>
+   <score qtr="3" V="7" H="14"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="FAU">
+    <firstdowns no="7" rush="5" pass="2" penalty="0"></firstdowns>
+    <penalties no="2" yds="15"></penalties>
+    <conversions thirdconv="3" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="08:42"></misc>
+    <rush att="14" yds="38" gain="60" loss="22" td="0" long="0"></rush>
+    <pass comp="5" att="10" int="0" yds="70" td="1" long="16" sacks="4" sackyds="22"></pass>
+    <rcv no="5" yds="70" td="1" long="16"></rcv>
+    <punt no="2" yds="98" long="3" blkd="0" tb="0" fc="1" plus50="1" inside20="1" avg="49.0"></punt>
+    <ko no="1" yds="65" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="11" tacka="2" tot_tack="13" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0"></defense>
+    <kr no="1" yds="25" td="0" long="25"></kr>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UF">
+    <firstdowns no="5" rush="2" pass="2" penalty="1"></firstdowns>
+    <penalties no="3" yds="23"></penalties>
+    <conversions thirdconv="0" thirdatt="1" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="06:18"></misc>
+    <rush att="10" yds="50" gain="64" loss="14" td="1" long="11"></rush>
+    <pass comp="2" att="3" int="0" yds="69" td="1" long="41" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="69" td="1" long="41"></rcv>
+    <punt no="1" yds="42" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="42.0"></punt>
+    <ko no="3" yds="195" ob="0" tb="2"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="14" tacka="6" tot_tack="20" tflua="5" tfla="0" tflyds="25" sacks="4" sackyds="22" brup="3" ff="1" fr="1" fryds="48"></defense>
+    <kr no="1" yds="22" td="0" long="22"></kr>
+    <pr no="1" yds="1" td="0" long="0"></pr>
+    <fr no="1" yds="48" td="0" long="48"></fr>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="UF" down="1" togo="10" spot="UF43" context="H,1,10,H43" playid="20,5,180" type="#" clock="15:00" tokens="Q:4 T:15:00"
+      text="Start of 4th quarter, clock 15:00." newcontext="H,1,10,H43">
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="UF43" context="H,1,10,H43" playid="20,6,181" tokens="QB:H,12"
+      text="Grady,J. at QB for Florida." newcontext="H,1,10,H43">
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="UF43" context="H,1,10,H43" playid="20,7,182" type="P" tokens="PASS:12,C,21,H50 TACK:94"
+      text="Grady,J. pass complete to Taylor,Kel. for 7 yards to the 50 yardline (SNYDER, Hunter)." newcontext="H,2,3,H50">
+    <p_pa vh="H" qb="Grady,J." result="COMP" rcv="Taylor,Kel." gain="7"></p_pa>
+    <p_tk vh="V" name="SNYDER, Hunter"></p_tk>
+   </play>
+   <play hasball="UF" down="2" togo="3" spot="UF50" context="H,2,3,H50" playid="20,8,183" tokens="QB:H,3"
+      text="Harris,Tr. at QB for Florida." newcontext="H,2,3,H50">
+   </play>
+   <play hasball="UF" down="2" togo="3" spot="UF50" context="H,2,3,H50" playid="20,9,184" type="R" pcode="RE" first="R" tokens="RUSH:21,V31,RE OB: TACK:7"
+      text="Taylor,Kel. rush over right end for 19 yards to the FAU31, 1ST DOWN UF, out-of-bounds (LEBLANC, C.)." ob="Y" newcontext="H,1,10,V31">
+    <p_ru vh="H" name="Taylor,Kel." gain="19"></p_ru>
+    <p_tk vh="V" name="LEBLANC, C."></p_tk>
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="FAU31" context="H,1,10,V31" playid="20,10,185" type="#" clock="14:11" tokens="T:14:11"
+      text="Clock 14:11." newcontext="H,1,10,V31">
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="FAU31" context="H,1,10,V31" playid="20,11,186" type="P" pcode="DP" turnover="I" tokens="PASS:3,X,29,V00,DP RET:29,V00 TB:"
+      text="Harris,Tr. deep pass intercepted by NEASMAN, Sharro at the FAU0, NEASMAN, Sharro return 0 yards to the FAU0, touchback." newcontext="V,1,10,V20">
+    <p_pa vh="H" qb="Harris,Tr." result="INT"></p_pa>
+    <p_ir vh="V" name="NEASMAN, Sharro" at="V00" gain="0"></p_ir>
+   </play>
+   <drivesum plays="6" yards="47" top="3:30" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="V,V20,13:36" vh="V" spot="V20" clock="13:36" driveindex="21,186"></drivestart>
+   <play hasball="FAU" down="1" togo="10" spot="FAU20" context="V,1,10,V20" playid="21,1,187" clock="13:36" tokens="{DRIVE}:13:36"
+      text="FAU drive start at 13:36." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU20" context="V,1,10,V20" playid="21,2,188" type="P" tokens="PASS:32,B,88,* BRUP:54"
+      text="JOHNSON, Jaquez pass incomplete to STOSHAK, Jenson (Clark,K.)." newcontext="V,2,10,V20">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="BRUP" rcv="STOSHAK, Jenson"></p_pa>
+    <p_bu vh="H" name="Clark,K."></p_bu>
+   </play>
+   <play hasball="FAU" down="2" togo="10" spot="FAU20" context="V,2,10,V20" playid="21,3,189" type="R" pcode="LE" tokens="RUSH:32,V20,LE TACK:40"
+      text="JOHNSON, Jaquez rush over left end for no gain to the FAU20 (Davis,J.)." newcontext="V,3,10,V20">
+    <p_ru vh="V" name="JOHNSON, Jaquez" gain="0"></p_ru>
+    <p_tk vh="H" name="Davis,J."></p_tk>
+   </play>
+   <play hasball="FAU" down="3" togo="10" spot="FAU20" context="V,3,10,V20" playid="21,4,190" type="P" pcode="CR" turnover="I" tokens="PASS:32,X,31,V21,CR RET:31,V21"
+      text="JOHNSON, Jaquez crossing pass intercepted by Tabor,J. at the FAU21, Tabor,J. return 0 yards to the FAU21." newcontext="H,1,10,V21">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="INT"></p_pa>
+    <p_ir vh="H" name="Tabor,J." at="V21" gain="0"></p_ir>
+   </play>
+   <drivesum plays="3" yards="0" top="0:53" driveindex="21" complete="Y"></drivesum>
+   <drivestart poss="H,V21,12:43" vh="H" spot="V21" clock="12:43" driveindex="22,190"></drivestart>
+   <play hasball="UF" down="1" togo="10" spot="FAU21" context="H,1,10,V21" playid="22,1,191" clock="12:43" tokens="{DRIVE}:12:43"
+      text="FLORIDA drive start at 12:43." newcontext="H,1,10,V21">
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="FAU21" context="H,1,10,V21" playid="22,2,192" type="R" pcode="MI" tokens="RUSH:21,V15,MI TACK:29"
+      text="Taylor,Kel. rush up middle for 6 yards to the FAU15 (NEASMAN, Sharro)." newcontext="H,2,4,V15">
+    <p_ru vh="H" name="Taylor,Kel." gain="6"></p_ru>
+    <p_tk vh="V" name="NEASMAN, Sharro"></p_tk>
+   </play>
+   <play hasball="UF" down="2" togo="4" spot="FAU15" context="H,2,4,V15" playid="22,3,193" type="R" pcode="RG" tokens="RUSH:21,V14,RG TACK:18,59"
+      text="Taylor,Kel. rush over right guard for 1 yard to the FAU14 (YOUNG, Jalen;EUGENE, R.)." newcontext="H,3,3,V14">
+    <p_ru vh="H" name="Taylor,Kel." gain="1"></p_ru>
+    <p_tk vh="V" name="YOUNG, Jalen" assist="Y"></p_tk>
+    <p_tk vh="V" name="EUGENE, R." assist="Y"></p_tk>
+   </play>
+   <play hasball="UF" down="3" togo="3" spot="FAU14" context="H,3,3,V14" playid="22,4,194" type="R" pcode="LT" tokens="RUSH:21,V15,LT TACK:34"
+      text="Taylor,Kel. rush over left tackle for loss of 1 yard to the FAU15 (WHITFIELD, F.)." newcontext="H,4,4,V15">
+    <p_ru vh="H" name="Taylor,Kel." gain="-1"></p_ru>
+    <p_tk vh="V" name="WHITFIELD, F."></p_tk>
+   </play>
+   <play hasball="UF" down="4" togo="4" spot="FAU15" context="H,4,4,V15" playid="22,5,195" type="F" clock="10:33" tokens="FGA:16,34,M,V20,R T:10:33"
+      text="Hardin,A. field goal attempt from 34 MISSED - wide right, spot at FAU20, clock 10:33." newcontext="V,1,10,V20">
+    <p_fg vh="H" name="Hardin,A." distance="34" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="4" yards="6" top="2:10" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="V,V20,10:33" vh="V" spot="V20" clock="10:33" driveindex="23,195"></drivestart>
+   <play hasball="FAU" down="1" togo="10" spot="FAU20" context="V,1,10,V20" playid="23,1,196" clock="10:33" tokens="{DRIVE}:10:33"
+      text="FAU drive start at 10:33." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU20" context="V,1,10,V20" playid="23,2,197" type="R" pcode="MI" tokens="RUSH:25,V23,MI TACK:96"
+      text="WARREN, Jay rush up middle for 3 yards to the FAU23 (Jefferson,C.)." newcontext="V,2,7,V23">
+    <p_ru vh="V" name="WARREN, Jay" gain="3"></p_ru>
+    <p_tk vh="H" name="Jefferson,C."></p_tk>
+   </play>
+   <play hasball="FAU" down="2" togo="7" spot="FAU23" context="V,2,7,V23" playid="23,3,198" type="P" pcode="SI" first="P" tokens="PASS:32,C,82,V30,SI TACK:6"
+      text="JOHNSON, Jaquez sideline pass complete to SOLOMON, Kamrin for 7 yards to the FAU30, 1ST DOWN FAU (Wilson,Q.)." newcontext="V,1,10,V30">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="COMP" rcv="SOLOMON, Kamrin" gain="7"></p_pa>
+    <p_tk vh="H" name="Wilson,Q."></p_tk>
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU30" context="V,1,10,V30" playid="23,4,199" type="R" pcode="QD" tokens="RUSH:32,V31,QD TACK:13"
+      text="JOHNSON, Jaquez rush quarterback draw for 1 yard to the FAU31 (McMillian,D.)." newcontext="V,2,9,V31">
+    <p_ru vh="V" name="JOHNSON, Jaquez" gain="1"></p_ru>
+    <p_tk vh="H" name="McMillian,D."></p_tk>
+   </play>
+   <play hasball="FAU" down="2" togo="9" spot="FAU31" context="V,2,9,V31" playid="23,5,200" type="P" pcode="SC" tokens="PASS:32,I,2A,*,SC"
+      text="JOHNSON, Jaquez screen pass incomplete to CLARK, Marcus." newcontext="V,3,9,V31">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="INC" rcv="CLARK, Marcus"></p_pa>
+   </play>
+   <play hasball="FAU" down="3" togo="9" spot="FAU31" context="V,3,9,V31" playid="23,6,201" type="P" pcode="MI" tokens="PASS:32,I,82,*,MI BRUP:31"
+      text="JOHNSON, Jaquez middle pass incomplete to SOLOMON, Kamrin (Tabor,J.)." newcontext="V,4,9,V31">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="INC" rcv="SOLOMON, Kamrin"></p_pa>
+    <p_bu vh="H" name="Tabor,J."></p_bu>
+   </play>
+   <play hasball="FAU" down="4" togo="9" spot="FAU31" context="V,4,9,V31" playid="23,7,202" type="U" tokens="PUNT:67,H10 DN:"
+      text="SCHOMP, Dalton punt 59 yards to the UF10, downed." newcontext="H,1,10,H10">
+    <p_pu vh="V" name="SCHOMP, Dalton" gain="59" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="5" yards="11" top="1:41" driveindex="23" complete="Y"></drivesum>
+   <drivestart poss="H,H10,08:52" vh="H" spot="H10" clock="08:52" driveindex="24,202"></drivestart>
+   <play hasball="UF" down="1" togo="10" spot="UF10" context="H,1,10,H10" playid="24,1,203" clock="08:52" tokens="{DRIVE}:08:52"
+      text="FLORIDA drive start at 08:52." newcontext="H,1,10,H10">
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="UF10" context="H,1,10,H10" playid="24,2,204" type="R" pcode="LE" tokens="RUSH:25,H16,LE TACK:11"
+      text="Scarlett,J. rush over left end for 6 yards to the UF16 (COLEY, Trevon)." newcontext="H,2,4,H16">
+    <p_ru vh="H" name="Scarlett,J." gain="6"></p_ru>
+    <p_tk vh="V" name="COLEY, Trevon"></p_tk>
+   </play>
+   <play hasball="UF" down="2" togo="4" spot="UF16" context="H,2,4,H16" playid="24,3,205" type="P" score="Y" vscore="13" hscore="14" turnover="F" clock="08:03" tokens="PASS:3,F,TM,H09 SACK:9D FUMB:V,H00,1D T:08:03"
+      text="Harris,Tr. sacked for loss of 7 yards to the UF9 (HENDRICKSON, Tr), fumble by Harris,Tr. recovered by FAU ROSE, Ocie at UF0, TOUCHDOWN, clock 08:03." newcontext="V,1,0,H03">
+    <p_pa vh="H" qb="Harris,Tr." result="FUMB" gain="-7"></p_pa>
+    <p_fumb vh="H" name="Harris,Tr." at="H00" frvh="V" frname="ROSE, Ocie"></p_fumb>
+    <p_tk vh="V" name="HENDRICKSON, Tr" sack="Y"></p_tk>
+   </play>
+   <drivesum plays="2" yards="-10" top="0:49" driveindex="24" complete="Y"></drivesum>
+   <drivestart poss="V,H03,08:03" vh="V" spot="H03" clock="08:03" driveindex="25,205"></drivestart>
+   <play hasball="FAU" down="1" togo="0" spot="UF03" context="V,1,0,H03" playid="25,1,206" type="X" score="Y" vscore="14" hscore="14" tokens="PAT:K,17,G"
+      text="JOSEPH, Greg I kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="JOSEPH, Greg I" qb="JOSEPH, Greg I" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="14"></score>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="25" complete="Y"></drivesum>
+   <play hasball="FAU" down="1" togo="0" spot="FAU35" context="V,1,0,V35" playid="25,2,207" type="K" tokens="KO:17,H00 TB:"
+      text="JOSEPH, Greg I kickoff 65 yards to the UF0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="JOSEPH, Greg I" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,08:03" vh="H" spot="H25" clock="08:03" driveindex="26,207"></drivestart>
+   <play hasball="UF" down="1" togo="10" spot="UF25" context="H,1,10,H25" playid="26,1,208" clock="08:03" tokens="{DRIVE}:08:03"
+      text="FLORIDA drive start at 08:03." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="UF25" context="H,1,10,H25" playid="26,2,209" type="P" pcode="SI" tokens="PASS:3,I,30,*,SI QBH:V,8D"
+      text="Harris,Tr. sideline pass incomplete to Goolsby,D., QB hurry by INTERNICOLA, Ni." newcontext="H,2,10,H25">
+    <p_pa vh="H" qb="Harris,Tr." result="INC" rcv="Goolsby,D."></p_pa>
+    <p_qbh vh="V" name="INTERNICOLA, Ni"></p_qbh>
+   </play>
+   <play hasball="UF" down="2" togo="10" spot="UF25" context="H,2,10,H25" playid="26,3,210" type="R" pcode="MI" tokens="RUSH:21,H31,MI TACK:29"
+      text="Taylor,Kel. rush up middle for 6 yards to the UF31 (NEASMAN, Sharro)." newcontext="H,3,4,H31">
+    <p_ru vh="H" name="Taylor,Kel." gain="6"></p_ru>
+    <p_tk vh="V" name="NEASMAN, Sharro"></p_tk>
+   </play>
+   <play hasball="UF" down="3" togo="4" spot="UF31" context="H,3,4,H31" playid="26,4,211" type="P" tokens="PASS:3,S,TM,H28 SACK:59,90"
+      text="Harris,Tr. sacked for loss of 3 yards to the UF28 (EUGENE, R.;OGBONDA, S.)." newcontext="H,4,7,H28">
+    <p_pa vh="H" qb="Harris,Tr." result="SACK" gain="-3"></p_pa>
+    <p_tk vh="V" name="EUGENE, R." sack="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="OGBONDA, S." sack="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="UF" down="4" togo="7" spot="UF28" context="H,4,7,H28" playid="26,5,212" type="U" tokens="PUNT:19,V36 FC:88"
+      text="Townsend,J. punt 36 yards to the FAU36, fair catch by STOSHAK, Jenson." newcontext="V,1,10,V36">
+    <p_pu vh="H" name="Townsend,J." gain="36" fc="STOSHAK, Jenson"></p_pu>
+   </play>
+   <drivesum plays="3" yards="3" top="1:31" driveindex="26" complete="Y"></drivesum>
+   <drivestart poss="V,V36,06:32" vh="V" spot="V36" clock="06:32" driveindex="27,212"></drivestart>
+   <play hasball="FAU" down="1" togo="10" spot="FAU36" context="V,1,10,V36" playid="27,1,213" clock="06:32" tokens="{DRIVE}:06:32"
+      text="FAU drive start at 06:32." newcontext="V,1,10,V36">
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU36" context="V,1,10,V36" playid="27,2,214" type="R" pcode="LE" tokens="RUSH:32,V42,LE OB:"
+      text="JOHNSON, Jaquez rush over left end for 6 yards to the FAU42, out-of-bounds." ob="Y" newcontext="V,2,4,V42">
+    <p_ru vh="V" name="JOHNSON, Jaquez" gain="6"></p_ru>
+   </play>
+   <play hasball="FAU" down="2" togo="4" spot="FAU42" context="V,2,4,V42" playid="27,3,215" type="R" pcode="MI" tokens="RUSH:9,V44,MI TACK:13,54"
+      text="HOWELL, Greg rush up middle for 2 yards to the FAU44 (McMillian,D.;Clark,K.)." newcontext="V,3,2,V44">
+    <p_ru vh="V" name="HOWELL, Greg" gain="2"></p_ru>
+    <p_tk vh="H" name="McMillian,D." assist="Y"></p_tk>
+    <p_tk vh="H" name="Clark,K." assist="Y"></p_tk>
+   </play>
+   <play hasball="FAU" down="3" togo="2" spot="FAU44" context="V,3,2,V44" playid="27,4,216" type="R" pcode="QD" turnover="F" tokens="RUSH:32,H49,QD FORCE:8 FUMB:H,H47,20"
+      text="JOHNSON, Jaquez rush quarterback draw for 7 yards to the UF49, fumble forced by Washington,N., fumble by JOHNSON, Jaquez recovered by UF Maye,M. at UF47." newcontext="H,1,10,H47">
+    <p_ru vh="V" name="JOHNSON, Jaquez" gain="7"></p_ru>
+    <p_fumb vh="V" name="JOHNSON, Jaquez" at="H47" frvh="H" frname="Maye,M."></p_fumb>
+    <p_tk vh="H" name="Washington,N." ff="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="17" top="1:13" driveindex="27" complete="Y"></drivesum>
+   <drivestart poss="H,H47,05:19" vh="H" spot="H47" clock="05:19" driveindex="28,216"></drivestart>
+   <play hasball="UF" down="1" togo="10" spot="UF47" context="H,1,10,H47" playid="28,1,217" clock="05:19" tokens="{DRIVE}:05:19"
+      text="FLORIDA drive start at 05:19." newcontext="H,1,10,H47">
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="UF47" context="H,1,10,H47" playid="28,2,218" type="R" pcode="RE" tokens="RUSH:21,V48,RE OB: TACK:7"
+      text="Taylor,Kel. rush over right end for 5 yards to the FAU48, out-of-bounds (LEBLANC, C.)." ob="Y" newcontext="H,2,5,V48">
+    <p_ru vh="H" name="Taylor,Kel." gain="5"></p_ru>
+    <p_tk vh="V" name="LEBLANC, C."></p_tk>
+   </play>
+   <play hasball="UF" down="2" togo="5" spot="FAU48" context="H,2,5,V48" playid="28,3,219" type="R" pcode="RE" tokens="RUSH:21,V44,RE OB: TACK:28"
+      text="Taylor,Kel. rush over right end for 4 yards to the FAU44, out-of-bounds (AL-SHAAIR, Azee)." ob="Y" newcontext="H,3,1,V44">
+    <p_ru vh="H" name="Taylor,Kel." gain="4"></p_ru>
+    <p_tk vh="V" name="AL-SHAAIR, Azee"></p_tk>
+   </play>
+   <play hasball="UF" down="3" togo="1" spot="FAU44" context="H,3,1,V44" playid="28,4,220" type="R" pcode="MI" first="R" tokens="RUSH:21,V43,MI TACK:34"
+      text="Taylor,Kel. rush up middle for 1 yard to the FAU43, 1ST DOWN UF (WHITFIELD, F.)." newcontext="H,1,10,V43">
+    <p_ru vh="H" name="Taylor,Kel." gain="1"></p_ru>
+    <p_tk vh="V" name="WHITFIELD, F."></p_tk>
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="FAU43" context="H,1,10,V43" playid="28,5,221" type="R" pcode="LE" tokens="RUSH:81,V41,LE TACK:29,28"
+      text="Callaway,A. rush over left end for 2 yards to the FAU41 (NEASMAN, Sharro;AL-SHAAIR, Azee)." newcontext="H,2,8,V41">
+    <p_ru vh="H" name="Callaway,A." gain="2"></p_ru>
+    <p_tk vh="V" name="NEASMAN, Sharro" assist="Y"></p_tk>
+    <p_tk vh="V" name="AL-SHAAIR, Azee" assist="Y"></p_tk>
+   </play>
+   <play hasball="UF" down="2" togo="8" spot="FAU41" context="H,2,8,V41" playid="28,6,222" type="R" pcode="LE" tokens="RUSH:21,V40,LE TACK:9D,11"
+      text="Taylor,Kel. rush over left end for 1 yard to the FAU40 (HENDRICKSON, Tr;COLEY, Trevon)." newcontext="H,3,7,V40">
+    <p_ru vh="H" name="Taylor,Kel." gain="1"></p_ru>
+    <p_tk vh="V" name="HENDRICKSON, Tr" assist="Y"></p_tk>
+    <p_tk vh="V" name="COLEY, Trevon" assist="Y"></p_tk>
+   </play>
+   <play hasball="UF" down="3" togo="7" spot="FAU40" context="H,3,7,V40" playid="28,7,223" type="P" pcode="SI" tokens="PASS:3,I,4,*,SI"
+      text="Harris,Tr. sideline pass incomplete to Powell,B.." newcontext="H,4,7,V40">
+    <p_pa vh="H" qb="Harris,Tr." result="INC" rcv="Powell,B."></p_pa>
+   </play>
+   <play hasball="UF" down="4" togo="7" spot="FAU40" context="H,4,7,V40" playid="28,8,224" type="U" tokens="PUNT:19,V03 DN:"
+      text="Townsend,J. punt 37 yards to the FAU3, downed." newcontext="V,1,10,V03">
+    <p_pu vh="H" name="Townsend,J." gain="37" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="13" top="3:04" driveindex="28" complete="Y"></drivesum>
+   <drivestart poss="V,V03,02:15" vh="V" spot="V03" clock="02:15" driveindex="29,224"></drivestart>
+   <play hasball="FAU" down="1" togo="10" spot="FAU03" context="V,1,10,V03" playid="29,1,225" clock="02:15" tokens="{DRIVE}:02:15"
+      text="FAU drive start at 02:15." newcontext="V,1,10,V03">
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU03" context="V,1,10,V03" playid="29,2,226" type="R" pcode="RG" tokens="RUSH:9,V06,RG TACK:90"
+      text="HOWELL, Greg rush over right guard for 3 yards to the FAU6 (Bullard,J.)." newcontext="V,2,7,V06">
+    <p_ru vh="V" name="HOWELL, Greg" gain="3"></p_ru>
+    <p_tk vh="H" name="Bullard,J."></p_tk>
+   </play>
+   <play hasball="FAU" down="2" togo="7" spot="FAU06" context="V,2,7,V06" playid="29,3,227" type="#" clock="02:09" tokens="TOUT:H T:02:09"
+      text="Timeout Florida, clock 02:09." newcontext="V,2,7,V06">
+    <p_to vh="H" team="Florida"></p_to>
+   </play>
+   <play hasball="FAU" down="2" togo="7" spot="FAU06" context="V,2,7,V06" playid="29,4,228" type="R" pcode="MI" tokens="RUSH:9,V07,MI TACK:40,42"
+      text="HOWELL, Greg rush up middle for 1 yard to the FAU7 (Davis,J.;Neal,K.)." newcontext="V,3,6,V07">
+    <p_ru vh="V" name="HOWELL, Greg" gain="1"></p_ru>
+    <p_tk vh="H" name="Davis,J." assist="Y"></p_tk>
+    <p_tk vh="H" name="Neal,K." assist="Y"></p_tk>
+   </play>
+   <play hasball="FAU" down="3" togo="6" spot="FAU07" context="V,3,6,V07" playid="29,5,229" type="#" clock="02:05" tokens="TOUT:H T:02:05"
+      text="Timeout Florida, clock 02:05." newcontext="V,3,6,V07">
+    <p_to vh="H" team="Florida"></p_to>
+   </play>
+   <play hasball="FAU" down="3" togo="6" spot="FAU07" context="V,3,6,V07" playid="29,6,230" type="P" pcode="DP" tokens="PASS:32,I,88,*,DP"
+      text="JOHNSON, Jaquez deep pass incomplete to STOSHAK, Jenson." newcontext="V,4,6,V07">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="INC" rcv="STOSHAK, Jenson"></p_pa>
+   </play>
+   <play hasball="FAU" down="4" togo="6" spot="FAU07" context="V,4,6,V07" playid="29,7,231" type="U" tokens="PUNT:67,V41 DN:"
+      text="SCHOMP, Dalton punt 34 yards to the FAU41, downed." newcontext="H,1,10,V41">
+    <p_pu vh="V" name="SCHOMP, Dalton" gain="34"></p_pu>
+   </play>
+   <drivesum plays="3" yards="4" top="0:25" driveindex="29" complete="Y"></drivesum>
+   <drivestart poss="H,V41,01:50" vh="H" spot="V41" clock="01:50" driveindex="30,231"></drivestart>
+   <play hasball="UF" down="1" togo="10" spot="FAU41" context="H,1,10,V41" playid="30,1,232" clock="01:50" tokens="{DRIVE}:01:50"
+      text="FLORIDA drive start at 01:50." newcontext="H,1,10,V41">
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="FAU41" context="H,1,10,V41" playid="30,2,233" type="R" pcode="MI" tokens="RUSH:21,V40,MI TACK:47"
+      text="Taylor,Kel. rush up middle for 1 yard to the FAU40 (WARD, Jerrad)." newcontext="H,2,9,V40">
+    <p_ru vh="H" name="Taylor,Kel." gain="1"></p_ru>
+    <p_tk vh="V" name="WARD, Jerrad"></p_tk>
+   </play>
+   <play hasball="UF" down="2" togo="9" spot="FAU40" context="H,2,9,V40" playid="30,3,234" type="P" pcode="SI" tokens="PASS:3,I,TM,*,SI QBH:V,94"
+      text="Harris,Tr. sideline pass incomplete, QB hurry by SNYDER, Hunter." newcontext="H,3,9,V40">
+    <p_pa vh="H" qb="Harris,Tr." result="INC"></p_pa>
+    <p_qbh vh="V" name="SNYDER, Hunter"></p_qbh>
+   </play>
+   <play hasball="UF" down="3" togo="9" spot="FAU40" context="H,3,9,V40" playid="30,4,235" type="P" pcode="SI" tokens="PASS:3,I,83,*,SI QBH:V,34 QBH:V,9D"
+      text="Harris,Tr. sideline pass incomplete to McGee,J., QB hurry by WHITFIELD, F., QB hurry by HENDRICKSON, Tr." newcontext="H,4,9,V40">
+    <p_pa vh="H" qb="Harris,Tr." result="INC" rcv="McGee,J."></p_pa>
+    <p_qbh vh="V" name="HENDRICKSON, Tr"></p_qbh>
+   </play>
+   <play hasball="UF" down="4" togo="9" spot="FAU40" context="H,4,9,V40" playid="30,5,236" type="U" tokens="PUNT:19,V07 FC:88"
+      text="Townsend,J. punt 33 yards to the FAU7, fair catch by STOSHAK, Jenson." newcontext="V,1,10,V07">
+    <p_pu vh="H" name="Townsend,J." gain="33" in20="Y" fc="STOSHAK, Jenson"></p_pu>
+   </play>
+   <drivesum plays="3" yards="1" top="0:48" driveindex="30" complete="Y"></drivesum>
+   <drivestart poss="V,V07,01:02" vh="V" spot="V07" clock="01:02" driveindex="31,236"></drivestart>
+   <play hasball="FAU" down="1" togo="10" spot="FAU07" context="V,1,10,V07" playid="31,1,237" clock="01:02" tokens="{DRIVE}:01:02"
+      text="FAU drive start at 01:02." newcontext="V,1,10,V07">
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="FAU07" context="V,1,10,V07" playid="31,2,238" type="R" tokens="RUSH:TM,V05,"
+      text="TEAM rush for loss of 2 yards to the FAU5." newcontext="V,2,12,V05">
+    <p_ru vh="V" name="TEAM" gain="-2"></p_ru>
+   </play>
+   <play hasball="FAU" down="2" togo="12" spot="FAU05" context="V,2,12,V05" playid="31,3,239" type="#" clock="00:59" tokens="TOUT:H T:00:59"
+      text="Timeout Florida, clock 00:59." newcontext="V,2,12,V05">
+    <p_to vh="H" team="Florida"></p_to>
+   </play>
+   <play hasball="FAU" down="2" togo="12" spot="FAU05" context="V,2,12,V05" playid="31,4,240" type="R" tokens="RUSH:TM,V05,"
+      text="TEAM rush for no gain to the FAU5." newcontext="V,3,12,V05">
+    <p_ru vh="V" name="TEAM" gain="0"></p_ru>
+   </play>
+   <play hasball="FAU" down="3" togo="12" spot="FAU05" context="V,3,12,V05" playid="31,5,241" type="R" tokens="RUSH:TM,V03,"
+      text="TEAM rush for loss of 2 yards to the FAU3." newcontext="V,4,14,V03">
+    <p_ru vh="V" name="TEAM" gain="-2"></p_ru>
+   </play>
+   <play hasball="FAU" down="4" togo="14" spot="FAU03" context="V,4,14,V03" playid="31,6,242" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of game, clock 00:00." newcontext="V,4,14,V03">
+   </play>
+   <drivesum plays="3" yards="-4" top="1:02" driveindex="31" complete="Y"></drivesum>
+   <score qtr="4" V="14" H="14"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="FAU">
+    <firstdowns no="1" rush="0" pass="1" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="05:14"></misc>
+    <rush att="11" yds="21" gain="25" loss="4" td="0" long="0"></rush>
+    <pass comp="1" att="6" int="1" yds="7" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="7" td="0" long="0"></rcv>
+    <punt no="2" yds="93" long="0" blkd="0" tb="0" fc="0" plus50="1" inside20="1" avg="46.5"></punt>
+    <ko no="1" yds="65" ob="0" tb="1"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="11" tacka="8" tot_tack="19" tflua="2" tfla="2" tflyds="11" sacks="2" sackyds="10" qbh="4" ff="1" fr="1" fryds="0" int="1" intyds="0"></defense>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <fr no="0" yds="0" td="1" long="0"></fr>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UF">
+    <firstdowns no="2" rush="2" pass="0" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="2" thirdatt="6" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="09:46"></misc>
+    <rush att="14" yds="32" gain="52" loss="20" td="0" long="0"></rush>
+    <pass comp="1" att="6" int="1" yds="7" td="0" long="0" sacks="2" sackyds="10"></pass>
+    <rcv no="1" yds="7" td="0" long="0"></rcv>
+    <punt no="3" yds="106" long="0" blkd="0" tb="0" fc="2" plus50="0" inside20="2" avg="35.3"></punt>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <defense tackua="6" tacka="4" tot_tack="10" sacks="0" sackyds="0" brup="2" ff="1" fr="1" fryds="0" int="1" intyds="0"></defense>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <fumbles no="1" lost="1"></fumbles>
+   </qtrsummary>
+  </qtr>
+  <qtr number="5" text="OT">
+   <play hasball="FAU" down="4" togo="14" spot="FAU03" context="V,4,14,V03" playid="31,7,243" type="#" clock="15:00" tokens="Q:5 T:15:00 SPOT:H,V25,N"
+      text="Start of OT  quarter, clock 15:00, UF ball on FAU25." newcontext="H,4,14,V25">
+   </play>
+   <play hasball="UF" down="4" togo="14" spot="FAU25" context="H,4,14,V25" playid="31,8,244" tokens="D:1,10"
+      text="1st and 10." newcontext="H,1,10,V25">
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="FAU25" context="H,1,10,V25" playid="31,9,245" tokens="SPOT:H,V25,Y"
+      text="UF ball on FAU25." newcontext="H,1,10,V25">
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="FAU25" context="H,1,10,V25" playid="31,10,246" type="R" pcode="QD" tokens="RUSH:3,V16,QD TACK:94"
+      text="Harris,Tr. rush quarterback draw for 9 yards to the FAU16 (SNYDER, Hunter)." newcontext="H,2,1,V16">
+    <p_ru vh="H" name="Harris,Tr." gain="9"></p_ru>
+    <p_tk vh="V" name="SNYDER, Hunter"></p_tk>
+   </play>
+   <play hasball="UF" down="2" togo="1" spot="FAU16" context="H,2,1,V16" playid="31,11,247" type="R" pcode="MI" first="R" tokens="RUSH:21,V13,MI TACK:11"
+      text="Taylor,Kel. rush up middle for 3 yards to the FAU13, 1ST DOWN UF (COLEY, Trevon)." newcontext="H,1,10,V13">
+    <p_ru vh="H" name="Taylor,Kel." gain="3"></p_ru>
+    <p_tk vh="V" name="COLEY, Trevon"></p_tk>
+   </play>
+   <play hasball="UF" down="1" togo="10" spot="FAU13" context="H,1,10,V13" playid="31,12,248" type="P" pcode="SI" first="P" score="Y" vscore="14" hscore="20" clock="15:00" tokens="PASS:3,C,83,V00,SI T:15:00"
+      text="Harris,Tr. sideline pass complete to McGee,J. for 13 yards to the FAU0, 1ST DOWN UF, TOUCHDOWN, clock 15:00." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Harris,Tr." result="COMP" rcv="McGee,J." gain="13"></p_pa>
+   </play>
+   <play hasball="UF" down="1" togo="0" spot="FAU03" context="H,1,0,V03" playid="31,13,249" type="X" tokens="PAT:K,16,B BLOCK:8D"
+      text="Hardin,A. kick attempt failed (blocked) (blocked by INTERNICOLA, Ni)." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Hardin,A." qb="Hardin,A." type="K" result="BLOCKED"></p_pat>
+   </play>
+   <score V="14" H="20"></score>
+   <play hasball="UF" down="1" togo="0" spot="UF35" context="H,1,0,H35" playid="31,14,250" tokens="SPOT:V,H25,Y"
+      text="FAU ball on UF25." newcontext="V,1,0,H25">
+   </play>
+   <play hasball="FAU" down="1" togo="0" spot="UF25" context="V,1,0,H25" playid="31,15,251" tokens="D:1,10"
+      text="1st and 10." newcontext="V,1,10,H25">
+   </play>
+   <play hasball="FAU" down="1" togo="10" spot="UF25" context="V,1,10,H25" playid="31,16,252" type="P" tokens="PASS:32,C,88,H20 TACK:24"
+      text="JOHNSON, Jaquez pass complete to STOSHAK, Jenson for 5 yards to the UF20 (Poole,B.)." newcontext="V,2,5,H20">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="COMP" rcv="STOSHAK, Jenson" gain="5"></p_pa>
+    <p_tk vh="H" name="Poole,B."></p_tk>
+   </play>
+   <play hasball="FAU" down="2" togo="5" spot="UF20" context="V,2,5,H20" playid="31,17,253" type="R" pcode="MI" tokens="RUSH:2A,H17,MI TACK:13"
+      text="CLARK, Marcus rush up middle for 3 yards to the UF17 (McMillian,D.)." newcontext="V,3,2,H17">
+    <p_ru vh="V" name="CLARK, Marcus" gain="3"></p_ru>
+    <p_tk vh="H" name="McMillian,D."></p_tk>
+   </play>
+   <play hasball="FAU" down="3" togo="2" spot="UF17" context="V,3,2,H17" playid="31,18,254" type="R" pcode="LG" first="R" tokens="RUSH:32,H09,LG TACK:20"
+      text="JOHNSON, Jaquez rush over left guard for 8 yards to the UF9, 1ST DOWN FAU (Maye,M.)." newcontext="V,1,0,H09">
+    <p_ru vh="V" name="JOHNSON, Jaquez" gain="8"></p_ru>
+    <p_tk vh="H" name="Maye,M."></p_tk>
+   </play>
+   <play hasball="FAU" down="1" togo="0" spot="UF09" context="V,1,0,H09" playid="31,19,255" type="#" clock="15:00" tokens="TOUT:V T:15:00"
+      text="Timeout FAU, clock 15:00." newcontext="V,1,0,H09">
+    <p_to vh="V" team="FAU"></p_to>
+   </play>
+   <play hasball="FAU" down="1" togo="0" spot="UF09" context="V,1,0,H09" playid="31,20,256" type="R" pcode="MI" tokens="RUSH:32,H12,MI TACK:94"
+      text="JOHNSON, Jaquez rush up middle for loss of 3 yards to the UF12 (Cox,B.)." newcontext="V,2,0,H12">
+    <p_ru vh="V" name="JOHNSON, Jaquez" gain="-3"></p_ru>
+    <p_tk vh="H" name="Cox,B."></p_tk>
+   </play>
+   <play hasball="FAU" down="2" togo="0" spot="UF12" context="V,2,0,H12" playid="31,21,257" type="P" pcode="SI" tokens="PASS:32,I,88,*,SI"
+      text="JOHNSON, Jaquez sideline pass incomplete to STOSHAK, Jenson." newcontext="V,3,0,H12">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="INC" rcv="STOSHAK, Jenson"></p_pa>
+   </play>
+   <play hasball="FAU" down="3" togo="0" spot="UF12" context="V,3,0,H12" playid="31,22,258" type="P" tokens="PASS:32,I,80,* BRUP:24"
+      text="JOHNSON, Jaquez pass incomplete to TERRY, Nate (Poole,B.)." newcontext="V,4,0,H12">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="INC" rcv="TERRY, Nate"></p_pa>
+    <p_bu vh="H" name="Poole,B."></p_bu>
+   </play>
+   <play hasball="FAU" down="4" togo="0" spot="UF12" context="V,4,0,H12" playid="31,23,259" type="P" pcode="PO" tokens="PASS:32,B,88,*,PO BRUP:24"
+      text="JOHNSON, Jaquez post pass incomplete to STOSHAK, Jenson (Poole,B.)." newcontext="H,1,10,H12">
+    <p_pa vh="V" qb="JOHNSON, Jaquez" result="BRUP" rcv="STOSHAK, Jenson"></p_pa>
+    <p_bu vh="H" name="Poole,B."></p_bu>
+   </play>
+   <drivestart poss="H,H12,15:00" vh="H" spot="H12" clock="15:00" driveindex="32,259"></drivestart>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="32" complete="Y"></drivesum>
+   <score V="14" H="20"></score>
+   <qtrsummary vh="V" id="FAU">
+    <firstdowns no="1" rush="1" pass="0" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="00:00"></misc>
+    <rush att="3" yds="8" gain="11" loss="3" td="0" long="0"></rush>
+    <pass comp="1" att="4" int="0" yds="5" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="5" td="0" long="0"></rcv>
+    <defense tackua="2" tacka="0" tot_tack="2" sacks="0" sackyds="0" blkd="1"></defense>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UF">
+    <firstdowns no="2" rush="1" pass="1" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="0" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="00:00"></misc>
+    <rush att="2" yds="12" gain="12" loss="0" td="0" long="0"></rush>
+    <pass comp="1" att="1" int="0" yds="13" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="13" td="1" long="0"></rcv>
+    <pat kickatt="1" kickmade="0"></pat>
+    <defense tackua="4" tacka="0" tot_tack="4" tflua="1" tfla="0" tflyds="3" sacks="0" sackyds="0" brup="2"></defense>
+    <scoring td="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="UF" down="1" togo="10" spot="UF12" context="H,1,10,H12" qtr="5" clock="00:00"
+       lastplay="JOHNSON, Jaquez post pass incomplete to STOSHAK, Jenson (Poole,B.)."></downtogo>
+ </plays>
+ <message text=""></message>
+ <dnp vh="V" id="FAU">
+  <player name="RIZK, Raymond" checkname="RIZK,RAYMOND" uni="1Z" class="FR" gp="0" code="1Z"></player>
+  <player name="BRUNSON, James" checkname="BRUNSON,JAMES" uni="2B" class="FR" gp="0" code="2B"></player>
+  <player name="JUSTE, DJ" checkname="JUSTE,DJ" uni="3D" class="JR" gp="0" code="3D"></player>
+  <player name="DUDLEY-GORDON," checkname="DUDLEY-GORDON" uni="4" class="SO" gp="0" code="4"></player>
+  <player name="SANTANA, Devin" checkname="SANTANA,DEVIN" uni="5X" class="FR" gp="0" code="5X"></player>
+  <player name="SCOTT, Ronnie" checkname="SCOTT,RONNIE" uni="5D" class="SO" gp="0" code="5D"></player>
+  <player name="KITTLES, Richie" checkname="KITTLES,RICHIE" uni="6B" class="FR" gp="0" code="6B"></player>
+  <player name="BROWN, Reggie" checkname="BROWN,REGGIE" uni="6" class="SO" gp="0" code="6"></player>
+  <player name="STEPHENS, K" checkname="STEPHENS,K" uni="8X" class="SR" gp="0" code="8X"></player>
+  <player name="KENDALL, Josh" checkname="KENDALL,JOSH" uni="9X" class="FR" gp="0" code="9X"></player>
+  <player name="BOWENS, Dustin" checkname="BOWENS,DUSTIN" uni="10" class="SO" gp="0" code="10"></player>
+  <player name="DOWNER, Kemar" checkname="DOWNER,KEMAR" uni="12" class="FR" gp="0" code="12"></player>
+  <player name="NAPIER, J'Quan" checkname="NAPIER,J'QUAN" uni="14" class="FR" gp="0" code="14"></player>
+  <player name="SCHEER, Landon" checkname="SCHEER,LANDON" uni="15" class="FR" gp="0" code="15"></player>
+  <player name="RODRIGUEZ, Trey" checkname="RODRIGUEZ,TREY" uni="22" class="FR" gp="0" code="22"></player>
+  <player name="THOMPSON, Richa" checkname="THOMPSON,RICHA" uni="26" class="SO" gp="0" code="26"></player>
+  <player name="Gaskins, Jeremy" checkname="GASKINS,JEREMY" uni="30" class="SR" gp="0" code="30"></player>
+  <player name="HOLMES, Calvain" checkname="HOLMES,CALVAIN" uni="37" class="FR" gp="0" code="37"></player>
+  <player name="ANSLEY, Alfred" checkname="ANSLEY,ALFRED" uni="38" class="FR" gp="0" code="38"></player>
+  <player name="HARROP, Michae" checkname="HARROP,MICHAE" uni="41" class="SR" gp="0" code="41"></player>
+  <player name="BALLESTEROS, J." checkname="BALLESTEROS,J" uni="42" class="JR" gp="0" code="42"></player>
+  <player name="RELF, Robert" checkname="RELF,ROBERT" uni="43" class="JR" gp="0" code="43"></player>
+  <player name="DOUGLAS, Jacob" checkname="DOUGLAS,JACOB" uni="45" class="FR" gp="0" code="45"></player>
+  <player name="BURDEN, K" checkname="BURDEN,K" uni="49" class="FR" gp="0" code="49"></player>
+  <player name="CROUSE, Arthur" checkname="CROUSE,ARTHUR" uni="52" class="JR" gp="0" code="52"></player>
+  <player name="LEGGETT, Steven" checkname="LEGGETT,STEVEN" uni="56" class="FR" gp="0" code="56"></player>
+  <player name="WEINER, Matt" checkname="WEINER,MATT" uni="57" class="FR" gp="0" code="57"></player>
+  <player name="BLAIR, Shane" checkname="BLAIR,SHANE" uni="60" class="FR" gp="0" code="60"></player>
+  <player name="THOMAS, Tarrick" checkname="THOMAS,TARRICK" uni="65" class="FR" gp="0" code="65"></player>
+  <player name="RUSSELL, Anthon" checkname="RUSSELL,ANTHON" uni="69" class="SO" gp="0" code="69"></player>
+  <player name="FERNANDEZ, Roma" checkname="FERNANDEZ,ROMA" uni="77" class="SO" gp="0" code="77"></player>
+  <player name="WILLIAMS, R" checkname="WILLIAMS,R" uni="78" class="FR" gp="0" code="78"></player>
+  <player name="SIFFO, Pierre" checkname="SIFFO,PIERRE" uni="79" class="FR" gp="0" code="79"></player>
+  <player name="DEXTER, C" checkname="DEXTER,C" uni="85" class="JR" gp="0" code="85"></player>
+  <player name="JAMES, Darius" checkname="JAMES,DARIUS" uni="89" class="FR" gp="0" code="89"></player>
+  <player name="WHITFIELD, D." checkname="WHITFIELD,D" uni="91" class="JR" gp="0" code="91"></player>
+  <player name="CLANCY, JR" checkname="CLANCY,JR" uni="93" class="FR" gp="0" code="93"></player>
+  <player name="RICHARDSON, Nic" checkname="RICHARDSON,NIC" uni="95" class="FR" gp="0" code="95"></player>
+  <player name="NAGEL, Haiden" checkname="NAGEL,HAIDEN" uni="98" class="SO" gp="0" code="98"></player>
+  <player name="RICKEL, Ryan" checkname="RICKEL,RYAN" uni="99" class="FR" gp="0" code="99"></player>
+ </dnp>
+ <dnp vh="H" id="UF">
+  <player name="Guy,J." checkname="GUY,J" uni="1G" class="JR" gp="0" code="1G"></player>
+  <player name="Gornto,H." checkname="GORNTO,H" uni="2G" class="FR" gp="0" code="2G"></player>
+  <player name="Giles,E." checkname="GILES,E" uni="3G" class="FR" gp="0" code="3G"></player>
+  <player name="A. Anzalone" checkname="ANZALONE,A" uni="3A" class="JR" gp="0" code="3A"></player>
+  <player name="Stephens,G." checkname="STEPHENS,G" uni="3S" class="SO" gp="0" code="3S"></player>
+  <player name="Francois,K." checkname="FRANCOIS,K" uni="3F" class="SO" gp="0" code="3F"></player>
+  <player name="Iorio,M." checkname="IORIO,M" uni="3R" class="SO" gp="0" code="3R"></player>
+  <player name="Powell,D." checkname="POWELL,D" uni="3P" class="SO" gp="0" code="3P"></player>
+  <player name="Grimm,D." checkname="GRIMM,D" uni="4G" class="FR" gp="0" code="4G"></player>
+  <player name="Norvelis,M." checkname="NORVELIS,M" uni="4N" class="JR" gp="0" code="4N"></player>
+  <player name="Stipe,S." checkname="STIPE,S" uni="5S" class="SO" gp="0" code="5S"></player>
+  <player name="Grier,W." checkname="GRIER,W" uni="7" class="FR" gp="0" code="7"></player>
+  <player name="Pittman,L." checkname="PITTMAN,L" uni="9" class="SR" gp="0" code="9"></player>
+  <player name="L. Ancrum" checkname="ANCRUM,L" uni="9A" class="FR" gp="0" code="9A"></player>
+  <player name="J. Gould" checkname="GOULD,J" uni="9G" class="FR" gp="0" code="9G"></player>
+  <player name="J. Spicer" checkname="SPICER,J" uni="9S" class="FR" gp="0" code="9S"></player>
+  <player name="McCalister,A." checkname="MCCALISTER,A" uni="14" class="JR" gp="0" code="14"></player>
+  <player name="Porter,D." checkname="PORTER,D" uni="15" class="FR" gp="0" code="15"></player>
+  <player name="Sherit,J." checkname="SHERIT,J" uni="17" class="SO" gp="0" code="17"></player>
+  <player name="Worton,C." checkname="WORTON,C" uni="18" class="SO" gp="0" code="18"></player>
+  <player name="Harrison,C." checkname="HARRISON,C" uni="22" class="SO" gp="0" code="22"></player>
+  <player name="Johnson,K." checkname="JOHNSON,K" uni="28" class="FR" gp="0" code="28"></player>
+  <player name="Schroeder,E." checkname="SCHROEDER,E" uni="29" class="SR" gp="0" code="29"></player>
+  <player name="Anzalone,A." checkname="ANZALONE,A" uni="34" class="JR" gp="0" code="34"></player>
+  <player name="Williamson,C." checkname="WILLIAMSON,C" uni="35" class="FR" gp="0" code="35"></player>
+  <player name="Dixon,R." checkname="DIXON,R" uni="36" class="SR" gp="0" code="36"></player>
+  <player name="Diamond,B." checkname="DIAMOND,B" uni="38" class="JR" gp="0" code="38"></player>
+  <player name="Ferguson,R." checkname="FERGUSON,R" uni="39" class="FR" gp="0" code="39"></player>
+  <player name="Jackson,R." checkname="JACKSON,R" uni="44" class="FR" gp="0" code="44"></player>
+  <player name="Raymond,R." checkname="RAYMOND,R" uni="45" class="FR" gp="0" code="45"></player>
+  <player name="Haney,J." checkname="HANEY,J" uni="47" class="JR" gp="0" code="47"></player>
+  <player name="Tilghman,J." checkname="TILGHMAN,J" uni="49" class="FR" gp="0" code="49"></player>
+  <player name="Harkless,K." checkname="HARKLESS,K" uni="53" class="FR" gp="0" code="53"></player>
+  <player name="Holley,T." checkname="HOLLEY,T" uni="55" class="FR" gp="0" code="55"></player>
+  <player name="Brantley,C." checkname="BRANTLEY,C" uni="57" class="SO" gp="0" code="57"></player>
+  <player name="Wilson,D." checkname="WILSON,D" uni="59" class="SR" gp="0" code="59"></player>
+  <player name="Shinn,Z." checkname="SHINN,Z" uni="60" class="FR" gp="0" code="60"></player>
+  <player name="Ivie,A." checkname="IVIE,A" uni="62" class="FR" gp="0" code="62"></player>
+  <player name="D. White" checkname="WHITE,D" uni="65" class="SR" gp="0" code="65"></player>
+  <player name="Buchanan,N." checkname="BUCHANAN,N" uni="66" class="FR" gp="0" code="66"></player>
+  <player name="Sandifer,B." checkname="SANDIFER,B" uni="67" class="FR" gp="0" code="67"></player>
+  <player name="Desir-Jones,R." checkname="DESIR-JONES,R" uni="68" class="FR" gp="0" code="68"></player>
+  <player name="Givens,M." checkname="GIVENS,M" uni="69" class="FR" gp="0" code="69"></player>
+  <player name="Palmore,F." checkname="PALMORE,F" uni="70" class="FR" gp="0" code="70"></player>
+  <player name="Johnson,F." checkname="JOHNSON,F" uni="74" class="FR" gp="0" code="74"></player>
+  <player name="Mike,A." checkname="MIKE,A" uni="77" class="FR" gp="0" code="77"></player>
+  <player name="Lewis,C." checkname="LEWIS,C" uni="80" class="FR" gp="0" code="80"></player>
+  <player name="Stephens,M." checkname="STEPHENS,M" uni="82" class="FR" gp="0" code="82"></player>
+  <player name="Knight,C." checkname="KNIGHT,C" uni="84" class="FR" gp="0" code="84"></player>
+  <player name="Andrades,R." checkname="ANDRADES,R" uni="86" class="JR" gp="0" code="86"></player>
+  <player name="Jackson,Ka." checkname="JACKSON,KA" uni="87" class="FR" gp="0" code="87"></player>
+  <player name="Sousa,R." checkname="SOUSA,R" uni="88" class="FR" gp="0" code="88"></player>
+  <player name="Ivie,J." checkname="IVIE,J" uni="91" class="JR" gp="0" code="91"></player>
+  <player name="Zuniga,J." checkname="ZUNIGA,J" uni="92" class="FR" gp="0" code="92"></player>
+  <player name="Powell,Jo." checkname="POWELL,JO" uni="98" class="FR" gp="0" code="98"></player>
+ </dnp>
+ <longplays thresh="70">
+ </longplays>
+</fbgame>

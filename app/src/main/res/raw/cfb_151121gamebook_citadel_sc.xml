@@ -1,0 +1,1616 @@
+<fbgame source="Tas Football" version="4.16.07" generated="11/22/2015">
+ <venue gameid="SC11_CIT" visid="CIT" homeid="SC" visname="The Citadel" homename="South Carolina"
+      date="11/21/2015" location="Columbia, S.C." stadium="Williams-Brice Stad."
+      start="12:01 pm" end="3:20 pm"
+      duration="3:19" attend="77241" temp="59" wind="ENE 5mph" weather="Sunny">
+  <officials ref="Matt Loeffler" ump="Brent Sowell" line="Jay Vines" lj="Michael Shirey" bj="Tony Josselyn" fj="Bobby Ables" sj="Jesse Dupuy" cj="Chris Snead" alt="Chris Snead"></officials>
+  <rules qtrs="4" mins="15" downs="4" yds="10" kospot="35" tbspot="20" kotbspot="25" patspot="3" safspot="20" td="6" fg="3" pat="1" patx="2" saf="2" defpat="2" rouge="1" field="100" toh="3" sackrush="Y" fgaplay="Y" netpunttb="Y"></rules>
+ </venue>
+ <team vh="V" code="141" id="CIT" name="The Citadel" record="8-3" conf-record="7-3" abb="C">
+  <linescore prds="4" line="14,0,0,9" score="23">
+   <lineprd prd="1" score="14"></lineprd>
+   <lineprd prd="2" score="0"></lineprd>
+   <lineprd prd="3" score="0"></lineprd>
+   <lineprd prd="4" score="9"></lineprd>
+  </linescore>
+  <totals totoff_plays="64" totoff_yards="387" totoff_avg="6.0">
+   <firstdowns no="17" rush="15" pass="1" penalty="1"></firstdowns>
+   <penalties no="7" yds="55"></penalties>
+   <conversions thirdconv="6" thirdatt="14" fourthconv="1" fourthatt="2"></conversions>
+   <fumbles no="0" lost="0"></fumbles>
+   <misc yds="0" top="32:32" ona="0" onm="0" ptsto="0"></misc>
+   <redzone att="1" scores="1" points="7" tdrush="1" tdpass="0" fgmade="0" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="61" yds="350" gain="373" loss="23" td="3" long="59"></rush>
+   <pass comp="2" att="3" int="0" yds="37" td="0" long="34" sacks="1" sackyds="10"></pass>
+   <rcv no="2" yds="37" td="0" long="34"></rcv>
+   <punt no="5" yds="198" long="50" blkd="0" tb="1" fc="0" plus50="1" inside20="2" avg="39.6"></punt>
+   <ko no="5" yds="318" ob="0" tb="0"></ko>
+   <fg made="1" att="1" long="48" blkd="0"></fg>
+   <pat kickatt="2" kickmade="2" rushatt="1" rushmade="0"></pat>
+   <defense tackua="47" tacka="14" tot_tack="61" tflua="5" tfla="0" tflyds="8" sacks="0" sackyds="0" brup="4" qbh="3"></defense>
+   <kr no="1" yds="22" td="0" long="22"></kr>
+   <pr no="1" yds="0" td="0" long="0"></pr>
+   <scoring td="3" fg="1" patkick="2"></scoring>
+  </totals>
+  <player name="Shy Phillips" shortname="Shy Phillips" checkname="PHILLIPS,SHY" uni="1" class="SO" gp="1" code="1">
+   <defense tackua="3" tacka="1" tot_tack="4" brup="1" qbh="1"></defense>
+  </player>
+  <player name="D Schoultz" shortname="D Schoultz" checkname="SCHOULTZ,D" uni="2" class="JR" gp="1" code="2">
+   <pr no="1" yds="0" td="0" long="0"></pr>
+  </player>
+  <player name="Jorian Jordan" shortname="Jorian Jordan" checkname="JORDAN,JORIAN" uni="3" class="JR" gp="1" code="3"></player>
+  <player name="Dee Delaney" shortname="Dee Delaney" checkname="DELANEY,DEE" uni="4" class="SO" gp="1" gs="1" dpos="CB" code="4">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="Joe Crochet" shortname="Joe Crochet" checkname="CROCHET,JOE" uni="5" class="JR" gp="1" gs="1" dpos="DE" code="5">
+   <defense tackua="4" tacka="1" tot_tack="5" tflua="2" tfla="0" tflyds="3"></defense>
+  </player>
+  <player name="Dane Anderson" shortname="Dane Anderson" checkname="ANDERSON,DANE" uni="6" class="JR" gp="1" code="6"></player>
+  <player name="Mark Thomas" shortname="Mark Thomas" checkname="THOMAS,MARK" uni="7" class="SR" gp="1" gs="1" dpos="DE" code="7">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Ben Roberts" shortname="Ben Roberts" checkname="ROBERTS,BEN" uni="11" class="SO" gp="1" code="11"></player>
+  <player name="Vinny Miller" shortname="Vinny Miller" checkname="MILLER,VINNY" uni="16" class="SR" gp="1" gs="1" opos="AB" code="16">
+   <rush att="1" yds="12" gain="12" loss="0" td="0" long="12"></rush>
+  </player>
+  <player name="Cam Jackson" shortname="Cam Jackson" checkname="JACKSON,CAM" uni="18" class="SO" gp="1" gs="1" opos="AB" code="18">
+   <rush att="12" yds="106" gain="109" loss="3" td="1" long="59"></rush>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Dominique Allen" shortname="Dominique Allen" checkname="ALLEN,DOMINIQUE" uni="19" class="SO" gp="1" gs="1" opos="QB" code="19">
+   <rush att="17" yds="25" gain="43" loss="18" td="0" long="14"></rush>
+   <pass comp="2" att="3" int="0" yds="37" td="0" long="34" sacks="1" sackyds="10"></pass>
+  </player>
+  <player name="Mariel Cooper" shortname="Mariel Cooper" checkname="COOPER,MARIEL" uni="20" class="SR" gp="1" gs="1" dpos="CB" code="20">
+   <defense tackua="2" tacka="1" tot_tack="3" tflua="1" tfla="0" tflyds="1" brup="1"></defense>
+  </player>
+  <player name="Malik Diggs" shortname="Malik Diggs" checkname="DIGGS,MALIK" uni="21" class="JR" gp="1" gs="1" dpos="FS" code="21">
+   <defense tackua="4" tacka="2" tot_tack="6" brup="1"></defense>
+  </player>
+  <player name="D Copeland" shortname="D Copeland" checkname="COPELAND,D" uni="22" class="JR" gp="1" code="22">
+   <defense tackua="3" tacka="0" tot_tack="3"></defense>
+  </player>
+  <player name="Tyus Carter" shortname="Tyus Carter" checkname="CARTER,TYUS" uni="23" class="SO" gp="1" code="23">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Aron Spann" shortname="Aron Spann" checkname="SPANN,ARON" uni="24" class="FR" gp="1" code="24">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Reggie Williams" shortname="Reggie Williams" checkname="WILLIAMS,REGGIE" uni="25" class="SO" gp="1" code="25">
+   <rush att="5" yds="26" gain="26" loss="0" td="0" long="11"></rush>
+  </player>
+  <player name="Nick Willis" shortname="Nick Willis" checkname="WILLIS,NICK" uni="27" class="SR" gp="1" code="27">
+   <defense tackua="5" tacka="1" tot_tack="6"></defense>
+  </player>
+  <player name="Craig Miller" shortname="Craig Miller" checkname="MILLER,CRAIG" uni="28" class="SO" gp="1" code="28">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Grant Drakeford" shortname="Grant Drakeford" checkname="DRAKEFORD,GRANT" uni="29" class="FR" gp="1" code="29"></player>
+  <player name="Q Washington" shortname="Q Washington" checkname="WASHINGTON,Q" uni="33" class="FR" gp="1" gs="1" dpos="BAND" code="33">
+   <defense tackua="3" tacka="0" tot_tack="3"></defense>
+   <kr no="1" yds="22" td="0" long="22"></kr>
+  </player>
+  <player name="Evan McField" shortname="Evan McField" checkname="MCFIELD,EVAN" uni="34" class="FR" gp="1" code="34"></player>
+  <player name="Tyler Renew" shortname="Tyler Renew" checkname="RENEW,TYLER" uni="36" class="JR" gp="1" gs="1" opos="BB" code="36">
+   <rush att="23" yds="174" gain="174" loss="0" td="2" long="56"></rush>
+   <pat rushatt="1" rushmade="0"></pat>
+   <scoring td="2"></scoring>
+  </player>
+  <player name="Isiaha Smith" shortname="Isiaha Smith" checkname="SMITH,ISIAHA" uni="39" class="SO" gp="1" code="39">
+   <rush att="2" yds="9" gain="9" loss="0" td="0" long="5"></rush>
+  </player>
+  <player name="Kailik Williams" shortname="Kailik Williams" checkname="WILLIAMS,KAILIK" uni="40" class="SO" gp="1" gs="1" dpos="ROV" code="40"></player>
+  <player name="Seth Greer" shortname="Seth Greer" checkname="GREER,SETH" uni="41" class="SO" gp="1" code="41">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Tevin Floyd" shortname="Tevin Floyd" checkname="FLOYD,TEVIN" uni="43" class="JR" gp="1" gs="1" dpos="KLB" code="43">
+   <defense tackua="4" tacka="3" tot_tack="7"></defense>
+  </player>
+  <player name="Caleb Bennett" shortname="Caleb Bennett" checkname="BENNETT,CALEB" uni="47" class="JR" gp="1" code="47"></player>
+  <player name="Kevin Graham" shortname="Kevin Graham" checkname="GRAHAM,KEVIN" uni="48" class="FR" gp="1" code="48"></player>
+  <player name="James Riley" shortname="James Riley" checkname="RILEY,JAMES" uni="49" class="SR" gp="1" gs="1" dpos="RLB" code="49">
+   <defense tackua="7" tacka="0" tot_tack="7" brup="1"></defense>
+  </player>
+  <player name="Myles Pierce" shortname="Myles Pierce" checkname="PIERCE,MYLES" uni="50" class="SO" gp="1" code="50"></player>
+  <player name="Ryan Bednar" shortname="Ryan Bednar" checkname="BEDNAR,RYAN" uni="52" class="JR" gp="1" gs="1" opos="C" code="52"></player>
+  <player name="Tyler Davis" shortname="Tyler Davis" checkname="DAVIS,TYLER" uni="53" class="FR" gp="1" code="53"></player>
+  <player name="Russell Hubbs" shortname="Russell Hubbs" checkname="HUBBS,RUSSELL" uni="55" class="FR" gp="1" code="55">
+   <defense tackua="2" tacka="0" tot_tack="2" tflua="2" tfla="0" tflyds="4" qbh="1"></defense>
+  </player>
+  <player name="Mike Mabry" shortname="Mike Mabry" checkname="MABRY,MIKE" uni="56" class="JR" gp="1" gs="1" opos="RT" code="56"></player>
+  <player name="Kyle Weaver" shortname="Kyle Weaver" checkname="WEAVER,KYLE" uni="57" class="SO" gp="1" gs="1" opos="LG" code="57"></player>
+  <player name="Austin Harrell" shortname="Austin Harrell" checkname="HARRELL,AUSTIN" uni="58" class="JR" gp="1" code="58"></player>
+  <player name="Lee Riley" shortname="Lee Riley" checkname="RILEY,LEE" uni="59" class="FR" gp="1" code="59"></player>
+  <player name="Hunter Morris" shortname="Hunter Morris" checkname="MORRIS,HUNTER" uni="60" class="JR" gp="1" code="60"></player>
+  <player name="Sam Frye" shortname="Sam Frye" checkname="FRYE,SAM" uni="61" class="SR" gp="1" gs="1" opos="RG" code="61"></player>
+  <player name="Mitchell Jeter" shortname="Mitchell Jeter" checkname="JETER,MITCHELL" uni="62" class="SR" gp="1" gs="1" dpos="DT" code="62">
+   <defense tackua="2" tacka="2" tot_tack="4" qbh="1"></defense>
+  </player>
+  <player name="Ken Allen" shortname="Ken Allen" checkname="ALLEN,KEN" uni="68" class="FR" gp="1" code="68"></player>
+  <player name="Nick Jeffreys" shortname="Nick Jeffreys" checkname="JEFFREYS,NICK" uni="71" class="JR" gp="1" code="71"></player>
+  <player name="Isaiah Pinson" shortname="Isaiah Pinson" checkname="PINSON,ISAIAH" uni="73" class="SO" gp="1" gs="1" opos="LT" code="73"></player>
+  <player name="Alex Glover" shortname="Alex Glover" checkname="GLOVER,ALEX" uni="81" class="SR" gp="1" gs="1" opos="WR" code="81">
+   <rcv no="1" yds="34" td="0" long="34"></rcv>
+  </player>
+  <player name="Brandon Eakins" shortname="Brandon Eakins" checkname="EAKINS,BRANDON" uni="82" class="SR" gp="1" gs="1" opos="WR" code="82">
+   <rcv no="1" yds="3" td="0" long="3"></rcv>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Rudder Brown" shortname="Rudder Brown" checkname="BROWN,RUDDER" uni="83" class="JR" gp="1" code="83"></player>
+  <player name="Will Vanvick" shortname="Will Vanvick" checkname="VANVICK,WILL" uni="90" class="JR" gp="1" code="90">
+   <punt no="5" yds="198" long="50" blkd="0" tb="1" fc="0" plus50="1" inside20="2" avg="39.6"></punt>
+  </player>
+  <player name="Travis Johnson" shortname="Travis Johnson" checkname="JOHNSON,TRAVIS" uni="92" class="SO" gp="1" code="92">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="Noah Dawkins" shortname="Noah Dawkins" checkname="DAWKINS,NOAH" uni="95" class="FR" gp="1" code="95"></player>
+  <player name="Jonathan King" shortname="Jonathan King" checkname="KING,JONATHAN" uni="97" class="SO" gp="1" gs="1" dpos="DT" code="97"></player>
+  <player name="Eric Goins" shortname="Eric Goins" checkname="GOINS,ERIC" uni="99" class="JR" gp="1" code="99">
+   <ko no="5" yds="318" ob="0" tb="0"></ko>
+   <fg made="1" att="1" long="48" blkd="0"></fg>
+   <pat kickatt="2" kickmade="2"></pat>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+   <scoring fg="1" patkick="2"></scoring>
+  </player>
+  <player name="TEAM" shortname="TEAM" checkname="TEAM" uni="TM" class="FR" gp="1" code="198">
+   <rush att="1" yds="-2" gain="0" loss="2" td="0" long="0"></rush>
+  </player>
+ </team>
+ <team vh="H" code="648" id="SC" name="South Carolina" record="3-8" conf-record="3-7" abb="S">
+  <linescore prds="4" line="3,6,7,6" score="22">
+   <lineprd prd="1" score="3"></lineprd>
+   <lineprd prd="2" score="6"></lineprd>
+   <lineprd prd="3" score="7"></lineprd>
+   <lineprd prd="4" score="6"></lineprd>
+  </linescore>
+  <totals totoff_plays="68" totoff_yards="439" totoff_avg="6.5">
+   <firstdowns no="18" rush="4" pass="14" penalty="0"></firstdowns>
+   <penalties no="7" yds="51"></penalties>
+   <conversions thirdconv="6" thirdatt="16" fourthconv="2" fourthatt="4"></conversions>
+   <fumbles no="0" lost="0"></fumbles>
+   <misc yds="0" top="27:28" ona="0" onm="0" ptsto="0"></misc>
+   <redzone att="3" scores="3" points="13" tdrush="1" tdpass="0" fgmade="2" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="25" yds="72" gain="79" loss="7" td="1" long="18"></rush>
+   <pass comp="28" att="43" int="0" yds="367" td="1" long="47" sacks="0" sackyds="0"></pass>
+   <rcv no="28" yds="367" td="1" long="47"></rcv>
+   <punt no="3" yds="148" long="58" blkd="0" tb="1" fc="0" plus50="1" inside20="1" avg="49.3"></punt>
+   <ko no="6" yds="389" ob="0" tb="5"></ko>
+   <fg made="3" att="3" long="40" blkd="0"></fg>
+   <pat kickatt="1" kickmade="1" rushatt="1" rushmade="0"></pat>
+   <defense tackua="49" tacka="22" tot_tack="71" tflua="7" tfla="2" tflyds="21" sacks="1" sackyds="10" qbh="1"></defense>
+   <kr no="5" yds="127" td="0" long="32"></kr>
+   <pr no="2" yds="-3" td="0" long="0"></pr>
+   <scoring td="2" fg="3" patkick="1"></scoring>
+  </totals>
+  <player name="T.J. Holloman" shortname="T.J. Holloman" checkname="HOLLOMAN,TJ" uni="1T" class="JR" gp="1" gs="1" dpos="MLB" code="1T">
+   <defense tackua="6" tacka="0" tot_tack="6"></defense>
+  </player>
+  <player name="Rico Mcwilliams" shortname="Rico Mcwilliams" checkname="MCWILLIAMS,RICO" uni="1R" class="JR" gp="1" gs="1" dpos="CB" code="1R"></player>
+  <player name="Ernest Hawkins" shortname="Ernest Hawkins" checkname="HAWKINS,ERNEST" uni="1E" class="SO" gp="1" code="1E"></player>
+  <player name="Jalen Henry" shortname="Jalen Henry" checkname="HENRY,JALEN" uni="1J" class="FR" gp="1" code="1J"></player>
+  <player name="Perry Orth" shortname="Perry Orth" checkname="ORTH,PERRY" uni="1P" class="JR" gp="1" gs="1" opos="QB" code="1P">
+   <rush att="2" yds="2" gain="2" loss="0" td="0" long="1"></rush>
+   <pass comp="28" att="43" int="0" yds="367" td="1" long="47" sacks="0" sackyds="0"></pass>
+  </player>
+  <player name="Deebo Samuel" shortname="Deebo Samuel" checkname="SAMUEL,DEEBO" uni="1" class="FR" gp="1" code="1">
+   <rcv no="4" yds="27" td="0" long="10"></rcv>
+  </player>
+  <player name="Landon Ard" shortname="Landon Ard" checkname="ARD,LANDON" uni="1L" class="SR" gp="1" code="1L">
+   <ko no="6" yds="389" ob="0" tb="5"></ko>
+  </player>
+  <player name="Chris Lammons" shortname="Chris Lammons" checkname="LAMMONS,CHRIS" uni="3C" class="SO" gp="1" gs="1" dpos="CB" code="3C">
+   <defense tackua="1" tacka="2" tot_tack="3" tflua="0" tfla="1" tflyds="1"></defense>
+  </player>
+  <player name="Allen-Williams" shortname="Allen-Williams" checkname="ALLEN-WILLIAMS" uni="4B" class="SO" gp="1" gs="1" dpos="WLB" code="4B">
+   <defense tackua="2" tacka="1" tot_tack="3" tflua="1" tfla="0" tflyds="1" qbh="1"></defense>
+  </player>
+  <player name="Terry Googer" shortname="Terry Googer" checkname="GOOGER,TERRY" uni="5" class="FR" gp="1" code="5">
+   <rcv no="1" yds="8" td="0" long="8"></rcv>
+  </player>
+  <player name="Darius English" shortname="Darius English" checkname="ENGLISH,DARIUS" uni="5D" class="JR" gp="1" code="5D">
+   <defense tackua="2" tacka="1" tot_tack="3"></defense>
+  </player>
+  <player name="C. Pellage" shortname="C. Pellage" checkname="PELLAGE,C" uni="5C" class="FR" gp="1" code="5C"></player>
+  <player name="Chris Moody" shortname="Chris Moody" checkname="MOODY,CHRIS" uni="6S" class="JR" gp="1" code="6S"></player>
+  <player name="Shon Carson" shortname="Shon Carson" checkname="CARSON,SHON" uni="7" class="SR" gp="1" code="7">
+   <rush att="2" yds="27" gain="27" loss="0" td="0" long="18"></rush>
+  </player>
+  <player name="M. Lewis" shortname="M. Lewis" checkname="LEWIS,M" uni="8" class="JR" gp="1" gs="1" dpos="DE" code="8">
+   <defense tackua="3" tacka="0" tot_tack="3"></defense>
+  </player>
+  <player name="Shamier Jeffery" shortname="Shamier Jeffery" checkname="JEFFERY,SHAMIER" uni="8S" class="SR" gp="1" code="8S"></player>
+  <player name="Carlton Heard" shortname="Carlton Heard" checkname="HEARD,CARLTON" uni="9" class="SR" gp="1" code="9"></player>
+  <player name="Skai Moore" shortname="Skai Moore" checkname="MOORE,SKAI" uni="10" class="JR" gp="1" code="10">
+   <defense tackua="2" tacka="1" tot_tack="3"></defense>
+  </player>
+  <player name="Pharoh Cooper" shortname="Pharoh Cooper" checkname="COOPER,PHAROH" uni="11" class="JR" gp="1" gs="1" opos="WR" code="11">
+   <rcv no="11" yds="191" td="1" long="47"></rcv>
+   <pr no="2" yds="-3" td="0" long="0"></pr>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Sean Kelly" shortname="Sean Kelly" checkname="KELLY,SEAN" uni="13" class="JR" gp="1" code="13">
+   <punt no="3" yds="148" long="58" blkd="0" tb="1" fc="0" plus50="1" inside20="1" avg="49.3"></punt>
+  </player>
+  <player name="Matrick Belton" shortname="Matrick Belton" checkname="BELTON,MATRICK" uni="15" class="JR" gp="1" gs="1" opos="WR" code="15">
+   <rcv no="1" yds="11" td="0" long="11"></rcv>
+  </player>
+  <player name="Rashad Fenton" shortname="Rashad Fenton" checkname="FENTON,RASHAD" uni="16" class="FR" gp="1" code="16">
+   <kr no="3" yds="83" td="0" long="32"></kr>
+  </player>
+  <player name="T.J. Gurley" shortname="T.J. Gurley" checkname="GURLEY,TJ" uni="20" class="SR" gp="1" gs="1" dpos="SPUR" code="20">
+   <defense tackua="4" tacka="1" tot_tack="5"></defense>
+  </player>
+  <player name="Isaiah Johnson" shortname="Isaiah Johnson" checkname="JOHNSON,ISAIAH" uni="21" class="SR" gp="1" gs="1" dpos="FS" code="21">
+   <defense tackua="2" tacka="4" tot_tack="6"></defense>
+  </player>
+  <player name="Brandon Wilds" shortname="Brandon Wilds" checkname="WILDS,BRANDON" uni="22" class="SR" gp="1" gs="1" opos="TB" code="22">
+   <rush att="16" yds="40" gain="44" loss="4" td="1" long="11"></rush>
+   <rcv no="3" yds="16" td="0" long="8"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="D.J. Smith" shortname="D.J. Smith" checkname="SMITH,DJ" uni="24" class="SO" gp="1" code="24">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Jonathan Walton" shortname="Jonathan Walton" checkname="WALTON,JONATHAN" uni="28" class="JR" gp="1" gs="1" dpos="SLB" code="28">
+   <defense tackua="5" tacka="3" tot_tack="8" tflua="2" tfla="0" tflyds="12" sackua="1" sacka="0" sackyds="10"></defense>
+  </player>
+  <player name="Elliott Fry" shortname="Elliott Fry" checkname="FRY,ELLIOTT" uni="29" class="JR" gp="1" code="29">
+   <fg made="3" att="3" long="40" blkd="0"></fg>
+   <pat kickatt="1" kickmade="1"></pat>
+   <scoring fg="3" patkick="1"></scoring>
+  </player>
+  <player name="Darius Paulk" shortname="Darius Paulk" checkname="PAULK,DARIUS" uni="30" class="JR" gp="1" code="30"></player>
+  <player name="Rod Talley" shortname="Rod Talley" checkname="TALLEY,ROD" uni="32" class="SO" gp="1" code="32">
+   <kr no="2" yds="44" td="0" long="23"></kr>
+  </player>
+  <player name="David Williams" shortname="David Williams" checkname="WILLIAMS,DAVID" uni="33" class="SO" gp="1" code="33">
+   <rush att="5" yds="3" gain="6" loss="3" td="0" long="3"></rush>
+  </player>
+  <player name="R. Bedenbaugh" shortname="R. Bedenbaugh" checkname="BEDENBAUGH,R" uni="39" class="SO" gp="1" code="39"></player>
+  <player name="Jordan Diggs" shortname="Jordan Diggs" checkname="DIGGS,JORDAN" uni="42" class="JR" gp="1" code="42"></player>
+  <player name="Gerald Dixon" shortname="Gerald Dixon" checkname="DIXON,GERALD" uni="44" class="SR" gp="1" gs="1" dpos="DE" code="44">
+   <defense tackua="7" tacka="6" tot_tack="13" tflua="1" tfla="1" tflyds="2"></defense>
+  </player>
+  <player name="Drew Williams" shortname="Drew Williams" checkname="WILLIAMS,DREW" uni="47" class="JR" gp="1" code="47">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Boosie Whitlow" shortname="Boosie Whitlow" checkname="WHITLOW,BOOSIE" uni="49" class="FR" gp="1" code="49">
+   <defense tackua="1" tacka="0" tot_tack="1" tflua="1" tfla="0" tflyds="1"></defense>
+  </player>
+  <player name="Phillip Dukes" shortname="Phillip Dukes" checkname="DUKES,PHILLIP" uni="52" class="SR" gp="1" gs="1" dpos="DT" code="52">
+   <defense tackua="6" tacka="1" tot_tack="7" tflua="1" tfla="0" tflyds="2"></defense>
+  </player>
+  <player name="Blake Camper" shortname="Blake Camper" checkname="CAMPER,BLAKE" uni="63" class="FR" gp="1" gs="1" opos="RT" code="63"></player>
+  <player name="D.J. Park" shortname="D.J. Park" checkname="PARK,DJ" uni="69" class="SO" gp="1" code="69"></player>
+  <player name="Alan Knott" shortname="Alan Knott" checkname="KNOTT,ALAN" uni="70" class="SO" gp="1" gs="1" opos="C" code="70"></player>
+  <player name="Brandon Shell" shortname="Brandon Shell" checkname="SHELL,BRANDON" uni="71" class="SR" gp="1" gs="1" opos="LT" code="71">
+   <pat rushatt="1" rushmade="0"></pat>
+  </player>
+  <player name="Donell Stanley" shortname="Donell Stanley" checkname="STANLEY,DONELL" uni="72" class="FR" gp="1" code="72"></player>
+  <player name="Will Sport" shortname="Will Sport" checkname="SPORT,WILL" uni="75" class="SR" gp="1" gs="1" opos="RG" code="75"></player>
+  <player name="Zack Bailey" shortname="Zack Bailey" checkname="BAILEY,ZACK" uni="78" class="FR" gp="1" gs="1" opos="LG" code="78"></player>
+  <player name="Hayden Hurst" shortname="Hayden Hurst" checkname="HURST,HAYDEN" uni="81" class="FR" gp="1" code="81">
+   <rcv no="2" yds="9" td="0" long="6"></rcv>
+  </player>
+  <player name="Kyle Markway" shortname="Kyle Markway" checkname="MARKWAY,KYLE" uni="84" class="FR" gp="1" gs="1" opos="TE" code="84"></player>
+  <player name="Kevin Crosby" shortname="Kevin Crosby" checkname="CROSBY,KEVIN" uni="86" class="FR" gp="1" code="86"></player>
+  <player name="Jerell Adams" shortname="Jerell Adams" checkname="ADAMS,JERELL" uni="89" class="SR" gp="1" gs="1" opos="TE" code="89">
+   <rcv no="6" yds="105" td="0" long="30"></rcv>
+  </player>
+  <player name="T. Stallworth" shortname="T. Stallworth" checkname="STALLWORTH,T" uni="90" class="SO" gp="1" code="90"></player>
+  <player name="Gerald Dixon Jr" shortname="Gerald Dixon Jr" checkname="JR,GERALD DIXON" uni="92" class="SR" gp="1" gs="1" dpos="DT" code="92">
+   <defense tackua="2" tacka="1" tot_tack="3" tflua="1" tfla="0" tflyds="2"></defense>
+  </player>
+  <player name="Kelsey Griffin" shortname="Kelsey Griffin" checkname="GRIFFIN,KELSEY" uni="94" class="JR" gp="1" code="94">
+   <defense tackua="3" tacka="0" tot_tack="3"></defense>
+  </player>
+  <player name="Abu Lamin" shortname="Abu Lamin" checkname="LAMIN,ABU" uni="99" class="JR" gp="1" code="99">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+ </team>
+ <scores>
+  <score vh="V" team="CIT" qtr="1" clock="12:26" type="TD" how="RUSH" yds="59" scorer="Cam Jackson" patby="Eric Goins" pattype="KICK" patres="GOOD" plays="2" drive="62" top="0:44" vscore="7" hscore="0" driveindex="2"></score>
+  <score vh="H" team="SC" qtr="1" clock="09:52" type="FG" yds="36" scorer="Elliott Fry" plays="6" drive="52" top="2:34" vscore="7" hscore="3" driveindex="3"></score>
+  <score vh="V" team="CIT" qtr="1" clock="03:31" type="TD" how="RUSH" yds="7" scorer="Tyler Renew" patby="Eric Goins" pattype="KICK" patres="GOOD" plays="13" drive="75" top="6:21" vscore="14" hscore="3" driveindex="4"></score>
+  <score vh="H" team="SC" qtr="2" clock="12:55" type="FG" yds="25" scorer="Elliott Fry" plays="14" drive="60" top="5:36" vscore="14" hscore="6" driveindex="5"></score>
+  <score vh="H" team="SC" qtr="2" clock="04:12" type="FG" yds="40" scorer="Elliott Fry" plays="12" drive="70" top="4:23" vscore="14" hscore="9" driveindex="7"></score>
+  <score vh="H" team="SC" qtr="3" clock="06:22" type="TD" how="RUSH" yds="1" scorer="Brandon Wilds" patby="Elliott Fry" pattype="KICK" patres="GOOD" plays="11" drive="80" top="5:09" vscore="14" hscore="16" driveindex="13"></score>
+  <score vh="V" team="CIT" qtr="4" clock="10:26" type="FG" yds="48" scorer="Eric Goins" plays="12" drive="62" top="6:37" vscore="17" hscore="16" driveindex="16"></score>
+  <score vh="H" team="SC" qtr="4" clock="08:40" type="TD" how="PASS" yds="41" scorer="Pharoh Cooper" passer="Perry Orth" patby="Brandon Shell" pattype="RUSH" patres="FAIL" plays="5" drive="74" top="1:46" vscore="17" hscore="22" driveindex="17"></score>
+  <score vh="V" team="CIT" qtr="4" clock="06:07" type="TD" how="RUSH" yds="56" scorer="Tyler Renew" patby="Tyler Renew" pattype="RUSH" patres="FAIL" plays="5" drive="75" top="2:33" vscore="23" hscore="22" driveindex="18"></score>
+ </scores>
+ <fgas>
+  <fga vh="H" team="SC" kicker="Elliott Fry" qtr="1" clock="09:52" distance="36" result="good"></fga>
+  <fga vh="H" team="SC" kicker="Elliott Fry" qtr="2" clock="12:55" distance="25" result="good"></fga>
+  <fga vh="H" team="SC" kicker="Elliott Fry" qtr="2" clock="04:12" distance="40" result="good"></fga>
+  <fga vh="V" team="CIT" kicker="Eric Goins" qtr="4" clock="10:26" distance="48" result="good"></fga>
+ </fgas>
+ <drives>
+  <drive vh="H" team="SC" start="KO,1,15:00,11" end="PUNT,1,13:10,19" plays="3" yards="8" top="1:50" start_how="KO" start_qtr="1" start_time="15:00" start_spot="SC11" end_how="PUNT" end_qtr="1" end_time="13:10" end_spot="SC19" driveindex="1"></drive>
+  <drive vh="V" team="CIT" start="PUNT,1,13:10,38" end="TD,1,12:26,100" plays="2" yards="62" top="0:44" start_how="PUNT" start_qtr="1" start_time="13:10" start_spot="CIT38" end_how="TD" end_qtr="1" end_time="12:26" end_spot="SC00" driveindex="2"></drive>
+  <drive vh="H" team="SC" start="KO,1,12:26,30" end="FG,1,09:52,82" plays="6" yards="52" top="2:34" start_how="KO" start_qtr="1" start_time="12:26" start_spot="SC30" end_how="FG" end_qtr="1" end_time="09:52" end_spot="CIT18" rz="1" driveindex="3"></drive>
+  <drive vh="V" team="CIT" start="KO,1,09:52,25" end="TD,1,03:31,100" plays="13" yards="75" top="6:21" start_how="KO" start_qtr="1" start_time="09:52" start_spot="CIT25" end_how="TD" end_qtr="1" end_time="03:31" end_spot="SC00" rz="1" driveindex="4"></drive>
+  <drive vh="H" team="SC" start="KO,1,03:31,33" end="FG,2,12:55,93" plays="14" yards="60" top="5:36" start_how="KO" start_qtr="1" start_time="03:31" start_spot="SC33" end_how="FG" end_qtr="2" end_time="12:55" end_spot="CIT07" rz="1" driveindex="5"></drive>
+  <drive vh="V" team="CIT" start="KO,2,12:55,23" end="PUNT,2,08:35,62" plays="9" yards="39" top="4:20" start_how="KO" start_qtr="2" start_time="12:55" start_spot="CIT23" end_how="PUNT" end_qtr="2" end_time="08:35" end_spot="SC38" driveindex="6"></drive>
+  <drive vh="H" team="SC" start="PUNT,2,08:35,7" end="FG,2,04:12,77" plays="12" yards="70" top="4:23" start_how="PUNT" start_qtr="2" start_time="08:35" start_spot="SC07" end_how="FG" end_qtr="2" end_time="04:12" end_spot="CIT23" driveindex="7"></drive>
+  <drive vh="V" team="CIT" start="KO,2,04:12,25" end="PUNT,2,02:02,18" plays="3" yards="-7" top="2:10" start_how="KO" start_qtr="2" start_time="04:12" start_spot="CIT25" end_how="PUNT" end_qtr="2" end_time="02:02" end_spot="CIT18" driveindex="8"></drive>
+  <drive vh="H" team="SC" start="PUNT,2,02:02,32" end="PUNT,2,01:08,42" plays="5" yards="10" top="0:54" start_how="PUNT" start_qtr="2" start_time="02:02" start_spot="SC32" end_how="PUNT" end_qtr="2" end_time="01:08" end_spot="SC42" driveindex="9"></drive>
+  <drive vh="V" team="CIT" start="PUNT,2,01:08,20" end="DOWNS,2,00:00,22" plays="4" yards="2" top="1:08" start_how="PUNT" start_qtr="2" start_time="01:08" start_spot="CIT20" end_how="DOWNS" end_qtr="2" end_time="00:00" end_spot="CIT22" driveindex="10"></drive>
+  <drive vh="H" team="SC" start="DOWNS,2,00:00,78" end="HALF,2,00:00,78" plays="0" yards="0" top="0:00" start_how="DOWNS" start_qtr="2" start_time="00:00" start_spot="CIT22" end_how="HALF" end_qtr="2" end_time="00:00" end_spot="CIT22" driveindex="11"></drive>
+  <drive vh="V" team="CIT" start="KO,3,15:00,25" end="PUNT,3,11:31,58" plays="7" yards="33" top="3:29" start_how="KO" start_qtr="3" start_time="15:00" start_spot="CIT25" end_how="PUNT" end_qtr="3" end_time="11:31" end_spot="SC42" driveindex="12"></drive>
+  <drive vh="H" team="SC" start="PUNT,3,11:31,20" end="TD,3,06:22,100" plays="11" yards="80" top="5:09" start_how="PUNT" start_qtr="3" start_time="11:31" start_spot="SC20" end_how="TD" end_qtr="3" end_time="06:22" end_spot="CIT00" rz="1" driveindex="13"></drive>
+  <drive vh="V" team="CIT" start="KO,3,06:22,25" end="PUNT,3,04:27,26" plays="3" yards="1" top="1:55" start_how="KO" start_qtr="3" start_time="06:22" start_spot="CIT25" end_how="PUNT" end_qtr="3" end_time="04:27" end_spot="CIT26" driveindex="14"></drive>
+  <drive vh="H" team="SC" start="PUNT,3,04:27,32" end="PUNT,3,02:03,46" plays="6" yards="14" top="2:24" start_how="PUNT" start_qtr="3" start_time="04:27" start_spot="SC32" end_how="PUNT" end_qtr="3" end_time="02:03" end_spot="SC46" driveindex="15"></drive>
+  <drive vh="V" team="CIT" start="PUNT,3,02:03,7" end="FG,4,10:26,69" plays="12" yards="62" top="6:37" start_how="PUNT" start_qtr="3" start_time="02:03" start_spot="CIT07" end_how="FG" end_qtr="4" end_time="10:26" end_spot="SC31" driveindex="16"></drive>
+  <drive vh="H" team="SC" start="KO,4,10:26,26" end="TD,4,08:40,100" plays="5" yards="74" top="1:46" start_how="KO" start_qtr="4" start_time="10:26" start_spot="SC26" end_how="TD" end_qtr="4" end_time="08:40" end_spot="CIT00" driveindex="17"></drive>
+  <drive vh="V" team="CIT" start="KO,4,08:40,25" end="TD,4,06:07,100" plays="5" yards="75" top="2:33" start_how="KO" start_qtr="4" start_time="08:40" start_spot="CIT25" end_how="TD" end_qtr="4" end_time="06:07" end_spot="SC00" driveindex="18"></drive>
+  <drive vh="H" team="SC" start="KO,4,06:07,24" end="DOWNS,4,04:07,54" plays="5" yards="30" top="2:00" start_how="KO" start_qtr="4" start_time="06:07" start_spot="SC24" end_how="DOWNS" end_qtr="4" end_time="04:07" end_spot="CIT46" driveindex="19"></drive>
+  <drive vh="V" team="CIT" start="DOWNS,4,04:07,46" end="PUNT,4,01:26,61" plays="6" yards="15" top="2:41" start_how="DOWNS" start_qtr="4" start_time="04:07" start_spot="CIT46" end_how="PUNT" end_qtr="4" end_time="01:26" end_spot="SC39" driveindex="20"></drive>
+  <drive vh="H" team="SC" start="PUNT,4,01:26,3" end="DOWNS,4,00:34,11" plays="4" yards="8" top="0:52" start_how="PUNT" start_qtr="4" start_time="01:26" start_spot="SC03" end_how="DOWNS" end_qtr="4" end_time="00:34" end_spot="SC11" driveindex="21"></drive>
+  <drive vh="V" team="CIT" start="DOWNS,4,00:34,75" end="HALF,4,00:00,73" plays="1" yards="-2" top="0:34" start_how="DOWNS" start_qtr="4" start_time="00:34" start_spot="SC25" end_how="HALF" end_qtr="4" end_time="00:00" end_spot="SC27" driveindex="22"></drive>
+ </drives>
+ <plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="CIT" down="1" togo="10" spot="CIT35" context="V,1,10,V35" playid="0,1,0" tokens="CMT:SC wins the toss and will receive the kickoff.  Citadel defends south"
+      text="SC wins the toss and will receive the kickoff.  Citadel defends south" newcontext="V,1,10,V35">
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="CIT35" context="V,1,10,V35" playid="0,2,1" type="K" tokens="KO:99,H00 RET:16,H21 PEN:H,UC,A,81,H11,N D:1,10 SPOT:H,H11,Y"
+      text="Eric Goins kickoff 65 yards to the SC0, Rashad Fenton return 21 yards to the SC21, PENALTY SC unsportsmanlike conduct (Hayden Hurst) 10 yards to the SC11, 1st and 10, SC ball on SC11." newcontext="H,1,10,H11">
+    <p_ko vh="V" name="Eric Goins" gain="65"></p_ko>
+    <p_kr vh="H" name="Rashad Fenton" gain="21"></p_kr>
+    <p_pn vh="H" code="UC" type="unsportsmanlike conduct" name="Hayden Hurst" result="ACCEPT" at="H21" yards="10"></p_pn>
+   </play>
+   <drivestart poss="H,H11,15:00" vh="H" spot="H11" clock="15:00" driveindex="1,1"></drivestart>
+   <play hasball="SC" down="1" togo="10" spot="SC11" context="H,1,10,H11" playid="1,1,2" type="R" tokens="RUSH:22,H13, TACK:62"
+      text="Brandon Wilds rush for 2 yards to the SC13 (Mitchell Jeter)." newcontext="H,2,8,H13">
+    <p_ru vh="H" name="Brandon Wilds" gain="2"></p_ru>
+    <p_tk vh="V" name="Mitchell Jeter"></p_tk>
+   </play>
+   <play hasball="SC" down="2" togo="8" spot="SC13" context="H,2,8,H13" playid="1,2,3" type="P" tokens="PASS:1P,C,11,H20 TACK:33"
+      text="Perry Orth pass complete to Pharoh Cooper for 7 yards to the SC20 (Q Washington)." newcontext="H,3,1,H20">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Pharoh Cooper" gain="7"></p_pa>
+    <p_tk vh="V" name="Q Washington"></p_tk>
+   </play>
+   <play hasball="SC" down="3" togo="1" spot="SC20" context="H,3,1,H20" playid="1,3,4" type="R" tokens="RUSH:22,H19, TACK:5"
+      text="Brandon Wilds rush for loss of 1 yard to the SC19 (Joe Crochet)." newcontext="H,4,2,H19">
+    <p_ru vh="H" name="Brandon Wilds" gain="-1"></p_ru>
+    <p_tk vh="V" name="Joe Crochet"></p_tk>
+   </play>
+   <play hasball="SC" down="4" togo="2" spot="SC19" context="H,4,2,H19" playid="1,4,5" type="U" tokens="PUNT:13,V38 RET:2,V38 TACK:47"
+      text="Sean Kelly punt 43 yards to the CIT38, D Schoultz return 0 yards to the CIT38 (Drew Williams)." newcontext="V,1,10,V38">
+    <p_pu vh="H" name="Sean Kelly" gain="43"></p_pu>
+    <p_pr vh="V" name="D Schoultz" gain="0"></p_pr>
+    <p_tk vh="H" name="Drew Williams"></p_tk>
+   </play>
+   <drivesum plays="3" yards="8" top="1:50" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="V,V38,13:10" vh="V" spot="V38" clock="13:10" driveindex="2,5"></drivestart>
+   <play hasball="CIT" down="1" togo="10" spot="CIT38" context="V,1,10,V38" playid="2,1,6" clock="13:10" tokens="{DRIVE}:13:10"
+      text="THE CITADEL drive start at 13:10." newcontext="V,1,10,V38">
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="CIT38" context="V,1,10,V38" playid="2,2,7" type="R" tokens="RUSH:18,V41, TACK:28,44"
+      text="Cam Jackson rush for 3 yards to the CIT41 (Jonathan Walton;Gerald Dixon)." newcontext="V,2,7,V41">
+    <p_ru vh="V" name="Cam Jackson" gain="3"></p_ru>
+    <p_tk vh="H" name="Jonathan Walton" assist="Y"></p_tk>
+    <p_tk vh="H" name="Gerald Dixon" assist="Y"></p_tk>
+   </play>
+   <play hasball="CIT" down="2" togo="7" spot="CIT41" context="V,2,7,V41" playid="2,3,8" type="R" first="R" score="Y" vscore="6" hscore="0" clock="12:26" tokens="RUSH:18,H00, T:12:26"
+      text="Cam Jackson rush for 59 yards to the SC0, 1ST DOWN CIT, TOUCHDOWN, clock 12:26." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Cam Jackson" gain="59"></p_ru>
+   </play>
+   <play hasball="CIT" down="1" togo="0" spot="SC03" context="V,1,0,H03" playid="2,4,9" type="X" score="Y" vscore="7" hscore="0" tokens="PAT:K,99,G"
+      text="Eric Goins kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Eric Goins" qb="Eric Goins" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="0"></score>
+   <drivesum plays="2" yards="62" top="0:44" driveindex="2" complete="Y"></drivesum>
+   <play hasball="CIT" down="1" togo="0" spot="CIT35" context="V,1,0,V35" playid="2,5,10" type="K" tokens="KO:99,H00 RET:16,H30 TACK:23"
+      text="Eric Goins kickoff 65 yards to the SC0, Rashad Fenton return 30 yards to the SC30 (Tyus Carter)." newcontext="H,1,10,H30">
+    <p_ko vh="V" name="Eric Goins" gain="65"></p_ko>
+    <p_kr vh="H" name="Rashad Fenton" gain="30"></p_kr>
+    <p_tk vh="V" name="Tyus Carter"></p_tk>
+   </play>
+   <drivestart poss="H,H30,12:26" vh="H" spot="H30" clock="12:26" driveindex="3,10"></drivestart>
+   <play hasball="SC" down="1" togo="10" spot="SC30" context="H,1,10,H30" playid="3,1,11" clock="12:26" tokens="{DRIVE}:12:26"
+      text="SOUTH CAROLINA drive start at 12:26." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="SC30" context="H,1,10,H30" playid="3,2,12" type="E" tokens="PEN:H,FS,A,63,H25,N"
+      text="PENALTY SC false start (Blake Camper) 5 yards to the SC25." newcontext="H,1,15,H25">
+    <p_pn vh="H" code="FS" type="false start" name="Blake Camper" result="ACCEPT" at="H30" yards="5"></p_pn>
+   </play>
+   <play hasball="SC" down="1" togo="15" spot="SC25" context="H,1,15,H25" playid="3,3,13" type="P" first="P" tokens="PASS:1P,C,11,V35 OB: TACK:33"
+      text="Perry Orth pass complete to Pharoh Cooper for 40 yards to the CIT35, 1ST DOWN SC, out-of-bounds (Q Washington)." ob="Y" newcontext="H,1,10,V35">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Pharoh Cooper" gain="40"></p_pa>
+    <p_tk vh="V" name="Q Washington"></p_tk>
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="CIT35" context="H,1,10,V35" playid="3,4,14" type="P" first="P" tokens="PASS:1P,C,89,V23 TACK:21"
+      text="Perry Orth pass complete to Jerell Adams for 12 yards to the CIT23, 1ST DOWN SC (Malik Diggs)." newcontext="H,1,10,V23">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Jerell Adams" gain="12"></p_pa>
+    <p_tk vh="V" name="Malik Diggs"></p_tk>
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="CIT23" context="H,1,10,V23" playid="3,5,15" type="E" tokens="PASS:1P,C,11,V13 TACK:7 PEN:H,FL,A,TM,V28,N NOPLAY:"
+      text="Perry Orth pass complete to Pharoh Cooper for 10 yards to the CIT13 (Mark Thomas), PENALTY SC FL 5 yards to the CIT28, NO PLAY." newcontext="H,1,15,V28">
+    <p_pn vh="H" code="FL" type="FL" result="ACCEPT" at="V23" yards="5"></p_pn>
+   </play>
+   <play hasball="SC" down="1" togo="15" spot="CIT28" context="H,1,15,V28" playid="3,6,16" type="R" tokens="RUSH:22,V23,"
+      text="Brandon Wilds rush for 5 yards to the CIT23." newcontext="H,2,10,V23">
+    <p_ru vh="H" name="Brandon Wilds" gain="5"></p_ru>
+   </play>
+   <play hasball="SC" down="2" togo="10" spot="CIT23" context="H,2,10,V23" playid="3,7,17" type="P" tokens="PASS:1P,I,9,*"
+      text="Perry Orth pass incomplete to Carlton Heard." newcontext="H,3,10,V23">
+    <p_pa vh="H" qb="Perry Orth" result="INC" rcv="Carlton Heard"></p_pa>
+   </play>
+   <play hasball="SC" down="3" togo="10" spot="CIT23" context="H,3,10,V23" playid="3,8,18" type="P" tokens="PASS:1P,C,22,V18 TACK:49"
+      text="Perry Orth pass complete to Brandon Wilds for 5 yards to the CIT18 (James Riley)." newcontext="H,4,5,V18">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Brandon Wilds" gain="5"></p_pa>
+    <p_tk vh="V" name="James Riley"></p_tk>
+   </play>
+   <play hasball="SC" down="4" togo="5" spot="CIT18" context="H,4,5,V18" playid="3,9,19" type="F" score="Y" vscore="7" hscore="3" clock="09:52" tokens="FGA:29,36,G T:09:52"
+      text="Elliott Fry field goal attempt from 36 GOOD, clock 09:52." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="Elliott Fry" distance="36" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="7" H="3"></score>
+   <drivesum plays="6" yards="52" top="2:34" driveindex="3" complete="Y"></drivesum>
+   <play hasball="SC" down="1" togo="0" spot="SC35" context="H,1,0,H35" playid="3,10,20" type="K" tokens="KO:1L,V00 TB:"
+      text="Landon Ard kickoff 65 yards to the CIT0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Landon Ard" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,09:52" vh="V" spot="V25" clock="09:52" driveindex="4,20"></drivestart>
+   <play hasball="CIT" down="1" togo="10" spot="CIT25" context="V,1,10,V25" playid="4,1,21" clock="09:52" tokens="{DRIVE}:09:52"
+      text="THE CITADEL drive start at 09:52." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="CIT25" context="V,1,10,V25" playid="4,2,22" type="R" tokens="RUSH:36,V30, TACK:44"
+      text="Tyler Renew rush for 5 yards to the CIT30 (Gerald Dixon)." newcontext="V,2,5,V30">
+    <p_ru vh="V" name="Tyler Renew" gain="5"></p_ru>
+    <p_tk vh="H" name="Gerald Dixon"></p_tk>
+   </play>
+   <play hasball="CIT" down="2" togo="5" spot="CIT30" context="V,2,5,V30" playid="4,3,23" type="E" tokens="RUSH:18,V32, TACK:4B PEN:V,MO,A,TM,V25,N NOPLAY:"
+      text="Cam Jackson rush for 2 yards to the CIT32 (Allen-Williams), PENALTY CIT illegal motion 5 yards to the CIT25, NO PLAY." newcontext="V,2,10,V25">
+    <p_pn vh="V" code="MO" type="illegal motion" result="ACCEPT" at="V30" yards="5"></p_pn>
+   </play>
+   <play hasball="CIT" down="2" togo="10" spot="CIT25" context="V,2,10,V25" playid="4,4,24" type="R" first="R" tokens="RUSH:16,V37, TACK:20"
+      text="Vinny Miller rush for 12 yards to the CIT37, 1ST DOWN CIT (T.J. Gurley)." newcontext="V,1,10,V37">
+    <p_ru vh="V" name="Vinny Miller" gain="12"></p_ru>
+    <p_tk vh="H" name="T.J. Gurley"></p_tk>
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="CIT37" context="V,1,10,V37" playid="4,5,25" type="R" tokens="RUSH:18,V40, TACK:3C,28"
+      text="Cam Jackson rush for 3 yards to the CIT40 (Chris Lammons;Jonathan Walton)." newcontext="V,2,7,V40">
+    <p_ru vh="V" name="Cam Jackson" gain="3"></p_ru>
+    <p_tk vh="H" name="Chris Lammons" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jonathan Walton" assist="Y"></p_tk>
+   </play>
+   <play hasball="CIT" down="2" togo="7" spot="CIT40" context="V,2,7,V40" playid="4,6,26" type="R" tokens="RUSH:18,V46, TACK:28"
+      text="Cam Jackson rush for 6 yards to the CIT46 (Jonathan Walton)." newcontext="V,3,1,V46">
+    <p_ru vh="V" name="Cam Jackson" gain="6"></p_ru>
+    <p_tk vh="H" name="Jonathan Walton"></p_tk>
+   </play>
+   <play hasball="CIT" down="3" togo="1" spot="CIT46" context="V,3,1,V46" playid="4,7,27" type="R" first="R" tokens="RUSH:19,V50, TACK:28,44"
+      text="Dominique Allen rush for 4 yards to the 50 yardline, 1ST DOWN CIT (Jonathan Walton;Gerald Dixon)." newcontext="V,1,10,V50">
+    <p_ru vh="V" name="Dominique Allen" gain="4"></p_ru>
+    <p_tk vh="H" name="Jonathan Walton" assist="Y"></p_tk>
+    <p_tk vh="H" name="Gerald Dixon" assist="Y"></p_tk>
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="CIT50" context="V,1,10,V50" playid="4,8,28" type="R" tokens="RUSH:36,H46, TACK:92"
+      text="Tyler Renew rush for 4 yards to the SC46 (Gerald Dixon Jr)." newcontext="V,2,6,H46">
+    <p_ru vh="V" name="Tyler Renew" gain="4"></p_ru>
+    <p_tk vh="H" name="Gerald Dixon Jr"></p_tk>
+   </play>
+   <play hasball="CIT" down="2" togo="6" spot="SC46" context="V,2,6,H46" playid="4,9,29" type="R" tokens="RUSH:36,H42, TACK:8"
+      text="Tyler Renew rush for 4 yards to the SC42 (M. Lewis)." newcontext="V,3,2,H42">
+    <p_ru vh="V" name="Tyler Renew" gain="4"></p_ru>
+    <p_tk vh="H" name="M. Lewis"></p_tk>
+   </play>
+   <play hasball="CIT" down="3" togo="2" spot="SC42" context="V,3,2,H42" playid="4,10,30" type="R" first="R" tokens="RUSH:36,H38, TACK:1T"
+      text="Tyler Renew rush for 4 yards to the SC38, 1ST DOWN CIT (T.J. Holloman)." newcontext="V,1,10,H38">
+    <p_ru vh="V" name="Tyler Renew" gain="4"></p_ru>
+    <p_tk vh="H" name="T.J. Holloman"></p_tk>
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="SC38" context="V,1,10,H38" playid="4,11,31" type="R" first="R" tokens="RUSH:36,H28, TACK:1T"
+      text="Tyler Renew rush for 10 yards to the SC28, 1ST DOWN CIT (T.J. Holloman)." newcontext="V,1,10,H28">
+    <p_ru vh="V" name="Tyler Renew" gain="10"></p_ru>
+    <p_tk vh="H" name="T.J. Holloman"></p_tk>
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="SC28" context="V,1,10,H28" playid="4,12,32" type="R" first="R" tokens="RUSH:36,H16, TACK:44"
+      text="Tyler Renew rush for 12 yards to the SC16, 1ST DOWN CIT (Gerald Dixon)." newcontext="V,1,10,H16">
+    <p_ru vh="V" name="Tyler Renew" gain="12"></p_ru>
+    <p_tk vh="H" name="Gerald Dixon"></p_tk>
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="SC16" context="V,1,10,H16" playid="4,13,33" type="R" tokens="RUSH:18,H18, TACK:44,3C"
+      text="Cam Jackson rush for loss of 2 yards to the SC18 (Gerald Dixon;Chris Lammons)." newcontext="V,2,12,H18">
+    <p_ru vh="V" name="Cam Jackson" gain="-2"></p_ru>
+    <p_tk vh="H" name="Gerald Dixon" assist="Y"></p_tk>
+    <p_tk vh="H" name="Chris Lammons" assist="Y"></p_tk>
+   </play>
+   <play hasball="CIT" down="2" togo="12" spot="SC18" context="V,2,12,H18" playid="4,14,34" type="R" first="E" tokens="RUSH:36,H15, TACK:52 PEN:H,UC,A,1T,H07,1"
+      text="Tyler Renew rush for 3 yards to the SC15 (Phillip Dukes), PENALTY SC unsportsmanlike conduct (T.J. Holloman) 8 yards to the SC7, 1ST DOWN CIT." newcontext="V,1,0,H07">
+    <p_ru vh="V" name="Tyler Renew" gain="3"></p_ru>
+    <p_tk vh="H" name="Phillip Dukes"></p_tk>
+    <p_pn vh="H" code="UC" type="unsportsmanlike conduct" name="T.J. Holloman" result="ACCEPT" at="H15" yards="8"></p_pn>
+   </play>
+   <play hasball="CIT" down="1" togo="0" spot="SC07" context="V,1,0,H07" playid="4,15,35" tokens="D:1,7"
+      text="1st and 7." newcontext="V,1,0,H07">
+   </play>
+   <play hasball="CIT" down="1" togo="0" spot="SC07" context="V,1,0,H07" playid="4,16,36" type="R" score="Y" vscore="13" hscore="3" clock="03:31" tokens="RUSH:36,H00, T:03:31"
+      text="Tyler Renew rush for 7 yards to the SC0, TOUCHDOWN, clock 03:31." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Tyler Renew" gain="7"></p_ru>
+   </play>
+   <play hasball="CIT" down="1" togo="0" spot="SC03" context="V,1,0,H03" playid="4,17,37" type="X" score="Y" vscore="14" hscore="3" tokens="PAT:K,99,G"
+      text="Eric Goins kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Eric Goins" qb="Eric Goins" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="3"></score>
+   <drivesum plays="13" yards="75" top="6:21" driveindex="4" complete="Y"></drivesum>
+   <play hasball="CIT" down="1" togo="0" spot="CIT35" context="V,1,0,V35" playid="4,18,38" type="K" tokens="KO:99,H01 RET:16,H33 TACK:99"
+      text="Eric Goins kickoff 64 yards to the SC1, Rashad Fenton return 32 yards to the SC33 (Eric Goins)." newcontext="H,1,10,H33">
+    <p_ko vh="V" name="Eric Goins" gain="64"></p_ko>
+    <p_kr vh="H" name="Rashad Fenton" gain="32"></p_kr>
+    <p_tk vh="V" name="Eric Goins"></p_tk>
+   </play>
+   <drivestart poss="H,H33,03:31" vh="H" spot="H33" clock="03:31" driveindex="5,38"></drivestart>
+   <play hasball="SC" down="1" togo="10" spot="SC33" context="H,1,10,H33" playid="5,1,39" clock="03:31" tokens="{DRIVE}:03:31"
+      text="SOUTH CAROLINA drive start at 03:31." newcontext="H,1,10,H33">
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="SC33" context="H,1,10,H33" playid="5,2,40" type="R" tokens="RUSH:22,H41, TACK:21,62"
+      text="Brandon Wilds rush for 8 yards to the SC41 (Malik Diggs;Mitchell Jeter)." newcontext="H,2,2,H41">
+    <p_ru vh="H" name="Brandon Wilds" gain="8"></p_ru>
+    <p_tk vh="V" name="Malik Diggs" assist="Y"></p_tk>
+    <p_tk vh="V" name="Mitchell Jeter" assist="Y"></p_tk>
+   </play>
+   <play hasball="SC" down="2" togo="2" spot="SC41" context="H,2,2,H41" playid="5,3,41" type="R" tokens="RUSH:22,H42, TACK:49"
+      text="Brandon Wilds rush for 1 yard to the SC42 (James Riley)." newcontext="H,3,1,H42">
+    <p_ru vh="H" name="Brandon Wilds" gain="1"></p_ru>
+    <p_tk vh="V" name="James Riley"></p_tk>
+   </play>
+   <play hasball="SC" down="3" togo="1" spot="SC42" context="H,3,1,H42" playid="5,4,42" type="R" tokens="RUSH:22,H40, TACK:5"
+      text="Brandon Wilds rush for loss of 2 yards to the SC40 (Joe Crochet)." newcontext="H,4,3,H40">
+    <p_ru vh="H" name="Brandon Wilds" gain="-2"></p_ru>
+    <p_tk vh="V" name="Joe Crochet"></p_tk>
+   </play>
+   <play hasball="SC" down="4" togo="3" spot="SC40" context="H,4,3,H40" playid="5,5,43" type="P" first="P" tokens="PASS:1P,C,1,H49 TACK:1"
+      text="Perry Orth pass complete to Deebo Samuel for 9 yards to the SC49, 1ST DOWN SC (Shy Phillips)." newcontext="H,1,10,H49">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Deebo Samuel" gain="9"></p_pa>
+    <p_tk vh="V" name="Shy Phillips"></p_tk>
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="SC49" context="H,1,10,H49" playid="5,6,44" type="P" tokens="PASS:1P,I,11,*"
+      text="Perry Orth pass incomplete to Pharoh Cooper." newcontext="H,2,10,H49">
+    <p_pa vh="H" qb="Perry Orth" result="INC" rcv="Pharoh Cooper"></p_pa>
+   </play>
+   <play hasball="SC" down="2" togo="10" spot="SC49" context="H,2,10,H49" playid="5,7,45" type="R" tokens="RUSH:22,H48, TACK:55"
+      text="Brandon Wilds rush for loss of 1 yard to the SC48 (Russell Hubbs)." newcontext="H,3,11,H48">
+    <p_ru vh="H" name="Brandon Wilds" gain="-1"></p_ru>
+    <p_tk vh="V" name="Russell Hubbs"></p_tk>
+   </play>
+   <play hasball="SC" down="3" togo="11" spot="SC48" context="H,3,11,H48" playid="5,8,46" type="P" tokens="PASS:1P,C,89,V42 TACK:43,1"
+      text="Perry Orth pass complete to Jerell Adams for 10 yards to the CIT42 (Tevin Floyd;Shy Phillips)." newcontext="H,4,1,V42">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Jerell Adams" gain="10"></p_pa>
+    <p_tk vh="V" name="Tevin Floyd" assist="Y"></p_tk>
+    <p_tk vh="V" name="Shy Phillips" assist="Y"></p_tk>
+   </play>
+   <score qtr="1" V="14" H="3"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="CIT">
+    <firstdowns no="7" rush="6" pass="0" penalty="1"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="2" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:05"></misc>
+    <rush att="15" yds="134" gain="136" loss="2" td="2" long="59"></rush>
+    <ko no="3" yds="194" ob="0" tb="0"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="12" tacka="4" tot_tack="16" tflua="3" tfla="0" tflyds="4" sacks="0" sackyds="0"></defense>
+    <pr no="1" yds="0" td="0" long="0"></pr>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="SC">
+    <firstdowns no="3" rush="0" pass="3" penalty="0"></firstdowns>
+    <penalties no="4" yds="28"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:55"></misc>
+    <rush att="7" yds="12" gain="16" loss="4" td="0" long="8"></rush>
+    <pass comp="6" att="8" int="0" yds="83" td="0" long="40" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="83" td="0" long="40"></rcv>
+    <punt no="1" yds="43" long="43" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="43.0"></punt>
+    <ko no="1" yds="65" ob="0" tb="1"></ko>
+    <fg made="1" att="1" long="36" blkd="0"></fg>
+    <defense tackua="10" tacka="8" tot_tack="18" tflua="0" tfla="2" tflyds="2" sacks="0" sackyds="0"></defense>
+    <kr no="3" yds="83" td="0" long="32"></kr>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="SC" down="4" togo="1" spot="CIT42" context="H,4,1,V42" playid="5,9,47" type="#" clock="15:00" tokens="Q:2 T:15:00"
+      text="Start of 2nd quarter, clock 15:00." newcontext="H,4,1,V42">
+   </play>
+   <play hasball="SC" down="4" togo="1" spot="CIT42" context="H,4,1,V42" playid="5,10,48" type="R" first="R" tokens="RUSH:1P,V41, TACK:92"
+      text="Perry Orth rush for 1 yard to the CIT41, 1ST DOWN SC (Travis Johnson)." newcontext="H,1,10,V41">
+    <p_ru vh="H" name="Perry Orth" gain="1"></p_ru>
+    <p_tk vh="V" name="Travis Johnson"></p_tk>
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="CIT41" context="H,1,10,V41" playid="5,11,49" type="P" tokens="PASS:1P,C,81,V38 TACK:49"
+      text="Perry Orth pass complete to Hayden Hurst for 3 yards to the CIT38 (James Riley)." newcontext="H,2,7,V38">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Hayden Hurst" gain="3"></p_pa>
+    <p_tk vh="V" name="James Riley"></p_tk>
+   </play>
+   <play hasball="SC" down="2" togo="7" spot="CIT38" context="H,2,7,V38" playid="5,12,50" type="P" first="P" tokens="PASS:1P,C,89,V08 TACK:22"
+      text="Perry Orth pass complete to Jerell Adams for 30 yards to the CIT8, 1ST DOWN SC (D Copeland)." newcontext="H,1,0,V08">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Jerell Adams" gain="30"></p_pa>
+    <p_tk vh="V" name="D Copeland"></p_tk>
+   </play>
+   <play hasball="SC" down="1" togo="0" spot="CIT08" context="H,1,0,V08" playid="5,13,51" type="R" tokens="RUSH:1P,V07, TACK:43"
+      text="Perry Orth rush for 1 yard to the CIT7 (Tevin Floyd)." newcontext="H,2,0,V07">
+    <p_ru vh="H" name="Perry Orth" gain="1"></p_ru>
+    <p_tk vh="V" name="Tevin Floyd"></p_tk>
+   </play>
+   <play hasball="SC" down="2" togo="0" spot="CIT07" context="H,2,0,V07" playid="5,14,52" type="P" tokens="PASS:1P,I,11,*"
+      text="Perry Orth pass incomplete to Pharoh Cooper." newcontext="H,3,0,V07">
+    <p_pa vh="H" qb="Perry Orth" result="INC" rcv="Pharoh Cooper"></p_pa>
+   </play>
+   <play hasball="SC" down="3" togo="0" spot="CIT07" context="H,3,0,V07" playid="5,15,53" type="P" tokens="PASS:1P,I,7,* QBH:V,62"
+      text="Perry Orth pass incomplete to Shon Carson, QB hurry by Mitchell Jeter." newcontext="H,4,0,V07">
+    <p_pa vh="H" qb="Perry Orth" result="INC" rcv="Shon Carson"></p_pa>
+    <p_qbh vh="V" name="Mitchell Jeter"></p_qbh>
+   </play>
+   <play hasball="SC" down="4" togo="0" spot="CIT07" context="H,4,0,V07" playid="5,16,54" type="F" score="Y" vscore="14" hscore="6" clock="12:55" tokens="FGA:29,25,G T:12:55"
+      text="Elliott Fry field goal attempt from 25 GOOD, clock 12:55." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="Elliott Fry" distance="25" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="14" H="6"></score>
+   <drivesum plays="14" yards="60" top="5:36" driveindex="5" complete="Y"></drivesum>
+   <play hasball="SC" down="1" togo="0" spot="SC35" context="H,1,0,H35" playid="5,17,55" type="K" tokens="KO:1L,V01 RET:33,V23 TACK:24"
+      text="Landon Ard kickoff 64 yards to the CIT1, Q Washington return 22 yards to the CIT23 (D.J. Smith)." newcontext="V,1,10,V23">
+    <p_ko vh="H" name="Landon Ard" gain="64"></p_ko>
+    <p_kr vh="V" name="Q Washington" gain="22"></p_kr>
+    <p_tk vh="H" name="D.J. Smith"></p_tk>
+   </play>
+   <drivestart poss="V,V23,12:55" vh="V" spot="V23" clock="12:55" driveindex="6,55"></drivestart>
+   <play hasball="CIT" down="1" togo="10" spot="CIT23" context="V,1,10,V23" playid="6,1,56" clock="12:55" tokens="{DRIVE}:12:55"
+      text="THE CITADEL drive start at 12:55." newcontext="V,1,10,V23">
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="CIT23" context="V,1,10,V23" playid="6,2,57" type="P" tokens="PASS:19,C,82,V26 TACK:3C"
+      text="Dominique Allen pass complete to Brandon Eakins for 3 yards to the CIT26 (Chris Lammons)." newcontext="V,2,7,V26">
+    <p_pa vh="V" qb="Dominique Allen" result="COMP" rcv="Brandon Eakins" gain="3"></p_pa>
+    <p_tk vh="H" name="Chris Lammons"></p_tk>
+   </play>
+   <play hasball="CIT" down="2" togo="7" spot="CIT26" context="V,2,7,V26" playid="6,3,58" type="R" tokens="RUSH:39,V30, TACK:5D"
+      text="Isiaha Smith rush for 4 yards to the CIT30 (Darius English)." newcontext="V,3,3,V30">
+    <p_ru vh="V" name="Isiaha Smith" gain="4"></p_ru>
+    <p_tk vh="H" name="Darius English"></p_tk>
+   </play>
+   <play hasball="CIT" down="3" togo="3" spot="CIT30" context="V,3,3,V30" playid="6,4,59" type="R" first="R" tokens="RUSH:19,V44, TACK:21,20"
+      text="Dominique Allen rush for 14 yards to the CIT44, 1ST DOWN CIT (Isaiah Johnson;T.J. Gurley)." newcontext="V,1,10,V44">
+    <p_ru vh="V" name="Dominique Allen" gain="14"></p_ru>
+    <p_tk vh="H" name="Isaiah Johnson" assist="Y"></p_tk>
+    <p_tk vh="H" name="T.J. Gurley" assist="Y"></p_tk>
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="CIT44" context="V,1,10,V44" playid="6,5,60" type="R" tokens="RUSH:18,H47, TACK:5D,21"
+      text="Cam Jackson rush for 9 yards to the SC47 (Darius English;Isaiah Johnson)." newcontext="V,2,1,H47">
+    <p_ru vh="V" name="Cam Jackson" gain="9"></p_ru>
+    <p_tk vh="H" name="Darius English" assist="Y"></p_tk>
+    <p_tk vh="H" name="Isaiah Johnson" assist="Y"></p_tk>
+   </play>
+   <play hasball="CIT" down="2" togo="1" spot="SC47" context="V,2,1,H47" playid="6,6,61" type="R" first="R" tokens="RUSH:19,H43, TACK:21"
+      text="Dominique Allen rush for 4 yards to the SC43, 1ST DOWN CIT (Isaiah Johnson)." newcontext="V,1,10,H43">
+    <p_ru vh="V" name="Dominique Allen" gain="4"></p_ru>
+    <p_tk vh="H" name="Isaiah Johnson"></p_tk>
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="SC43" context="V,1,10,H43" playid="6,7,62" type="R" tokens="RUSH:39,H38, TACK:94"
+      text="Isiaha Smith rush for 5 yards to the SC38 (Kelsey Griffin)." newcontext="V,2,5,H38">
+    <p_ru vh="V" name="Isiaha Smith" gain="5"></p_ru>
+    <p_tk vh="H" name="Kelsey Griffin"></p_tk>
+   </play>
+   <play hasball="CIT" down="2" togo="5" spot="SC38" context="V,2,5,H38" playid="6,8,63" type="R" tokens="RUSH:18,H34, OB: TACK:21 PEN:V,HO,A,73,H44,N"
+      text="Cam Jackson rush for 4 yards to the SC34, out-of-bounds (Isaiah Johnson), PENALTY CIT holding (Isaiah Pinson) 10 yards to the SC44." ob="Y" newcontext="V,2,11,H44">
+    <p_ru vh="V" name="Cam Jackson" gain="4"></p_ru>
+    <p_tk vh="H" name="Isaiah Johnson"></p_tk>
+    <p_pn vh="V" code="HO" type="holding" name="Isaiah Pinson" result="ACCEPT" at="H34" yards="10"></p_pn>
+   </play>
+   <play hasball="CIT" down="2" togo="11" spot="SC44" context="V,2,11,H44" playid="6,9,64" tokens="D:2,11"
+      text="2nd and 11." newcontext="V,2,11,H44">
+   </play>
+   <play hasball="CIT" down="2" togo="11" spot="SC44" context="V,2,11,H44" playid="6,10,65" type="P" tokens="PASS:19,I,39,* QBH:H,4B"
+      text="Dominique Allen pass incomplete to Isiaha Smith, QB hurry by Allen-Williams." newcontext="V,3,11,H44">
+    <p_pa vh="V" qb="Dominique Allen" result="INC" rcv="Isiaha Smith"></p_pa>
+    <p_qbh vh="H" name="Allen-Williams"></p_qbh>
+   </play>
+   <play hasball="CIT" down="3" togo="11" spot="SC44" context="V,3,11,H44" playid="6,11,66" type="R" tokens="RUSH:19,H38, TACK:5D"
+      text="Dominique Allen rush for 6 yards to the SC38 (Darius English)." newcontext="V,4,5,H38">
+    <p_ru vh="V" name="Dominique Allen" gain="6"></p_ru>
+    <p_tk vh="H" name="Darius English"></p_tk>
+   </play>
+   <play hasball="CIT" down="4" togo="5" spot="SC38" context="V,4,5,H38" playid="6,12,67" type="U" tokens="PUNT:90,H07 DN:"
+      text="Will Vanvick punt 31 yards to the SC7, downed." newcontext="H,1,10,H07">
+    <p_pu vh="V" name="Will Vanvick" gain="31" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="9" yards="39" top="4:20" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="H,H07,08:35" vh="H" spot="H07" clock="08:35" driveindex="7,67"></drivestart>
+   <play hasball="SC" down="1" togo="10" spot="SC07" context="H,1,10,H07" playid="7,1,68" clock="08:35" tokens="{DRIVE}:08:35"
+      text="SOUTH CAROLINA drive start at 08:35." newcontext="H,1,10,H07">
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="SC07" context="H,1,10,H07" playid="7,2,69" type="R" first="R" tokens="RUSH:22,H18, TACK:27"
+      text="Brandon Wilds rush for 11 yards to the SC18, 1ST DOWN SC (Nick Willis)." newcontext="H,1,10,H18">
+    <p_ru vh="H" name="Brandon Wilds" gain="11"></p_ru>
+    <p_tk vh="V" name="Nick Willis"></p_tk>
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="SC18" context="H,1,10,H18" playid="7,3,70" type="P" first="P" tokens="PASS:1P,C,89,H32 OB: TACK:27"
+      text="Perry Orth pass complete to Jerell Adams for 14 yards to the SC32, 1ST DOWN SC, out-of-bounds (Nick Willis)." ob="Y" newcontext="H,1,10,H32">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Jerell Adams" gain="14"></p_pa>
+    <p_tk vh="V" name="Nick Willis"></p_tk>
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="SC32" context="H,1,10,H32" playid="7,4,71" type="P" tokens="PASS:1P,C,11,H38"
+      text="Perry Orth pass complete to Pharoh Cooper for 6 yards to the SC38." newcontext="H,2,4,H38">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Pharoh Cooper" gain="6"></p_pa>
+   </play>
+   <play hasball="SC" down="2" togo="4" spot="SC38" context="H,2,4,H38" playid="7,5,72" type="P" tokens="PASS:1P,I,5,*"
+      text="Perry Orth pass incomplete to Terry Googer." newcontext="H,3,4,H38">
+    <p_pa vh="H" qb="Perry Orth" result="INC" rcv="Terry Googer"></p_pa>
+   </play>
+   <play hasball="SC" down="3" togo="4" spot="SC38" context="H,3,4,H38" playid="7,6,73" type="P" first="P" tokens="PASS:1P,C,15,H49 OB: TACK:1"
+      text="Perry Orth pass complete to Matrick Belton for 11 yards to the SC49, 1ST DOWN SC, out-of-bounds (Shy Phillips)." ob="Y" newcontext="H,1,10,H49">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Matrick Belton" gain="11"></p_pa>
+    <p_tk vh="V" name="Shy Phillips"></p_tk>
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="SC49" context="H,1,10,H49" playid="7,7,74" type="E" tokens="RUSH:1P,V48, TACK:5 PEN:H,BL,A,70,H34,N NOPLAY:"
+      text="Perry Orth rush for 3 yards to the CIT48 (Joe Crochet), PENALTY SC illegal block (Alan Knott) 15 yards to the SC34, NO PLAY." newcontext="H,1,25,H34">
+    <p_pn vh="H" code="BL" type="illegal block" name="Alan Knott" result="ACCEPT" at="H49" yards="15"></p_pn>
+   </play>
+   <play hasball="SC" down="1" togo="25" spot="SC34" context="H,1,25,H34" playid="7,8,75" type="P" tokens="PASS:1P,I,22,* QBH:V,55"
+      text="Perry Orth pass incomplete to Brandon Wilds, QB hurry by Russell Hubbs." newcontext="H,2,25,H34">
+    <p_pa vh="H" qb="Perry Orth" result="INC" rcv="Brandon Wilds"></p_pa>
+    <p_qbh vh="V" name="Russell Hubbs"></p_qbh>
+   </play>
+   <play hasball="SC" down="2" togo="25" spot="SC34" context="H,2,25,H34" playid="7,9,76" type="P" tokens="PASS:1P,C,11,H48 TACK:27"
+      text="Perry Orth pass complete to Pharoh Cooper for 14 yards to the SC48 (Nick Willis)." newcontext="H,3,11,H48">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Pharoh Cooper" gain="14"></p_pa>
+    <p_tk vh="V" name="Nick Willis"></p_tk>
+   </play>
+   <play hasball="SC" down="3" togo="11" spot="SC48" context="H,3,11,H48" playid="7,10,77" type="P" first="P" tokens="PASS:1P,C,89,V25 TACK:22"
+      text="Perry Orth pass complete to Jerell Adams for 27 yards to the CIT25, 1ST DOWN SC (D Copeland)." newcontext="H,1,10,V25">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Jerell Adams" gain="27"></p_pa>
+    <p_tk vh="V" name="D Copeland"></p_tk>
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="CIT25" context="H,1,10,V25" playid="7,11,78" type="R" tokens="RUSH:22,V24, TACK:49"
+      text="Brandon Wilds rush for 1 yard to the CIT24 (James Riley)." newcontext="H,2,9,V24">
+    <p_ru vh="H" name="Brandon Wilds" gain="1"></p_ru>
+    <p_tk vh="V" name="James Riley"></p_tk>
+   </play>
+   <play hasball="SC" down="2" togo="9" spot="CIT24" context="H,2,9,V24" playid="7,12,79" type="#" clock="04:56" tokens="TOUT:V T:04:56"
+      text="Timeout The Citadel, clock 04:56." newcontext="H,2,9,V24">
+    <p_to vh="V" team="The Citadel"></p_to>
+   </play>
+   <play hasball="SC" down="2" togo="9" spot="CIT24" context="H,2,9,V24" playid="7,13,80" type="R" tokens="RUSH:33,V23, TACK:92"
+      text="David Williams rush for 1 yard to the CIT23 (Travis Johnson)." newcontext="H,3,8,V23">
+    <p_ru vh="H" name="David Williams" gain="1"></p_ru>
+    <p_tk vh="V" name="Travis Johnson"></p_tk>
+   </play>
+   <play hasball="SC" down="3" togo="8" spot="CIT23" context="H,3,8,V23" playid="7,14,81" type="P" tokens="PASS:1P,I,33,* BRUP:49"
+      text="Perry Orth pass incomplete to David Williams (James Riley)." newcontext="H,4,8,V23">
+    <p_pa vh="H" qb="Perry Orth" result="INC" rcv="David Williams"></p_pa>
+    <p_bu vh="V" name="James Riley"></p_bu>
+   </play>
+   <play hasball="SC" down="4" togo="8" spot="CIT23" context="H,4,8,V23" playid="7,15,82" type="F" score="Y" vscore="14" hscore="9" clock="04:12" tokens="FGA:29,40,G T:04:12"
+      text="Elliott Fry field goal attempt from 40 GOOD, clock 04:12." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="Elliott Fry" distance="40" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="14" H="9"></score>
+   <drivesum plays="12" yards="70" top="4:23" driveindex="7" complete="Y"></drivesum>
+   <play hasball="SC" down="1" togo="0" spot="SC35" context="H,1,0,H35" playid="7,16,83" type="K" tokens="KO:1L,V00 TB:"
+      text="Landon Ard kickoff 65 yards to the CIT0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Landon Ard" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,04:12" vh="V" spot="V25" clock="04:12" driveindex="8,83"></drivestart>
+   <play hasball="CIT" down="1" togo="10" spot="CIT25" context="V,1,10,V25" playid="8,1,84" clock="04:12" tokens="{DRIVE}:04:12"
+      text="THE CITADEL drive start at 04:12." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="CIT25" context="V,1,10,V25" playid="8,2,85" type="R" tokens="RUSH:19,V26, TACK:28"
+      text="Dominique Allen rush for 1 yard to the CIT26 (Jonathan Walton)." newcontext="V,2,9,V26">
+    <p_ru vh="V" name="Dominique Allen" gain="1"></p_ru>
+    <p_tk vh="H" name="Jonathan Walton"></p_tk>
+   </play>
+   <play hasball="CIT" down="2" togo="9" spot="CIT26" context="V,2,9,V26" playid="8,3,86" type="R" tokens="RUSH:18,V25, TACK:4B"
+      text="Cam Jackson rush for loss of 1 yard to the CIT25 (Allen-Williams)." newcontext="V,3,10,V25">
+    <p_ru vh="V" name="Cam Jackson" gain="-1"></p_ru>
+    <p_tk vh="H" name="Allen-Williams"></p_tk>
+   </play>
+   <play hasball="CIT" down="3" togo="10" spot="CIT25" context="V,3,10,V25" playid="8,4,87" type="E" tokens="PEN:V,DG,A,TM,V20,N"
+      text="PENALTY CIT delay of game 5 yards to the CIT20." newcontext="V,3,15,V20">
+    <p_pn vh="V" code="DG" type="delay of game" result="ACCEPT" at="V25" yards="5"></p_pn>
+   </play>
+   <play hasball="CIT" down="3" togo="15" spot="CIT20" context="V,3,15,V20" playid="8,5,88" type="R" tokens="RUSH:19,V18, TACK:92"
+      text="Dominique Allen rush for loss of 2 yards to the CIT18 (Gerald Dixon Jr)." newcontext="V,4,17,V18">
+    <p_ru vh="V" name="Dominique Allen" gain="-2"></p_ru>
+    <p_tk vh="H" name="Gerald Dixon Jr"></p_tk>
+   </play>
+   <play hasball="CIT" down="4" togo="17" spot="CIT18" context="V,4,17,V18" playid="8,6,89" type="U" tokens="PUNT:90,H32 RET:11,H32 TACK:41"
+      text="Will Vanvick punt 50 yards to the SC32, Pharoh Cooper return 0 yards to the SC32 (Seth Greer)." newcontext="H,1,10,H32">
+    <p_pu vh="V" name="Will Vanvick" gain="50"></p_pu>
+    <p_pr vh="H" name="Pharoh Cooper" gain="0"></p_pr>
+    <p_tk vh="V" name="Seth Greer"></p_tk>
+   </play>
+   <drivesum plays="3" yards="-7" top="2:10" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="H,H32,02:02" vh="H" spot="H32" clock="02:02" driveindex="9,89"></drivestart>
+   <play hasball="SC" down="1" togo="10" spot="SC32" context="H,1,10,H32" playid="9,1,90" clock="02:02" tokens="{DRIVE}:02:02"
+      text="SOUTH CAROLINA drive start at 02:02." newcontext="H,1,10,H32">
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="SC32" context="H,1,10,H32" playid="9,2,91" type="R" tokens="RUSH:22,H38, TACK:43"
+      text="Brandon Wilds rush for 6 yards to the SC38 (Tevin Floyd)." newcontext="H,2,4,H38">
+    <p_ru vh="H" name="Brandon Wilds" gain="6"></p_ru>
+    <p_tk vh="V" name="Tevin Floyd"></p_tk>
+   </play>
+   <play hasball="SC" down="2" togo="4" spot="SC38" context="H,2,4,H38" playid="9,3,92" type="P" first="P" tokens="PASS:1P,C,81,H44 OB: TACK:20"
+      text="Perry Orth pass complete to Hayden Hurst for 6 yards to the SC44, 1ST DOWN SC, out-of-bounds (Mariel Cooper)." ob="Y" newcontext="H,1,10,H44">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Hayden Hurst" gain="6"></p_pa>
+    <p_tk vh="V" name="Mariel Cooper"></p_tk>
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="SC44" context="H,1,10,H44" playid="9,4,93" type="P" tokens="PASS:1P,I,11,*"
+      text="Perry Orth pass incomplete to Pharoh Cooper." newcontext="H,2,10,H44">
+    <p_pa vh="H" qb="Perry Orth" result="INC" rcv="Pharoh Cooper"></p_pa>
+   </play>
+   <play hasball="SC" down="2" togo="10" spot="SC44" context="H,2,10,H44" playid="9,5,94" type="R" tokens="RUSH:22,H47, TACK:27"
+      text="Brandon Wilds rush for 3 yards to the SC47 (Nick Willis)." newcontext="H,3,7,H47">
+    <p_ru vh="H" name="Brandon Wilds" gain="3"></p_ru>
+    <p_tk vh="V" name="Nick Willis"></p_tk>
+   </play>
+   <play hasball="SC" down="3" togo="7" spot="SC47" context="H,3,7,H47" playid="9,6,95" type="E" tokens="PEN:H,FS,A,89,H42,N"
+      text="PENALTY SC false start (Jerell Adams) 5 yards to the SC42." newcontext="H,3,12,H42">
+    <p_pn vh="H" code="FS" type="false start" name="Jerell Adams" result="ACCEPT" at="H47" yards="5"></p_pn>
+   </play>
+   <play hasball="SC" down="3" togo="12" spot="SC42" context="H,3,12,H42" playid="9,7,96" type="P" tokens="PASS:1P,I,22,*"
+      text="Perry Orth pass incomplete to Brandon Wilds." newcontext="H,4,12,H42">
+    <p_pa vh="H" qb="Perry Orth" result="INC" rcv="Brandon Wilds"></p_pa>
+   </play>
+   <play hasball="SC" down="4" togo="12" spot="SC42" context="H,4,12,H42" playid="9,8,97" type="U" tokens="PUNT:13,V00 TB:"
+      text="Sean Kelly punt 58 yards to the CIT0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="Sean Kelly" gain="58" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="5" yards="10" top="0:54" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="V,V20,01:08" vh="V" spot="V20" clock="01:08" driveindex="10,97"></drivestart>
+   <play hasball="CIT" down="1" togo="10" spot="CIT20" context="V,1,10,V20" playid="10,1,98" clock="01:08" tokens="{DRIVE}:01:08"
+      text="THE CITADEL drive start at 01:08." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="CIT20" context="V,1,10,V20" playid="10,2,99" type="R" tokens="RUSH:19,V19, TACK:44"
+      text="Dominique Allen rush for loss of 1 yard to the CIT19 (Gerald Dixon)." newcontext="V,2,11,V19">
+    <p_ru vh="V" name="Dominique Allen" gain="-1"></p_ru>
+    <p_tk vh="H" name="Gerald Dixon"></p_tk>
+   </play>
+   <play hasball="CIT" down="2" togo="11" spot="CIT19" context="V,2,11,V19" playid="10,3,100" type="#" clock="01:03" tokens="TOUT:H T:01:03"
+      text="Timeout South Carolina, clock 01:03." newcontext="V,2,11,V19">
+    <p_to vh="H" team="South Carolina"></p_to>
+   </play>
+   <play hasball="CIT" down="2" togo="11" spot="CIT19" context="V,2,11,V19" playid="10,4,101" type="R" tokens="RUSH:18,V24, TACK:20"
+      text="Cam Jackson rush for 5 yards to the CIT24 (T.J. Gurley)." newcontext="V,3,6,V24">
+    <p_ru vh="V" name="Cam Jackson" gain="5"></p_ru>
+    <p_tk vh="H" name="T.J. Gurley"></p_tk>
+   </play>
+   <play hasball="CIT" down="3" togo="6" spot="CIT24" context="V,3,6,V24" playid="10,5,102" type="#" clock="00:56" tokens="TOUT:H T:00:56"
+      text="Timeout South Carolina, clock 00:56." newcontext="V,3,6,V24">
+    <p_to vh="H" team="South Carolina"></p_to>
+   </play>
+   <play hasball="CIT" down="3" togo="6" spot="CIT24" context="V,3,6,V24" playid="10,6,103" type="E" tokens="PASS:19,C,82,V35 TACK:1T PEN:V,HO,A,56,V14,N NOPLAY:"
+      text="Dominique Allen pass complete to Brandon Eakins for 11 yards to the CIT35 (T.J. Holloman), PENALTY CIT holding (Mike Mabry) 10 yards to the CIT14, NO PLAY." newcontext="V,3,16,V14">
+    <p_pn vh="V" code="HO" type="holding" name="Mike Mabry" result="ACCEPT" at="V24" yards="10"></p_pn>
+   </play>
+   <play hasball="CIT" down="3" togo="16" spot="CIT14" context="V,3,16,V14" playid="10,7,104" type="#" clock="00:48" tokens="TOUT:H T:00:48"
+      text="Timeout South Carolina, clock 00:48." newcontext="V,3,16,V14">
+    <p_to vh="H" team="South Carolina"></p_to>
+   </play>
+   <play hasball="CIT" down="3" togo="16" spot="CIT14" context="V,3,16,V14" playid="10,8,105" type="R" tokens="RUSH:36,V19, TACK:52"
+      text="Tyler Renew rush for 5 yards to the CIT19 (Phillip Dukes)." newcontext="V,4,11,V19">
+    <p_ru vh="V" name="Tyler Renew" gain="5"></p_ru>
+    <p_tk vh="H" name="Phillip Dukes"></p_tk>
+   </play>
+   <play hasball="CIT" down="4" togo="11" spot="CIT19" context="V,4,11,V19" playid="10,9,106" type="#" clock="00:03" tokens="TOUT:V T:00:03"
+      text="Timeout The Citadel, clock 00:03." newcontext="V,4,11,V19">
+    <p_to vh="V" team="The Citadel"></p_to>
+   </play>
+   <play hasball="CIT" down="4" togo="11" spot="CIT19" context="V,4,11,V19" playid="10,10,107" type="R" tokens="RUSH:19,V22, TACK:44"
+      text="Dominique Allen rush for 3 yards to the CIT22 (Gerald Dixon)." newcontext="H,1,10,V22">
+    <p_ru vh="V" name="Dominique Allen" gain="3"></p_ru>
+    <p_tk vh="H" name="Gerald Dixon"></p_tk>
+   </play>
+   <drivesum plays="4" yards="2" top="1:08" driveindex="10" complete="Y"></drivesum>
+   <drivestart poss="H,V22,00:00" vh="H" spot="V22" clock="00:00" driveindex="11,107"></drivestart>
+   <play hasball="SC" down="1" togo="10" spot="CIT22" context="H,1,10,V22" playid="11,1,108" clock="00:00" tokens="{DRIVE}:00:00"
+      text="SOUTH CAROLINA drive start at 00:00." newcontext="H,1,10,V22">
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="CIT22" context="H,1,10,V22" playid="11,2,109" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of half, clock 00:00." newcontext="H,1,10,V22">
+   </play>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="11" complete="Y"></drivesum>
+   <score qtr="2" V="14" H="9"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="CIT">
+    <firstdowns no="2" rush="2" pass="0" penalty="0"></firstdowns>
+    <penalties no="3" yds="25"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:38"></misc>
+    <rush att="14" yds="56" gain="60" loss="4" td="0" long="0"></rush>
+    <pass comp="1" att="2" int="0" yds="3" td="0" long="3" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="3" td="0" long="3"></rcv>
+    <punt no="2" yds="81" long="50" blkd="0" tb="0" fc="0" plus50="1" inside20="1" avg="40.5"></punt>
+    <defense tackua="15" tacka="0" tot_tack="15" sacks="0" sackyds="0" brup="1" qbh="2"></defense>
+    <kr no="1" yds="22" td="0" long="22"></kr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="SC">
+    <firstdowns no="7" rush="2" pass="5" penalty="0"></firstdowns>
+    <penalties no="2" yds="20"></penalties>
+    <conversions thirdconv="2" thirdatt="7" fourthconv="2" fourthatt="2"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:22"></misc>
+    <rush att="7" yds="24" gain="24" loss="0" td="0" long="3"></rush>
+    <pass comp="8" att="15" int="0" yds="111" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="8" yds="111" td="0" long="0"></rcv>
+    <punt no="1" yds="58" long="15" blkd="0" tb="1" fc="0" plus50="1" inside20="0" avg="58.0"></punt>
+    <ko no="2" yds="129" ob="0" tb="1"></ko>
+    <fg made="2" att="2" long="4" blkd="0"></fg>
+    <defense tackua="14" tacka="4" tot_tack="18" tflua="3" tfla="0" tflyds="4" sacks="0" sackyds="0" qbh="1"></defense>
+    <pr no="1" yds="0" td="0" long="0"></pr>
+    <scoring fg="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="SC" down="1" togo="10" spot="CIT22" context="H,1,10,V22" playid="11,3,110" type="#" clock="15:00" tokens="Q:3 T:15:00 SPOT:H,H35,N"
+      text="Start of 3rd quarter, clock 15:00, SC ball on SC35." newcontext="H,1,10,H35">
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="SC35" context="H,1,10,H35" playid="11,4,111" type="K" tokens="KO:1L,V00 TB:"
+      text="Landon Ard kickoff 65 yards to the CIT0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Landon Ard" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,15:00" vh="V" spot="V25" clock="15:00" driveindex="12,111"></drivestart>
+   <play hasball="CIT" down="1" togo="10" spot="CIT25" context="V,1,10,V25" playid="12,1,112" clock="15:00" tokens="{DRIVE}:15:00"
+      text="THE CITADEL drive start at 15:00." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="CIT25" context="V,1,10,V25" playid="12,2,113" type="R" first="R" tokens="RUSH:36,V39, TACK:4B"
+      text="Tyler Renew rush for 14 yards to the CIT39, 1ST DOWN CIT (Allen-Williams)." newcontext="V,1,10,V39">
+    <p_ru vh="V" name="Tyler Renew" gain="14"></p_ru>
+    <p_tk vh="H" name="Allen-Williams"></p_tk>
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="CIT39" context="V,1,10,V39" playid="12,3,114" type="R" tokens="RUSH:19,V37, TACK:28"
+      text="Dominique Allen rush for loss of 2 yards to the CIT37 (Jonathan Walton)." newcontext="V,2,12,V37">
+    <p_ru vh="V" name="Dominique Allen" gain="-2"></p_ru>
+    <p_tk vh="H" name="Jonathan Walton"></p_tk>
+   </play>
+   <play hasball="CIT" down="2" togo="12" spot="CIT37" context="V,2,12,V37" playid="12,4,115" type="R" tokens="RUSH:25,V45, OB: TACK:1T"
+      text="Reggie Williams rush for 8 yards to the CIT45, out-of-bounds (T.J. Holloman)." ob="Y" newcontext="V,3,4,V45">
+    <p_ru vh="V" name="Reggie Williams" gain="8"></p_ru>
+    <p_tk vh="H" name="T.J. Holloman"></p_tk>
+   </play>
+   <play hasball="CIT" down="3" togo="4" spot="CIT45" context="V,3,4,V45" playid="12,5,116" type="R" first="R" tokens="RUSH:36,H49, TACK:44"
+      text="Tyler Renew rush for 6 yards to the SC49, 1ST DOWN CIT (Gerald Dixon)." newcontext="V,1,10,H49">
+    <p_ru vh="V" name="Tyler Renew" gain="6"></p_ru>
+    <p_tk vh="H" name="Gerald Dixon"></p_tk>
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="SC49" context="V,1,10,H49" playid="12,6,117" type="R" tokens="RUSH:36,H47, TACK:52"
+      text="Tyler Renew rush for 2 yards to the SC47 (Phillip Dukes)." newcontext="V,2,8,H47">
+    <p_ru vh="V" name="Tyler Renew" gain="2"></p_ru>
+    <p_tk vh="H" name="Phillip Dukes"></p_tk>
+   </play>
+   <play hasball="CIT" down="2" togo="8" spot="SC47" context="V,2,8,H47" playid="12,7,118" type="R" tokens="RUSH:19,H46, TACK:44"
+      text="Dominique Allen rush for 1 yard to the SC46 (Gerald Dixon)." newcontext="V,3,7,H46">
+    <p_ru vh="V" name="Dominique Allen" gain="1"></p_ru>
+    <p_tk vh="H" name="Gerald Dixon"></p_tk>
+   </play>
+   <play hasball="CIT" down="3" togo="7" spot="SC46" context="V,3,7,H46" playid="12,8,119" type="R" tokens="RUSH:36,H42, TACK:52,99"
+      text="Tyler Renew rush for 4 yards to the SC42 (Phillip Dukes;Abu Lamin)." newcontext="V,4,3,H42">
+    <p_ru vh="V" name="Tyler Renew" gain="4"></p_ru>
+    <p_tk vh="H" name="Phillip Dukes" assist="Y"></p_tk>
+    <p_tk vh="H" name="Abu Lamin" assist="Y"></p_tk>
+   </play>
+   <play hasball="CIT" down="4" togo="3" spot="SC42" context="V,4,3,H42" playid="12,9,120" type="U" tokens="PUNT:90,H00 TB:"
+      text="Will Vanvick punt 42 yards to the SC0, touchback." newcontext="H,1,10,H20">
+    <p_pu vh="V" name="Will Vanvick" gain="42" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="7" yards="33" top="3:29" driveindex="12" complete="Y"></drivesum>
+   <drivestart poss="H,H20,11:31" vh="H" spot="H20" clock="11:31" driveindex="13,120"></drivestart>
+   <play hasball="SC" down="1" togo="10" spot="SC20" context="H,1,10,H20" playid="13,1,121" clock="11:31" tokens="{DRIVE}:11:31"
+      text="SOUTH CAROLINA drive start at 11:31." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="SC20" context="H,1,10,H20" playid="13,2,122" type="R" tokens="RUSH:33,H23, TACK:33"
+      text="David Williams rush for 3 yards to the SC23 (Q Washington)." newcontext="H,2,7,H23">
+    <p_ru vh="H" name="David Williams" gain="3"></p_ru>
+    <p_tk vh="V" name="Q Washington"></p_tk>
+   </play>
+   <play hasball="SC" down="2" togo="7" spot="SC23" context="H,2,7,H23" playid="13,3,123" type="P" first="P" tokens="PASS:1P,C,5,H31 TACK:4,27"
+      text="Perry Orth pass complete to Terry Googer for 8 yards to the SC31, 1ST DOWN SC (Dee Delaney;Nick Willis)." newcontext="H,1,10,H31">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Terry Googer" gain="8"></p_pa>
+    <p_tk vh="V" name="Dee Delaney" assist="Y"></p_tk>
+    <p_tk vh="V" name="Nick Willis" assist="Y"></p_tk>
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="SC31" context="H,1,10,H31" playid="13,4,124" type="R" tokens="RUSH:22,H35, TACK:43"
+      text="Brandon Wilds rush for 4 yards to the SC35 (Tevin Floyd)." newcontext="H,2,6,H35">
+    <p_ru vh="H" name="Brandon Wilds" gain="4"></p_ru>
+    <p_tk vh="V" name="Tevin Floyd"></p_tk>
+   </play>
+   <play hasball="SC" down="2" togo="6" spot="SC35" context="H,2,6,H35" playid="13,5,125" type="R" tokens="RUSH:22,H35, TACK:43,62"
+      text="Brandon Wilds rush for no gain to the SC35 (Tevin Floyd;Mitchell Jeter)." newcontext="H,3,6,H35">
+    <p_ru vh="H" name="Brandon Wilds" gain="0"></p_ru>
+    <p_tk vh="V" name="Tevin Floyd" assist="Y"></p_tk>
+    <p_tk vh="V" name="Mitchell Jeter" assist="Y"></p_tk>
+   </play>
+   <play hasball="SC" down="3" togo="6" spot="SC35" context="H,3,6,H35" playid="13,6,126" type="P" first="P" tokens="PASS:1P,C,89,H47 TACK:43,20"
+      text="Perry Orth pass complete to Jerell Adams for 12 yards to the SC47, 1ST DOWN SC (Tevin Floyd;Mariel Cooper)." newcontext="H,1,10,H47">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Jerell Adams" gain="12"></p_pa>
+    <p_tk vh="V" name="Tevin Floyd" assist="Y"></p_tk>
+    <p_tk vh="V" name="Mariel Cooper" assist="Y"></p_tk>
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="SC47" context="H,1,10,H47" playid="13,7,127" type="P" tokens="PASS:1P,I,89,* BRUP:21"
+      text="Perry Orth pass incomplete to Jerell Adams (Malik Diggs)." newcontext="H,2,10,H47">
+    <p_pa vh="H" qb="Perry Orth" result="INC" rcv="Jerell Adams"></p_pa>
+    <p_bu vh="V" name="Malik Diggs"></p_bu>
+   </play>
+   <play hasball="SC" down="2" togo="10" spot="SC47" context="H,2,10,H47" playid="13,8,128" type="P" tokens="PASS:1P,C,22,V50 TACK:49"
+      text="Perry Orth pass complete to Brandon Wilds for 3 yards to the 50 yardline (James Riley)." newcontext="H,3,7,H50">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Brandon Wilds" gain="3"></p_pa>
+    <p_tk vh="V" name="James Riley"></p_tk>
+   </play>
+   <play hasball="SC" down="3" togo="7" spot="SC50" context="H,3,7,H50" playid="13,9,129" type="P" first="P" tokens="PASS:1P,C,11,V03 OB: TACK:4"
+      text="Perry Orth pass complete to Pharoh Cooper for 47 yards to the CIT3, 1ST DOWN SC, out-of-bounds (Dee Delaney)." ob="Y" newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Pharoh Cooper" gain="47"></p_pa>
+    <p_tk vh="V" name="Dee Delaney"></p_tk>
+   </play>
+   <play hasball="SC" down="1" togo="0" spot="CIT03" context="H,1,0,V03" playid="13,10,130" type="R" tokens="RUSH:22,V01, TACK:62"
+      text="Brandon Wilds rush for 2 yards to the CIT1 (Mitchell Jeter)." newcontext="H,2,0,V01">
+    <p_ru vh="H" name="Brandon Wilds" gain="2"></p_ru>
+    <p_tk vh="V" name="Mitchell Jeter"></p_tk>
+   </play>
+   <play hasball="SC" down="2" togo="0" spot="CIT01" context="H,2,0,V01" playid="13,11,131" type="R" tokens="RUSH:22,V01, TACK:5"
+      text="Brandon Wilds rush for no gain to the CIT1 (Joe Crochet)." newcontext="H,3,0,V01">
+    <p_ru vh="H" name="Brandon Wilds" gain="0"></p_ru>
+    <p_tk vh="V" name="Joe Crochet"></p_tk>
+   </play>
+   <play hasball="SC" down="3" togo="0" spot="CIT01" context="H,3,0,V01" playid="13,12,132" type="R" score="Y" vscore="14" hscore="15" clock="06:22" tokens="RUSH:22,V00, T:06:22"
+      text="Brandon Wilds rush for 1 yard to the CIT0, TOUCHDOWN, clock 06:22." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Brandon Wilds" gain="1"></p_ru>
+   </play>
+   <play hasball="SC" down="1" togo="0" spot="CIT03" context="H,1,0,V03" playid="13,13,133" type="X" score="Y" vscore="14" hscore="16" tokens="PAT:K,29,G"
+      text="Elliott Fry kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Elliott Fry" qb="Elliott Fry" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="16"></score>
+   <drivesum plays="11" yards="80" top="5:09" driveindex="13" complete="Y"></drivesum>
+   <play hasball="SC" down="1" togo="0" spot="SC35" context="H,1,0,H35" playid="13,14,134" type="K" tokens="KO:1L,V00 TB:"
+      text="Landon Ard kickoff 65 yards to the CIT0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Landon Ard" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,06:22" vh="V" spot="V25" clock="06:22" driveindex="14,134"></drivestart>
+   <play hasball="CIT" down="1" togo="10" spot="CIT25" context="V,1,10,V25" playid="14,1,135" clock="06:22" tokens="{DRIVE}:06:22"
+      text="THE CITADEL drive start at 06:22." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="CIT25" context="V,1,10,V25" playid="14,2,136" type="#" clock="06:21" tokens="TOUT:V T:06:21"
+      text="Timeout The Citadel, clock 06:21." newcontext="V,1,10,V25">
+    <p_to vh="V" team="The Citadel"></p_to>
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="CIT25" context="V,1,10,V25" playid="14,3,137" type="R" tokens="RUSH:36,V26, TACK:94"
+      text="Tyler Renew rush for 1 yard to the CIT26 (Kelsey Griffin)." newcontext="V,2,9,V26">
+    <p_ru vh="V" name="Tyler Renew" gain="1"></p_ru>
+    <p_tk vh="H" name="Kelsey Griffin"></p_tk>
+   </play>
+   <play hasball="CIT" down="2" togo="9" spot="CIT26" context="V,2,9,V26" playid="14,4,138" type="R" tokens="RUSH:25,V27, TACK:10"
+      text="Reggie Williams rush for 1 yard to the CIT27 (Skai Moore)." newcontext="V,3,8,V27">
+    <p_ru vh="V" name="Reggie Williams" gain="1"></p_ru>
+    <p_tk vh="H" name="Skai Moore"></p_tk>
+   </play>
+   <play hasball="CIT" down="3" togo="8" spot="CIT27" context="V,3,8,V27" playid="14,5,139" type="R" tokens="RUSH:19,V26, TACK:49"
+      text="Dominique Allen rush for loss of 1 yard to the CIT26 (Boosie Whitlow)." newcontext="V,4,9,V26">
+    <p_ru vh="V" name="Dominique Allen" gain="-1"></p_ru>
+    <p_tk vh="H" name="Boosie Whitlow"></p_tk>
+   </play>
+   <play hasball="CIT" down="4" togo="9" spot="CIT26" context="V,4,9,V26" playid="14,6,140" type="U" tokens="PUNT:90,H35 RET:11,H32 TACK:82"
+      text="Will Vanvick punt 39 yards to the SC35, Pharoh Cooper return -3 yards to the SC32 (Brandon Eakins)." newcontext="H,1,10,H32">
+    <p_pu vh="V" name="Will Vanvick" gain="39"></p_pu>
+    <p_pr vh="H" name="Pharoh Cooper" gain="-3"></p_pr>
+    <p_tk vh="V" name="Brandon Eakins"></p_tk>
+   </play>
+   <drivesum plays="3" yards="1" top="1:55" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="H,H32,04:27" vh="H" spot="H32" clock="04:27" driveindex="15,140"></drivestart>
+   <play hasball="SC" down="1" togo="10" spot="SC32" context="H,1,10,H32" playid="15,1,141" clock="04:27" tokens="{DRIVE}:04:27"
+      text="SOUTH CAROLINA drive start at 04:27." newcontext="H,1,10,H32">
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="SC32" context="H,1,10,H32" playid="15,2,142" type="P" tokens="PASS:1P,C,11,H37 TACK:49"
+      text="Perry Orth pass complete to Pharoh Cooper for 5 yards to the SC37 (James Riley)." newcontext="H,2,5,H37">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Pharoh Cooper" gain="5"></p_pa>
+    <p_tk vh="V" name="James Riley"></p_tk>
+   </play>
+   <play hasball="SC" down="2" togo="5" spot="SC37" context="H,2,5,H37" playid="15,3,143" type="P" tokens="PASS:1P,C,11,H40 TACK:5"
+      text="Perry Orth pass complete to Pharoh Cooper for 3 yards to the SC40 (Joe Crochet)." newcontext="H,3,2,H40">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Pharoh Cooper" gain="3"></p_pa>
+    <p_tk vh="V" name="Joe Crochet"></p_tk>
+   </play>
+   <play hasball="SC" down="3" togo="2" spot="SC40" context="H,3,2,H40" playid="15,4,144" type="R" first="R" tokens="RUSH:7,H49, TACK:27"
+      text="Shon Carson rush for 9 yards to the SC49, 1ST DOWN SC (Nick Willis)." newcontext="H,1,10,H49">
+    <p_ru vh="H" name="Shon Carson" gain="9"></p_ru>
+    <p_tk vh="V" name="Nick Willis"></p_tk>
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="SC49" context="H,1,10,H49" playid="15,5,145" type="P" tokens="PASS:1P,I,89,*"
+      text="Perry Orth pass incomplete to Jerell Adams." newcontext="H,2,10,H49">
+    <p_pa vh="H" qb="Perry Orth" result="INC" rcv="Jerell Adams"></p_pa>
+   </play>
+   <play hasball="SC" down="2" togo="10" spot="SC49" context="H,2,10,H49" playid="15,6,146" type="R" tokens="RUSH:33,H46, TACK:55"
+      text="David Williams rush for loss of 3 yards to the SC46 (Russell Hubbs)." newcontext="H,3,13,H46">
+    <p_ru vh="H" name="David Williams" gain="-3"></p_ru>
+    <p_tk vh="V" name="Russell Hubbs"></p_tk>
+   </play>
+   <play hasball="SC" down="3" togo="13" spot="SC46" context="H,3,13,H46" playid="15,7,147" type="P" tokens="PASS:1P,I,81,* BRUP:1"
+      text="Perry Orth pass incomplete to Hayden Hurst (Shy Phillips)." newcontext="H,4,13,H46">
+    <p_pa vh="H" qb="Perry Orth" result="INC" rcv="Hayden Hurst"></p_pa>
+    <p_bu vh="V" name="Shy Phillips"></p_bu>
+   </play>
+   <play hasball="SC" down="4" togo="13" spot="SC46" context="H,4,13,H46" playid="15,8,148" type="U" tokens="PUNT:13,V07 DN:"
+      text="Sean Kelly punt 47 yards to the CIT7, downed." newcontext="V,1,10,V07">
+    <p_pu vh="H" name="Sean Kelly" gain="47" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="14" top="2:24" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="V,V07,02:03" vh="V" spot="V07" clock="02:03" driveindex="16,148"></drivestart>
+   <play hasball="CIT" down="1" togo="10" spot="CIT07" context="V,1,10,V07" playid="16,1,149" clock="02:03" tokens="{DRIVE}:02:03"
+      text="THE CITADEL drive start at 02:03." newcontext="V,1,10,V07">
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="CIT07" context="V,1,10,V07" playid="16,2,150" type="R" tokens="RUSH:36,V11, TACK:44"
+      text="Tyler Renew rush for 4 yards to the CIT11 (Gerald Dixon)." newcontext="V,2,6,V11">
+    <p_ru vh="V" name="Tyler Renew" gain="4"></p_ru>
+    <p_tk vh="H" name="Gerald Dixon"></p_tk>
+   </play>
+   <play hasball="CIT" down="2" togo="6" spot="CIT11" context="V,2,6,V11" playid="16,3,151" type="R" first="R" tokens="RUSH:25,V22, TACK:20"
+      text="Reggie Williams rush for 11 yards to the CIT22, 1ST DOWN CIT (T.J. Gurley)." newcontext="V,1,10,V22">
+    <p_ru vh="V" name="Reggie Williams" gain="11"></p_ru>
+    <p_tk vh="H" name="T.J. Gurley"></p_tk>
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="CIT22" context="V,1,10,V22" playid="16,4,152" type="R" tokens="RUSH:36,V31, TACK:8"
+      text="Tyler Renew rush for 9 yards to the CIT31 (M. Lewis)." newcontext="V,2,1,V31">
+    <p_ru vh="V" name="Tyler Renew" gain="9"></p_ru>
+    <p_tk vh="H" name="M. Lewis"></p_tk>
+   </play>
+   <play hasball="CIT" down="2" togo="1" spot="CIT31" context="V,2,1,V31" playid="16,5,153" type="P" first="P" tokens="PASS:19,C,81,H35"
+      text="Dominique Allen pass complete to Alex Glover for 34 yards to the SC35, 1ST DOWN CIT." newcontext="V,1,10,H35">
+    <p_pa vh="V" qb="Dominique Allen" result="COMP" rcv="Alex Glover" gain="34"></p_pa>
+   </play>
+   <score qtr="3" V="14" H="16"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="CIT">
+    <firstdowns no="4" rush="3" pass="1" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:27"></misc>
+    <rush att="13" yds="58" gain="61" loss="3" td="0" long="0"></rush>
+    <pass comp="1" att="1" int="0" yds="34" td="0" long="31" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="34" td="0" long="31"></rcv>
+    <punt no="2" yds="81" long="0" blkd="0" tb="1" fc="0" plus50="0" inside20="0" avg="40.5"></punt>
+    <defense tackua="11" tacka="6" tot_tack="17" tflua="1" tfla="0" tflyds="3" sacks="0" sackyds="0" brup="2"></defense>
+   </qtrsummary>
+   <qtrsummary vh="H" id="SC">
+    <firstdowns no="4" rush="1" pass="3" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="4" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:33"></misc>
+    <rush att="8" yds="16" gain="19" loss="3" td="1" long="0"></rush>
+    <pass comp="6" att="9" int="0" yds="78" td="0" long="7" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="78" td="0" long="7"></rcv>
+    <punt no="1" yds="47" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="47.0"></punt>
+    <ko no="2" yds="130" ob="0" tb="2"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="12" tacka="2" tot_tack="14" tflua="2" tfla="0" tflyds="3" sacks="0" sackyds="0"></defense>
+    <pr no="1" yds="-3" td="0" long="0"></pr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="CIT" down="1" togo="10" spot="SC35" context="V,1,10,H35" playid="16,6,154" type="#" clock="15:00" tokens="Q:4 T:15:00"
+      text="Start of 4th quarter, clock 15:00." newcontext="V,1,10,H35">
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="SC35" context="V,1,10,H35" playid="16,7,155" type="R" tokens="RUSH:36,H30, TACK:52"
+      text="Tyler Renew rush for 5 yards to the SC30 (Phillip Dukes)." newcontext="V,2,5,H30">
+    <p_ru vh="V" name="Tyler Renew" gain="5"></p_ru>
+    <p_tk vh="H" name="Phillip Dukes"></p_tk>
+   </play>
+   <play hasball="CIT" down="2" togo="5" spot="SC30" context="V,2,5,H30" playid="16,8,156" type="R" tokens="RUSH:25,H28, TACK:8"
+      text="Reggie Williams rush for 2 yards to the SC28 (M. Lewis)." newcontext="V,3,3,H28">
+    <p_ru vh="V" name="Reggie Williams" gain="2"></p_ru>
+    <p_tk vh="H" name="M. Lewis"></p_tk>
+   </play>
+   <play hasball="CIT" down="3" togo="3" spot="SC28" context="V,3,3,H28" playid="16,9,157" type="R" tokens="RUSH:19,H26, TACK:1T"
+      text="Dominique Allen rush for 2 yards to the SC26 (T.J. Holloman)." newcontext="V,4,1,H26">
+    <p_ru vh="V" name="Dominique Allen" gain="2"></p_ru>
+    <p_tk vh="H" name="T.J. Holloman"></p_tk>
+   </play>
+   <play hasball="CIT" down="4" togo="1" spot="SC26" context="V,4,1,H26" playid="16,10,158" type="R" first="R" tokens="RUSH:19,H25, TACK:44,4B"
+      text="Dominique Allen rush for 1 yard to the SC25, 1ST DOWN CIT (Gerald Dixon;Allen-Williams)." newcontext="V,1,10,H25">
+    <p_ru vh="V" name="Dominique Allen" gain="1"></p_ru>
+    <p_tk vh="H" name="Gerald Dixon" assist="Y"></p_tk>
+    <p_tk vh="H" name="Allen-Williams" assist="Y"></p_tk>
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="SC25" context="V,1,10,H25" playid="16,11,159" type="E" tokens="PEN:V,FS,A,57,H30,N"
+      text="PENALTY CIT false start (Kyle Weaver) 5 yards to the SC30." newcontext="V,1,15,H30">
+    <p_pn vh="V" code="FS" type="false start" name="Kyle Weaver" result="ACCEPT" at="H25" yards="5"></p_pn>
+   </play>
+   <play hasball="CIT" down="1" togo="15" spot="SC30" context="V,1,15,H30" playid="16,12,160" type="R" tokens="RUSH:36,H25, TACK:1T"
+      text="Tyler Renew rush for 5 yards to the SC25 (T.J. Holloman)." newcontext="V,2,10,H25">
+    <p_ru vh="V" name="Tyler Renew" gain="5"></p_ru>
+    <p_tk vh="H" name="T.J. Holloman"></p_tk>
+   </play>
+   <play hasball="CIT" down="2" togo="10" spot="SC25" context="V,2,10,H25" playid="16,13,161" type="R" tokens="RUSH:25,H21, TACK:1T"
+      text="Reggie Williams rush for 4 yards to the SC21 (T.J. Holloman)." newcontext="V,3,6,H21">
+    <p_ru vh="V" name="Reggie Williams" gain="4"></p_ru>
+    <p_tk vh="H" name="T.J. Holloman"></p_tk>
+   </play>
+   <play hasball="CIT" down="3" togo="6" spot="SC21" context="V,3,6,H21" playid="16,14,162" type="P" tokens="PASS:19,S,TM,H31 SACK:28"
+      text="Dominique Allen sacked for loss of 10 yards to the SC31 (Jonathan Walton)." newcontext="V,4,16,H31">
+    <p_pa vh="V" qb="Dominique Allen" result="SACK" gain="-10"></p_pa>
+    <p_tk vh="H" name="Jonathan Walton" sack="Y"></p_tk>
+   </play>
+   <play hasball="CIT" down="4" togo="16" spot="SC31" context="V,4,16,H31" playid="16,15,163" type="F" score="Y" vscore="17" hscore="16" clock="10:26" tokens="FGA:99,48,G T:10:26"
+      text="Eric Goins field goal attempt from 48 GOOD, clock 10:26." newcontext="V,1,0,V35">
+    <p_fg vh="V" name="Eric Goins" distance="48" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="17" H="16"></score>
+   <drivesum plays="12" yards="62" top="6:37" driveindex="16" complete="Y"></drivesum>
+   <play hasball="CIT" down="1" togo="0" spot="CIT35" context="V,1,0,V35" playid="16,16,164" type="K" tokens="KO:99,H03 RET:32,H26 TACK:21,24"
+      text="Eric Goins kickoff 62 yards to the SC3, Rod Talley return 23 yards to the SC26 (Malik Diggs;Aron Spann)." newcontext="H,1,10,H26">
+    <p_ko vh="V" name="Eric Goins" gain="62"></p_ko>
+    <p_kr vh="H" name="Rod Talley" gain="23"></p_kr>
+    <p_tk vh="V" name="Malik Diggs" assist="Y"></p_tk>
+    <p_tk vh="V" name="Aron Spann" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H26,10:26" vh="H" spot="H26" clock="10:26" driveindex="17,164"></drivestart>
+   <play hasball="SC" down="1" togo="10" spot="SC26" context="H,1,10,H26" playid="17,1,165" clock="10:26" tokens="{DRIVE}:10:26"
+      text="SOUTH CAROLINA drive start at 10:26." newcontext="H,1,10,H26">
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="SC26" context="H,1,10,H26" playid="17,2,166" type="P" tokens="PASS:1P,C,1,H31"
+      text="Perry Orth pass complete to Deebo Samuel for 5 yards to the SC31." newcontext="H,2,5,H31">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Deebo Samuel" gain="5"></p_pa>
+   </play>
+   <play hasball="SC" down="2" togo="5" spot="SC31" context="H,2,5,H31" playid="17,3,167" type="R" first="R" tokens="RUSH:7,H49, TACK:21"
+      text="Shon Carson rush for 18 yards to the SC49, 1ST DOWN SC (Malik Diggs)." newcontext="H,1,10,H49">
+    <p_ru vh="H" name="Shon Carson" gain="18"></p_ru>
+    <p_tk vh="V" name="Malik Diggs"></p_tk>
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="SC49" context="H,1,10,H49" playid="17,4,168" type="P" tokens="PASS:1P,I,89,*"
+      text="Perry Orth pass incomplete to Jerell Adams." newcontext="H,2,10,H49">
+    <p_pa vh="H" qb="Perry Orth" result="INC" rcv="Jerell Adams"></p_pa>
+   </play>
+   <play hasball="SC" down="2" togo="10" spot="SC49" context="H,2,10,H49" playid="17,5,169" type="P" first="P" tokens="PASS:1P,C,1,V41 TACK:1"
+      text="Perry Orth pass complete to Deebo Samuel for 10 yards to the CIT41, 1ST DOWN SC (Shy Phillips)." newcontext="H,1,10,V41">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Deebo Samuel" gain="10"></p_pa>
+    <p_tk vh="V" name="Shy Phillips"></p_tk>
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="CIT41" context="H,1,10,V41" playid="17,6,170" type="P" first="P" score="Y" vscore="17" hscore="22" clock="08:40" tokens="PASS:1P,C,11,V00 T:08:40"
+      text="Perry Orth pass complete to Pharoh Cooper for 41 yards to the CIT0, 1ST DOWN SC, TOUCHDOWN, clock 08:40." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Pharoh Cooper" gain="41"></p_pa>
+   </play>
+   <play hasball="SC" down="1" togo="0" spot="CIT03" context="H,1,0,V03" playid="17,7,171" type="#" clock="08:40" tokens="TOUT:H T:08:40"
+      text="Timeout South Carolina, clock 08:40." newcontext="H,1,0,V03">
+    <p_to vh="H" team="South Carolina"></p_to>
+   </play>
+   <play hasball="SC" down="1" togo="0" spot="CIT03" context="H,1,0,V03" playid="17,8,172" type="X" tokens="PAT:R,71,M"
+      text="Brandon Shell rush attempt failed." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Brandon Shell" qb="Brandon Shell" type="R" result="MISSED"></p_pat>
+   </play>
+   <score V="17" H="22"></score>
+   <drivesum plays="5" yards="74" top="1:46" driveindex="17" complete="Y"></drivesum>
+   <play hasball="SC" down="1" togo="0" spot="SC35" context="H,1,0,H35" playid="17,9,173" type="K" tokens="KO:1L,V00 TB:"
+      text="Landon Ard kickoff 65 yards to the CIT0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Landon Ard" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,08:40" vh="V" spot="V25" clock="08:40" driveindex="18,173"></drivestart>
+   <play hasball="CIT" down="1" togo="10" spot="CIT25" context="V,1,10,V25" playid="18,1,174" clock="08:40" tokens="{DRIVE}:08:40"
+      text="THE CITADEL drive start at 08:40." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="CIT25" context="V,1,10,V25" playid="18,2,175" type="R" tokens="RUSH:19,V30, TACK:10"
+      text="Dominique Allen rush for 5 yards to the CIT30 (Skai Moore)." newcontext="V,2,5,V30">
+    <p_ru vh="V" name="Dominique Allen" gain="5"></p_ru>
+    <p_tk vh="H" name="Skai Moore"></p_tk>
+   </play>
+   <play hasball="CIT" down="2" togo="5" spot="CIT30" context="V,2,5,V30" playid="18,3,176" type="R" first="R" tokens="RUSH:36,V35, TACK:94"
+      text="Tyler Renew rush for 5 yards to the CIT35, 1ST DOWN CIT (Kelsey Griffin)." newcontext="V,1,10,V35">
+    <p_ru vh="V" name="Tyler Renew" gain="5"></p_ru>
+    <p_tk vh="H" name="Kelsey Griffin"></p_tk>
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="CIT35" context="V,1,10,V35" playid="18,4,177" type="E" tokens="PEN:V,FS,A,36,V30,N"
+      text="PENALTY CIT false start (Tyler Renew) 5 yards to the CIT30." newcontext="V,1,15,V30">
+    <p_pn vh="V" code="FS" type="false start" name="Tyler Renew" result="ACCEPT" at="V35" yards="5"></p_pn>
+   </play>
+   <play hasball="CIT" down="1" togo="15" spot="CIT30" context="V,1,15,V30" playid="18,5,178" type="R" tokens="RUSH:18,V41, OB: TACK:20"
+      text="Cam Jackson rush for 11 yards to the CIT41, out-of-bounds (T.J. Gurley)." ob="Y" newcontext="V,2,4,V41">
+    <p_ru vh="V" name="Cam Jackson" gain="11"></p_ru>
+    <p_tk vh="H" name="T.J. Gurley"></p_tk>
+   </play>
+   <play hasball="CIT" down="2" togo="4" spot="CIT41" context="V,2,4,V41" playid="18,6,179" type="R" tokens="RUSH:36,V44, TACK:99"
+      text="Tyler Renew rush for 3 yards to the CIT44 (Abu Lamin)." newcontext="V,3,1,V44">
+    <p_ru vh="V" name="Tyler Renew" gain="3"></p_ru>
+    <p_tk vh="H" name="Abu Lamin"></p_tk>
+   </play>
+   <play hasball="CIT" down="3" togo="1" spot="CIT44" context="V,3,1,V44" playid="18,7,180" type="R" first="R" score="Y" vscore="23" hscore="22" clock="06:07" tokens="RUSH:36,H00, T:06:07"
+      text="Tyler Renew rush for 56 yards to the SC0, 1ST DOWN CIT, TOUCHDOWN, clock 06:07." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Tyler Renew" gain="56"></p_ru>
+   </play>
+   <play hasball="CIT" down="1" togo="0" spot="SC03" context="V,1,0,H03" playid="18,8,181" type="X" tokens="PAT:R,36,M"
+      text="Tyler Renew rush attempt failed." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Tyler Renew" qb="Tyler Renew" type="R" result="MISSED"></p_pat>
+   </play>
+   <score V="23" H="22"></score>
+   <drivesum plays="5" yards="75" top="2:33" driveindex="18" complete="Y"></drivesum>
+   <play hasball="CIT" down="1" togo="0" spot="CIT35" context="V,1,0,V35" playid="18,9,182" type="K" tokens="KO:99,H03 RET:32,H24 TACK:28"
+      text="Eric Goins kickoff 62 yards to the SC3, Rod Talley return 21 yards to the SC24 (Craig Miller)." newcontext="H,1,10,H24">
+    <p_ko vh="V" name="Eric Goins" gain="62"></p_ko>
+    <p_kr vh="H" name="Rod Talley" gain="21"></p_kr>
+    <p_tk vh="V" name="Craig Miller"></p_tk>
+   </play>
+   <drivestart poss="H,H24,06:07" vh="H" spot="H24" clock="06:07" driveindex="19,182"></drivestart>
+   <play hasball="SC" down="1" togo="10" spot="SC24" context="H,1,10,H24" playid="19,1,183" clock="06:07" tokens="{DRIVE}:06:07"
+      text="SOUTH CAROLINA drive start at 06:07." newcontext="H,1,10,H24">
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="SC24" context="H,1,10,H24" playid="19,2,184" type="P" first="P" tokens="PASS:1P,C,11,H45 OB: TACK:21"
+      text="Perry Orth pass complete to Pharoh Cooper for 21 yards to the SC45, 1ST DOWN SC, out-of-bounds (Malik Diggs)." ob="Y" newcontext="H,1,10,H45">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Pharoh Cooper" gain="21"></p_pa>
+    <p_tk vh="V" name="Malik Diggs"></p_tk>
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="SC45" context="H,1,10,H45" playid="19,3,185" type="P" tokens="PASS:1P,C,11,V47 TACK:21"
+      text="Perry Orth pass complete to Pharoh Cooper for 8 yards to the CIT47 (Malik Diggs)." newcontext="H,2,2,V47">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Pharoh Cooper" gain="8"></p_pa>
+    <p_tk vh="V" name="Malik Diggs"></p_tk>
+   </play>
+   <play hasball="SC" down="2" togo="2" spot="CIT47" context="H,2,2,V47" playid="19,4,186" type="P" tokens="PASS:1P,C,11,V48 TACK:20"
+      text="Perry Orth pass complete to Pharoh Cooper for loss of 1 yard to the CIT48 (Mariel Cooper)." newcontext="H,3,3,V48">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Pharoh Cooper" gain="-1"></p_pa>
+    <p_tk vh="V" name="Mariel Cooper"></p_tk>
+   </play>
+   <play hasball="SC" down="3" togo="3" spot="CIT48" context="H,3,3,V48" playid="19,5,187" type="R" tokens="RUSH:33,V46, TACK:43"
+      text="David Williams rush for 2 yards to the CIT46 (Tevin Floyd)." newcontext="H,4,1,V46">
+    <p_ru vh="H" name="David Williams" gain="2"></p_ru>
+    <p_tk vh="V" name="Tevin Floyd"></p_tk>
+   </play>
+   <play hasball="SC" down="4" togo="1" spot="CIT46" context="H,4,1,V46" playid="19,6,188" type="R" tokens="RUSH:33,V46, TACK:5,7"
+      text="David Williams rush for no gain to the CIT46 (Joe Crochet;Mark Thomas)." newcontext="V,1,10,V46">
+    <p_ru vh="H" name="David Williams" gain="0"></p_ru>
+    <p_tk vh="V" name="Joe Crochet" assist="Y"></p_tk>
+    <p_tk vh="V" name="Mark Thomas" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="5" yards="30" top="2:00" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="V,V46,04:07" vh="V" spot="V46" clock="04:07" driveindex="20,188"></drivestart>
+   <play hasball="CIT" down="1" togo="10" spot="CIT46" context="V,1,10,V46" playid="20,1,189" clock="04:07" tokens="{DRIVE}:04:07"
+      text="THE CITADEL drive start at 04:07." newcontext="V,1,10,V46">
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="CIT46" context="V,1,10,V46" playid="20,2,190" type="R" tokens="RUSH:18,H47, TACK:44,21"
+      text="Cam Jackson rush for 7 yards to the SC47 (Gerald Dixon;Isaiah Johnson)." newcontext="V,2,3,H47">
+    <p_ru vh="V" name="Cam Jackson" gain="7"></p_ru>
+    <p_tk vh="H" name="Gerald Dixon" assist="Y"></p_tk>
+    <p_tk vh="H" name="Isaiah Johnson" assist="Y"></p_tk>
+   </play>
+   <play hasball="CIT" down="2" togo="3" spot="SC47" context="V,2,3,H47" playid="20,3,191" type="R" tokens="RUSH:18,H45, TACK:21,10"
+      text="Cam Jackson rush for 2 yards to the SC45 (Isaiah Johnson;Skai Moore)." newcontext="V,3,1,H45">
+    <p_ru vh="V" name="Cam Jackson" gain="2"></p_ru>
+    <p_tk vh="H" name="Isaiah Johnson" assist="Y"></p_tk>
+    <p_tk vh="H" name="Skai Moore" assist="Y"></p_tk>
+   </play>
+   <play hasball="CIT" down="3" togo="1" spot="SC45" context="V,3,1,H45" playid="20,4,192" type="R" first="R" tokens="RUSH:36,H44, TACK:44,92"
+      text="Tyler Renew rush for 1 yard to the SC44, 1ST DOWN CIT (Gerald Dixon;Gerald Dixon Jr)." newcontext="V,1,10,H44">
+    <p_ru vh="V" name="Tyler Renew" gain="1"></p_ru>
+    <p_tk vh="H" name="Gerald Dixon" assist="Y"></p_tk>
+    <p_tk vh="H" name="Gerald Dixon Jr" assist="Y"></p_tk>
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="SC44" context="V,1,10,H44" playid="20,5,193" type="R" tokens="RUSH:19,H46, TACK:52"
+      text="Dominique Allen rush for loss of 2 yards to the SC46 (Phillip Dukes)." newcontext="V,2,12,H46">
+    <p_ru vh="V" name="Dominique Allen" gain="-2"></p_ru>
+    <p_tk vh="H" name="Phillip Dukes"></p_tk>
+   </play>
+   <play hasball="CIT" down="2" togo="12" spot="SC46" context="V,2,12,H46" playid="20,6,194" type="#" clock="02:31" tokens="TOUT:H T:02:31"
+      text="Timeout South Carolina, clock 02:31." newcontext="V,2,12,H46">
+    <p_to vh="H" team="South Carolina"></p_to>
+   </play>
+   <play hasball="CIT" down="2" togo="12" spot="SC46" context="V,2,12,H46" playid="20,7,195" type="R" tokens="RUSH:36,H41, TACK:52"
+      text="Tyler Renew rush for 5 yards to the SC41 (Phillip Dukes)." newcontext="V,3,7,H41">
+    <p_ru vh="V" name="Tyler Renew" gain="5"></p_ru>
+    <p_tk vh="H" name="Phillip Dukes"></p_tk>
+   </play>
+   <play hasball="CIT" down="3" togo="7" spot="SC41" context="V,3,7,H41" playid="20,8,196" type="#" clock="02:20" tokens="TOUT:H T:02:20"
+      text="Timeout South Carolina, clock 02:20." newcontext="V,3,7,H41">
+    <p_to vh="H" team="South Carolina"></p_to>
+   </play>
+   <play hasball="CIT" down="3" togo="7" spot="SC41" context="V,3,7,H41" playid="20,9,197" type="R" tokens="RUSH:19,H39, TACK:28"
+      text="Dominique Allen rush for 2 yards to the SC39 (Jonathan Walton)." newcontext="V,4,5,H39">
+    <p_ru vh="V" name="Dominique Allen" gain="2"></p_ru>
+    <p_tk vh="H" name="Jonathan Walton"></p_tk>
+   </play>
+   <play hasball="CIT" down="4" togo="5" spot="SC39" context="V,4,5,H39" playid="20,10,198" type="#" clock="01:35" tokens="TOUT:V T:01:35"
+      text="Timeout The Citadel, clock 01:35." newcontext="V,4,5,H39">
+    <p_to vh="V" team="The Citadel"></p_to>
+   </play>
+   <play hasball="CIT" down="4" togo="5" spot="SC39" context="V,4,5,H39" playid="20,11,199" type="U" tokens="PUNT:90,H03 DN:"
+      text="Will Vanvick punt 36 yards to the SC3, downed." newcontext="H,1,10,H03">
+    <p_pu vh="V" name="Will Vanvick" gain="36" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="15" top="2:41" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="H,H03,01:26" vh="H" spot="H03" clock="01:26" driveindex="21,199"></drivestart>
+   <play hasball="SC" down="1" togo="10" spot="SC03" context="H,1,10,H03" playid="21,1,200" clock="01:26" tokens="{DRIVE}:01:26"
+      text="SOUTH CAROLINA drive start at 01:26." newcontext="H,1,10,H03">
+   </play>
+   <play hasball="SC" down="1" togo="10" spot="SC03" context="H,1,10,H03" playid="21,2,201" type="P" tokens="PASS:1P,I,89,* QBH:V,1"
+      text="Perry Orth pass incomplete to Jerell Adams, QB hurry by Shy Phillips." newcontext="H,2,10,H03">
+    <p_pa vh="H" qb="Perry Orth" result="INC" rcv="Jerell Adams"></p_pa>
+    <p_qbh vh="V" name="Shy Phillips"></p_qbh>
+   </play>
+   <play hasball="SC" down="2" togo="10" spot="SC03" context="H,2,10,H03" playid="21,3,202" type="P" tokens="PASS:1P,I,11,* BRUP:20"
+      text="Perry Orth pass incomplete to Pharoh Cooper (Mariel Cooper)." newcontext="H,3,10,H03">
+    <p_pa vh="H" qb="Perry Orth" result="INC" rcv="Pharoh Cooper"></p_pa>
+    <p_bu vh="V" name="Mariel Cooper"></p_bu>
+   </play>
+   <play hasball="SC" down="3" togo="10" spot="SC03" context="H,3,10,H03" playid="21,4,203" type="P" tokens="PASS:1P,C,1,H06 TACK:22"
+      text="Perry Orth pass complete to Deebo Samuel for 3 yards to the SC6 (D Copeland)." newcontext="H,4,7,H06">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Deebo Samuel" gain="3"></p_pa>
+    <p_tk vh="V" name="D Copeland"></p_tk>
+   </play>
+   <play hasball="SC" down="4" togo="7" spot="SC06" context="H,4,7,H06" playid="21,5,204" type="E" clock="00:39" tokens="PASS:1P,C,11,V00 T:00:39 PEN:H,FS,A,TM,H03,N NOPLAY:"
+      text="Perry Orth pass complete to Pharoh Cooper for 94 yards to the CIT0, clock 00:39, PENALTY SC false start 3 yards to the SC3, NO PLAY." newcontext="H,4,10,H03">
+    <p_pn vh="H" code="FS" type="false start" result="ACCEPT" at="H06" yards="3"></p_pn>
+   </play>
+   <play hasball="SC" down="4" togo="10" spot="SC03" context="H,4,10,H03" playid="21,6,205" type="P" tokens="PASS:1P,C,22,H11 TACK:49"
+      text="Perry Orth pass complete to Brandon Wilds for 8 yards to the SC11 (James Riley)." newcontext="V,1,10,H11">
+    <p_pa vh="H" qb="Perry Orth" result="COMP" rcv="Brandon Wilds" gain="8"></p_pa>
+    <p_tk vh="V" name="James Riley"></p_tk>
+   </play>
+   <drivesum plays="4" yards="8" top="0:52" driveindex="21" complete="Y"></drivesum>
+   <drivestart poss="V,H11,00:34" vh="V" spot="H11" clock="00:34" driveindex="22,205"></drivestart>
+   <play hasball="CIT" down="1" togo="10" spot="SC11" context="V,1,10,H11" playid="22,1,206" clock="00:34" tokens="{DRIVE}:00:34"
+      text="THE CITADEL drive start at 00:34." newcontext="V,1,10,H11">
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="SC11" context="V,1,10,H11" playid="22,2,207" tokens="SPOT:V,H10,N"
+      text="CIT ball on SC10." newcontext="V,1,0,H10">
+   </play>
+   <play hasball="CIT" down="1" togo="0" spot="SC10" context="V,1,0,H10" playid="22,3,208" type="E" tokens="PEN:V,UC,A,TM,H25,N"
+      text="PENALTY CIT unsportsmanlike conduct 15 yards to the SC25." newcontext="V,1,0,H25">
+    <p_pn vh="V" code="UC" type="unsportsmanlike conduct" result="ACCEPT" at="H10" yards="15"></p_pn>
+   </play>
+   <play hasball="CIT" down="1" togo="0" spot="SC25" context="V,1,0,H25" playid="22,4,209" tokens="SPOT:V,H25,Y"
+      text="CIT ball on SC25." newcontext="V,1,0,H25">
+   </play>
+   <play hasball="CIT" down="1" togo="0" spot="SC25" context="V,1,0,H25" playid="22,5,210" tokens="D:1,10"
+      text="1st and 10." newcontext="V,1,10,H25">
+   </play>
+   <play hasball="CIT" down="1" togo="10" spot="SC25" context="V,1,10,H25" playid="22,6,211" type="R" tokens="RUSH:TM,H27,"
+      text="TEAM rush for loss of 2 yards to the SC27." newcontext="V,2,12,H27">
+    <p_ru vh="V" name="TEAM" gain="-2"></p_ru>
+   </play>
+   <play hasball="CIT" down="2" togo="12" spot="SC27" context="V,2,12,H27" playid="22,7,212" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of game, clock 00:00." newcontext="V,2,12,H27">
+   </play>
+   <drivesum plays="1" yards="-2" top="0:34" driveindex="22" complete="Y"></drivesum>
+   <score final="Y" V="23" H="22"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="CIT">
+    <firstdowns no="4" rush="4" pass="0" penalty="0"></firstdowns>
+    <penalties no="3" yds="25"></penalties>
+    <conversions thirdconv="2" thirdatt="5" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="10:22"></misc>
+    <rush att="19" yds="102" gain="116" loss="14" td="1" long="0"></rush>
+    <pass comp="0" att="0" int="0" yds="0" td="0" long="0" sacks="1" sackyds="10"></pass>
+    <punt no="1" yds="36" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="36.0"></punt>
+    <ko no="2" yds="124" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="48" blkd="0"></fg>
+    <pat rushatt="1" rushmade="0"></pat>
+    <defense tackua="9" tacka="4" tot_tack="13" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" brup="1" qbh="1"></defense>
+    <scoring td="1" fg="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="SC">
+    <firstdowns no="4" rush="1" pass="3" penalty="0"></firstdowns>
+    <penalties no="1" yds="3"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="2"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="04:38"></misc>
+    <rush att="3" yds="20" gain="20" loss="0" td="0" long="7"></rush>
+    <pass comp="8" att="11" int="0" yds="95" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="8" yds="95" td="1" long="0"></rcv>
+    <ko no="1" yds="65" ob="0" tb="1"></ko>
+    <pat rushatt="1" rushmade="0"></pat>
+    <defense tackua="13" tacka="8" tot_tack="21" tflua="2" tfla="0" tflyds="12" sacks="1" sackyds="10"></defense>
+    <kr no="2" yds="44" td="0" long="0"></kr>
+    <scoring td="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="V" id="CIT" down="2" togo="12" spot="SC27" context="V,2,12,H27" qtr="4" clock="00:00" vtoh="2" htoh="3"
+       lastplay="End of game, clock 00:00."></downtogo>
+ </plays>
+ <message text=""></message>
+ <dnp vh="V" id="CIT">
+  <player name="Tyler Jackson" checkname="JACKSON,TYLER" uni="1J" class="FR" gp="0" code="1J"></player>
+  <player name="Donald Rutledge" checkname="RUTLEDGE,DONALD" uni="1R" class="FR" gp="0" code="1R"></player>
+  <player name="AJ Vandiver" checkname="VANDIVER,AJ" uni="2V" class="FR" gp="0" code="2V"></player>
+  <player name="Taylor Jurney" checkname="JURNEY,TAYLOR" uni="3J" class="JR" gp="0" code="3J"></player>
+  <player name="Jordan Williams" checkname="WILLIAMS,JORDAN" uni="4W" class="FR" gp="0" code="4W"></player>
+  <player name="Tyler Jackson" checkname="JACKSON,TYLER" uni="4J" class="FR" gp="0" code="4J"></player>
+  <player name="Tradd Deaver" checkname="DEAVER,TRADD" uni="4D" class="FR" gp="0" code="4D"></player>
+  <player name="Nathan Peeples" checkname="PEEPLES,NATHAN" uni="5P" class="FR" gp="0" code="5P"></player>
+  <player name="Bradley Carter" checkname="CARTER,BRADLEY" uni="5C" class="FR" gp="0" code="5C"></player>
+  <player name="Cody Floyd" checkname="FLOYD,CODY" uni="6F" class="FR" gp="0" code="6F"></player>
+  <player name="Za'Von Whitaker" checkname="WHITAKER,ZA'VON" uni="8W" class="FR" gp="0" code="8W"></player>
+  <player name="Israel Battle" checkname="BATTLE,ISRAEL" uni="8" class="SO" gp="0" code="8"></player>
+  <player name="Khafari Buffalo" checkname="BUFFALO,KHAFARI" uni="9" class="FR" gp="0" code="9"></player>
+  <player name="David Pascoe" checkname="PASCOE,DAVID" uni="9P" class="FR" gp="0" code="9P"></player>
+  <player name="Jordan Black" checkname="BLACK,JORDAN" uni="10" class="FR" gp="0" code="10"></player>
+  <player name="Shon Belton" checkname="BELTON,SHON" uni="12" class="FR" gp="0" code="12"></player>
+  <player name="Jalen Lampkin" checkname="LAMPKIN,JALEN" uni="13" class="FR" gp="0" code="13"></player>
+  <player name="Josh Massey" checkname="MASSEY,JOSH" uni="17" class="SO" gp="0" code="17"></player>
+  <player name="Jonathan Dorogy" checkname="DOROGY,JONATHAN" uni="26" class="SO" gp="0" code="26"></player>
+  <player name="Jauveer Hammond" checkname="HAMMOND,JAUVEER" uni="30" class="FR" gp="0" code="30"></player>
+  <player name="Rod Johnson" checkname="JOHNSON,ROD" uni="31" class="FR" gp="0" code="31"></player>
+  <player name="Phil Davis" checkname="DAVIS,PHIL" uni="32" class="FR" gp="0" code="32"></player>
+  <player name="Donovan Ward" checkname="WARD,DONOVAN" uni="37" class="FR" gp="0" code="37"></player>
+  <player name="J.J. Baldwin" checkname="BALDWIN,JJ" uni="38" class="JR" gp="0" code="38"></player>
+  <player name="Trey Nelson" checkname="NELSON,TREY" uni="42" class="SO" gp="0" code="42"></player>
+  <player name="Jordan Thomas" checkname="THOMAS,JORDAN" uni="44" class="FR" gp="0" code="44"></player>
+  <player name="Curt Nixon" checkname="NIXON,CURT" uni="45" class="FR" gp="0" code="45"></player>
+  <player name="Carl Cunningham" checkname="CUNNINGHAM,CARL" uni="46" class="FR" gp="0" code="46"></player>
+  <player name="Greg Pappas" checkname="PAPPAS,GREG" uni="54" class="SO" gp="0" code="54"></player>
+  <player name="Emmet Howle" checkname="HOWLE,EMMET" uni="63" class="JR" gp="0" code="63"></player>
+  <player name="Hugh McFaddin" checkname="MCFADDIN,HUGH" uni="64" class="SO" gp="0" code="64"></player>
+  <player name="Mike Rentz" checkname="RENTZ,MIKE" uni="65" class="FR" gp="0" code="65"></player>
+  <player name="Zack VanAlstine" checkname="VANALSTINE,ZACK" uni="67" class="FR" gp="0" code="67"></player>
+  <player name="Max Ford" checkname="FORD,MAX" uni="69" class="FR" gp="0" code="69"></player>
+  <player name="Lovequan Scott" checkname="SCOTT,LOVEQUAN" uni="70" class="FR" gp="0" code="70"></player>
+  <player name="Sam Parker" checkname="PARKER,SAM" uni="72" class="JR" gp="0" code="72"></player>
+  <player name="Sydney Martin" checkname="MARTIN,SYDNEY" uni="74" class="FR" gp="0" code="74"></player>
+  <player name="Drew Campbell" checkname="CAMPBELL,DREW" uni="75" class="FR" gp="0" code="75"></player>
+  <player name="Andrew Laulusa" checkname="LAULUSA,ANDREW" uni="76" class="FR" gp="0" code="76"></player>
+  <player name="T Harkleroad" checkname="HARKLEROAD,T" uni="77" class="FR" gp="0" code="77"></player>
+  <player name="Caleb Hester" checkname="HESTER,CALEB" uni="78" class="FR" gp="0" code="78"></player>
+  <player name="Greg DiCocco" checkname="DICOCCO,GREG" uni="79" class="SR" gp="0" code="79"></player>
+  <player name="Charles Clark" checkname="CLARK,CHARLES" uni="80" class="JR" gp="0" code="80"></player>
+  <player name="Cameron Scott" checkname="SCOTT,CAMERON" uni="84" class="JR" gp="0" code="84"></player>
+  <player name="Patrick Keefe" checkname="KEEFE,PATRICK" uni="85" class="FR" gp="0" code="85"></player>
+  <player name="Austin Jordan" checkname="JORDAN,AUSTIN" uni="86" class="SR" gp="0" code="86"></player>
+  <player name="Jake Riggs" checkname="RIGGS,JAKE" uni="88" class="SO" gp="0" code="88"></player>
+  <player name="Whit Miller" checkname="MILLER,WHIT" uni="89" class="FR" gp="0" code="89"></player>
+  <player name="Tre'von White" checkname="WHITE,TRE'VON" uni="91" class="FR" gp="0" code="91"></player>
+  <player name="Adam Wawrzynski" checkname="WAWRZYNSKI,ADAM" uni="93" class="FR" gp="0" code="93"></player>
+  <player name="A Gallman" checkname="GALLMAN,A" uni="94" class="FR" gp="0" code="94"></player>
+  <player name="Ja'Lon Williams" checkname="WILLIAMS,JA'LON" uni="96" class="FR" gp="0" code="96"></player>
+  <player name="John Baker" checkname="BAKER,JOHN" uni="98" class="FR" gp="0" code="98"></player>
+ </dnp>
+ <dnp vh="H" id="SC">
+  <player name="Chaz Elder" checkname="ELDER,CHAZ" uni="1C" class="JR" gp="0" code="1C"></player>
+  <player name="Christian Owens" checkname="OWENS,CHRISTIAN" uni="2C" class="FR" gp="0" code="2C"></player>
+  <player name="Joseph Charlton" checkname="CHARLTON,JOSEPH" uni="2K" class="FR" gp="0" code="2K"></player>
+  <player name="Jamari Smith" checkname="SMITH,JAMARI" uni="2J" class="SO" gp="0" code="2J"></player>
+  <player name="D.J. Neal" checkname="NEAL,DJ" uni="3" class="FR" gp="0" code="3"></player>
+  <player name="D. Smalls" checkname="SMALLS,D" uni="3D" class="SO" gp="0" code="3D"></player>
+  <player name="Daniel Fennell" checkname="FENNELL,DANIEL" uni="3F" class="FR" gp="0" code="3F"></player>
+  <player name="Nick Mcgriff" checkname="MCGRIFF,NICK" uni="4N" class="FR" gp="0" code="4N"></player>
+  <player name="Devin Potter" checkname="POTTER,DEVIN" uni="4D" class="JR" gp="0" code="4D"></player>
+  <player name="Benji Russell" checkname="RUSSELL,BENJI" uni="4R" class="SO" gp="0" code="4R"></player>
+  <player name="Jalen Christian" checkname="CHRISTIAN,JALEN" uni="4" class="FR" gp="0" code="4"></player>
+  <player name="Connor Mitch" checkname="MITCH,CONNOR" uni="6Q" class="SO" gp="0" code="6Q"></player>
+  <player name="Al Harris Jr" checkname="JR,AL HARRIS" uni="7A" class="SO" gp="0" code="7A"></player>
+  <player name="Sherrod Pittman" checkname="PITTMAN,SHERROD" uni="9Z" class="FR" gp="0" code="9Z"></player>
+  <player name="M. Scarnecchia" checkname="SCARNECCHIA,M" uni="12" class="FR" gp="0" code="12"></player>
+  <player name="Ali Groves" checkname="GROVES,ALI" uni="14" class="SO" gp="0" code="14"></player>
+  <player name="Cedrick Cooper" checkname="COOPER,CEDRICK" uni="18" class="SR" gp="0" code="18"></player>
+  <player name="Lorenzo Nunez" checkname="NUNEZ,LORENZO" uni="19" class="FR" gp="0" code="19"></player>
+  <player name="Larenz Bryant" checkname="BRYANT,LARENZ" uni="23" class="JR" gp="0" code="23"></player>
+  <player name="A.J. Turner" checkname="TURNER,AJ" uni="25" class="FR" gp="0" code="25"></player>
+  <player name="Jasper Sasser" checkname="SASSER,JASPER" uni="26" class="SO" gp="0" code="26"></player>
+  <player name="Toure Boyd" checkname="BOYD,TOURE" uni="27" class="JR" gp="0" code="27"></player>
+  <player name="Mon Denson" checkname="DENSON,MON" uni="34" class="FR" gp="0" code="34"></player>
+  <player name="Shannon James" checkname="JAMES,SHANNON" uni="35" class="JR" gp="0" code="35"></player>
+  <player name="Jacob August" checkname="AUGUST,JACOB" uni="40" class="FR" gp="0" code="40"></player>
+  <player name="Tyler Ragsdale" checkname="RAGSDALE,TYLER" uni="41" class="FR" gp="0" code="41"></player>
+  <player name="Garrison Gist" checkname="GIST,GARRISON" uni="43" class="SR" gp="0" code="43"></player>
+  <player name="Cedrick Malone" checkname="MALONE,CEDRICK" uni="46" class="JR" gp="0" code="46"></player>
+  <player name="Dexter Wideman" checkname="WIDEMAN,DEXTER" uni="48" class="FR" gp="0" code="48"></player>
+  <player name="Cody Waldrop" checkname="WALDROP,CODY" uni="51" class="JR" gp="0" code="51"></player>
+  <player name="Clayson Stadnik" checkname="STADNIK,CLAYSON" uni="54" class="JR" gp="0" code="54"></player>
+  <player name="David Johnson" checkname="JOHNSON,DAVID" uni="55" class="SO" gp="0" code="55"></player>
+  <player name="Mason Zandi" checkname="ZANDI,MASON" uni="74" class="JR" gp="0" code="74"></player>
+  <player name="Mike Matulis" checkname="MATULIS,MIKE" uni="76" class="SR" gp="0" code="76"></player>
+  <player name="Malik Young" checkname="YOUNG,MALIK" uni="77" class="FR" gp="0" code="77"></player>
+  <player name="Trey Derouen" checkname="DEROUEN,TREY" uni="79" class="FR" gp="0" code="79"></player>
+  <player name="Sean Odom" checkname="ODOM,SEAN" uni="82" class="JR" gp="0" code="82"></player>
+  <player name="Michael Almond" checkname="ALMOND,MICHAEL" uni="85" class="FR" gp="0" code="85"></player>
+  <player name="Connor Redmond" checkname="REDMOND,CONNOR" uni="87" class="FR" gp="0" code="87"></player>
+  <player name="J. Charleston" checkname="CHARLESTON,J" uni="88" class="FR" gp="0" code="88"></player>
+  <player name="S. Blackshear" checkname="BLACKSHEAR,S" uni="91" class="FR" gp="0" code="91"></player>
+  <player name="Ulric Jones" checkname="JONES,ULRIC" uni="93" class="JR" gp="0" code="93"></player>
+  <player name="Dante Sawyer" checkname="SAWYER,DANTE" uni="95" class="SO" gp="0" code="95"></player>
+ </dnp>
+ <longplays thresh="70">
+ </longplays>
+</fbgame>

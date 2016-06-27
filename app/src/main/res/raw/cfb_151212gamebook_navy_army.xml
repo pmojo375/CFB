@@ -1,0 +1,1557 @@
+<fbgame source="Tas Football" version="4.16.07" generated="12/12/2015">
+ <gametracker gameid="1237540"></gametracker>
+ <venue gameid="GAME12" visid="ARMY" homeid="NAVY" visname="Army West Point" homename="Navy"
+      date="12/12/2015" location="Philadelphia, PA" stadium="Lincoln Financial"
+      start="3:10pm" end="6:36pm" neutralgame="Y"
+      duration="3:26" attend="69722" temp="68 F" wind="WSW 6mph" weather="mostly cloudy">
+  <officials ref="Tracy Jones" ump="Jeffrey Akers" line="Daniel Shelton" lj="Tod Reese" bj="Keith Parham" fj="Rick Santilli" sj="Ben Vasconcells" cj="Mark Windham" alt="Mark Windham"></officials>
+  <rules qtrs="4" mins="15" downs="4" yds="10" kospot="35" tbspot="20" kotbspot="25" patspot="3" safspot="20" td="6" fg="3" pat="1" patx="2" saf="2" defpat="2" rouge="1" field="100" toh="3" sackrush="Y" fgaplay="Y" netpunttb="Y"></rules>
+ </venue>
+ <team vh="V" code="725" id="ARMY" name="Army West Point" record="2-10" abb="A">
+  <linescore prds="4" line="10,7,0,0" score="17">
+   <lineprd prd="1" score="10"></lineprd>
+   <lineprd prd="2" score="7"></lineprd>
+   <lineprd prd="3" score="0"></lineprd>
+   <lineprd prd="4" score="0"></lineprd>
+  </linescore>
+  <totals totoff_plays="62" totoff_yards="345" totoff_avg="5.6">
+   <firstdowns no="16" rush="8" pass="7" penalty="1"></firstdowns>
+   <penalties no="2" yds="28"></penalties>
+   <conversions thirdconv="6" thirdatt="14" fourthconv="0" fourthatt="0"></conversions>
+   <fumbles no="3" lost="1"></fumbles>
+   <misc yds="0" top="32:43" ona="0" onm="0" ptsto="0"></misc>
+   <redzone att="2" scores="1" points="3" tdrush="0" tdpass="0" fgmade="1" endfga="1" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="44" yds="137" gain="178" loss="41" td="1" long="29"></rush>
+   <pass comp="9" att="18" int="2" yds="208" td="1" long="39" sacks="3" sackyds="26"></pass>
+   <rcv no="9" yds="208" td="1" long="39"></rcv>
+   <punt no="6" yds="258" long="47" blkd="0" tb="1" fc="5" plus50="0" inside20="0" avg="43.0"></punt>
+   <ko no="4" yds="260" ob="0" tb="3"></ko>
+   <fg made="1" att="2" long="32" blkd="0"></fg>
+   <pat kickatt="2" kickmade="2"></pat>
+   <defense tackua="30" tacka="26" tot_tack="56" tflua="4" tfla="0" tflyds="7" sacks="0" sackyds="0" brup="4"></defense>
+   <kr no="2" yds="36" td="0" long="19"></kr>
+   <pr no="3" yds="53" td="0" long="50"></pr>
+   <scoring td="2" fg="1" patkick="2"></scoring>
+  </totals>
+  <player name="Johnson, Steven" shortname="Johnson, Steven" checkname="JOHNSON,STEVEN" uni="1F" class="JR" gp="1" code="1F"></player>
+  <player name="Hyatt, Marcus" shortname="Hyatt, Marcus" checkname="HYATT,MARCUS" uni="1" class="FR" gp="1" code="1">
+   <kr no="2" yds="36" td="0" long="19"></kr>
+  </player>
+  <player name="White, Kelvin" shortname="White, Kelvin" checkname="WHITE,KELVIN" uni="2" class="SR" gp="1" gs="1" opos="TE" code="2">
+   <pass comp="0" att="1" int="0" yds="0" td="0" long="0" sacks="0" sackyds="0"></pass>
+  </player>
+  <player name="Black, Nicholas" shortname="Black, Nicholas" checkname="BLACK,NICHOLAS" uni="2F" class="FR" gp="1" gs="1" opos="RB" code="2F">
+   <rush att="2" yds="6" gain="9" loss="3" td="0" long="9"></rush>
+   <rcv no="1" yds="7" td="0" long="7"></rcv>
+  </player>
+  <player name="Sheff, Spencer" shortname="Sheff, Spencer" checkname="SHEFF,SPENCER" uni="2A" class="FR" gp="1" code="2A"></player>
+  <player name="Langdon, Luke" shortname="Langdon, Luke" checkname="LANGDON,LUKE" uni="3A" class="FR" gp="1" code="3A">
+   <pass comp="0" att="1" int="0" yds="0" td="0" long="0" sacks="0" sackyds="0"></pass>
+  </player>
+  <player name="Asberry, Jordan" shortname="Asberry, Jordan" checkname="ASBERRY,JORDAN" uni="3E" class="FR" gp="1" code="3E">
+   <rush att="5" yds="15" gain="18" loss="3" td="0" long="7"></rush>
+  </player>
+  <player name="Regan, Max" shortname="Regan, Max" checkname="REGAN,MAX" uni="4A" class="FR" gp="1" code="4A"></player>
+  <player name="Parker, Quinten" shortname="Parker, Quinten" checkname="PARKER,QUINTEN" uni="4D" class="FR" gp="1" code="4D"></player>
+  <player name="Ramirez, Chandler" shortname="Ramirez, C." checkname="RAMIREZ,C" uni="4H" class="FR" gp="1" code="4H"></player>
+  <player name="Saum, Zach" shortname="Saum, Zach" checkname="SAUM,ZACH" uni="4E" class="FR" gp="1" code="4E"></player>
+  <player name="Kurz, Rick" shortname="Kurz, Rick" checkname="KURZ,RICK" uni="5H" class="FR" gp="1" code="5H"></player>
+  <player name="Macek, Cole" shortname="Macek, Cole" checkname="MACEK,COLE" uni="5C" class="FR" gp="1" code="5C"></player>
+  <player name="Carter, Chris" shortname="Carter, Chris" checkname="CARTER,CHRIS" uni="7" class="FR" gp="1" gs="1" opos="QB" code="7">
+   <rush att="22" yds="18" gain="53" loss="35" td="0" long="10"></rush>
+   <pass comp="9" att="15" int="1" yds="208" td="1" long="39" sacks="3" sackyds="26"></pass>
+   <fumbles no="3" lost="1"></fumbles>
+  </player>
+  <player name="Houghton, Mike" shortname="Houghton, Mike" checkname="HOUGHTON,MIKE" uni="7A" class="SO" gp="1" gs="1" opos="RG" code="7A"></player>
+  <player name="Long, Tevin" shortname="Long, Tevin" checkname="LONG,TEVIN" uni="8" class="JR" gp="1" code="8"></player>
+  <player name="Moss, Xavier" shortname="Moss, Xavier" checkname="MOSS,XAVIER" uni="9" class="JR" gp="1" gs="1" dpos="S" code="9">
+   <defense tackua="2" tacka="3" tot_tack="5" brup="1"></defense>
+  </player>
+  <player name="King, Andrew" shortname="King, Andrew" checkname="KING,ANDREW" uni="11" class="JR" gp="1" gs="1" dpos="LB" code="11">
+   <defense tackua="2" tacka="1" tot_tack="3" tflua="1" tfla="0" tflyds="2"></defense>
+  </player>
+  <player name="Carnegie, Chris" shortname="Carnegie, Chris" checkname="CARNEGIE,CHRIS" uni="14" class="SR" gp="1" gs="1" dpos="BC" code="14">
+   <defense tackua="2" tacka="1" tot_tack="3"></defense>
+  </player>
+  <player name="Bell, DeAndre" shortname="Bell, DeAndre" checkname="BELL,DEANDRE" uni="15" class="SR" gp="1" code="15">
+   <pass comp="0" att="1" int="1" yds="0" td="0" long="0" sacks="0" sackyds="0"></pass>
+   <rcv no="2" yds="45" td="0" long="39"></rcv>
+  </player>
+  <player name="McFadden, Michael" shortname="McFadden, M." checkname="MCFADDEN,M" uni="19" class="SR" gp="1" code="19"></player>
+  <player name="England, Rhyan" shortname="England, Rhyan" checkname="ENGLAND,RHYAN" uni="20" class="SO" gp="1" gs="1" dpos="FS" code="20"></player>
+  <player name="Aukerman, Alex" shortname="Aukerman, Alex" checkname="AUKERMAN,ALEX" uni="21" class="SO" gp="1" gs="1" dpos="LB" code="21">
+   <defense tackua="4" tacka="3" tot_tack="7"></defense>
+  </player>
+  <player name="Proulx, Luke" shortname="Proulx, Luke" checkname="PROULX,LUKE" uni="22" class="SR" gp="1" code="22"></player>
+  <player name="Kemper, Aaron" shortname="Kemper, Aaron" checkname="KEMPER,AARON" uni="25" class="JR" gp="1" gs="1" opos="FB" code="25">
+   <rush att="7" yds="38" gain="38" loss="0" td="0" long="18"></rush>
+  </player>
+  <player name="Gibson, Gibby" shortname="Gibson, Gibby" checkname="GIBSON,GIBBY" uni="27" class="FR" gp="1" code="27"></player>
+  <player name="Jackson, Brandon" shortname="Jackson, B." checkname="JACKSON,B" uni="28" class="FR" gp="1" gs="1" dpos="FC" code="28">
+   <defense tackua="5" tacka="1" tot_tack="6" brup="1"></defense>
+  </player>
+  <player name="Giovannelli, Joey" shortname="Giovannelli, J." checkname="GIOVANNELLI,J" uni="29" class="SR" gp="1" code="29"></player>
+  <player name="Escobar, Grant" shortname="Escobar, Grant" checkname="ESCOBAR,GRANT" uni="32" class="SR" gp="1" code="32"></player>
+  <player name="Campbell, Tyler" shortname="Campbell, Tyler" checkname="CAMPBELL,TYLER" uni="33" class="FR" gp="1" gs="1" opos="RB" code="33">
+   <rush att="4" yds="36" gain="36" loss="0" td="1" long="29"></rush>
+   <rcv no="1" yds="35" td="0" long="35"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Harris, Drue" shortname="Harris, Drue" checkname="HARRIS,DRUE" uni="34" class="FR" gp="1" code="34"></player>
+  <player name="Drake, Christian" shortname="Drake, C." checkname="DRAKE,C" uni="38" class="FR" gp="1" code="38">
+   <rush att="2" yds="19" gain="19" loss="0" td="0" long="15"></rush>
+  </player>
+  <player name="Timpf, Jeremy" shortname="Timpf, Jeremy" checkname="TIMPF,JEREMY" uni="39" class="JR" gp="1" gs="1" dpos="LB" code="39">
+   <defense tackua="5" tacka="4" tot_tack="9" tflua="1" tfla="0" tflyds="2" brup="1"></defense>
+  </player>
+  <player name="Giachinta, Matt" shortname="Giachinta, Matt" checkname="GIACHINTA,MATT" uni="40" class="SR" gp="1" code="40">
+   <rush att="2" yds="5" gain="5" loss="0" td="0" long="3"></rush>
+  </player>
+  <player name="Holt, Calen" shortname="Holt, Calen" checkname="HOLT,CALEN" uni="42" class="FR" gp="1" code="42"></player>
+  <player name="Davidson, Andy" shortname="Davidson, Andy" checkname="DAVIDSON,ANDY" uni="43" class="FR" gp="1" code="43"></player>
+  <player name="Alexander, Ryan" shortname="Alexander, Ryan" checkname="ALEXANDER,RYAN" uni="50" class="SR" gp="1" gs="1" opos="LT" code="50"></player>
+  <player name="Fahn, Justin" shortname="Fahn, Justin" checkname="FAHN,JUSTIN" uni="51" class="SR" gp="1" code="51">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Hugenberg, Matt" shortname="Hugenberg, Matt" checkname="HUGENBERG,MATT" uni="53" class="SR" gp="1" gs="1" opos="C" code="53"></player>
+  <player name="Nachtigal, James" shortname="Nachtigal, J." checkname="NACHTIGAL,J" uni="54" class="FR" gp="1" code="54"></player>
+  <player name="Brinson, Kenneth" shortname="Brinson, K." checkname="BRINSON,K" uni="56" class="FR" gp="1" gs="1" dpos="LB" code="56">
+   <defense tackua="2" tacka="2" tot_tack="4"></defense>
+  </player>
+  <player name="Smith, Jordan" shortname="Smith, Jordan" checkname="SMITH,JORDAN" uni="57" class="JR" gp="1" gs="1" dpos="DT" code="57">
+   <defense tackua="3" tacka="3" tot_tack="6" brup="1"></defense>
+  </player>
+  <player name="Voit, John" shortname="Voit, John" checkname="VOIT,JOHN" uni="59" class="SO" gp="1" gs="1" dpos="DE" code="59">
+   <defense tackua="3" tacka="3" tot_tack="6" tflua="1" tfla="0" tflyds="2"></defense>
+  </player>
+  <player name="Gilbert, Justin" shortname="Gilbert, Justin" checkname="GILBERT,JUSTIN" uni="60" class="SR" gp="1" gs="1" opos="RT" code="60"></player>
+  <player name="Villegas, Jaryn" shortname="Villegas, Jaryn" checkname="VILLEGAS,JARYN" uni="74" class="SO" gp="1" gs="1" opos="LG" code="74"></player>
+  <player name="Finnane, Evan" shortname="Finnane, Evan" checkname="FINNANE,EVAN" uni="75" class="SR" gp="1" code="75"></player>
+  <player name="Tardieu, Alex" shortname="Tardieu, Alex" checkname="TARDIEU,ALEX" uni="80" class="SR" gp="1" code="80">
+   <punt no="6" yds="258" long="47" blkd="0" tb="1" fc="5" plus50="0" inside20="0" avg="43.0"></punt>
+  </player>
+  <player name="Poe, Edgar" shortname="Poe, Edgar" checkname="POE,EDGAR" uni="82" class="JR" gp="1" gs="1" opos="WR" code="82">
+   <rcv no="5" yds="121" td="1" long="39"></rcv>
+   <pr no="3" yds="53" td="0" long="50"></pr>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Farley, Connor" shortname="Farley, Connor" checkname="FARLEY,CONNOR" uni="88" class="SR" gp="1" code="88"></player>
+  <player name="Atimalala, T.J." shortname="Atimalala, T.J." checkname="ATIMALALA,TJ" uni="93" class="SR" gp="1" gs="1" dpos="NG" code="93">
+   <defense tackua="1" tacka="5" tot_tack="6" tflua="1" tfla="0" tflyds="1"></defense>
+  </player>
+  <player name="Grochowski, Daniel" shortname="Grochowski, D." checkname="GROCHOWSKI,D" uni="95" class="SR" gp="1" code="95">
+   <ko no="4" yds="260" ob="0" tb="3"></ko>
+   <fg made="1" att="2" long="32" blkd="0"></fg>
+   <pat kickatt="2" kickmade="2"></pat>
+   <scoring fg="1" patkick="2"></scoring>
+  </player>
+  <player name="Davis, Cordarrell" shortname="Davis, C." checkname="DAVIS,C" uni="99" class="FR" gp="1" code="99"></player>
+ </team>
+ <team vh="H" code="726" id="NAVY" name="Navy" record="10-2" conf-record="7-1" abb="N" rank="21">
+  <linescore prds="4" line="7,7,7,0" score="21">
+   <lineprd prd="1" score="7"></lineprd>
+   <lineprd prd="2" score="7"></lineprd>
+   <lineprd prd="3" score="7"></lineprd>
+   <lineprd prd="4" score="0"></lineprd>
+  </linescore>
+  <totals totoff_plays="55" totoff_yards="312" totoff_avg="5.7">
+   <firstdowns no="11" rush="8" pass="3" penalty="0"></firstdowns>
+   <penalties no="3" yds="25"></penalties>
+   <conversions thirdconv="3" thirdatt="15" fourthconv="1" fourthatt="1"></conversions>
+   <fumbles no="1" lost="0"></fumbles>
+   <misc yds="0" top="27:17" ona="0" onm="0" ptsto="0"></misc>
+   <redzone att="1" scores="1" points="7" tdrush="1" tdpass="0" fgmade="0" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="41" yds="199" gain="210" loss="11" td="2" long="58"></rush>
+   <pass comp="6" att="14" int="0" yds="113" td="1" long="50" sacks="0" sackyds="0"></pass>
+   <rcv no="6" yds="113" td="1" long="50"></rcv>
+   <punt no="11" yds="469" long="66" blkd="0" tb="3" fc="2" plus50="2" inside20="2" avg="42.6"></punt>
+   <ko no="4" yds="257" ob="0" tb="2"></ko>
+   <pat kickatt="3" kickmade="3"></pat>
+   <defense tackua="45" tacka="14" tot_tack="59" tflua="7" tfla="2" tflyds="38" sacks="3" sackyds="26" brup="2" fr="1" fryds="0" int="2" intyds="1"></defense>
+   <kr no="1" yds="42" td="0" long="42"></kr>
+   <ir no="2" yds="1" td="0" long="1"></ir>
+   <scoring td="3" patkick="3"></scoring>
+  </totals>
+  <player name="CLEMENTS, Brendon" shortname="CLEMENTS, B" checkname="CLEMENTS,B" uni="1" class="JR" gp="1" gs="1" dpos="LCB" code="1">
+   <defense tackua="5" tacka="0" tot_tack="5" tflua="1" tfla="0" tflyds="2" brup="1"></defense>
+  </player>
+  <player name="BARBOUR, Lorentez" shortname="BARBOUR, L" checkname="BARBOUR,L" uni="2" class="SR" gp="1" gs="1" dpos="FS" code="2">
+   <defense tackua="6" tacka="2" tot_tack="8" tflua="0" tfla="1" tflyds="1" int="1" intyds="1"></defense>
+   <ir no="1" yds="1" td="0" long="1"></ir>
+  </player>
+  <player name="JONES, Brandon" shortname="JONES, Brandon" checkname="JONES,BRANDON" uni="3" class="SO" gp="1" code="3">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="TILLMAN, Jamir" shortname="TILLMAN, Jamir" checkname="TILLMAN,JAMIR" uni="4" class="JR" gp="1" gs="1" opos="WR" code="4">
+   <rcv no="5" yds="102" td="1" long="50"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="ADAMS, Quincy" shortname="ADAMS, Quincy" checkname="ADAMS,QUINCY" uni="5" class="SR" gp="1" gs="1" dpos="RCB" code="5">
+   <defense tackua="5" tacka="0" tot_tack="5"></defense>
+  </player>
+  <player name="WILLIAMS, Sean" shortname="WILLIAMS, Sean" checkname="WILLIAMS,SEAN" uni="6" class="FR" gp="1" code="6"></player>
+  <player name="BEGGS, Randy" shortname="BEGGS, Randy" checkname="BEGGS,RANDY" uni="8" class="SO" gp="1" code="8"></player>
+  <player name="KRAH, Myer" shortname="KRAH, Myer" checkname="KRAH,MYER" uni="9" class="SR" gp="1" code="9">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="THOMPSON, Jerry" shortname="THOMPSON, Jerry" checkname="THOMPSON,JERRY" uni="11" class="SO" gp="1" code="11"></player>
+  <player name="BATTLE, Kyle" shortname="BATTLE, Kyle" checkname="BATTLE,KYLE" uni="13" class="JR" gp="1" code="13"></player>
+  <player name="MERCHANT, Elijah" shortname="MERCHANT, E" checkname="MERCHANT,E" uni="14" class="SO" gp="1" code="14"></player>
+  <player name="WORTH, Will" shortname="WORTH, Will" checkname="WORTH,WILL" uni="15" class="JR" gp="1" code="15"></player>
+  <player name="REYNOLDS, Keenan" shortname="REYNOLDS, K" checkname="REYNOLDS,K" uni="19" class="SR" gp="1" gs="1" opos="QB" code="19">
+   <rush att="21" yds="136" gain="141" loss="5" td="2" long="58"></rush>
+   <pass comp="6" att="14" int="0" yds="113" td="1" long="50" sacks="0" sackyds="0"></pass>
+   <scoring td="2"></scoring>
+  </player>
+  <player name="CASS Jr., Calvin" shortname="CASS Jr., C" checkname="CASS JR.,C" uni="20" class="JR" gp="1" code="20"></player>
+  <player name="SANDERS, DeBrandon" shortname="SANDERS, D" checkname="SANDERS,D" uni="21" class="SR" gp="1" gs="1" opos="SB" code="21">
+   <rush att="1" yds="3" gain="3" loss="0" td="0" long="3"></rush>
+  </player>
+  <player name="GULLEY, Toneo" shortname="GULLEY, Toneo" checkname="GULLEY,TONEO" uni="22" class="JR" gp="1" code="22"></player>
+  <player name="WALKER, Joshua" shortname="WALKER, Joshua" checkname="WALKER,JOSHUA" uni="24" class="SO" gp="1" code="24">
+   <defense tackua="3" tacka="0" tot_tack="3"></defense>
+  </player>
+  <player name="BROWN, Demond" shortname="BROWN, Demond" checkname="BROWN,DEMOND" uni="25" class="SR" gp="1" gs="1" opos="SB" code="25">
+   <rcv no="1" yds="11" td="0" long="11"></rcv>
+  </player>
+  <player name="THOMASSON, Daiquan" shortname="THOMASSON, D" checkname="THOMASSON,D" uni="26" class="JR" gp="1" gs="1" dpos="ROV" code="26">
+   <defense tackua="3" tacka="0" tot_tack="3" brup="1" int="1" intyds="0"></defense>
+   <ir no="1" yds="0" td="0" long="0"></ir>
+  </player>
+  <player name="ROMINE, Dishan" shortname="ROMINE, Dishan" checkname="ROMINE,DISHAN" uni="28" class="JR" gp="1" code="28">
+   <rush att="1" yds="-2" gain="0" loss="2" td="0" long="0"></rush>
+   <kr no="1" yds="42" td="0" long="42"></kr>
+  </player>
+  <player name="WHITE, Shawn" shortname="WHITE, Shawn" checkname="WHITE,SHAWN" uni="31" class="JR" gp="1" code="31"></player>
+  <player name="EZELL, Quentin" shortname="EZELL, Quentin" checkname="EZELL,QUENTIN" uni="32" class="SR" gp="1" code="32">
+   <rush att="2" yds="4" gain="4" loss="0" td="0" long="3"></rush>
+  </player>
+  <player name="SWAIN, Chris" shortname="SWAIN, Chris" checkname="SWAIN,CHRIS" uni="37" class="SR" gp="1" gs="1" opos="FB" code="37">
+   <rush att="15" yds="62" gain="62" loss="0" td="0" long="11"></rush>
+  </player>
+  <player name="SULLIVAN, Hudson" shortname="SULLIVAN, H" checkname="SULLIVAN,H" uni="38" class="FR" gp="1" code="38"></player>
+  <player name="McCOY, Kevin" shortname="McCOY, Kevin" checkname="MCCOY,KEVIN" uni="40" class="SO" gp="1" code="40"></player>
+  <player name="GREBE, Austin" shortname="GREBE, Austin" checkname="GREBE,AUSTIN" uni="43" class="SR" gp="1" code="43">
+   <ko no="4" yds="257" ob="0" tb="2"></ko>
+   <pat kickatt="3" kickmade="3"></pat>
+   <scoring patkick="3"></scoring>
+  </player>
+  <player name="THOMAS, Micah" shortname="THOMAS, Micah" checkname="THOMAS,MICAH" uni="44" class="SO" gp="1" gs="1" dpos="MIKE" code="44">
+   <defense tackua="2" tacka="2" tot_tack="4"></defense>
+  </player>
+  <player name="PALMORE, D.J." shortname="PALMORE, D.J." checkname="PALMORE,DJ" uni="45" class="SO" gp="1" gs="1" dpos="RAID" code="45">
+   <defense tackua="3" tacka="0" tot_tack="3" tflua="2" tfla="0" tflyds="13" sackua="1" sacka="0" sackyds="9"></defense>
+  </player>
+  <player name="POWELL, Josiah" shortname="POWELL, Josiah" checkname="POWELL,JOSIAH" uni="48" class="JR" gp="1" code="48">
+   <defense tackua="2" tacka="0" tot_tack="2" tflua="1" tfla="0" tflyds="2"></defense>
+  </player>
+  <player name="KELLY, Mike" shortname="KELLY, Mike" checkname="KELLY,MIKE" uni="49" class="JR" gp="1" code="49"></player>
+  <player name="MASON, Amos" shortname="MASON, Amos" checkname="MASON,AMOS" uni="52" class="JR" gp="1" gs="1" dpos="RE" code="52">
+   <defense tackua="0" tacka="2" tot_tack="2"></defense>
+  </player>
+  <player name="PESCAIA, Kikau" shortname="PESCAIA, Kikau" checkname="PESCAIA,KIKAU" uni="53" class="SR" gp="1" code="53"></player>
+  <player name="GOBLE, Tyler" shortname="GOBLE, Tyler" checkname="GOBLE,TYLER" uni="54" class="SR" gp="1" code="54"></player>
+  <player name="COLBURN, Ted" shortname="COLBURN, Ted" checkname="COLBURN,TED" uni="55" class="JR" gp="1" gs="1" dpos="STR" code="55">
+   <defense tackua="1" tacka="2" tot_tack="3" fr="1" fryds="0"></defense>
+  </player>
+  <player name="DAVENPORT, Myles" shortname="DAVENPORT, M" checkname="DAVENPORT,M" uni="56" class="SO" gp="1" code="56"></player>
+  <player name="BINNS, E.K." shortname="BINNS, E.K." checkname="BINNS,EK" uni="57" class="SR" gp="1" gs="1" opos="LG" code="57"></player>
+  <player name="GONZALES, Daniel" shortname="GONZALES, D" checkname="GONZALES,D" uni="58" class="JR" gp="1" gs="1" dpos="SAM" code="58">
+   <defense tackua="5" tacka="3" tot_tack="8" tflua="1" tfla="1" tflyds="3"></defense>
+  </player>
+  <player name="HARRIS, Ryan" shortname="HARRIS, Ryan" checkname="HARRIS,RYAN" uni="59" class="JR" gp="1" code="59"></player>
+  <player name="TAMBURELLO, Ben" shortname="TAMBURELLO, Ben" checkname="TAMBURELLO,BEN" uni="60" class="SR" gp="1" gs="1" opos="RG" code="60"></player>
+  <player name="GREENE, Brandon" shortname="GREENE, Brandon" checkname="GREENE,BRANDON" uni="61" class="SR" gp="1" gs="1" opos="RT" code="61"></player>
+  <player name="WADE, Parker" shortname="WADE, Parker" checkname="WADE,PARKER" uni="62" class="SO" gp="1" code="62"></player>
+  <player name="RYDER, Blaze" shortname="RYDER, Blaze" checkname="RYDER,BLAZE" uni="64" class="SR" gp="1" gs="1" opos="C" code="64"></player>
+  <player name="GASTON, Joey" shortname="GASTON, Joey" checkname="GASTON,JOEY" uni="65" class="SR" gp="1" gs="1" opos="LT" code="65"></player>
+  <player name="POLU, Jarvis" shortname="POLU, Jarvis" checkname="POLU,JARVIS" uni="67" class="FR" gp="1" code="67">
+   <defense tackua="1" tacka="0" tot_tack="1" tflua="1" tfla="0" tflyds="9" sackua="1" sacka="0" sackyds="9"></defense>
+  </player>
+  <player name="FORRESTAL, Patrick" shortname="FORRESTAL, P" checkname="FORRESTAL,P" uni="68" class="JR" gp="1" code="68"></player>
+  <player name="WOOD, Andrew" shortname="WOOD, Andrew" checkname="WOOD,ANDREW" uni="69" class="FR" gp="1" code="69"></player>
+  <player name="MORRIS, Maurice" shortname="MORRIS, Maurice" checkname="MORRIS,MAURICE" uni="70" class="JR" gp="1" code="70"></player>
+  <player name="MARTIN, Evan" shortname="MARTIN, Evan" checkname="MARTIN,EVAN" uni="71" class="SO" gp="1" code="71"></player>
+  <player name="WEST, Adam" shortname="WEST, Adam" checkname="WEST,ADAM" uni="72" class="JR" gp="1" code="72"></player>
+  <player name="LINDSEY, Robert" shortname="LINDSEY, Robert" checkname="LINDSEY,ROBERT" uni="75" class="SO" gp="1" code="75"></player>
+  <player name="SARRA, Bernard" shortname="SARRA, Bernard" checkname="SARRA,BERNARD" uni="77" class="SR" gp="1" gs="1" dpos="NG" code="77">
+   <defense tackua="1" tacka="2" tot_tack="3"></defense>
+  </player>
+  <player name="BARTA, Alex" shortname="BARTA, Alex" checkname="BARTA,ALEX" uni="80" class="JR" gp="1" code="80">
+   <punt no="11" yds="469" long="66" blkd="0" tb="3" fc="2" plus50="2" inside20="2" avg="42.6"></punt>
+  </player>
+  <player name="SCOTT, Craig" shortname="SCOTT, Craig" checkname="SCOTT,CRAIG" uni="82" class="SO" gp="1" code="82"></player>
+  <player name="LEWELLYN, Chad" shortname="LEWELLYN, Chad" checkname="LEWELLYN,CHAD" uni="84" class="SO" gp="1" code="84"></player>
+  <player name="COLON, Brandon" shortname="COLON, Brandon" checkname="COLON,BRANDON" uni="87" class="SO" gp="1" code="87"></player>
+  <player name="CARMONA, Tyler" shortname="CARMONA, Tyler" checkname="CARMONA,TYLER" uni="88" class="SO" gp="1" code="88"></player>
+  <player name="WILSON, Thomas" shortname="WILSON, Thomas" checkname="WILSON,THOMAS" uni="89" class="SR" gp="1" gs="1" opos="WR" code="89"></player>
+  <player name="ANTHONY, Will" shortname="ANTHONY, Will" checkname="ANTHONY,WILL" uni="90" class="SR" gp="1" gs="1" dpos="LE" code="90">
+   <defense tackua="6" tacka="1" tot_tack="7" tflua="1" tfla="0" tflyds="8" sackua="1" sacka="0" sackyds="8"></defense>
+  </player>
+  <player name="SAYLES, Tyler" shortname="SAYLES, Tyler" checkname="SAYLES,TYLER" uni="91" class="SO" gp="1" code="91"></player>
+  <player name="GORDEUK, David" shortname="GORDEUK, David" checkname="GORDEUK,DAVID" uni="92" class="SR" gp="1" code="92"></player>
+  <player name="ANTOL, Josh" shortname="ANTOL, Josh" checkname="ANTOL,JOSH" uni="94" class="JR" gp="1" code="94"></player>
+  <player name="REAVER, Sean" shortname="REAVER, Sean" checkname="REAVER,SEAN" uni="99" class="SR" gp="1" code="99"></player>
+  <player name="TEAM" shortname="TEAM" checkname="TEAM" uni="TM" class="FR" gp="1" code="198">
+   <rush att="1" yds="-4" gain="0" loss="4" td="0" long="0"></rush>
+   <fumbles no="1" lost="0"></fumbles>
+  </player>
+ </team>
+ <scores>
+  <score vh="V" team="ARMY" qtr="1" clock="08:31" type="FG" yds="32" scorer="Grochowski, D." plays="7" drive="26" top="3:13" vscore="3" hscore="0" driveindex="2"></score>
+  <score vh="H" team="NAVY" qtr="1" clock="07:58" type="TD" how="RUSH" yds="58" scorer="REYNOLDS, K" patby="GREBE, Austin" pattype="KICK" patres="GOOD" plays="2" drive="75" top="0:33" vscore="3" hscore="7" driveindex="3"></score>
+  <score vh="V" team="ARMY" qtr="1" clock="04:10" type="TD" how="RUSH" yds="29" scorer="Campbell, Tyler" patby="Grochowski, D." pattype="KICK" patres="GOOD" plays="7" drive="82" top="3:43" vscore="10" hscore="7" driveindex="4"></score>
+  <score vh="H" team="NAVY" qtr="2" clock="12:18" type="TD" how="RUSH" yds="1" scorer="REYNOLDS, K" patby="GREBE, Austin" pattype="KICK" patres="GOOD" plays="7" drive="50" top="3:27" vscore="10" hscore="14" driveindex="7"></score>
+  <score vh="V" team="ARMY" qtr="2" clock="02:08" type="TD" how="PASS" yds="39" scorer="Poe, Edgar" passer="Carter, Chris" patby="Grochowski, D." pattype="KICK" patres="GOOD" plays="2" drive="54" top="0:40" vscore="17" hscore="14" driveindex="10"></score>
+  <score vh="H" team="NAVY" qtr="3" clock="05:51" type="TD" how="PASS" yds="50" scorer="TILLMAN, Jamir" passer="REYNOLDS, K" patby="GREBE, Austin" pattype="KICK" patres="GOOD" plays="1" drive="50" top="0:10" vscore="17" hscore="21" driveindex="18"></score>
+ </scores>
+ <fgas>
+  <fga vh="V" team="ARMY" kicker="Grochowski, D." qtr="1" clock="08:31" distance="32" result="good"></fga>
+  <fga vh="V" team="ARMY" kicker="Grochowski, D." qtr="4" clock="12:19" distance="29" result="missed"></fga>
+ </fgas>
+ <drives>
+  <drive vh="H" team="NAVY" start="KO,1,15:00,25" end="PUNT,1,11:44,47" plays="5" yards="22" top="3:16" start_how="KO" start_qtr="1" start_time="15:00" start_spot="NAVY25" end_how="PUNT" end_qtr="1" end_time="11:44" end_spot="NAVY47" driveindex="1"></drive>
+  <drive vh="V" team="ARMY" start="PUNT,1,11:44,60" end="FG,1,08:31,86" plays="7" yards="26" top="3:13" start_how="PUNT" start_qtr="1" start_time="11:44" start_spot="NAVY40" end_how="FG" end_qtr="1" end_time="08:31" end_spot="NAVY14" rz="1" driveindex="2"></drive>
+  <drive vh="H" team="NAVY" start="KO,1,08:31,25" end="TD,1,07:58,100" plays="2" yards="75" top="0:33" start_how="KO" start_qtr="1" start_time="08:31" start_spot="NAVY25" end_how="TD" end_qtr="1" end_time="07:58" end_spot="ARMY00" driveindex="3"></drive>
+  <drive vh="V" team="ARMY" start="KO,1,07:53,18" end="TD,1,04:10,100" plays="7" yards="82" top="3:43" start_how="KO" start_qtr="1" start_time="07:53" start_spot="ARMY18" end_how="TD" end_qtr="1" end_time="04:10" end_spot="NAVY00" driveindex="4"></drive>
+  <drive vh="H" team="NAVY" start="KO,1,04:10,25" end="PUNT,1,02:18,62" plays="4" yards="37" top="1:52" start_how="KO" start_qtr="1" start_time="04:10" start_spot="NAVY25" end_how="PUNT" end_qtr="1" end_time="02:18" end_spot="ARMY38" driveindex="5"></drive>
+  <drive vh="V" team="ARMY" start="PUNT,1,02:18,6" end="PUNT,1,00:45,10" plays="3" yards="4" top="1:33" start_how="PUNT" start_qtr="1" start_time="02:18" start_spot="ARMY06" end_how="PUNT" end_qtr="1" end_time="00:45" end_spot="ARMY10" driveindex="6"></drive>
+  <drive vh="H" team="NAVY" start="PUNT,1,00:45,50" end="TD,2,12:18,100" plays="7" yards="50" top="3:27" start_how="PUNT" start_qtr="1" start_time="00:45" start_spot="NAVY50" end_how="TD" end_qtr="2" end_time="12:18" end_spot="ARMY00" rz="1" driveindex="7"></drive>
+  <drive vh="V" team="ARMY" start="KO,2,12:18,25" end="PUNT,2,04:24,63" plays="12" yards="38" top="7:54" start_how="KO" start_qtr="2" start_time="12:18" start_spot="ARMY25" end_how="PUNT" end_qtr="2" end_time="04:24" end_spot="NAVY37" driveindex="8"></drive>
+  <drive vh="H" team="NAVY" start="PUNT,2,04:24,20" end="PUNT,2,02:48,14" plays="3" yards="-6" top="1:36" start_how="PUNT" start_qtr="2" start_time="04:24" start_spot="NAVY20" end_how="PUNT" end_qtr="2" end_time="02:48" end_spot="NAVY14" driveindex="9"></drive>
+  <drive vh="V" team="ARMY" start="PUNT,2,02:48,46" end="TD,2,02:08,100" plays="2" yards="54" top="0:40" start_how="PUNT" start_qtr="2" start_time="02:48" start_spot="ARMY46" end_how="TD" end_qtr="2" end_time="02:08" end_spot="NAVY00" driveindex="10"></drive>
+  <drive vh="H" team="NAVY" start="KO,2,01:59,42" end="PUNT,2,00:18,54" plays="7" yards="12" top="1:41" start_how="KO" start_qtr="2" start_time="01:59" start_spot="NAVY42" end_how="PUNT" end_qtr="2" end_time="00:18" end_spot="ARMY46" driveindex="11"></drive>
+  <drive vh="V" team="ARMY" start="PUNT,2,00:18,1" end="HALF,2,00:00,3" plays="2" yards="2" top="0:18" start_how="PUNT" start_qtr="2" start_time="00:18" start_spot="ARMY01" end_how="HALF" end_qtr="2" end_time="00:00" end_spot="ARMY03" driveindex="12"></drive>
+  <drive vh="V" team="ARMY" start="KO,3,15:00,25" end="PUNT,3,13:09,21" plays="4" yards="-4" top="1:51" start_how="KO" start_qtr="3" start_time="15:00" start_spot="ARMY25" end_how="PUNT" end_qtr="3" end_time="13:09" end_spot="ARMY21" driveindex="13"></drive>
+  <drive vh="H" team="NAVY" start="PUNT,3,13:09,32" end="PUNT,3,11:52,37" plays="3" yards="5" top="1:17" start_how="PUNT" start_qtr="3" start_time="13:09" start_spot="NAVY32" end_how="PUNT" end_qtr="3" end_time="11:52" end_spot="NAVY37" driveindex="14"></drive>
+  <drive vh="V" team="ARMY" start="PUNT,3,11:52,26" end="PUNT,3,09:47,24" plays="3" yards="-2" top="2:05" start_how="PUNT" start_qtr="3" start_time="11:52" start_spot="ARMY26" end_how="PUNT" end_qtr="3" end_time="09:47" end_spot="ARMY24" driveindex="15"></drive>
+  <drive vh="H" team="NAVY" start="PUNT,3,09:47,29" end="PUNT,3,08:11,34" plays="3" yards="5" top="1:36" start_how="PUNT" start_qtr="3" start_time="09:47" start_spot="NAVY29" end_how="PUNT" end_qtr="3" end_time="08:11" end_spot="NAVY34" driveindex="16"></drive>
+  <drive vh="V" team="ARMY" start="PUNT,3,08:11,20" end="PUNT,3,06:01,9" plays="3" yards="-11" top="2:10" start_how="PUNT" start_qtr="3" start_time="08:11" start_spot="ARMY20" end_how="PUNT" end_qtr="3" end_time="06:01" end_spot="ARMY09" driveindex="17"></drive>
+  <drive vh="H" team="NAVY" start="PUNT,3,06:01,50" end="TD,3,05:51,100" plays="1" yards="50" top="0:10" start_how="PUNT" start_qtr="3" start_time="06:01" start_spot="NAVY50" end_how="TD" end_qtr="3" end_time="05:51" end_spot="ARMY00" driveindex="18"></drive>
+  <drive vh="V" team="ARMY" start="KO,3,05:44,21" end="PUNT,3,04:15,18" plays="3" yards="-3" top="1:29" start_how="KO" start_qtr="3" start_time="05:44" start_spot="ARMY21" end_how="PUNT" end_qtr="3" end_time="04:15" end_spot="ARMY18" driveindex="19"></drive>
+  <drive vh="H" team="NAVY" start="PUNT,3,04:15,36" end="PUNT,3,02:21,43" plays="3" yards="7" top="1:54" start_how="PUNT" start_qtr="3" start_time="04:15" start_spot="NAVY36" end_how="PUNT" end_qtr="3" end_time="02:21" end_spot="NAVY43" driveindex="20"></drive>
+  <drive vh="V" team="ARMY" start="PUNT,3,02:21,21" end="FGA,4,12:19,88" plays="9" yards="67" top="5:02" start_how="PUNT" start_qtr="3" start_time="02:21" start_spot="ARMY21" end_how="FGA" end_qtr="4" end_time="12:19" end_spot="NAVY12" rz="1" driveindex="21"></drive>
+  <drive vh="H" team="NAVY" start="FGA,4,12:19,20" end="PUNT,4,09:46,36" plays="4" yards="16" top="2:33" start_how="FGA" start_qtr="4" start_time="12:19" start_spot="NAVY20" end_how="PUNT" end_qtr="4" end_time="09:46" end_spot="NAVY36" driveindex="22"></drive>
+  <drive vh="V" team="ARMY" start="PUNT,4,09:46,28" end="FUMB,4,08:33,66" plays="3" yards="38" top="1:13" start_how="PUNT" start_qtr="4" start_time="09:46" start_spot="ARMY28" end_how="FUMB" end_qtr="4" end_time="08:33" end_spot="NAVY34" driveindex="23"></drive>
+  <drive vh="H" team="NAVY" start="FUMB,4,08:33,34" end="PUNT,4,03:36,59" plays="7" yards="25" top="4:57" start_how="FUMB" start_qtr="4" start_time="08:33" start_spot="NAVY34" end_how="PUNT" end_qtr="4" end_time="03:36" end_spot="ARMY41" driveindex="24"></drive>
+  <drive vh="V" team="ARMY" start="PUNT,4,03:36,20" end="INT,4,03:27,20" plays="1" yards="0" top="0:09" start_how="PUNT" start_qtr="4" start_time="03:36" start_spot="ARMY20" end_how="INT" end_qtr="4" end_time="03:27" end_spot="ARMY20" driveindex="25"></drive>
+  <drive vh="H" team="NAVY" start="INT,4,03:27,56" end="PUNT,4,03:03,59" plays="3" yards="3" top="0:24" start_how="INT" start_qtr="4" start_time="03:27" start_spot="ARMY44" end_how="PUNT" end_qtr="4" end_time="03:03" end_spot="ARMY41" driveindex="26"></drive>
+  <drive vh="V" team="ARMY" start="PUNT,4,03:03,20" end="INT,4,02:03,61" plays="3" yards="41" top="1:00" start_how="PUNT" start_qtr="4" start_time="03:03" start_spot="ARMY20" end_how="INT" end_qtr="4" end_time="02:03" end_spot="NAVY39" driveindex="27"></drive>
+  <drive vh="H" team="NAVY" start="INT,4,02:03,3" end="PUNT,4,00:11,9" plays="3" yards="6" top="1:52" start_how="INT" start_qtr="4" start_time="02:03" start_spot="NAVY03" end_how="PUNT" end_qtr="4" end_time="00:11" end_spot="NAVY09" driveindex="28"></drive>
+  <drive vh="V" team="ARMY" start="PUNT,4,00:11,42" end="HALF,4,00:00,42" plays="2" yards="0" top="0:11" start_how="PUNT" start_qtr="4" start_time="00:11" start_spot="ARMY42" end_how="HALF" end_qtr="4" end_time="00:00" end_spot="ARMY42" driveindex="29"></drive>
+ </drives>
+ <plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY35" context="V,1,10,V35" playid="0,1,0" tokens="CMT:"
+      text="" newcontext="V,1,10,V35">
+   </play>
+   <comment text="Army wins the toss, defers, Army will defend the south goal"></comment>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY35" context="V,1,10,V35" playid="0,2,2" tokens="SPOT:V,V35,N"
+      text="ARMY ball on ARMY35." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY35" context="V,1,10,V35" playid="0,3,3" type="K" tokens="KO:95,H00 TB:"
+      text="Grochowski, D. kickoff 65 yards to the NAVY0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Grochowski, D." gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,15:00" vh="H" spot="H25" clock="15:00" driveindex="1,3"></drivestart>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY25" context="H,1,10,H25" playid="1,1,4" type="P" tokens="PASS:19,C,4,H34 TACK:21"
+      text="REYNOLDS, K pass complete to TILLMAN, Jamir for 9 yards to the NAVY34 (Aukerman, Alex)." newcontext="H,2,1,H34">
+    <p_pa vh="H" qb="REYNOLDS, K" result="COMP" rcv="TILLMAN, Jamir" gain="9"></p_pa>
+    <p_tk vh="V" name="Aukerman, Alex"></p_tk>
+   </play>
+   <play hasball="NAVY" down="2" togo="1" spot="NAVY34" context="H,2,1,H34" playid="1,2,5" type="R" first="R" tokens="RUSH:37,H42, TACK:21,39"
+      text="SWAIN, Chris rush for 8 yards to the NAVY42, 1ST DOWN NAVY (Aukerman, Alex;Timpf, Jeremy)." newcontext="H,1,10,H42">
+    <p_ru vh="H" name="SWAIN, Chris" gain="8"></p_ru>
+    <p_tk vh="V" name="Aukerman, Alex" assist="Y"></p_tk>
+    <p_tk vh="V" name="Timpf, Jeremy" assist="Y"></p_tk>
+   </play>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY42" context="H,1,10,H42" playid="1,3,6" type="R" tokens="RUSH:37,H46, TACK:14,9"
+      text="SWAIN, Chris rush for 4 yards to the NAVY46 (Carnegie, Chris;Moss, Xavier)." newcontext="H,2,6,H46">
+    <p_ru vh="H" name="SWAIN, Chris" gain="4"></p_ru>
+    <p_tk vh="V" name="Carnegie, Chris" assist="Y"></p_tk>
+    <p_tk vh="V" name="Moss, Xavier" assist="Y"></p_tk>
+   </play>
+   <play hasball="NAVY" down="2" togo="6" spot="NAVY46" context="H,2,6,H46" playid="1,4,7" type="P" tokens="PASS:19,C,4,H49 TACK:56"
+      text="REYNOLDS, K pass complete to TILLMAN, Jamir for 3 yards to the NAVY49 (Brinson, K.)." newcontext="H,3,3,H49">
+    <p_pa vh="H" qb="REYNOLDS, K" result="COMP" rcv="TILLMAN, Jamir" gain="3"></p_pa>
+    <p_tk vh="V" name="Brinson, K."></p_tk>
+   </play>
+   <play hasball="NAVY" down="3" togo="3" spot="NAVY49" context="H,3,3,H49" playid="1,5,8" type="R" tokens="RUSH:28,H47, TACK:39"
+      text="ROMINE, Dishan rush for loss of 2 yards to the NAVY47 (Timpf, Jeremy)." newcontext="H,4,5,H47">
+    <p_ru vh="H" name="ROMINE, Dishan" gain="-2"></p_ru>
+    <p_tk vh="V" name="Timpf, Jeremy"></p_tk>
+   </play>
+   <play hasball="NAVY" down="4" togo="5" spot="NAVY47" context="H,4,5,H47" playid="1,6,9" type="U" tokens="PUNT:80,V10 RET:82,H40 TACK:24"
+      text="BARTA, Alex punt 43 yards to the ARMY10, Poe, Edgar return 50 yards to the NAVY40 (WALKER, Joshua)." newcontext="V,1,10,H40">
+    <p_pu vh="H" name="BARTA, Alex" gain="43"></p_pu>
+    <p_pr vh="V" name="Poe, Edgar" gain="50"></p_pr>
+    <p_tk vh="H" name="WALKER, Joshua"></p_tk>
+   </play>
+   <drivesum plays="5" yards="22" top="3:16" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="V,H40,11:44" vh="V" spot="H40" clock="11:44" driveindex="2,9"></drivestart>
+   <play hasball="ARMY" down="1" togo="10" spot="NAVY40" context="V,1,10,H40" playid="2,1,10" clock="11:44" tokens="{DRIVE}:11:44"
+      text="ARMY WEST POINT drive start at 11:44." newcontext="V,1,10,H40">
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="NAVY40" context="V,1,10,H40" playid="2,2,11" type="R" tokens="RUSH:7,H33, TACK:2 PEN:V,PF,A,74,H48,N"
+      text="Carter, Chris rush for 7 yards to the NAVY33 (BARBOUR, L), PENALTY ARMY personal foul (Villegas, Jaryn) 15 yards to the NAVY48." newcontext="V,1,18,H48">
+    <p_ru vh="V" name="Carter, Chris" gain="7"></p_ru>
+    <p_tk vh="H" name="BARBOUR, L"></p_tk>
+    <p_pn vh="V" code="PF" type="personal foul" name="Villegas, Jaryn" result="ACCEPT" at="H33" yards="15"></p_pn>
+   </play>
+   <play hasball="ARMY" down="1" togo="18" spot="NAVY48" context="V,1,18,H48" playid="2,3,12" tokens="D:2,18"
+      text="2nd and 18." newcontext="V,2,18,H48">
+   </play>
+   <play hasball="ARMY" down="2" togo="18" spot="NAVY48" context="V,2,18,H48" playid="2,4,13" type="R" tokens="RUSH:7,V50, FUMB:V,V50,7"
+      text="Carter, Chris rush for loss of 2 yards to the 50 yardline, fumble by Carter, Chris recovered by ARMY Carter, Chris at 50 yardline." newcontext="V,3,20,V50">
+    <p_ru vh="V" name="Carter, Chris" gain="-2"></p_ru>
+    <p_fumb vh="V" name="Carter, Chris" at="V50" frvh="V" frname="Carter, Chris"></p_fumb>
+   </play>
+   <play hasball="ARMY" down="3" togo="20" spot="ARMY50" context="V,3,20,V50" playid="2,5,14" type="P" first="P" tokens="PASS:7,C,82,H19 TACK:2"
+      text="Carter, Chris pass complete to Poe, Edgar for 31 yards to the NAVY19, 1ST DOWN ARMY (BARBOUR, L)." newcontext="V,1,10,H19">
+    <p_pa vh="V" qb="Carter, Chris" result="COMP" rcv="Poe, Edgar" gain="31"></p_pa>
+    <p_tk vh="H" name="BARBOUR, L"></p_tk>
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="NAVY19" context="V,1,10,H19" playid="2,6,15" type="R" tokens="RUSH:7,H17, TACK:90"
+      text="Carter, Chris rush for 2 yards to the NAVY17 (ANTHONY, Will)." newcontext="V,2,8,H17">
+    <p_ru vh="V" name="Carter, Chris" gain="2"></p_ru>
+    <p_tk vh="H" name="ANTHONY, Will"></p_tk>
+   </play>
+   <play hasball="ARMY" down="2" togo="8" spot="NAVY17" context="V,2,8,H17" playid="2,7,16" type="R" tokens="RUSH:25,H14, TACK:44,77"
+      text="Kemper, Aaron rush for 3 yards to the NAVY14 (THOMAS, Micah;SARRA, Bernard)." newcontext="V,3,5,H14">
+    <p_ru vh="V" name="Kemper, Aaron" gain="3"></p_ru>
+    <p_tk vh="H" name="THOMAS, Micah" assist="Y"></p_tk>
+    <p_tk vh="H" name="SARRA, Bernard" assist="Y"></p_tk>
+   </play>
+   <play hasball="ARMY" down="3" togo="5" spot="NAVY14" context="V,3,5,H14" playid="2,8,17" type="P" tokens="PASS:7,I,2,* BRUP:26"
+      text="Carter, Chris pass incomplete to White, Kelvin (THOMASSON, D)." newcontext="V,4,5,H14">
+    <p_pa vh="V" qb="Carter, Chris" result="INC" rcv="White, Kelvin"></p_pa>
+    <p_bu vh="H" name="THOMASSON, D"></p_bu>
+   </play>
+   <play hasball="ARMY" down="4" togo="5" spot="NAVY14" context="V,4,5,H14" playid="2,9,18" type="F" score="Y" vscore="3" hscore="0" clock="08:31" tokens="FGA:95,32,G T:08:31"
+      text="Grochowski, D. field goal attempt from 32 GOOD, clock 08:31." newcontext="V,1,0,V35">
+    <p_fg vh="V" name="Grochowski, D." distance="32" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="3" H="0"></score>
+   <drivesum plays="7" yards="26" top="3:13" driveindex="2" complete="Y"></drivesum>
+   <play hasball="ARMY" down="1" togo="0" spot="ARMY35" context="V,1,0,V35" playid="2,10,19" type="K" tokens="KO:95,H00 TB:"
+      text="Grochowski, D. kickoff 65 yards to the NAVY0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Grochowski, D." gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,08:31" vh="H" spot="H25" clock="08:31" driveindex="3,19"></drivestart>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY25" context="H,1,10,H25" playid="3,1,20" clock="08:31" tokens="{DRIVE}:08:31"
+      text="NAVY drive start at 08:31." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY25" context="H,1,10,H25" playid="3,2,21" type="R" first="R" tokens="RUSH:19,H42, TACK:28"
+      text="REYNOLDS, K rush for 17 yards to the NAVY42, 1ST DOWN NAVY (Jackson, B.)." newcontext="H,1,10,H42">
+    <p_ru vh="H" name="REYNOLDS, K" gain="17"></p_ru>
+    <p_tk vh="V" name="Jackson, B."></p_tk>
+   </play>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY42" context="H,1,10,H42" playid="3,3,22" type="R" first="R" score="Y" vscore="3" hscore="6" clock="07:58" tokens="RUSH:19,V00, T:07:58"
+      text="REYNOLDS, K rush for 58 yards to the ARMY0, 1ST DOWN NAVY, TOUCHDOWN, clock 07:58." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="REYNOLDS, K" gain="58"></p_ru>
+   </play>
+   <play hasball="NAVY" down="1" togo="0" spot="ARMY03" context="H,1,0,V03" playid="3,4,23" type="X" score="Y" vscore="3" hscore="7" tokens="PAT:K,43,G"
+      text="GREBE, Austin kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="GREBE, Austin" qb="GREBE, Austin" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="3" H="7"></score>
+   <drivesum plays="2" yards="75" top="0:33" driveindex="3" complete="Y"></drivesum>
+   <play hasball="NAVY" down="1" togo="0" spot="NAVY35" context="H,1,0,H35" playid="3,5,24" type="K" tokens="KO:43,V01 RET:1,V18 TACK:58"
+      text="GREBE, Austin kickoff 64 yards to the ARMY1, Hyatt, Marcus return 17 yards to the ARMY18 (GONZALES, D)." newcontext="V,1,10,V18">
+    <p_ko vh="H" name="GREBE, Austin" gain="64"></p_ko>
+    <p_kr vh="V" name="Hyatt, Marcus" gain="17"></p_kr>
+    <p_tk vh="H" name="GONZALES, D"></p_tk>
+   </play>
+   <drivestart poss="V,V18,07:53" vh="V" spot="V18" clock="07:53" driveindex="4,24"></drivestart>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY18" context="V,1,10,V18" playid="4,1,25" clock="07:53" tokens="{DRIVE}:07:53"
+      text="ARMY WEST POINT drive start at 07:53." newcontext="V,1,10,V18">
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY18" context="V,1,10,V18" playid="4,2,26" type="R" tokens="RUSH:25,V22, TACK:90"
+      text="Kemper, Aaron rush for 4 yards to the ARMY22 (ANTHONY, Will)." newcontext="V,2,6,V22">
+    <p_ru vh="V" name="Kemper, Aaron" gain="4"></p_ru>
+    <p_tk vh="H" name="ANTHONY, Will"></p_tk>
+   </play>
+   <play hasball="ARMY" down="2" togo="6" spot="ARMY22" context="V,2,6,V22" playid="4,3,27" type="R" first="R" tokens="RUSH:2F,V31, TACK:26"
+      text="Black, Nicholas rush for 9 yards to the ARMY31, 1ST DOWN ARMY (THOMASSON, D)." newcontext="V,1,10,V31">
+    <p_ru vh="V" name="Black, Nicholas" gain="9"></p_ru>
+    <p_tk vh="H" name="THOMASSON, D"></p_tk>
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY31" context="V,1,10,V31" playid="4,4,28" type="R" tokens="RUSH:40,V33, TACK:55"
+      text="Giachinta, Matt rush for 2 yards to the ARMY33 (COLBURN, Ted)." newcontext="V,2,8,V33">
+    <p_ru vh="V" name="Giachinta, Matt" gain="2"></p_ru>
+    <p_tk vh="H" name="COLBURN, Ted"></p_tk>
+   </play>
+   <play hasball="ARMY" down="2" togo="8" spot="ARMY33" context="V,2,8,V33" playid="4,5,29" type="R" tokens="RUSH:3E,V38, TACK:45"
+      text="Asberry, Jordan rush for 5 yards to the ARMY38 (PALMORE, D.J.)." newcontext="V,3,3,V38">
+    <p_ru vh="V" name="Asberry, Jordan" gain="5"></p_ru>
+    <p_tk vh="H" name="PALMORE, D.J."></p_tk>
+   </play>
+   <play hasball="ARMY" down="3" togo="3" spot="ARMY38" context="V,3,3,V38" playid="4,6,30" type="R" first="R" tokens="RUSH:7,V43, TACK:44,2"
+      text="Carter, Chris rush for 5 yards to the ARMY43, 1ST DOWN ARMY (THOMAS, Micah;BARBOUR, L)." newcontext="V,1,10,V43">
+    <p_ru vh="V" name="Carter, Chris" gain="5"></p_ru>
+    <p_tk vh="H" name="THOMAS, Micah" assist="Y"></p_tk>
+    <p_tk vh="H" name="BARBOUR, L" assist="Y"></p_tk>
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY43" context="V,1,10,V43" playid="4,7,31" type="P" first="P" tokens="PASS:7,C,82,H44 OB: TACK:1 PEN:H,PF,A,52,H29,N"
+      text="Carter, Chris pass complete to Poe, Edgar for 13 yards to the NAVY44, 1ST DOWN ARMY, out-of-bounds (CLEMENTS, B), PENALTY NAVY personal foul (MASON, Amos) 15 yards to the NAVY29, 1ST DOWN ARMY." ob="Y" newcontext="V,1,10,H29">
+    <p_pa vh="V" qb="Carter, Chris" result="COMP" rcv="Poe, Edgar" gain="13"></p_pa>
+    <p_tk vh="H" name="CLEMENTS, B"></p_tk>
+    <p_pn vh="H" code="PF" type="personal foul" name="MASON, Amos" result="ACCEPT" at="H44" yards="15"></p_pn>
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="NAVY29" context="V,1,10,H29" playid="4,8,32" tokens="D:1,10"
+      text="1st and 10." newcontext="V,1,10,H29">
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="NAVY29" context="V,1,10,H29" playid="4,9,33" type="R" first="R" score="Y" vscore="9" hscore="7" clock="04:10" tokens="RUSH:33,H00, T:04:10"
+      text="Campbell, Tyler rush for 29 yards to the NAVY0, 1ST DOWN ARMY, TOUCHDOWN, clock 04:10." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Campbell, Tyler" gain="29"></p_ru>
+   </play>
+   <play hasball="ARMY" down="1" togo="0" spot="NAVY03" context="V,1,0,H03" playid="4,10,34" type="X" score="Y" vscore="10" hscore="7" tokens="PAT:K,95,G"
+      text="Grochowski, D. kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Grochowski, D." qb="Grochowski, D." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="10" H="7"></score>
+   <drivesum plays="7" yards="82" top="3:43" driveindex="4" complete="Y"></drivesum>
+   <play hasball="ARMY" down="1" togo="0" spot="ARMY35" context="V,1,0,V35" playid="4,11,35" type="K" tokens="KO:95,H00 TB:"
+      text="Grochowski, D. kickoff 65 yards to the NAVY0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Grochowski, D." gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,04:10" vh="H" spot="H25" clock="04:10" driveindex="5,35"></drivestart>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY25" context="H,1,10,H25" playid="5,1,36" clock="04:10" tokens="{DRIVE}:04:10"
+      text="NAVY drive start at 04:10." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY25" context="H,1,10,H25" playid="5,2,37" type="P" first="P" tokens="PASS:19,C,4,V40 PEN:V,PI,D"
+      text="REYNOLDS, K pass complete to TILLMAN, Jamir for 35 yards to the ARMY40, 1ST DOWN NAVY, PENALTY ARMY pass interference declined." newcontext="H,1,10,V40">
+    <p_pa vh="H" qb="REYNOLDS, K" result="COMP" rcv="TILLMAN, Jamir" gain="35"></p_pa>
+    <p_pn vh="V" code="PI" type="pass interference" name="Kaufmann, M." result="DECLINE"></p_pn>
+   </play>
+   <play hasball="NAVY" down="1" togo="10" spot="ARMY40" context="H,1,10,V40" playid="5,3,38" type="R" tokens="RUSH:19,V41, TACK:93"
+      text="REYNOLDS, K rush for loss of 1 yard to the ARMY41 (Atimalala, T.J.)." newcontext="H,2,11,V41">
+    <p_ru vh="H" name="REYNOLDS, K" gain="-1"></p_ru>
+    <p_tk vh="V" name="Atimalala, T.J."></p_tk>
+   </play>
+   <play hasball="NAVY" down="2" togo="11" spot="ARMY41" context="H,2,11,V41" playid="5,4,39" type="P" tokens="PASS:19,C,4,V36 TACK:28"
+      text="REYNOLDS, K pass complete to TILLMAN, Jamir for 5 yards to the ARMY36 (Jackson, B.)." newcontext="H,3,6,V36">
+    <p_pa vh="H" qb="REYNOLDS, K" result="COMP" rcv="TILLMAN, Jamir" gain="5"></p_pa>
+    <p_tk vh="V" name="Jackson, B."></p_tk>
+   </play>
+   <play hasball="NAVY" down="3" togo="6" spot="ARMY36" context="H,3,6,V36" playid="5,5,40" type="R" tokens="RUSH:19,V38, TACK:11"
+      text="REYNOLDS, K rush for loss of 2 yards to the ARMY38 (King, Andrew)." newcontext="H,4,8,V38">
+    <p_ru vh="H" name="REYNOLDS, K" gain="-2"></p_ru>
+    <p_tk vh="V" name="King, Andrew"></p_tk>
+   </play>
+   <play hasball="NAVY" down="4" togo="8" spot="ARMY38" context="H,4,8,V38" playid="5,6,41" type="U" tokens="PUNT:80,V06 DN:"
+      text="BARTA, Alex punt 32 yards to the ARMY6, downed." newcontext="V,1,10,V06">
+    <p_pu vh="H" name="BARTA, Alex" gain="32" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="4" yards="37" top="1:52" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="V,V06,02:18" vh="V" spot="V06" clock="02:18" driveindex="6,41"></drivestart>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY06" context="V,1,10,V06" playid="6,1,42" clock="02:18" tokens="{DRIVE}:02:18"
+      text="ARMY WEST POINT drive start at 02:18." newcontext="V,1,10,V06">
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY06" context="V,1,10,V06" playid="6,2,43" type="R" tokens="RUSH:7,V08, TACK:1"
+      text="Carter, Chris rush for 2 yards to the ARMY8 (CLEMENTS, B)." newcontext="V,2,8,V08">
+    <p_ru vh="V" name="Carter, Chris" gain="2"></p_ru>
+    <p_tk vh="H" name="CLEMENTS, B"></p_tk>
+   </play>
+   <play hasball="ARMY" down="2" togo="8" spot="ARMY08" context="V,2,8,V08" playid="6,3,44" type="R" tokens="RUSH:7,V10, TACK:90"
+      text="Carter, Chris rush for 2 yards to the ARMY10 (ANTHONY, Will)." newcontext="V,3,6,V10">
+    <p_ru vh="V" name="Carter, Chris" gain="2"></p_ru>
+    <p_tk vh="H" name="ANTHONY, Will"></p_tk>
+   </play>
+   <play hasball="ARMY" down="3" togo="6" spot="ARMY10" context="V,3,6,V10" playid="6,4,45" type="P" tokens="PASS:7,I,82,*"
+      text="Carter, Chris pass incomplete to Poe, Edgar." newcontext="V,4,6,V10">
+    <p_pa vh="V" qb="Carter, Chris" result="INC" rcv="Poe, Edgar"></p_pa>
+   </play>
+   <play hasball="ARMY" down="4" togo="6" spot="ARMY10" context="V,4,6,V10" playid="6,5,46" type="U" tokens="PUNT:80,V50 FC:20"
+      text="Tardieu, Alex punt 40 yards to the 50 yardline, fair catch by CASS Jr., C." newcontext="H,1,10,H50">
+    <p_pu vh="V" name="Tardieu, Alex" gain="40" fc="CASS Jr., C"></p_pu>
+   </play>
+   <drivesum plays="3" yards="4" top="1:33" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="H,H50,00:45" vh="H" spot="H50" clock="00:45" driveindex="7,46"></drivestart>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY50" context="H,1,10,H50" playid="7,1,47" clock="00:45" tokens="{DRIVE}:00:45"
+      text="NAVY drive start at 00:45." newcontext="H,1,10,H50">
+   </play>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY50" context="H,1,10,H50" playid="7,2,48" type="R" tokens="RUSH:19,V45, TACK:11,57"
+      text="REYNOLDS, K rush for 5 yards to the ARMY45 (King, Andrew;Smith, Jordan)." newcontext="H,2,5,V45">
+    <p_ru vh="H" name="REYNOLDS, K" gain="5"></p_ru>
+    <p_tk vh="V" name="King, Andrew" assist="Y"></p_tk>
+    <p_tk vh="V" name="Smith, Jordan" assist="Y"></p_tk>
+   </play>
+   <play hasball="NAVY" down="2" togo="5" spot="ARMY45" context="H,2,5,V45" playid="7,3,49" type="R" tokens="RUSH:19,V42, TACK:57"
+      text="REYNOLDS, K rush for 3 yards to the ARMY42 (Smith, Jordan)." newcontext="H,3,2,V42">
+    <p_ru vh="H" name="REYNOLDS, K" gain="3"></p_ru>
+    <p_tk vh="V" name="Smith, Jordan"></p_tk>
+   </play>
+   <score qtr="1" V="10" H="7"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="ARMY">
+    <firstdowns no="6" rush="3" pass="2" penalty="1"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="08:34"></misc>
+    <rush att="12" yds="68" gain="70" loss="2" td="1" long="29"></rush>
+    <pass comp="2" att="4" int="0" yds="44" td="0" long="31" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="44" td="0" long="31"></rcv>
+    <punt no="1" yds="40" long="40" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="40.0"></punt>
+    <ko no="3" yds="195" ob="0" tb="3"></ko>
+    <fg made="1" att="1" long="32" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="8" tacka="6" tot_tack="14" tflua="3" tfla="0" tflyds="5" sacks="0" sackyds="0"></defense>
+    <kr no="1" yds="17" td="0" long="17"></kr>
+    <pr no="1" yds="50" td="0" long="50"></pr>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="NAVY">
+    <firstdowns no="4" rush="3" pass="1" penalty="0"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:26"></misc>
+    <rush att="9" yds="90" gain="95" loss="5" td="1" long="58"></rush>
+    <pass comp="4" att="4" int="0" yds="52" td="0" long="35" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="52" td="0" long="35"></rcv>
+    <punt no="2" yds="75" long="43" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="37.5"></punt>
+    <ko no="1" yds="64" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="12" tacka="4" tot_tack="16" sacks="0" sackyds="0" brup="1"></defense>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="NAVY" down="3" togo="2" spot="ARMY42" context="H,3,2,V42" playid="7,4,50" type="#" clock="15:00" tokens="Q:2 T:15:00"
+      text="Start of 2nd quarter, clock 15:00." newcontext="H,3,2,V42">
+   </play>
+   <play hasball="NAVY" down="3" togo="2" spot="ARMY42" context="H,3,2,V42" playid="7,5,51" type="R" first="R" tokens="RUSH:37,V39, TACK:93,39"
+      text="SWAIN, Chris rush for 3 yards to the ARMY39, 1ST DOWN NAVY (Atimalala, T.J.;Timpf, Jeremy)." newcontext="H,1,10,V39">
+    <p_ru vh="H" name="SWAIN, Chris" gain="3"></p_ru>
+    <p_tk vh="V" name="Atimalala, T.J." assist="Y"></p_tk>
+    <p_tk vh="V" name="Timpf, Jeremy" assist="Y"></p_tk>
+   </play>
+   <play hasball="NAVY" down="1" togo="10" spot="ARMY39" context="H,1,10,V39" playid="7,6,52" type="R" first="R" tokens="RUSH:19,V04, OB: TACK:9"
+      text="REYNOLDS, K rush for 35 yards to the ARMY4, 1ST DOWN NAVY, out-of-bounds (Moss, Xavier)." ob="Y" newcontext="H,1,0,V04">
+    <p_ru vh="H" name="REYNOLDS, K" gain="35"></p_ru>
+    <p_tk vh="V" name="Moss, Xavier"></p_tk>
+   </play>
+   <play hasball="NAVY" down="1" togo="0" spot="ARMY04" context="H,1,0,V04" playid="7,7,53" type="R" tokens="RUSH:37,V03, TACK:57,39"
+      text="SWAIN, Chris rush for 1 yard to the ARMY3 (Smith, Jordan;Timpf, Jeremy)." newcontext="H,2,0,V03">
+    <p_ru vh="H" name="SWAIN, Chris" gain="1"></p_ru>
+    <p_tk vh="V" name="Smith, Jordan" assist="Y"></p_tk>
+    <p_tk vh="V" name="Timpf, Jeremy" assist="Y"></p_tk>
+   </play>
+   <play hasball="NAVY" down="2" togo="0" spot="ARMY03" context="H,2,0,V03" playid="7,8,54" type="R" tokens="RUSH:37,V01, TACK:56,93"
+      text="SWAIN, Chris rush for 2 yards to the ARMY1 (Brinson, K.;Atimalala, T.J.)." newcontext="H,3,0,V01">
+    <p_ru vh="H" name="SWAIN, Chris" gain="2"></p_ru>
+    <p_tk vh="V" name="Brinson, K." assist="Y"></p_tk>
+    <p_tk vh="V" name="Atimalala, T.J." assist="Y"></p_tk>
+   </play>
+   <play hasball="NAVY" down="3" togo="0" spot="ARMY01" context="H,3,0,V01" playid="7,9,55" type="R" score="Y" vscore="10" hscore="13" clock="12:18" tokens="RUSH:19,V00, T:12:18"
+      text="REYNOLDS, K rush for 1 yard to the ARMY0, TOUCHDOWN, clock 12:18." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="REYNOLDS, K" gain="1"></p_ru>
+   </play>
+   <play hasball="NAVY" down="1" togo="0" spot="ARMY03" context="H,1,0,V03" playid="7,10,56" type="E" tokens="PEN:H,FS,A,71,V08,N"
+      text="PENALTY NAVY false start (MARTIN, Evan) 5 yards to the ARMY8." newcontext="H,1,0,V08">
+    <p_pn vh="H" code="FS" type="false start" name="MARTIN, Evan" result="ACCEPT" at="V03" yards="5"></p_pn>
+   </play>
+   <play hasball="NAVY" down="1" togo="0" spot="ARMY08" context="H,1,0,V08" playid="7,11,57" type="X" score="Y" vscore="10" hscore="14" tokens="PAT:K,43,G"
+      text="GREBE, Austin kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="GREBE, Austin" qb="GREBE, Austin" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="10" H="14"></score>
+   <drivesum plays="7" yards="50" top="3:27" driveindex="7" complete="Y"></drivesum>
+   <play hasball="NAVY" down="1" togo="0" spot="NAVY35" context="H,1,0,H35" playid="7,12,58" type="K" tokens="KO:43,V00 TB:"
+      text="GREBE, Austin kickoff 65 yards to the ARMY0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="GREBE, Austin" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,12:18" vh="V" spot="V25" clock="12:18" driveindex="8,58"></drivestart>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY25" context="V,1,10,V25" playid="8,1,59" clock="12:18" tokens="{DRIVE}:12:18"
+      text="ARMY WEST POINT drive start at 12:18." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY25" context="V,1,10,V25" playid="8,2,60" type="R" tokens="RUSH:25,V30, TACK:52,55"
+      text="Kemper, Aaron rush for 5 yards to the ARMY30 (MASON, Amos;COLBURN, Ted)." newcontext="V,2,5,V30">
+    <p_ru vh="V" name="Kemper, Aaron" gain="5"></p_ru>
+    <p_tk vh="H" name="MASON, Amos" assist="Y"></p_tk>
+    <p_tk vh="H" name="COLBURN, Ted" assist="Y"></p_tk>
+   </play>
+   <play hasball="ARMY" down="2" togo="5" spot="ARMY30" context="V,2,5,V30" playid="8,3,61" type="R" tokens="RUSH:3E,V29, TACK:58"
+      text="Asberry, Jordan rush for loss of 1 yard to the ARMY29 (GONZALES, D)." newcontext="V,3,6,V29">
+    <p_ru vh="V" name="Asberry, Jordan" gain="-1"></p_ru>
+    <p_tk vh="H" name="GONZALES, D"></p_tk>
+   </play>
+   <play hasball="ARMY" down="3" togo="6" spot="ARMY29" context="V,3,6,V29" playid="8,4,62" type="R" first="R" tokens="RUSH:7,V39, TACK:5"
+      text="Carter, Chris rush for 10 yards to the ARMY39, 1ST DOWN ARMY (ADAMS, Quincy)." newcontext="V,1,10,V39">
+    <p_ru vh="V" name="Carter, Chris" gain="10"></p_ru>
+    <p_tk vh="H" name="ADAMS, Quincy"></p_tk>
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY39" context="V,1,10,V39" playid="8,5,63" type="R" tokens="RUSH:25,V40, TACK:90,52"
+      text="Kemper, Aaron rush for 1 yard to the ARMY40 (ANTHONY, Will;MASON, Amos)." newcontext="V,2,9,V40">
+    <p_ru vh="V" name="Kemper, Aaron" gain="1"></p_ru>
+    <p_tk vh="H" name="ANTHONY, Will" assist="Y"></p_tk>
+    <p_tk vh="H" name="MASON, Amos" assist="Y"></p_tk>
+   </play>
+   <play hasball="ARMY" down="2" togo="9" spot="ARMY40" context="V,2,9,V40" playid="8,6,64" type="R" tokens="RUSH:3E,V47, TACK:26"
+      text="Asberry, Jordan rush for 7 yards to the ARMY47 (THOMASSON, D)." newcontext="V,3,2,V47">
+    <p_ru vh="V" name="Asberry, Jordan" gain="7"></p_ru>
+    <p_tk vh="H" name="THOMASSON, D"></p_tk>
+   </play>
+   <play hasball="ARMY" down="3" togo="2" spot="ARMY47" context="V,3,2,V47" playid="8,7,65" type="#" clock="08:49" tokens="TOUT:V T:08:49"
+      text="Timeout Army West Point, clock 08:49." newcontext="V,3,2,V47">
+    <p_to vh="V" team="Army West Point"></p_to>
+   </play>
+   <play hasball="ARMY" down="3" togo="2" spot="ARMY47" context="V,3,2,V47" playid="8,8,66" type="R" first="R" tokens="RUSH:7,H46, TACK:5"
+      text="Carter, Chris rush for 7 yards to the NAVY46, 1ST DOWN ARMY (ADAMS, Quincy)." newcontext="V,1,10,H46">
+    <p_ru vh="V" name="Carter, Chris" gain="7"></p_ru>
+    <p_tk vh="H" name="ADAMS, Quincy"></p_tk>
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="NAVY46" context="V,1,10,H46" playid="8,9,67" type="P" tokens="PASS:7,I,82,* BRUP:1"
+      text="Carter, Chris pass incomplete to Poe, Edgar (CLEMENTS, B)." newcontext="V,2,10,H46">
+    <p_pa vh="V" qb="Carter, Chris" result="INC" rcv="Poe, Edgar"></p_pa>
+    <p_bu vh="H" name="CLEMENTS, B"></p_bu>
+   </play>
+   <play hasball="ARMY" down="2" togo="10" spot="NAVY46" context="V,2,10,H46" playid="8,10,68" type="R" tokens="RUSH:33,H44, TACK:58"
+      text="Campbell, Tyler rush for 2 yards to the NAVY44 (GONZALES, D)." newcontext="V,3,8,H44">
+    <p_ru vh="V" name="Campbell, Tyler" gain="2"></p_ru>
+    <p_tk vh="H" name="GONZALES, D"></p_tk>
+   </play>
+   <play hasball="ARMY" down="3" togo="8" spot="NAVY44" context="V,3,8,H44" playid="8,11,69" type="P" first="P" tokens="PASS:7,C,82,H36 TACK:5"
+      text="Carter, Chris pass complete to Poe, Edgar for 8 yards to the NAVY36, 1ST DOWN ARMY (ADAMS, Quincy)." newcontext="V,1,10,H36">
+    <p_pa vh="V" qb="Carter, Chris" result="COMP" rcv="Poe, Edgar" gain="8"></p_pa>
+    <p_tk vh="H" name="ADAMS, Quincy"></p_tk>
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="NAVY36" context="V,1,10,H36" playid="8,12,70" type="R" tokens="RUSH:38,H32, OB: TACK:26"
+      text="Drake, C. rush for 4 yards to the NAVY32, out-of-bounds (THOMASSON, D)." ob="Y" newcontext="V,2,6,H32">
+    <p_ru vh="V" name="Drake, C." gain="4"></p_ru>
+    <p_tk vh="H" name="THOMASSON, D"></p_tk>
+   </play>
+   <play hasball="ARMY" down="2" togo="6" spot="NAVY32" context="V,2,6,H32" playid="8,13,71" type="R" tokens="RUSH:2F,H35, TACK:58,2"
+      text="Black, Nicholas rush for loss of 3 yards to the NAVY35 (GONZALES, D;BARBOUR, L)." newcontext="V,3,9,H35">
+    <p_ru vh="V" name="Black, Nicholas" gain="-3"></p_ru>
+    <p_tk vh="H" name="GONZALES, D" assist="Y"></p_tk>
+    <p_tk vh="H" name="BARBOUR, L" assist="Y"></p_tk>
+   </play>
+   <play hasball="ARMY" down="3" togo="9" spot="NAVY35" context="V,3,9,H35" playid="8,14,72" type="R" tokens="RUSH:7,H37, TACK:48"
+      text="Carter, Chris rush for loss of 2 yards to the NAVY37 (POWELL, Josiah)." newcontext="V,4,11,H37">
+    <p_ru vh="V" name="Carter, Chris" gain="-2"></p_ru>
+    <p_tk vh="H" name="POWELL, Josiah"></p_tk>
+   </play>
+   <play hasball="ARMY" down="4" togo="11" spot="NAVY37" context="V,4,11,H37" playid="8,15,73" type="U" tokens="PUNT:80,H00 TB:"
+      text="Tardieu, Alex punt 37 yards to the NAVY0, touchback." newcontext="H,1,10,H20">
+    <p_pu vh="V" name="Tardieu, Alex" gain="37" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="12" yards="38" top="7:54" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="H,H20,04:24" vh="H" spot="H20" clock="04:24" driveindex="9,73"></drivestart>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY20" context="H,1,10,H20" playid="9,1,74" clock="04:24" tokens="{DRIVE}:04:24"
+      text="NAVY drive start at 04:24." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY20" context="H,1,10,H20" playid="9,2,75" type="R" tokens="RUSH:TM,H16, FUMB:H,H16,21"
+      text="TEAM rush for loss of 4 yards to the NAVY16, fumble by TEAM recovered by NAVY SANDERS, D at NAVY16." newcontext="H,2,14,H16">
+    <p_ru vh="H" name="TEAM" gain="-4"></p_ru>
+    <p_fumb vh="H" name="TEAM" at="H16" frvh="H" frname="SANDERS, D"></p_fumb>
+   </play>
+   <play hasball="NAVY" down="2" togo="14" spot="NAVY16" context="H,2,14,H16" playid="9,3,76" type="R" tokens="RUSH:19,H14, TACK:59"
+      text="REYNOLDS, K rush for loss of 2 yards to the NAVY14 (Voit, John)." newcontext="H,3,16,H14">
+    <p_ru vh="H" name="REYNOLDS, K" gain="-2"></p_ru>
+    <p_tk vh="V" name="Voit, John"></p_tk>
+   </play>
+   <play hasball="NAVY" down="3" togo="16" spot="NAVY14" context="H,3,16,H14" playid="9,4,77" type="P" tokens="PASS:19,I,4,* BRUP:28"
+      text="REYNOLDS, K pass incomplete to TILLMAN, Jamir (Jackson, B.)." newcontext="H,4,16,H14">
+    <p_pa vh="H" qb="REYNOLDS, K" result="INC" rcv="TILLMAN, Jamir"></p_pa>
+    <p_bu vh="V" name="Jackson, B."></p_bu>
+   </play>
+   <play hasball="NAVY" down="4" togo="16" spot="NAVY14" context="H,4,16,H14" playid="9,5,78" type="U" tokens="PUNT:80,V44 RET:82,V46 TACK:24"
+      text="BARTA, Alex punt 42 yards to the ARMY44, Poe, Edgar return 2 yards to the ARMY46 (WALKER, Joshua)." newcontext="V,1,10,V46">
+    <p_pu vh="H" name="BARTA, Alex" gain="42"></p_pu>
+    <p_pr vh="V" name="Poe, Edgar" gain="2"></p_pr>
+    <p_tk vh="H" name="WALKER, Joshua"></p_tk>
+   </play>
+   <drivesum plays="3" yards="-6" top="1:36" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="V,V46,02:48" vh="V" spot="V46" clock="02:48" driveindex="10,78"></drivestart>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY46" context="V,1,10,V46" playid="10,1,79" clock="02:48" tokens="{DRIVE}:02:48"
+      text="ARMY WEST POINT drive start at 02:48." newcontext="V,1,10,V46">
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY46" context="V,1,10,V46" playid="10,2,80" type="R" first="R" tokens="RUSH:38,H39, TACK:48"
+      text="Drake, C. rush for 15 yards to the NAVY39, 1ST DOWN ARMY (POWELL, Josiah)." newcontext="V,1,10,H39">
+    <p_ru vh="V" name="Drake, C." gain="15"></p_ru>
+    <p_tk vh="H" name="POWELL, Josiah"></p_tk>
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="NAVY39" context="V,1,10,H39" playid="10,3,81" type="P" first="P" score="Y" vscore="16" hscore="14" clock="02:08" tokens="PASS:7,C,82,H00 T:02:08"
+      text="Carter, Chris pass complete to Poe, Edgar for 39 yards to the NAVY0, 1ST DOWN ARMY, TOUCHDOWN, clock 02:08." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Carter, Chris" result="COMP" rcv="Poe, Edgar" gain="39"></p_pa>
+   </play>
+   <play hasball="ARMY" down="1" togo="0" spot="NAVY03" context="V,1,0,H03" playid="10,4,82" type="X" score="Y" vscore="17" hscore="14" tokens="PAT:K,95,G"
+      text="Grochowski, D. kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Grochowski, D." qb="Grochowski, D." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="17" H="14"></score>
+   <drivesum plays="2" yards="54" top="0:40" driveindex="10" complete="Y"></drivesum>
+   <play hasball="ARMY" down="1" togo="0" spot="ARMY35" context="V,1,0,V35" playid="10,5,83" type="K" tokens="KO:95,H00 RET:28,H42 TACK:51"
+      text="Grochowski, D. kickoff 65 yards to the NAVY0, ROMINE, Dishan return 42 yards to the NAVY42 (Fahn, Justin)." newcontext="H,1,10,H42">
+    <p_ko vh="V" name="Grochowski, D." gain="65"></p_ko>
+    <p_kr vh="H" name="ROMINE, Dishan" gain="42"></p_kr>
+    <p_tk vh="V" name="Fahn, Justin"></p_tk>
+   </play>
+   <drivestart poss="H,H42,01:59" vh="H" spot="H42" clock="01:59" driveindex="11,83"></drivestart>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY42" context="H,1,10,H42" playid="11,1,84" clock="01:59" tokens="{DRIVE}:01:59"
+      text="NAVY drive start at 01:59." newcontext="H,1,10,H42">
+   </play>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY42" context="H,1,10,H42" playid="11,2,85" type="R" tokens="RUSH:37,H47, TACK:39"
+      text="SWAIN, Chris rush for 5 yards to the NAVY47 (Timpf, Jeremy)." newcontext="H,2,5,H47">
+    <p_ru vh="H" name="SWAIN, Chris" gain="5"></p_ru>
+    <p_tk vh="V" name="Timpf, Jeremy"></p_tk>
+   </play>
+   <play hasball="NAVY" down="2" togo="5" spot="NAVY47" context="H,2,5,H47" playid="11,3,86" type="P" tokens="PASS:19,I,4,*"
+      text="REYNOLDS, K pass incomplete to TILLMAN, Jamir." newcontext="H,3,5,H47">
+    <p_pa vh="H" qb="REYNOLDS, K" result="INC" rcv="TILLMAN, Jamir"></p_pa>
+   </play>
+   <play hasball="NAVY" down="3" togo="5" spot="NAVY47" context="H,3,5,H47" playid="11,4,87" type="R" tokens="RUSH:37,V49, TACK:39,59"
+      text="SWAIN, Chris rush for 4 yards to the ARMY49 (Timpf, Jeremy;Voit, John)." newcontext="H,4,1,V49">
+    <p_ru vh="H" name="SWAIN, Chris" gain="4"></p_ru>
+    <p_tk vh="V" name="Timpf, Jeremy" assist="Y"></p_tk>
+    <p_tk vh="V" name="Voit, John" assist="Y"></p_tk>
+   </play>
+   <play hasball="NAVY" down="4" togo="1" spot="ARMY49" context="H,4,1,V49" playid="11,5,88" type="R" first="R" tokens="RUSH:21,V46, TACK:14"
+      text="SANDERS, D rush for 3 yards to the ARMY46, 1ST DOWN NAVY (Carnegie, Chris)." newcontext="H,1,10,V46">
+    <p_ru vh="H" name="SANDERS, D" gain="3"></p_ru>
+    <p_tk vh="V" name="Carnegie, Chris"></p_tk>
+   </play>
+   <play hasball="NAVY" down="1" togo="10" spot="ARMY46" context="H,1,10,V46" playid="11,6,89" type="#" clock="00:43" tokens="TOUT:H T:00:43"
+      text="Timeout Navy, clock 00:43." newcontext="H,1,10,V46">
+    <p_to vh="H" team="Navy"></p_to>
+   </play>
+   <play hasball="NAVY" down="1" togo="10" spot="ARMY46" context="H,1,10,V46" playid="11,7,90" type="P" tokens="PASS:19,I,21,* BRUP:39"
+      text="REYNOLDS, K pass incomplete to SANDERS, D (Timpf, Jeremy)." newcontext="H,2,10,V46">
+    <p_pa vh="H" qb="REYNOLDS, K" result="INC" rcv="SANDERS, D"></p_pa>
+    <p_bu vh="V" name="Timpf, Jeremy"></p_bu>
+   </play>
+   <play hasball="NAVY" down="2" togo="10" spot="ARMY46" context="H,2,10,V46" playid="11,8,91" type="P" tokens="PASS:19,I,4,* BRUP:57"
+      text="REYNOLDS, K pass incomplete to TILLMAN, Jamir (Smith, Jordan)." newcontext="H,3,10,V46">
+    <p_pa vh="H" qb="REYNOLDS, K" result="INC" rcv="TILLMAN, Jamir"></p_pa>
+    <p_bu vh="V" name="Smith, Jordan"></p_bu>
+   </play>
+   <play hasball="NAVY" down="3" togo="10" spot="ARMY46" context="H,3,10,V46" playid="11,9,92" type="P" tokens="PASS:19,I,4,*"
+      text="REYNOLDS, K pass incomplete to TILLMAN, Jamir." newcontext="H,4,10,V46">
+    <p_pa vh="H" qb="REYNOLDS, K" result="INC" rcv="TILLMAN, Jamir"></p_pa>
+   </play>
+   <play hasball="NAVY" down="4" togo="10" spot="ARMY46" context="H,4,10,V46" playid="11,10,93" type="#" clock="00:28" tokens="TOUT:V T:00:28"
+      text="Timeout Army West Point, clock 00:28." newcontext="H,4,10,V46">
+    <p_to vh="V" team="Army West Point"></p_to>
+   </play>
+   <play hasball="NAVY" down="4" togo="10" spot="ARMY46" context="H,4,10,V46" playid="11,11,94" type="U" tokens="PUNT:80,V01 DN:"
+      text="BARTA, Alex punt 45 yards to the ARMY1, downed." newcontext="V,1,10,V01">
+    <p_pu vh="H" name="BARTA, Alex" gain="45" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="7" yards="12" top="1:41" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="V,V01,00:18" vh="V" spot="V01" clock="00:18" driveindex="12,94"></drivestart>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY01" context="V,1,10,V01" playid="12,1,95" clock="00:18" tokens="{DRIVE}:00:18"
+      text="ARMY WEST POINT drive start at 00:18." newcontext="V,1,10,V01">
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY01" context="V,1,10,V01" playid="12,2,96" type="R" tokens="RUSH:7,V02, TACK:58,77"
+      text="Carter, Chris rush for 1 yard to the ARMY2 (GONZALES, D;SARRA, Bernard)." newcontext="V,2,9,V02">
+    <p_ru vh="V" name="Carter, Chris" gain="1"></p_ru>
+    <p_tk vh="H" name="GONZALES, D" assist="Y"></p_tk>
+    <p_tk vh="H" name="SARRA, Bernard" assist="Y"></p_tk>
+   </play>
+   <play hasball="ARMY" down="2" togo="9" spot="ARMY02" context="V,2,9,V02" playid="12,3,97" type="#" clock="00:16" tokens="TOUT:H T:00:16"
+      text="Timeout Navy, clock 00:16." newcontext="V,2,9,V02">
+    <p_to vh="H" team="Navy"></p_to>
+   </play>
+   <play hasball="ARMY" down="2" togo="9" spot="ARMY02" context="V,2,9,V02" playid="12,4,98" type="R" tokens="RUSH:7,V03, TACK:58,55"
+      text="Carter, Chris rush for 1 yard to the ARMY3 (GONZALES, D;COLBURN, Ted)." newcontext="V,3,8,V03">
+    <p_ru vh="V" name="Carter, Chris" gain="1"></p_ru>
+    <p_tk vh="H" name="GONZALES, D" assist="Y"></p_tk>
+    <p_tk vh="H" name="COLBURN, Ted" assist="Y"></p_tk>
+   </play>
+   <play hasball="ARMY" down="3" togo="8" spot="ARMY03" context="V,3,8,V03" playid="12,5,99" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of half, clock 00:00." newcontext="V,3,8,V03">
+   </play>
+   <drivesum plays="2" yards="2" top="0:18" driveindex="12" complete="Y"></drivesum>
+   <score qtr="2" V="17" H="14"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="ARMY">
+    <firstdowns no="5" rush="3" pass="2" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="3" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:52"></misc>
+    <rush att="13" yds="47" gain="53" loss="6" td="0" long="0"></rush>
+    <pass comp="2" att="3" int="0" yds="47" td="1" long="8" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="47" td="1" long="8"></rcv>
+    <punt no="1" yds="37" long="0" blkd="0" tb="1" fc="0" plus50="0" inside20="0" avg="37.0"></punt>
+    <ko no="1" yds="65" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="5" tacka="8" tot_tack="13" tflua="1" tfla="0" tflyds="2" sacks="0" sackyds="0" brup="3"></defense>
+    <pr no="1" yds="2" td="0" long="0"></pr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="NAVY">
+    <firstdowns no="3" rush="3" pass="0" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="2" thirdatt="5" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="06:08"></misc>
+    <rush att="10" yds="48" gain="54" loss="6" td="1" long="0"></rush>
+    <pass comp="0" att="5" int="0" yds="0" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <punt no="2" yds="87" long="2" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="43.5"></punt>
+    <ko no="1" yds="65" ob="0" tb="1"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="10" tacka="10" tot_tack="20" tflua="2" tfla="2" tflyds="6" sacks="0" sackyds="0" brup="1"></defense>
+    <kr no="1" yds="42" td="0" long="42"></kr>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="ARMY" down="3" togo="8" spot="ARMY03" context="V,3,8,V03" playid="12,6,100" type="#" clock="15:00" tokens="Q:3 T:15:00 SPOT:H,H35,N"
+      text="Start of 3rd quarter, clock 15:00, NAVY ball on NAVY35." newcontext="H,3,8,H35">
+   </play>
+   <play hasball="NAVY" down="3" togo="8" spot="NAVY35" context="H,3,8,H35" playid="12,7,101" type="K" tokens="KO:43,V00 TB:"
+      text="GREBE, Austin kickoff 65 yards to the ARMY0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="GREBE, Austin" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,15:00" vh="V" spot="V25" clock="15:00" driveindex="13,101"></drivestart>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY25" context="V,1,10,V25" playid="13,1,102" clock="15:00" tokens="{DRIVE}:15:00"
+      text="ARMY WEST POINT drive start at 15:00." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY25" context="V,1,10,V25" playid="13,2,103" type="R" tokens="RUSH:7,V27, TACK:90"
+      text="Carter, Chris rush for 2 yards to the ARMY27 (ANTHONY, Will)." newcontext="V,2,8,V27">
+    <p_ru vh="V" name="Carter, Chris" gain="2"></p_ru>
+    <p_tk vh="H" name="ANTHONY, Will"></p_tk>
+   </play>
+   <play hasball="ARMY" down="2" togo="8" spot="ARMY27" context="V,2,8,V27" playid="13,3,104" type="R" tokens="RUSH:33,V27, OB: PEN:V,BL,A,2,V14,N"
+      text="Campbell, Tyler rush for no gain to the ARMY27, out-of-bounds, PENALTY ARMY illegal block (White, Kelvin) 13 yards to the ARMY14." ob="Y" newcontext="V,2,21,V14">
+    <p_ru vh="V" name="Campbell, Tyler" gain="0"></p_ru>
+    <p_pn vh="V" code="BL" type="illegal block" name="White, Kelvin" result="ACCEPT" at="V27" yards="13"></p_pn>
+   </play>
+   <play hasball="ARMY" down="2" togo="21" spot="ARMY14" context="V,2,21,V14" playid="13,4,105" tokens="D:2,21"
+      text="2nd and 21." newcontext="V,2,21,V14">
+   </play>
+   <play hasball="ARMY" down="2" togo="21" spot="ARMY14" context="V,2,21,V14" playid="13,5,106" type="P" tokens="PASS:7,C,2F,V21 OB: TACK:2"
+      text="Carter, Chris pass complete to Black, Nicholas for 7 yards to the ARMY21, out-of-bounds (BARBOUR, L)." ob="Y" newcontext="V,3,14,V21">
+    <p_pa vh="V" qb="Carter, Chris" result="COMP" rcv="Black, Nicholas" gain="7"></p_pa>
+    <p_tk vh="H" name="BARBOUR, L"></p_tk>
+   </play>
+   <play hasball="ARMY" down="3" togo="14" spot="ARMY21" context="V,3,14,V21" playid="13,6,107" type="P" tokens="PASS:7,I,82,*"
+      text="Carter, Chris pass incomplete to Poe, Edgar." newcontext="V,4,14,V21">
+    <p_pa vh="V" qb="Carter, Chris" result="INC" rcv="Poe, Edgar"></p_pa>
+   </play>
+   <play hasball="ARMY" down="4" togo="14" spot="ARMY21" context="V,4,14,V21" playid="13,7,108" type="U" tokens="PUNT:80,H32 FC:20"
+      text="Tardieu, Alex punt 47 yards to the NAVY32, fair catch by CASS Jr., C." newcontext="H,1,10,H32">
+    <p_pu vh="V" name="Tardieu, Alex" gain="47" fc="CASS Jr., C"></p_pu>
+   </play>
+   <drivesum plays="4" yards="-4" top="1:51" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="H,H32,13:09" vh="H" spot="H32" clock="13:09" driveindex="14,108"></drivestart>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY32" context="H,1,10,H32" playid="14,1,109" clock="13:09" tokens="{DRIVE}:13:09"
+      text="NAVY drive start at 13:09." newcontext="H,1,10,H32">
+   </play>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY32" context="H,1,10,H32" playid="14,2,110" type="R" tokens="RUSH:37,H34, TACK:21"
+      text="SWAIN, Chris rush for 2 yards to the NAVY34 (Aukerman, Alex)." newcontext="H,2,8,H34">
+    <p_ru vh="H" name="SWAIN, Chris" gain="2"></p_ru>
+    <p_tk vh="V" name="Aukerman, Alex"></p_tk>
+   </play>
+   <play hasball="NAVY" down="2" togo="8" spot="NAVY34" context="H,2,8,H34" playid="14,3,111" type="R" tokens="RUSH:37,H37, TACK:59,9"
+      text="SWAIN, Chris rush for 3 yards to the NAVY37 (Voit, John;Moss, Xavier)." newcontext="H,3,5,H37">
+    <p_ru vh="H" name="SWAIN, Chris" gain="3"></p_ru>
+    <p_tk vh="V" name="Voit, John" assist="Y"></p_tk>
+    <p_tk vh="V" name="Moss, Xavier" assist="Y"></p_tk>
+   </play>
+   <play hasball="NAVY" down="3" togo="5" spot="NAVY37" context="H,3,5,H37" playid="14,4,112" type="P" tokens="PASS:19,I,4,*"
+      text="REYNOLDS, K pass incomplete to TILLMAN, Jamir." newcontext="H,4,5,H37">
+    <p_pa vh="H" qb="REYNOLDS, K" result="INC" rcv="TILLMAN, Jamir"></p_pa>
+   </play>
+   <play hasball="NAVY" down="4" togo="5" spot="NAVY37" context="H,4,5,H37" playid="14,5,113" type="U" tokens="PUNT:80,V26 FC:82"
+      text="BARTA, Alex punt 37 yards to the ARMY26, fair catch by Poe, Edgar." newcontext="V,1,10,V26">
+    <p_pu vh="H" name="BARTA, Alex" gain="37" fc="Poe, Edgar"></p_pu>
+   </play>
+   <drivesum plays="3" yards="5" top="1:17" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="V,V26,11:52" vh="V" spot="V26" clock="11:52" driveindex="15,113"></drivestart>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY26" context="V,1,10,V26" playid="15,1,114" clock="11:52" tokens="{DRIVE}:11:52"
+      text="ARMY WEST POINT drive start at 11:52." newcontext="V,1,10,V26">
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY26" context="V,1,10,V26" playid="15,2,115" type="R" tokens="RUSH:7,V31, TACK:2"
+      text="Carter, Chris rush for 5 yards to the ARMY31 (BARBOUR, L)." newcontext="V,2,5,V31">
+    <p_ru vh="V" name="Carter, Chris" gain="5"></p_ru>
+    <p_tk vh="H" name="BARBOUR, L"></p_tk>
+   </play>
+   <play hasball="ARMY" down="2" togo="5" spot="ARMY31" context="V,2,5,V31" playid="15,3,116" type="R" tokens="RUSH:25,V33, TACK:3"
+      text="Kemper, Aaron rush for 2 yards to the ARMY33 (JONES, Brandon)." newcontext="V,3,3,V33">
+    <p_ru vh="V" name="Kemper, Aaron" gain="2"></p_ru>
+    <p_tk vh="H" name="JONES, Brandon"></p_tk>
+   </play>
+   <play hasball="ARMY" down="3" togo="3" spot="ARMY33" context="V,3,3,V33" playid="15,4,117" type="P" tokens="PASS:7,S,TM,V24 SACK:45"
+      text="Carter, Chris sacked for loss of 9 yards to the ARMY24 (PALMORE, D.J.)." newcontext="V,4,12,V24">
+    <p_pa vh="V" qb="Carter, Chris" result="SACK" gain="-9"></p_pa>
+    <p_tk vh="H" name="PALMORE, D.J." sack="Y"></p_tk>
+   </play>
+   <play hasball="ARMY" down="4" togo="12" spot="ARMY24" context="V,4,12,V24" playid="15,5,118" type="U" tokens="PUNT:80,H29 FC:20"
+      text="Tardieu, Alex punt 47 yards to the NAVY29, fair catch by CASS Jr., C." newcontext="H,1,10,H29">
+    <p_pu vh="V" name="Tardieu, Alex" gain="47" fc="CASS Jr., C"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-2" top="2:05" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="H,H29,09:47" vh="H" spot="H29" clock="09:47" driveindex="16,118"></drivestart>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY29" context="H,1,10,H29" playid="16,1,119" clock="09:47" tokens="{DRIVE}:09:47"
+      text="NAVY drive start at 09:47." newcontext="H,1,10,H29">
+   </play>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY29" context="H,1,10,H29" playid="16,2,120" type="P" tokens="PASS:19,I,4,* BRUP:9"
+      text="REYNOLDS, K pass incomplete to TILLMAN, Jamir (Moss, Xavier)." newcontext="H,2,10,H29">
+    <p_pa vh="H" qb="REYNOLDS, K" result="INC" rcv="TILLMAN, Jamir"></p_pa>
+    <p_bu vh="V" name="Moss, Xavier"></p_bu>
+   </play>
+   <play hasball="NAVY" down="2" togo="10" spot="NAVY29" context="H,2,10,H29" playid="16,3,121" type="R" tokens="RUSH:37,H33, TACK:39"
+      text="SWAIN, Chris rush for 4 yards to the NAVY33 (Timpf, Jeremy)." newcontext="H,3,6,H33">
+    <p_ru vh="H" name="SWAIN, Chris" gain="4"></p_ru>
+    <p_tk vh="V" name="Timpf, Jeremy"></p_tk>
+   </play>
+   <play hasball="NAVY" down="3" togo="6" spot="NAVY33" context="H,3,6,H33" playid="16,4,122" type="R" tokens="RUSH:19,H34, TACK:57"
+      text="REYNOLDS, K rush for 1 yard to the NAVY34 (Smith, Jordan)." newcontext="H,4,5,H34">
+    <p_ru vh="H" name="REYNOLDS, K" gain="1"></p_ru>
+    <p_tk vh="V" name="Smith, Jordan"></p_tk>
+   </play>
+   <play hasball="NAVY" down="4" togo="5" spot="NAVY34" context="H,4,5,H34" playid="16,5,123" type="U" tokens="PUNT:80,V00 TB:"
+      text="BARTA, Alex punt 66 yards to the ARMY0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="BARTA, Alex" gain="66" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="5" top="1:36" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="V,V20,08:11" vh="V" spot="V20" clock="08:11" driveindex="17,123"></drivestart>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY20" context="V,1,10,V20" playid="17,1,124" clock="08:11" tokens="{DRIVE}:08:11"
+      text="ARMY WEST POINT drive start at 08:11." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY20" context="V,1,10,V20" playid="17,2,125" type="R" tokens="RUSH:7,V20, TACK:90"
+      text="Carter, Chris rush for no gain to the ARMY20 (ANTHONY, Will)." newcontext="V,2,10,V20">
+    <p_ru vh="V" name="Carter, Chris" gain="0"></p_ru>
+    <p_tk vh="H" name="ANTHONY, Will"></p_tk>
+   </play>
+   <play hasball="ARMY" down="2" togo="10" spot="ARMY20" context="V,2,10,V20" playid="17,3,126" type="R" tokens="RUSH:3E,V18, TACK:1"
+      text="Asberry, Jordan rush for loss of 2 yards to the ARMY18 (CLEMENTS, B)." newcontext="V,3,12,V18">
+    <p_ru vh="V" name="Asberry, Jordan" gain="-2"></p_ru>
+    <p_tk vh="H" name="CLEMENTS, B"></p_tk>
+   </play>
+   <play hasball="ARMY" down="3" togo="12" spot="ARMY18" context="V,3,12,V18" playid="17,4,127" type="P" tokens="PASS:7,S,TM,V09 SACK:67"
+      text="Carter, Chris sacked for loss of 9 yards to the ARMY9 (POLU, Jarvis)." newcontext="V,4,21,V09">
+    <p_pa vh="V" qb="Carter, Chris" result="SACK" gain="-9"></p_pa>
+    <p_tk vh="H" name="POLU, Jarvis" sack="Y"></p_tk>
+   </play>
+   <play hasball="ARMY" down="4" togo="21" spot="ARMY09" context="V,4,21,V09" playid="17,5,128" type="U" tokens="PUNT:80,V50 FC:20"
+      text="Tardieu, Alex punt 41 yards to the 50 yardline, fair catch by CASS Jr., C." newcontext="H,1,10,H50">
+    <p_pu vh="V" name="Tardieu, Alex" gain="41" fc="CASS Jr., C"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-11" top="2:10" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="H,H50,06:01" vh="H" spot="H50" clock="06:01" driveindex="18,128"></drivestart>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY50" context="H,1,10,H50" playid="18,1,129" clock="06:01" tokens="{DRIVE}:06:01"
+      text="NAVY drive start at 06:01." newcontext="H,1,10,H50">
+   </play>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY50" context="H,1,10,H50" playid="18,2,130" type="P" first="P" score="Y" vscore="17" hscore="20" clock="05:51" tokens="PASS:19,C,4,V00 T:05:51"
+      text="REYNOLDS, K pass complete to TILLMAN, Jamir for 50 yards to the ARMY0, 1ST DOWN NAVY, TOUCHDOWN, clock 05:51." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="REYNOLDS, K" result="COMP" rcv="TILLMAN, Jamir" gain="50"></p_pa>
+   </play>
+   <play hasball="NAVY" down="1" togo="0" spot="ARMY03" context="H,1,0,V03" playid="18,3,131" type="X" score="Y" vscore="17" hscore="21" tokens="PAT:K,43,G"
+      text="GREBE, Austin kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="GREBE, Austin" qb="GREBE, Austin" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="17" H="21"></score>
+   <drivesum plays="1" yards="50" top="0:10" driveindex="18" complete="Y"></drivesum>
+   <play hasball="NAVY" down="1" togo="0" spot="NAVY35" context="H,1,0,H35" playid="18,4,132" type="K" tokens="KO:43,V02 RET:1,V21 TACK:9"
+      text="GREBE, Austin kickoff 63 yards to the ARMY2, Hyatt, Marcus return 19 yards to the ARMY21 (KRAH, Myer)." newcontext="V,1,10,V21">
+    <p_ko vh="H" name="GREBE, Austin" gain="63"></p_ko>
+    <p_kr vh="V" name="Hyatt, Marcus" gain="19"></p_kr>
+    <p_tk vh="H" name="KRAH, Myer"></p_tk>
+   </play>
+   <drivestart poss="V,V21,05:44" vh="V" spot="V21" clock="05:44" driveindex="19,132"></drivestart>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY21" context="V,1,10,V21" playid="19,1,133" clock="05:44" tokens="{DRIVE}:05:44"
+      text="ARMY WEST POINT drive start at 05:44." newcontext="V,1,10,V21">
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY21" context="V,1,10,V21" playid="19,2,134" type="R" tokens="RUSH:33,V26, TACK:1"
+      text="Campbell, Tyler rush for 5 yards to the ARMY26 (CLEMENTS, B)." newcontext="V,2,5,V26">
+    <p_ru vh="V" name="Campbell, Tyler" gain="5"></p_ru>
+    <p_tk vh="H" name="CLEMENTS, B"></p_tk>
+   </play>
+   <play hasball="ARMY" down="2" togo="5" spot="ARMY26" context="V,2,5,V26" playid="19,3,135" type="P" tokens="PASS:7,I,3E,*"
+      text="Carter, Chris pass incomplete to Asberry, Jordan." newcontext="V,3,5,V26">
+    <p_pa vh="V" qb="Carter, Chris" result="INC" rcv="Asberry, Jordan"></p_pa>
+   </play>
+   <play hasball="ARMY" down="3" togo="5" spot="ARMY26" context="V,3,5,V26" playid="19,4,136" type="P" tokens="PASS:7,S,TM,V18 SACK:90"
+      text="Carter, Chris sacked for loss of 8 yards to the ARMY18 (ANTHONY, Will)." newcontext="V,4,13,V18">
+    <p_pa vh="V" qb="Carter, Chris" result="SACK" gain="-8"></p_pa>
+    <p_tk vh="H" name="ANTHONY, Will" sack="Y"></p_tk>
+   </play>
+   <play hasball="ARMY" down="4" togo="13" spot="ARMY18" context="V,4,13,V18" playid="19,5,137" type="U" tokens="PUNT:80,H36 FC:20"
+      text="Tardieu, Alex punt 46 yards to the NAVY36, fair catch by CASS Jr., C." newcontext="H,1,10,H36">
+    <p_pu vh="V" name="Tardieu, Alex" gain="46" fc="CASS Jr., C"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-3" top="1:29" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="H,H36,04:15" vh="H" spot="H36" clock="04:15" driveindex="20,137"></drivestart>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY36" context="H,1,10,H36" playid="20,1,138" clock="04:15" tokens="{DRIVE}:04:15"
+      text="NAVY drive start at 04:15." newcontext="H,1,10,H36">
+   </play>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY36" context="H,1,10,H36" playid="20,2,139" type="R" tokens="RUSH:19,H42, TACK:28"
+      text="REYNOLDS, K rush for 6 yards to the NAVY42 (Jackson, B.)." newcontext="H,2,4,H42">
+    <p_ru vh="H" name="REYNOLDS, K" gain="6"></p_ru>
+    <p_tk vh="V" name="Jackson, B."></p_tk>
+   </play>
+   <play hasball="NAVY" down="2" togo="4" spot="NAVY42" context="H,2,4,H42" playid="20,3,140" type="R" tokens="RUSH:37,H43, TACK:93,21"
+      text="SWAIN, Chris rush for 1 yard to the NAVY43 (Atimalala, T.J.;Aukerman, Alex)." newcontext="H,3,3,H43">
+    <p_ru vh="H" name="SWAIN, Chris" gain="1"></p_ru>
+    <p_tk vh="V" name="Atimalala, T.J." assist="Y"></p_tk>
+    <p_tk vh="V" name="Aukerman, Alex" assist="Y"></p_tk>
+   </play>
+   <play hasball="NAVY" down="3" togo="3" spot="NAVY43" context="H,3,3,H43" playid="20,4,141" type="R" tokens="RUSH:19,H43, TACK:11"
+      text="REYNOLDS, K rush for no gain to the NAVY43 (King, Andrew)." newcontext="H,4,3,H43">
+    <p_ru vh="H" name="REYNOLDS, K" gain="0"></p_ru>
+    <p_tk vh="V" name="King, Andrew"></p_tk>
+   </play>
+   <play hasball="NAVY" down="4" togo="3" spot="NAVY43" context="H,4,3,H43" playid="20,5,142" type="U" tokens="PUNT:80,V21 FC:82"
+      text="BARTA, Alex punt 36 yards to the ARMY21, fair catch by Poe, Edgar." newcontext="V,1,10,V21">
+    <p_pu vh="H" name="BARTA, Alex" gain="36" fc="Poe, Edgar"></p_pu>
+   </play>
+   <drivesum plays="3" yards="7" top="1:54" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="V,V21,02:21" vh="V" spot="V21" clock="02:21" driveindex="21,142"></drivestart>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY21" context="V,1,10,V21" playid="21,1,143" clock="02:21" tokens="{DRIVE}:02:21"
+      text="ARMY WEST POINT drive start at 02:21." newcontext="V,1,10,V21">
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY21" context="V,1,10,V21" playid="21,2,144" type="P" first="P" tokens="PASS:7,C,82,H49 OB: TACK:2"
+      text="Carter, Chris pass complete to Poe, Edgar for 30 yards to the NAVY49, 1ST DOWN ARMY, out-of-bounds (BARBOUR, L)." ob="Y" newcontext="V,1,10,H49">
+    <p_pa vh="V" qb="Carter, Chris" result="COMP" rcv="Poe, Edgar" gain="30"></p_pa>
+    <p_tk vh="H" name="BARBOUR, L"></p_tk>
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="NAVY49" context="V,1,10,H49" playid="21,3,145" type="R" first="R" tokens="RUSH:25,H31, TACK:1"
+      text="Kemper, Aaron rush for 18 yards to the NAVY31, 1ST DOWN ARMY (CLEMENTS, B)." newcontext="V,1,10,H31">
+    <p_ru vh="V" name="Kemper, Aaron" gain="18"></p_ru>
+    <p_tk vh="H" name="CLEMENTS, B"></p_tk>
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="NAVY31" context="V,1,10,H31" playid="21,4,146" type="R" tokens="RUSH:7,H28, TACK:58"
+      text="Carter, Chris rush for 3 yards to the NAVY28 (GONZALES, D)." newcontext="V,2,7,H28">
+    <p_ru vh="V" name="Carter, Chris" gain="3"></p_ru>
+    <p_tk vh="H" name="GONZALES, D"></p_tk>
+   </play>
+   <play hasball="ARMY" down="2" togo="7" spot="NAVY28" context="V,2,7,H28" playid="21,5,147" type="R" tokens="RUSH:7,H22, TACK:44"
+      text="Carter, Chris rush for 6 yards to the NAVY22 (THOMAS, Micah)." newcontext="V,3,1,H22">
+    <p_ru vh="V" name="Carter, Chris" gain="6"></p_ru>
+    <p_tk vh="H" name="THOMAS, Micah"></p_tk>
+   </play>
+   <score qtr="3" V="17" H="21"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="ARMY">
+    <firstdowns no="2" rush="1" pass="1" penalty="0"></firstdowns>
+    <penalties no="1" yds="13"></penalties>
+    <conversions thirdconv="0" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="10:03"></misc>
+    <rush att="13" yds="13" gain="41" loss="28" td="0" long="0"></rush>
+    <pass comp="2" att="4" int="0" yds="37" td="0" long="0" sacks="3" sackyds="26"></pass>
+    <rcv no="2" yds="37" td="0" long="0"></rcv>
+    <punt no="4" yds="181" long="7" blkd="0" tb="0" fc="4" plus50="0" inside20="0" avg="45.2"></punt>
+    <defense tackua="5" tacka="4" tot_tack="9" sacks="0" sackyds="0" brup="1"></defense>
+    <kr no="1" yds="19" td="0" long="2"></kr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="NAVY">
+    <firstdowns no="1" rush="0" pass="1" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="04:57"></misc>
+    <rush att="7" yds="17" gain="17" loss="0" td="0" long="0"></rush>
+    <pass comp="1" att="3" int="0" yds="50" td="1" long="15" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="50" td="1" long="15"></rcv>
+    <punt no="3" yds="139" long="21" blkd="0" tb="1" fc="2" plus50="1" inside20="0" avg="46.3"></punt>
+    <ko no="2" yds="128" ob="0" tb="1"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="15" tacka="0" tot_tack="15" tflua="4" tfla="0" tflyds="28" sacks="3" sackyds="26"></defense>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="ARMY" down="3" togo="1" spot="NAVY22" context="V,3,1,H22" playid="21,6,148" type="#" clock="15:00" tokens="Q:4 T:15:00"
+      text="Start of 4th quarter, clock 15:00." newcontext="V,3,1,H22">
+   </play>
+   <play hasball="ARMY" down="3" togo="1" spot="NAVY22" context="V,3,1,H22" playid="21,7,149" type="R" first="R" tokens="RUSH:40,H19, TACK:77"
+      text="Giachinta, Matt rush for 3 yards to the NAVY19, 1ST DOWN ARMY (SARRA, Bernard)." newcontext="V,1,10,H19">
+    <p_ru vh="V" name="Giachinta, Matt" gain="3"></p_ru>
+    <p_tk vh="H" name="SARRA, Bernard"></p_tk>
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="NAVY19" context="V,1,10,H19" playid="21,8,150" type="R" tokens="RUSH:25,H14, TACK:44"
+      text="Kemper, Aaron rush for 5 yards to the NAVY14 (THOMAS, Micah)." newcontext="V,2,5,H14">
+    <p_ru vh="V" name="Kemper, Aaron" gain="5"></p_ru>
+    <p_tk vh="H" name="THOMAS, Micah"></p_tk>
+   </play>
+   <play hasball="ARMY" down="2" togo="5" spot="NAVY14" context="V,2,5,H14" playid="21,9,151" type="R" tokens="RUSH:7,H18, TACK:45"
+      text="Carter, Chris rush for loss of 4 yards to the NAVY18 (PALMORE, D.J.)." newcontext="V,3,9,H18">
+    <p_ru vh="V" name="Carter, Chris" gain="-4"></p_ru>
+    <p_tk vh="H" name="PALMORE, D.J."></p_tk>
+   </play>
+   <play hasball="ARMY" down="3" togo="9" spot="NAVY18" context="V,3,9,H18" playid="21,10,152" type="P" tokens="PASS:7,C,15,H12 TACK:2"
+      text="Carter, Chris pass complete to Bell, DeAndre for 6 yards to the NAVY12 (BARBOUR, L)." newcontext="V,4,3,H12">
+    <p_pa vh="V" qb="Carter, Chris" result="COMP" rcv="Bell, DeAndre" gain="6"></p_pa>
+    <p_tk vh="H" name="BARBOUR, L"></p_tk>
+   </play>
+   <play hasball="ARMY" down="4" togo="3" spot="NAVY12" context="V,4,3,H12" playid="21,11,153" type="F" clock="12:19" tokens="FGA:95,29,M,H20,L T:12:19"
+      text="Grochowski, D. field goal attempt from 29 MISSED - wide left, spot at NAVY20, clock 12:19." newcontext="H,1,10,H20">
+    <p_fg vh="V" name="Grochowski, D." distance="29" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="9" yards="67" top="5:02" driveindex="21" complete="Y"></drivesum>
+   <drivestart poss="H,H20,12:19" vh="H" spot="H20" clock="12:19" driveindex="22,153"></drivestart>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY20" context="H,1,10,H20" playid="22,1,154" clock="12:19" tokens="{DRIVE}:12:19"
+      text="NAVY drive start at 12:19." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY20" context="H,1,10,H20" playid="22,2,155" type="R" first="R" tokens="RUSH:37,H31, TACK:28"
+      text="SWAIN, Chris rush for 11 yards to the NAVY31, 1ST DOWN NAVY (Jackson, B.)." newcontext="H,1,10,H31">
+    <p_ru vh="H" name="SWAIN, Chris" gain="11"></p_ru>
+    <p_tk vh="V" name="Jackson, B."></p_tk>
+   </play>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY31" context="H,1,10,H31" playid="22,3,156" type="R" tokens="RUSH:19,H33, TACK:59"
+      text="REYNOLDS, K rush for 2 yards to the NAVY33 (Voit, John)." newcontext="H,2,8,H33">
+    <p_ru vh="H" name="REYNOLDS, K" gain="2"></p_ru>
+    <p_tk vh="V" name="Voit, John"></p_tk>
+   </play>
+   <play hasball="NAVY" down="2" togo="8" spot="NAVY33" context="H,2,8,H33" playid="22,4,157" type="R" tokens="RUSH:19,H35, TACK:93,56"
+      text="REYNOLDS, K rush for 2 yards to the NAVY35 (Atimalala, T.J.;Brinson, K.)." newcontext="H,3,6,H35">
+    <p_ru vh="H" name="REYNOLDS, K" gain="2"></p_ru>
+    <p_tk vh="V" name="Atimalala, T.J." assist="Y"></p_tk>
+    <p_tk vh="V" name="Brinson, K." assist="Y"></p_tk>
+   </play>
+   <play hasball="NAVY" down="3" togo="6" spot="NAVY35" context="H,3,6,H35" playid="22,5,158" type="R" tokens="RUSH:32,H36, TACK:39"
+      text="EZELL, Quentin rush for 1 yard to the NAVY36 (Timpf, Jeremy)." newcontext="H,4,5,H36">
+    <p_ru vh="H" name="EZELL, Quentin" gain="1"></p_ru>
+    <p_tk vh="V" name="Timpf, Jeremy"></p_tk>
+   </play>
+   <play hasball="NAVY" down="4" togo="5" spot="NAVY36" context="H,4,5,H36" playid="22,6,159" type="U" tokens="PUNT:80,V28 DN:"
+      text="BARTA, Alex punt 36 yards to the ARMY28, downed." newcontext="V,1,10,V28">
+    <p_pu vh="H" name="BARTA, Alex" gain="36"></p_pu>
+   </play>
+   <drivesum plays="4" yards="16" top="2:33" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="V,V28,09:46" vh="V" spot="V28" clock="09:46" driveindex="23,159"></drivestart>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY28" context="V,1,10,V28" playid="23,1,160" clock="09:46" tokens="{DRIVE}:09:46"
+      text="ARMY WEST POINT drive start at 09:46." newcontext="V,1,10,V28">
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY28" context="V,1,10,V28" playid="23,2,161" type="R" tokens="RUSH:7,V28, FUMB:V,V28,7"
+      text="Carter, Chris rush for no gain to the ARMY28, fumble by Carter, Chris recovered by ARMY Carter, Chris at ARMY28." newcontext="V,2,10,V28">
+    <p_ru vh="V" name="Carter, Chris" gain="0"></p_ru>
+    <p_fumb vh="V" name="Carter, Chris" at="V28" frvh="V" frname="Carter, Chris"></p_fumb>
+   </play>
+   <play hasball="ARMY" down="2" togo="10" spot="ARMY28" context="V,2,10,V28" playid="23,3,162" type="P" first="P" tokens="PASS:7,C,15,H33 TACK:58"
+      text="Carter, Chris pass complete to Bell, DeAndre for 39 yards to the NAVY33, 1ST DOWN ARMY (GONZALES, D)." newcontext="V,1,10,H33">
+    <p_pa vh="V" qb="Carter, Chris" result="COMP" rcv="Bell, DeAndre" gain="39"></p_pa>
+    <p_tk vh="H" name="GONZALES, D"></p_tk>
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="NAVY33" context="V,1,10,H33" playid="23,4,163" type="R" turnover="F" tokens="RUSH:7,H34, FUMB:H,H34,55"
+      text="Carter, Chris rush for loss of 1 yard to the NAVY34, fumble by Carter, Chris recovered by NAVY COLBURN, Ted at NAVY34." newcontext="H,1,10,H34">
+    <p_ru vh="V" name="Carter, Chris" gain="-1"></p_ru>
+    <p_fumb vh="V" name="Carter, Chris" at="H34" frvh="H" frname="COLBURN, Ted"></p_fumb>
+   </play>
+   <drivesum plays="3" yards="38" top="1:13" driveindex="23" complete="Y"></drivesum>
+   <drivestart poss="H,H34,08:33" vh="H" spot="H34" clock="08:33" driveindex="24,163"></drivestart>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY34" context="H,1,10,H34" playid="24,1,164" clock="08:33" tokens="{DRIVE}:08:33"
+      text="NAVY drive start at 08:33." newcontext="H,1,10,H34">
+   </play>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY34" context="H,1,10,H34" playid="24,2,165" type="P" first="P" tokens="PASS:19,C,25,H45 TACK:9"
+      text="REYNOLDS, K pass complete to BROWN, Demond for 11 yards to the NAVY45, 1ST DOWN NAVY (Moss, Xavier)." newcontext="H,1,10,H45">
+    <p_pa vh="H" qb="REYNOLDS, K" result="COMP" rcv="BROWN, Demond" gain="11"></p_pa>
+    <p_tk vh="V" name="Moss, Xavier"></p_tk>
+   </play>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY45" context="H,1,10,H45" playid="24,3,166" type="R" tokens="RUSH:37,H50, TACK:28"
+      text="SWAIN, Chris rush for 5 yards to the 50 yardline (Jackson, B.)." newcontext="H,2,5,H50">
+    <p_ru vh="H" name="SWAIN, Chris" gain="5"></p_ru>
+    <p_tk vh="V" name="Jackson, B."></p_tk>
+   </play>
+   <play hasball="NAVY" down="2" togo="5" spot="NAVY50" context="H,2,5,H50" playid="24,4,167" type="R" tokens="RUSH:37,V46, TACK:21"
+      text="SWAIN, Chris rush for 4 yards to the ARMY46 (Aukerman, Alex)." newcontext="H,3,1,V46">
+    <p_ru vh="H" name="SWAIN, Chris" gain="4"></p_ru>
+    <p_tk vh="V" name="Aukerman, Alex"></p_tk>
+   </play>
+   <play hasball="NAVY" down="3" togo="1" spot="ARMY46" context="H,3,1,V46" playid="24,5,168" type="R" first="R" tokens="RUSH:19,V44, TACK:39"
+      text="REYNOLDS, K rush for 2 yards to the ARMY44, 1ST DOWN NAVY (Timpf, Jeremy)." newcontext="H,1,10,V44">
+    <p_ru vh="H" name="REYNOLDS, K" gain="2"></p_ru>
+    <p_tk vh="V" name="Timpf, Jeremy"></p_tk>
+   </play>
+   <play hasball="NAVY" down="1" togo="10" spot="ARMY44" context="H,1,10,V44" playid="24,6,169" type="R" tokens="RUSH:32,V41, TACK:28,93"
+      text="EZELL, Quentin rush for 3 yards to the ARMY41 (Jackson, B.;Atimalala, T.J.)." newcontext="H,2,7,V41">
+    <p_ru vh="H" name="EZELL, Quentin" gain="3"></p_ru>
+    <p_tk vh="V" name="Jackson, B." assist="Y"></p_tk>
+    <p_tk vh="V" name="Atimalala, T.J." assist="Y"></p_tk>
+   </play>
+   <play hasball="NAVY" down="2" togo="7" spot="ARMY41" context="H,2,7,V41" playid="24,7,170" type="R" tokens="RUSH:19,V41, TACK:57"
+      text="REYNOLDS, K rush for no gain to the ARMY41 (Smith, Jordan)." newcontext="H,3,7,V41">
+    <p_ru vh="H" name="REYNOLDS, K" gain="0"></p_ru>
+    <p_tk vh="V" name="Smith, Jordan"></p_tk>
+   </play>
+   <play hasball="NAVY" down="3" togo="7" spot="ARMY41" context="H,3,7,V41" playid="24,8,171" type="R" tokens="RUSH:19,V41, TACK:21"
+      text="REYNOLDS, K rush for no gain to the ARMY41 (Aukerman, Alex)." newcontext="H,4,7,V41">
+    <p_ru vh="H" name="REYNOLDS, K" gain="0"></p_ru>
+    <p_tk vh="V" name="Aukerman, Alex"></p_tk>
+   </play>
+   <play hasball="NAVY" down="4" togo="7" spot="ARMY41" context="H,4,7,V41" playid="24,9,172" type="#" clock="03:43" tokens="TOUT:H T:03:43"
+      text="Timeout Navy, clock 03:43." newcontext="H,4,7,V41">
+    <p_to vh="H" team="Navy"></p_to>
+   </play>
+   <play hasball="NAVY" down="4" togo="7" spot="ARMY41" context="H,4,7,V41" playid="24,10,173" type="U" tokens="PUNT:80,V00 TB:"
+      text="BARTA, Alex punt 41 yards to the ARMY0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="BARTA, Alex" gain="41" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="7" yards="25" top="4:57" driveindex="24" complete="Y"></drivesum>
+   <drivestart poss="V,V20,03:36" vh="V" spot="V20" clock="03:36" driveindex="25,173"></drivestart>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY20" context="V,1,10,V20" playid="25,1,174" clock="03:36" tokens="{DRIVE}:03:36"
+      text="ARMY WEST POINT drive start at 03:36." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY20" context="V,1,10,V20" playid="25,2,175" type="P" turnover="I" tokens="PASS:7,X,2,V45 RET:2,V44 OB:"
+      text="Carter, Chris pass intercepted by BARBOUR, L at the ARMY45, BARBOUR, L return 1 yards to the ARMY44, out-of-bounds." ob="Y" newcontext="H,1,10,V44">
+    <p_pa vh="V" qb="Carter, Chris" result="INT"></p_pa>
+    <p_ir vh="H" name="BARBOUR, L" at="V45" gain="1"></p_ir>
+   </play>
+   <drivesum plays="1" yards="0" top="0:09" driveindex="25" complete="Y"></drivesum>
+   <drivestart poss="H,V44,03:27" vh="H" spot="V44" clock="03:27" driveindex="26,175"></drivestart>
+   <play hasball="NAVY" down="1" togo="10" spot="ARMY44" context="H,1,10,V44" playid="26,1,176" clock="03:27" tokens="{DRIVE}:03:27"
+      text="NAVY drive start at 03:27." newcontext="H,1,10,V44">
+   </play>
+   <play hasball="NAVY" down="1" togo="10" spot="ARMY44" context="H,1,10,V44" playid="26,2,177" type="R" tokens="RUSH:19,V41, TACK:56"
+      text="REYNOLDS, K rush for 3 yards to the ARMY41 (Brinson, K.)." newcontext="H,2,7,V41">
+    <p_ru vh="H" name="REYNOLDS, K" gain="3"></p_ru>
+    <p_tk vh="V" name="Brinson, K."></p_tk>
+   </play>
+   <play hasball="NAVY" down="2" togo="7" spot="ARMY41" context="H,2,7,V41" playid="26,3,178" type="#" clock="03:22" tokens="TOUT:V T:03:22"
+      text="Timeout Army West Point, clock 03:22." newcontext="H,2,7,V41">
+    <p_to vh="V" team="Army West Point"></p_to>
+   </play>
+   <play hasball="NAVY" down="2" togo="7" spot="ARMY41" context="H,2,7,V41" playid="26,4,179" type="R" tokens="RUSH:37,V36, TACK:9,21"
+      text="SWAIN, Chris rush for 5 yards to the ARMY36 (Moss, Xavier;Aukerman, Alex)." newcontext="H,3,2,V36">
+    <p_ru vh="H" name="SWAIN, Chris" gain="5"></p_ru>
+    <p_tk vh="V" name="Moss, Xavier" assist="Y"></p_tk>
+    <p_tk vh="V" name="Aukerman, Alex" assist="Y"></p_tk>
+   </play>
+   <play hasball="NAVY" down="3" togo="2" spot="ARMY36" context="H,3,2,V36" playid="26,5,180" type="#" clock="03:17" tokens="TOUT:V T:03:17"
+      text="Timeout Army West Point, clock 03:17." newcontext="H,3,2,V36">
+    <p_to vh="V" team="Army West Point"></p_to>
+   </play>
+   <play hasball="NAVY" down="3" togo="2" spot="ARMY36" context="H,3,2,V36" playid="26,6,181" type="E" tokens="PEN:H,FS,A,61,V41,N"
+      text="PENALTY NAVY false start (GREENE, Brandon) 5 yards to the ARMY41." newcontext="H,3,7,V41">
+    <p_pn vh="H" code="FS" type="false start" name="GREENE, Brandon" result="ACCEPT" at="V36" yards="5"></p_pn>
+   </play>
+   <play hasball="NAVY" down="3" togo="7" spot="ARMY41" context="H,3,7,V41" playid="26,7,182" type="#" clock="03:17" tokens="TOUT:H T:03:17"
+      text="Timeout Navy, clock 03:17." newcontext="H,3,7,V41">
+    <p_to vh="H" team="Navy"></p_to>
+   </play>
+   <play hasball="NAVY" down="3" togo="7" spot="ARMY41" context="H,3,7,V41" playid="26,8,183" type="P" tokens="PASS:19,I,4,*"
+      text="REYNOLDS, K pass incomplete to TILLMAN, Jamir." newcontext="H,4,7,V41">
+    <p_pa vh="H" qb="REYNOLDS, K" result="INC" rcv="TILLMAN, Jamir"></p_pa>
+   </play>
+   <play hasball="NAVY" down="4" togo="7" spot="ARMY41" context="H,4,7,V41" playid="26,9,184" type="U" tokens="PUNT:80,V00 TB:"
+      text="BARTA, Alex punt 41 yards to the ARMY0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="BARTA, Alex" gain="41" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="3" top="0:24" driveindex="26" complete="Y"></drivesum>
+   <drivestart poss="V,V20,03:03" vh="V" spot="V20" clock="03:03" driveindex="27,184"></drivestart>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY20" context="V,1,10,V20" playid="27,1,185" clock="03:03" tokens="{DRIVE}:03:03"
+      text="ARMY WEST POINT drive start at 03:03." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY20" context="V,1,10,V20" playid="27,2,186" type="P" first="P" tokens="PASS:7,C,33,H45 TACK:5"
+      text="Carter, Chris pass complete to Campbell, Tyler for 35 yards to the NAVY45, 1ST DOWN ARMY (ADAMS, Quincy)." newcontext="V,1,10,H45">
+    <p_pa vh="V" qb="Carter, Chris" result="COMP" rcv="Campbell, Tyler" gain="35"></p_pa>
+    <p_tk vh="H" name="ADAMS, Quincy"></p_tk>
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="NAVY45" context="V,1,10,H45" playid="27,3,187" type="R" tokens="RUSH:3E,H39, OB: TACK:5"
+      text="Asberry, Jordan rush for 6 yards to the NAVY39, out-of-bounds (ADAMS, Quincy)." ob="Y" newcontext="V,2,4,H39">
+    <p_ru vh="V" name="Asberry, Jordan" gain="6"></p_ru>
+    <p_tk vh="H" name="ADAMS, Quincy"></p_tk>
+   </play>
+   <play hasball="ARMY" down="2" togo="4" spot="NAVY39" context="V,2,4,H39" playid="27,4,188" type="P" turnover="I" tokens="PASS:15,X,26,H03 RET:26,H03"
+      text="Bell, DeAndre pass intercepted by THOMASSON, D at the NAVY3, THOMASSON, D return 0 yards to the NAVY3." newcontext="H,1,10,H03">
+    <p_pa vh="V" qb="Bell, DeAndre" result="INT"></p_pa>
+    <p_ir vh="H" name="THOMASSON, D" at="H03" gain="0"></p_ir>
+   </play>
+   <drivesum plays="3" yards="41" top="1:00" driveindex="27" complete="Y"></drivesum>
+   <drivestart poss="H,H03,02:03" vh="H" spot="H03" clock="02:03" driveindex="28,188"></drivestart>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY03" context="H,1,10,H03" playid="28,1,189" clock="02:03" tokens="{DRIVE}:02:03"
+      text="NAVY drive start at 02:03." newcontext="H,1,10,H03">
+   </play>
+   <play hasball="NAVY" down="1" togo="10" spot="NAVY03" context="H,1,10,H03" playid="28,2,190" type="R" tokens="RUSH:19,H04, TACK:59"
+      text="REYNOLDS, K rush for 1 yard to the NAVY4 (Voit, John)." newcontext="H,2,9,H04">
+    <p_ru vh="H" name="REYNOLDS, K" gain="1"></p_ru>
+    <p_tk vh="V" name="Voit, John"></p_tk>
+   </play>
+   <play hasball="NAVY" down="2" togo="9" spot="NAVY04" context="H,2,9,H04" playid="28,3,191" type="R" tokens="RUSH:19,H05, TACK:14"
+      text="REYNOLDS, K rush for 1 yard to the NAVY5 (Carnegie, Chris)." newcontext="H,3,8,H05">
+    <p_ru vh="H" name="REYNOLDS, K" gain="1"></p_ru>
+    <p_tk vh="V" name="Carnegie, Chris"></p_tk>
+   </play>
+   <play hasball="NAVY" down="3" togo="8" spot="NAVY05" context="H,3,8,H05" playid="28,4,192" type="#" clock="01:08" tokens="TOUT:V T:01:08"
+      text="Timeout Army West Point, clock 01:08." newcontext="H,3,8,H05">
+    <p_to vh="V" team="Army West Point"></p_to>
+   </play>
+   <play hasball="NAVY" down="3" togo="8" spot="NAVY05" context="H,3,8,H05" playid="28,5,193" type="R" tokens="RUSH:19,H09, TACK:57,59"
+      text="REYNOLDS, K rush for 4 yards to the NAVY9 (Smith, Jordan;Voit, John)." newcontext="H,4,4,H09">
+    <p_ru vh="H" name="REYNOLDS, K" gain="4"></p_ru>
+    <p_tk vh="V" name="Smith, Jordan" assist="Y"></p_tk>
+    <p_tk vh="V" name="Voit, John" assist="Y"></p_tk>
+   </play>
+   <play hasball="NAVY" down="4" togo="4" spot="NAVY09" context="H,4,4,H09" playid="28,6,194" type="#" clock="00:21" tokens="TOUT:H T:00:21"
+      text="Timeout Navy, clock 00:21." newcontext="H,4,4,H09">
+    <p_to vh="H" team="Navy"></p_to>
+   </play>
+   <play hasball="NAVY" down="4" togo="4" spot="NAVY09" context="H,4,4,H09" playid="28,7,195" type="U" tokens="PUNT:80,V41 RET:82,V42 TACK:24"
+      text="BARTA, Alex punt 50 yards to the ARMY41, Poe, Edgar return 1 yards to the ARMY42 (WALKER, Joshua)." newcontext="V,1,10,V42">
+    <p_pu vh="H" name="BARTA, Alex" gain="50"></p_pu>
+    <p_pr vh="V" name="Poe, Edgar" gain="1"></p_pr>
+    <p_tk vh="H" name="WALKER, Joshua"></p_tk>
+   </play>
+   <drivesum plays="3" yards="6" top="1:52" driveindex="28" complete="Y"></drivesum>
+   <drivestart poss="V,V42,00:11" vh="V" spot="V42" clock="00:11" driveindex="29,195"></drivestart>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY42" context="V,1,10,V42" playid="29,1,196" clock="00:11" tokens="{DRIVE}:00:11"
+      text="ARMY WEST POINT drive start at 00:11." newcontext="V,1,10,V42">
+   </play>
+   <play hasball="ARMY" down="1" togo="10" spot="ARMY42" context="V,1,10,V42" playid="29,2,197" type="P" tokens="PASS:3A,I,TM,*"
+      text="Langdon, Luke pass incomplete." newcontext="V,2,10,V42">
+    <p_pa vh="V" qb="Langdon, Luke" result="INC"></p_pa>
+   </play>
+   <play hasball="ARMY" down="2" togo="10" spot="ARMY42" context="V,2,10,V42" playid="29,3,198" type="P" tokens="PASS:2,I,TM,*"
+      text="White, Kelvin pass incomplete." newcontext="V,3,10,V42">
+    <p_pa vh="V" qb="White, Kelvin" result="INC"></p_pa>
+   </play>
+   <play hasball="ARMY" down="3" togo="10" spot="ARMY42" context="V,3,10,V42" playid="29,4,199" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of game, clock 00:00." newcontext="V,3,10,V42">
+   </play>
+   <drivesum plays="2" yards="0" top="0:11" driveindex="29" complete="Y"></drivesum>
+   <score final="Y" V="17" H="21"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="ARMY">
+    <firstdowns no="3" rush="1" pass="2" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="2" lost="1"></fumbles>
+    <misc yds="0" top="05:14"></misc>
+    <rush att="6" yds="9" gain="14" loss="5" td="0" long="0"></rush>
+    <pass comp="3" att="7" int="2" yds="80" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="80" td="0" long="0"></rcv>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <defense tackua="12" tacka="8" tot_tack="20" sacks="0" sackyds="0"></defense>
+    <pr no="1" yds="1" td="0" long="0"></pr>
+    <fumbles no="2" lost="1"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="NAVY">
+    <firstdowns no="3" rush="2" pass="1" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="1" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:46"></misc>
+    <rush att="15" yds="44" gain="44" loss="0" td="0" long="0"></rush>
+    <pass comp="1" att="2" int="0" yds="11" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="11" td="0" long="0"></rcv>
+    <punt no="4" yds="168" long="0" blkd="0" tb="2" fc="0" plus50="1" inside20="0" avg="42.0"></punt>
+    <defense tackua="8" tacka="0" tot_tack="8" tflua="1" tfla="0" tflyds="4" sacks="0" sackyds="0" fr="1" fryds="0" int="2" intyds="1"></defense>
+    <ir no="2" yds="1" td="0" long="1"></ir>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="V" id="ARMY" down="3" togo="10" spot="ARMY42" context="V,3,10,V42" qtr="4" clock="00:00" vtoh="3" htoh="3"
+       lastplay="End of game, clock 00:00."></downtogo>
+ </plays>
+ <message text=""></message>
+ <dnp vh="V" id="ARMY">
+  <player name="Rhoden, PaulAndrew" checkname="RHODEN,P" uni="2H" class="JR" gp="0" code="2H"></player>
+  <player name="Muhammed, Isa" checkname="MUHAMMED,ISA" uni="2E" class="FR" gp="0" code="2E"></player>
+  <player name="Howard, Mitchell" checkname="HOWARD,M" uni="2B" class="JR" gp="0" code="2B"></player>
+  <player name="Waugh, Alex" checkname="WAUGH,ALEX" uni="3I" class="SO" gp="0" code="3I"></player>
+  <player name="Schurr, A.J." checkname="SCHURR,AJ" uni="1A" class="SR" gp="0" code="1A"></player>
+  <player name="Corless Jr., Joe" checkname="CORLESS JR.,J" uni="3D" class="FR" gp="0" code="3D"></player>
+  <player name="Dionne, Casey" checkname="DIONNE,CASEY" uni="3B" class="FR" gp="0" code="3B"></player>
+  <player name="Crossdale, M." checkname="CROSSDALE,M" uni="3C" class="FR" gp="0" code="3C"></player>
+  <player name="Jones, Jarrod" checkname="JONES,JARROD" uni="4F" class="FR" gp="0" code="4F"></player>
+  <player name="Kaufmann, Matthew" checkname="KAUFMANN,M" uni="4" class="JR" gp="0" code="4"></player>
+  <player name="Hardaway, Ray" checkname="HARDAWAY,RAY" uni="4B" class="FR" gp="0" code="4B"></player>
+  <player name="Welton, Spencer" checkname="WELTON,SPENCER" uni="5I" class="SO" gp="0" code="5I"></player>
+  <player name="Palelei, Ethan" checkname="PALELEI,ETHAN" uni="5F" class="FR" gp="0" code="5F"></player>
+  <player name="Sannella, Matt" checkname="SANNELLA,MATT" uni="5D" class="SO" gp="0" code="5D"></player>
+  <player name="Walker, Joe" checkname="WALKER,JOE" uni="5" class="JR" gp="0" code="5"></player>
+  <player name="Tuitahi, Kaveinga" checkname="TUITAHI,K" uni="5G" class="FR" gp="0" code="5G"></player>
+  <player name="Trainor, John" checkname="TRAINOR,JOHN" uni="6" class="SO" gp="0" code="6"></player>
+  <player name="Natter, Angelo" checkname="NATTER,ANGELO" uni="7C" class="FR" gp="0" code="7C"></player>
+  <player name="Allgor, Matt" checkname="ALLGOR,MATT" uni="7B" class="FR" gp="0" code="7B"></player>
+  <player name="Gant, Tim" checkname="GANT,TIM" uni="7F" class="FR" gp="0" code="7F"></player>
+  <player name="Sanders, Corey" checkname="SANDERS,COREY" uni="1D" class="FR" gp="0" code="1D"></player>
+  <player name="Tustin, Joe" checkname="TUSTIN,JOE" uni="7E" class="SO" gp="0" code="7E"></player>
+  <player name="Peterman, Luke" checkname="PETERMAN,LUKE" uni="8A" class="FR" gp="0" code="8A"></player>
+  <player name="Simon, Gervon" checkname="SIMON,GERVON" uni="10" class="JR" gp="0" code="10"></player>
+  <player name="Brewer, Cale" checkname="BREWER,CALE" uni="1G" class="SR" gp="0" code="1G"></player>
+  <player name="Bradshaw, Ahmad" checkname="BRADSHAW,AHMAD" uni="17" class="SO" gp="0" code="17"></player>
+  <player name="Rogers, Jared" checkname="ROGERS,JARED" uni="18" class="SR" gp="0" code="18"></player>
+  <player name="Woolfolk, Darnell" checkname="WOOLFOLK,D" uni="26" class="FR" gp="0" code="26"></player>
+  <player name="St. Hilaire, Elijah" checkname="ST. HILAIRE,E" uni="30" class="JR" gp="0" code="30"></player>
+  <player name="McNeill, Caleb" checkname="MCNEILL,CALEB" uni="31" class="JR" gp="0" code="31"></player>
+  <player name="Washle, Scott" checkname="WASHLE,SCOTT" uni="36" class="SO" gp="0" code="36"></player>
+  <player name="Goddard, Blake" checkname="GODDARD,BLAKE" uni="37" class="SO" gp="0" code="37"></player>
+  <player name="Ricciardi, Kyle" checkname="RICCIARDI,KYLE" uni="44" class="SR" gp="0" code="44"></player>
+  <player name="L'Hommedieu, Tyler" checkname="L'HOMMEDIEU,T" uni="45" class="SO" gp="0" code="45"></player>
+  <player name="Johnson, Samuel" checkname="JOHNSON,SAMUEL" uni="47" class="FR" gp="0" code="47"></player>
+  <player name="Lemoto, Shawn" checkname="LEMOTO,SHAWN" uni="48" class="JR" gp="0" code="48"></player>
+  <player name="Shiver, Nick" checkname="SHIVER,NICK" uni="49" class="SO" gp="0" code="49"></player>
+  <player name="Wolf, Bayle" checkname="WOLF,BAYLE" uni="52" class="SO" gp="0" code="52"></player>
+  <player name="Tamasese, Lofi" checkname="TAMASESE,LOFI" uni="55" class="JR" gp="0" code="55"></player>
+  <player name="Tamasese, Riko" checkname="TAMASESE,RIKO" uni="63" class="FR" gp="0" code="63"></player>
+  <player name="Nieves III, Victor" checkname="NIEVES III,V" uni="64" class="FR" gp="0" code="64"></player>
+  <player name="Boylan, Joshua" checkname="BOYLAN,JOSHUA" uni="66" class="SO" gp="0" code="66"></player>
+  <player name="Schillaci, Niko" checkname="SCHILLACI,NIKO" uni="68" class="SR" gp="0" code="68"></player>
+  <player name="Panara, Jeff" checkname="PANARA,JEFF" uni="70" class="FR" gp="0" code="70"></player>
+  <player name="Young, Tyler" checkname="YOUNG,TYLER" uni="71" class="FR" gp="0" code="71"></player>
+  <player name="Enegren, Colby" checkname="ENEGREN,COLBY" uni="72" class="JR" gp="0" code="72"></player>
+  <player name="Griffith-James, J." checkname="GRIFFITH-JAMES" uni="76" class="FR" gp="0" code="76"></player>
+  <player name="Wright, Raymond" checkname="WRIGHT,RAYMOND" uni="77" class="FR" gp="0" code="77"></player>
+  <player name="Toth, Brett" checkname="TOTH,BRETT" uni="78" class="SO" gp="0" code="78"></player>
+  <player name="Ejekam, Jeff" checkname="EJEKAM,JEFF" uni="81" class="SO" gp="0" code="81"></player>
+  <player name="Adams, Jermaine" checkname="ADAMS,JERMAINE" uni="84" class="SO" gp="0" code="84"></player>
+  <player name="Poe, Christian" checkname="POE,CHRISTIAN" uni="86" class="FR" gp="0" code="86"></player>
+  <player name="Sharp, Jalen" checkname="SHARP,JALEN" uni="87" class="FR" gp="0" code="87"></player>
+  <player name="Tookes, Jamal" checkname="TOOKES,JAMAL" uni="89" class="FR" gp="0" code="89"></player>
+  <player name="Ruzga, Eddy" checkname="RUZGA,EDDY" uni="90" class="JR" gp="0" code="90"></player>
+  <player name="Oyetuga, Wunmi" checkname="OYETUGA,WUNMI" uni="91" class="FR" gp="0" code="91"></player>
+  <player name="Tia, Toese" checkname="TIA,TOESE" uni="94" class="FR" gp="0" code="94"></player>
+  <player name="Wilkerson, Wyatt" checkname="WILKERSON,W" uni="97" class="SR" gp="0" code="97"></player>
+ </dnp>
+ <dnp vh="H" id="NAVY">
+  <player name="PETERSEN, Brady" checkname="PETERSEN,BRADY" uni="2J" class="FR" gp="0" code="2J"></player>
+  <player name="HEFLIN, Taylor" checkname="HEFLIN,TAYLOR" uni="3B" class="FR" gp="0" code="3B"></player>
+  <player name="PITTMAN, Jordan" checkname="PITTMAN,JORDAN" uni="4D" class="SO" gp="0" code="4D"></player>
+  <player name="BROWN, Josh" checkname="BROWN,JOSH" uni="4E" class="SO" gp="0" code="4E"></player>
+  <player name="GARGIULO, Anthony" checkname="GARGIULO,A" uni="4F" class="FR" gp="0" code="4F"></player>
+  <player name="GRANT-JOHNSON, DJ" checkname="GRANT-JOHNSON" uni="4I" class="JR" gp="0" code="4I"></player>
+  <player name="OLSEN, Trey" checkname="OLSEN,TREY" uni="5H" class="SO" gp="0" code="5H"></player>
+  <player name="HAWK, Jake" checkname="HAWK,JAKE" uni="5F" class="FR" gp="0" code="5F"></player>
+  <player name="WEBB, Josh" checkname="WEBB,JOSH" uni="6F" class="FR" gp="0" code="6F"></player>
+  <player name="SLOAN, Nick" checkname="SLOAN,NICK" uni="6X" class="SR" gp="0" code="6X"></player>
+  <player name="LANIEWSKI, Zach" checkname="LANIEWSKI,ZACH" uni="6H" class="SR" gp="0" code="6H"></player>
+  <player name="NOLLER, Trenton" checkname="NOLLER,TRENTON" uni="7G" class="SO" gp="0" code="7G"></player>
+  <player name="WHITE, Shelley" checkname="WHITE,SHELLEY" uni="7" class="SR" gp="0" code="7"></player>
+  <player name="DUDECK, Cameron" checkname="DUDECK,CAMERON" uni="9X" class="FR" gp="0" code="9X"></player>
+  <player name="BRYANT, Cameron" checkname="BRYANT,CAMERON" uni="10" class="JR" gp="0" code="10"></player>
+  <player name="JERNIGAN, Gavin" checkname="JERNIGAN,GAVIN" uni="16" class="SR" gp="0" code="16"></player>
+  <player name="BERTRAND, Kwazel" checkname="BERTRAND,K" uni="17" class="SR" gp="0" code="17"></player>
+  <player name="SMITH, Tago" checkname="SMITH,TAGO" uni="18" class="JR" gp="0" code="18"></player>
+  <player name="THOMPSON, Troy" checkname="THOMPSON,TROY" uni="1B" class="JR" gp="0" code="1B"></player>
+  <player name="MUNSON, James" checkname="MUNSON,JAMES" uni="2E" class="SO" gp="0" code="2E"></player>
+  <player name="SWAIN, Myles" checkname="SWAIN,MYLES" uni="23" class="JR" gp="0" code="23"></player>
+  <player name="GILLIS, John" checkname="GILLIS,JOHN" uni="2F" class="FR" gp="0" code="2F"></player>
+  <player name="BONNER, Darryl" checkname="BONNER,DARRYL" uni="29" class="SO" gp="0" code="29"></player>
+  <player name="HIGH, Chris" checkname="HIGH,CHRIS" uni="33" class="SO" gp="0" code="33"></player>
+  <player name="NORTON, Justin" checkname="NORTON,JUSTIN" uni="34" class="SO" gp="0" code="34"></player>
+  <player name="MARTINEZ, Nick" checkname="MARTINEZ,NICK" uni="35" class="SR" gp="0" code="35"></player>
+  <player name="WADE, Jalen" checkname="WADE,JALEN" uni="36" class="JR" gp="0" code="36"></player>
+  <player name="WOOTEN, Tyris" checkname="WOOTEN,TYRIS" uni="1D" class="SO" gp="0" code="1D"></player>
+  <player name="WALKER, Tre" checkname="WALKER,TRE" uni="39" class="FR" gp="0" code="39"></player>
+  <player name="HESTER, Zach" checkname="HESTER,ZACH" uni="41" class="SR" gp="0" code="41"></player>
+  <player name="MOUTON, Kendrick" checkname="MOUTON,K" uni="42" class="JR" gp="0" code="42"></player>
+  <player name="HUNTSMAN, Will" checkname="HUNTSMAN,WILL" uni="46" class="SR" gp="0" code="46"></player>
+  <player name="AKPUNKU, A.K." checkname="AKPUNKU,AK" uni="47" class="SR" gp="0" code="47"></player>
+  <player name="PEARSON, Don" checkname="PEARSON,DON" uni="50" class="SR" gp="0" code="50"></player>
+  <player name="HOWARD, Winn" checkname="HOWARD,WINN" uni="51" class="SO" gp="0" code="51"></player>
+  <player name="WHITE, Seth" checkname="WHITE,SETH" uni="63" class="SO" gp="0" code="63"></player>
+  <player name="ROBBINS, Jeremiah" checkname="ROBBINS,J" uni="66" class="JR" gp="0" code="66"></player>
+  <player name="DUSZ, Rob" checkname="DUSZ,ROB" uni="74" class="JR" gp="0" code="74"></player>
+  <player name="SATCHELL, Steve" checkname="SATCHELL,STEVE" uni="76" class="FR" gp="0" code="76"></player>
+  <player name="FERGUSON, John" checkname="FERGUSON,JOHN" uni="78" class="JR" gp="0" code="78"></player>
+  <player name="COPELAND, Blake" checkname="COPELAND,BLAKE" uni="79" class="JR" gp="0" code="79"></player>
+  <player name="JACKSON, Taylor" checkname="JACKSON,TAYLOR" uni="81" class="FR" gp="0" code="81"></player>
+  <player name="MEIER, Marc" checkname="MEIER,MARC" uni="83" class="SR" gp="0" code="83"></player>
+  <player name="QUERRY, Ronnie" checkname="QUERRY,RONNIE" uni="85" class="SO" gp="0" code="85"></player>
+  <player name="TURNER, Julian" checkname="TURNER,JULIAN" uni="86" class="JR" gp="0" code="86"></player>
+  <player name="MILES, Reggie" checkname="MILES,REGGIE" uni="93" class="SO" gp="0" code="93"></player>
+  <player name="RAIFORD, Michael" checkname="RAIFORD,M" uni="96" class="SO" gp="0" code="96"></player>
+  <player name="UZOMA, Nnamdi" checkname="UZOMA,NNAMDI" uni="97" class="JR" gp="0" code="97"></player>
+ </dnp>
+ <longplays thresh="70">
+ </longplays>
+</fbgame>

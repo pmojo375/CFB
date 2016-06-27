@@ -1,0 +1,1891 @@
+<fbgame source="Tas Football" version="4.16.07" generated="9/6/2015">
+ <venue gameid="EWU-ORE" visid="EWU" homeid="ORE" visname="Eastern Washington" homename="Oregon"
+      date="9/5/2015" location="Eugene, OR" stadium="Autzen Stadium"
+      start="5:07 PM" end="08:31" nitegame="Y"
+      duration="3:24" attend="58128" temp="69" wind="Calm" weather="Partly Sunny">
+  <officials ref="Clark,Land" ump="Jordan,Matt" line="Day,Bob" lj="Robinson,Jeff" bj="Nelson,Justin" fj="Morton,John" sj="Hulscher,Bernie" cj="Love,John" alt="Love,John"></officials>
+  <rules qtrs="4" mins="15" downs="4" yds="10" kospot="35" tbspot="20" kotbspot="25" patspot="3" safspot="20" td="6" fg="3" pat="1" patx="2" saf="2" defpat="2" rouge="1" field="100" toh="3" sackrush="Y" fgaplay="Y" netpunttb="Y"></rules>
+ </venue>
+ <team vh="V" code="207" id="EWU" name="Eastern Washington" record="0-1" abb="V">
+  <linescore prds="4" line="7,14,14,7" score="42">
+   <lineprd prd="1" score="7"></lineprd>
+   <lineprd prd="2" score="14"></lineprd>
+   <lineprd prd="3" score="14"></lineprd>
+   <lineprd prd="4" score="7"></lineprd>
+  </linescore>
+  <totals totoff_plays="86" totoff_yards="549" totoff_avg="6.4">
+   <firstdowns no="31" rush="9" pass="19" penalty="3"></firstdowns>
+   <penalties no="11" yds="78"></penalties>
+   <conversions thirdconv="6" thirdatt="14" fourthconv="3" fourthatt="3"></conversions>
+   <fumbles no="0" lost="0"></fumbles>
+   <misc yds="0" top="33:13" ona="0" onm="0" ptsto="7"></misc>
+   <redzone att="6" scores="6" points="42" tdrush="1" tdpass="5" fgmade="0" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="31" yds="111" gain="120" loss="9" td="1" long="13"></rush>
+   <pass comp="37" att="55" int="2" yds="438" td="5" long="73" sacks="1" sackyds="8"></pass>
+   <rcv no="37" yds="438" td="5" long="73"></rcv>
+   <punt no="4" yds="151" long="46" blkd="0" tb="0" fc="2" plus50="0" inside20="0" avg="37.8"></punt>
+   <ko no="7" yds="307" ob="0" tb="0"></ko>
+   <pat kickatt="6" kickmade="6"></pat>
+   <defense tackua="47" tacka="30" tot_tack="77" tflua="2" tfla="2" tflyds="11" sacks="1" sackyds="5" brup="3" ff="1" fr="1" fryds="0"></defense>
+   <kr no="5" yds="105" td="0" long="30"></kr>
+   <scoring td="6" patkick="6"></scoring>
+  </totals>
+  <player name="Shaq Hill" shortname="Shaq Hill" checkname="HILL,SHAQ" uni="1" class="SR" gp="1" gs="1" opos="WR" code="1">
+   <rcv no="4" yds="49" td="1" long="23"></rcv>
+   <kr no="1" yds="22" td="0" long="22"></kr>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Jabari Wilson" shortname="Jabari Wilson" checkname="WILSON,JABARI" uni="2" class="JR" gp="1" gs="1" opos="RB" code="2">
+   <rush att="10" yds="43" gain="43" loss="0" td="1" long="10"></rush>
+   <rcv no="1" yds="6" td="0" long="6"></rcv>
+   <kr no="1" yds="13" td="0" long="13"></kr>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Todd Raynes" shortname="Todd Raynes" checkname="RAYNES,TODD" uni="4" class="SR" gp="1" gs="1" dpos="ROV" code="4">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="Jordan West" shortname="Jordan West" checkname="WEST,JORDAN" uni="5" class="JR" gp="1" gs="1" opos="QB" code="5">
+   <rush att="3" yds="1" gain="9" loss="8" td="0" long="5"></rush>
+   <pass comp="23" att="34" int="1" yds="293" td="3" long="73" sacks="1" sackyds="8"></pass>
+  </player>
+  <player name="Nzuzi Webster" shortname="Nzuzi Webster" checkname="WEBSTER,NZUZI" uni="6" class="FR" gp="1" gs="1" dpos="CB" code="6">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Nic Sblendorio" shortname="Nic Sblendorio" checkname="SBLENDORIO,NIC" uni="7" class="SO" gp="1" code="7">
+   <rcv no="3" yds="20" td="0" long="10"></rcv>
+  </player>
+  <player name="Miles Weatheroy" shortname="Miles Weatheroy" checkname="WEATHEROY,MILES" uni="8" class="SR" gp="1" code="8">
+   <defense tackua="8" tacka="1" tot_tack="9"></defense>
+  </player>
+  <player name="Zach Wimberly" shortname="Zach Wimberly" checkname="WIMBERLY,ZACH" uni="9" class="JR" gp="1" code="9">
+   <rcv no="1" yds="13" td="0" long="13"></rcv>
+  </player>
+  <player name="Cooper Kupp" shortname="Cooper Kupp" checkname="KUPP,COOPER" uni="10" class="JR" gp="1" gs="1" opos="WR" code="10">
+   <rcv no="15" yds="246" td="3" long="73"></rcv>
+   <scoring td="3"></scoring>
+  </player>
+  <player name="Kendrick Bourne" shortname="Kendrick Bourne" checkname="BOURNE,KENDRICK" uni="11" class="JR" gp="1" gs="1" opos="WR" code="11">
+   <rcv no="5" yds="60" td="1" long="33"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="R. Hennessey" shortname="R. Hennessey" checkname="HENNESSEY,R" uni="12" class="FR" gp="1" code="12">
+   <rush att="3" yds="20" gain="20" loss="0" td="0" long="13"></rush>
+   <pass comp="14" att="21" int="1" yds="145" td="2" long="37" sacks="0" sackyds="0"></pass>
+  </player>
+  <player name="Mitch Fettig" shortname="Mitch Fettig" checkname="FETTIG,MITCH" uni="13" class="FR" gp="1" gs="1" dpos="FS" code="13">
+   <defense tackua="7" tacka="1" tot_tack="8" fr="1" fryds="0"></defense>
+  </player>
+  <player name="Jake Hoffman" shortname="Jake Hoffman" checkname="HOFFMAN,JAKE" uni="17" class="SO" gp="1" code="17"></player>
+  <player name="D'londo Tucker" shortname="D'londo Tucker" checkname="TUCKER,D'LONDO" uni="18" class="SO" gp="1" code="18">
+   <defense brup="1"></defense>
+  </player>
+  <player name="Josh Lewis" shortname="Josh Lewis" checkname="LEWIS,JOSH" uni="19" class="FR" gp="1" code="19"></player>
+  <player name="Sam McPherson" shortname="Sam McPherson" checkname="MCPHERSON,SAM" uni="20" class="FR" gp="1" code="20">
+   <rush att="2" yds="3" gain="3" loss="0" td="0" long="3"></rush>
+  </player>
+  <player name="Rashad Wadood" shortname="Rashad Wadood" checkname="WADOOD,RASHAD" uni="21" class="SR" gp="1" code="21">
+   <defense tackua="3" tacka="2" tot_tack="5" tflua="0" tfla="1" tflyds="2"></defense>
+  </player>
+  <player name="Simba Webster" shortname="Simba Webster" checkname="WEBSTER,SIMBA" uni="22" class="FR" gp="1" code="22">
+   <rush att="1" yds="0" gain="0" loss="0" td="0" long="0"></rush>
+   <rcv no="2" yds="8" td="0" long="9"></rcv>
+   <kr no="3" yds="70" td="0" long="30"></kr>
+  </player>
+  <player name="Moe Roberts" shortname="Moe Roberts" checkname="ROBERTS,MOE" uni="23" class="SO" gp="1" code="23">
+   <defense tackua="0" tacka="1" tot_tack="1" tflua="0" tfla="1" tflyds="2"></defense>
+  </player>
+  <player name="Victor Gamboa" shortname="Victor Gamboa" checkname="GAMBOA,VICTOR" uni="27" class="SO" gp="1" gs="1" dpos="CB" code="27">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Jalen Moore" shortname="Jalen Moore" checkname="MOORE,JALEN" uni="28" class="JR" gp="1" code="28">
+   <rush att="5" yds="7" gain="8" loss="1" td="0" long="5"></rush>
+   <rcv no="3" yds="3" td="0" long="6"></rcv>
+  </player>
+  <player name="Zach Bruce" shortname="Zach Bruce" checkname="BRUCE,ZACH" uni="32" class="JR" gp="1" gs="1" dpos="SS" code="32">
+   <defense tackua="5" tacka="1" tot_tack="6" ff="1"></defense>
+  </player>
+  <player name="Malcom Williams" shortname="Malcom Williams" checkname="WILLIAMS,MALCOM" uni="33" class="FR" gp="1" code="33">
+   <rush att="7" yds="37" gain="37" loss="0" td="0" long="8"></rush>
+   <rcv no="1" yds="6" td="0" long="6"></rcv>
+  </player>
+  <player name="Alek Kacmarcik" shortname="Alek Kacmarcik" checkname="KACMARCIK,ALEK" uni="35" class="FR" gp="1" code="35">
+   <defense tackua="4" tacka="3" tot_tack="7"></defense>
+  </player>
+  <player name="Cole Karstetter" shortname="Cole Karstetter" checkname="KARSTETTER,COLE" uni="37" class="FR" gp="1" code="37">
+   <defense tackua="3" tacka="2" tot_tack="5" tflua="1" tfla="0" tflyds="2"></defense>
+  </player>
+  <player name="Curtis Billen" shortname="Curtis Billen" checkname="BILLEN,CURTIS" uni="39" class="FR" gp="1" code="39"></player>
+  <player name="Ketner Kupp" shortname="Ketner Kupp" checkname="KUPP,KETNER" uni="40" class="FR" gp="1" code="40">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Jake Gall" shortname="Jake Gall" checkname="GALL,JAKE" uni="43" class="SO" gp="1" gs="1" dpos="SLB" code="43">
+   <defense tackua="4" tacka="2" tot_tack="6"></defense>
+  </player>
+  <player name="John Kreifels" shortname="John Kreifels" checkname="KREIFELS,JOHN" uni="44" class="SO" gp="1" code="44"></player>
+  <player name="Jordan Dascalo" shortname="Jordan Dascalo" checkname="DASCALO,JORDAN" uni="45" class="SO" gp="1" code="45">
+   <punt no="4" yds="151" long="46" blkd="0" tb="0" fc="2" plus50="0" inside20="0" avg="37.8"></punt>
+   <ko no="4" yds="210" ob="0" tb="0"></ko>
+  </player>
+  <player name="Conner Baumann" shortname="Conner Baumann" checkname="BAUMANN,CONNER" uni="46" class="SO" gp="1" code="46">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Miquiyah Zamora" shortname="Miquiyah Zamora" checkname="ZAMORA,MIQUIYAH" uni="49" class="JR" gp="1" gs="1" dpos="MLB" code="49">
+   <defense tackua="2" tacka="3" tot_tack="5"></defense>
+  </player>
+  <player name="B. Bangsund" shortname="B. Bangsund" checkname="BANGSUND,B" uni="51" class="FR" gp="1" code="51">
+   <pat kickatt="1" kickmade="1"></pat>
+   <scoring patkick="1"></scoring>
+  </player>
+  <player name="Jonah Jordan" shortname="Jonah Jordan" checkname="JORDAN,JONAH" uni="53" class="FR" gp="1" code="53">
+   <defense tackua="1" tacka="2" tot_tack="3"></defense>
+  </player>
+  <player name="Andre Lino" shortname="Andre Lino" checkname="LINO,ANDRE" uni="55" class="SO" gp="1" gs="1" dpos="DT" code="55">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="Jakob Stoll" shortname="Jakob Stoll" checkname="STOLL,JAKOB" uni="56" class="FR" gp="1" code="56">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="David Delgado" shortname="David Delgado" checkname="DELGADO,DAVID" uni="58" class="SR" gp="1" code="58"></player>
+  <player name="Kurt Calhoun" shortname="Kurt Calhoun" checkname="CALHOUN,KURT" uni="59" class="FR" gp="1" code="59">
+   <defense tackua="0" tacka="1" tot_tack="1" brup="1"></defense>
+  </player>
+  <player name="Jerrod Jones" shortname="Jerrod Jones" checkname="JONES,JERROD" uni="60" class="JR" gp="1" code="60"></player>
+  <player name="Thomas Gomez" shortname="Thomas Gomez" checkname="GOMEZ,THOMAS" uni="66" class="SR" gp="1" gs="1" opos="RG" code="66"></player>
+  <player name="Jim Townsend" shortname="Jim Townsend" checkname="TOWNSEND,JIM" uni="68" class="FR" gp="1" code="68"></player>
+  <player name="Aaron Neary" shortname="Aaron Neary" checkname="NEARY,AARON" uni="72" class="SR" gp="1" gs="1" opos="LG" code="72"></player>
+  <player name="T.J. Boatright" shortname="T.J. Boatright" checkname="BOATRIGHT,TJ" uni="73" class="SR" gp="1" gs="1" opos="C" code="73"></player>
+  <player name="Tyler McNannay" shortname="Tyler McNannay" checkname="MCNANNAY,TYLER" uni="76" class="SR" gp="1" code="76">
+   <ko no="3" yds="97" ob="0" tb="0"></ko>
+   <pat kickatt="5" kickmade="5"></pat>
+   <scoring patkick="5"></scoring>
+  </player>
+  <player name="Clay DeBord" shortname="Clay DeBord" checkname="DEBORD,CLAY" uni="78" class="SR" gp="1" gs="1" opos="LT" code="78"></player>
+  <player name="Cassidy Curtis" shortname="Cassidy Curtis" checkname="CURTIS,CASSIDY" uni="79" class="SR" gp="1" gs="1" opos="RT" code="79"></player>
+  <player name="Stu Stiles" shortname="Stu Stiles" checkname="STILES,STU" uni="81" class="FR" gp="1" code="81"></player>
+  <player name="Jake Withnell" shortname="Jake Withnell" checkname="WITHNELL,JAKE" uni="82" class="SR" gp="1" gs="1" opos="TE" code="82"></player>
+  <player name="Jalani Phelps" shortname="Jalani Phelps" checkname="PHELPS,JALANI" uni="83" class="FR" gp="1" code="83"></player>
+  <player name="Henderson Belk" shortname="Henderson Belk" checkname="BELK,HENDERSON" uni="85" class="FR" gp="1" code="85"></player>
+  <player name="Terence Grady" shortname="Terence Grady" checkname="GRADY,TERENCE" uni="88" class="SO" gp="1" code="88">
+   <rcv no="2" yds="27" td="0" long="18"></rcv>
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="Terry Jackson" shortname="Terry Jackson" checkname="JACKSON,TERRY" uni="89" class="SR" gp="1" code="89"></player>
+  <player name="Keenan Williams" shortname="Keenan Williams" checkname="WILLIAMS,KEENAN" uni="90" class="FR" gp="1" gs="1" dpos="DE" code="90">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Samson Ebukam" shortname="Samson Ebukam" checkname="EBUKAM,SAMSON" uni="91" class="JR" gp="1" gs="1" dpos="DE" code="91">
+   <defense tackua="1" tacka="2" tot_tack="3" tflua="1" tfla="0" tflyds="5" sackua="1" sacka="0" sackyds="5" brup="1"></defense>
+  </player>
+  <player name="Marcus Saugen" shortname="Marcus Saugen" checkname="SAUGEN,MARCUS" uni="93" class="SO" gp="1" code="93">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="Matthew Sommer" shortname="Matthew Sommer" checkname="SOMMER,MATTHEW" uni="94" class="JR" gp="1" code="94">
+   <defense tackua="1" tacka="2" tot_tack="3"></defense>
+  </player>
+  <player name="Kaleb Levao" shortname="Kaleb Levao" checkname="LEVAO,KALEB" uni="97" class="FR" gp="1" code="97"></player>
+  <player name="Monike Sarte" shortname="Monike Sarte" checkname="SARTE,MONIKE" uni="98" class="FR" gp="1" code="98"></player>
+  <player name="Jay-Tee Tiuli" shortname="Jay-Tee Tiuli" checkname="TIULI,JAY-TEE" uni="99" class="SO" gp="1" gs="1" dpos="NT" code="99">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+ </team>
+ <team vh="H" code="529" id="ORE" name="Oregon" record="1-0" abb="H" rank="7">
+  <linescore prds="4" line="20,17,17,7" score="61">
+   <lineprd prd="1" score="20"></lineprd>
+   <lineprd prd="2" score="17"></lineprd>
+   <lineprd prd="3" score="17"></lineprd>
+   <lineprd prd="4" score="7"></lineprd>
+  </linescore>
+  <totals totoff_plays="82" totoff_yards="731" totoff_avg="8.9">
+   <firstdowns no="34" rush="21" pass="11" penalty="2"></firstdowns>
+   <penalties no="8" yds="70"></penalties>
+   <conversions thirdconv="5" thirdatt="10" fourthconv="3" fourthatt="4"></conversions>
+   <fumbles no="2" lost="1"></fumbles>
+   <misc yds="0" top="26:47" ona="0" onm="0" ptsto="7"></misc>
+   <redzone att="9" scores="8" points="51" tdrush="6" tdpass="1" fgmade="1" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="1" endgame="0"></redzone>
+   <rush att="57" yds="485" gain="498" loss="13" td="6" long="61"></rush>
+   <pass comp="19" att="25" int="0" yds="246" td="2" long="46" sacks="1" sackyds="5"></pass>
+   <rcv no="19" yds="246" td="2" long="46"></rcv>
+   <ko no="10" yds="636" ob="0" tb="5"></ko>
+   <fg made="2" att="2" long="38" blkd="0"></fg>
+   <pat kickatt="7" kickmade="7" passatt="1" passmade="0"></pat>
+   <defense tackua="46" tacka="28" tot_tack="74" tflua="3" tfla="2" tflyds="13" sacks="1" sackyds="8" brup="4" qbh="3" int="2" intyds="21"></defense>
+   <kr no="5" yds="113" td="0" long="36"></kr>
+   <pr no="1" yds="6" td="0" long="6"></pr>
+   <ir no="2" yds="21" td="0" long="17"></ir>
+   <scoring td="8" fg="2" patkick="7"></scoring>
+  </totals>
+  <player name="Adams Jr., V." shortname="Adams Jr., V." checkname="ADAMS JR.,V" uni="0C" class="SR" gp="1" gs="1" opos="QB" code="0C">
+   <rush att="14" yds="94" gain="101" loss="7" td="0" long="24"></rush>
+   <pass comp="19" att="25" int="0" yds="246" td="2" long="46" sacks="1" sackyds="5"></pass>
+   <fumbles no="2" lost="1"></fumbles>
+  </player>
+  <player name="Alie, Taylor" shortname="Alie, Taylor" checkname="ALIE,TAYLOR" uni="1B" class="SO" gp="1" code="1B">
+   <pat passatt="1" passmade="0"></pat>
+  </player>
+  <player name="Lockie, Jeff" shortname="Lockie, Jeff" checkname="LOCKIE,JEFF" uni="1G" class="JR" gp="1" code="1G"></player>
+  <player name="Springs, Arrion" shortname="Springs, Arrion" checkname="SPRINGS,ARRION" uni="1" class="SO" gp="1" gs="1" dpos="CB" code="1">
+   <defense tackua="7" tacka="0" tot_tack="7" brup="2"></defense>
+  </player>
+  <player name="Addison, Bralon" shortname="Addison, Bralon" checkname="ADDISON,BRALON" uni="2" class="JR" gp="1" gs="1" opos="WR" code="2">
+   <rush att="1" yds="7" gain="7" loss="0" td="0" long="7"></rush>
+   <rcv no="3" yds="24" td="1" long="9"></rcv>
+   <kr no="1" yds="14" td="0" long="14"></kr>
+   <pr no="1" yds="6" td="0" long="6"></pr>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Robinson, Tyree" shortname="Robinson, Tyree" checkname="ROBINSON,TYREE" uni="3" class="SO" gp="1" gs="1" dpos="FS" code="3">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Griffin, Taj" shortname="Griffin, Taj" checkname="GRIFFIN,TAJ" uni="5" class="FR" gp="1" code="5">
+   <rush att="3" yds="60" gain="64" loss="4" td="0" long="61"></rush>
+  </player>
+  <player name="Daniels, Reggie" shortname="Daniels, Reggie" checkname="DANIELS,REGGIE" uni="8" class="JR" gp="1" gs="1" dpos="SS" code="8">
+   <defense tackua="3" tacka="1" tot_tack="4"></defense>
+  </player>
+  <player name="Marshall, Byron" shortname="Marshall, Byron" checkname="MARSHALL,BYRON" uni="9" class="SR" gp="1" gs="1" opos="WR" code="9">
+   <rcv no="4" yds="69" td="1" long="25"></rcv>
+   <kr no="3" yds="99" td="0" long="36"></kr>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Griffin, Ty" shortname="Griffin, Ty" checkname="GRIFFIN,TY" uni="10" class="SO" gp="1" code="10"></player>
+  <player name="Merritt, Kirk" shortname="Merritt, Kirk" checkname="MERRITT,KIRK" uni="11" class="FR" gp="1" code="11"></player>
+  <player name="Seisay, Chris" shortname="Seisay, Chris" checkname="SEISAY,CHRIS" uni="12" class="SO" gp="1" gs="1" dpos="CB" code="12">
+   <defense tackua="7" tacka="2" tot_tack="9" tflua="1" tfla="0" tflyds="1" int="1" intyds="4"></defense>
+   <ir no="1" yds="4" td="0" long="4"></ir>
+  </player>
+  <player name="Amadi, Ugo" shortname="Amadi, Ugo" checkname="AMADI,UGO" uni="14" class="FR" gp="1" code="14">
+   <defense tackua="2" tacka="1" tot_tack="3"></defense>
+  </player>
+  <player name="Brown, Jalen" shortname="Brown, Jalen" checkname="BROWN,JALEN" uni="15" class="FR" gp="1" code="15"></player>
+  <player name="Williams, J." shortname="Williams, J." checkname="WILLIAMS,J" uni="17" class="SO" gp="1" code="17">
+   <defense tackua="3" tacka="2" tot_tack="5" int="1" intyds="17"></defense>
+   <ir no="1" yds="17" td="0" long="17"></ir>
+  </player>
+  <player name="Swain, Jimmie" shortname="Swain, Jimmie" checkname="SWAIN,JIMMIE" uni="18" class="SO" gp="1" code="18">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="Daich, Austin" shortname="Daich, Austin" checkname="DAICH,AUSTIN" uni="19" class="JR" gp="1" code="19">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Brooks-James" shortname="Brooks-James" checkname="BROOKS-JAMES" uni="20" class="FR" gp="1" code="20">
+   <rush att="6" yds="63" gain="63" loss="0" td="2" long="18"></rush>
+   <rcv no="2" yds="3" td="0" long="5"></rcv>
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+   <scoring td="2"></scoring>
+  </player>
+  <player name="Freeman, Royce" shortname="Freeman, Royce" checkname="FREEMAN,ROYCE" uni="21" class="SO" gp="1" gs="1" opos="RB" code="21">
+   <rush att="21" yds="180" gain="180" loss="0" td="3" long="35"></rush>
+   <rcv no="2" yds="18" td="0" long="12"></rcv>
+   <scoring td="3"></scoring>
+  </player>
+  <player name="Ihenacho, Glen" shortname="Ihenacho, Glen" checkname="IHENACHO,GLEN" uni="25" class="FR" gp="1" code="25"></player>
+  <player name="Oliver, Khalil" shortname="Oliver, Khalil" checkname="OLIVER,KHALIL" uni="26" class="FR" gp="1" code="26">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+   <kr no="1" yds="0" td="0" long="0"></kr>
+  </player>
+  <player name="Ragin III, J." shortname="Ragin III, J." checkname="RAGIN III,J" uni="28" class="JR" gp="1" code="28">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="Benoit, Kani" shortname="Benoit, Kani" checkname="BENOIT,KANI" uni="29" class="SO" gp="1" code="29">
+   <rush att="11" yds="83" gain="83" loss="0" td="1" long="26"></rush>
+   <rcv no="1" yds="19" td="0" long="19"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Bostick, Paris" shortname="Bostick, Paris" checkname="BOSTICK,PARIS" uni="30" class="SO" gp="1" code="30">
+   <defense tackua="3" tacka="0" tot_tack="3"></defense>
+  </player>
+  <player name="Heard, Eddie" shortname="Heard, Eddie" checkname="HEARD,EDDIE" uni="32" class="SO" gp="1" code="32"></player>
+  <player name="Coleman, Tyson" shortname="Coleman, Tyson" checkname="COLEMAN,TYSON" uni="33" class="SR" gp="1" gs="1" dpos="OLB" code="33">
+   <defense qbh="2"></defense>
+  </player>
+  <player name="Walker, Joe" shortname="Walker, Joe" checkname="WALKER,JOE" uni="35" class="SR" gp="1" gs="1" dpos="ILB" code="35">
+   <defense tackua="5" tacka="3" tot_tack="8" tflua="1" tfla="0" tflyds="8" sackua="1" sacka="0" sackyds="8"></defense>
+  </player>
+  <player name="Apelu, Kaulana" shortname="Apelu, Kaulana" checkname="APELU,KAULANA" uni="39" class="FR" gp="1" code="39"></player>
+  <player name="Schneider, A." shortname="Schneider, A." checkname="SCHNEIDER,A" uni="41" class="SO" gp="1" code="41">
+   <fg made="2" att="2" long="38" blkd="0"></fg>
+   <pat kickatt="7" kickmade="7"></pat>
+   <scoring fg="2" patkick="7"></scoring>
+  </player>
+  <player name="Carriger, Cody" shortname="Carriger, Cody" checkname="CARRIGER,CODY" uni="42" class="JR" gp="1" code="42"></player>
+  <player name="Leiato, Fotu" shortname="Leiato, Fotu" checkname="LEIATO,FOTU" uni="43" class="FR" gp="1" code="43"></player>
+  <player name="Buckner, De." shortname="Buckner, De." checkname="BUCKNER,DE" uni="44" class="SR" gp="1" gs="1" dpos="DE" code="44">
+   <defense tackua="2" tacka="1" tot_tack="3" tflua="0" tfla="1" tflyds="0" brup="1"></defense>
+  </player>
+  <player name="Daniel, T.J." shortname="Daniel, T.J." checkname="DANIEL,TJ" uni="45" class="JR" gp="1" code="45">
+   <defense tackua="2" tacka="0" tot_tack="2" tflua="1" tfla="0" tflyds="3" qbh="1"></defense>
+  </player>
+  <player name="Mattingly, D." shortname="Mattingly, D." checkname="MATTINGLY,D" uni="46" class="SO" gp="1" code="46">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Manu, Rex" shortname="Manu, Rex" checkname="MANU,REX" uni="47" class="FR" gp="1" code="47">
+   <defense tackua="0" tacka="2" tot_tack="2"></defense>
+  </player>
+  <player name="Hardrick, R." shortname="Hardrick, R." checkname="HARDRICK,R" uni="48" class="SR" gp="1" gs="1" dpos="ILB" code="48">
+   <defense tackua="4" tacka="3" tot_tack="7"></defense>
+  </player>
+  <player name="Wogan, Matt" shortname="Wogan, Matt" checkname="WOGAN,MATT" uni="49" class="JR" gp="1" code="49">
+   <ko no="10" yds="636" ob="0" tb="5"></ko>
+  </player>
+  <player name="Maloata, Austin" shortname="Maloata, Austin" checkname="MALOATA,AUSTIN" uni="50" class="SO" gp="1" code="50"></player>
+  <player name="Faulhaber, Ivan" shortname="Faulhaber, Ivan" checkname="FAULHABER,IVAN" uni="52" class="SO" gp="1" code="52"></player>
+  <player name="McDowell, De." shortname="McDowell, De." checkname="MCDOWELL,DE" uni="54" class="JR" gp="1" code="54">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Talia, Tui" shortname="Talia, Tui" checkname="TALIA,TUI" uni="55" class="SR" gp="1" gs="1" dpos="DE" code="55">
+   <defense tackua="2" tacka="2" tot_tack="4" tflua="0" tfla="1" tflyds="1"></defense>
+  </player>
+  <player name="Balducci, Alex" shortname="Balducci, Alex" checkname="BALDUCCI,ALEX" uni="56" class="SR" gp="1" gs="1" dpos="NG" code="56">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Brenner, Doug" shortname="Brenner, Doug" checkname="BRENNER,DOUG" uni="57" class="SO" gp="1" code="57"></player>
+  <player name="Carew, Tanner" shortname="Carew, Tanner" checkname="CAREW,TANNER" uni="58" class="SO" gp="1" code="58"></player>
+  <player name="Pierson, Matt" shortname="Pierson, Matt" checkname="PIERSON,MATT" uni="62" class="SR" gp="1" gs="1" opos="LG" code="62"></player>
+  <player name="Johnstone, T." shortname="Johnstone, T." checkname="JOHNSTONE,T" uni="64" class="SR" gp="1" gs="1" opos="LT" code="64"></player>
+  <player name="Eggert, Braden" shortname="Eggert, Braden" checkname="EGGERT,BRADEN" uni="71" class="FR" gp="1" code="71"></player>
+  <player name="Hegarty, Matt" shortname="Hegarty, Matt" checkname="HEGARTY,MATT" uni="72" class="SR" gp="1" gs="1" opos="C" code="72"></player>
+  <player name="Crosby, Tyrell" shortname="Crosby, Tyrell" checkname="CROSBY,TYRELL" uni="73" class="SO" gp="1" gs="1" opos="RT" code="73"></player>
+  <player name="George, Elijah" shortname="George, Elijah" checkname="GEORGE,ELIJAH" uni="74" class="SO" gp="1" code="74"></player>
+  <player name="Pisarcik, Jake" shortname="Pisarcik, Jake" checkname="PISARCIK,JAKE" uni="76" class="SO" gp="1" code="76"></player>
+  <player name="Lousi, Haniteli" shortname="Lousi, Haniteli" checkname="LOUSI,HANITELI" uni="77" class="SR" gp="1" code="77"></player>
+  <player name="Hunt, Cameron" shortname="Hunt, Cameron" checkname="HUNT,CAMERON" uni="78" class="JR" gp="1" gs="1" opos="RG" code="78"></player>
+  <player name="Voeller, Evan" shortname="Voeller, Evan" checkname="VOELLER,EVAN" uni="79" class="SO" gp="1" code="79"></player>
+  <player name="Ka'ai, Koa" shortname="Ka'ai, Koa" checkname="KA'AI,KOA" uni="80" class="SR" gp="1" code="80"></player>
+  <player name="Baylis, Evan" shortname="Baylis, Evan" checkname="BAYLIS,EVAN" uni="81" class="JR" gp="1" gs="1" opos="TE" code="81">
+   <rcv no="2" yds="11" td="0" long="8"></rcv>
+  </player>
+  <player name="Schuller, Zac" shortname="Schuller, Zac" checkname="SCHULLER,ZAC" uni="82" class="SR" gp="1" code="82"></player>
+  <player name="Mundt, Johnny" shortname="Mundt, Johnny" checkname="MUNDT,JOHNNY" uni="83" class="JR" gp="1" code="83">
+   <rcv no="2" yds="12" td="0" long="7"></rcv>
+  </player>
+  <player name="Prevot, T." shortname="Prevot, T." checkname="PREVOT,T" uni="86" class="JR" gp="1" code="86">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Stanford, D." shortname="Stanford, D." checkname="STANFORD,D" uni="88" class="JR" gp="1" gs="1" opos="WR" code="88">
+   <rcv no="3" yds="90" td="0" long="46"></rcv>
+  </player>
+  <player name="McCreath, Jake" shortname="McCreath, Jake" checkname="MCCREATH,JAKE" uni="90" class="JR" gp="1" code="90"></player>
+  <player name="Mondeaux, Henry" shortname="Mondeaux, Henry" checkname="MONDEAUX,HENRY" uni="92" class="SO" gp="1" code="92"></player>
+  <player name="French, C." shortname="French, C." checkname="FRENCH,C" uni="96" class="SR" gp="1" gs="1" dpos="OLB" code="96">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Jelks, Jalen" shortname="Jelks, Jalen" checkname="JELKS,JALEN" uni="97" class="FR" gp="1" code="97"></player>
+  <player name="Kurahara, J." shortname="Kurahara, J." checkname="KURAHARA,J" uni="98" class="FR" gp="1" code="98">
+   <defense tackua="0" tacka="3" tot_tack="3" brup="1"></defense>
+  </player>
+  <player name="TEAM" shortname="TEAM" checkname="TEAM" uni="TM" class="FR" gp="1" code="198">
+   <rush att="1" yds="-2" gain="0" loss="2" td="0" long="0"></rush>
+  </player>
+ </team>
+ <scores>
+  <score vh="H" team="ORE" qtr="1" clock="12:43" type="TD" how="RUSH" yds="8" scorer="Benoit, Kani" patby="Alie, Taylor" pattype="PASS" patres="FAIL" plays="7" drive="63" top="2:17" vscore="0" hscore="6" driveindex="1"></score>
+  <score vh="H" team="ORE" qtr="1" clock="07:32" type="TD" how="PASS" yds="6" scorer="Addison, Bralon" passer="Adams Jr., V." patby="Schneider, A." pattype="KICK" patres="GOOD" plays="9" drive="70" top="2:42" vscore="0" hscore="13" driveindex="3"></score>
+  <score vh="V" team="EWU" qtr="1" clock="05:21" type="TD" how="PASS" yds="12" scorer="Shaq Hill" passer="Jordan West" patby="Tyler McNannay" pattype="KICK" patres="GOOD" plays="7" drive="75" top="2:11" vscore="7" hscore="13" driveindex="4"></score>
+  <score vh="H" team="ORE" qtr="1" clock="04:23" type="TD" how="RUSH" yds="1" scorer="Freeman, Royce" patby="Schneider, A." pattype="KICK" patres="GOOD" plays="4" drive="62" top="0:58" vscore="7" hscore="20" driveindex="5"></score>
+  <score vh="H" team="ORE" qtr="2" clock="14:22" type="TD" how="RUSH" yds="12" scorer="Brooks-James" patby="Schneider, A." pattype="KICK" patres="GOOD" plays="9" drive="77" top="2:16" vscore="7" hscore="27" driveindex="7"></score>
+  <score vh="V" team="EWU" qtr="2" clock="12:15" type="TD" how="PASS" yds="2" scorer="Kendrick Bourne" passer="Jordan West" patby="Tyler McNannay" pattype="KICK" patres="GOOD" plays="5" drive="75" top="0:00" vscore="14" hscore="27" driveindex="8"></score>
+  <score vh="H" team="ORE" qtr="2" clock="10:37" type="TD" how="RUSH" yds="3" scorer="Freeman, Royce" patby="Schneider, A." pattype="KICK" patres="GOOD" plays="7" drive="61" top="1:38" vscore="14" hscore="34" driveindex="9"></score>
+  <score vh="V" team="EWU" qtr="2" clock="06:11" type="TD" how="PASS" yds="16" scorer="Cooper Kupp" passer="Jordan West" patby="Tyler McNannay" pattype="KICK" patres="GOOD" plays="9" drive="41" top="2:55" vscore="21" hscore="34" driveindex="12"></score>
+  <score vh="H" team="ORE" qtr="2" clock="00:00" type="FG" yds="38" scorer="Schneider, A." plays="7" drive="58" top="0:48" vscore="21" hscore="37" driveindex="15"></score>
+  <score vh="H" team="ORE" qtr="3" clock="10:29" type="TD" how="RUSH" yds="1" scorer="Freeman, Royce" patby="Schneider, A." pattype="KICK" patres="GOOD" plays="8" drive="65" top="2:51" vscore="21" hscore="44" driveindex="17"></score>
+  <score vh="V" team="EWU" qtr="3" clock="05:35" type="TD" how="PASS" yds="1" scorer="Cooper Kupp" passer="R. Hennessey" patby="Tyler McNannay" pattype="KICK" patres="GOOD" plays="13" drive="75" top="4:54" vscore="28" hscore="44" driveindex="18"></score>
+  <score vh="H" team="ORE" qtr="3" clock="04:31" type="TD" how="PASS" yds="24" scorer="Marshall, Byron" passer="Adams Jr., V." patby="Schneider, A." pattype="KICK" patres="GOOD" plays="3" drive="68" top="1:04" vscore="28" hscore="51" driveindex="19"></score>
+  <score vh="V" team="EWU" qtr="3" clock="02:13" type="TD" how="RUSH" yds="3" scorer="Jabari Wilson" patby="Tyler McNannay" pattype="KICK" patres="GOOD" plays="7" drive="70" top="2:18" vscore="35" hscore="51" driveindex="20"></score>
+  <score vh="H" team="ORE" qtr="3" clock="00:00" type="FG" yds="30" scorer="Schneider, A." plays="7" drive="33" top="2:13" vscore="35" hscore="54" driveindex="21"></score>
+  <score vh="H" team="ORE" qtr="4" clock="07:47" type="TD" how="RUSH" yds="15" scorer="Brooks-James" patby="Schneider, A." pattype="KICK" patres="GOOD" plays="8" drive="70" top="3:20" vscore="35" hscore="61" driveindex="23"></score>
+  <score vh="V" team="EWU" qtr="4" clock="02:35" type="TD" how="PASS" yds="7" scorer="Cooper Kupp" passer="R. Hennessey" patby="B. Bangsund" pattype="KICK" patres="GOOD" plays="13" drive="68" top="5:12" vscore="42" hscore="61" driveindex="24"></score>
+ </scores>
+ <fgas>
+  <fga vh="H" team="ORE" kicker="Schneider, A." qtr="2" clock="00:00" distance="38" result="good"></fga>
+  <fga vh="H" team="ORE" kicker="Schneider, A." qtr="3" clock="00:00" distance="30" result="good"></fga>
+ </fgas>
+ <drives>
+  <drive vh="H" team="ORE" start="KO,1,15:00,37" end="TD,1,12:43,100" plays="7" yards="63" top="2:17" start_how="KO" start_qtr="1" start_time="15:00" start_spot="ORE37" end_how="TD" end_qtr="1" end_time="12:43" end_spot="EWU00" rz="1" driveindex="1"></drive>
+  <drive vh="V" team="EWU" start="KO,1,12:43,25" end="PUNT,1,10:14,39" plays="5" yards="14" top="2:29" start_how="KO" start_qtr="1" start_time="12:43" start_spot="EWU25" end_how="PUNT" end_qtr="1" end_time="10:14" end_spot="EWU39" driveindex="2"></drive>
+  <drive vh="H" team="ORE" start="PUNT,1,10:14,30" end="TD,1,07:32,100" plays="9" yards="70" top="2:42" start_how="PUNT" start_qtr="1" start_time="10:14" start_spot="ORE30" end_how="TD" end_qtr="1" end_time="07:32" end_spot="EWU00" rz="1" driveindex="3"></drive>
+  <drive vh="V" team="EWU" start="KO,1,07:32,25" end="TD,1,05:21,100" plays="7" yards="75" top="2:11" start_how="KO" start_qtr="1" start_time="07:32" start_spot="EWU25" end_how="TD" end_qtr="1" end_time="05:21" end_spot="ORE00" rz="1" driveindex="4"></drive>
+  <drive vh="H" team="ORE" start="KO,1,05:21,38" end="TD,1,04:23,100" plays="4" yards="62" top="0:58" start_how="KO" start_qtr="1" start_time="05:21" start_spot="ORE38" end_how="TD" end_qtr="1" end_time="04:23" end_spot="EWU00" rz="1" driveindex="5"></drive>
+  <drive vh="V" team="EWU" start="KO,1,04:23,14" end="PUNT,1,01:38,41" plays="6" yards="27" top="2:45" start_how="KO" start_qtr="1" start_time="04:23" start_spot="EWU14" end_how="PUNT" end_qtr="1" end_time="01:38" end_spot="EWU41" driveindex="6"></drive>
+  <drive vh="H" team="ORE" start="PUNT,1,01:38,23" end="TD,2,14:22,100" plays="9" yards="77" top="2:16" start_how="PUNT" start_qtr="1" start_time="01:38" start_spot="ORE23" end_how="TD" end_qtr="2" end_time="14:22" end_spot="EWU00" rz="1" driveindex="7"></drive>
+  <drive vh="V" team="EWU" start="KO,2,12:15,25" end="TD,2,12:15,100" plays="5" yards="75" top="0:00" start_how="KO" start_qtr="2" start_time="12:15" start_spot="EWU25" end_how="TD" end_qtr="2" end_time="12:15" end_spot="ORE00" rz="1" driveindex="8"></drive>
+  <drive vh="H" team="ORE" start="KO,2,12:15,39" end="TD,2,10:37,100" plays="7" yards="61" top="1:38" start_how="KO" start_qtr="2" start_time="12:15" start_spot="ORE39" end_how="TD" end_qtr="2" end_time="10:37" end_spot="EWU00" rz="1" driveindex="9"></drive>
+  <drive vh="V" team="EWU" start="KO,2,10:37,14" end="INT,2,09:16,68" plays="4" yards="54" top="1:21" start_how="KO" start_qtr="2" start_time="10:37" start_spot="EWU14" end_how="INT" end_qtr="2" end_time="09:16" end_spot="ORE32" driveindex="10"></drive>
+  <drive vh="H" team="ORE" start="INT,2,09:16,17" end="FUMB,2,09:06,41" plays="1" yards="24" top="0:10" start_how="INT" start_qtr="2" start_time="09:16" start_spot="ORE17" end_how="FUMB" end_qtr="2" end_time="09:06" end_spot="ORE41" driveindex="11"></drive>
+  <drive vh="V" team="EWU" start="FUMB,2,09:06,59" end="TD,2,06:11,100" plays="9" yards="41" top="2:55" start_how="FUMB" start_qtr="2" start_time="09:06" start_spot="ORE41" end_how="TD" end_qtr="2" end_time="06:11" end_spot="ORE00" rz="1" driveindex="12"></drive>
+  <drive vh="H" team="ORE" start="KO,2,06:11,40" end="DOWNS,2,02:16,70" plays="10" yards="30" top="3:55" start_how="KO" start_qtr="2" start_time="06:11" start_spot="ORE40" end_how="DOWNS" end_qtr="2" end_time="02:16" end_spot="EWU30" driveindex="13"></drive>
+  <drive vh="V" team="EWU" start="DOWNS,2,02:16,30" end="PUNT,2,00:48,33" plays="4" yards="3" top="1:28" start_how="DOWNS" start_qtr="2" start_time="02:16" start_spot="EWU30" end_how="PUNT" end_qtr="2" end_time="00:48" end_spot="EWU33" driveindex="14"></drive>
+  <drive vh="H" team="ORE" start="PUNT,2,00:48,21" end="FG,3,15:00,79" plays="7" yards="58" top="0:48" start_how="PUNT" start_qtr="2" start_time="00:48" start_spot="ORE21" end_how="FG" end_qtr="3" end_time="15:00" end_spot="EWU21" driveindex="15"></drive>
+  <drive vh="V" team="EWU" start="KO,3,15:00,25" end="PUNT,3,13:20,23" plays="3" yards="-2" top="1:40" start_how="KO" start_qtr="3" start_time="15:00" start_spot="EWU25" end_how="PUNT" end_qtr="3" end_time="13:20" end_spot="EWU23" driveindex="16"></drive>
+  <drive vh="H" team="ORE" start="PUNT,3,13:20,35" end="TD,3,10:29,100" plays="8" yards="65" top="2:51" start_how="PUNT" start_qtr="3" start_time="13:20" start_spot="ORE35" end_how="TD" end_qtr="3" end_time="10:29" end_spot="EWU00" rz="1" driveindex="17"></drive>
+  <drive vh="V" team="EWU" start="KO,3,10:29,25" end="TD,3,05:35,100" plays="13" yards="75" top="4:54" start_how="KO" start_qtr="3" start_time="10:29" start_spot="EWU25" end_how="TD" end_qtr="3" end_time="05:35" end_spot="ORE00" rz="1" driveindex="18"></drive>
+  <drive vh="H" team="ORE" start="KO,3,05:35,32" end="TD,3,04:31,100" plays="3" yards="68" top="1:04" start_how="KO" start_qtr="3" start_time="05:35" start_spot="ORE32" end_how="TD" end_qtr="3" end_time="04:31" end_spot="EWU00" driveindex="19"></drive>
+  <drive vh="V" team="EWU" start="KO,3,04:31,30" end="TD,3,02:13,100" plays="7" yards="70" top="2:18" start_how="KO" start_qtr="3" start_time="04:31" start_spot="EWU30" end_how="TD" end_qtr="3" end_time="02:13" end_spot="ORE00" rz="1" driveindex="20"></drive>
+  <drive vh="H" team="ORE" start="KO,3,02:13,54" end="FG,3,00:00,87" plays="7" yards="33" top="2:13" start_how="KO" start_qtr="3" start_time="02:13" start_spot="EWU46" end_how="FG" end_qtr="3" end_time="00:00" end_spot="EWU13" rz="1" driveindex="21"></drive>
+  <drive vh="V" team="EWU" start="KO,4,15:00,32" end="INT,4,11:07,73" plays="10" yards="41" top="3:53" start_how="KO" start_qtr="4" start_time="15:00" start_spot="EWU32" end_how="INT" end_qtr="4" end_time="11:07" end_spot="ORE27" driveindex="22"></drive>
+  <drive vh="H" team="ORE" start="INT,4,11:07,30" end="TD,4,07:47,100" plays="8" yards="70" top="3:20" start_how="INT" start_qtr="4" start_time="11:07" start_spot="ORE30" end_how="TD" end_qtr="4" end_time="07:47" end_spot="EWU00" rz="1" driveindex="23"></drive>
+  <drive vh="V" team="EWU" start="KO,4,07:47,32" end="TD,4,02:35,100" plays="13" yards="68" top="5:12" start_how="KO" start_qtr="4" start_time="07:47" start_spot="EWU32" end_how="TD" end_qtr="4" end_time="02:35" end_spot="ORE00" rz="1" driveindex="24"></drive>
+  <drive vh="H" team="ORE" start="KO,4,02:35,31" end="HALF,4,00:00,89" plays="4" yards="58" top="2:35" start_how="KO" start_qtr="4" start_time="02:35" start_spot="ORE31" end_how="HALF" end_qtr="4" end_time="00:00" end_spot="EWU11" rz="1" driveindex="25"></drive>
+ </drives>
+ <plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="EWU" down="1" togo="10" spot="EWU35" context="V,1,10,V35" playid="0,1,0" tokens="CMT:E. Wash wins toss, will defer, Ore will receive, E. Wash defends East"
+      text="E. Wash wins toss, will defer, Ore will receive, E. Wash defends East" newcontext="V,1,10,V35">
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU35" context="V,1,10,V35" playid="0,2,1" tokens="SPOT:V,V35,N"
+      text="EWU ball on EWU35." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU35" context="V,1,10,V35" playid="0,3,2" type="#" clock="15:00" tokens="Q:1 T:15:00"
+      text="Start of 1st quarter, clock 15:00." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU35" context="V,1,10,V35" playid="0,4,3" type="K" tokens="KO:45,H01 RET:9,H37 TACK:88"
+      text="Jordan Dascalo kickoff 64 yards to the ORE1, Marshall, Byron return 36 yards to the ORE37 (Terence Grady)." newcontext="H,1,10,H37">
+    <p_ko vh="V" name="Jordan Dascalo" gain="64"></p_ko>
+    <p_kr vh="H" name="Marshall, Byron" gain="36"></p_kr>
+    <p_tk vh="V" name="Terence Grady"></p_tk>
+   </play>
+   <drivestart poss="H,H37,15:00" vh="H" spot="H37" clock="15:00" driveindex="1,3"></drivestart>
+   <play hasball="ORE" down="1" togo="10" spot="ORE37" context="H,1,10,H37" playid="1,1,4" type="R" tokens="RUSH:21,H40, TACK:94"
+      text="Freeman, Royce rush for 3 yards to the ORE40 (Matthew Sommer)." newcontext="H,2,7,H40">
+    <p_ru vh="H" name="Freeman, Royce" gain="3"></p_ru>
+    <p_tk vh="V" name="Matthew Sommer"></p_tk>
+   </play>
+   <play hasball="ORE" down="2" togo="7" spot="ORE40" context="H,2,7,H40" playid="1,2,5" type="P" tokens="PASS:0C,C,81,H43 TACK:32"
+      text="Adams Jr., V. pass complete to Baylis, Evan for 3 yards to the ORE43 (Zach Bruce)." newcontext="H,3,4,H43">
+    <p_pa vh="H" qb="Adams Jr., V." result="COMP" rcv="Baylis, Evan" gain="3"></p_pa>
+    <p_tk vh="V" name="Zach Bruce"></p_tk>
+   </play>
+   <play hasball="ORE" down="3" togo="4" spot="ORE43" context="H,3,4,H43" playid="1,3,6" type="R" first="R" tokens="RUSH:0C,V47, OB: TACK:49"
+      text="Adams Jr., V. rush for 10 yards to the EWU47, 1ST DOWN ORE, out-of-bounds (Miquiyah Zamora)." ob="Y" newcontext="H,1,10,V47">
+    <p_ru vh="H" name="Adams Jr., V." gain="10"></p_ru>
+    <p_tk vh="V" name="Miquiyah Zamora"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="EWU47" context="H,1,10,V47" playid="1,4,7" type="P" first="P" tokens="PASS:0C,C,21,V35 TACK:21"
+      text="Adams Jr., V. pass complete to Freeman, Royce for 12 yards to the EWU35, 1ST DOWN ORE (Rashad Wadood)." newcontext="H,1,10,V35">
+    <p_pa vh="H" qb="Adams Jr., V." result="COMP" rcv="Freeman, Royce" gain="12"></p_pa>
+    <p_tk vh="V" name="Rashad Wadood"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="EWU35" context="H,1,10,V35" playid="1,5,8" type="R" tokens="RUSH:21,V27, TACK:13"
+      text="Freeman, Royce rush for 8 yards to the EWU27 (Mitch Fettig)." newcontext="H,2,2,V27">
+    <p_ru vh="H" name="Freeman, Royce" gain="8"></p_ru>
+    <p_tk vh="V" name="Mitch Fettig"></p_tk>
+   </play>
+   <play hasball="ORE" down="2" togo="2" spot="EWU27" context="H,2,2,V27" playid="1,6,9" type="P" first="P" tokens="PASS:0C,C,29,V08 TACK:21"
+      text="Adams Jr., V. pass complete to Benoit, Kani for 19 yards to the EWU8, 1ST DOWN ORE (Rashad Wadood)." newcontext="H,1,0,V08">
+    <p_pa vh="H" qb="Adams Jr., V." result="COMP" rcv="Benoit, Kani" gain="19"></p_pa>
+    <p_tk vh="V" name="Rashad Wadood"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="0" spot="EWU08" context="H,1,0,V08" playid="1,7,10" type="R" score="Y" vscore="0" hscore="6" clock="12:43" tokens="RUSH:29,V00, T:12:43"
+      text="Benoit, Kani rush for 8 yards to the EWU0, TOUCHDOWN, clock 12:43." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Benoit, Kani" gain="8"></p_ru>
+   </play>
+   <play hasball="ORE" down="1" togo="0" spot="EWU03" context="H,1,0,V03" playid="1,8,11" type="X" tokens="PAT:P,1B,M"
+      text="Alie, Taylor pass attempt failed." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Alie, Taylor" qb="Alie, Taylor" type="P" result="MISSED"></p_pat>
+   </play>
+   <score V="0" H="6"></score>
+   <drivesum plays="7" yards="63" top="2:17" driveindex="1" complete="Y"></drivesum>
+   <play hasball="ORE" down="1" togo="0" spot="ORE35" context="H,1,0,H35" playid="1,9,12" type="K" tokens="KO:49,V00 TB:"
+      text="Wogan, Matt kickoff 65 yards to the EWU0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Wogan, Matt" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,12:43" vh="V" spot="V25" clock="12:43" driveindex="2,12"></drivestart>
+   <play hasball="EWU" down="1" togo="10" spot="EWU25" context="V,1,10,V25" playid="2,1,13" clock="12:43" tokens="{DRIVE}:12:43"
+      text="EASTERN WASHINGTON drive start at 12:43." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU25" context="V,1,10,V25" playid="2,2,14" type="R" tokens="RUSH:2,V27, TACK:55"
+      text="Jabari Wilson rush for 2 yards to the EWU27 (Talia, Tui)." newcontext="V,2,8,V27">
+    <p_ru vh="V" name="Jabari Wilson" gain="2"></p_ru>
+    <p_tk vh="H" name="Talia, Tui"></p_tk>
+   </play>
+   <play hasball="EWU" down="2" togo="8" spot="EWU27" context="V,2,8,V27" playid="2,3,15" type="P" first="P" tokens="PASS:5,C,1,V36 TACK:8"
+      text="Jordan West pass complete to Shaq Hill for 9 yards to the EWU36, 1ST DOWN EWU (Daniels, Reggie)." newcontext="V,1,10,V36">
+    <p_pa vh="V" qb="Jordan West" result="COMP" rcv="Shaq Hill" gain="9"></p_pa>
+    <p_tk vh="H" name="Daniels, Reggie"></p_tk>
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU36" context="V,1,10,V36" playid="2,4,16" type="R" tokens="RUSH:2,V36, TACK:44"
+      text="Jabari Wilson rush for no gain to the EWU36 (Buckner, De.)." newcontext="V,2,10,V36">
+    <p_ru vh="V" name="Jabari Wilson" gain="0"></p_ru>
+    <p_tk vh="H" name="Buckner, De."></p_tk>
+   </play>
+   <play hasball="EWU" down="2" togo="10" spot="EWU36" context="V,2,10,V36" playid="2,5,17" type="P" tokens="PASS:5,C,22,V35 TACK:12"
+      text="Jordan West pass complete to Simba Webster for loss of 1 yard to the EWU35 (Seisay, Chris)." newcontext="V,3,11,V35">
+    <p_pa vh="V" qb="Jordan West" result="COMP" rcv="Simba Webster" gain="-1"></p_pa>
+    <p_tk vh="H" name="Seisay, Chris"></p_tk>
+   </play>
+   <play hasball="EWU" down="3" togo="11" spot="EWU35" context="V,3,11,V35" playid="2,6,18" type="R" tokens="RUSH:5,V39, TACK:12,86"
+      text="Jordan West rush for 4 yards to the EWU39 (Seisay, Chris;Prevot, T.)." newcontext="V,4,7,V39">
+    <p_ru vh="V" name="Jordan West" gain="4"></p_ru>
+    <p_tk vh="H" name="Seisay, Chris" assist="Y"></p_tk>
+    <p_tk vh="H" name="Prevot, T." assist="Y"></p_tk>
+   </play>
+   <play hasball="EWU" down="4" togo="7" spot="EWU39" context="V,4,7,V39" playid="2,7,19" type="U" tokens="PUNT:45,H30 DN:"
+      text="Jordan Dascalo punt 31 yards to the ORE30, downed." newcontext="H,1,10,H30">
+    <p_pu vh="V" name="Jordan Dascalo" gain="31"></p_pu>
+   </play>
+   <drivesum plays="5" yards="14" top="2:29" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="H,H30,10:14" vh="H" spot="H30" clock="10:14" driveindex="3,19"></drivestart>
+   <play hasball="ORE" down="1" togo="10" spot="ORE30" context="H,1,10,H30" playid="3,1,20" clock="10:14" tokens="{DRIVE}:10:14"
+      text="OREGON drive start at 10:14." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="ORE30" context="H,1,10,H30" playid="3,2,21" type="P" first="P" tokens="PASS:0C,C,9,H46 TACK:8"
+      text="Adams Jr., V. pass complete to Marshall, Byron for 16 yards to the ORE46, 1ST DOWN ORE (Miles Weatheroy)." newcontext="H,1,10,H46">
+    <p_pa vh="H" qb="Adams Jr., V." result="COMP" rcv="Marshall, Byron" gain="16"></p_pa>
+    <p_tk vh="V" name="Miles Weatheroy"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="ORE46" context="H,1,10,H46" playid="3,3,22" type="P" tokens="PASS:0C,I,2,*"
+      text="Adams Jr., V. pass incomplete to Addison, Bralon." newcontext="H,2,10,H46">
+    <p_pa vh="H" qb="Adams Jr., V." result="INC" rcv="Addison, Bralon"></p_pa>
+   </play>
+   <play hasball="ORE" down="2" togo="10" spot="ORE46" context="H,2,10,H46" playid="3,4,23" type="R" tokens="RUSH:2,V47, TACK:8"
+      text="Addison, Bralon rush for 7 yards to the EWU47 (Miles Weatheroy)." newcontext="H,3,3,V47">
+    <p_ru vh="H" name="Addison, Bralon" gain="7"></p_ru>
+    <p_tk vh="V" name="Miles Weatheroy"></p_tk>
+   </play>
+   <play hasball="ORE" down="3" togo="3" spot="EWU47" context="H,3,3,V47" playid="3,5,24" type="P" first="P" tokens="PASS:0C,C,88,V42 TACK:4"
+      text="Adams Jr., V. pass complete to Stanford, D. for 5 yards to the EWU42, 1ST DOWN ORE (Todd Raynes)." newcontext="H,1,10,V42">
+    <p_pa vh="H" qb="Adams Jr., V." result="COMP" rcv="Stanford, D." gain="5"></p_pa>
+    <p_tk vh="V" name="Todd Raynes"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="EWU42" context="H,1,10,V42" playid="3,6,25" type="R" first="R" tokens="RUSH:21,V31, OB: TACK:13"
+      text="Freeman, Royce rush for 11 yards to the EWU31, 1ST DOWN ORE, out-of-bounds (Mitch Fettig)." ob="Y" newcontext="H,1,10,V31">
+    <p_ru vh="H" name="Freeman, Royce" gain="11"></p_ru>
+    <p_tk vh="V" name="Mitch Fettig"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="EWU31" context="H,1,10,V31" playid="3,7,26" type="R" first="R" tokens="RUSH:21,V17, OB: TACK:8"
+      text="Freeman, Royce rush for 14 yards to the EWU17, 1ST DOWN ORE, out-of-bounds (Miles Weatheroy)." ob="Y" newcontext="H,1,10,V17">
+    <p_ru vh="H" name="Freeman, Royce" gain="14"></p_ru>
+    <p_tk vh="V" name="Miles Weatheroy"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="EWU17" context="H,1,10,V17" playid="3,8,27" type="R" tokens="RUSH:29,V13, TACK:53"
+      text="Benoit, Kani rush for 4 yards to the EWU13 (Jonah Jordan)." newcontext="H,2,6,V13">
+    <p_ru vh="H" name="Benoit, Kani" gain="4"></p_ru>
+    <p_tk vh="V" name="Jonah Jordan"></p_tk>
+   </play>
+   <play hasball="ORE" down="2" togo="6" spot="EWU13" context="H,2,6,V13" playid="3,9,28" type="R" first="R" tokens="RUSH:0C,V06, TACK:35"
+      text="Adams Jr., V. rush for 7 yards to the EWU6, 1ST DOWN ORE (Alek Kacmarcik)." newcontext="H,1,0,V06">
+    <p_ru vh="H" name="Adams Jr., V." gain="7"></p_ru>
+    <p_tk vh="V" name="Alek Kacmarcik"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="0" spot="EWU06" context="H,1,0,V06" playid="3,10,29" type="P" score="Y" vscore="0" hscore="12" clock="07:32" tokens="PASS:0C,C,2,V00 T:07:32"
+      text="Adams Jr., V. pass complete to Addison, Bralon for 6 yards to the EWU0, TOUCHDOWN, clock 07:32." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Adams Jr., V." result="COMP" rcv="Addison, Bralon" gain="6"></p_pa>
+   </play>
+   <play hasball="ORE" down="1" togo="0" spot="EWU03" context="H,1,0,V03" playid="3,11,30" type="E" tokens="PEN:H,FS,A,TM,V08,N"
+      text="PENALTY ORE false start 5 yards to the EWU8." newcontext="H,1,0,V08">
+    <p_pn vh="H" code="FS" type="false start" result="ACCEPT" at="V03" yards="5"></p_pn>
+   </play>
+   <play hasball="ORE" down="1" togo="0" spot="EWU08" context="H,1,0,V08" playid="3,12,31" type="X" score="Y" vscore="0" hscore="13" tokens="PAT:K,41,G"
+      text="Schneider, A. kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Schneider, A." qb="Schneider, A." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="13"></score>
+   <drivesum plays="9" yards="70" top="2:42" driveindex="3" complete="Y"></drivesum>
+   <play hasball="ORE" down="1" togo="0" spot="ORE35" context="H,1,0,H35" playid="3,13,32" type="K" tokens="KO:49,V00 TB:"
+      text="Wogan, Matt kickoff 65 yards to the EWU0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Wogan, Matt" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,07:32" vh="V" spot="V25" clock="07:32" driveindex="4,32"></drivestart>
+   <play hasball="EWU" down="1" togo="10" spot="EWU25" context="V,1,10,V25" playid="4,1,33" clock="07:32" tokens="{DRIVE}:07:32"
+      text="EASTERN WASHINGTON drive start at 07:32." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU25" context="V,1,10,V25" playid="4,2,34" type="P" first="P" tokens="PASS:5,C,10,V36 OB: TACK:35"
+      text="Jordan West pass complete to Cooper Kupp for 11 yards to the EWU36, 1ST DOWN EWU, out-of-bounds (Walker, Joe)." ob="Y" newcontext="V,1,10,V36">
+    <p_pa vh="V" qb="Jordan West" result="COMP" rcv="Cooper Kupp" gain="11"></p_pa>
+    <p_tk vh="H" name="Walker, Joe"></p_tk>
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU36" context="V,1,10,V36" playid="4,3,35" type="R" tokens="RUSH:2,V38, TACK:35"
+      text="Jabari Wilson rush for 2 yards to the EWU38 (Walker, Joe)." newcontext="V,2,8,V38">
+    <p_ru vh="V" name="Jabari Wilson" gain="2"></p_ru>
+    <p_tk vh="H" name="Walker, Joe"></p_tk>
+   </play>
+   <play hasball="EWU" down="2" togo="8" spot="EWU38" context="V,2,8,V38" playid="4,4,36" type="P" tokens="PASS:5,C,7,V45 TACK:1"
+      text="Jordan West pass complete to Nic Sblendorio for 7 yards to the EWU45 (Springs, Arrion)." newcontext="V,3,1,V45">
+    <p_pa vh="V" qb="Jordan West" result="COMP" rcv="Nic Sblendorio" gain="7"></p_pa>
+    <p_tk vh="H" name="Springs, Arrion"></p_tk>
+   </play>
+   <play hasball="EWU" down="3" togo="1" spot="EWU45" context="V,3,1,V45" playid="4,5,37" type="P" tokens="PASS:5,I,7,*"
+      text="Jordan West pass incomplete to Nic Sblendorio." newcontext="V,4,1,V45">
+    <p_pa vh="V" qb="Jordan West" result="INC" rcv="Nic Sblendorio"></p_pa>
+   </play>
+   <play hasball="EWU" down="4" togo="1" spot="EWU45" context="V,4,1,V45" playid="4,6,38" type="P" first="P" tokens="PASS:5,C,1,V50"
+      text="Jordan West pass complete to Shaq Hill for 5 yards to the 50 yardline, 1ST DOWN EWU." newcontext="V,1,10,V50">
+    <p_pa vh="V" qb="Jordan West" result="COMP" rcv="Shaq Hill" gain="5"></p_pa>
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU50" context="V,1,10,V50" playid="4,7,39" type="E" tokens="RUSH:28,H48, TACK:33 PEN:H,OD,A,TM,H45,N NOPLAY:"
+      text="Jalen Moore rush for 2 yards to the ORE48 (Coleman, Tyson), PENALTY ORE offside defense 5 yards to the ORE45, NO PLAY." newcontext="V,1,5,H45">
+    <p_pn vh="H" code="OD" type="offside defense" result="ACCEPT" at="V50" yards="5"></p_pn>
+   </play>
+   <play hasball="EWU" down="1" togo="5" spot="ORE45" context="V,1,5,H45" playid="4,8,40" type="P" first="P" tokens="PASS:5,C,11,H12 TACK:1"
+      text="Jordan West pass complete to Kendrick Bourne for 33 yards to the ORE12, 1ST DOWN EWU (Springs, Arrion)." newcontext="V,1,10,H12">
+    <p_pa vh="V" qb="Jordan West" result="COMP" rcv="Kendrick Bourne" gain="33"></p_pa>
+    <p_tk vh="H" name="Springs, Arrion"></p_tk>
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="ORE12" context="V,1,10,H12" playid="4,9,41" type="P" first="P" score="Y" vscore="6" hscore="13" clock="05:21" tokens="PASS:5,C,1,H00 T:05:21"
+      text="Jordan West pass complete to Shaq Hill for 12 yards to the ORE0, 1ST DOWN EWU, TOUCHDOWN, clock 05:21." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Jordan West" result="COMP" rcv="Shaq Hill" gain="12"></p_pa>
+   </play>
+   <play hasball="EWU" down="1" togo="0" spot="ORE03" context="V,1,0,H03" playid="4,10,42" type="X" score="Y" vscore="7" hscore="13" tokens="PAT:K,76,G"
+      text="Tyler McNannay kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Tyler McNannay" qb="Tyler McNannay" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="13"></score>
+   <drivesum plays="7" yards="75" top="2:11" driveindex="4" complete="Y"></drivesum>
+   <play hasball="EWU" down="1" togo="0" spot="EWU35" context="V,1,0,V35" playid="4,11,43" type="K" tokens="KO:45,H38 FC:92"
+      text="Jordan Dascalo kickoff 27 yards to the ORE38, fair catch by Mondeaux, Henry." newcontext="H,1,10,H38">
+    <p_ko vh="V" name="Jordan Dascalo" gain="27" result="C" fc="Mondeaux, Henry"></p_ko>
+   </play>
+   <drivestart poss="H,H38,05:21" vh="H" spot="H38" clock="05:21" driveindex="5,43"></drivestart>
+   <play hasball="ORE" down="1" togo="10" spot="ORE38" context="H,1,10,H38" playid="5,1,44" clock="05:21" tokens="{DRIVE}:05:21"
+      text="OREGON drive start at 05:21." newcontext="H,1,10,H38">
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="ORE38" context="H,1,10,H38" playid="5,2,45" type="R" tokens="RUSH:21,H42, TACK:43"
+      text="Freeman, Royce rush for 4 yards to the ORE42 (Jake Gall)." newcontext="H,2,6,H42">
+    <p_ru vh="H" name="Freeman, Royce" gain="4"></p_ru>
+    <p_tk vh="V" name="Jake Gall"></p_tk>
+   </play>
+   <play hasball="ORE" down="2" togo="6" spot="ORE42" context="H,2,6,H42" playid="5,3,46" type="R" first="R" tokens="RUSH:21,V47, TACK:32"
+      text="Freeman, Royce rush for 11 yards to the EWU47, 1ST DOWN ORE (Zach Bruce)." newcontext="H,1,10,V47">
+    <p_ru vh="H" name="Freeman, Royce" gain="11"></p_ru>
+    <p_tk vh="V" name="Zach Bruce"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="EWU47" context="H,1,10,V47" playid="5,4,47" type="P" first="P" tokens="PASS:0C,C,88,V01 TACK:4"
+      text="Adams Jr., V. pass complete to Stanford, D. for 46 yards to the EWU1, 1ST DOWN ORE (Todd Raynes)." newcontext="H,1,0,V01">
+    <p_pa vh="H" qb="Adams Jr., V." result="COMP" rcv="Stanford, D." gain="46"></p_pa>
+    <p_tk vh="V" name="Todd Raynes"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="0" spot="EWU01" context="H,1,0,V01" playid="5,5,48" type="R" score="Y" vscore="7" hscore="19" clock="04:23" tokens="RUSH:21,V00, T:04:23"
+      text="Freeman, Royce rush for 1 yard to the EWU0, TOUCHDOWN, clock 04:23." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Freeman, Royce" gain="1"></p_ru>
+   </play>
+   <play hasball="ORE" down="1" togo="0" spot="EWU03" context="H,1,0,V03" playid="5,6,49" type="X" score="Y" vscore="7" hscore="20" tokens="PAT:K,41,G"
+      text="Schneider, A. kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Schneider, A." qb="Schneider, A." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="20"></score>
+   <drivesum plays="4" yards="62" top="0:58" driveindex="5" complete="Y"></drivesum>
+   <play hasball="ORE" down="1" togo="0" spot="ORE35" context="H,1,0,H35" playid="5,7,50" type="K" tokens="KO:49,V00 RET:22,V14 TACK:20"
+      text="Wogan, Matt kickoff 65 yards to the EWU0, Simba Webster return 14 yards to the EWU14 (Brooks-James)." newcontext="V,1,10,V14">
+    <p_ko vh="H" name="Wogan, Matt" gain="65"></p_ko>
+    <p_kr vh="V" name="Simba Webster" gain="14"></p_kr>
+    <p_tk vh="H" name="Brooks-James"></p_tk>
+   </play>
+   <drivestart poss="V,V14,04:23" vh="V" spot="V14" clock="04:23" driveindex="6,50"></drivestart>
+   <play hasball="EWU" down="1" togo="10" spot="EWU14" context="V,1,10,V14" playid="6,1,51" clock="04:23" tokens="{DRIVE}:04:23"
+      text="EASTERN WASHINGTON drive start at 04:23." newcontext="V,1,10,V14">
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU14" context="V,1,10,V14" playid="6,2,52" type="R" tokens="RUSH:28,V19, TACK:44"
+      text="Jalen Moore rush for 5 yards to the EWU19 (Buckner, De.)." newcontext="V,2,5,V19">
+    <p_ru vh="V" name="Jalen Moore" gain="5"></p_ru>
+    <p_tk vh="H" name="Buckner, De."></p_tk>
+   </play>
+   <play hasball="EWU" down="2" togo="5" spot="EWU19" context="V,2,5,V19" playid="6,3,53" type="P" first="P" tokens="PASS:5,C,28,V25 OB: TACK:35"
+      text="Jordan West pass complete to Jalen Moore for 6 yards to the EWU25, 1ST DOWN EWU, out-of-bounds (Walker, Joe)." ob="Y" newcontext="V,1,10,V25">
+    <p_pa vh="V" qb="Jordan West" result="COMP" rcv="Jalen Moore" gain="6"></p_pa>
+    <p_tk vh="H" name="Walker, Joe"></p_tk>
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU25" context="V,1,10,V25" playid="6,4,54" type="P" first="P" tokens="PASS:5,C,9,V38 OB: TACK:28"
+      text="Jordan West pass complete to Zach Wimberly for 13 yards to the EWU38, 1ST DOWN EWU, out-of-bounds (Ragin III, J.)." ob="Y" newcontext="V,1,10,V38">
+    <p_pa vh="V" qb="Jordan West" result="COMP" rcv="Zach Wimberly" gain="13"></p_pa>
+    <p_tk vh="H" name="Ragin III, J."></p_tk>
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU38" context="V,1,10,V38" playid="6,5,55" type="P" tokens="PASS:5,C,10,V41 OB: TACK:1"
+      text="Jordan West pass complete to Cooper Kupp for 3 yards to the EWU41, out-of-bounds (Springs, Arrion)." ob="Y" newcontext="V,2,7,V41">
+    <p_pa vh="V" qb="Jordan West" result="COMP" rcv="Cooper Kupp" gain="3"></p_pa>
+    <p_tk vh="H" name="Springs, Arrion"></p_tk>
+   </play>
+   <play hasball="EWU" down="2" togo="7" spot="EWU41" context="V,2,7,V41" playid="6,6,56" type="R" tokens="RUSH:22,V41, TACK:55,18"
+      text="Simba Webster rush for no gain to the EWU41 (Talia, Tui;Swain, Jimmie)." newcontext="V,3,7,V41">
+    <p_ru vh="V" name="Simba Webster" gain="0"></p_ru>
+    <p_tk vh="H" name="Talia, Tui" assist="Y"></p_tk>
+    <p_tk vh="H" name="Swain, Jimmie" assist="Y"></p_tk>
+   </play>
+   <play hasball="EWU" down="3" togo="7" spot="EWU41" context="V,3,7,V41" playid="6,7,57" type="P" tokens="PASS:5,I,7,*"
+      text="Jordan West pass incomplete to Nic Sblendorio." newcontext="V,4,7,V41">
+    <p_pa vh="V" qb="Jordan West" result="INC" rcv="Nic Sblendorio"></p_pa>
+   </play>
+   <play hasball="EWU" down="4" togo="7" spot="EWU41" context="V,4,7,V41" playid="6,8,58" type="U" tokens="PUNT:45,H23 FC:2"
+      text="Jordan Dascalo punt 36 yards to the ORE23, fair catch by Addison, Bralon." newcontext="H,1,10,H23">
+    <p_pu vh="V" name="Jordan Dascalo" gain="36" fc="Addison, Bralon"></p_pu>
+   </play>
+   <drivesum plays="6" yards="27" top="2:45" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="H,H23,01:38" vh="H" spot="H23" clock="01:38" driveindex="7,58"></drivestart>
+   <play hasball="ORE" down="1" togo="10" spot="ORE23" context="H,1,10,H23" playid="7,1,59" clock="01:38" tokens="{DRIVE}:01:38"
+      text="OREGON drive start at 01:38." newcontext="H,1,10,H23">
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="ORE23" context="H,1,10,H23" playid="7,2,60" type="R" tokens="RUSH:29,H31, TACK:93"
+      text="Benoit, Kani rush for 8 yards to the ORE31 (Marcus Saugen)." newcontext="H,2,2,H31">
+    <p_ru vh="H" name="Benoit, Kani" gain="8"></p_ru>
+    <p_tk vh="V" name="Marcus Saugen"></p_tk>
+   </play>
+   <play hasball="ORE" down="2" togo="2" spot="ORE31" context="H,2,2,H31" playid="7,3,61" type="P" first="P" tokens="PASS:0C,C,9,H35 TACK:27,37"
+      text="Adams Jr., V. pass complete to Marshall, Byron for 4 yards to the ORE35, 1ST DOWN ORE (Victor Gamboa;Cole Karstetter)." newcontext="H,1,10,H35">
+    <p_pa vh="H" qb="Adams Jr., V." result="COMP" rcv="Marshall, Byron" gain="4"></p_pa>
+    <p_tk vh="V" name="Victor Gamboa" assist="Y"></p_tk>
+    <p_tk vh="V" name="Cole Karstetter" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="ORE35" context="H,1,10,H35" playid="7,4,62" type="R" first="R" tokens="RUSH:29,V39, OB: TACK:37"
+      text="Benoit, Kani rush for 26 yards to the EWU39, 1ST DOWN ORE, out-of-bounds (Cole Karstetter)." ob="Y" newcontext="H,1,10,V39">
+    <p_ru vh="H" name="Benoit, Kani" gain="26"></p_ru>
+    <p_tk vh="V" name="Cole Karstetter"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="EWU39" context="H,1,10,V39" playid="7,5,63" type="P" tokens="PASS:0C,I,2,*"
+      text="Adams Jr., V. pass incomplete to Addison, Bralon." newcontext="H,2,10,V39">
+    <p_pa vh="H" qb="Adams Jr., V." result="INC" rcv="Addison, Bralon"></p_pa>
+   </play>
+   <play hasball="ORE" down="2" togo="10" spot="EWU39" context="H,2,10,V39" playid="7,6,64" type="R" first="R" tokens="RUSH:20,V21, TACK:49,32"
+      text="Brooks-James rush for 18 yards to the EWU21, 1ST DOWN ORE (Miquiyah Zamora;Zach Bruce)." newcontext="H,1,10,V21">
+    <p_ru vh="H" name="Brooks-James" gain="18"></p_ru>
+    <p_tk vh="V" name="Miquiyah Zamora" assist="Y"></p_tk>
+    <p_tk vh="V" name="Zach Bruce" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="EWU21" context="H,1,10,V21" playid="7,7,65" type="E" tokens="PEN:H,FS,A,TM,V26,N"
+      text="PENALTY ORE false start 5 yards to the EWU26." newcontext="H,1,15,V26">
+    <p_pn vh="H" code="FS" type="false start" result="ACCEPT" at="V21" yards="5"></p_pn>
+   </play>
+   <play hasball="ORE" down="1" togo="15" spot="EWU26" context="H,1,15,V26" playid="7,8,66" type="R" tokens="RUSH:20,V19, TACK:49"
+      text="Brooks-James rush for 7 yards to the EWU19 (Miquiyah Zamora)." newcontext="H,2,8,V19">
+    <p_ru vh="H" name="Brooks-James" gain="7"></p_ru>
+    <p_tk vh="V" name="Miquiyah Zamora"></p_tk>
+   </play>
+   <score qtr="1" V="7" H="20"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="EWU">
+    <firstdowns no="7" rush="0" pass="7" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:25"></misc>
+    <rush att="6" yds="13" gain="13" loss="0" td="0" long="5"></rush>
+    <pass comp="10" att="12" int="0" yds="98" td="1" long="33" sacks="0" sackyds="0"></pass>
+    <rcv no="10" yds="98" td="1" long="33"></rcv>
+    <punt no="2" yds="67" long="36" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="33.5"></punt>
+    <ko no="2" yds="91" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="20" tacka="4" tot_tack="24" sacks="0" sackyds="0"></defense>
+    <kr no="1" yds="14" td="0" long="14"></kr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ORE">
+    <firstdowns no="13" rush="7" pass="6" penalty="0"></firstdowns>
+    <penalties no="3" yds="15"></penalties>
+    <conversions thirdconv="2" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:35"></misc>
+    <rush att="16" yds="147" gain="147" loss="0" td="2" long="26"></rush>
+    <pass comp="8" att="10" int="0" yds="111" td="1" long="46" sacks="0" sackyds="0"></pass>
+    <rcv no="8" yds="111" td="1" long="46"></rcv>
+    <ko no="3" yds="195" ob="0" tb="2"></ko>
+    <pat kickatt="2" kickmade="2" passatt="1" passmade="0"></pat>
+    <defense tackua="13" tacka="4" tot_tack="17" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0"></defense>
+    <kr no="1" yds="36" td="0" long="36"></kr>
+    <scoring td="3" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="ORE" down="2" togo="8" spot="EWU19" context="H,2,8,V19" playid="7,9,67" type="#" clock="15:00" tokens="Q:2 T:15:00"
+      text="Start of 2nd quarter, clock 15:00." newcontext="H,2,8,V19">
+   </play>
+   <play hasball="ORE" down="2" togo="8" spot="EWU19" context="H,2,8,V19" playid="7,10,68" type="R" tokens="RUSH:0C,V17, TACK:32"
+      text="Adams Jr., V. rush for 2 yards to the EWU17 (Zach Bruce)." newcontext="H,3,6,V17">
+    <p_ru vh="H" name="Adams Jr., V." gain="2"></p_ru>
+    <p_tk vh="V" name="Zach Bruce"></p_tk>
+   </play>
+   <play hasball="ORE" down="3" togo="6" spot="EWU17" context="H,3,6,V17" playid="7,11,69" type="P" tokens="PASS:0C,C,20,V12 TACK:55,35"
+      text="Adams Jr., V. pass complete to Brooks-James for 5 yards to the EWU12 (Andre Lino;Alek Kacmarcik)." newcontext="H,4,1,V12">
+    <p_pa vh="H" qb="Adams Jr., V." result="COMP" rcv="Brooks-James" gain="5"></p_pa>
+    <p_tk vh="V" name="Andre Lino" assist="Y"></p_tk>
+    <p_tk vh="V" name="Alek Kacmarcik" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORE" down="4" togo="1" spot="EWU12" context="H,4,1,V12" playid="7,12,70" type="R" first="R" score="Y" vscore="7" hscore="26" clock="14:22" tokens="RUSH:20,V00, T:14:22"
+      text="Brooks-James rush for 12 yards to the EWU0, 1ST DOWN ORE, TOUCHDOWN, clock 14:22." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Brooks-James" gain="12"></p_ru>
+   </play>
+   <play hasball="ORE" down="1" togo="0" spot="EWU03" context="H,1,0,V03" playid="7,13,71" type="X" score="Y" vscore="7" hscore="27" tokens="PAT:K,41,G"
+      text="Schneider, A. kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Schneider, A." qb="Schneider, A." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="27"></score>
+   <drivesum plays="9" yards="77" top="2:16" driveindex="7" complete="Y"></drivesum>
+   <play hasball="ORE" down="1" togo="0" spot="ORE35" context="H,1,0,H35" playid="7,14,72" type="K" tokens="KO:49,V00 TB:"
+      text="Wogan, Matt kickoff 65 yards to the EWU0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Wogan, Matt" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,14:22" vh="V" spot="V25" clock="14:22" driveindex="8,72"></drivestart>
+   <play hasball="EWU" down="1" togo="10" spot="EWU25" context="V,1,10,V25" playid="8,1,73" clock="14:22" tokens="{DRIVE}:14:22"
+      text="EASTERN WASHINGTON drive start at 14:22." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU25" context="V,1,10,V25" playid="8,2,74" type="P" first="P" tokens="PASS:5,C,10,H02 OB: TACK:1"
+      text="Jordan West pass complete to Cooper Kupp for 73 yards to the ORE2, 1ST DOWN EWU, out-of-bounds (Springs, Arrion)." ob="Y" newcontext="V,1,0,H02">
+    <p_pa vh="V" qb="Jordan West" result="COMP" rcv="Cooper Kupp" gain="73"></p_pa>
+    <p_tk vh="H" name="Springs, Arrion"></p_tk>
+   </play>
+   <play hasball="EWU" down="1" togo="0" spot="ORE02" context="V,1,0,H02" playid="8,3,75" type="R" tokens="RUSH:28,H02, TACK:48"
+      text="Jalen Moore rush for no gain to the ORE2 (Hardrick, R.)." newcontext="V,2,0,H02">
+    <p_ru vh="V" name="Jalen Moore" gain="0"></p_ru>
+    <p_tk vh="H" name="Hardrick, R."></p_tk>
+   </play>
+   <play hasball="EWU" down="2" togo="0" spot="ORE02" context="V,2,0,H02" playid="8,4,76" type="R" tokens="RUSH:28,H01, TACK:56,48"
+      text="Jalen Moore rush for 1 yard to the ORE1 (Balducci, Alex;Hardrick, R.)." newcontext="V,3,0,H01">
+    <p_ru vh="V" name="Jalen Moore" gain="1"></p_ru>
+    <p_tk vh="H" name="Balducci, Alex" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hardrick, R." assist="Y"></p_tk>
+   </play>
+   <play hasball="EWU" down="3" togo="0" spot="ORE01" context="V,3,0,H01" playid="8,5,77" type="R" tokens="RUSH:28,H02, TACK:55,44"
+      text="Jalen Moore rush for loss of 1 yard to the ORE2 (Talia, Tui;Buckner, De.)." newcontext="V,4,0,H02">
+    <p_ru vh="V" name="Jalen Moore" gain="-1"></p_ru>
+    <p_tk vh="H" name="Talia, Tui" assist="Y"></p_tk>
+    <p_tk vh="H" name="Buckner, De." assist="Y"></p_tk>
+   </play>
+   <play hasball="EWU" down="4" togo="0" spot="ORE02" context="V,4,0,H02" playid="8,6,78" type="P" score="Y" vscore="13" hscore="27" clock="12:15" tokens="PASS:5,C,11,H00 T:12:15"
+      text="Jordan West pass complete to Kendrick Bourne for 2 yards to the ORE0, TOUCHDOWN, clock 12:15." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Jordan West" result="COMP" rcv="Kendrick Bourne" gain="2"></p_pa>
+   </play>
+   <play hasball="EWU" down="1" togo="0" spot="ORE03" context="V,1,0,H03" playid="8,7,79" type="X" score="Y" vscore="14" hscore="27" tokens="PAT:K,76,G"
+      text="Tyler McNannay kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Tyler McNannay" qb="Tyler McNannay" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="27"></score>
+   <play hasball="EWU" down="1" togo="0" spot="EWU35" context="V,1,0,V35" playid="8,8,80" type="E" tokens="KO:45,H02 RET:9,H21 PEN:V,OS,A,TM,V30,N NOPLAY:"
+      text="Jordan Dascalo kickoff 63 yards to the ORE2, Marshall, Byron return to the ORE21, PENALTY EWU offside 5 yards to the EWU30, NO PLAY." newcontext="V,1,0,V30">
+    <p_pn vh="V" code="OS" type="offside" result="ACCEPT" at="V35" yards="5"></p_pn>
+   </play>
+   <play hasball="EWU" down="1" togo="0" spot="EWU30" context="V,1,0,V30" playid="8,9,81" clock="12:15" tokens="{DRIVE}:12:15"
+      text="EASTERN WASHINGTON drive start at 12:15." newcontext="V,1,0,V30">
+   </play>
+   <drivesum plays="5" yards="75" top="0:00" driveindex="8" complete="Y"></drivesum>
+   <play hasball="EWU" down="1" togo="0" spot="EWU30" context="V,1,0,V30" playid="8,10,82" type="K" tokens="KO:45,H11 RET:9,H39 TACK:37"
+      text="Jordan Dascalo kickoff 59 yards to the ORE11, Marshall, Byron return 28 yards to the ORE39 (Cole Karstetter)." newcontext="H,1,10,H39">
+    <p_ko vh="V" name="Jordan Dascalo" gain="59"></p_ko>
+    <p_kr vh="H" name="Marshall, Byron" gain="28"></p_kr>
+    <p_tk vh="V" name="Cole Karstetter"></p_tk>
+   </play>
+   <drivestart poss="H,H39,12:15" vh="H" spot="H39" clock="12:15" driveindex="9,82"></drivestart>
+   <play hasball="ORE" down="1" togo="10" spot="ORE39" context="H,1,10,H39" playid="9,1,83" clock="12:15" tokens="{DRIVE}:12:15"
+      text="OREGON drive start at 12:15." newcontext="H,1,10,H39">
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="ORE39" context="H,1,10,H39" playid="9,2,84" type="P" tokens="PASS:0C,I,11,* BRUP:91"
+      text="Adams Jr., V. pass incomplete to Merritt, Kirk (Samson Ebukam)." newcontext="H,2,10,H39">
+    <p_pa vh="H" qb="Adams Jr., V." result="INC" rcv="Merritt, Kirk"></p_pa>
+    <p_bu vh="V" name="Samson Ebukam"></p_bu>
+   </play>
+   <play hasball="ORE" down="2" togo="10" spot="ORE39" context="H,2,10,H39" playid="9,3,85" type="R" tokens="RUSH:0C,H43,"
+      text="Adams Jr., V. rush for 4 yards to the ORE43." newcontext="H,3,6,H43">
+    <p_ru vh="H" name="Adams Jr., V." gain="4"></p_ru>
+   </play>
+   <play hasball="ORE" down="3" togo="6" spot="ORE43" context="H,3,6,H43" playid="9,4,86" type="P" first="P" tokens="PASS:0C,C,81,V49 TACK:8"
+      text="Adams Jr., V. pass complete to Baylis, Evan for 8 yards to the EWU49, 1ST DOWN ORE (Miles Weatheroy)." newcontext="H,1,10,V49">
+    <p_pa vh="H" qb="Adams Jr., V." result="COMP" rcv="Baylis, Evan" gain="8"></p_pa>
+    <p_tk vh="V" name="Miles Weatheroy"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="EWU49" context="H,1,10,V49" playid="9,5,87" type="P" first="P" tokens="PASS:0C,C,88,V10 TACK:8"
+      text="Adams Jr., V. pass complete to Stanford, D. for 39 yards to the EWU10, 1ST DOWN ORE (Miles Weatheroy)." newcontext="H,1,0,V10">
+    <p_pa vh="H" qb="Adams Jr., V." result="COMP" rcv="Stanford, D." gain="39"></p_pa>
+    <p_tk vh="V" name="Miles Weatheroy"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="0" spot="EWU10" context="H,1,0,V10" playid="9,6,88" type="P" tokens="PASS:0C,I,88,*"
+      text="Adams Jr., V. pass incomplete to Stanford, D.." newcontext="H,2,0,V10">
+    <p_pa vh="H" qb="Adams Jr., V." result="INC" rcv="Stanford, D."></p_pa>
+   </play>
+   <play hasball="ORE" down="2" togo="0" spot="EWU10" context="H,2,0,V10" playid="9,7,89" type="R" first="E" tokens="RUSH:21,V06, TACK:91,43 PEN:V,PF,A,TM,V03,1"
+      text="Freeman, Royce rush for 4 yards to the EWU6 (Samson Ebukam;Jake Gall), PENALTY EWU personal foul 3 yards to the EWU3, 1ST DOWN ORE." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Freeman, Royce" gain="4"></p_ru>
+    <p_tk vh="V" name="Samson Ebukam" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jake Gall" assist="Y"></p_tk>
+    <p_pn vh="V" code="PF" type="personal foul" result="ACCEPT" at="V06" yards="3"></p_pn>
+   </play>
+   <play hasball="ORE" down="1" togo="0" spot="EWU03" context="H,1,0,V03" playid="9,8,90" tokens="D:1,3"
+      text="1st and 3." newcontext="H,1,0,V03">
+   </play>
+   <play hasball="ORE" down="1" togo="0" spot="EWU03" context="H,1,0,V03" playid="9,9,91" type="R" score="Y" vscore="14" hscore="33" clock="10:37" tokens="RUSH:21,V00, T:10:37"
+      text="Freeman, Royce rush for 3 yards to the EWU0, TOUCHDOWN, clock 10:37." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Freeman, Royce" gain="3"></p_ru>
+   </play>
+   <play hasball="ORE" down="1" togo="0" spot="EWU03" context="H,1,0,V03" playid="9,10,92" type="X" score="Y" vscore="14" hscore="34" tokens="PAT:K,41,G"
+      text="Schneider, A. kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Schneider, A." qb="Schneider, A." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="34"></score>
+   <drivesum plays="7" yards="61" top="1:38" driveindex="9" complete="Y"></drivesum>
+   <play hasball="ORE" down="1" togo="0" spot="ORE35" context="H,1,0,H35" playid="9,11,93" type="K" tokens="KO:49,V02 RET:1,V24 PEN:V,HO,A,TM,V14,N D:1,10 SPOT:V,V14,Y"
+      text="Wogan, Matt kickoff 63 yards to the EWU2, Shaq Hill return 22 yards to the EWU24, PENALTY EWU holding 10 yards to the EWU14, 1st and 10, EWU ball on EWU14." newcontext="V,1,10,V14">
+    <p_ko vh="H" name="Wogan, Matt" gain="63"></p_ko>
+    <p_kr vh="V" name="Shaq Hill" gain="22"></p_kr>
+    <p_pn vh="V" code="HO" type="holding" result="ACCEPT" at="V24" yards="10"></p_pn>
+   </play>
+   <drivestart poss="V,V14,10:37" vh="V" spot="V14" clock="10:37" driveindex="10,93"></drivestart>
+   <play hasball="EWU" down="1" togo="10" spot="EWU14" context="V,1,10,V14" playid="10,1,94" clock="10:37" tokens="{DRIVE}:10:37"
+      text="EASTERN WASHINGTON drive start at 10:37." newcontext="V,1,10,V14">
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU14" context="V,1,10,V14" playid="10,2,95" type="E" tokens="PEN:V,FS,A,TM,V09,N"
+      text="PENALTY EWU false start 5 yards to the EWU9." newcontext="V,1,15,V09">
+    <p_pn vh="V" code="FS" type="false start" result="ACCEPT" at="V14" yards="5"></p_pn>
+   </play>
+   <play hasball="EWU" down="1" togo="15" spot="EWU09" context="V,1,15,V09" playid="10,3,96" type="P" first="P" tokens="PASS:5,C,1,V32 OB: TACK:3 PEN:H,OS,D"
+      text="Jordan West pass complete to Shaq Hill for 23 yards to the EWU32, 1ST DOWN EWU, out-of-bounds (Robinson, Tyree), PENALTY ORE offside declined." ob="Y" newcontext="V,1,10,V32">
+    <p_pa vh="V" qb="Jordan West" result="COMP" rcv="Shaq Hill" gain="23"></p_pa>
+    <p_tk vh="H" name="Robinson, Tyree"></p_tk>
+    <p_pn vh="H" code="OS" type="offside" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU32" context="V,1,10,V32" playid="10,4,97" type="P" first="P" tokens="PASS:5,C,10,H38 TACK:12"
+      text="Jordan West pass complete to Cooper Kupp for 30 yards to the ORE38, 1ST DOWN EWU (Seisay, Chris)." newcontext="V,1,10,H38">
+    <p_pa vh="V" qb="Jordan West" result="COMP" rcv="Cooper Kupp" gain="30"></p_pa>
+    <p_tk vh="H" name="Seisay, Chris"></p_tk>
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="ORE38" context="V,1,10,H38" playid="10,5,98" type="P" tokens="PASS:5,C,2,H32 TACK:8"
+      text="Jordan West pass complete to Jabari Wilson for 6 yards to the ORE32 (Daniels, Reggie)." newcontext="V,2,4,H32">
+    <p_pa vh="V" qb="Jordan West" result="COMP" rcv="Jabari Wilson" gain="6"></p_pa>
+    <p_tk vh="H" name="Daniels, Reggie"></p_tk>
+   </play>
+   <play hasball="EWU" down="2" togo="4" spot="ORE32" context="V,2,4,H32" playid="10,6,99" type="P" turnover="I" tokens="PASS:5,X,12,H13 RET:12,H17 TACK:88"
+      text="Jordan West pass intercepted by Seisay, Chris at the ORE13, Seisay, Chris return 4 yards to the ORE17 (Terence Grady)." newcontext="H,1,10,H17">
+    <p_pa vh="V" qb="Jordan West" result="INT"></p_pa>
+    <p_ir vh="H" name="Seisay, Chris" at="H13" gain="4"></p_ir>
+    <p_tk vh="V" name="Terence Grady"></p_tk>
+   </play>
+   <drivesum plays="4" yards="54" top="1:21" driveindex="10" complete="Y"></drivesum>
+   <drivestart poss="H,H17,09:16" vh="H" spot="H17" clock="09:16" driveindex="11,99"></drivestart>
+   <play hasball="ORE" down="1" togo="10" spot="ORE17" context="H,1,10,H17" playid="11,1,100" clock="09:16" tokens="{DRIVE}:09:16"
+      text="OREGON drive start at 09:16." newcontext="H,1,10,H17">
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="ORE17" context="H,1,10,H17" playid="11,2,101" type="R" turnover="F" tokens="RUSH:0C,H41, FORCE:32 FUMB:V,H41,13"
+      text="Adams Jr., V. rush for 24 yards to the ORE41, fumble forced by Zach Bruce, fumble by Adams Jr., V. recovered by EWU Mitch Fettig at ORE41." newcontext="V,1,10,H41">
+    <p_ru vh="H" name="Adams Jr., V." gain="24"></p_ru>
+    <p_fumb vh="H" name="Adams Jr., V." at="H41" frvh="V" frname="Mitch Fettig"></p_fumb>
+    <p_tk vh="V" name="Zach Bruce" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="1" yards="24" top="0:10" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="V,H41,09:06" vh="V" spot="H41" clock="09:06" driveindex="12,101"></drivestart>
+   <play hasball="EWU" down="1" togo="10" spot="ORE41" context="V,1,10,H41" playid="12,1,102" clock="09:06" tokens="{DRIVE}:09:06"
+      text="EASTERN WASHINGTON drive start at 09:06." newcontext="V,1,10,H41">
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="ORE41" context="V,1,10,H41" playid="12,2,103" type="P" tokens="PASS:5,C,28,H41 TACK:12"
+      text="Jordan West pass complete to Jalen Moore for no gain to the ORE41 (Seisay, Chris)." newcontext="V,2,10,H41">
+    <p_pa vh="V" qb="Jordan West" result="COMP" rcv="Jalen Moore" gain="0"></p_pa>
+    <p_tk vh="H" name="Seisay, Chris"></p_tk>
+   </play>
+   <play hasball="EWU" down="2" togo="10" spot="ORE41" context="V,2,10,H41" playid="12,3,104" type="P" tokens="PASS:5,C,28,H44 TACK:45"
+      text="Jordan West pass complete to Jalen Moore for loss of 3 yards to the ORE44 (Daniel, T.J.)." newcontext="V,3,13,H44">
+    <p_pa vh="V" qb="Jordan West" result="COMP" rcv="Jalen Moore" gain="-3"></p_pa>
+    <p_tk vh="H" name="Daniel, T.J."></p_tk>
+   </play>
+   <play hasball="EWU" down="3" togo="13" spot="ORE44" context="V,3,13,H44" playid="12,4,105" type="P" tokens="PASS:5,C,10,H32 OB: TACK:1"
+      text="Jordan West pass complete to Cooper Kupp for 12 yards to the ORE32, out-of-bounds (Springs, Arrion)." ob="Y" newcontext="V,4,1,H32">
+    <p_pa vh="V" qb="Jordan West" result="COMP" rcv="Cooper Kupp" gain="12"></p_pa>
+    <p_tk vh="H" name="Springs, Arrion"></p_tk>
+   </play>
+   <play hasball="EWU" down="4" togo="1" spot="ORE32" context="V,4,1,H32" playid="12,5,106" type="R" first="R" tokens="RUSH:28,H30, TACK:48"
+      text="Jalen Moore rush for 2 yards to the ORE30, 1ST DOWN EWU (Hardrick, R.)." newcontext="V,1,10,H30">
+    <p_ru vh="V" name="Jalen Moore" gain="2"></p_ru>
+    <p_tk vh="H" name="Hardrick, R."></p_tk>
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="ORE30" context="V,1,10,H30" playid="12,6,107" type="P" tokens="PASS:5,I,10,* BRUP:1"
+      text="Jordan West pass incomplete to Cooper Kupp (Springs, Arrion)." newcontext="V,2,10,H30">
+    <p_pa vh="V" qb="Jordan West" result="INC" rcv="Cooper Kupp"></p_pa>
+    <p_bu vh="H" name="Springs, Arrion"></p_bu>
+   </play>
+   <play hasball="EWU" down="2" togo="10" spot="ORE30" context="V,2,10,H30" playid="12,7,108" type="P" tokens="PASS:5,I,11,*"
+      text="Jordan West pass incomplete to Kendrick Bourne." newcontext="V,3,10,H30">
+    <p_pa vh="V" qb="Jordan West" result="INC" rcv="Kendrick Bourne"></p_pa>
+   </play>
+   <play hasball="EWU" down="3" togo="10" spot="ORE30" context="V,3,10,H30" playid="12,8,109" type="P" first="P" tokens="PASS:5,C,10,H16 TACK:12"
+      text="Jordan West pass complete to Cooper Kupp for 14 yards to the ORE16, 1ST DOWN EWU (Seisay, Chris)." newcontext="V,1,10,H16">
+    <p_pa vh="V" qb="Jordan West" result="COMP" rcv="Cooper Kupp" gain="14"></p_pa>
+    <p_tk vh="H" name="Seisay, Chris"></p_tk>
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="ORE16" context="V,1,10,H16" playid="12,9,110" type="P" tokens="PASS:5,I,11,* BRUP:44"
+      text="Jordan West pass incomplete to Kendrick Bourne (Buckner, De.)." newcontext="V,2,10,H16">
+    <p_pa vh="V" qb="Jordan West" result="INC" rcv="Kendrick Bourne"></p_pa>
+    <p_bu vh="H" name="Buckner, De."></p_bu>
+   </play>
+   <play hasball="EWU" down="2" togo="10" spot="ORE16" context="V,2,10,H16" playid="12,10,111" type="P" first="P" score="Y" vscore="20" hscore="34" clock="06:11" tokens="PASS:5,C,10,H00 T:06:11"
+      text="Jordan West pass complete to Cooper Kupp for 16 yards to the ORE0, 1ST DOWN EWU, TOUCHDOWN, clock 06:11." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Jordan West" result="COMP" rcv="Cooper Kupp" gain="16"></p_pa>
+   </play>
+   <play hasball="EWU" down="1" togo="0" spot="ORE03" context="V,1,0,H03" playid="12,11,112" type="X" score="Y" vscore="21" hscore="34" tokens="PAT:K,76,G"
+      text="Tyler McNannay kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Tyler McNannay" qb="Tyler McNannay" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="21" H="34"></score>
+   <drivesum plays="9" yards="41" top="2:55" driveindex="12" complete="Y"></drivesum>
+   <play hasball="EWU" down="1" togo="0" spot="EWU35" context="V,1,0,V35" playid="12,12,113" type="K" tokens="KO:45,H05 RET:9,H40 TACK:35"
+      text="Jordan Dascalo kickoff 60 yards to the ORE5, Marshall, Byron return 35 yards to the ORE40 (Alek Kacmarcik)." newcontext="H,1,10,H40">
+    <p_ko vh="V" name="Jordan Dascalo" gain="60"></p_ko>
+    <p_kr vh="H" name="Marshall, Byron" gain="35"></p_kr>
+    <p_tk vh="V" name="Alek Kacmarcik"></p_tk>
+   </play>
+   <drivestart poss="H,H40,06:11" vh="H" spot="H40" clock="06:11" driveindex="13,113"></drivestart>
+   <play hasball="ORE" down="1" togo="10" spot="ORE40" context="H,1,10,H40" playid="13,1,114" clock="06:11" tokens="{DRIVE}:06:11"
+      text="OREGON drive start at 06:11." newcontext="H,1,10,H40">
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="ORE40" context="H,1,10,H40" playid="13,2,115" type="R" tokens="RUSH:21,H45, TACK:53,49"
+      text="Freeman, Royce rush for 5 yards to the ORE45 (Jonah Jordan;Miquiyah Zamora)." newcontext="H,2,5,H45">
+    <p_ru vh="H" name="Freeman, Royce" gain="5"></p_ru>
+    <p_tk vh="V" name="Jonah Jordan" assist="Y"></p_tk>
+    <p_tk vh="V" name="Miquiyah Zamora" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORE" down="2" togo="5" spot="ORE45" context="H,2,5,H45" playid="13,3,116" type="E" tokens="PEN:H,FS,A,TM,H40,N"
+      text="PENALTY ORE false start 5 yards to the ORE40." newcontext="H,2,10,H40">
+    <p_pn vh="H" code="FS" type="false start" result="ACCEPT" at="H45" yards="5"></p_pn>
+   </play>
+   <play hasball="ORE" down="2" togo="10" spot="ORE40" context="H,2,10,H40" playid="13,4,117" type="R" tokens="RUSH:0C,H43, TACK:35"
+      text="Adams Jr., V. rush for 3 yards to the ORE43 (Alek Kacmarcik)." newcontext="H,3,7,H43">
+    <p_ru vh="H" name="Adams Jr., V." gain="3"></p_ru>
+    <p_tk vh="V" name="Alek Kacmarcik"></p_tk>
+   </play>
+   <play hasball="ORE" down="3" togo="7" spot="ORE43" context="H,3,7,H43" playid="13,5,118" type="R" tokens="RUSH:0C,H49, TACK:13,35"
+      text="Adams Jr., V. rush for 6 yards to the ORE49 (Mitch Fettig;Alek Kacmarcik)." newcontext="H,4,1,H49">
+    <p_ru vh="H" name="Adams Jr., V." gain="6"></p_ru>
+    <p_tk vh="V" name="Mitch Fettig" assist="Y"></p_tk>
+    <p_tk vh="V" name="Alek Kacmarcik" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORE" down="4" togo="1" spot="ORE49" context="H,4,1,H49" playid="13,6,119" type="R" first="R" tokens="RUSH:21,V47, TACK:35"
+      text="Freeman, Royce rush for 4 yards to the EWU47, 1ST DOWN ORE (Alek Kacmarcik)." newcontext="H,1,10,V47">
+    <p_ru vh="H" name="Freeman, Royce" gain="4"></p_ru>
+    <p_tk vh="V" name="Alek Kacmarcik"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="EWU47" context="H,1,10,V47" playid="13,7,120" type="P" tokens="PASS:0C,S,TM,H48 SACK:91"
+      text="Adams Jr., V. sacked for loss of 5 yards to the ORE48 (Samson Ebukam)." newcontext="H,2,15,H48">
+    <p_pa vh="H" qb="Adams Jr., V." result="SACK" gain="-5"></p_pa>
+    <p_tk vh="V" name="Samson Ebukam" sack="Y"></p_tk>
+   </play>
+   <play hasball="ORE" down="2" togo="15" spot="ORE48" context="H,2,15,H48" playid="13,8,121" type="R" first="R" tokens="RUSH:21,V34, TACK:32"
+      text="Freeman, Royce rush for 18 yards to the EWU34, 1ST DOWN ORE (Zach Bruce)." newcontext="H,1,10,V34">
+    <p_ru vh="H" name="Freeman, Royce" gain="18"></p_ru>
+    <p_tk vh="V" name="Zach Bruce"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="EWU34" context="H,1,10,V34" playid="13,9,122" type="R" tokens="RUSH:21,V30, TACK:99,49"
+      text="Freeman, Royce rush for 4 yards to the EWU30 (Jay-Tee Tiuli;Miquiyah Zamora)." newcontext="H,2,6,V30">
+    <p_ru vh="H" name="Freeman, Royce" gain="4"></p_ru>
+    <p_tk vh="V" name="Jay-Tee Tiuli" assist="Y"></p_tk>
+    <p_tk vh="V" name="Miquiyah Zamora" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORE" down="2" togo="6" spot="EWU30" context="H,2,6,V30" playid="13,10,123" type="P" tokens="PASS:0C,I,20,* BRUP:59"
+      text="Adams Jr., V. pass incomplete to Brooks-James (Kurt Calhoun)." newcontext="H,3,6,V30">
+    <p_pa vh="H" qb="Adams Jr., V." result="INC" rcv="Brooks-James"></p_pa>
+    <p_bu vh="V" name="Kurt Calhoun"></p_bu>
+   </play>
+   <play hasball="ORE" down="3" togo="6" spot="EWU30" context="H,3,6,V30" playid="13,11,124" type="R" tokens="RUSH:20,V30, TACK:90,94"
+      text="Brooks-James rush for no gain to the EWU30 (Keenan Williams;Matthew Sommer)." newcontext="H,4,6,V30">
+    <p_ru vh="H" name="Brooks-James" gain="0"></p_ru>
+    <p_tk vh="V" name="Keenan Williams" assist="Y"></p_tk>
+    <p_tk vh="V" name="Matthew Sommer" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORE" down="4" togo="6" spot="EWU30" context="H,4,6,V30" playid="13,12,125" type="P" tokens="PASS:0C,I,9,* BRUP:18"
+      text="Adams Jr., V. pass incomplete to Marshall, Byron (D'londo Tucker)." newcontext="V,1,10,V30">
+    <p_pa vh="H" qb="Adams Jr., V." result="INC" rcv="Marshall, Byron"></p_pa>
+    <p_bu vh="V" name="D'londo Tucker"></p_bu>
+   </play>
+   <drivesum plays="10" yards="30" top="3:55" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="V,V30,02:16" vh="V" spot="V30" clock="02:16" driveindex="14,125"></drivestart>
+   <play hasball="EWU" down="1" togo="10" spot="EWU30" context="V,1,10,V30" playid="14,1,126" clock="02:16" tokens="{DRIVE}:02:16"
+      text="EASTERN WASHINGTON drive start at 02:16." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU30" context="V,1,10,V30" playid="14,2,127" type="P" tokens="PASS:5,C,11,V35 TACK:12"
+      text="Jordan West pass complete to Kendrick Bourne for 5 yards to the EWU35 (Seisay, Chris)." newcontext="V,2,5,V35">
+    <p_pa vh="V" qb="Jordan West" result="COMP" rcv="Kendrick Bourne" gain="5"></p_pa>
+    <p_tk vh="H" name="Seisay, Chris"></p_tk>
+   </play>
+   <play hasball="EWU" down="2" togo="5" spot="EWU35" context="V,2,5,V35" playid="14,3,128" type="R" tokens="RUSH:2,V42, TACK: PEN:V,HO,A,TM,V32,N"
+      text="Jabari Wilson rush for 7 yards to the EWU42, , PENALTY EWU holding 10 yards to the EWU32." newcontext="V,2,8,V32">
+    <p_ru vh="V" name="Jabari Wilson" gain="7"></p_ru>
+    <p_pn vh="V" code="HO" type="holding" result="ACCEPT" at="V42" yards="10"></p_pn>
+   </play>
+   <play hasball="EWU" down="2" togo="8" spot="EWU32" context="V,2,8,V32" playid="14,4,129" tokens="D:2,8"
+      text="2nd and 8." newcontext="V,2,8,V32">
+   </play>
+   <play hasball="EWU" down="2" togo="8" spot="EWU32" context="V,2,8,V32" playid="14,5,130" type="P" tokens="PASS:5,C,10,V33 TACK:12,28"
+      text="Jordan West pass complete to Cooper Kupp for 1 yard to the EWU33 (Seisay, Chris;Ragin III, J.)." newcontext="V,3,7,V33">
+    <p_pa vh="V" qb="Jordan West" result="COMP" rcv="Cooper Kupp" gain="1"></p_pa>
+    <p_tk vh="H" name="Seisay, Chris" assist="Y"></p_tk>
+    <p_tk vh="H" name="Ragin III, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="EWU" down="3" togo="7" spot="EWU33" context="V,3,7,V33" playid="14,6,131" type="P" tokens="PASS:5,I,2,* QBH:H,33"
+      text="Jordan West pass incomplete to Jabari Wilson, QB hurry by Coleman, Tyson." newcontext="V,4,7,V33">
+    <p_pa vh="V" qb="Jordan West" result="INC" rcv="Jabari Wilson"></p_pa>
+    <p_qbh vh="H" name="Coleman, Tyson"></p_qbh>
+   </play>
+   <play hasball="EWU" down="4" togo="7" spot="EWU33" context="V,4,7,V33" playid="14,7,132" type="#" clock="00:56" tokens="TOUT:H T:00:56"
+      text="Timeout Oregon, clock 00:56." newcontext="V,4,7,V33">
+    <p_to vh="H" team="Oregon"></p_to>
+   </play>
+   <play hasball="EWU" down="4" togo="7" spot="EWU33" context="V,4,7,V33" playid="14,8,133" type="U" tokens="PUNT:45,H21 FC:2"
+      text="Jordan Dascalo punt 46 yards to the ORE21, fair catch by Addison, Bralon." newcontext="H,1,10,H21">
+    <p_pu vh="V" name="Jordan Dascalo" gain="46" fc="Addison, Bralon"></p_pu>
+   </play>
+   <drivesum plays="4" yards="3" top="1:28" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="H,H21,00:48" vh="H" spot="H21" clock="00:48" driveindex="15,133"></drivestart>
+   <play hasball="ORE" down="1" togo="10" spot="ORE21" context="H,1,10,H21" playid="15,1,134" clock="00:48" tokens="{DRIVE}:00:48"
+      text="OREGON drive start at 00:48." newcontext="H,1,10,H21">
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="ORE21" context="H,1,10,H21" playid="15,2,135" type="P" tokens="PASS:0C,C,83,H28"
+      text="Adams Jr., V. pass complete to Mundt, Johnny for 7 yards to the ORE28." newcontext="H,2,3,H28">
+    <p_pa vh="H" qb="Adams Jr., V." result="COMP" rcv="Mundt, Johnny" gain="7"></p_pa>
+   </play>
+   <play hasball="ORE" down="2" togo="3" spot="ORE28" context="H,2,3,H28" playid="15,3,136" type="P" first="P" tokens="PASS:0C,C,21,H34 OB:"
+      text="Adams Jr., V. pass complete to Freeman, Royce for 6 yards to the ORE34, 1ST DOWN ORE, out-of-bounds." ob="Y" newcontext="H,1,10,H34">
+    <p_pa vh="H" qb="Adams Jr., V." result="COMP" rcv="Freeman, Royce" gain="6"></p_pa>
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="ORE34" context="H,1,10,H34" playid="15,4,137" type="R" tokens="RUSH:0C,H42, OB: TACK:43"
+      text="Adams Jr., V. rush for 8 yards to the ORE42, out-of-bounds (Jake Gall)." ob="Y" newcontext="H,2,2,H42">
+    <p_ru vh="H" name="Adams Jr., V." gain="8"></p_ru>
+    <p_tk vh="V" name="Jake Gall"></p_tk>
+   </play>
+   <play hasball="ORE" down="2" togo="2" spot="ORE42" context="H,2,2,H42" playid="15,5,138" type="R" first="R" tokens="RUSH:0C,V41,"
+      text="Adams Jr., V. rush for 17 yards to the EWU41, 1ST DOWN ORE." newcontext="H,1,10,V41">
+    <p_ru vh="H" name="Adams Jr., V." gain="17"></p_ru>
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="EWU41" context="H,1,10,V41" playid="15,6,139" type="#" clock="00:12" tokens="TOUT:H T:00:12"
+      text="Timeout Oregon, clock 00:12." newcontext="H,1,10,V41">
+    <p_to vh="H" team="Oregon"></p_to>
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="EWU41" context="H,1,10,V41" playid="15,7,140" type="R" first="R" tokens="RUSH:21,V26, OB:"
+      text="Freeman, Royce rush for 15 yards to the EWU26, 1ST DOWN ORE, out-of-bounds." ob="Y" newcontext="H,1,10,V26">
+    <p_ru vh="H" name="Freeman, Royce" gain="15"></p_ru>
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="EWU26" context="H,1,10,V26" playid="15,8,141" type="P" tokens="PASS:0C,C,83,V21 OB:"
+      text="Adams Jr., V. pass complete to Mundt, Johnny for 5 yards to the EWU21, out-of-bounds." ob="Y" newcontext="H,2,5,V21">
+    <p_pa vh="H" qb="Adams Jr., V." result="COMP" rcv="Mundt, Johnny" gain="5"></p_pa>
+   </play>
+   <play hasball="ORE" down="2" togo="5" spot="EWU21" context="H,2,5,V21" playid="15,9,142" type="#" clock="00:02" tokens="TOUT:H T:00:02"
+      text="Timeout Oregon, clock 00:02." newcontext="H,2,5,V21">
+    <p_to vh="H" team="Oregon"></p_to>
+   </play>
+   <play hasball="ORE" down="2" togo="5" spot="EWU21" context="H,2,5,V21" playid="15,10,143" type="F" score="Y" vscore="21" hscore="37" clock="00:00" tokens="FGA:41,38,G T:00:00"
+      text="Schneider, A. field goal attempt from 38 GOOD, clock 00:00." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="Schneider, A." distance="38" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="21" H="37"></score>
+   <play hasball="ORE" down="1" togo="0" spot="ORE35" context="H,1,0,H35" playid="15,11,144" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of half, clock 00:00." newcontext="H,1,0,H35">
+   </play>
+   <drivesum plays="7" yards="58" top="0:48" driveindex="15" complete="Y"></drivesum>
+   <score qtr="2" V="21" H="37"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="EWU">
+    <firstdowns no="6" rush="1" pass="5" penalty="0"></firstdowns>
+    <penalties no="5" yds="33"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="2" fourthatt="2"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:51"></misc>
+    <rush att="5" yds="9" gain="10" loss="1" td="0" long="2"></rush>
+    <pass comp="12" att="17" int="1" yds="179" td="2" long="40" sacks="0" sackyds="0"></pass>
+    <rcv no="12" yds="179" td="2" long="40"></rcv>
+    <punt no="1" yds="46" long="10" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="46.0"></punt>
+    <ko no="2" yds="119" ob="0" tb="0"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="12" tacka="12" tot_tack="24" tflua="1" tfla="0" tflyds="5" sacks="1" sackyds="5" brup="3" ff="1" fr="1" fryds="0"></defense>
+    <kr no="1" yds="22" td="0" long="8"></kr>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ORE">
+    <firstdowns no="9" rush="5" pass="3" penalty="1"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="2" fourthatt="3"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="07:09"></misc>
+    <rush att="17" yds="124" gain="129" loss="5" td="2" long="0"></rush>
+    <pass comp="6" att="10" int="0" yds="70" td="0" long="0" sacks="1" sackyds="5"></pass>
+    <rcv no="6" yds="70" td="0" long="0"></rcv>
+    <ko no="2" yds="128" ob="0" tb="1"></ko>
+    <fg made="1" att="1" long="38" blkd="0"></fg>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="11" tacka="6" tot_tack="17" tflua="1" tfla="2" tflyds="4" sacks="0" sackyds="0" brup="2" qbh="1" int="1" intyds="4"></defense>
+    <kr no="2" yds="63" td="0" long="0"></kr>
+    <ir no="1" yds="4" td="0" long="4"></ir>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring td="2" fg="1" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="ORE" down="1" togo="0" spot="ORE35" context="H,1,0,H35" playid="15,12,145" type="#" clock="15:00" tokens="Q:3 T:15:00 SPOT:H,H35,N"
+      text="Start of 3rd quarter, clock 15:00, ORE ball on ORE35." newcontext="H,1,0,H35">
+   </play>
+   <play hasball="ORE" down="1" togo="0" spot="ORE35" context="H,1,0,H35" playid="15,13,146" type="K" tokens="KO:49,V00 TB:"
+      text="Wogan, Matt kickoff 65 yards to the EWU0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Wogan, Matt" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,15:00" vh="V" spot="V25" clock="15:00" driveindex="16,146"></drivestart>
+   <play hasball="EWU" down="1" togo="10" spot="EWU25" context="V,1,10,V25" playid="16,1,147" clock="15:00" tokens="{DRIVE}:15:00"
+      text="EASTERN WASHINGTON drive start at 15:00." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU25" context="V,1,10,V25" playid="16,2,148" type="R" tokens="RUSH:2,V30, TACK:96"
+      text="Jabari Wilson rush for 5 yards to the EWU30 (French, C.)." newcontext="V,2,5,V30">
+    <p_ru vh="V" name="Jabari Wilson" gain="5"></p_ru>
+    <p_tk vh="H" name="French, C."></p_tk>
+   </play>
+   <play hasball="EWU" down="2" togo="5" spot="EWU30" context="V,2,5,V30" playid="16,3,149" type="R" tokens="RUSH:2,V31, TACK:48"
+      text="Jabari Wilson rush for 1 yard to the EWU31 (Hardrick, R.)." newcontext="V,3,4,V31">
+    <p_ru vh="V" name="Jabari Wilson" gain="1"></p_ru>
+    <p_tk vh="H" name="Hardrick, R."></p_tk>
+   </play>
+   <play hasball="EWU" down="3" togo="4" spot="EWU31" context="V,3,4,V31" playid="16,4,150" type="P" tokens="PASS:5,S,TM,V23 SACK:35"
+      text="Jordan West sacked for loss of 8 yards to the EWU23 (Walker, Joe)." newcontext="V,4,12,V23">
+    <p_pa vh="V" qb="Jordan West" result="SACK" gain="-8"></p_pa>
+    <p_tk vh="H" name="Walker, Joe" sack="Y"></p_tk>
+   </play>
+   <play hasball="EWU" down="4" togo="12" spot="EWU23" context="V,4,12,V23" playid="16,5,151" type="U" tokens="PUNT:45,H39 RET:2,H45 TACK: PEN:H,HO,A,TM,H35,N D:1,10 SPOT:H,H35,Y"
+      text="Jordan Dascalo punt 38 yards to the ORE39, Addison, Bralon return 6 yards to the ORE45, , PENALTY ORE holding 10 yards to the ORE35, 1st and 10, ORE ball on ORE35." newcontext="H,1,10,H35">
+    <p_pu vh="V" name="Jordan Dascalo" gain="38"></p_pu>
+    <p_pr vh="H" name="Addison, Bralon" gain="6"></p_pr>
+    <p_pn vh="H" code="HO" type="holding" result="ACCEPT" at="H45" yards="10"></p_pn>
+   </play>
+   <drivesum plays="3" yards="-2" top="1:40" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="H,H35,13:20" vh="H" spot="H35" clock="13:20" driveindex="17,151"></drivestart>
+   <play hasball="ORE" down="1" togo="10" spot="ORE35" context="H,1,10,H35" playid="17,1,152" clock="13:20" tokens="{DRIVE}:13:20"
+      text="OREGON drive start at 13:20." newcontext="H,1,10,H35">
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="ORE35" context="H,1,10,H35" playid="17,2,153" type="R" first="R" tokens="RUSH:21,H48, TACK:55"
+      text="Freeman, Royce rush for 13 yards to the ORE48, 1ST DOWN ORE (Andre Lino)." newcontext="H,1,10,H48">
+    <p_ru vh="H" name="Freeman, Royce" gain="13"></p_ru>
+    <p_tk vh="V" name="Andre Lino"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="ORE48" context="H,1,10,H48" playid="17,3,154" type="R" tokens="RUSH:21,V47, TACK:43"
+      text="Freeman, Royce rush for 5 yards to the EWU47 (Jake Gall)." newcontext="H,2,5,V47">
+    <p_ru vh="H" name="Freeman, Royce" gain="5"></p_ru>
+    <p_tk vh="V" name="Jake Gall"></p_tk>
+   </play>
+   <play hasball="ORE" down="2" togo="5" spot="EWU47" context="H,2,5,V47" playid="17,4,155" type="R" first="R" tokens="RUSH:21,V35, TACK:13"
+      text="Freeman, Royce rush for 12 yards to the EWU35, 1ST DOWN ORE (Mitch Fettig)." newcontext="H,1,10,V35">
+    <p_ru vh="H" name="Freeman, Royce" gain="12"></p_ru>
+    <p_tk vh="V" name="Mitch Fettig"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="EWU35" context="H,1,10,V35" playid="17,5,156" type="P" first="P" tokens="PASS:0C,C,9,V10 TACK:8"
+      text="Adams Jr., V. pass complete to Marshall, Byron for 25 yards to the EWU10, 1ST DOWN ORE (Miles Weatheroy)." newcontext="H,1,0,V10">
+    <p_pa vh="H" qb="Adams Jr., V." result="COMP" rcv="Marshall, Byron" gain="25"></p_pa>
+    <p_tk vh="V" name="Miles Weatheroy"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="0" spot="EWU10" context="H,1,0,V10" playid="17,6,157" type="R" tokens="RUSH:29,V06, TACK:94,59"
+      text="Benoit, Kani rush for 4 yards to the EWU6 (Matthew Sommer;Kurt Calhoun)." newcontext="H,2,0,V06">
+    <p_ru vh="H" name="Benoit, Kani" gain="4"></p_ru>
+    <p_tk vh="V" name="Matthew Sommer" assist="Y"></p_tk>
+    <p_tk vh="V" name="Kurt Calhoun" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORE" down="2" togo="0" spot="EWU06" context="H,2,0,V06" playid="17,7,158" type="R" tokens="RUSH:0C,V02, TACK:13"
+      text="Adams Jr., V. rush for 4 yards to the EWU2 (Mitch Fettig)." newcontext="H,3,0,V02">
+    <p_ru vh="H" name="Adams Jr., V." gain="4"></p_ru>
+    <p_tk vh="V" name="Mitch Fettig"></p_tk>
+   </play>
+   <play hasball="ORE" down="3" togo="0" spot="EWU02" context="H,3,0,V02" playid="17,8,159" type="R" tokens="RUSH:21,V01,"
+      text="Freeman, Royce rush for 1 yard to the EWU1." newcontext="H,4,0,V01">
+    <p_ru vh="H" name="Freeman, Royce" gain="1"></p_ru>
+   </play>
+   <play hasball="ORE" down="4" togo="0" spot="EWU01" context="H,4,0,V01" playid="17,9,160" type="R" score="Y" vscore="21" hscore="43" clock="10:29" tokens="RUSH:21,V00, T:10:29"
+      text="Freeman, Royce rush for 1 yard to the EWU0, TOUCHDOWN, clock 10:29." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Freeman, Royce" gain="1"></p_ru>
+   </play>
+   <play hasball="ORE" down="1" togo="0" spot="EWU03" context="H,1,0,V03" playid="17,10,161" type="X" score="Y" vscore="21" hscore="44" tokens="PAT:K,41,G"
+      text="Schneider, A. kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Schneider, A." qb="Schneider, A." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="21" H="44"></score>
+   <drivesum plays="8" yards="65" top="2:51" driveindex="17" complete="Y"></drivesum>
+   <play hasball="ORE" down="1" togo="0" spot="ORE35" context="H,1,0,H35" playid="17,11,162" type="K" tokens="KO:49,V00 TB:"
+      text="Wogan, Matt kickoff 65 yards to the EWU0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Wogan, Matt" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,10:29" vh="V" spot="V25" clock="10:29" driveindex="18,162"></drivestart>
+   <play hasball="EWU" down="1" togo="10" spot="EWU25" context="V,1,10,V25" playid="18,1,163" clock="10:29" tokens="{DRIVE}:10:29"
+      text="EASTERN WASHINGTON drive start at 10:29." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU25" context="V,1,10,V25" playid="18,2,164" type="E" tokens="PEN:V,FS,A,TM,V20,N"
+      text="PENALTY EWU false start 5 yards to the EWU20." newcontext="V,1,15,V20">
+    <p_pn vh="V" code="FS" type="false start" result="ACCEPT" at="V25" yards="5"></p_pn>
+   </play>
+   <play hasball="EWU" down="1" togo="15" spot="EWU20" context="V,1,15,V20" playid="18,3,165" type="P" tokens="PASS:5,I,10,* QBH:H,45"
+      text="Jordan West pass incomplete to Cooper Kupp, QB hurry by Daniel, T.J.." newcontext="V,2,15,V20">
+    <p_pa vh="V" qb="Jordan West" result="INC" rcv="Cooper Kupp"></p_pa>
+    <p_qbh vh="H" name="Daniel, T.J."></p_qbh>
+   </play>
+   <play hasball="EWU" down="2" togo="15" spot="EWU20" context="V,2,15,V20" playid="18,4,166" type="P" tokens="PASS:5,I,7,* QBH:H,33"
+      text="Jordan West pass incomplete to Nic Sblendorio, QB hurry by Coleman, Tyson." newcontext="V,3,15,V20">
+    <p_pa vh="V" qb="Jordan West" result="INC" rcv="Nic Sblendorio"></p_pa>
+    <p_qbh vh="H" name="Coleman, Tyson"></p_qbh>
+   </play>
+   <play hasball="EWU" down="3" togo="15" spot="EWU20" context="V,3,15,V20" playid="18,5,167" type="P" first="P" tokens="PASS:5,C,11,V36 OB:"
+      text="Jordan West pass complete to Kendrick Bourne for 16 yards to the EWU36, 1ST DOWN EWU, out-of-bounds." ob="Y" newcontext="V,1,10,V36">
+    <p_pa vh="V" qb="Jordan West" result="COMP" rcv="Kendrick Bourne" gain="16"></p_pa>
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU36" context="V,1,10,V36" playid="18,6,168" type="R" tokens="RUSH:20,V39, TACK:45"
+      text="Sam McPherson rush for 3 yards to the EWU39 (Daniel, T.J.)." newcontext="V,2,7,V39">
+    <p_ru vh="V" name="Sam McPherson" gain="3"></p_ru>
+    <p_tk vh="H" name="Daniel, T.J."></p_tk>
+   </play>
+   <play hasball="EWU" down="2" togo="7" spot="EWU39" context="V,2,7,V39" playid="18,7,169" type="P" tokens="PASS:5,I,11,*"
+      text="Jordan West pass incomplete to Kendrick Bourne." newcontext="V,3,7,V39">
+    <p_pa vh="V" qb="Jordan West" result="INC" rcv="Kendrick Bourne"></p_pa>
+   </play>
+   <play hasball="EWU" down="3" togo="7" spot="EWU39" context="V,3,7,V39" playid="18,8,170" type="P" tokens="PASS:5,I,20,*"
+      text="Jordan West pass incomplete to Sam McPherson." newcontext="V,4,7,V39">
+    <p_pa vh="V" qb="Jordan West" result="INC" rcv="Sam McPherson"></p_pa>
+   </play>
+   <play hasball="EWU" down="4" togo="7" spot="EWU39" context="V,4,7,V39" playid="18,9,171" type="E" tokens="PASS:5,I,11,* PEN:V,PI,O PEN:H,RP,O NOPLAY:"
+      text="Jordan West pass incomplete to Kendrick Bourne, PENALTY EWU pass interference off-setting, PENALTY ORE roughing passer off-setting, NO PLAY." newcontext="V,4,7,V39">
+    <p_pn vh="V" code="PI" type="pass interference" name="Kendrick Bourne" result="OFFSET"></p_pn>
+    <p_pn vh="H" code="RP" type="roughing passer" name="Merritt, Kirk" result="OFFSET"></p_pn>
+   </play>
+   <play hasball="EWU" down="4" togo="7" spot="EWU39" context="V,4,7,V39" playid="18,10,172" type="R" first="E" tokens="RUSH:5,V44, TACK:1 PEN:H,PF,A,TM,H41,1"
+      text="Jordan West rush for 5 yards to the EWU44 (Springs, Arrion), PENALTY ORE personal foul 15 yards to the ORE41, 1ST DOWN EWU." newcontext="V,1,10,H41">
+    <p_ru vh="V" name="Jordan West" gain="5"></p_ru>
+    <p_tk vh="H" name="Springs, Arrion"></p_tk>
+    <p_pn vh="H" code="PF" type="personal foul" result="ACCEPT" at="V44" yards="15"></p_pn>
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="ORE41" context="V,1,10,H41" playid="18,11,173" tokens="D:1,10"
+      text="1st and 10." newcontext="V,1,10,H41">
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="ORE41" context="V,1,10,H41" playid="18,12,174" type="R" tokens="RUSH:20,H41, TACK:12"
+      text="Sam McPherson rush for no gain to the ORE41 (Seisay, Chris)." newcontext="V,2,10,H41">
+    <p_ru vh="V" name="Sam McPherson" gain="0"></p_ru>
+    <p_tk vh="H" name="Seisay, Chris"></p_tk>
+   </play>
+   <play hasball="EWU" down="2" togo="10" spot="ORE41" context="V,2,10,H41" playid="18,13,175" type="E" first="E" tokens="PASS:12,I,88,* PEN:H,PI,A,TM,H31,1 NOPLAY:"
+      text="R. Hennessey pass incomplete to Terence Grady, PENALTY ORE pass interference 10 yards to the ORE31, 1ST DOWN EWU, NO PLAY." newcontext="V,1,10,H31">
+    <p_pn vh="H" code="PI" type="pass interference" result="ACCEPT" at="H41" yards="10"></p_pn>
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="ORE31" context="V,1,10,H31" playid="18,14,176" type="P" tokens="PASS:12,C,11,H27 TACK:14"
+      text="R. Hennessey pass complete to Kendrick Bourne for 4 yards to the ORE27 (Amadi, Ugo)." newcontext="V,2,6,H27">
+    <p_pa vh="V" qb="R. Hennessey" result="COMP" rcv="Kendrick Bourne" gain="4"></p_pa>
+    <p_tk vh="H" name="Amadi, Ugo"></p_tk>
+   </play>
+   <play hasball="EWU" down="2" togo="6" spot="ORE27" context="V,2,6,H27" playid="18,15,177" type="E" tokens="PASS:12,S,TM,H33 SACK:45 PEN:V,HO,A,TM,H37,N NOPLAY:"
+      text="R. Hennessey sacked for loss of 6 yards to the ORE33 (Daniel, T.J.), PENALTY EWU holding 10 yards to the ORE37, NO PLAY." newcontext="V,2,16,H37">
+    <p_pn vh="V" code="HO" type="holding" result="ACCEPT" at="H27" yards="10"></p_pn>
+   </play>
+   <play hasball="EWU" down="2" togo="16" spot="ORE37" context="V,2,16,H37" playid="18,16,178" type="E" first="E" tokens="PEN:H,PF,A,TM,H22,1"
+      text="PENALTY ORE personal foul 15 yards to the ORE22, 1ST DOWN EWU." newcontext="V,1,10,H22">
+    <p_pn vh="H" code="PF" type="personal foul" result="ACCEPT" at="H37" yards="15"></p_pn>
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="ORE22" context="V,1,10,H22" playid="18,17,179" type="R" tokens="RUSH:33,H17, TACK:35"
+      text="Malcom Williams rush for 5 yards to the ORE17 (Walker, Joe)." newcontext="V,2,5,H17">
+    <p_ru vh="V" name="Malcom Williams" gain="5"></p_ru>
+    <p_tk vh="H" name="Walker, Joe"></p_tk>
+   </play>
+   <play hasball="EWU" down="2" togo="5" spot="ORE17" context="V,2,5,H17" playid="18,18,180" type="R" first="R" tokens="RUSH:12,H11, OB:"
+      text="R. Hennessey rush for 6 yards to the ORE11, 1ST DOWN EWU, out-of-bounds." ob="Y" newcontext="V,1,10,H11">
+    <p_ru vh="V" name="R. Hennessey" gain="6"></p_ru>
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="ORE11" context="V,1,10,H11" playid="18,19,181" type="R" first="R" tokens="RUSH:2,H01, TACK:35,17"
+      text="Jabari Wilson rush for 10 yards to the ORE1, 1ST DOWN EWU (Walker, Joe;Williams, J.)." newcontext="V,1,0,H01">
+    <p_ru vh="V" name="Jabari Wilson" gain="10"></p_ru>
+    <p_tk vh="H" name="Walker, Joe" assist="Y"></p_tk>
+    <p_tk vh="H" name="Williams, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="EWU" down="1" togo="0" spot="ORE01" context="V,1,0,H01" playid="18,20,182" type="P" score="Y" vscore="27" hscore="44" clock="05:35" tokens="PASS:12,C,10,H00 T:05:35"
+      text="R. Hennessey pass complete to Cooper Kupp for 1 yard to the ORE0, TOUCHDOWN, clock 05:35." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="R. Hennessey" result="COMP" rcv="Cooper Kupp" gain="1"></p_pa>
+   </play>
+   <play hasball="EWU" down="1" togo="0" spot="ORE03" context="V,1,0,H03" playid="18,21,183" type="X" score="Y" vscore="28" hscore="44" tokens="PAT:K,76,G"
+      text="Tyler McNannay kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Tyler McNannay" qb="Tyler McNannay" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="28" H="44"></score>
+   <play hasball="EWU" down="1" togo="0" spot="EWU35" context="V,1,0,V35" playid="18,22,184" type="E" tokens="KO:76,V40 DN: PEN:V,OS,A,TM,V30,N NOPLAY:"
+      text="Tyler McNannay kickoff 5 yards to the EWU40, downed, PENALTY EWU offside 5 yards to the EWU30, NO PLAY." newcontext="V,1,0,V30">
+    <p_pn vh="V" code="OS" type="offside" result="ACCEPT" at="V35" yards="5"></p_pn>
+   </play>
+   <drivesum plays="13" yards="75" top="4:54" driveindex="18" complete="Y"></drivesum>
+   <play hasball="EWU" down="1" togo="0" spot="EWU30" context="V,1,0,V30" playid="18,23,185" type="K" tokens="KO:76,H18 RET:2,H32 TACK:43"
+      text="Tyler McNannay kickoff 52 yards to the ORE18, Addison, Bralon return 14 yards to the ORE32 (Jake Gall)." newcontext="H,1,10,H32">
+    <p_ko vh="V" name="Tyler McNannay" gain="52"></p_ko>
+    <p_kr vh="H" name="Addison, Bralon" gain="14"></p_kr>
+    <p_tk vh="V" name="Jake Gall"></p_tk>
+   </play>
+   <drivestart poss="H,H32,05:35" vh="H" spot="H32" clock="05:35" driveindex="19,185"></drivestart>
+   <play hasball="ORE" down="1" togo="10" spot="ORE32" context="H,1,10,H32" playid="19,1,186" clock="05:35" tokens="{DRIVE}:05:35"
+      text="OREGON drive start at 05:35." newcontext="H,1,10,H32">
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="ORE32" context="H,1,10,H32" playid="19,2,187" type="R" first="R" tokens="RUSH:21,V33, OB: TACK:13"
+      text="Freeman, Royce rush for 35 yards to the EWU33, 1ST DOWN ORE, out-of-bounds (Mitch Fettig)." ob="Y" newcontext="H,1,10,V33">
+    <p_ru vh="H" name="Freeman, Royce" gain="35"></p_ru>
+    <p_tk vh="V" name="Mitch Fettig"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="EWU33" context="H,1,10,V33" playid="19,3,188" type="P" tokens="PASS:0C,C,2,V24 TACK:21"
+      text="Adams Jr., V. pass complete to Addison, Bralon for 9 yards to the EWU24 (Rashad Wadood)." newcontext="H,2,1,V24">
+    <p_pa vh="H" qb="Adams Jr., V." result="COMP" rcv="Addison, Bralon" gain="9"></p_pa>
+    <p_tk vh="V" name="Rashad Wadood"></p_tk>
+   </play>
+   <play hasball="ORE" down="2" togo="1" spot="EWU24" context="H,2,1,V24" playid="19,4,189" type="P" first="P" score="Y" vscore="28" hscore="50" clock="04:31" tokens="PASS:0C,C,9,V00 T:04:31"
+      text="Adams Jr., V. pass complete to Marshall, Byron for 24 yards to the EWU0, 1ST DOWN ORE, TOUCHDOWN, clock 04:31." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Adams Jr., V." result="COMP" rcv="Marshall, Byron" gain="24"></p_pa>
+   </play>
+   <play hasball="ORE" down="1" togo="0" spot="EWU03" context="H,1,0,V03" playid="19,5,190" type="X" score="Y" vscore="28" hscore="51" tokens="PAT:K,41,G"
+      text="Schneider, A. kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Schneider, A." qb="Schneider, A." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="28" H="51"></score>
+   <drivesum plays="3" yards="68" top="1:04" driveindex="19" complete="Y"></drivesum>
+   <play hasball="ORE" down="1" togo="0" spot="ORE35" context="H,1,0,H35" playid="19,6,191" type="K" tokens="KO:49,V00 RET:22,V30 OB: TACK:14"
+      text="Wogan, Matt kickoff 65 yards to the EWU0, Simba Webster return 30 yards to the EWU30, out-of-bounds (Amadi, Ugo)." ob="Y" newcontext="V,1,10,V30">
+    <p_ko vh="H" name="Wogan, Matt" gain="65"></p_ko>
+    <p_kr vh="V" name="Simba Webster" gain="30"></p_kr>
+    <p_tk vh="H" name="Amadi, Ugo"></p_tk>
+   </play>
+   <drivestart poss="V,V30,04:31" vh="V" spot="V30" clock="04:31" driveindex="20,191"></drivestart>
+   <play hasball="EWU" down="1" togo="10" spot="EWU30" context="V,1,10,V30" playid="20,1,192" clock="04:31" tokens="{DRIVE}:04:31"
+      text="EASTERN WASHINGTON drive start at 04:31." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU30" context="V,1,10,V30" playid="20,2,193" type="P" tokens="PASS:12,C,88,V39 TACK:17"
+      text="R. Hennessey pass complete to Terence Grady for 9 yards to the EWU39 (Williams, J.)." newcontext="V,2,1,V39">
+    <p_pa vh="V" qb="R. Hennessey" result="COMP" rcv="Terence Grady" gain="9"></p_pa>
+    <p_tk vh="H" name="Williams, J."></p_tk>
+   </play>
+   <play hasball="EWU" down="2" togo="1" spot="EWU39" context="V,2,1,V39" playid="20,3,194" type="P" first="P" tokens="PASS:12,C,7,V42 OB: TACK:17"
+      text="R. Hennessey pass complete to Nic Sblendorio for 3 yards to the EWU42, 1ST DOWN EWU, out-of-bounds (Williams, J.)." ob="Y" newcontext="V,1,10,V42">
+    <p_pa vh="V" qb="R. Hennessey" result="COMP" rcv="Nic Sblendorio" gain="3"></p_pa>
+    <p_tk vh="H" name="Williams, J."></p_tk>
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU42" context="V,1,10,V42" playid="20,4,195" type="P" first="P" tokens="PASS:12,C,10,H21 TACK:8,35"
+      text="R. Hennessey pass complete to Cooper Kupp for 37 yards to the ORE21, 1ST DOWN EWU (Daniels, Reggie;Walker, Joe)." newcontext="V,1,10,H21">
+    <p_pa vh="V" qb="R. Hennessey" result="COMP" rcv="Cooper Kupp" gain="37"></p_pa>
+    <p_tk vh="H" name="Daniels, Reggie" assist="Y"></p_tk>
+    <p_tk vh="H" name="Walker, Joe" assist="Y"></p_tk>
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="ORE21" context="V,1,10,H21" playid="20,5,196" type="P" first="P" tokens="PASS:12,C,88,H03 TACK:12"
+      text="R. Hennessey pass complete to Terence Grady for 18 yards to the ORE3, 1ST DOWN EWU (Seisay, Chris)." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="R. Hennessey" result="COMP" rcv="Terence Grady" gain="18"></p_pa>
+    <p_tk vh="H" name="Seisay, Chris"></p_tk>
+   </play>
+   <play hasball="EWU" down="1" togo="0" spot="ORE03" context="V,1,0,H03" playid="20,6,197" type="P" tokens="PASS:12,I,11,*"
+      text="R. Hennessey pass incomplete to Kendrick Bourne." newcontext="V,2,0,H03">
+    <p_pa vh="V" qb="R. Hennessey" result="INC" rcv="Kendrick Bourne"></p_pa>
+   </play>
+   <play hasball="EWU" down="2" togo="0" spot="ORE03" context="V,2,0,H03" playid="20,7,198" type="P" tokens="PASS:12,I,11,*"
+      text="R. Hennessey pass incomplete to Kendrick Bourne." newcontext="V,3,0,H03">
+    <p_pa vh="V" qb="R. Hennessey" result="INC" rcv="Kendrick Bourne"></p_pa>
+   </play>
+   <play hasball="EWU" down="3" togo="0" spot="ORE03" context="V,3,0,H03" playid="20,8,199" type="R" score="Y" vscore="34" hscore="51" clock="02:13" tokens="RUSH:2,H00, T:02:13"
+      text="Jabari Wilson rush for 3 yards to the ORE0, TOUCHDOWN, clock 02:13." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Jabari Wilson" gain="3"></p_ru>
+   </play>
+   <play hasball="EWU" down="1" togo="0" spot="ORE03" context="V,1,0,H03" playid="20,9,200" type="X" score="Y" vscore="35" hscore="51" tokens="PAT:K,76,G"
+      text="Tyler McNannay kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Tyler McNannay" qb="Tyler McNannay" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="35" H="51"></score>
+   <drivesum plays="7" yards="70" top="2:18" driveindex="20" complete="Y"></drivesum>
+   <play hasball="EWU" down="1" togo="0" spot="EWU35" context="V,1,0,V35" playid="20,10,201" type="K" tokens="KO:76,V46 RET:26,V46"
+      text="Tyler McNannay kickoff 11 yards to the EWU46, Oliver, Khalil return 0 yards to the EWU46." newcontext="H,1,10,V46">
+    <p_ko vh="V" name="Tyler McNannay" gain="11"></p_ko>
+    <p_kr vh="H" name="Oliver, Khalil" gain="0"></p_kr>
+   </play>
+   <drivestart poss="H,V46,02:13" vh="H" spot="V46" clock="02:13" driveindex="21,201"></drivestart>
+   <play hasball="ORE" down="1" togo="10" spot="EWU46" context="H,1,10,V46" playid="21,1,202" clock="02:13" tokens="{DRIVE}:02:13"
+      text="OREGON drive start at 02:13." newcontext="H,1,10,V46">
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="EWU46" context="H,1,10,V46" playid="21,2,203" type="R" tokens="RUSH:21,V38, OB:"
+      text="Freeman, Royce rush for 8 yards to the EWU38, out-of-bounds." ob="Y" newcontext="H,2,2,V38">
+    <p_ru vh="H" name="Freeman, Royce" gain="8"></p_ru>
+   </play>
+   <play hasball="ORE" down="2" togo="2" spot="EWU38" context="H,2,2,V38" playid="21,3,204" type="R" first="R" tokens="RUSH:0C,V29, TACK:40"
+      text="Adams Jr., V. rush for 9 yards to the EWU29, 1ST DOWN ORE (Ketner Kupp)." newcontext="H,1,10,V29">
+    <p_ru vh="H" name="Adams Jr., V." gain="9"></p_ru>
+    <p_tk vh="V" name="Ketner Kupp"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="EWU29" context="H,1,10,V29" playid="21,4,205" type="R" first="R" tokens="RUSH:20,V18, TACK:43,46"
+      text="Brooks-James rush for 11 yards to the EWU18, 1ST DOWN ORE (Jake Gall;Conner Baumann)." newcontext="H,1,10,V18">
+    <p_ru vh="H" name="Brooks-James" gain="11"></p_ru>
+    <p_tk vh="V" name="Jake Gall" assist="Y"></p_tk>
+    <p_tk vh="V" name="Conner Baumann" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="EWU18" context="H,1,10,V18" playid="21,5,206" type="P" tokens="PASS:0C,C,2,V09 OB: TACK:8,37"
+      text="Adams Jr., V. pass complete to Addison, Bralon for 9 yards to the EWU9, out-of-bounds (Miles Weatheroy;Cole Karstetter)." ob="Y" newcontext="H,2,1,V09">
+    <p_pa vh="H" qb="Adams Jr., V." result="COMP" rcv="Addison, Bralon" gain="9"></p_pa>
+    <p_tk vh="V" name="Miles Weatheroy" assist="Y"></p_tk>
+    <p_tk vh="V" name="Cole Karstetter" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORE" down="2" togo="1" spot="EWU09" context="H,2,1,V09" playid="21,6,207" type="P" tokens="PASS:0C,C,20,V11 TACK:37"
+      text="Adams Jr., V. pass complete to Brooks-James for loss of 2 yards to the EWU11 (Cole Karstetter)." newcontext="H,3,3,V11">
+    <p_pa vh="H" qb="Adams Jr., V." result="COMP" rcv="Brooks-James" gain="-2"></p_pa>
+    <p_tk vh="V" name="Cole Karstetter"></p_tk>
+   </play>
+   <play hasball="ORE" down="3" togo="3" spot="EWU11" context="H,3,3,V11" playid="21,7,208" type="R" tokens="RUSH:0C,V13, FUMB:H,V13,20"
+      text="Adams Jr., V. rush for loss of 2 yards to the EWU13, fumble by Adams Jr., V. recovered by ORE Brooks-James at EWU13." newcontext="H,4,5,V13">
+    <p_ru vh="H" name="Adams Jr., V." gain="-2"></p_ru>
+    <p_fumb vh="H" name="Adams Jr., V." at="V13" frvh="H" frname="Brooks-James"></p_fumb>
+   </play>
+   <play hasball="ORE" down="4" togo="5" spot="EWU13" context="H,4,5,V13" playid="21,8,209" type="F" score="Y" vscore="35" hscore="54" clock="00:00" tokens="FGA:41,30,G T:00:00"
+      text="Schneider, A. field goal attempt from 30 GOOD, clock 00:00." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="Schneider, A." distance="30" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="35" H="54"></score>
+   <score qtr="3" V="35" H="54"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="EWU">
+    <firstdowns no="9" rush="2" pass="4" penalty="3"></firstdowns>
+    <penalties no="3" yds="20"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:52"></misc>
+    <rush att="10" yds="30" gain="38" loss="8" td="1" long="3"></rush>
+    <pass comp="7" att="13" int="0" yds="88" td="1" long="0" sacks="1" sackyds="8"></pass>
+    <rcv no="7" yds="88" td="1" long="0"></rcv>
+    <punt no="1" yds="38" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="38.0"></punt>
+    <ko no="2" yds="63" ob="0" tb="0"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="10" tacka="6" tot_tack="16" tflua="1" tfla="0" tflyds="2" sacks="0" sackyds="0"></defense>
+    <kr no="1" yds="30" td="0" long="8"></kr>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ORE">
+    <firstdowns no="7" rush="5" pass="2" penalty="0"></firstdowns>
+    <penalties no="4" yds="50"></penalties>
+    <conversions thirdconv="0" thirdatt="1" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="06:08"></misc>
+    <rush att="12" yds="101" gain="103" loss="2" td="1" long="9"></rush>
+    <pass comp="5" att="5" int="0" yds="65" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="65" td="1" long="0"></rcv>
+    <ko no="3" yds="195" ob="0" tb="2"></ko>
+    <fg made="1" att="1" long="0" blkd="0"></fg>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="12" tacka="4" tot_tack="16" tflua="1" tfla="0" tflyds="8" sacks="1" sackyds="8" qbh="2"></defense>
+    <kr no="2" yds="14" td="0" long="0"></kr>
+    <pr no="1" yds="6" td="0" long="6"></pr>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="2" fg="1" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="ORE" down="1" togo="0" spot="ORE35" context="H,1,0,H35" playid="21,9,210" type="#" clock="15:00" tokens="Q:4 T:15:00"
+      text="Start of 4th quarter, clock 15:00." newcontext="H,1,0,H35">
+   </play>
+   <drivesum plays="7" yards="33" top="2:13" driveindex="21" complete="Y"></drivesum>
+   <play hasball="ORE" down="1" togo="0" spot="ORE35" context="H,1,0,H35" playid="21,10,211" type="K" tokens="KO:49,V06 RET:2,V19 TACK:54,20"
+      text="Wogan, Matt kickoff 59 yards to the EWU6, Jabari Wilson return 13 yards to the EWU19 (McDowell, De.;Brooks-James)." newcontext="V,1,10,V19">
+    <p_ko vh="H" name="Wogan, Matt" gain="59"></p_ko>
+    <p_kr vh="V" name="Jabari Wilson" gain="13"></p_kr>
+    <p_tk vh="H" name="McDowell, De." assist="Y"></p_tk>
+    <p_tk vh="H" name="Brooks-James" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V19,15:00" vh="V" spot="V19" clock="15:00" driveindex="22,211"></drivestart>
+   <play hasball="EWU" down="1" togo="10" spot="EWU19" context="V,1,10,V19" playid="22,1,212" clock="15:00" tokens="{DRIVE}:15:00"
+      text="EASTERN WASHINGTON drive start at 15:00." newcontext="V,1,10,V19">
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU19" context="V,1,10,V19" playid="22,2,213" type="P" first="P" tokens="PASS:12,C,10,V32 TACK:48,35"
+      text="R. Hennessey pass complete to Cooper Kupp for 13 yards to the EWU32, 1ST DOWN EWU (Hardrick, R.;Walker, Joe)." newcontext="V,1,10,V32">
+    <p_pa vh="V" qb="R. Hennessey" result="COMP" rcv="Cooper Kupp" gain="13"></p_pa>
+    <p_tk vh="H" name="Hardrick, R." assist="Y"></p_tk>
+    <p_tk vh="H" name="Walker, Joe" assist="Y"></p_tk>
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU32" context="V,1,10,V32" playid="22,3,214" clock="15:00" tokens="{DRIVE}:15:00 SPOT:V,V32,Y"
+      text="EASTERN WASHINGTON drive start at 15:00, EWU ball on EWU32." newcontext="V,1,10,V32">
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU32" context="V,1,10,V32" playid="22,4,215" type="P" tokens="PASS:12,C,33,V38 TACK:1"
+      text="R. Hennessey pass complete to Malcom Williams for 6 yards to the EWU38 (Springs, Arrion)." newcontext="V,2,4,V38">
+    <p_pa vh="V" qb="R. Hennessey" result="COMP" rcv="Malcom Williams" gain="6"></p_pa>
+    <p_tk vh="H" name="Springs, Arrion"></p_tk>
+   </play>
+   <play hasball="EWU" down="2" togo="4" spot="EWU38" context="V,2,4,V38" playid="22,5,216" type="R" first="R" tokens="RUSH:33,V42, TACK:55"
+      text="Malcom Williams rush for 4 yards to the EWU42, 1ST DOWN EWU (Talia, Tui)." newcontext="V,1,10,V42">
+    <p_ru vh="V" name="Malcom Williams" gain="4"></p_ru>
+    <p_tk vh="H" name="Talia, Tui"></p_tk>
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU42" context="V,1,10,V42" playid="22,6,217" type="P" tokens="PASS:12,C,10,H49"
+      text="R. Hennessey pass complete to Cooper Kupp for 9 yards to the ORE49." newcontext="V,2,1,H49">
+    <p_pa vh="V" qb="R. Hennessey" result="COMP" rcv="Cooper Kupp" gain="9"></p_pa>
+   </play>
+   <play hasball="EWU" down="2" togo="1" spot="ORE49" context="V,2,1,H49" playid="22,7,218" type="R" first="R" tokens="RUSH:33,H41, TACK:48"
+      text="Malcom Williams rush for 8 yards to the ORE41, 1ST DOWN EWU (Hardrick, R.)." newcontext="V,1,10,H41">
+    <p_ru vh="V" name="Malcom Williams" gain="8"></p_ru>
+    <p_tk vh="H" name="Hardrick, R."></p_tk>
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="ORE41" context="V,1,10,H41" playid="22,8,219" type="P" tokens="PASS:12,I,10,*"
+      text="R. Hennessey pass incomplete to Cooper Kupp." newcontext="V,2,10,H41">
+    <p_pa vh="V" qb="R. Hennessey" result="INC" rcv="Cooper Kupp"></p_pa>
+   </play>
+   <play hasball="EWU" down="2" togo="10" spot="ORE41" context="V,2,10,H41" playid="22,9,220" type="P" tokens="PASS:12,C,22,H32 TACK:17,48"
+      text="R. Hennessey pass complete to Simba Webster for 9 yards to the ORE32 (Williams, J.;Hardrick, R.)." newcontext="V,3,1,H32">
+    <p_pa vh="V" qb="R. Hennessey" result="COMP" rcv="Simba Webster" gain="9"></p_pa>
+    <p_tk vh="H" name="Williams, J." assist="Y"></p_tk>
+    <p_tk vh="H" name="Hardrick, R." assist="Y"></p_tk>
+   </play>
+   <play hasball="EWU" down="3" togo="1" spot="ORE32" context="V,3,1,H32" playid="22,10,221" type="#" clock="11:58" tokens="TOUT:V T:11:58"
+      text="Timeout Eastern Washington, clock 11:58." newcontext="V,3,1,H32">
+    <p_to vh="V" team="Eastern Washington"></p_to>
+   </play>
+   <play hasball="EWU" down="3" togo="1" spot="ORE32" context="V,3,1,H32" playid="22,11,222" type="E" tokens="PEN:V,FS,A,TM,H37,N"
+      text="PENALTY EWU false start 5 yards to the ORE37." newcontext="V,3,6,H37">
+    <p_pn vh="V" code="FS" type="false start" result="ACCEPT" at="H32" yards="5"></p_pn>
+   </play>
+   <play hasball="EWU" down="3" togo="6" spot="ORE37" context="V,3,6,H37" playid="22,12,223" type="P" first="P" tokens="PASS:12,C,7,H27 TACK:8"
+      text="R. Hennessey pass complete to Nic Sblendorio for 10 yards to the ORE27, 1ST DOWN EWU (Daniels, Reggie)." newcontext="V,1,10,H27">
+    <p_pa vh="V" qb="R. Hennessey" result="COMP" rcv="Nic Sblendorio" gain="10"></p_pa>
+    <p_tk vh="H" name="Daniels, Reggie"></p_tk>
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="ORE27" context="V,1,10,H27" playid="22,13,224" type="P" tokens="PASS:12,I,11,* BRUP:1"
+      text="R. Hennessey pass incomplete to Kendrick Bourne (Springs, Arrion)." newcontext="V,2,10,H27">
+    <p_pa vh="V" qb="R. Hennessey" result="INC" rcv="Kendrick Bourne"></p_pa>
+    <p_bu vh="H" name="Springs, Arrion"></p_bu>
+   </play>
+   <play hasball="EWU" down="2" togo="10" spot="ORE27" context="V,2,10,H27" playid="22,14,225" type="P" turnover="I" tokens="PASS:12,X,17,H13 RET:17,H30"
+      text="R. Hennessey pass intercepted by Williams, J. at the ORE13, Williams, J. return 17 yards to the ORE30." newcontext="H,1,10,H30">
+    <p_pa vh="V" qb="R. Hennessey" result="INT"></p_pa>
+    <p_ir vh="H" name="Williams, J." at="H13" gain="17"></p_ir>
+   </play>
+   <drivesum plays="10" yards="41" top="3:53" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="H,H30,11:07" vh="H" spot="H30" clock="11:07" driveindex="23,225"></drivestart>
+   <play hasball="ORE" down="1" togo="10" spot="ORE30" context="H,1,10,H30" playid="23,1,226" clock="11:07" tokens="{DRIVE}:11:07"
+      text="OREGON drive start at 11:07." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="ORE30" context="H,1,10,H30" playid="23,2,227" type="R" tokens="RUSH:29,H30, TACK:13"
+      text="Benoit, Kani rush for no gain to the ORE30 (Mitch Fettig)." newcontext="H,2,10,H30">
+    <p_ru vh="H" name="Benoit, Kani" gain="0"></p_ru>
+    <p_tk vh="V" name="Mitch Fettig"></p_tk>
+   </play>
+   <play hasball="ORE" down="2" togo="10" spot="ORE30" context="H,2,10,H30" playid="23,3,228" type="R" tokens="RUSH:29,H36, TACK:8"
+      text="Benoit, Kani rush for 6 yards to the ORE36 (Miles Weatheroy)." newcontext="H,3,4,H36">
+    <p_ru vh="H" name="Benoit, Kani" gain="6"></p_ru>
+    <p_tk vh="V" name="Miles Weatheroy"></p_tk>
+   </play>
+   <play hasball="ORE" down="3" togo="4" spot="ORE36" context="H,3,4,H36" playid="23,4,229" type="R" first="R" tokens="RUSH:29,H44, TACK:91,35"
+      text="Benoit, Kani rush for 8 yards to the ORE44, 1ST DOWN ORE (Samson Ebukam;Alek Kacmarcik)." newcontext="H,1,10,H44">
+    <p_ru vh="H" name="Benoit, Kani" gain="8"></p_ru>
+    <p_tk vh="V" name="Samson Ebukam" assist="Y"></p_tk>
+    <p_tk vh="V" name="Alek Kacmarcik" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="ORE44" context="H,1,10,H44" playid="23,5,230" type="R" tokens="RUSH:0C,V49,"
+      text="Adams Jr., V. rush for 7 yards to the EWU49." newcontext="H,2,3,V49">
+    <p_ru vh="H" name="Adams Jr., V." gain="7"></p_ru>
+   </play>
+   <play hasball="ORE" down="2" togo="3" spot="EWU49" context="H,2,3,V49" playid="23,6,231" type="E" first="E" tokens="PEN:V,PF,A,TM,V34,1"
+      text="PENALTY EWU personal foul 15 yards to the EWU34, 1ST DOWN ORE." newcontext="H,1,10,V34">
+    <p_pn vh="V" code="PF" type="personal foul" result="ACCEPT" at="V49" yards="15"></p_pn>
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="EWU34" context="H,1,10,V34" playid="23,7,232" type="R" tokens="RUSH:29,V32, TACK:93,53"
+      text="Benoit, Kani rush for 2 yards to the EWU32 (Marcus Saugen;Jonah Jordan)." newcontext="H,2,8,V32">
+    <p_ru vh="H" name="Benoit, Kani" gain="2"></p_ru>
+    <p_tk vh="V" name="Marcus Saugen" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jonah Jordan" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORE" down="2" togo="8" spot="EWU32" context="H,2,8,V32" playid="23,8,233" type="R" first="R" tokens="RUSH:29,V22, TACK:13"
+      text="Benoit, Kani rush for 10 yards to the EWU22, 1ST DOWN ORE (Mitch Fettig)." newcontext="H,1,10,V22">
+    <p_ru vh="H" name="Benoit, Kani" gain="10"></p_ru>
+    <p_tk vh="V" name="Mitch Fettig"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="EWU22" context="H,1,10,V22" playid="23,9,234" type="R" tokens="RUSH:29,V15, TACK:8"
+      text="Benoit, Kani rush for 7 yards to the EWU15 (Miles Weatheroy)." newcontext="H,2,3,V15">
+    <p_ru vh="H" name="Benoit, Kani" gain="7"></p_ru>
+    <p_tk vh="V" name="Miles Weatheroy"></p_tk>
+   </play>
+   <play hasball="ORE" down="2" togo="3" spot="EWU15" context="H,2,3,V15" playid="23,10,235" type="R" first="R" score="Y" vscore="35" hscore="60" clock="07:47" tokens="RUSH:20,V00, T:07:47"
+      text="Brooks-James rush for 15 yards to the EWU0, 1ST DOWN ORE, TOUCHDOWN, clock 07:47." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Brooks-James" gain="15"></p_ru>
+   </play>
+   <play hasball="ORE" down="1" togo="0" spot="EWU03" context="H,1,0,V03" playid="23,11,236" type="X" score="Y" vscore="35" hscore="61" tokens="PAT:K,41,G"
+      text="Schneider, A. kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Schneider, A." qb="Schneider, A." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="35" H="61"></score>
+   <drivesum plays="8" yards="70" top="3:20" driveindex="23" complete="Y"></drivesum>
+   <play hasball="ORE" down="1" togo="0" spot="ORE35" context="H,1,0,H35" playid="23,12,237" type="K" tokens="KO:49,V06 RET:22,V32 TACK:14,19"
+      text="Wogan, Matt kickoff 59 yards to the EWU6, Simba Webster return 26 yards to the EWU32 (Amadi, Ugo;Daich, Austin)." newcontext="V,1,10,V32">
+    <p_ko vh="H" name="Wogan, Matt" gain="59"></p_ko>
+    <p_kr vh="V" name="Simba Webster" gain="26"></p_kr>
+    <p_tk vh="H" name="Amadi, Ugo" assist="Y"></p_tk>
+    <p_tk vh="H" name="Daich, Austin" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V32,07:47" vh="V" spot="V32" clock="07:47" driveindex="24,237"></drivestart>
+   <play hasball="EWU" down="1" togo="10" spot="EWU32" context="V,1,10,V32" playid="24,1,238" clock="07:47" tokens="{DRIVE}:07:47"
+      text="EASTERN WASHINGTON drive start at 07:47." newcontext="V,1,10,V32">
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU32" context="V,1,10,V32" playid="24,2,239" type="R" tokens="RUSH:33,V34, TACK:98,47"
+      text="Malcom Williams rush for 2 yards to the EWU34 (Kurahara, J.;Manu, Rex)." newcontext="V,2,8,V34">
+    <p_ru vh="V" name="Malcom Williams" gain="2"></p_ru>
+    <p_tk vh="H" name="Kurahara, J." assist="Y"></p_tk>
+    <p_tk vh="H" name="Manu, Rex" assist="Y"></p_tk>
+   </play>
+   <play hasball="EWU" down="2" togo="8" spot="EWU34" context="V,2,8,V34" playid="24,3,240" type="P" tokens="PASS:12,I,9,*"
+      text="R. Hennessey pass incomplete to Zach Wimberly." newcontext="V,3,8,V34">
+    <p_pa vh="V" qb="R. Hennessey" result="INC" rcv="Zach Wimberly"></p_pa>
+   </play>
+   <play hasball="EWU" down="3" togo="8" spot="EWU34" context="V,3,8,V34" playid="24,4,241" type="R" first="R" tokens="RUSH:12,V47,"
+      text="R. Hennessey rush for 13 yards to the EWU47, 1ST DOWN EWU." newcontext="V,1,10,V47">
+    <p_ru vh="V" name="R. Hennessey" gain="13"></p_ru>
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="EWU47" context="V,1,10,V47" playid="24,5,242" type="R" tokens="RUSH:33,H47, TACK:47,98"
+      text="Malcom Williams rush for 6 yards to the ORE47 (Manu, Rex;Kurahara, J.)." newcontext="V,2,4,H47">
+    <p_ru vh="V" name="Malcom Williams" gain="6"></p_ru>
+    <p_tk vh="H" name="Manu, Rex" assist="Y"></p_tk>
+    <p_tk vh="H" name="Kurahara, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="EWU" down="2" togo="4" spot="ORE47" context="V,2,4,H47" playid="24,6,243" type="R" first="R" tokens="RUSH:33,H42, TACK:46"
+      text="Malcom Williams rush for 5 yards to the ORE42, 1ST DOWN EWU (Mattingly, D.)." newcontext="V,1,10,H42">
+    <p_ru vh="V" name="Malcom Williams" gain="5"></p_ru>
+    <p_tk vh="H" name="Mattingly, D."></p_tk>
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="ORE42" context="V,1,10,H42" playid="24,7,244" type="P" tokens="PASS:12,C,10,H39 TACK:30"
+      text="R. Hennessey pass complete to Cooper Kupp for 3 yards to the ORE39 (Bostick, Paris)." newcontext="V,2,7,H39">
+    <p_pa vh="V" qb="R. Hennessey" result="COMP" rcv="Cooper Kupp" gain="3"></p_pa>
+    <p_tk vh="H" name="Bostick, Paris"></p_tk>
+   </play>
+   <play hasball="EWU" down="2" togo="7" spot="ORE39" context="V,2,7,H39" playid="24,8,245" type="R" first="R" tokens="RUSH:2,H30, TACK:17"
+      text="Jabari Wilson rush for 9 yards to the ORE30, 1ST DOWN EWU (Williams, J.)." newcontext="V,1,10,H30">
+    <p_ru vh="V" name="Jabari Wilson" gain="9"></p_ru>
+    <p_tk vh="H" name="Williams, J."></p_tk>
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="ORE30" context="V,1,10,H30" playid="24,9,246" type="R" tokens="RUSH:2,H26, TACK:30"
+      text="Jabari Wilson rush for 4 yards to the ORE26 (Bostick, Paris)." newcontext="V,2,6,H26">
+    <p_ru vh="V" name="Jabari Wilson" gain="4"></p_ru>
+    <p_tk vh="H" name="Bostick, Paris"></p_tk>
+   </play>
+   <play hasball="EWU" down="2" togo="6" spot="ORE26" context="V,2,6,H26" playid="24,10,247" type="R" tokens="RUSH:12,H25, TACK:30"
+      text="R. Hennessey rush for 1 yard to the ORE25 (Bostick, Paris)." newcontext="V,3,5,H25">
+    <p_ru vh="V" name="R. Hennessey" gain="1"></p_ru>
+    <p_tk vh="H" name="Bostick, Paris"></p_tk>
+   </play>
+   <play hasball="EWU" down="3" togo="5" spot="ORE25" context="V,3,5,H25" playid="24,11,248" type="R" first="R" tokens="RUSH:33,H18, TACK:18"
+      text="Malcom Williams rush for 7 yards to the ORE18, 1ST DOWN EWU (Swain, Jimmie)." newcontext="V,1,10,H18">
+    <p_ru vh="V" name="Malcom Williams" gain="7"></p_ru>
+    <p_tk vh="H" name="Swain, Jimmie"></p_tk>
+   </play>
+   <play hasball="EWU" down="1" togo="10" spot="ORE18" context="V,1,10,H18" playid="24,12,249" type="P" first="P" tokens="PASS:12,C,10,H02 TACK:26,98"
+      text="R. Hennessey pass complete to Cooper Kupp for 16 yards to the ORE2, 1ST DOWN EWU (Oliver, Khalil;Kurahara, J.)." newcontext="V,1,0,H02">
+    <p_pa vh="V" qb="R. Hennessey" result="COMP" rcv="Cooper Kupp" gain="16"></p_pa>
+    <p_tk vh="H" name="Oliver, Khalil" assist="Y"></p_tk>
+    <p_tk vh="H" name="Kurahara, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="EWU" down="1" togo="0" spot="ORE02" context="V,1,0,H02" playid="24,13,250" type="P" tokens="PASS:12,I,11,* BRUP:98"
+      text="R. Hennessey pass incomplete to Kendrick Bourne (Kurahara, J.)." newcontext="V,2,0,H02">
+    <p_pa vh="V" qb="R. Hennessey" result="INC" rcv="Kendrick Bourne"></p_pa>
+    <p_bu vh="H" name="Kurahara, J."></p_bu>
+   </play>
+   <play hasball="EWU" down="2" togo="0" spot="ORE02" context="V,2,0,H02" playid="24,14,251" type="E" tokens="PEN:V,FS,A,TM,H07,N"
+      text="PENALTY EWU false start 5 yards to the ORE7." newcontext="V,2,0,H07">
+    <p_pn vh="V" code="FS" type="false start" result="ACCEPT" at="H02" yards="5"></p_pn>
+   </play>
+   <play hasball="EWU" down="2" togo="0" spot="ORE07" context="V,2,0,H07" playid="24,15,252" type="P" score="Y" vscore="41" hscore="61" clock="02:35" tokens="PASS:12,C,10,H00 T:02:35"
+      text="R. Hennessey pass complete to Cooper Kupp for 7 yards to the ORE0, TOUCHDOWN, clock 02:35." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="R. Hennessey" result="COMP" rcv="Cooper Kupp" gain="7"></p_pa>
+   </play>
+   <play hasball="EWU" down="1" togo="0" spot="ORE03" context="V,1,0,H03" playid="24,16,253" type="X" score="Y" vscore="42" hscore="61" tokens="PAT:K,51,G"
+      text="B. Bangsund kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="B. Bangsund" qb="B. Bangsund" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="42" H="61"></score>
+   <drivesum plays="13" yards="68" top="5:12" driveindex="24" complete="Y"></drivesum>
+   <play hasball="EWU" down="1" togo="0" spot="EWU35" context="V,1,0,V35" playid="24,17,254" type="K" tokens="KO:76,H31 FC:2"
+      text="Tyler McNannay kickoff 34 yards to the ORE31, fair catch by Addison, Bralon." newcontext="H,1,10,H31">
+    <p_ko vh="V" name="Tyler McNannay" gain="34" result="C" fc="Addison, Bralon"></p_ko>
+   </play>
+   <drivestart poss="H,H31,02:35" vh="H" spot="H31" clock="02:35" driveindex="25,254"></drivestart>
+   <play hasball="ORE" down="1" togo="10" spot="ORE31" context="H,1,10,H31" playid="25,1,255" clock="02:35" tokens="{DRIVE}:02:35"
+      text="OREGON drive start at 02:35." newcontext="H,1,10,H31">
+   </play>
+   <play hasball="ORE" down="1" togo="10" spot="ORE31" context="H,1,10,H31" playid="25,2,256" type="R" tokens="RUSH:5,H27, OB: TACK:23,21"
+      text="Griffin, Taj rush for loss of 4 yards to the ORE27, out-of-bounds (Moe Roberts;Rashad Wadood)." ob="Y" newcontext="H,2,14,H27">
+    <p_ru vh="H" name="Griffin, Taj" gain="-4"></p_ru>
+    <p_tk vh="V" name="Moe Roberts" assist="Y"></p_tk>
+    <p_tk vh="V" name="Rashad Wadood" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORE" down="2" togo="14" spot="ORE27" context="H,2,14,H27" playid="25,3,257" type="R" tokens="RUSH:5,H30, TACK:56"
+      text="Griffin, Taj rush for 3 yards to the ORE30 (Jakob Stoll)." newcontext="H,3,11,H30">
+    <p_ru vh="H" name="Griffin, Taj" gain="3"></p_ru>
+    <p_tk vh="V" name="Jakob Stoll"></p_tk>
+   </play>
+   <play hasball="ORE" down="3" togo="11" spot="ORE30" context="H,3,11,H30" playid="25,4,258" type="R" first="R" tokens="RUSH:5,V09, TACK:6,21"
+      text="Griffin, Taj rush for 61 yards to the EWU9, 1ST DOWN ORE (Nzuzi Webster;Rashad Wadood)." newcontext="H,1,0,V09">
+    <p_ru vh="H" name="Griffin, Taj" gain="61"></p_ru>
+    <p_tk vh="V" name="Nzuzi Webster" assist="Y"></p_tk>
+    <p_tk vh="V" name="Rashad Wadood" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORE" down="1" togo="0" spot="EWU09" context="H,1,0,V09" playid="25,5,259" type="R" tokens="RUSH:TM,V11,"
+      text="TEAM rush for loss of 2 yards to the EWU11." newcontext="H,2,0,V11">
+    <p_ru vh="H" name="TEAM" gain="-2"></p_ru>
+   </play>
+   <play hasball="ORE" down="2" togo="0" spot="EWU11" context="H,2,0,V11" playid="25,6,260" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of game, clock 00:00." newcontext="H,2,0,V11">
+   </play>
+   <drivesum plays="4" yards="58" top="2:35" driveindex="25" complete="Y"></drivesum>
+   <score final="Y" V="42" H="61"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="EWU">
+    <firstdowns no="9" rush="6" pass="3" penalty="0"></firstdowns>
+    <penalties no="3" yds="25"></penalties>
+    <conversions thirdconv="3" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:05"></misc>
+    <rush att="10" yds="59" gain="59" loss="0" td="0" long="3"></rush>
+    <pass comp="8" att="13" int="1" yds="73" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="8" yds="73" td="1" long="0"></rcv>
+    <ko no="1" yds="34" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="5" tacka="8" tot_tack="13" tflua="0" tfla="2" tflyds="4" sacks="0" sackyds="0"></defense>
+    <kr no="2" yds="39" td="0" long="0"></kr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ORE">
+    <firstdowns no="5" rush="4" pass="0" penalty="1"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="05:55"></misc>
+    <rush att="12" yds="113" gain="119" loss="6" td="1" long="26"></rush>
+    <ko no="2" yds="118" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="10" tacka="14" tot_tack="24" sacks="0" sackyds="0" brup="2" int="1" intyds="17"></defense>
+    <ir no="1" yds="17" td="0" long="13"></ir>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="ORE" down="2" togo="0" spot="EWU11" context="H,2,0,V11" qtr="4" clock="00:00" vtoh="1" htoh="0"
+       lastplay="End of game, clock 00:00."></downtogo>
+ </plays>
+ <message text=""></message>
+ <dnp vh="V" id="EWU">
+  <player name="Frank Cange" checkname="CANGE,FRANK" uni="3" class="SR" gp="0" code="3"></player>
+  <player name="Gage Gubrud" checkname="GUBRUD,GAGE" uni="15" class="FR" gp="0" code="15"></player>
+  <player name="A. Neil-Evergin" checkname="NEIL-EVERGIN,A" uni="24" class="FR" gp="0" code="24"></player>
+  <player name="Ashanti Kindle" checkname="KINDLE,ASHANTI" uni="31" class="FR" gp="0" code="31"></player>
+  <player name="Joe Njoku" checkname="NJOKU,JOE" uni="36" class="JR" gp="0" code="36"></player>
+  <player name="Colin Cossette" checkname="COSSETTE,COLIN" uni="42" class="FR" gp="0" code="42"></player>
+  <player name="Kody Beckering" checkname="BECKERING,KODY" uni="47" class="FR" gp="0" code="47"></player>
+  <player name="Jay Deines" checkname="DEINES,JAY" uni="61" class="SR" gp="0" code="61"></player>
+  <player name="R. Alcobendas" checkname="ALCOBENDAS,R" uni="62" class="SO" gp="0" code="62"></player>
+  <player name="Jack Hunter" checkname="HUNTER,JACK" uni="63" class="FR" gp="0" code="63"></player>
+  <player name="Matt Meyer" checkname="MEYER,MATT" uni="70" class="FR" gp="0" code="70"></player>
+  <player name="Nick Ellison" checkname="ELLISON,NICK" uni="74" class="FR" gp="0" code="74"></player>
+  <player name="S. Blackburn" checkname="BLACKBURN,S" uni="75" class="FR" gp="0" code="75"></player>
+  <player name="Zach Eagle" checkname="EAGLE,ZACH" uni="80" class="FR" gp="0" code="80"></player>
+  <player name="Nick Foerstel" checkname="FOERSTEL,NICK" uni="92" class="SO" gp="0" code="92"></player>
+  <player name="Beau Byus" checkname="BYUS,BEAU" uni="95" class="FR" gp="0" code="95"></player>
+ </dnp>
+ <dnp vh="H" id="ORE">
+  <player name="Cumberlander" checkname="CUMBERLANDER" uni="0I" class="FR" gp="0" code="0I"></player>
+  <player name="Kane, Dylan" checkname="KANE,DYLAN" uni="1F" class="FR" gp="0" code="1F"></player>
+  <player name="Reid, Tyler" checkname="REID,TYLER" uni="2I" class="FR" gp="0" code="2I"></player>
+  <player name="Eugenio, Casey" checkname="EUGENIO,CASEY" uni="2F" class="FR" gp="0" code="2F"></player>
+  <player name="Froehlich, Jake" checkname="FROEHLICH,JAKE" uni="2J" class="FR" gp="0" code="2J"></player>
+  <player name="Breeland, Jacob" checkname="BREELAND,JACOB" uni="2G" class="FR" gp="0" code="2G"></player>
+  <player name="Manns, Michael" checkname="MANNS,MICHAEL" uni="3G" class="JR" gp="0" code="3G"></player>
+  <player name="Moi, Jonah" checkname="MOI,JONAH" uni="3D" class="JR" gp="0" code="3D"></player>
+  <player name="LaCoste, Jarret" checkname="LACOSTE,JARRET" uni="4A" class="JR" gp="0" code="4A"></player>
+  <player name="Ofodile, Alex" checkname="OFODILE,ALEX" uni="4" class="FR" gp="0" code="4"></player>
+  <player name="Maimone, Blake" checkname="MAIMONE,BLAKE" uni="4B" class="FR" gp="0" code="4B"></player>
+  <player name="Throckmorton" checkname="THROCKMORTON" uni="5D" class="FR" gp="0" code="5D"></player>
+  <player name="Nelson, Charles" checkname="NELSON,CHARLES" uni="6" class="SO" gp="0" code="6"></player>
+  <player name="Carrington, D." checkname="CARRINGTON,D" uni="7" class="SO" gp="0" code="7"></player>
+  <player name="Carlberg, D." checkname="CARLBERG,D" uni="9J" class="FR" gp="0" code="9J"></player>
+  <player name="Allen, Devon" checkname="ALLEN,DEVON" uni="13" class="SO" gp="0" code="13"></player>
+  <player name="Mahalak, Morgan" checkname="MAHALAK,MORGAN" uni="16" class="FR" gp="0" code="16"></player>
+  <player name="Lovette, Malik" checkname="LOVETTE,MALIK" uni="23" class="FR" gp="0" code="23"></player>
+  <player name="McGraw, M." checkname="MCGRAW,M" uni="27" class="FR" gp="0" code="27"></player>
+  <player name="Killpatrick, S." checkname="KILLPATRICK,S" uni="31" class="FR" gp="0" code="31"></player>
+  <player name="Roseberry, Lane" checkname="ROSEBERRY,LANE" uni="34" class="JR" gp="0" code="34"></player>
+  <player name="Hunter, Justin" checkname="HUNTER,JUSTIN" uni="36" class="FR" gp="0" code="36"></player>
+  <player name="Jones, J.J." checkname="JONES,JJ" uni="37" class="JR" gp="0" code="37"></player>
+  <player name="Wheeler, Ian" checkname="WHEELER,IAN" uni="38" class="SO" gp="0" code="38"></player>
+  <player name="Stinson, Taylor" checkname="STINSON,TAYLOR" uni="40" class="FR" gp="0" code="40"></player>
+  <player name="Baker, Gary" checkname="BAKER,GARY" uni="51" class="FR" gp="0" code="51"></player>
+  <player name="Hanson, Jake" checkname="HANSON,JAKE" uni="61" class="FR" gp="0" code="61"></player>
+  <player name="Aiello, Brady" checkname="AIELLO,BRADY" uni="66" class="FR" gp="0" code="66"></player>
+  <player name="Davies, Tanner" checkname="DAVIES,TANNER" uni="67" class="FR" gp="0" code="67"></player>
+  <player name="Lemieux, Shane" checkname="LEMIEUX,SHANE" uni="68" class="FR" gp="0" code="68"></player>
+  <player name="Okun, Zach" checkname="OKUN,ZACH" uni="75" class="FR" gp="0" code="75"></player>
+  <player name="Brown, Pharaoh" checkname="BROWN,PHARAOH" uni="85" class="SR" gp="0" code="85"></player>
+  <player name="Tewhill, Chris" checkname="TEWHILL,CHRIS" uni="89" class="JR" gp="0" code="89"></player>
+  <player name="Ford, Jake" checkname="FORD,JAKE" uni="93" class="SO" gp="0" code="93"></player>
+  <player name="Kaumatule, C." checkname="KAUMATULE,C" uni="99" class="FR" gp="0" code="99"></player>
+ </dnp>
+ <longplays thresh="70">
+  <longplay vh="V" id="EWU" yds="73" play="PASS" players="Jordan West to Cooper Kupp" td="N"></longplay>
+ </longplays>
+</fbgame>

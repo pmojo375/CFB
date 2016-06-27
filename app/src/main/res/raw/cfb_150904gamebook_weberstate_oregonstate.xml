@@ -1,0 +1,1676 @@
+<fbgame source="Tas Football" version="4.16.07" generated="9/6/2015">
+ <venue gameid="OSU-WEB" visid="WEBER" homeid="ORSU" visname="Weber State" homename="Oregon State"
+      date="9/4/2015" location="Corvallis, Ore." stadium="Reser Stadium"
+      start="5:07 pm" end="8:16 pm" nitegame="Y"
+      duration="3:09" attend="35160" temp="59 deg." wind="NW 15mph" weather="clouds and sun break">
+  <officials ref="M. Mothershed" ump="R. Meisenheimer" line="Kirk Mattson" lj="Matt Doman" bj="Steve Steichen" fj="Michael Hall" sj="Mike Weseloh" cj="Mike McCabe" alt="Mike McCabe"></officials>
+  <rules qtrs="4" mins="15" downs="4" yds="10" kospot="35" tbspot="20" kotbspot="25" patspot="3" safspot="20" td="6" fg="3" pat="1" patx="2" saf="2" defpat="2" rouge="1" field="100" toh="3" sackrush="Y" fgaplay="Y" netpunttb="Y"></rules>
+ </venue>
+ <team vh="V" code="758" id="WEBER" name="Weber State" record="0-1" abb="W">
+  <linescore prds="4" line="0,0,7,0" score="7">
+   <lineprd prd="1" score="0"></lineprd>
+   <lineprd prd="2" score="0"></lineprd>
+   <lineprd prd="3" score="7"></lineprd>
+   <lineprd prd="4" score="0"></lineprd>
+  </linescore>
+  <totals totoff_plays="54" totoff_yards="178" totoff_avg="3.3">
+   <firstdowns no="9" rush="3" pass="4" penalty="2"></firstdowns>
+   <penalties no="7" yds="75"></penalties>
+   <conversions thirdconv="0" thirdatt="13" fourthconv="0" fourthatt="1"></conversions>
+   <fumbles no="1" lost="0"></fumbles>
+   <misc yds="0" top="24:35" ona="0" onm="0" ptsto="7"></misc>
+   <redzone att="0" scores="0" points="0" tdrush="0" tdpass="0" fgmade="0" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="18" yds="58" gain="73" loss="15" td="0" long="17"></rush>
+   <pass comp="19" att="36" int="1" yds="120" td="0" long="20" sacks="3" sackyds="13"></pass>
+   <rcv no="19" yds="120" td="0" long="20"></rcv>
+   <punt no="10" yds="407" long="56" blkd="0" tb="0" fc="3" plus50="1" inside20="2" avg="40.7"></punt>
+   <ko no="2" yds="130" ob="0" tb="2"></ko>
+   <fg made="0" att="1" long="0" blkd="1"></fg>
+   <pat kickatt="1" kickmade="1"></pat>
+   <defense tackua="47" tacka="40" tot_tack="87" tflua="3" tfla="2" tflyds="22" sacks="2" sackyds="11" brup="4" ff="1" int="1" intyds="8"></defense>
+   <kr no="7" yds="123" td="0" long="21"></kr>
+   <pr no="1" yds="4" td="0" long="4"></pr>
+   <ir no="1" yds="8" td="1" long="8"></ir>
+   <scoring td="1" patkick="1"></scoring>
+  </totals>
+  <player name="Cam Livingston" shortname="Cam Livingston" checkname="LIVINGSTON,CAM" uni="1" class="JR" gp="1" code="1">
+   <rcv no="3" yds="26" td="0" long="10"></rcv>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Cordero Dixon" shortname="Cordero Dixon" checkname="DIXON,CORDERO" uni="2" class="SR" gp="1" code="2"></player>
+  <player name="Darryl Denby" shortname="Darryl Denby" checkname="DENBY,DARRYL" uni="3" class="SO" gp="1" code="3">
+   <rush att="1" yds="0" gain="0" loss="0" td="0" long="0"></rush>
+   <rcv no="2" yds="-4" td="0" long="3"></rcv>
+   <pr no="1" yds="4" td="0" long="4"></pr>
+  </player>
+  <player name="Devonte Johnson" shortname="Devonte Johnson" checkname="JOHNSON,DEVONTE" uni="5" class="SR" gp="1" gs="1" dpos="RC" code="5">
+   <defense tackua="4" tacka="1" tot_tack="5" tflua="1" tfla="0" tflyds="10" sackua="1" sacka="0" sackyds="10" brup="3"></defense>
+  </player>
+  <player name="Drew Batchelor" shortname="Drew Batchelor" checkname="BATCHELOR,DREW" uni="6" class="SO" gp="1" gs="1" opos="WR" code="6">
+   <rcv no="6" yds="51" td="0" long="20"></rcv>
+   <kr no="3" yds="53" td="0" long="21"></kr>
+  </player>
+  <player name="Josh Burton" shortname="Josh Burton" checkname="BURTON,JOSH" uni="7" class="JR" gp="1" gs="1" dpos="FS" code="7">
+   <defense tackua="5" tacka="5" tot_tack="10" int="1" intyds="8"></defense>
+   <ir no="1" yds="8" td="1" long="8"></ir>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Emmett Tela" shortname="Emmett Tela" checkname="TELA,EMMETT" uni="8" class="SO" gp="1" gs="1" dpos="WLB" code="8">
+   <defense tackua="3" tacka="3" tot_tack="6"></defense>
+  </player>
+  <player name="Jalen Fields" shortname="Jalen Fields" checkname="FIELDS,JALEN" uni="9" class="JR" gp="1" code="9"></player>
+  <player name="Jadrian Clark" shortname="Jadrian Clark" checkname="CLARK,JADRIAN" uni="10" class="JR" gp="1" gs="1" opos="QB" code="10">
+   <rush att="6" yds="4" gain="17" loss="13" td="0" long="11"></rush>
+   <pass comp="19" att="35" int="1" yds="120" td="0" long="20" sacks="3" sackyds="13"></pass>
+   <fumbles no="1" lost="0"></fumbles>
+  </player>
+  <player name="Eric Wilkes" shortname="Eric Wilkes" checkname="WILKES,ERIC" uni="13" class="SO" gp="1" gs="1" opos="RB" code="13">
+   <rush att="7" yds="37" gain="37" loss="0" td="0" long="17"></rush>
+   <rcv no="1" yds="2" td="0" long="2"></rcv>
+   <kr no="2" yds="37" td="0" long="19"></kr>
+  </player>
+  <player name="Chad Leckington" shortname="Chad Leckington" checkname="LECKINGTON,CHAD" uni="14" class="SO" gp="1" code="14"></player>
+  <player name="Braden Corpus" shortname="Braden Corpus" checkname="CORPUS,BRADEN" uni="15" class="JR" gp="1" gs="1" opos="WR" code="15">
+   <pass comp="0" att="1" int="0" yds="0" td="0" long="0" sacks="0" sackyds="0"></pass>
+   <rcv no="1" yds="9" td="0" long="9"></rcv>
+  </player>
+  <player name="Alema Key" shortname="Alema Key" checkname="KEY,ALEMA" uni="17" class="SO" gp="1" code="17">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="Taron Johnson" shortname="Taron Johnson" checkname="JOHNSON,TARON" uni="21" class="SO" gp="1" gs="1" dpos="LC" code="21">
+   <defense tackua="3" tacka="2" tot_tack="5"></defense>
+  </player>
+  <player name="Xequille Harry" shortname="Xequille Harry" checkname="HARRY,XEQUILLE" uni="22" class="SO" gp="1" code="22">
+   <defense tackua="0" tacka="2" tot_tack="2" tflua="0" tfla="1" tflyds="2"></defense>
+  </player>
+  <player name="Tre'von Johnson" shortname="Tre'von Johnson" checkname="JOHNSON,TRE'VON" uni="23" class="JR" gp="1" gs="1" dpos="SLB" code="23">
+   <defense tackua="6" tacka="3" tot_tack="9" brup="1" ff="1"></defense>
+  </player>
+  <player name="Jared Afalava" shortname="Jared Afalava" checkname="AFALAVA,JARED" uni="25" class="JR" gp="1" code="25">
+   <defense tackua="4" tacka="2" tot_tack="6"></defense>
+  </player>
+  <player name="T. Garrett" shortname="T. Garrett" checkname="GARRETT,T" uni="26" class="FR" gp="1" code="26">
+   <rush att="3" yds="16" gain="16" loss="0" td="0" long="10"></rush>
+   <rcv no="1" yds="4" td="0" long="4"></rcv>
+  </player>
+  <player name="Haini Moimoi" shortname="Haini Moimoi" checkname="MOIMOI,HAINI" uni="31" class="SO" gp="1" code="31">
+   <kr no="2" yds="33" td="0" long="19"></kr>
+  </player>
+  <player name="Jawian Harrison" shortname="Jawian Harrison" checkname="HARRISON,JAWIAN" uni="32" class="SO" gp="1" code="32"></player>
+  <player name="Tui Satuala" shortname="Tui Satuala" checkname="SATUALA,TUI" uni="33" class="SO" gp="1" gs="1" opos="TE" code="33">
+   <rcv no="2" yds="12" td="0" long="6"></rcv>
+  </player>
+  <player name="Cory Thomson" shortname="Cory Thomson" checkname="THOMSON,CORY" uni="35" class="JR" gp="1" code="35">
+   <rush att="0" yds="3" gain="3" loss="0" td="0" long="0"></rush>
+   <rcv no="2" yds="17" td="0" long="15"></rcv>
+  </player>
+  <player name="Josh Kealamakia" shortname="Josh Kealamakia" checkname="KEALAMAKIA,JOSH" uni="36" class="SR" gp="1" code="36">
+   <punt no="10" yds="407" long="56" blkd="0" tb="0" fc="3" plus50="1" inside20="2" avg="40.7"></punt>
+   <ko no="2" yds="130" ob="0" tb="2"></ko>
+   <fg made="0" att="1" long="0" blkd="1"></fg>
+   <pat kickatt="1" kickmade="1"></pat>
+   <scoring patkick="1"></scoring>
+  </player>
+  <player name="Mitch Tulane" shortname="Mitch Tulane" checkname="TULANE,MITCH" uni="37" class="SO" gp="1" gs="1" dpos="SS" code="37">
+   <defense tackua="4" tacka="4" tot_tack="8"></defense>
+  </player>
+  <player name="Chandler Tunney" shortname="Chandler Tunney" checkname="TUNNEY,CHANDLER" uni="38" class="JR" gp="1" code="38"></player>
+  <player name="Vince Coleman" shortname="Vince Coleman" checkname="COLEMAN,VINCE" uni="40" class="SR" gp="1" gs="1" dpos="RE" code="40">
+   <defense tackua="3" tacka="2" tot_tack="5" tflua="1" tfla="1" tflyds="9"></defense>
+  </player>
+  <player name="Jon Carlson" shortname="Jon Carlson" checkname="CARLSON,JON" uni="42" class="SR" gp="1" code="42">
+   <defense tackua="2" tacka="5" tot_tack="7"></defense>
+  </player>
+  <player name="Grant Garry" shortname="Grant Garry" checkname="GARRY,GRANT" uni="43" class="SR" gp="1" code="43">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="R. Henderson" shortname="R. Henderson" checkname="HENDERSON,R" uni="52" class="SO" gp="1" code="52">
+   <defense tackua="2" tacka="1" tot_tack="3" tflua="1" tfla="0" tflyds="1" sackua="1" sacka="0" sackyds="1"></defense>
+  </player>
+  <player name="Liljenquist, K." shortname="Liljenquist, K." checkname="LILJENQUIST,K" uni="54" class="FR" gp="1" gs="1" dpos="MLB" code="54">
+   <defense tackua="4" tacka="5" tot_tack="9"></defense>
+  </player>
+  <player name="Joe Hawkins" shortname="Joe Hawkins" checkname="HAWKINS,JOE" uni="55" class="SR" gp="1" gs="1" opos="C" code="55"></player>
+  <player name="Jake Gallegos" shortname="Jake Gallegos" checkname="GALLEGOS,JAKE" uni="57" class="JR" gp="1" gs="1" dpos="DT" code="57">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="LeGrand Toia" shortname="LeGrand Toia" checkname="TOIA,LEGRAND" uni="58" class="SO" gp="1" code="58"></player>
+  <player name="Tyrone Brown" shortname="Tyrone Brown" checkname="BROWN,TYRONE" uni="63" class="JR" gp="1" code="63"></player>
+  <player name="Baron Bruce" shortname="Baron Bruce" checkname="BRUCE,BARON" uni="65" class="FR" gp="1" gs="1" opos="LG" code="65"></player>
+  <player name="Blake Schiess" shortname="Blake Schiess" checkname="SCHIESS,BLAKE" uni="68" class="FR" gp="1" code="68"></player>
+  <player name="Shane Oliverson" shortname="Shane Oliverson" checkname="OLIVERSON,SHANE" uni="70" class="SR" gp="1" gs="1" opos="LT" code="70"></player>
+  <player name="Calvin Steyn" shortname="Calvin Steyn" checkname="STEYN,CALVIN" uni="73" class="JR" gp="1" gs="1" opos="RT" code="73"></player>
+  <player name="Cameron Young" shortname="Cameron Young" checkname="YOUNG,CAMERON" uni="74" class="JR" gp="1" gs="1" opos="RG" code="74"></player>
+  <player name="Connor Shannon" shortname="Connor Shannon" checkname="SHANNON,CONNOR" uni="79" class="JR" gp="1" code="79"></player>
+  <player name="R. Longangu" shortname="R. Longangu" checkname="LONGANGU,R" uni="81" class="FR" gp="1" code="81">
+  </player>
+  <player name="TyJuan Prince" shortname="TyJuan Prince" checkname="PRINCE,TYJUAN" uni="85" class="FR" gp="1" code="85">
+   <rush att="1" yds="-2" gain="0" loss="2" td="0" long="0"></rush>
+  </player>
+  <player name="Cody Eyolfson" shortname="Cody Eyolfson" checkname="EYOLFSON,CODY" uni="87" class="JR" gp="1" gs="1" opos="TE" code="87">
+   <rcv no="1" yds="3" td="0" long="3"></rcv>
+  </player>
+  <player name="Helam Heimuli" shortname="Helam Heimuli" checkname="HEIMULI,HELAM" uni="88" class="JR" gp="1" code="88"></player>
+  <player name="Ross Stribling" shortname="Ross Stribling" checkname="STRIBLING,ROSS" uni="89" class="JR" gp="1" code="89"></player>
+  <player name="Jalin Ames" shortname="Jalin Ames" checkname="AMES,JALIN" uni="94" class="SR" gp="1" code="94">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="Iosua Opeta" shortname="Iosua Opeta" checkname="OPETA,IOSUA" uni="96" class="FR" gp="1" gs="1" dpos="LE" code="96">
+   <defense tackua="2" tacka="2" tot_tack="4"></defense>
+  </player>
+  <player name="Likio Pope" shortname="Likio Pope" checkname="POPE,LIKIO" uni="97" class="SO" gp="1" code="97"></player>
+  <player name="Adam Lewis" shortname="Adam Lewis" checkname="LEWIS,ADAM" uni="98" class="SO" gp="1" code="98"></player>
+  <player name="Filipe Sitake" shortname="Filipe Sitake" checkname="SITAKE,FILIPE" uni="99" class="FR" gp="1" gs="1" dpos="DT" code="99">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+ </team>
+ <team vh="H" code="528" id="ORSU" name="Oregon State" record="1-0" abb="O">
+  <linescore prds="4" line="0,6,7,13" score="26">
+   <lineprd prd="1" score="0"></lineprd>
+   <lineprd prd="2" score="6"></lineprd>
+   <lineprd prd="3" score="7"></lineprd>
+   <lineprd prd="4" score="13"></lineprd>
+  </linescore>
+  <totals totoff_plays="78" totoff_yards="391" totoff_avg="5.0">
+   <firstdowns no="22" rush="13" pass="5" penalty="4"></firstdowns>
+   <penalties no="7" yds="67"></penalties>
+   <conversions thirdconv="6" thirdatt="17" fourthconv="0" fourthatt="1"></conversions>
+   <fumbles no="1" lost="0"></fumbles>
+   <misc yds="0" top="35:25" ona="0" onm="0" ptsto="3"></misc>
+   <redzone att="3" scores="3" points="13" tdrush="0" tdpass="1" fgmade="2" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="56" yds="281" gain="302" loss="21" td="0" long="24"></rush>
+   <pass comp="12" att="22" int="1" yds="110" td="2" long="44" sacks="2" sackyds="11"></pass>
+   <rcv no="12" yds="110" td="2" long="44"></rcv>
+   <punt no="6" yds="226" long="49" blkd="0" tb="0" fc="2" plus50="0" inside20="3" avg="37.7"></punt>
+   <ko no="7" yds="427" ob="0" tb="0"></ko>
+   <fg made="4" att="4" long="45" blkd="0"></fg>
+   <pat kickatt="2" kickmade="2"></pat>
+   <defense tackua="35" tacka="22" tot_tack="57" tflua="5" tfla="0" tflyds="22" sacks="3" sackyds="13" brup="4" blkd="1" ff="1" int="1" intyds="0"></defense>
+   <pr no="3" yds="23" td="0" long="21"></pr>
+   <ir no="1" yds="0" td="0" long="0"></ir>
+   <scoring td="2" fg="4" patkick="2"></scoring>
+  </totals>
+  <player name="Collins, Seth" shortname="Collins, Seth" checkname="COLLINS,SETH" uni="0D" class="FR" gp="1" gs="1" opos="QB" code="0D">
+   <rush att="17" yds="152" gain="163" loss="11" td="0" long="24"></rush>
+   <pass comp="10" att="18" int="0" yds="92" td="2" long="44" sacks="2" sackyds="11"></pass>
+   <fumbles no="1" lost="0"></fumbles>
+  </player>
+  <player name="McMaryion, M." shortname="McMaryion, M." checkname="MCMARYION,M" uni="0C" class="FR" gp="1" code="0C">
+   <rush att="1" yds="4" gain="4" loss="0" td="0" long="4"></rush>
+   <pass comp="2" att="4" int="1" yds="18" td="0" long="10" sacks="0" sackyds="0"></pass>
+  </player>
+  <player name="Smith, Caleb" shortname="Smith, Caleb" checkname="SMITH,CALEB" uni="1J" class="SR" gp="1" code="1J"></player>
+  <player name="Brown, Chris" shortname="Brown, Chris" checkname="BROWN,CHRIS" uni="1" class="JR" gp="1" code="1">
+   <rush att="14" yds="54" gain="54" loss="0" td="0" long="11"></rush>
+   <rcv no="1" yds="6" td="0" long="6"></rcv>
+  </player>
+  <player name="Jarmon, Hunter" shortname="Jarmon, Hunter" checkname="JARMON,HUNTER" uni="2" class="SO" gp="1" gs="1" opos="WR" code="2"></player>
+  <player name="Owens, Garrett" shortname="Owens, Garrett" checkname="OWENS,GARRETT" uni="2A" class="SO" gp="1" code="2A">
+   <ko no="6" yds="377" ob="0" tb="0"></ko>
+   <fg made="4" att="4" long="45" blkd="0"></fg>
+   <pat kickatt="2" kickmade="2"></pat>
+   <scoring fg="4" patkick="2"></scoring>
+  </player>
+  <player name="Crist, Ian" shortname="Crist, Ian" checkname="CRIST,IAN" uni="2G" class="JR" gp="1" code="2G">
+   <ko no="1" yds="50" ob="0" tb="0"></ko>
+  </player>
+  <player name="Arnold,Brandon" shortname="Arnold,Brandon" checkname="ARNOLD,BRANDON" uni="3" class="SO" gp="1" code="3">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="Strong, Justin" shortname="Strong, Justin" checkname="STRONG,JUSTIN" uni="4" class="SO" gp="1" gs="1" dpos="FS" code="4">
+   <defense tackua="4" tacka="2" tot_tack="6"></defense>
+  </player>
+  <player name="Haley, Kyle" shortname="Haley, Kyle" checkname="HALEY,KYLE" uni="5" class="JR" gp="1" code="5"></player>
+  <player name="Bolden,Victor" shortname="Bolden,Victor" checkname="BOLDEN,VICTOR" uni="6" class="JR" gp="1" gs="1" opos="WR" code="6">
+   <rush att="5" yds="4" gain="11" loss="7" td="0" long="4"></rush>
+   <rcv no="3" yds="6" td="1" long="6"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Hawkins, Xavier" shortname="Hawkins, Xavier" checkname="HAWKINS,XAVIER" uni="7" class="SO" gp="1" code="7"></player>
+  <player name="Mageo, Rommel" shortname="Mageo, Rommel" checkname="MAGEO,ROMMEL" uni="8" class="JR" gp="1" gs="1" dpos="MIKE" code="8">
+   <defense tackua="7" tacka="4" tot_tack="11" tflua="1" tfla="0" tflyds="2" sackua="1" sacka="0" sackyds="2" brup="1" ff="1"></defense>
+  </player>
+  <player name="Guyton, Datrin" shortname="Guyton, Datrin" checkname="GUYTON,DATRIN" uni="9" class="FR" gp="1" code="9">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Grimble, Jalen" shortname="Grimble, Jalen" checkname="GRIMBLE,JALEN" uni="10" class="SR" gp="1" code="10">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Hill, Kendall" shortname="Hill, Kendall" checkname="HILL,KENDALL" uni="12" class="JR" gp="1" code="12">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Villamin, J." shortname="Villamin, J." checkname="VILLAMIN,J" uni="13" class="SO" gp="1" gs="1" opos="WR" code="13">
+   <rcv no="4" yds="70" td="1" long="44"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Decoud, Treston" shortname="Decoud, Treston" checkname="DECOUD,TRESTON" uni="14" class="JR" gp="1" gs="1" dpos="LCB" code="14">
+   <defense tackua="3" tacka="2" tot_tack="5" brup="1"></defense>
+  </player>
+  <player name="Scott, Larry" shortname="Scott, Larry" checkname="SCOTT,LARRY" uni="15" class="SR" gp="1" gs="1" dpos="RCB" code="15">
+   <defense tackua="0" tacka="2" tot_tack="2" brup="1"></defense>
+  </player>
+  <player name="Lucas, Paul" shortname="Lucas, Paul" checkname="LUCAS,PAUL" uni="16" class="FR" gp="1" code="16"></player>
+  <player name="Noland-Lewis, C" shortname="Noland-Lewis, C" checkname="NOLAND-LEWIS,C" uni="17" class="JR" gp="1" gs="1" dpos="SS" code="17">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="Gilmore, Malik" shortname="Gilmore, Malik" checkname="GILMORE,MALIK" uni="18" class="JR" gp="1" code="18">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="Sands, Deltron" shortname="Sands, Deltron" checkname="SANDS,DELTRON" uni="21" class="FR" gp="1" code="21">
+   <rcv no="1" yds="3" td="0" long="3"></rcv>
+  </player>
+  <player name="Woods,Storm" shortname="Woods,Storm" checkname="WOODS,STORM" uni="24" class="SR" gp="1" gs="1" opos="TB" code="24">
+   <rush att="15" yds="63" gain="63" loss="0" td="0" long="8"></rush>
+   <rcv no="2" yds="25" td="0" long="14"></rcv>
+  </player>
+  <player name="Chappell, Devin" shortname="Chappell, Devin" checkname="CHAPPELL,DEVIN" uni="26" class="JR" gp="1" code="26">
+   <defense tackua="1" tacka="0" tot_tack="1" tflua="1" tfla="0" tflyds="2"></defense>
+  </player>
+  <player name="Patrick, Naji" shortname="Patrick, Naji" checkname="PATRICK,NAJI" uni="27" class="SR" gp="1" code="27"></player>
+  <player name="Williams, D." shortname="Williams, D." checkname="WILLIAMS,D" uni="29" class="FR" gp="1" code="29">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Ovgard, Gabe" shortname="Ovgard, Gabe" checkname="OVGARD,GABE" uni="30" class="FR" gp="1" code="30">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="Porebski, Nick" shortname="Porebski, Nick" checkname="POREBSKI,NICK" uni="31" class="SO" gp="1" code="31">
+   <punt no="6" yds="226" long="49" blkd="0" tb="0" fc="2" plus50="0" inside20="3" avg="37.7"></punt>
+  </player>
+  <player name="Willis, J." shortname="Willis, J." checkname="WILLIS,J" uni="32" class="FR" gp="1" code="32">
+   <defense tackua="5" tacka="0" tot_tack="5"></defense>
+  </player>
+  <player name="Nall, Ryan" shortname="Nall, Ryan" checkname="NALL,RYAN" uni="34" class="FR" gp="1" code="34">
+   <rush att="2" yds="4" gain="4" loss="0" td="0" long="3"></rush>
+  </player>
+  <player name="Saulo, Caleb" shortname="Saulo, Caleb" checkname="SAULO,CALEB" uni="35" class="JR" gp="1" gs="1" dpos="WILL" code="35">
+   <defense tackua="2" tacka="3" tot_tack="5"></defense>
+  </player>
+  <player name="Navarro, Ryan" shortname="Navarro, Ryan" checkname="NAVARRO,RYAN" uni="36" class="JR" gp="1" code="36"></player>
+  <player name="Soesman, Adam" shortname="Soesman, Adam" checkname="SOESMAN,ADAM" uni="43" class="FR" gp="1" code="43"></player>
+  <player name="Ugwoegbu, B." shortname="Ugwoegbu, B." checkname="UGWOEGBU,B" uni="47" class="FR" gp="1" gs="1" dpos="FLSH" code="47">
+   <defense tackua="1" tacka="0" tot_tack="1" tflua="1" tfla="0" tflyds="7"></defense>
+  </player>
+  <player name="James, Jaswha" shortname="James, Jaswha" checkname="JAMES,JASWHA" uni="48" class="SR" gp="1" gs="1" dpos="STUD" code="48">
+   <defense blkd="1"></defense>
+  </player>
+  <player name="Henry, David" shortname="Henry, David" checkname="HENRY,DAVID" uni="49" class="SO" gp="1" code="49"></player>
+  <player name="Mitchell, Josh" shortname="Mitchell, Josh" checkname="MITCHELL,JOSH" uni="50" class="SR" gp="1" gs="1" opos="C" code="50"></player>
+  <player name="Delp, Kammy" shortname="Delp, Kammy" checkname="DELP,KAMMY" uni="51" class="FR" gp="1" code="51"></player>
+  <player name="Houston, Sumner" shortname="Houston, Sumner" checkname="HOUSTON,SUMNER" uni="52" class="FR" gp="1" code="52">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Hungalu, Manase" shortname="Hungalu, Manase" checkname="HUNGALU,MANASE" uni="55" class="SO" gp="1" code="55">
+   <defense tackua="0" tacka="1" tot_tack="1" int="1" intyds="0"></defense>
+   <ir no="1" yds="0" td="0" long="0"></ir>
+  </player>
+  <player name="Seumalo, Isaac" shortname="Seumalo, Isaac" checkname="SEUMALO,ISAAC" uni="56" class="JR" gp="1" gs="1" opos="RG" code="56"></player>
+  <player name="Barnett, L." shortname="Barnett, L." checkname="BARNETT,L" uni="59" class="SR" gp="1" gs="1" dpos="LE" code="59">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="Clarkson, Drew" shortname="Clarkson, Drew" checkname="CLARKSON,DREW" uni="61" class="FR" gp="1" code="61"></player>
+  <player name="Lauina, Fred" shortname="Lauina, Fred" checkname="LAUINA,FRED" uni="64" class="SO" gp="1" gs="1" opos="LG" code="64"></player>
+  <player name="Stanton, Dustin" shortname="Stanton, Dustin" checkname="STANTON,DUSTIN" uni="74" class="JR" gp="1" gs="1" opos="RT" code="74"></player>
+  <player name="Harlow, Sean" shortname="Harlow, Sean" checkname="HARLOW,SEAN" uni="77" class="JR" gp="1" gs="1" opos="LT" code="77"></player>
+  <player name="VanderVeen, B." shortname="VanderVeen, B." checkname="VANDERVEEN,B" uni="80" class="JR" gp="1" code="80"></player>
+  <player name="Clute, Kellen" shortname="Clute, Kellen" checkname="CLUTE,KELLEN" uni="83" class="SR" gp="1" gs="1" opos="TE" code="83">
+   <rcv no="1" yds="0" td="0" long="0"></rcv>
+  </player>
+  <player name="Dockery, Rahmel" shortname="Dockery, Rahmel" checkname="DOCKERY,RAHMEL" uni="88" class="JR" gp="1" code="88">
+   <rush att="1" yds="3" gain="3" loss="0" td="0" long="3"></rush>
+   <pr no="3" yds="23" td="0" long="21"></pr>
+  </player>
+  <player name="Robins, Ali'i" shortname="Robins, Ali'i" checkname="ROBINS,ALI'I" uni="90" class="SR" gp="1" code="90"></player>
+  <player name="Failauga, Titus" shortname="Failauga, Titus" checkname="FAILAUGA,TITUS" uni="93" class="SO" gp="1" gs="1" dpos="RE" code="93"></player>
+  <player name="Hollingsworth" shortname="Hollingsworth" checkname="HOLLINGSWORTH" uni="94" class="JR" gp="1" code="94"></player>
+  <player name="Pritchard, B." shortname="Pritchard, B." checkname="PRITCHARD,B" uni="95" class="SO" gp="1" code="95">
+   <defense tackua="1" tacka="0" tot_tack="1" tflua="1" tfla="0" tflyds="5" sackua="1" sacka="0" sackyds="5"></defense>
+  </player>
+  <player name="Williams, L." shortname="Williams, L." checkname="WILLIAMS,L" uni="96" class="FR" gp="1" code="96"></player>
+  <player name="Vakameilalo, K." shortname="Vakameilalo, K." checkname="VAKAMEILALO,K" uni="97" class="FR" gp="1" code="97">
+   <defense tackua="1" tacka="0" tot_tack="1" tflua="1" tfla="0" tflyds="6" sackua="1" sacka="0" sackyds="6"></defense>
+  </player>
+  <player name="Peko, Kyle" shortname="Peko, Kyle" checkname="PEKO,KYLE" uni="99" class="SR" gp="1" gs="1" dpos="NT" code="99">
+   <defense tackua="1" tacka="2" tot_tack="3" brup="1"></defense>
+  </player>
+  <player name="TEAM" shortname="TEAM" checkname="TEAM" uni="TM" class="FR" gp="1" code="198">
+   <rush att="1" yds="-3" gain="0" loss="3" td="0" long="0"></rush>
+  </player>
+ </team>
+ <scores>
+  <score vh="H" team="ORSU" qtr="2" clock="10:22" type="FG" yds="30" scorer="Owens, Garrett" plays="6" drive="33" top="2:39" vscore="0" hscore="3" driveindex="8"></score>
+  <score vh="H" team="ORSU" qtr="2" clock="00:48" type="FG" yds="40" scorer="Owens, Garrett" plays="6" drive="34" top="2:58" vscore="0" hscore="6" driveindex="12"></score>
+  <score vh="H" team="ORSU" qtr="3" clock="08:13" type="TD" how="PASS" yds="4" scorer="Bolden,Victor" passer="Collins, Seth" patby="Owens, Garrett" pattype="KICK" patres="GOOD" plays="16" drive="75" top="6:47" vscore="0" hscore="13" driveindex="14"></score>
+  <score vh="V" team="WEBER" qtr="3" clock="03:24" type="TD" how="INT" yds="8" scorer="Josh Burton" patby="Josh Kealamakia" pattype="KICK" patres="GOOD" vscore="7" hscore="13" driveindex="19"></score>
+  <score vh="H" team="ORSU" qtr="4" clock="13:21" type="FG" yds="39" scorer="Owens, Garrett" plays="6" drive="36" top="1:34" vscore="7" hscore="16" driveindex="22"></score>
+  <score vh="H" team="ORSU" qtr="4" clock="09:55" type="TD" how="PASS" yds="44" scorer="Villamin, J." passer="Collins, Seth" patby="Owens, Garrett" pattype="KICK" patres="GOOD" plays="5" drive="67" top="1:53" vscore="7" hscore="23" driveindex="24"></score>
+  <score vh="H" team="ORSU" qtr="4" clock="03:11" type="FG" yds="45" scorer="Owens, Garrett" plays="8" drive="42" top="3:13" vscore="7" hscore="26" driveindex="28"></score>
+ </scores>
+ <fgas>
+  <fga vh="H" team="ORSU" kicker="Owens, Garrett" qtr="2" clock="10:22" distance="30" result="good"></fga>
+  <fga vh="H" team="ORSU" kicker="Owens, Garrett" qtr="2" clock="00:48" distance="40" result="good"></fga>
+  <fga vh="V" team="WEBER" kicker="Josh Kealamakia" qtr="3" clock="05:39" distance="45" result="blkd"></fga>
+  <fga vh="H" team="ORSU" kicker="Owens, Garrett" qtr="4" clock="13:21" distance="39" result="good"></fga>
+  <fga vh="H" team="ORSU" kicker="Owens, Garrett" qtr="4" clock="03:11" distance="45" result="good"></fga>
+ </fgas>
+ <drives>
+  <drive vh="V" team="WEBER" start="KO,1,15:00,27" end="PUNT,1,12:43,49" plays="5" yards="22" top="2:17" start_how="KO" start_qtr="1" start_time="15:00" start_spot="WEBER27" end_how="PUNT" end_qtr="1" end_time="12:43" end_spot="WEBER49" driveindex="1"></drive>
+  <drive vh="H" team="ORSU" start="PUNT,1,12:43,9" end="PUNT,1,09:52,44" plays="6" yards="35" top="2:51" start_how="PUNT" start_qtr="1" start_time="12:43" start_spot="ORSU09" end_how="PUNT" end_qtr="1" end_time="09:52" end_spot="ORSU44" driveindex="2"></drive>
+  <drive vh="V" team="WEBER" start="PUNT,1,09:52,15" end="PUNT,1,07:52,24" plays="3" yards="9" top="2:00" start_how="PUNT" start_qtr="1" start_time="09:52" start_spot="WEBER15" end_how="PUNT" end_qtr="1" end_time="07:52" end_spot="WEBER24" driveindex="3"></drive>
+  <drive vh="H" team="ORSU" start="PUNT,1,07:52,28" end="DOWNS,1,03:43,79" plays="9" yards="51" top="4:09" start_how="PUNT" start_qtr="1" start_time="07:52" start_spot="ORSU28" end_how="DOWNS" end_qtr="1" end_time="03:43" end_spot="WEBER21" driveindex="4"></drive>
+  <drive vh="V" team="WEBER" start="DOWNS,1,03:43,21" end="PUNT,1,01:08,36" plays="5" yards="15" top="2:35" start_how="DOWNS" start_qtr="1" start_time="03:43" start_spot="WEBER21" end_how="PUNT" end_qtr="1" end_time="01:08" end_spot="WEBER36" driveindex="5"></drive>
+  <drive vh="H" team="ORSU" start="PUNT,1,01:08,42" end="PUNT,1,00:00,50" plays="3" yards="8" top="1:08" start_how="PUNT" start_qtr="1" start_time="01:08" start_spot="ORSU42" end_how="PUNT" end_qtr="1" end_time="00:00" end_spot="ORSU50" driveindex="6"></drive>
+  <drive vh="V" team="WEBER" start="PUNT,2,15:00,17" end="PUNT,2,13:01,20" plays="3" yards="3" top="1:59" start_how="PUNT" start_qtr="2" start_time="15:00" start_spot="WEBER17" end_how="PUNT" end_qtr="2" end_time="13:01" end_spot="WEBER20" driveindex="7"></drive>
+  <drive vh="H" team="ORSU" start="PUNT,2,13:01,55" end="FG,2,10:22,88" plays="6" yards="33" top="2:39" start_how="PUNT" start_qtr="2" start_time="13:01" start_spot="WEBER45" end_how="FG" end_qtr="2" end_time="10:22" end_spot="WEBER12" rz="1" driveindex="8"></drive>
+  <drive vh="V" team="WEBER" start="KO,2,10:16,19" end="PUNT,2,09:11,22" plays="3" yards="3" top="1:05" start_how="KO" start_qtr="2" start_time="10:16" start_spot="WEBER19" end_how="PUNT" end_qtr="2" end_time="09:11" end_spot="WEBER22" driveindex="9"></drive>
+  <drive vh="H" team="ORSU" start="PUNT,2,09:11,35" end="PUNT,2,05:43,48" plays="6" yards="13" top="3:28" start_how="PUNT" start_qtr="2" start_time="09:11" start_spot="ORSU35" end_how="PUNT" end_qtr="2" end_time="05:43" end_spot="ORSU48" driveindex="10"></drive>
+  <drive vh="V" team="WEBER" start="PUNT,2,05:43,3" end="PUNT,2,03:46,22" plays="4" yards="19" top="1:57" start_how="PUNT" start_qtr="2" start_time="05:43" start_spot="WEBER03" end_how="PUNT" end_qtr="2" end_time="03:46" end_spot="WEBER22" driveindex="11"></drive>
+  <drive vh="H" team="ORSU" start="PUNT,2,03:46,44" end="FG,2,00:48,78" plays="6" yards="34" top="2:58" start_how="PUNT" start_qtr="2" start_time="03:46" start_spot="ORSU44" end_how="FG" end_qtr="2" end_time="00:48" end_spot="WEBER22" driveindex="12"></drive>
+  <drive vh="V" team="WEBER" start="KO,2,00:43,21" end="HALF,2,00:00,21" plays="1" yards="0" top="0:43" start_how="KO" start_qtr="2" start_time="00:43" start_spot="WEBER21" end_how="HALF" end_qtr="2" end_time="00:00" end_spot="WEBER21" driveindex="13"></drive>
+  <drive vh="H" team="ORSU" start="KO,3,15:00,25" end="TD,3,08:13,100" plays="16" yards="75" top="6:47" start_how="KO" start_qtr="3" start_time="15:00" start_spot="ORSU25" end_how="TD" end_qtr="3" end_time="08:13" end_spot="WEBER00" rz="1" driveindex="14"></drive>
+  <drive vh="V" team="WEBER" start="KO,3,08:08,34" end="FGA,3,05:39,72" plays="6" yards="38" top="2:29" start_how="KO" start_qtr="3" start_time="08:08" start_spot="WEBER34" end_how="FGA" end_qtr="3" end_time="05:39" end_spot="ORSU28" driveindex="15"></drive>
+  <drive vh="H" team="ORSU" start="FGA,3,05:39,28" end="PUNT,3,04:33,35" plays="3" yards="7" top="1:06" start_how="FGA" start_qtr="3" start_time="05:39" start_spot="ORSU28" end_how="PUNT" end_qtr="3" end_time="04:33" end_spot="ORSU35" driveindex="16"></drive>
+  <drive vh="V" team="WEBER" start="PUNT,3,04:33,36" end="PUNT,3,03:30,38" plays="3" yards="2" top="1:03" start_how="PUNT" start_qtr="3" start_time="04:33" start_spot="WEBER36" end_how="PUNT" end_qtr="3" end_time="03:30" end_spot="WEBER38" driveindex="17"></drive>
+  <drive vh="H" team="ORSU" start="PUNT,3,03:30,6" end="INT,3,03:24,6" plays="1" yards="0" top="0:06" start_how="PUNT" start_qtr="3" start_time="03:30" start_spot="ORSU06" end_how="INT" end_qtr="3" end_time="03:24" end_spot="ORSU06" driveindex="18"></drive>
+  <drive vh="V" team="WEBER" start="INT,3,03:24,100" end="TD,3,03:24,100" plays="0" yards="0" top="0:00" start_how="INT" start_qtr="3" start_time="03:24" start_spot="ORSU00" end_how="TD" end_qtr="3" end_time="03:24" end_spot="ORSU00" driveindex="19"></drive>
+  <drive vh="H" team="ORSU" start="KO,3,03:24,25" end="PUNT,3,01:17,33" plays="3" yards="8" top="2:07" start_how="KO" start_qtr="3" start_time="03:24" start_spot="ORSU25" end_how="PUNT" end_qtr="3" end_time="01:17" end_spot="ORSU33" driveindex="20"></drive>
+  <drive vh="V" team="WEBER" start="PUNT,3,01:17,24" end="INT,4,14:55,42" plays="4" yards="18" top="1:22" start_how="PUNT" start_qtr="3" start_time="01:17" start_spot="WEBER24" end_how="INT" end_qtr="4" end_time="14:55" end_spot="WEBER42" driveindex="21"></drive>
+  <drive vh="H" team="ORSU" start="INT,4,14:55,43" end="FG,4,13:21,79" plays="6" yards="36" top="1:34" start_how="INT" start_qtr="4" start_time="14:55" start_spot="ORSU43" end_how="FG" end_qtr="4" end_time="13:21" end_spot="WEBER21" rz="1" driveindex="22"></drive>
+  <drive vh="V" team="WEBER" start="KO,4,13:14,19" end="PUNT,4,11:48,28" plays="3" yards="9" top="1:26" start_how="KO" start_qtr="4" start_time="13:14" start_spot="WEBER19" end_how="PUNT" end_qtr="4" end_time="11:48" end_spot="WEBER28" driveindex="23"></drive>
+  <drive vh="H" team="ORSU" start="PUNT,4,11:48,33" end="TD,4,09:55,100" plays="5" yards="67" top="1:53" start_how="PUNT" start_qtr="4" start_time="11:48" start_spot="ORSU33" end_how="TD" end_qtr="4" end_time="09:55" end_spot="WEBER00" driveindex="24"></drive>
+  <drive vh="V" team="WEBER" start="KO,4,09:51,13" end="PUNT,4,08:34,16" plays="3" yards="3" top="1:17" start_how="KO" start_qtr="4" start_time="09:51" start_spot="WEBER13" end_how="PUNT" end_qtr="4" end_time="08:34" end_spot="WEBER16" driveindex="25"></drive>
+  <drive vh="H" team="ORSU" start="PUNT,4,08:34,53" end="PUNT,4,07:33,53" plays="3" yards="0" top="1:01" start_how="PUNT" start_qtr="4" start_time="08:34" start_spot="WEBER47" end_how="PUNT" end_qtr="4" end_time="07:33" end_spot="WEBER47" driveindex="26"></drive>
+  <drive vh="V" team="WEBER" start="PUNT,4,07:33,20" end="PUNT,4,06:24,25" plays="3" yards="5" top="1:09" start_how="PUNT" start_qtr="4" start_time="07:33" start_spot="WEBER20" end_how="PUNT" end_qtr="4" end_time="06:24" end_spot="WEBER25" driveindex="27"></drive>
+  <drive vh="H" team="ORSU" start="PUNT,4,06:24,31" end="FG,4,03:11,73" plays="8" yards="42" top="3:13" start_how="PUNT" start_qtr="4" start_time="06:24" start_spot="ORSU31" end_how="FG" end_qtr="4" end_time="03:11" end_spot="WEBER27" driveindex="28"></drive>
+  <drive vh="V" team="WEBER" start="KO,4,03:03,18" end="DOWNS,4,00:25,62" plays="9" yards="44" top="2:38" start_how="KO" start_qtr="4" start_time="03:03" start_spot="WEBER18" end_how="DOWNS" end_qtr="4" end_time="00:25" end_spot="ORSU38" driveindex="29"></drive>
+  <drive vh="H" team="ORSU" start="DOWNS,4,00:25,38" end="HALF,4,00:00,40" plays="1" yards="2" top="0:25" start_how="DOWNS" start_qtr="4" start_time="00:25" start_spot="ORSU38" end_how="HALF" end_qtr="4" end_time="00:00" end_spot="ORSU40" driveindex="30"></drive>
+ </drives>
+ <plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER35" context="V,1,10,V35" playid="0,1,0" tokens="CMT:OSU wins the toss, defers; Weber State will receive and defend north"
+      text="OSU wins the toss, defers; Weber State will receive and defend north" newcontext="V,1,10,V35">
+   </play>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER35" context="V,1,10,V35" playid="0,2,1" tokens="SPOT:H,H35,N"
+      text="ORSU ball on ORSU35." newcontext="H,1,10,H35">
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU35" context="H,1,10,H35" playid="0,3,2" type="K" tokens="KO:2A,V13 RET:31,V27 TACK:32"
+      text="Owens, Garrett kickoff 52 yards to the WEBER13, Haini Moimoi return 14 yards to the WEBER27 (Willis, J.)." newcontext="V,1,10,V27">
+    <p_ko vh="H" name="Owens, Garrett" gain="52"></p_ko>
+    <p_kr vh="V" name="Haini Moimoi" gain="14"></p_kr>
+    <p_tk vh="H" name="Willis, J."></p_tk>
+   </play>
+   <drivestart poss="V,V27,15:00" vh="V" spot="V27" clock="15:00" driveindex="1,2"></drivestart>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER27" context="V,1,10,V27" playid="1,1,3" type="P" tokens="PASS:15,I,1,* BRUP:14"
+      text="Braden Corpus pass incomplete to Cam Livingston (Decoud, Treston)." newcontext="V,2,10,V27">
+    <p_pa vh="V" qb="Braden Corpus" result="INC" rcv="Cam Livingston"></p_pa>
+    <p_bu vh="H" name="Decoud, Treston"></p_bu>
+   </play>
+   <play hasball="WEBER" down="2" togo="10" spot="WEBER27" context="V,2,10,V27" playid="1,2,4" type="R" first="R" tokens="RUSH:13,V44, TACK:4"
+      text="Eric Wilkes rush for 17 yards to the WEBER44, 1ST DOWN WEBER (Strong, Justin)." newcontext="V,1,10,V44">
+    <p_ru vh="V" name="Eric Wilkes" gain="17"></p_ru>
+    <p_tk vh="H" name="Strong, Justin"></p_tk>
+   </play>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER44" context="V,1,10,V44" playid="1,3,5" type="R" tokens="RUSH:10,V48, TACK:35"
+      text="Jadrian Clark rush for 4 yards to the WEBER48 (Saulo, Caleb)." newcontext="V,2,6,V48">
+    <p_ru vh="V" name="Jadrian Clark" gain="4"></p_ru>
+    <p_tk vh="H" name="Saulo, Caleb"></p_tk>
+   </play>
+   <play hasball="WEBER" down="2" togo="6" spot="WEBER48" context="V,2,6,V48" playid="1,4,6" type="P" tokens="PASS:10,F,TM,V46 SACK:8 FUMB:V,V46,35 +:35,V49 TACK:59"
+      text="Jadrian Clark sacked for loss of 2 yards to the WEBER46 (Mageo, Rommel), fumble by Jadrian Clark recovered by WEBER Cory Thomson at WEBER46, Cory Thomson for 3 yards to the WEBER49 (Barnett, L.)." newcontext="V,3,5,V49">
+    <p_pa vh="V" qb="Jadrian Clark" result="FUMB" gain="-2"></p_pa>
+    <p_fumb vh="V" name="Jadrian Clark" at="V46" frvh="V" frname="Cory Thomson"></p_fumb>
+    <p_cont vh="V" name="Cory Thomson" context="RUSH" at="V46" gain="3"></p_cont>
+    <p_tk vh="H" name="Mageo, Rommel" sack="Y"></p_tk>
+    <p_tk vh="H" name="Barnett, L."></p_tk>
+   </play>
+   <play hasball="WEBER" down="3" togo="5" spot="WEBER49" context="V,3,5,V49" playid="1,5,7" type="P" tokens="PASS:10,I,TM,* BRUP:99"
+      text="Jadrian Clark pass incomplete (Peko, Kyle)." newcontext="V,4,5,V49">
+    <p_pa vh="V" qb="Jadrian Clark" result="INC"></p_pa>
+    <p_bu vh="H" name="Peko, Kyle"></p_bu>
+   </play>
+   <play hasball="WEBER" down="4" togo="5" spot="WEBER49" context="V,4,5,V49" playid="1,6,8" type="U" tokens="PUNT:36,H08 RET:88,H09 TACK:43"
+      text="Josh Kealamakia punt 43 yards to the ORSU8, Dockery, Rahmel return 1 yards to the ORSU9 (Grant Garry)." newcontext="H,1,10,H09">
+    <p_pu vh="V" name="Josh Kealamakia" gain="43" in20="Y"></p_pu>
+    <p_pr vh="H" name="Dockery, Rahmel" gain="1"></p_pr>
+    <p_tk vh="V" name="Grant Garry"></p_tk>
+   </play>
+   <drivesum plays="5" yards="22" top="2:17" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="H,H09,12:43" vh="H" spot="H09" clock="12:43" driveindex="2,8"></drivestart>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU09" context="H,1,10,H09" playid="2,1,9" clock="12:43" tokens="{DRIVE}:12:43"
+      text="OREGON STATE drive start at 12:43." newcontext="H,1,10,H09">
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU09" context="H,1,10,H09" playid="2,2,10" type="R" first="R" tokens="RUSH:0D,H26, TACK:7"
+      text="Collins, Seth rush for 17 yards to the ORSU26, 1ST DOWN ORSU (Josh Burton)." newcontext="H,1,10,H26">
+    <p_ru vh="H" name="Collins, Seth" gain="17"></p_ru>
+    <p_tk vh="V" name="Josh Burton"></p_tk>
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU26" context="H,1,10,H26" playid="2,3,11" type="R" tokens="RUSH:24,H31, OB: TACK:54"
+      text="Woods,Storm rush for 5 yards to the ORSU31, out-of-bounds (Liljenquist, K.)." ob="Y" newcontext="H,2,5,H31">
+    <p_ru vh="H" name="Woods,Storm" gain="5"></p_ru>
+    <p_tk vh="V" name="Liljenquist, K."></p_tk>
+   </play>
+   <play hasball="ORSU" down="2" togo="5" spot="ORSU31" context="H,2,5,H31" playid="2,4,12" type="P" first="E" tokens="PASS:0D,C,83,H31 TACK:8 PEN:V,PF,A,7,H46,1"
+      text="Collins, Seth pass complete to Clute, Kellen for no gain to the ORSU31 (Emmett Tela), PENALTY WEBER personal foul (Josh Burton) 15 yards to the ORSU46, 1ST DOWN ORSU." newcontext="H,1,10,H46">
+    <p_pa vh="H" qb="Collins, Seth" result="COMP" rcv="Clute, Kellen" gain="0"></p_pa>
+    <p_tk vh="V" name="Emmett Tela"></p_tk>
+    <p_pn vh="V" code="PF" type="personal foul" name="Josh Burton" result="ACCEPT" at="H31" yards="15"></p_pn>
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU46" context="H,1,10,H46" playid="2,5,13" tokens="D:1,10"
+      text="1st and 10." newcontext="H,1,10,H46">
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU46" context="H,1,10,H46" playid="2,6,14" type="R" tokens="RUSH:24,H48, TACK:25"
+      text="Woods,Storm rush for 2 yards to the ORSU48 (Jared Afalava)." newcontext="H,2,8,H48">
+    <p_ru vh="H" name="Woods,Storm" gain="2"></p_ru>
+    <p_tk vh="V" name="Jared Afalava"></p_tk>
+   </play>
+   <play hasball="ORSU" down="2" togo="8" spot="ORSU48" context="H,2,8,H48" playid="2,7,15" type="P" tokens="PASS:0D,I,13,*"
+      text="Collins, Seth pass incomplete to Villamin, J.." newcontext="H,3,8,H48">
+    <p_pa vh="H" qb="Collins, Seth" result="INC" rcv="Villamin, J."></p_pa>
+   </play>
+   <play hasball="ORSU" down="3" togo="8" spot="ORSU48" context="H,3,8,H48" playid="2,8,16" type="P" tokens="PASS:0D,C,6,H44 TACK:22,40"
+      text="Collins, Seth pass complete to Bolden,Victor for loss of 4 yards to the ORSU44 (Xequille Harry;Vince Coleman)." newcontext="H,4,12,H44">
+    <p_pa vh="H" qb="Collins, Seth" result="COMP" rcv="Bolden,Victor" gain="-4"></p_pa>
+    <p_tk vh="V" name="Xequille Harry" assist="Y"></p_tk>
+    <p_tk vh="V" name="Vince Coleman" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORSU" down="4" togo="12" spot="ORSU44" context="H,4,12,H44" playid="2,9,17" type="U" tokens="PUNT:31,V15 DN:"
+      text="Porebski, Nick punt 41 yards to the WEBER15, downed." newcontext="V,1,10,V15">
+    <p_pu vh="H" name="Porebski, Nick" gain="41" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="35" top="2:51" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="V,V15,09:52" vh="V" spot="V15" clock="09:52" driveindex="3,17"></drivestart>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER15" context="V,1,10,V15" playid="3,1,18" clock="09:52" tokens="{DRIVE}:09:52"
+      text="WEBER STATE drive start at 09:52." newcontext="V,1,10,V15">
+   </play>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER15" context="V,1,10,V15" playid="3,2,19" type="R" tokens="RUSH:13,V18, TACK:14,8"
+      text="Eric Wilkes rush for 3 yards to the WEBER18 (Decoud, Treston;Mageo, Rommel)." newcontext="V,2,7,V18">
+    <p_ru vh="V" name="Eric Wilkes" gain="3"></p_ru>
+    <p_tk vh="H" name="Decoud, Treston" assist="Y"></p_tk>
+    <p_tk vh="H" name="Mageo, Rommel" assist="Y"></p_tk>
+   </play>
+   <play hasball="WEBER" down="2" togo="7" spot="WEBER18" context="V,2,7,V18" playid="3,3,20" type="R" tokens="RUSH:13,V22, TACK:4"
+      text="Eric Wilkes rush for 4 yards to the WEBER22 (Strong, Justin)." newcontext="V,3,3,V22">
+    <p_ru vh="V" name="Eric Wilkes" gain="4"></p_ru>
+    <p_tk vh="H" name="Strong, Justin"></p_tk>
+   </play>
+   <play hasball="WEBER" down="3" togo="3" spot="WEBER22" context="V,3,3,V22" playid="3,4,21" type="P" tokens="PASS:10,C,13,V24 TACK:35"
+      text="Jadrian Clark pass complete to Eric Wilkes for 2 yards to the WEBER24 (Saulo, Caleb)." newcontext="V,4,1,V24">
+    <p_pa vh="V" qb="Jadrian Clark" result="COMP" rcv="Eric Wilkes" gain="2"></p_pa>
+    <p_tk vh="H" name="Saulo, Caleb"></p_tk>
+   </play>
+   <play hasball="WEBER" down="4" togo="1" spot="WEBER24" context="V,4,1,V24" playid="3,5,22" type="U" tokens="PUNT:36,H27 RET:88,H28 TACK:5"
+      text="Josh Kealamakia punt 49 yards to the ORSU27, Dockery, Rahmel return 1 yards to the ORSU28 (Devonte Johnson)." newcontext="H,1,10,H28">
+    <p_pu vh="V" name="Josh Kealamakia" gain="49"></p_pu>
+    <p_pr vh="H" name="Dockery, Rahmel" gain="1"></p_pr>
+    <p_tk vh="V" name="Devonte Johnson"></p_tk>
+   </play>
+   <drivesum plays="3" yards="9" top="2:00" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="H,H28,07:52" vh="H" spot="H28" clock="07:52" driveindex="4,22"></drivestart>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU28" context="H,1,10,H28" playid="4,1,23" clock="07:52" tokens="{DRIVE}:07:52"
+      text="OREGON STATE drive start at 07:52." newcontext="H,1,10,H28">
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU28" context="H,1,10,H28" playid="4,2,24" type="E" first="E" tokens="RUSH:6,H24, TACK:23 PEN:V,PF,A,23,H43,1 NOPLAY:"
+      text="Bolden,Victor rush for loss of 4 yards to the ORSU24 (Tre'von Johnson), PENALTY WEBER personal foul (Tre'von Johnson) 15 yards to the ORSU43, 1ST DOWN ORSU, NO PLAY." newcontext="H,1,10,H43">
+    <p_pn vh="V" code="PF" type="personal foul" name="Tre'von Johnson" result="ACCEPT" at="H28" yards="15"></p_pn>
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU43" context="H,1,10,H43" playid="4,3,25" type="R" tokens="RUSH:0D,V48, TACK:17,21"
+      text="Collins, Seth rush for 9 yards to the WEBER48 (Alema Key;Taron Johnson)." newcontext="H,2,1,V48">
+    <p_ru vh="H" name="Collins, Seth" gain="9"></p_ru>
+    <p_tk vh="V" name="Alema Key" assist="Y"></p_tk>
+    <p_tk vh="V" name="Taron Johnson" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORSU" down="2" togo="1" spot="WEBER48" context="H,2,1,V48" playid="4,4,26" type="R" first="R" tokens="RUSH:0D,V46, TACK:42,37"
+      text="Collins, Seth rush for 2 yards to the WEBER46, 1ST DOWN ORSU (Jon Carlson;Mitch Tulane)." newcontext="H,1,10,V46">
+    <p_ru vh="H" name="Collins, Seth" gain="2"></p_ru>
+    <p_tk vh="V" name="Jon Carlson" assist="Y"></p_tk>
+    <p_tk vh="V" name="Mitch Tulane" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="WEBER46" context="H,1,10,V46" playid="4,5,27" type="R" tokens="RUSH:24,V42, TACK:54,96"
+      text="Woods,Storm rush for 4 yards to the WEBER42 (Liljenquist, K.;Iosua Opeta)." newcontext="H,2,6,V42">
+    <p_ru vh="H" name="Woods,Storm" gain="4"></p_ru>
+    <p_tk vh="V" name="Liljenquist, K." assist="Y"></p_tk>
+    <p_tk vh="V" name="Iosua Opeta" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORSU" down="2" togo="6" spot="WEBER42" context="H,2,6,V42" playid="4,6,28" type="R" tokens="RUSH:34,V41, TACK:54,37"
+      text="Nall, Ryan rush for 1 yard to the WEBER41 (Liljenquist, K.;Mitch Tulane)." newcontext="H,3,5,V41">
+    <p_ru vh="H" name="Nall, Ryan" gain="1"></p_ru>
+    <p_tk vh="V" name="Liljenquist, K." assist="Y"></p_tk>
+    <p_tk vh="V" name="Mitch Tulane" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORSU" down="3" togo="5" spot="WEBER41" context="H,3,5,V41" playid="4,7,29" type="P" first="P" tokens="PASS:0D,C,24,V30 OB: TACK:40"
+      text="Collins, Seth pass complete to Woods,Storm for 11 yards to the WEBER30, 1ST DOWN ORSU, out-of-bounds (Vince Coleman)." ob="Y" newcontext="H,1,10,V30">
+    <p_pa vh="H" qb="Collins, Seth" result="COMP" rcv="Woods,Storm" gain="11"></p_pa>
+    <p_tk vh="V" name="Vince Coleman"></p_tk>
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="WEBER30" context="H,1,10,V30" playid="4,8,30" type="P" tokens="PASS:0D,I,24,* BRUP:23"
+      text="Collins, Seth pass incomplete to Woods,Storm (Tre'von Johnson)." newcontext="H,2,10,V30">
+    <p_pa vh="H" qb="Collins, Seth" result="INC" rcv="Woods,Storm"></p_pa>
+    <p_bu vh="V" name="Tre'von Johnson"></p_bu>
+   </play>
+   <play hasball="ORSU" down="2" togo="10" spot="WEBER30" context="H,2,10,V30" playid="4,9,31" type="R" tokens="RUSH:1,V29, TACK:23"
+      text="Brown, Chris rush for 1 yard to the WEBER29 (Tre'von Johnson)." newcontext="H,3,9,V29">
+    <p_ru vh="H" name="Brown, Chris" gain="1"></p_ru>
+    <p_tk vh="V" name="Tre'von Johnson"></p_tk>
+   </play>
+   <play hasball="ORSU" down="3" togo="9" spot="WEBER29" context="H,3,9,V29" playid="4,10,32" type="P" tokens="PASS:0D,C,13,V21 TACK:21"
+      text="Collins, Seth pass complete to Villamin, J. for 8 yards to the WEBER21 (Taron Johnson)." newcontext="H,4,1,V21">
+    <p_pa vh="H" qb="Collins, Seth" result="COMP" rcv="Villamin, J." gain="8"></p_pa>
+    <p_tk vh="V" name="Taron Johnson"></p_tk>
+   </play>
+   <comment text="previous play is under review; ball spotted short of first down"></comment>
+   <play hasball="ORSU" down="4" togo="1" spot="WEBER21" context="H,4,1,V21" playid="4,11,34" type="R" tokens="RUSH:24,V21, TACK:54,8"
+      text="Woods,Storm rush for no gain to the WEBER21 (Liljenquist, K.;Emmett Tela)." newcontext="V,1,10,V21">
+    <p_ru vh="H" name="Woods,Storm" gain="0"></p_ru>
+    <p_tk vh="V" name="Liljenquist, K." assist="Y"></p_tk>
+    <p_tk vh="V" name="Emmett Tela" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="9" yards="51" top="4:09" driveindex="4" complete="Y"></drivesum>
+   <drivestart poss="V,V21,03:43" vh="V" spot="V21" clock="03:43" driveindex="5,34"></drivestart>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER21" context="V,1,10,V21" playid="5,1,35" clock="03:43" tokens="{DRIVE}:03:43"
+      text="WEBER STATE drive start at 03:43." newcontext="V,1,10,V21">
+   </play>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER21" context="V,1,10,V21" playid="5,2,36" type="P" tokens="PASS:10,I,6,*"
+      text="Jadrian Clark pass incomplete to Drew Batchelor." newcontext="V,2,10,V21">
+    <p_pa vh="V" qb="Jadrian Clark" result="INC" rcv="Drew Batchelor"></p_pa>
+   </play>
+   <play hasball="WEBER" down="2" togo="10" spot="WEBER21" context="V,2,10,V21" playid="5,3,37" type="R" first="R" tokens="RUSH:10,V32, TACK:35,99"
+      text="Jadrian Clark rush for 11 yards to the WEBER32, 1ST DOWN WEBER (Saulo, Caleb;Peko, Kyle)." newcontext="V,1,10,V32">
+    <p_ru vh="V" name="Jadrian Clark" gain="11"></p_ru>
+    <p_tk vh="H" name="Saulo, Caleb" assist="Y"></p_tk>
+    <p_tk vh="H" name="Peko, Kyle" assist="Y"></p_tk>
+   </play>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER32" context="V,1,10,V32" playid="5,4,38" type="R" tokens="RUSH:3,V32, TACK:8,15"
+      text="Darryl Denby rush for no gain to the WEBER32 (Mageo, Rommel;Scott, Larry)." newcontext="V,2,10,V32">
+    <p_ru vh="V" name="Darryl Denby" gain="0"></p_ru>
+    <p_tk vh="H" name="Mageo, Rommel" assist="Y"></p_tk>
+    <p_tk vh="H" name="Scott, Larry" assist="Y"></p_tk>
+   </play>
+   <play hasball="WEBER" down="2" togo="10" spot="WEBER32" context="V,2,10,V32" playid="5,5,39" type="E" tokens="PEN:V,FS,A,65,V27,N"
+      text="PENALTY WEBER false start (Baron Bruce) 5 yards to the WEBER27." newcontext="V,2,15,V27">
+    <p_pn vh="V" code="FS" type="false start" name="Baron Bruce" result="ACCEPT" at="V32" yards="5"></p_pn>
+   </play>
+   <play hasball="WEBER" down="2" togo="15" spot="WEBER27" context="V,2,15,V27" playid="5,6,40" type="P" tokens="PASS:10,C,15,V36 TACK:8"
+      text="Jadrian Clark pass complete to Braden Corpus for 9 yards to the WEBER36 (Mageo, Rommel)." newcontext="V,3,6,V36">
+    <p_pa vh="V" qb="Jadrian Clark" result="COMP" rcv="Braden Corpus" gain="9"></p_pa>
+    <p_tk vh="H" name="Mageo, Rommel"></p_tk>
+   </play>
+   <play hasball="WEBER" down="3" togo="6" spot="WEBER36" context="V,3,6,V36" playid="5,7,41" type="P" tokens="PASS:10,I,15,*"
+      text="Jadrian Clark pass incomplete to Braden Corpus." newcontext="V,4,6,V36">
+    <p_pa vh="V" qb="Jadrian Clark" result="INC" rcv="Braden Corpus"></p_pa>
+   </play>
+   <play hasball="WEBER" down="4" togo="6" spot="WEBER36" context="V,4,6,V36" playid="5,8,42" type="U" tokens="PUNT:36,H21 RET:88,H42 TACK:1"
+      text="Josh Kealamakia punt 43 yards to the ORSU21, Dockery, Rahmel return 21 yards to the ORSU42 (Cam Livingston)." newcontext="H,1,10,H42">
+    <p_pu vh="V" name="Josh Kealamakia" gain="43"></p_pu>
+    <p_pr vh="H" name="Dockery, Rahmel" gain="21"></p_pr>
+    <p_tk vh="V" name="Cam Livingston"></p_tk>
+   </play>
+   <drivesum plays="5" yards="15" top="2:35" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="H,H42,01:08" vh="H" spot="H42" clock="01:08" driveindex="6,42"></drivestart>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU42" context="H,1,10,H42" playid="6,1,43" clock="01:08" tokens="{DRIVE}:01:08"
+      text="OREGON STATE drive start at 01:08." newcontext="H,1,10,H42">
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU42" context="H,1,10,H42" playid="6,2,44" tokens="QB:H,0C"
+      text="McMaryion, M. at QB for Oregon State." newcontext="H,1,10,H42">
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU42" context="H,1,10,H42" playid="6,3,45" type="P" tokens="PASS:0C,C,13,H50 TACK:23"
+      text="McMaryion, M. pass complete to Villamin, J. for 8 yards to the 50 yardline (Tre'von Johnson)." newcontext="H,2,2,H50">
+    <p_pa vh="H" qb="McMaryion, M." result="COMP" rcv="Villamin, J." gain="8"></p_pa>
+    <p_tk vh="V" name="Tre'von Johnson"></p_tk>
+   </play>
+   <play hasball="ORSU" down="2" togo="2" spot="ORSU50" context="H,2,2,H50" playid="6,4,46" type="R" tokens="RUSH:1,H50, TACK:54,25"
+      text="Brown, Chris rush for no gain to the 50 yardline (Liljenquist, K.;Jared Afalava)." newcontext="H,3,2,H50">
+    <p_ru vh="H" name="Brown, Chris" gain="0"></p_ru>
+    <p_tk vh="V" name="Liljenquist, K." assist="Y"></p_tk>
+    <p_tk vh="V" name="Jared Afalava" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORSU" down="3" togo="2" spot="ORSU50" context="H,3,2,H50" playid="6,5,47" type="P" tokens="PASS:0C,I,13,* BRUP:5"
+      text="McMaryion, M. pass incomplete to Villamin, J. (Devonte Johnson)." newcontext="H,4,2,H50">
+    <p_pa vh="H" qb="McMaryion, M." result="INC" rcv="Villamin, J."></p_pa>
+    <p_bu vh="V" name="Devonte Johnson"></p_bu>
+   </play>
+   <play hasball="ORSU" down="4" togo="2" spot="ORSU50" context="H,4,2,H50" playid="6,6,48" type="U" tokens="PUNT:31,V17 FC:3"
+      text="Porebski, Nick punt 33 yards to the WEBER17, fair catch by Darryl Denby." newcontext="V,1,10,V17">
+    <p_pu vh="H" name="Porebski, Nick" gain="33" in20="Y" fc="Darryl Denby"></p_pu>
+   </play>
+   <drivesum plays="3" yards="8" top="1:08" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="V,V17,00:00" vh="V" spot="V17" clock="00:00" driveindex="7,48"></drivestart>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER17" context="V,1,10,V17" playid="7,1,49" clock="00:00" tokens="{DRIVE}:00:00"
+      text="WEBER STATE drive start at 00:00." newcontext="V,1,10,V17">
+   </play>
+   <score qtr="1" V="0" H="0"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="WEBER">
+    <firstdowns no="2" rush="2" pass="0" penalty="0"></firstdowns>
+    <penalties no="3" yds="35"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="06:52"></misc>
+    <rush att="7" yds="40" gain="42" loss="2" td="0" long="17"></rush>
+    <pass comp="2" att="6" int="0" yds="11" td="0" long="9" sacks="1" sackyds="2"></pass>
+    <rcv no="2" yds="11" td="0" long="9"></rcv>
+    <punt no="3" yds="135" long="49" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="45.0"></punt>
+    <defense tackua="11" tacka="14" tot_tack="25" tflua="0" tfla="2" tflyds="4" sacks="0" sackyds="0" brup="2"></defense>
+    <kr no="1" yds="14" td="0" long="14"></kr>
+    <fumbles no="1" lost="0"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ORSU">
+    <firstdowns no="5" rush="2" pass="1" penalty="2"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:08"></misc>
+    <rush att="10" yds="41" gain="41" loss="0" td="0" long="17"></rush>
+    <pass comp="5" att="8" int="0" yds="23" td="0" long="11" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="23" td="0" long="11"></rcv>
+    <punt no="2" yds="74" long="41" blkd="0" tb="0" fc="1" plus50="0" inside20="2" avg="37.0"></punt>
+    <ko no="1" yds="52" ob="0" tb="0"></ko>
+    <defense tackua="8" tacka="6" tot_tack="14" tflua="1" tfla="0" tflyds="2" sacks="1" sackyds="2" brup="2" ff="1"></defense>
+    <pr no="3" yds="23" td="0" long="21"></pr>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER17" context="V,1,10,V17" playid="7,2,50" type="#" clock="15:00" tokens="Q:2 T:15:00"
+      text="Start of 2nd quarter, clock 15:00." newcontext="V,1,10,V17">
+   </play>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER17" context="V,1,10,V17" playid="7,3,51" type="R" tokens="RUSH:26,V23, TACK:17"
+      text="T. Garrett rush for 6 yards to the WEBER23 (Noland-Lewis, C)." newcontext="V,2,4,V23">
+    <p_ru vh="V" name="T. Garrett" gain="6"></p_ru>
+    <p_tk vh="H" name="Noland-Lewis, C"></p_tk>
+   </play>
+   <play hasball="WEBER" down="2" togo="4" spot="WEBER23" context="V,2,4,V23" playid="7,4,52" type="P" tokens="PASS:10,C,3,V16 TACK:47"
+      text="Jadrian Clark pass complete to Darryl Denby for loss of 7 yards to the WEBER16 (Ugwoegbu, B.)." newcontext="V,3,11,V16">
+    <p_pa vh="V" qb="Jadrian Clark" result="COMP" rcv="Darryl Denby" gain="-7"></p_pa>
+    <p_tk vh="H" name="Ugwoegbu, B."></p_tk>
+   </play>
+   <play hasball="WEBER" down="3" togo="11" spot="WEBER16" context="V,3,11,V16" playid="7,5,53" type="P" tokens="PASS:10,C,26,V20 TACK:14"
+      text="Jadrian Clark pass complete to T. Garrett for 4 yards to the WEBER20 (Decoud, Treston)." newcontext="V,4,7,V20">
+    <p_pa vh="V" qb="Jadrian Clark" result="COMP" rcv="T. Garrett" gain="4"></p_pa>
+    <p_tk vh="H" name="Decoud, Treston"></p_tk>
+   </play>
+   <play hasball="WEBER" down="4" togo="7" spot="WEBER20" context="V,4,7,V20" playid="7,6,54" type="U" tokens="PUNT:36,V45 OB:"
+      text="Josh Kealamakia punt 25 yards to the WEBER45, out-of-bounds." ob="Y" newcontext="H,1,10,V45">
+    <p_pu vh="V" name="Josh Kealamakia" gain="25" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="3" top="1:59" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="H,V45,13:01" vh="H" spot="V45" clock="13:01" driveindex="8,54"></drivestart>
+   <play hasball="ORSU" down="1" togo="10" spot="WEBER45" context="H,1,10,V45" playid="8,1,55" clock="13:01" tokens="{DRIVE}:13:01"
+      text="OREGON STATE drive start at 13:01." newcontext="H,1,10,V45">
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="WEBER45" context="H,1,10,V45" playid="8,2,56" type="R" tokens="RUSH:1,V44, TACK:99,54"
+      text="Brown, Chris rush for 1 yard to the WEBER44 (Filipe Sitake;Liljenquist, K.)." newcontext="H,2,9,V44">
+    <p_ru vh="H" name="Brown, Chris" gain="1"></p_ru>
+    <p_tk vh="V" name="Filipe Sitake" assist="Y"></p_tk>
+    <p_tk vh="V" name="Liljenquist, K." assist="Y"></p_tk>
+   </play>
+   <play hasball="ORSU" down="2" togo="9" spot="WEBER44" context="H,2,9,V44" playid="8,3,57" type="P" first="P" tokens="PASS:0C,C,13,V34 OB: TACK:37"
+      text="McMaryion, M. pass complete to Villamin, J. for 10 yards to the WEBER34, 1ST DOWN ORSU, out-of-bounds (Mitch Tulane)." ob="Y" newcontext="H,1,10,V34">
+    <p_pa vh="H" qb="McMaryion, M." result="COMP" rcv="Villamin, J." gain="10"></p_pa>
+    <p_tk vh="V" name="Mitch Tulane"></p_tk>
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="WEBER34" context="H,1,10,V34" playid="8,4,58" type="E" first="E" tokens="PASS:0C,I,6,* PEN:V,PI,A,5,V19,1 NOPLAY:"
+      text="McMaryion, M. pass incomplete to Bolden,Victor, PENALTY WEBER pass interference (Devonte Johnson) 15 yards to the WEBER19, 1ST DOWN ORSU, NO PLAY." newcontext="H,1,10,V19">
+    <p_pn vh="V" code="PI" type="pass interference" name="Devonte Johnson" result="ACCEPT" at="V34" yards="15"></p_pn>
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="WEBER19" context="H,1,10,V19" playid="8,5,59" type="E" tokens="PEN:H,FS,A,56,V24,N"
+      text="PENALTY ORSU false start (Seumalo, Isaac) 5 yards to the WEBER24." newcontext="H,1,15,V24">
+    <p_pn vh="H" code="FS" type="false start" name="Seumalo, Isaac" result="ACCEPT" at="V19" yards="5"></p_pn>
+   </play>
+   <play hasball="ORSU" down="1" togo="15" spot="WEBER24" context="H,1,15,V24" playid="8,6,60" type="R" tokens="RUSH:1,V20, TACK:23"
+      text="Brown, Chris rush for 4 yards to the WEBER20 (Tre'von Johnson)." newcontext="H,2,11,V20">
+    <p_ru vh="H" name="Brown, Chris" gain="4"></p_ru>
+    <p_tk vh="V" name="Tre'von Johnson"></p_tk>
+   </play>
+   <play hasball="ORSU" down="2" togo="11" spot="WEBER20" context="H,2,11,V20" playid="8,7,61" type="R" tokens="RUSH:6,V16, TACK:37"
+      text="Bolden,Victor rush for 4 yards to the WEBER16 (Mitch Tulane)." newcontext="H,3,7,V16">
+    <p_ru vh="H" name="Bolden,Victor" gain="4"></p_ru>
+    <p_tk vh="V" name="Mitch Tulane"></p_tk>
+   </play>
+   <play hasball="ORSU" down="3" togo="7" spot="WEBER16" context="H,3,7,V16" playid="8,8,62" type="R" tokens="RUSH:0C,V12, OB: TACK:7"
+      text="McMaryion, M. rush for 4 yards to the WEBER12, out-of-bounds (Josh Burton)." ob="Y" newcontext="H,4,3,V12">
+    <p_ru vh="H" name="McMaryion, M." gain="4"></p_ru>
+    <p_tk vh="V" name="Josh Burton"></p_tk>
+   </play>
+   <play hasball="ORSU" down="4" togo="3" spot="WEBER12" context="H,4,3,V12" playid="8,9,63" type="F" score="Y" vscore="0" hscore="3" clock="10:22" tokens="FGA:2A,30,G T:10:22"
+      text="Owens, Garrett field goal attempt from 30 GOOD, clock 10:22." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="Owens, Garrett" distance="30" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="0" H="3"></score>
+   <drivesum plays="6" yards="33" top="2:39" driveindex="8" complete="Y"></drivesum>
+   <play hasball="ORSU" down="1" togo="0" spot="ORSU35" context="H,1,0,H35" playid="8,10,64" type="K" tokens="KO:2A,V00 RET:6,V19 TACK:32"
+      text="Owens, Garrett kickoff 65 yards to the WEBER0, Drew Batchelor return 19 yards to the WEBER19 (Willis, J.)." newcontext="V,1,10,V19">
+    <p_ko vh="H" name="Owens, Garrett" gain="65"></p_ko>
+    <p_kr vh="V" name="Drew Batchelor" gain="19"></p_kr>
+    <p_tk vh="H" name="Willis, J."></p_tk>
+   </play>
+   <drivestart poss="V,V19,10:16" vh="V" spot="V19" clock="10:16" driveindex="9,64"></drivestart>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER19" context="V,1,10,V19" playid="9,1,65" clock="10:16" tokens="{DRIVE}:10:16"
+      text="WEBER STATE drive start at 10:16." newcontext="V,1,10,V19">
+   </play>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER19" context="V,1,10,V19" playid="9,2,66" type="R" tokens="RUSH:13,V22, TACK:59,99"
+      text="Eric Wilkes rush for 3 yards to the WEBER22 (Barnett, L.;Peko, Kyle)." newcontext="V,2,7,V22">
+    <p_ru vh="V" name="Eric Wilkes" gain="3"></p_ru>
+    <p_tk vh="H" name="Barnett, L." assist="Y"></p_tk>
+    <p_tk vh="H" name="Peko, Kyle" assist="Y"></p_tk>
+   </play>
+   <play hasball="WEBER" down="2" togo="7" spot="WEBER22" context="V,2,7,V22" playid="9,3,67" type="P" tokens="PASS:10,I,3,* BRUP:15"
+      text="Jadrian Clark pass incomplete to Darryl Denby (Scott, Larry)." newcontext="V,3,7,V22">
+    <p_pa vh="V" qb="Jadrian Clark" result="INC" rcv="Darryl Denby"></p_pa>
+    <p_bu vh="H" name="Scott, Larry"></p_bu>
+   </play>
+   <play hasball="WEBER" down="3" togo="7" spot="WEBER22" context="V,3,7,V22" playid="9,4,68" type="P" tokens="PASS:10,I,6,*"
+      text="Jadrian Clark pass incomplete to Drew Batchelor." newcontext="V,4,7,V22">
+    <p_pa vh="V" qb="Jadrian Clark" result="INC" rcv="Drew Batchelor"></p_pa>
+   </play>
+   <play hasball="WEBER" down="4" togo="7" spot="WEBER22" context="V,4,7,V22" playid="9,5,69" type="U" tokens="PUNT:36,H35 FC:88"
+      text="Josh Kealamakia punt 43 yards to the ORSU35, fair catch by Dockery, Rahmel." newcontext="H,1,10,H35">
+    <p_pu vh="V" name="Josh Kealamakia" gain="43" fc="Dockery, Rahmel"></p_pu>
+   </play>
+   <drivesum plays="3" yards="3" top="1:05" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="H,H35,09:11" vh="H" spot="H35" clock="09:11" driveindex="10,69"></drivestart>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU35" context="H,1,10,H35" playid="10,1,70" clock="09:11" tokens="{DRIVE}:09:11"
+      text="OREGON STATE drive start at 09:11." newcontext="H,1,10,H35">
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU35" context="H,1,10,H35" playid="10,2,71" tokens="QB:H,0D"
+      text="Collins, Seth at QB for Oregon State." newcontext="H,1,10,H35">
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU35" context="H,1,10,H35" playid="10,3,72" type="R" first="R" tokens="RUSH:0D,V41, OB: TACK:23 PEN:H,HO,A,13,H49,N"
+      text="Collins, Seth rush for 24 yards to the WEBER41, 1ST DOWN ORSU, out-of-bounds (Tre'von Johnson), PENALTY ORSU holding (Villamin, J.) 10 yards to the ORSU49." ob="Y" newcontext="H,1,20,H49">
+    <p_ru vh="H" name="Collins, Seth" gain="24"></p_ru>
+    <p_tk vh="V" name="Tre'von Johnson"></p_tk>
+    <p_pn vh="H" code="HO" type="holding" name="Villamin, J." result="ACCEPT" at="V41" yards="10"></p_pn>
+   </play>
+   <play hasball="ORSU" down="1" togo="20" spot="ORSU49" context="H,1,20,H49" playid="10,4,73" tokens="D:1,10"
+      text="1st and 10." newcontext="H,1,10,H49">
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU49" context="H,1,10,H49" playid="10,5,74" type="R" tokens="RUSH:0D,V46, OB: TACK:42"
+      text="Collins, Seth rush for 5 yards to the WEBER46, out-of-bounds (Jon Carlson)." ob="Y" newcontext="H,2,5,V46">
+    <p_ru vh="H" name="Collins, Seth" gain="5"></p_ru>
+    <p_tk vh="V" name="Jon Carlson"></p_tk>
+   </play>
+   <play hasball="ORSU" down="2" togo="5" spot="WEBER46" context="H,2,5,V46" playid="10,6,75" type="R" first="R" tokens="RUSH:24,V39, TACK:23,37"
+      text="Woods,Storm rush for 7 yards to the WEBER39, 1ST DOWN ORSU (Tre'von Johnson;Mitch Tulane)." newcontext="H,1,10,V39">
+    <p_ru vh="H" name="Woods,Storm" gain="7"></p_ru>
+    <p_tk vh="V" name="Tre'von Johnson" assist="Y"></p_tk>
+    <p_tk vh="V" name="Mitch Tulane" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="WEBER39" context="H,1,10,V39" playid="10,7,76" type="R" tokens="RUSH:24,V34, TACK:8"
+      text="Woods,Storm rush for 5 yards to the WEBER34 (Emmett Tela)." newcontext="H,2,5,V34">
+    <p_ru vh="H" name="Woods,Storm" gain="5"></p_ru>
+    <p_tk vh="V" name="Emmett Tela"></p_tk>
+   </play>
+   <play hasball="ORSU" down="2" togo="5" spot="WEBER34" context="H,2,5,V34" playid="10,8,77" type="R" tokens="RUSH:24,V32, TACK:42,8"
+      text="Woods,Storm rush for 2 yards to the WEBER32 (Jon Carlson;Emmett Tela)." newcontext="H,3,3,V32">
+    <p_ru vh="H" name="Woods,Storm" gain="2"></p_ru>
+    <p_tk vh="V" name="Jon Carlson" assist="Y"></p_tk>
+    <p_tk vh="V" name="Emmett Tela" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORSU" down="3" togo="3" spot="WEBER32" context="H,3,3,V32" playid="10,9,78" type="E" tokens="RUSH:24,V24, TACK:8 PEN:H,HO,A,74,V42,N NOPLAY:"
+      text="Woods,Storm rush for 8 yards to the WEBER24 (Emmett Tela), PENALTY ORSU holding (Stanton, Dustin) 10 yards to the WEBER42, NO PLAY." newcontext="H,3,13,V42">
+    <p_pn vh="H" code="HO" type="holding" name="Stanton, Dustin" result="ACCEPT" at="V32" yards="10"></p_pn>
+   </play>
+   <play hasball="ORSU" down="3" togo="13" spot="WEBER42" context="H,3,13,V42" playid="10,10,79" type="P" tokens="PASS:0D,S,TM,H48 SACK:5"
+      text="Collins, Seth sacked for loss of 10 yards to the ORSU48 (Devonte Johnson)." newcontext="H,4,23,H48">
+    <p_pa vh="H" qb="Collins, Seth" result="SACK" gain="-10"></p_pa>
+    <p_tk vh="V" name="Devonte Johnson" sack="Y"></p_tk>
+   </play>
+   <play hasball="ORSU" down="4" togo="23" spot="ORSU48" context="H,4,23,H48" playid="10,11,80" type="U" tokens="PUNT:31,V03 DN:"
+      text="Porebski, Nick punt 49 yards to the WEBER3, downed." newcontext="V,1,10,V03">
+    <p_pu vh="H" name="Porebski, Nick" gain="49" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="13" top="3:28" driveindex="10" complete="Y"></drivesum>
+   <drivestart poss="V,V03,05:43" vh="V" spot="V03" clock="05:43" driveindex="11,80"></drivestart>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER03" context="V,1,10,V03" playid="11,1,81" clock="05:43" tokens="{DRIVE}:05:43"
+      text="WEBER STATE drive start at 05:43." newcontext="V,1,10,V03">
+   </play>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER03" context="V,1,10,V03" playid="11,2,82" type="P" first="P" tokens="PASS:10,C,35,V18 OB: TACK:4"
+      text="Jadrian Clark pass complete to Cory Thomson for 15 yards to the WEBER18, 1ST DOWN WEBER, out-of-bounds (Strong, Justin)." ob="Y" newcontext="V,1,10,V18">
+    <p_pa vh="V" qb="Jadrian Clark" result="COMP" rcv="Cory Thomson" gain="15"></p_pa>
+    <p_tk vh="H" name="Strong, Justin"></p_tk>
+   </play>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER18" context="V,1,10,V18" playid="11,3,83" type="R" tokens="RUSH:13,V27, OB: TACK:3"
+      text="Eric Wilkes rush for 9 yards to the WEBER27, out-of-bounds (Arnold,Brandon)." ob="Y" newcontext="V,2,1,V27">
+    <p_ru vh="V" name="Eric Wilkes" gain="9"></p_ru>
+    <p_tk vh="H" name="Arnold,Brandon"></p_tk>
+   </play>
+   <play hasball="WEBER" down="2" togo="1" spot="WEBER27" context="V,2,1,V27" playid="11,4,84" type="R" tokens="RUSH:13,V27, TACK:99"
+      text="Eric Wilkes rush for no gain to the WEBER27 (Peko, Kyle)." newcontext="V,3,1,V27">
+    <p_ru vh="V" name="Eric Wilkes" gain="0"></p_ru>
+    <p_tk vh="H" name="Peko, Kyle"></p_tk>
+   </play>
+   <play hasball="WEBER" down="3" togo="1" spot="WEBER27" context="V,3,1,V27" playid="11,5,85" type="E" tokens="PEN:V,FS,A,87,V22,N"
+      text="PENALTY WEBER false start (Cody Eyolfson) 5 yards to the WEBER22." newcontext="V,3,6,V22">
+    <p_pn vh="V" code="FS" type="false start" name="Cody Eyolfson" result="ACCEPT" at="V27" yards="5"></p_pn>
+   </play>
+   <play hasball="WEBER" down="3" togo="6" spot="WEBER22" context="V,3,6,V22" playid="11,6,86" type="P" tokens="PASS:10,I,6,*"
+      text="Jadrian Clark pass incomplete to Drew Batchelor." newcontext="V,4,6,V22">
+    <p_pa vh="V" qb="Jadrian Clark" result="INC" rcv="Drew Batchelor"></p_pa>
+   </play>
+   <play hasball="WEBER" down="4" togo="6" spot="WEBER22" context="V,4,6,V22" playid="11,7,87" type="U" tokens="PUNT:36,H44 FC:88"
+      text="Josh Kealamakia punt 34 yards to the ORSU44, fair catch by Dockery, Rahmel." newcontext="H,1,10,H44">
+    <p_pu vh="V" name="Josh Kealamakia" gain="34" fc="Dockery, Rahmel"></p_pu>
+   </play>
+   <drivesum plays="4" yards="19" top="1:57" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="H,H44,03:46" vh="H" spot="H44" clock="03:46" driveindex="12,87"></drivestart>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU44" context="H,1,10,H44" playid="12,1,88" clock="03:46" tokens="{DRIVE}:03:46"
+      text="OREGON STATE drive start at 03:46." newcontext="H,1,10,H44">
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU44" context="H,1,10,H44" playid="12,2,89" type="E" first="E" tokens="PASS:0D,I,13,* PEN:V,PI,A,5,V41,1 NOPLAY:"
+      text="Collins, Seth pass incomplete to Villamin, J., PENALTY WEBER pass interference (Devonte Johnson) 15 yards to the WEBER41, 1ST DOWN ORSU, NO PLAY." newcontext="H,1,10,V41">
+    <p_pn vh="V" code="PI" type="pass interference" name="Devonte Johnson" result="ACCEPT" at="H44" yards="15"></p_pn>
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="WEBER41" context="H,1,10,V41" playid="12,3,90" type="R" tokens="RUSH:6,V41, OB: TACK:25,21"
+      text="Bolden,Victor rush for no gain to the WEBER41, out-of-bounds (Jared Afalava;Taron Johnson)." ob="Y" newcontext="H,2,10,V41">
+    <p_ru vh="H" name="Bolden,Victor" gain="0"></p_ru>
+    <p_tk vh="V" name="Jared Afalava" assist="Y"></p_tk>
+    <p_tk vh="V" name="Taron Johnson" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORSU" down="2" togo="10" spot="WEBER41" context="H,2,10,V41" playid="12,4,91" type="#" clock="02:57" tokens="TOUT:H T:02:57"
+      text="Timeout Oregon State, clock 02:57." newcontext="H,2,10,V41">
+    <p_to vh="H" team="Oregon State"></p_to>
+   </play>
+   <play hasball="ORSU" down="2" togo="10" spot="WEBER41" context="H,2,10,V41" playid="12,5,92" type="R" first="R" tokens="RUSH:0D,V30, TACK:21"
+      text="Collins, Seth rush for 11 yards to the WEBER30, 1ST DOWN ORSU (Taron Johnson)." newcontext="H,1,10,V30">
+    <p_ru vh="H" name="Collins, Seth" gain="11"></p_ru>
+    <p_tk vh="V" name="Taron Johnson"></p_tk>
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="WEBER30" context="H,1,10,V30" playid="12,6,93" type="P" tokens="PASS:0D,S,TM,V31 SACK:52"
+      text="Collins, Seth sacked for loss of 1 yard to the WEBER31 (R. Henderson)." newcontext="H,2,11,V31">
+    <p_pa vh="H" qb="Collins, Seth" result="SACK" gain="-1"></p_pa>
+    <p_tk vh="V" name="R. Henderson" sack="Y"></p_tk>
+   </play>
+   <play hasball="ORSU" down="2" togo="11" spot="WEBER31" context="H,2,11,V31" playid="12,7,94" type="R" tokens="RUSH:24,V23, TACK:7,42"
+      text="Woods,Storm rush for 8 yards to the WEBER23 (Josh Burton;Jon Carlson)." newcontext="H,3,3,V23">
+    <p_ru vh="H" name="Woods,Storm" gain="8"></p_ru>
+    <p_tk vh="V" name="Josh Burton" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jon Carlson" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORSU" down="3" togo="3" spot="WEBER23" context="H,3,3,V23" playid="12,8,95" type="R" tokens="RUSH:0D,V22, TACK:94"
+      text="Collins, Seth rush for 1 yard to the WEBER22 (Jalin Ames)." newcontext="H,4,2,V22">
+    <p_ru vh="H" name="Collins, Seth" gain="1"></p_ru>
+    <p_tk vh="V" name="Jalin Ames"></p_tk>
+   </play>
+   <play hasball="ORSU" down="4" togo="2" spot="WEBER22" context="H,4,2,V22" playid="12,9,96" type="F" score="Y" vscore="0" hscore="6" clock="00:48" tokens="FGA:2A,40,G T:00:48"
+      text="Owens, Garrett field goal attempt from 40 GOOD, clock 00:48." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="Owens, Garrett" distance="40" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="0" H="6"></score>
+   <drivesum plays="6" yards="34" top="2:58" driveindex="12" complete="Y"></drivesum>
+   <play hasball="ORSU" down="1" togo="0" spot="ORSU35" context="H,1,0,H35" playid="12,10,97" type="K" tokens="KO:2A,V00 RET:6,V21 TACK:32"
+      text="Owens, Garrett kickoff 65 yards to the WEBER0, Drew Batchelor return 21 yards to the WEBER21 (Willis, J.)." newcontext="V,1,10,V21">
+    <p_ko vh="H" name="Owens, Garrett" gain="65"></p_ko>
+    <p_kr vh="V" name="Drew Batchelor" gain="21"></p_kr>
+    <p_tk vh="H" name="Willis, J."></p_tk>
+   </play>
+   <drivestart poss="V,V21,00:43" vh="V" spot="V21" clock="00:43" driveindex="13,97"></drivestart>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER21" context="V,1,10,V21" playid="13,1,98" clock="00:43" tokens="{DRIVE}:00:43"
+      text="WEBER STATE drive start at 00:43." newcontext="V,1,10,V21">
+   </play>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER21" context="V,1,10,V21" playid="13,2,99" type="R" tokens="RUSH:26,V21, TACK:10"
+      text="T. Garrett rush for no gain to the WEBER21 (Grimble, Jalen)." newcontext="V,2,10,V21">
+    <p_ru vh="V" name="T. Garrett" gain="0"></p_ru>
+    <p_tk vh="H" name="Grimble, Jalen"></p_tk>
+   </play>
+   <play hasball="WEBER" down="2" togo="10" spot="WEBER21" context="V,2,10,V21" playid="13,3,100" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of half, clock 00:00." newcontext="V,2,10,V21">
+   </play>
+   <drivesum plays="1" yards="0" top="0:43" driveindex="13" complete="Y"></drivesum>
+   <score qtr="2" V="0" H="6"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="WEBER">
+    <firstdowns no="1" rush="0" pass="1" penalty="0"></firstdowns>
+    <penalties no="3" yds="35"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="05:55"></misc>
+    <rush att="5" yds="18" gain="18" loss="0" td="0" long="0"></rush>
+    <pass comp="3" att="6" int="0" yds="12" td="0" long="6" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="12" td="0" long="6"></rcv>
+    <punt no="3" yds="102" long="0" blkd="0" tb="0" fc="2" plus50="0" inside20="0" avg="34.0"></punt>
+    <defense tackua="11" tacka="10" tot_tack="21" tflua="2" tfla="0" tflyds="11" sacks="2" sackyds="11"></defense>
+    <kr no="2" yds="40" td="0" long="7"></kr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ORSU">
+    <firstdowns no="6" rush="3" pass="1" penalty="2"></firstdowns>
+    <penalties no="3" yds="25"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:05"></misc>
+    <rush att="15" yds="65" gain="76" loss="11" td="0" long="7"></rush>
+    <pass comp="1" att="1" int="0" yds="10" td="0" long="0" sacks="2" sackyds="11"></pass>
+    <rcv no="1" yds="10" td="0" long="0"></rcv>
+    <punt no="1" yds="49" long="8" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="49.0"></punt>
+    <ko no="2" yds="130" ob="0" tb="0"></ko>
+    <fg made="2" att="2" long="40" blkd="0"></fg>
+    <defense tackua="9" tacka="2" tot_tack="11" tflua="1" tfla="0" tflyds="7" sacks="0" sackyds="0" brup="1"></defense>
+    <scoring fg="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="WEBER" down="2" togo="10" spot="WEBER21" context="V,2,10,V21" playid="13,4,101" type="#" clock="15:00" tokens="Q:3 T:15:00 SPOT:V,V35,N"
+      text="Start of 3rd quarter, clock 15:00, WEBER ball on WEBER35." newcontext="V,2,10,V35">
+   </play>
+   <play hasball="WEBER" down="2" togo="10" spot="WEBER35" context="V,2,10,V35" playid="13,5,102" type="K" tokens="KO:36,H00 TB:"
+      text="Josh Kealamakia kickoff 65 yards to the ORSU0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Josh Kealamakia" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,15:00" vh="H" spot="H25" clock="15:00" driveindex="14,102"></drivestart>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU25" context="H,1,10,H25" playid="14,1,103" clock="15:00" tokens="{DRIVE}:15:00"
+      text="OREGON STATE drive start at 15:00." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU25" context="H,1,10,H25" playid="14,2,104" type="P" tokens="PASS:0D,I,TM,*"
+      text="Collins, Seth pass incomplete." newcontext="H,2,10,H25">
+    <p_pa vh="H" qb="Collins, Seth" result="INC"></p_pa>
+   </play>
+   <play hasball="ORSU" down="2" togo="10" spot="ORSU25" context="H,2,10,H25" playid="14,3,105" type="R" tokens="RUSH:24,H33, TACK:7,42"
+      text="Woods,Storm rush for 8 yards to the ORSU33 (Josh Burton;Jon Carlson)." newcontext="H,3,2,H33">
+    <p_ru vh="H" name="Woods,Storm" gain="8"></p_ru>
+    <p_tk vh="V" name="Josh Burton" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jon Carlson" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORSU" down="3" togo="2" spot="ORSU33" context="H,3,2,H33" playid="14,4,106" type="R" first="R" tokens="RUSH:6,H36, OB: TACK:8"
+      text="Bolden,Victor rush for 3 yards to the ORSU36, 1ST DOWN ORSU, out-of-bounds (Emmett Tela)." ob="Y" newcontext="H,1,10,H36">
+    <p_ru vh="H" name="Bolden,Victor" gain="3"></p_ru>
+    <p_tk vh="V" name="Emmett Tela"></p_tk>
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU36" context="H,1,10,H36" playid="14,5,107" type="R" tokens="RUSH:24,H42, TACK:37,23"
+      text="Woods,Storm rush for 6 yards to the ORSU42 (Mitch Tulane;Tre'von Johnson)." newcontext="H,2,4,H42">
+    <p_ru vh="H" name="Woods,Storm" gain="6"></p_ru>
+    <p_tk vh="V" name="Mitch Tulane" assist="Y"></p_tk>
+    <p_tk vh="V" name="Tre'von Johnson" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORSU" down="2" togo="4" spot="ORSU42" context="H,2,4,H42" playid="14,6,108" type="R" first="R" tokens="RUSH:0D,V45, OB: TACK:42"
+      text="Collins, Seth rush for 13 yards to the WEBER45, 1ST DOWN ORSU, out-of-bounds (Jon Carlson)." ob="Y" newcontext="H,1,10,V45">
+    <p_ru vh="H" name="Collins, Seth" gain="13"></p_ru>
+    <p_tk vh="V" name="Jon Carlson"></p_tk>
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="WEBER45" context="H,1,10,V45" playid="14,7,109" type="R" tokens="RUSH:24,V40, TACK:96"
+      text="Woods,Storm rush for 5 yards to the WEBER40 (Iosua Opeta)." newcontext="H,2,5,V40">
+    <p_ru vh="H" name="Woods,Storm" gain="5"></p_ru>
+    <p_tk vh="V" name="Iosua Opeta"></p_tk>
+   </play>
+   <play hasball="ORSU" down="2" togo="5" spot="WEBER40" context="H,2,5,V40" playid="14,8,110" type="R" tokens="RUSH:88,V37, OB: TACK:21"
+      text="Dockery, Rahmel rush for 3 yards to the WEBER37, out-of-bounds (Taron Johnson)." ob="Y" newcontext="H,3,2,V37">
+    <p_ru vh="H" name="Dockery, Rahmel" gain="3"></p_ru>
+    <p_tk vh="V" name="Taron Johnson"></p_tk>
+   </play>
+   <play hasball="ORSU" down="3" togo="2" spot="WEBER37" context="H,3,2,V37" playid="14,9,111" type="P" first="P" tokens="PASS:0D,C,6,V31 TACK:22,8"
+      text="Collins, Seth pass complete to Bolden,Victor for 6 yards to the WEBER31, 1ST DOWN ORSU (Xequille Harry;Emmett Tela)." newcontext="H,1,10,V31">
+    <p_pa vh="H" qb="Collins, Seth" result="COMP" rcv="Bolden,Victor" gain="6"></p_pa>
+    <p_tk vh="V" name="Xequille Harry" assist="Y"></p_tk>
+    <p_tk vh="V" name="Emmett Tela" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="WEBER31" context="H,1,10,V31" playid="14,10,112" type="R" tokens="RUSH:0D,V22, FORCE:23 FUMB:H,V22,0D"
+      text="Collins, Seth rush for 9 yards to the WEBER22, fumble forced by Tre'von Johnson, fumble by Collins, Seth recovered by ORSU Collins, Seth at WEBER22." newcontext="H,2,1,V22">
+    <p_ru vh="H" name="Collins, Seth" gain="9"></p_ru>
+    <p_fumb vh="H" name="Collins, Seth" at="V22" frvh="H" frname="Collins, Seth"></p_fumb>
+    <p_tk vh="V" name="Tre'von Johnson" ff="Y"></p_tk>
+   </play>
+   <play hasball="ORSU" down="2" togo="1" spot="WEBER22" context="H,2,1,V22" playid="14,11,113" type="R" first="R" tokens="RUSH:24,V20, TACK:52"
+      text="Woods,Storm rush for 2 yards to the WEBER20, 1ST DOWN ORSU (R. Henderson)." newcontext="H,1,10,V20">
+    <p_ru vh="H" name="Woods,Storm" gain="2"></p_ru>
+    <p_tk vh="V" name="R. Henderson"></p_tk>
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="WEBER20" context="H,1,10,V20" playid="14,12,114" type="R" tokens="RUSH:1,V11, TACK:94,7"
+      text="Brown, Chris rush for 9 yards to the WEBER11 (Jalin Ames;Josh Burton)." newcontext="H,2,1,V11">
+    <p_ru vh="H" name="Brown, Chris" gain="9"></p_ru>
+    <p_tk vh="V" name="Jalin Ames" assist="Y"></p_tk>
+    <p_tk vh="V" name="Josh Burton" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORSU" down="2" togo="1" spot="WEBER11" context="H,2,1,V11" playid="14,13,115" type="R" tokens="RUSH:1,V11, TACK:25"
+      text="Brown, Chris rush for no gain to the WEBER11 (Jared Afalava)." newcontext="H,3,1,V11">
+    <p_ru vh="H" name="Brown, Chris" gain="0"></p_ru>
+    <p_tk vh="V" name="Jared Afalava"></p_tk>
+   </play>
+   <play hasball="ORSU" down="3" togo="1" spot="WEBER11" context="H,3,1,V11" playid="14,14,116" type="R" first="R" tokens="RUSH:1,V07, TACK:37"
+      text="Brown, Chris rush for 4 yards to the WEBER7, 1ST DOWN ORSU (Mitch Tulane)." newcontext="H,1,0,V07">
+    <p_ru vh="H" name="Brown, Chris" gain="4"></p_ru>
+    <p_tk vh="V" name="Mitch Tulane"></p_tk>
+   </play>
+   <play hasball="ORSU" down="1" togo="0" spot="WEBER07" context="H,1,0,V07" playid="14,15,117" type="R" tokens="RUSH:34,V04, TACK:96"
+      text="Nall, Ryan rush for 3 yards to the WEBER4 (Iosua Opeta)." newcontext="H,2,0,V04">
+    <p_ru vh="H" name="Nall, Ryan" gain="3"></p_ru>
+    <p_tk vh="V" name="Iosua Opeta"></p_tk>
+   </play>
+   <play hasball="ORSU" down="2" togo="0" spot="WEBER04" context="H,2,0,V04" playid="14,16,118" type="R" tokens="RUSH:1,V04, TACK:37"
+      text="Brown, Chris rush for no gain to the WEBER4 (Mitch Tulane)." newcontext="H,3,0,V04">
+    <p_ru vh="H" name="Brown, Chris" gain="0"></p_ru>
+    <p_tk vh="V" name="Mitch Tulane"></p_tk>
+   </play>
+   <play hasball="ORSU" down="3" togo="0" spot="WEBER04" context="H,3,0,V04" playid="14,17,119" type="P" score="Y" vscore="0" hscore="12" clock="08:13" tokens="PASS:0D,C,6,V00 T:08:13"
+      text="Collins, Seth pass complete to Bolden,Victor for 4 yards to the WEBER0, TOUCHDOWN, clock 08:13." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Collins, Seth" result="COMP" rcv="Bolden,Victor" gain="4"></p_pa>
+   </play>
+   <play hasball="ORSU" down="1" togo="0" spot="WEBER03" context="H,1,0,V03" playid="14,18,120" type="X" score="Y" vscore="0" hscore="13" tokens="PAT:K,2A,G"
+      text="Owens, Garrett kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Owens, Garrett" qb="Owens, Garrett" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="13"></score>
+   <drivesum plays="16" yards="75" top="6:47" driveindex="14" complete="Y"></drivesum>
+   <play hasball="ORSU" down="1" togo="0" spot="ORSU35" context="H,1,0,H35" playid="14,19,121" type="K" tokens="KO:2G,V15 RET:31,V34 TACK:18"
+      text="Crist, Ian kickoff 50 yards to the WEBER15, Haini Moimoi return 19 yards to the WEBER34 (Gilmore, Malik)." newcontext="V,1,10,V34">
+    <p_ko vh="H" name="Crist, Ian" gain="50"></p_ko>
+    <p_kr vh="V" name="Haini Moimoi" gain="19"></p_kr>
+    <p_tk vh="H" name="Gilmore, Malik"></p_tk>
+   </play>
+   <drivestart poss="V,V34,08:08" vh="V" spot="V34" clock="08:08" driveindex="15,121"></drivestart>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER34" context="V,1,10,V34" playid="15,1,122" clock="08:08" tokens="{DRIVE}:08:08"
+      text="WEBER STATE drive start at 08:08." newcontext="V,1,10,V34">
+   </play>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER34" context="V,1,10,V34" playid="15,2,123" type="P" first="P" tokens="PASS:10,C,6,H46 TACK:17"
+      text="Jadrian Clark pass complete to Drew Batchelor for 20 yards to the ORSU46, 1ST DOWN WEBER (Noland-Lewis, C)." newcontext="V,1,10,H46">
+    <p_pa vh="V" qb="Jadrian Clark" result="COMP" rcv="Drew Batchelor" gain="20"></p_pa>
+    <p_tk vh="H" name="Noland-Lewis, C"></p_tk>
+   </play>
+   <play hasball="WEBER" down="1" togo="10" spot="ORSU46" context="V,1,10,H46" playid="15,3,124" type="P" tokens="PASS:10,C,87,H43 TACK:14"
+      text="Jadrian Clark pass complete to Cody Eyolfson for 3 yards to the ORSU43 (Decoud, Treston)." newcontext="V,2,7,H43">
+    <p_pa vh="V" qb="Jadrian Clark" result="COMP" rcv="Cody Eyolfson" gain="3"></p_pa>
+    <p_tk vh="H" name="Decoud, Treston"></p_tk>
+   </play>
+   <play hasball="WEBER" down="2" togo="7" spot="ORSU43" context="V,2,7,H43" playid="15,4,125" type="E" first="E" tokens="PASS:10,I,1,* PEN:H,PI,A,55,H36,1 NOPLAY:"
+      text="Jadrian Clark pass incomplete to Cam Livingston, PENALTY ORSU pass interference (Hungalu, Manase) 7 yards to the ORSU36, 1ST DOWN WEBER, NO PLAY." newcontext="V,1,10,H36">
+    <p_pn vh="H" code="PI" type="pass interference" name="Hungalu, Manase" result="ACCEPT" at="H43" yards="7"></p_pn>
+   </play>
+   <play hasball="WEBER" down="1" togo="10" spot="ORSU36" context="V,1,10,H36" playid="15,5,126" type="R" tokens="RUSH:85,H38, TACK:26"
+      text="TyJuan Prince rush for loss of 2 yards to the ORSU38 (Chappell, Devin)." newcontext="V,2,12,H38">
+    <p_ru vh="V" name="TyJuan Prince" gain="-2"></p_ru>
+    <p_tk vh="H" name="Chappell, Devin"></p_tk>
+   </play>
+   <play hasball="WEBER" down="2" togo="12" spot="ORSU38" context="V,2,12,H38" playid="15,6,127" type="P" tokens="PASS:10,C,6,H28 OB: TACK:35,4"
+      text="Jadrian Clark pass complete to Drew Batchelor for 10 yards to the ORSU28, out-of-bounds (Saulo, Caleb;Strong, Justin)." ob="Y" newcontext="V,3,2,H28">
+    <p_pa vh="V" qb="Jadrian Clark" result="COMP" rcv="Drew Batchelor" gain="10"></p_pa>
+    <p_tk vh="H" name="Saulo, Caleb" assist="Y"></p_tk>
+    <p_tk vh="H" name="Strong, Justin" assist="Y"></p_tk>
+   </play>
+   <play hasball="WEBER" down="3" togo="2" spot="ORSU28" context="V,3,2,H28" playid="15,7,128" type="P" tokens="PASS:10,I,35,* BRUP:8"
+      text="Jadrian Clark pass incomplete to Cory Thomson (Mageo, Rommel)." newcontext="V,4,2,H28">
+    <p_pa vh="V" qb="Jadrian Clark" result="INC" rcv="Cory Thomson"></p_pa>
+    <p_bu vh="H" name="Mageo, Rommel"></p_bu>
+   </play>
+   <play hasball="WEBER" down="4" togo="2" spot="ORSU28" context="V,4,2,H28" playid="15,8,129" type="F" clock="05:39" tokens="FGA:36,45,B,H28,V,TM T:05:39 BLOCK:48"
+      text="Josh Kealamakia field goal attempt from 45 BLOCKED, recovered by WEBER TEAM at ORSU28 spot at ORSU28, clock 05:39 (blocked by James, Jaswha)." newcontext="H,1,10,H28">
+    <p_fg vh="V" name="Josh Kealamakia" distance="45" result="BLOCKED"></p_fg>
+   </play>
+   <drivesum plays="6" yards="38" top="2:29" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="H,H28,05:39" vh="H" spot="H28" clock="05:39" driveindex="16,129"></drivestart>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU28" context="H,1,10,H28" playid="16,1,130" clock="05:39" tokens="{DRIVE}:05:39"
+      text="OREGON STATE drive start at 05:39." newcontext="H,1,10,H28">
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU28" context="H,1,10,H28" playid="16,2,131" type="P" tokens="PASS:0D,C,21,H31 OB: TACK:7"
+      text="Collins, Seth pass complete to Sands, Deltron for 3 yards to the ORSU31, out-of-bounds (Josh Burton)." ob="Y" newcontext="H,2,7,H31">
+    <p_pa vh="H" qb="Collins, Seth" result="COMP" rcv="Sands, Deltron" gain="3"></p_pa>
+    <p_tk vh="V" name="Josh Burton"></p_tk>
+   </play>
+   <play hasball="ORSU" down="2" togo="7" spot="ORSU31" context="H,2,7,H31" playid="16,3,132" type="R" tokens="RUSH:0D,H35, TACK:17"
+      text="Collins, Seth rush for 4 yards to the ORSU35 (Alema Key)." newcontext="H,3,3,H35">
+    <p_ru vh="H" name="Collins, Seth" gain="4"></p_ru>
+    <p_tk vh="V" name="Alema Key"></p_tk>
+   </play>
+   <play hasball="ORSU" down="3" togo="3" spot="ORSU35" context="H,3,3,H35" playid="16,4,133" type="P" tokens="PASS:0D,I,21,*"
+      text="Collins, Seth pass incomplete to Sands, Deltron." newcontext="H,4,3,H35">
+    <p_pa vh="H" qb="Collins, Seth" result="INC" rcv="Sands, Deltron"></p_pa>
+   </play>
+   <play hasball="ORSU" down="4" togo="3" spot="ORSU35" context="H,4,3,H35" playid="16,5,134" type="U" tokens="PUNT:31,V36 DN:"
+      text="Porebski, Nick punt 29 yards to the WEBER36, downed." newcontext="V,1,10,V36">
+    <p_pu vh="H" name="Porebski, Nick" gain="29"></p_pu>
+   </play>
+   <drivesum plays="3" yards="7" top="1:06" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="V,V36,04:33" vh="V" spot="V36" clock="04:33" driveindex="17,134"></drivestart>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER36" context="V,1,10,V36" playid="17,1,135" clock="04:33" tokens="{DRIVE}:04:33"
+      text="WEBER STATE drive start at 04:33." newcontext="V,1,10,V36">
+   </play>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER36" context="V,1,10,V36" playid="17,2,136" type="P" tokens="PASS:10,C,35,V38 TACK:32"
+      text="Jadrian Clark pass complete to Cory Thomson for 2 yards to the WEBER38 (Willis, J.)." newcontext="V,2,8,V38">
+    <p_pa vh="V" qb="Jadrian Clark" result="COMP" rcv="Cory Thomson" gain="2"></p_pa>
+    <p_tk vh="H" name="Willis, J."></p_tk>
+   </play>
+   <play hasball="WEBER" down="2" togo="8" spot="WEBER38" context="V,2,8,V38" playid="17,3,137" type="P" tokens="PASS:10,I,1,*"
+      text="Jadrian Clark pass incomplete to Cam Livingston." newcontext="V,3,8,V38">
+    <p_pa vh="V" qb="Jadrian Clark" result="INC" rcv="Cam Livingston"></p_pa>
+   </play>
+   <play hasball="WEBER" down="3" togo="8" spot="WEBER38" context="V,3,8,V38" playid="17,4,138" type="P" tokens="PASS:10,I,87,*"
+      text="Jadrian Clark pass incomplete to Cody Eyolfson." newcontext="V,4,8,V38">
+    <p_pa vh="V" qb="Jadrian Clark" result="INC" rcv="Cody Eyolfson"></p_pa>
+   </play>
+   <play hasball="WEBER" down="4" togo="8" spot="WEBER38" context="V,4,8,V38" playid="17,5,139" type="U" tokens="PUNT:36,H06 DN:"
+      text="Josh Kealamakia punt 56 yards to the ORSU6, downed." newcontext="H,1,10,H06">
+    <p_pu vh="V" name="Josh Kealamakia" gain="56" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="2" top="1:03" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="H,H06,03:30" vh="H" spot="H06" clock="03:30" driveindex="18,139"></drivestart>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU06" context="H,1,10,H06" playid="18,1,140" clock="03:30" tokens="{DRIVE}:03:30"
+      text="OREGON STATE drive start at 03:30." newcontext="H,1,10,H06">
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU06" context="H,1,10,H06" playid="18,2,141" tokens="QB:H,0C"
+      text="McMaryion, M. at QB for Oregon State." newcontext="H,1,10,H06">
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU06" context="H,1,10,H06" playid="18,3,142" type="P" score="Y" vscore="6" hscore="13" turnover="I" clock="03:24" tokens="PASS:0C,X,7,H08 BRUP:5 RET:7,H00 T:03:24"
+      text="McMaryion, M. pass intercepted by Josh Burton at the ORSU8 (Devonte Johnson), Josh Burton return 8 yards to the ORSU0, TOUCHDOWN, clock 03:24." newcontext="V,1,0,H03">
+    <p_pa vh="H" qb="McMaryion, M." result="INT"></p_pa>
+    <p_ir vh="V" name="Josh Burton" at="H08" gain="8"></p_ir>
+    <p_bu vh="V" name="Devonte Johnson"></p_bu>
+   </play>
+   <drivesum plays="1" yards="0" top="0:06" driveindex="18" complete="Y"></drivesum>
+   <drivestart poss="V,H03,03:24" vh="V" spot="H03" clock="03:24" driveindex="19,142"></drivestart>
+   <play hasball="WEBER" down="1" togo="0" spot="ORSU03" context="V,1,0,H03" playid="19,1,143" type="X" score="Y" vscore="7" hscore="13" tokens="PAT:K,36,G"
+      text="Josh Kealamakia kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Josh Kealamakia" qb="Josh Kealamakia" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="13"></score>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="19" complete="Y"></drivesum>
+   <play hasball="WEBER" down="1" togo="0" spot="WEBER35" context="V,1,0,V35" playid="19,2,144" type="K" tokens="KO:36,H00 TB:"
+      text="Josh Kealamakia kickoff 65 yards to the ORSU0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Josh Kealamakia" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,03:24" vh="H" spot="H25" clock="03:24" driveindex="20,144"></drivestart>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU25" context="H,1,10,H25" playid="20,1,145" clock="03:24" tokens="{DRIVE}:03:24"
+      text="OREGON STATE drive start at 03:24." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU25" context="H,1,10,H25" playid="20,2,146" tokens="QB:H,0D"
+      text="Collins, Seth at QB for Oregon State." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU25" context="H,1,10,H25" playid="20,3,147" type="P" tokens="PASS:0D,I,13,*"
+      text="Collins, Seth pass incomplete to Villamin, J.." newcontext="H,2,10,H25">
+    <p_pa vh="H" qb="Collins, Seth" result="INC" rcv="Villamin, J."></p_pa>
+   </play>
+   <play hasball="ORSU" down="2" togo="10" spot="ORSU25" context="H,2,10,H25" playid="20,4,148" type="R" tokens="RUSH:0D,H27, TACK:7,42"
+      text="Collins, Seth rush for 2 yards to the ORSU27 (Josh Burton;Jon Carlson)." newcontext="H,3,8,H27">
+    <p_ru vh="H" name="Collins, Seth" gain="2"></p_ru>
+    <p_tk vh="V" name="Josh Burton" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jon Carlson" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORSU" down="3" togo="8" spot="ORSU27" context="H,3,8,H27" playid="20,5,149" type="E" tokens="PASS:0D,C,2,H42 TACK:17 PEN:H,HO,A,50,H17,N NOPLAY:"
+      text="Collins, Seth pass complete to Jarmon, Hunter for 15 yards to the ORSU42 (Alema Key), PENALTY ORSU holding (Mitchell, Josh) 10 yards to the ORSU17, NO PLAY." newcontext="H,3,18,H17">
+    <p_pn vh="H" code="HO" type="holding" name="Mitchell, Josh" result="ACCEPT" at="H27" yards="10"></p_pn>
+   </play>
+   <play hasball="ORSU" down="3" togo="18" spot="ORSU17" context="H,3,18,H17" playid="20,6,150" type="R" tokens="RUSH:0D,H33, TACK:23"
+      text="Collins, Seth rush for 16 yards to the ORSU33 (Tre'von Johnson)." newcontext="H,4,2,H33">
+    <p_ru vh="H" name="Collins, Seth" gain="16"></p_ru>
+    <p_tk vh="V" name="Tre'von Johnson"></p_tk>
+   </play>
+   <play hasball="ORSU" down="4" togo="2" spot="ORSU33" context="H,4,2,H33" playid="20,7,151" type="U" tokens="PUNT:31,V20 RET:3,V24 TACK:8,9"
+      text="Porebski, Nick punt 47 yards to the WEBER20, Darryl Denby return 4 yards to the WEBER24 (Mageo, Rommel;Guyton, Datrin)." newcontext="V,1,10,V24">
+    <p_pu vh="H" name="Porebski, Nick" gain="47"></p_pu>
+    <p_pr vh="V" name="Darryl Denby" gain="4"></p_pr>
+    <p_tk vh="H" name="Mageo, Rommel" assist="Y"></p_tk>
+    <p_tk vh="H" name="Guyton, Datrin" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="8" top="2:07" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="V,V24,01:17" vh="V" spot="V24" clock="01:17" driveindex="21,151"></drivestart>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER24" context="V,1,10,V24" playid="21,1,152" clock="01:17" tokens="{DRIVE}:01:17"
+      text="WEBER STATE drive start at 01:17." newcontext="V,1,10,V24">
+   </play>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER24" context="V,1,10,V24" playid="21,2,153" type="R" first="R" tokens="RUSH:26,V34, TACK:4"
+      text="T. Garrett rush for 10 yards to the WEBER34, 1ST DOWN WEBER (Strong, Justin)." newcontext="V,1,10,V34">
+    <p_ru vh="V" name="T. Garrett" gain="10"></p_ru>
+    <p_tk vh="H" name="Strong, Justin"></p_tk>
+   </play>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER34" context="V,1,10,V34" playid="21,3,154" type="R" tokens="RUSH:10,V36, TACK:8"
+      text="Jadrian Clark rush for 2 yards to the WEBER36 (Mageo, Rommel)." newcontext="V,2,8,V36">
+    <p_ru vh="V" name="Jadrian Clark" gain="2"></p_ru>
+    <p_tk vh="H" name="Mageo, Rommel"></p_tk>
+   </play>
+   <play hasball="WEBER" down="2" togo="8" spot="WEBER36" context="V,2,8,V36" playid="21,4,155" type="P" tokens="PASS:10,C,33,V42 TACK:55,15"
+      text="Jadrian Clark pass complete to Tui Satuala for 6 yards to the WEBER42 (Hungalu, Manase;Scott, Larry)." newcontext="V,3,2,V42">
+    <p_pa vh="V" qb="Jadrian Clark" result="COMP" rcv="Tui Satuala" gain="6"></p_pa>
+    <p_tk vh="H" name="Hungalu, Manase" assist="Y"></p_tk>
+    <p_tk vh="H" name="Scott, Larry" assist="Y"></p_tk>
+   </play>
+   <score qtr="3" V="7" H="13"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="WEBER">
+    <firstdowns no="3" rush="1" pass="1" penalty="1"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="04:54"></misc>
+    <rush att="3" yds="10" gain="12" loss="2" td="0" long="0"></rush>
+    <pass comp="5" att="8" int="0" yds="41" td="0" long="5" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="41" td="0" long="5"></rcv>
+    <punt no="1" yds="56" long="7" blkd="0" tb="0" fc="0" plus50="1" inside20="1" avg="56.0"></punt>
+    <ko no="2" yds="130" ob="0" tb="2"></ko>
+    <fg made="0" att="1" long="0" blkd="1"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="13" tacka="10" tot_tack="23" sacks="0" sackyds="0" brup="1" ff="1" int="1" intyds="8"></defense>
+    <kr no="1" yds="19" td="0" long="0"></kr>
+    <pr no="1" yds="4" td="0" long="4"></pr>
+    <ir no="1" yds="8" td="1" long="8"></ir>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ORSU">
+    <firstdowns no="5" rush="4" pass="1" penalty="0"></firstdowns>
+    <penalties no="2" yds="17"></penalties>
+    <conversions thirdconv="4" thirdatt="6" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="10:06"></misc>
+    <rush att="16" yds="87" gain="87" loss="0" td="0" long="0"></rush>
+    <pass comp="3" att="7" int="1" yds="13" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="13" td="1" long="0"></rcv>
+    <punt no="2" yds="76" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="38.0"></punt>
+    <ko no="1" yds="50" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="7" tacka="6" tot_tack="13" tflua="1" tfla="0" tflyds="2" sacks="0" sackyds="0" brup="1" blkd="1"></defense>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="WEBER" down="3" togo="2" spot="WEBER42" context="V,3,2,V42" playid="21,5,156" type="#" clock="15:00" tokens="Q:4 T:15:00"
+      text="Start of 4th quarter, clock 15:00." newcontext="V,3,2,V42">
+   </play>
+   <play hasball="WEBER" down="3" togo="2" spot="WEBER42" context="V,3,2,V42" playid="21,6,157" type="P" turnover="I" tokens="PASS:10,X,55,H43 RET:55,H43 OB:"
+      text="Jadrian Clark pass intercepted by Hungalu, Manase at the ORSU43, Hungalu, Manase return 0 yards to the ORSU43, out-of-bounds." ob="Y" newcontext="H,1,10,H43">
+    <p_pa vh="V" qb="Jadrian Clark" result="INT"></p_pa>
+    <p_ir vh="H" name="Hungalu, Manase" at="H43" gain="0"></p_ir>
+   </play>
+   <drivesum plays="4" yards="18" top="1:22" driveindex="21" complete="Y"></drivesum>
+   <drivestart poss="H,H43,14:55" vh="H" spot="H43" clock="14:55" driveindex="22,157"></drivestart>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU43" context="H,1,10,H43" playid="22,1,158" clock="14:55" tokens="{DRIVE}:14:55"
+      text="OREGON STATE drive start at 14:55." newcontext="H,1,10,H43">
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU43" context="H,1,10,H43" playid="22,2,159" type="R" first="R" tokens="RUSH:0D,V33,"
+      text="Collins, Seth rush for 24 yards to the WEBER33, 1ST DOWN ORSU." newcontext="H,1,10,V33">
+    <p_ru vh="H" name="Collins, Seth" gain="24"></p_ru>
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="WEBER33" context="H,1,10,V33" playid="22,3,160" type="R" first="R" tokens="RUSH:1,V22, TACK:5"
+      text="Brown, Chris rush for 11 yards to the WEBER22, 1ST DOWN ORSU (Devonte Johnson)." newcontext="H,1,10,V22">
+    <p_ru vh="H" name="Brown, Chris" gain="11"></p_ru>
+    <p_tk vh="V" name="Devonte Johnson"></p_tk>
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="WEBER22" context="H,1,10,V22" playid="22,4,161" type="R" tokens="RUSH:1,V17, TACK:54"
+      text="Brown, Chris rush for 5 yards to the WEBER17 (Liljenquist, K.)." newcontext="H,2,5,V17">
+    <p_ru vh="H" name="Brown, Chris" gain="5"></p_ru>
+    <p_tk vh="V" name="Liljenquist, K."></p_tk>
+   </play>
+   <play hasball="ORSU" down="2" togo="5" spot="WEBER17" context="H,2,5,V17" playid="22,5,162" type="E" tokens="RUSH:1,V11, TACK:7 PEN:H,HO,A,50,V27,N NOPLAY:"
+      text="Brown, Chris rush for 6 yards to the WEBER11 (Josh Burton), PENALTY ORSU holding (Mitchell, Josh) 10 yards to the WEBER27, NO PLAY." newcontext="H,2,15,V27">
+    <p_pn vh="H" code="HO" type="holding" name="Mitchell, Josh" result="ACCEPT" at="V17" yards="10"></p_pn>
+   </play>
+   <play hasball="ORSU" down="2" togo="15" spot="WEBER27" context="H,2,15,V27" playid="22,6,163" type="P" tokens="PASS:0D,I,6,*"
+      text="Collins, Seth pass incomplete to Bolden,Victor." newcontext="H,3,15,V27">
+    <p_pa vh="H" qb="Collins, Seth" result="INC" rcv="Bolden,Victor"></p_pa>
+   </play>
+   <play hasball="ORSU" down="3" togo="15" spot="WEBER27" context="H,3,15,V27" playid="22,7,164" type="R" tokens="RUSH:0D,V21, OB: TACK:7"
+      text="Collins, Seth rush for 6 yards to the WEBER21, out-of-bounds (Josh Burton)." ob="Y" newcontext="H,4,9,V21">
+    <p_ru vh="H" name="Collins, Seth" gain="6"></p_ru>
+    <p_tk vh="V" name="Josh Burton"></p_tk>
+   </play>
+   <play hasball="ORSU" down="4" togo="9" spot="WEBER21" context="H,4,9,V21" playid="22,8,165" type="F" score="Y" vscore="7" hscore="16" clock="13:21" tokens="FGA:2A,39,G T:13:21"
+      text="Owens, Garrett field goal attempt from 39 GOOD, clock 13:21." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="Owens, Garrett" distance="39" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="7" H="16"></score>
+   <drivesum plays="6" yards="36" top="1:34" driveindex="22" complete="Y"></drivesum>
+   <play hasball="ORSU" down="1" togo="0" spot="ORSU35" context="H,1,0,H35" playid="22,9,166" type="K" tokens="KO:2A,V00 RET:13,V19 TACK:32"
+      text="Owens, Garrett kickoff 65 yards to the WEBER0, Eric Wilkes return 19 yards to the WEBER19 (Willis, J.)." newcontext="V,1,10,V19">
+    <p_ko vh="H" name="Owens, Garrett" gain="65"></p_ko>
+    <p_kr vh="V" name="Eric Wilkes" gain="19"></p_kr>
+    <p_tk vh="H" name="Willis, J."></p_tk>
+   </play>
+   <drivestart poss="V,V19,13:14" vh="V" spot="V19" clock="13:14" driveindex="23,166"></drivestart>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER19" context="V,1,10,V19" playid="23,1,167" clock="13:14" tokens="{DRIVE}:13:14"
+      text="WEBER STATE drive start at 13:14." newcontext="V,1,10,V19">
+   </play>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER19" context="V,1,10,V19" playid="23,2,168" type="R" tokens="RUSH:13,V20, TACK:14"
+      text="Eric Wilkes rush for 1 yard to the WEBER20 (Decoud, Treston)." newcontext="V,2,9,V20">
+    <p_ru vh="V" name="Eric Wilkes" gain="1"></p_ru>
+    <p_tk vh="H" name="Decoud, Treston"></p_tk>
+   </play>
+   <play hasball="WEBER" down="2" togo="9" spot="WEBER20" context="V,2,9,V20" playid="23,3,169" type="P" tokens="PASS:10,I,6,*"
+      text="Jadrian Clark pass incomplete to Drew Batchelor." newcontext="V,3,9,V20">
+    <p_pa vh="V" qb="Jadrian Clark" result="INC" rcv="Drew Batchelor"></p_pa>
+   </play>
+   <play hasball="WEBER" down="3" togo="9" spot="WEBER20" context="V,3,9,V20" playid="23,4,170" type="P" tokens="PASS:10,C,6,V28 TACK:8"
+      text="Jadrian Clark pass complete to Drew Batchelor for 8 yards to the WEBER28 (Mageo, Rommel)." newcontext="V,4,1,V28">
+    <p_pa vh="V" qb="Jadrian Clark" result="COMP" rcv="Drew Batchelor" gain="8"></p_pa>
+    <p_tk vh="H" name="Mageo, Rommel"></p_tk>
+   </play>
+   <play hasball="WEBER" down="4" togo="1" spot="WEBER28" context="V,4,1,V28" playid="23,5,171" type="U" tokens="PUNT:36,H33 OB:"
+      text="Josh Kealamakia punt 39 yards to the ORSU33, out-of-bounds." ob="Y" newcontext="H,1,10,H33">
+    <p_pu vh="V" name="Josh Kealamakia" gain="39" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="9" top="1:26" driveindex="23" complete="Y"></drivesum>
+   <drivestart poss="H,H33,11:48" vh="H" spot="H33" clock="11:48" driveindex="24,171"></drivestart>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU33" context="H,1,10,H33" playid="24,1,172" clock="11:48" tokens="{DRIVE}:11:48"
+      text="OREGON STATE drive start at 11:48." newcontext="H,1,10,H33">
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU33" context="H,1,10,H33" playid="24,2,173" type="R" tokens="RUSH:24,H35, TACK:40,96"
+      text="Woods,Storm rush for 2 yards to the ORSU35 (Vince Coleman;Iosua Opeta)." newcontext="H,2,8,H35">
+    <p_ru vh="H" name="Woods,Storm" gain="2"></p_ru>
+    <p_tk vh="V" name="Vince Coleman" assist="Y"></p_tk>
+    <p_tk vh="V" name="Iosua Opeta" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORSU" down="2" togo="8" spot="ORSU35" context="H,2,8,H35" playid="24,3,174" type="R" tokens="RUSH:24,H39, TACK:57"
+      text="Woods,Storm rush for 4 yards to the ORSU39 (Jake Gallegos)." newcontext="H,3,4,H39">
+    <p_ru vh="H" name="Woods,Storm" gain="4"></p_ru>
+    <p_tk vh="V" name="Jake Gallegos"></p_tk>
+   </play>
+   <play hasball="ORSU" down="3" togo="4" spot="ORSU39" context="H,3,4,H39" playid="24,4,175" type="P" first="P" tokens="PASS:0D,C,24,V47 TACK:5"
+      text="Collins, Seth pass complete to Woods,Storm for 14 yards to the WEBER47, 1ST DOWN ORSU (Devonte Johnson)." newcontext="H,1,10,V47">
+    <p_pa vh="H" qb="Collins, Seth" result="COMP" rcv="Woods,Storm" gain="14"></p_pa>
+    <p_tk vh="V" name="Devonte Johnson"></p_tk>
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="WEBER47" context="H,1,10,V47" playid="24,5,176" type="R" tokens="RUSH:24,V44, TACK:23,52"
+      text="Woods,Storm rush for 3 yards to the WEBER44 (Tre'von Johnson;R. Henderson)." newcontext="H,2,7,V44">
+    <p_ru vh="H" name="Woods,Storm" gain="3"></p_ru>
+    <p_tk vh="V" name="Tre'von Johnson" assist="Y"></p_tk>
+    <p_tk vh="V" name="R. Henderson" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORSU" down="2" togo="7" spot="WEBER44" context="H,2,7,V44" playid="24,6,177" type="P" first="P" score="Y" vscore="7" hscore="22" clock="09:55" tokens="PASS:0D,C,13,V00 T:09:55"
+      text="Collins, Seth pass complete to Villamin, J. for 44 yards to the WEBER0, 1ST DOWN ORSU, TOUCHDOWN, clock 09:55." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Collins, Seth" result="COMP" rcv="Villamin, J." gain="44"></p_pa>
+   </play>
+   <play hasball="ORSU" down="1" togo="0" spot="WEBER03" context="H,1,0,V03" playid="24,7,178" type="X" score="Y" vscore="7" hscore="23" tokens="PAT:K,2A,G"
+      text="Owens, Garrett kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Owens, Garrett" qb="Owens, Garrett" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="23"></score>
+   <drivesum plays="5" yards="67" top="1:53" driveindex="24" complete="Y"></drivesum>
+   <play hasball="ORSU" down="1" togo="0" spot="ORSU35" context="H,1,0,H35" playid="24,8,179" type="K" tokens="KO:2A,V00 RET:6,V13 TACK:30"
+      text="Owens, Garrett kickoff 65 yards to the WEBER0, Drew Batchelor return 13 yards to the WEBER13 (Ovgard, Gabe)." newcontext="V,1,10,V13">
+    <p_ko vh="H" name="Owens, Garrett" gain="65"></p_ko>
+    <p_kr vh="V" name="Drew Batchelor" gain="13"></p_kr>
+    <p_tk vh="H" name="Ovgard, Gabe"></p_tk>
+   </play>
+   <drivestart poss="V,V13,09:51" vh="V" spot="V13" clock="09:51" driveindex="25,179"></drivestart>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER13" context="V,1,10,V13" playid="25,1,180" clock="09:51" tokens="{DRIVE}:09:51"
+      text="WEBER STATE drive start at 09:51." newcontext="V,1,10,V13">
+   </play>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER13" context="V,1,10,V13" playid="25,2,181" type="P" tokens="PASS:10,S,TM,V07 SACK:97"
+      text="Jadrian Clark sacked for loss of 6 yards to the WEBER7 (Vakameilalo, K.)." newcontext="V,2,16,V07">
+    <p_pa vh="V" qb="Jadrian Clark" result="SACK" gain="-6"></p_pa>
+    <p_tk vh="H" name="Vakameilalo, K." sack="Y"></p_tk>
+   </play>
+   <play hasball="WEBER" down="2" togo="16" spot="WEBER07" context="V,2,16,V07" playid="25,3,182" type="P" tokens="PASS:10,C,1,V16 TACK:8"
+      text="Jadrian Clark pass complete to Cam Livingston for 9 yards to the WEBER16 (Mageo, Rommel)." newcontext="V,3,7,V16">
+    <p_pa vh="V" qb="Jadrian Clark" result="COMP" rcv="Cam Livingston" gain="9"></p_pa>
+    <p_tk vh="H" name="Mageo, Rommel"></p_tk>
+   </play>
+   <play hasball="WEBER" down="3" togo="7" spot="WEBER16" context="V,3,7,V16" playid="25,4,183" type="P" tokens="PASS:10,I,1,*"
+      text="Jadrian Clark pass incomplete to Cam Livingston." newcontext="V,4,7,V16">
+    <p_pa vh="V" qb="Jadrian Clark" result="INC" rcv="Cam Livingston"></p_pa>
+   </play>
+   <play hasball="WEBER" down="4" togo="7" spot="WEBER16" context="V,4,7,V16" playid="25,5,184" type="U" tokens="PUNT:36,V47 OB:"
+      text="Josh Kealamakia punt 31 yards to the WEBER47, out-of-bounds." ob="Y" newcontext="H,1,10,V47">
+    <p_pu vh="V" name="Josh Kealamakia" gain="31" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="3" top="1:17" driveindex="25" complete="Y"></drivesum>
+   <drivestart poss="H,V47,08:34" vh="H" spot="V47" clock="08:34" driveindex="26,184"></drivestart>
+   <play hasball="ORSU" down="1" togo="10" spot="WEBER47" context="H,1,10,V47" playid="26,1,185" clock="08:34" tokens="{DRIVE}:08:34"
+      text="OREGON STATE drive start at 08:34." newcontext="H,1,10,V47">
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="WEBER47" context="H,1,10,V47" playid="26,2,186" type="P" tokens="PASS:0D,I,6,*"
+      text="Collins, Seth pass incomplete to Bolden,Victor." newcontext="H,2,10,V47">
+    <p_pa vh="H" qb="Collins, Seth" result="INC" rcv="Bolden,Victor"></p_pa>
+   </play>
+   <play hasball="ORSU" down="2" togo="10" spot="WEBER47" context="H,2,10,V47" playid="26,3,187" type="R" tokens="RUSH:1,V47, TACK:54"
+      text="Brown, Chris rush for no gain to the WEBER47 (Liljenquist, K.)." newcontext="H,3,10,V47">
+    <p_ru vh="H" name="Brown, Chris" gain="0"></p_ru>
+    <p_tk vh="V" name="Liljenquist, K."></p_tk>
+   </play>
+   <play hasball="ORSU" down="3" togo="10" spot="WEBER47" context="H,3,10,V47" playid="26,4,188" type="P" tokens="PASS:0D,I,2,* BRUP:5"
+      text="Collins, Seth pass incomplete to Jarmon, Hunter (Devonte Johnson)." newcontext="H,4,10,V47">
+    <p_pa vh="H" qb="Collins, Seth" result="INC" rcv="Jarmon, Hunter"></p_pa>
+    <p_bu vh="V" name="Devonte Johnson"></p_bu>
+   </play>
+   <play hasball="ORSU" down="4" togo="10" spot="WEBER47" context="H,4,10,V47" playid="26,5,189" type="U" tokens="PUNT:31,V20 FC:3"
+      text="Porebski, Nick punt 27 yards to the WEBER20, fair catch by Darryl Denby." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="Porebski, Nick" gain="27" fc="Darryl Denby"></p_pu>
+   </play>
+   <drivesum plays="3" yards="0" top="1:01" driveindex="26" complete="Y"></drivesum>
+   <drivestart poss="V,V20,07:33" vh="V" spot="V20" clock="07:33" driveindex="27,189"></drivestart>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER20" context="V,1,10,V20" playid="27,1,190" clock="07:33" tokens="{DRIVE}:07:33"
+      text="WEBER STATE drive start at 07:33." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER20" context="V,1,10,V20" playid="27,2,191" type="P" tokens="PASS:10,S,TM,V15 SACK:95"
+      text="Jadrian Clark sacked for loss of 5 yards to the WEBER15 (Pritchard, B.)." newcontext="V,2,15,V15">
+    <p_pa vh="V" qb="Jadrian Clark" result="SACK" gain="-5"></p_pa>
+    <p_tk vh="H" name="Pritchard, B." sack="Y"></p_tk>
+   </play>
+   <play hasball="WEBER" down="2" togo="15" spot="WEBER15" context="V,2,15,V15" playid="27,3,192" type="P" tokens="PASS:10,C,1,V25 TACK:14,4"
+      text="Jadrian Clark pass complete to Cam Livingston for 10 yards to the WEBER25 (Decoud, Treston;Strong, Justin)." newcontext="V,3,5,V25">
+    <p_pa vh="V" qb="Jadrian Clark" result="COMP" rcv="Cam Livingston" gain="10"></p_pa>
+    <p_tk vh="H" name="Decoud, Treston" assist="Y"></p_tk>
+    <p_tk vh="H" name="Strong, Justin" assist="Y"></p_tk>
+   </play>
+   <play hasball="WEBER" down="3" togo="5" spot="WEBER25" context="V,3,5,V25" playid="27,4,193" type="P" tokens="PASS:10,I,87,*"
+      text="Jadrian Clark pass incomplete to Cody Eyolfson." newcontext="V,4,5,V25">
+    <p_pa vh="V" qb="Jadrian Clark" result="INC" rcv="Cody Eyolfson"></p_pa>
+   </play>
+   <play hasball="WEBER" down="4" togo="5" spot="WEBER25" context="V,4,5,V25" playid="27,5,194" type="E" tokens="PEN:V,ID,D"
+      text="PENALTY WEBER ineligible downfield on pass declined." newcontext="V,4,5,V25">
+    <p_pn vh="V" code="ID" type="ineligible downfield on pass" name="Cody Eyolfson" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="WEBER" down="4" togo="5" spot="WEBER25" context="V,4,5,V25" playid="27,6,195" type="U" tokens="PUNT:36,H31 FC:88"
+      text="Josh Kealamakia punt 44 yards to the ORSU31, fair catch by Dockery, Rahmel." newcontext="H,1,10,H31">
+    <p_pu vh="V" name="Josh Kealamakia" gain="44" fc="Dockery, Rahmel"></p_pu>
+   </play>
+   <drivesum plays="3" yards="5" top="1:09" driveindex="27" complete="Y"></drivesum>
+   <drivestart poss="H,H31,06:24" vh="H" spot="H31" clock="06:24" driveindex="28,195"></drivestart>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU31" context="H,1,10,H31" playid="28,1,196" clock="06:24" tokens="{DRIVE}:06:24"
+      text="OREGON STATE drive start at 06:24." newcontext="H,1,10,H31">
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU31" context="H,1,10,H31" playid="28,2,197" type="R" tokens="RUSH:6,H35, OB: TACK:25"
+      text="Bolden,Victor rush for 4 yards to the ORSU35, out-of-bounds (Jared Afalava)." ob="Y" newcontext="H,2,6,H35">
+    <p_ru vh="H" name="Bolden,Victor" gain="4"></p_ru>
+    <p_tk vh="V" name="Jared Afalava"></p_tk>
+   </play>
+   <play hasball="ORSU" down="2" togo="6" spot="ORSU35" context="H,2,6,H35" playid="28,3,198" type="R" first="R" tokens="RUSH:1,H41, TACK:25"
+      text="Brown, Chris rush for 6 yards to the ORSU41, 1ST DOWN ORSU (Jared Afalava)." newcontext="H,1,10,H41">
+    <p_ru vh="H" name="Brown, Chris" gain="6"></p_ru>
+    <p_tk vh="V" name="Jared Afalava"></p_tk>
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU41" context="H,1,10,H41" playid="28,4,199" type="R" tokens="RUSH:1,H50, TACK:7,5"
+      text="Brown, Chris rush for 9 yards to the 50 yardline (Josh Burton;Devonte Johnson)." newcontext="H,2,1,H50">
+    <p_ru vh="H" name="Brown, Chris" gain="9"></p_ru>
+    <p_tk vh="V" name="Josh Burton" assist="Y"></p_tk>
+    <p_tk vh="V" name="Devonte Johnson" assist="Y"></p_tk>
+   </play>
+   <play hasball="ORSU" down="2" togo="1" spot="ORSU50" context="H,2,1,H50" playid="28,5,200" type="R" first="R" tokens="RUSH:0D,V30, OB: TACK:7"
+      text="Collins, Seth rush for 20 yards to the WEBER30, 1ST DOWN ORSU, out-of-bounds (Josh Burton)." ob="Y" newcontext="H,1,10,V30">
+    <p_ru vh="H" name="Collins, Seth" gain="20"></p_ru>
+    <p_tk vh="V" name="Josh Burton"></p_tk>
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="WEBER30" context="H,1,10,V30" playid="28,6,201" type="R" tokens="RUSH:1,V26, TACK:40"
+      text="Brown, Chris rush for 4 yards to the WEBER26 (Vince Coleman)." newcontext="H,2,6,V26">
+    <p_ru vh="H" name="Brown, Chris" gain="4"></p_ru>
+    <p_tk vh="V" name="Vince Coleman"></p_tk>
+   </play>
+   <play hasball="ORSU" down="2" togo="6" spot="WEBER26" context="H,2,6,V26" playid="28,7,202" type="R" tokens="RUSH:6,V33, TACK:40"
+      text="Bolden,Victor rush for loss of 7 yards to the WEBER33 (Vince Coleman)." newcontext="H,3,13,V33">
+    <p_ru vh="H" name="Bolden,Victor" gain="-7"></p_ru>
+    <p_tk vh="V" name="Vince Coleman"></p_tk>
+   </play>
+   <play hasball="ORSU" down="3" togo="13" spot="WEBER33" context="H,3,13,V33" playid="28,8,203" type="#" clock="03:28" tokens="TOUT:H T:03:28"
+      text="Timeout Oregon State, clock 03:28." newcontext="H,3,13,V33">
+    <p_to vh="H" team="Oregon State"></p_to>
+   </play>
+   <play hasball="ORSU" down="3" togo="13" spot="WEBER33" context="H,3,13,V33" playid="28,9,204" type="P" tokens="PASS:0D,C,1,V27 OB: TACK:54"
+      text="Collins, Seth pass complete to Brown, Chris for 6 yards to the WEBER27, out-of-bounds (Liljenquist, K.)." ob="Y" newcontext="H,4,7,V27">
+    <p_pa vh="H" qb="Collins, Seth" result="COMP" rcv="Brown, Chris" gain="6"></p_pa>
+    <p_tk vh="V" name="Liljenquist, K."></p_tk>
+   </play>
+   <play hasball="ORSU" down="4" togo="7" spot="WEBER27" context="H,4,7,V27" playid="28,10,205" type="F" score="Y" vscore="7" hscore="26" clock="03:11" tokens="FGA:2A,45,G T:03:11"
+      text="Owens, Garrett field goal attempt from 45 GOOD, clock 03:11." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="Owens, Garrett" distance="45" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="7" H="26"></score>
+   <drivesum plays="8" yards="42" top="3:13" driveindex="28" complete="Y"></drivesum>
+   <play hasball="ORSU" down="1" togo="0" spot="ORSU35" context="H,1,0,H35" playid="28,11,206" type="K" tokens="KO:2A,V00 RET:13,V18 TACK:30,3"
+      text="Owens, Garrett kickoff 65 yards to the WEBER0, Eric Wilkes return 18 yards to the WEBER18 (Ovgard, Gabe;Arnold,Brandon)." newcontext="V,1,10,V18">
+    <p_ko vh="H" name="Owens, Garrett" gain="65"></p_ko>
+    <p_kr vh="V" name="Eric Wilkes" gain="18"></p_kr>
+    <p_tk vh="H" name="Ovgard, Gabe" assist="Y"></p_tk>
+    <p_tk vh="H" name="Arnold,Brandon" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V18,03:03" vh="V" spot="V18" clock="03:03" driveindex="29,206"></drivestart>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER18" context="V,1,10,V18" playid="29,1,207" clock="03:03" tokens="{DRIVE}:03:03"
+      text="WEBER STATE drive start at 03:03." newcontext="V,1,10,V18">
+   </play>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER18" context="V,1,10,V18" playid="29,2,208" type="P" tokens="PASS:10,C,1,V25 TACK:52"
+      text="Jadrian Clark pass complete to Cam Livingston for 7 yards to the WEBER25 (Houston, Sumner)." newcontext="V,2,3,V25">
+    <p_pa vh="V" qb="Jadrian Clark" result="COMP" rcv="Cam Livingston" gain="7"></p_pa>
+    <p_tk vh="H" name="Houston, Sumner"></p_tk>
+   </play>
+   <comment text="WSU's #1 injured on the play; walked off the field"></comment>
+   <play hasball="WEBER" down="2" togo="3" spot="WEBER25" context="V,2,3,V25" playid="29,3,210" type="P" first="P" tokens="PASS:10,C,3,V28 TACK:8"
+      text="Jadrian Clark pass complete to Darryl Denby for 3 yards to the WEBER28, 1ST DOWN WEBER (Mageo, Rommel)." newcontext="V,1,10,V28">
+    <p_pa vh="V" qb="Jadrian Clark" result="COMP" rcv="Darryl Denby" gain="3"></p_pa>
+    <p_tk vh="H" name="Mageo, Rommel"></p_tk>
+   </play>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER28" context="V,1,10,V28" playid="29,4,211" type="P" tokens="PASS:10,C,6,V37 TACK:12,8"
+      text="Jadrian Clark pass complete to Drew Batchelor for 9 yards to the WEBER37 (Hill, Kendall;Mageo, Rommel)." newcontext="V,2,1,V37">
+    <p_pa vh="V" qb="Jadrian Clark" result="COMP" rcv="Drew Batchelor" gain="9"></p_pa>
+    <p_tk vh="H" name="Hill, Kendall" assist="Y"></p_tk>
+    <p_tk vh="H" name="Mageo, Rommel" assist="Y"></p_tk>
+   </play>
+   <play hasball="WEBER" down="2" togo="1" spot="WEBER37" context="V,2,1,V37" playid="29,5,212" type="P" first="P" tokens="PASS:10,C,6,V39 TACK:8"
+      text="Jadrian Clark pass complete to Drew Batchelor for 2 yards to the WEBER39, 1ST DOWN WEBER (Mageo, Rommel)." newcontext="V,1,10,V39">
+    <p_pa vh="V" qb="Jadrian Clark" result="COMP" rcv="Drew Batchelor" gain="2"></p_pa>
+    <p_tk vh="H" name="Mageo, Rommel"></p_tk>
+   </play>
+   <play hasball="WEBER" down="1" togo="10" spot="WEBER39" context="V,1,10,V39" playid="29,6,213" type="P" tokens="PASS:10,D,81,*"
+      text="Jadrian Clark pass incomplete to R. Longangu, dropped pass." newcontext="V,2,10,V39">
+    <p_pa vh="V" qb="Jadrian Clark" result="DROP" rcv="R. Longangu"></p_pa>
+   </play>
+   <play hasball="WEBER" down="2" togo="10" spot="WEBER39" context="V,2,10,V39" playid="29,7,214" type="E" first="E" tokens="PASS:10,X,43,H30 RET:43,V45 TACK:85 PEN:H,PI,A,12,H46,1 NOPLAY:"
+      text="Jadrian Clark pass intercepted by Soesman, Adam at the ORSU30, Soesman, Adam return to the WEBER45 (TyJuan Prince), PENALTY ORSU pass interference (Hill, Kendall) 15 yards to the ORSU46, 1ST DOWN WEBER, NO PLAY." newcontext="V,1,10,H46">
+    <p_pn vh="H" code="PI" type="pass interference" name="Hill, Kendall" result="ACCEPT" at="V39" yards="15"></p_pn>
+   </play>
+   <play hasball="WEBER" down="1" togo="10" spot="ORSU46" context="V,1,10,H46" playid="29,8,215" type="P" tokens="PASS:10,I,26,*"
+      text="Jadrian Clark pass incomplete to T. Garrett." newcontext="V,2,10,H46">
+    <p_pa vh="V" qb="Jadrian Clark" result="INC" rcv="T. Garrett"></p_pa>
+   </play>
+   <play hasball="WEBER" down="2" togo="10" spot="ORSU46" context="V,2,10,H46" playid="29,9,216" type="P" tokens="PASS:10,C,6,H44 TACK:29"
+      text="Jadrian Clark pass complete to Drew Batchelor for 2 yards to the ORSU44 (Williams, D.)." newcontext="V,3,8,H44">
+    <p_pa vh="V" qb="Jadrian Clark" result="COMP" rcv="Drew Batchelor" gain="2"></p_pa>
+    <p_tk vh="H" name="Williams, D."></p_tk>
+   </play>
+   <play hasball="WEBER" down="3" togo="8" spot="ORSU44" context="V,3,8,H44" playid="29,10,217" type="P" tokens="PASS:10,C,33,H38 TACK:35,18"
+      text="Jadrian Clark pass complete to Tui Satuala for 6 yards to the ORSU38 (Saulo, Caleb;Gilmore, Malik)." newcontext="V,4,2,H38">
+    <p_pa vh="V" qb="Jadrian Clark" result="COMP" rcv="Tui Satuala" gain="6"></p_pa>
+    <p_tk vh="H" name="Saulo, Caleb" assist="Y"></p_tk>
+    <p_tk vh="H" name="Gilmore, Malik" assist="Y"></p_tk>
+   </play>
+   <play hasball="WEBER" down="4" togo="2" spot="ORSU38" context="V,4,2,H38" playid="29,11,218" type="#" clock="00:29" tokens="TOUT:H T:00:29"
+      text="Timeout Oregon State, clock 00:29." newcontext="V,4,2,H38">
+    <p_to vh="H" team="Oregon State"></p_to>
+   </play>
+   <play hasball="WEBER" down="4" togo="2" spot="ORSU38" context="V,4,2,H38" playid="29,12,219" type="P" tokens="PASS:10,I,3,*"
+      text="Jadrian Clark pass incomplete to Darryl Denby." newcontext="H,1,10,H38">
+    <p_pa vh="V" qb="Jadrian Clark" result="INC" rcv="Darryl Denby"></p_pa>
+   </play>
+   <drivesum plays="9" yards="44" top="2:38" driveindex="29" complete="Y"></drivesum>
+   <drivestart poss="H,H38,00:25" vh="H" spot="H38" clock="00:25" driveindex="30,219"></drivestart>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU38" context="H,1,10,H38" playid="30,1,220" clock="00:25" tokens="{DRIVE}:00:25"
+      text="OREGON STATE drive start at 00:25." newcontext="H,1,10,H38">
+   </play>
+   <play hasball="ORSU" down="1" togo="10" spot="ORSU38" context="H,1,10,H38" playid="30,2,221" type="E" tokens="PEN:V,SU,A,TM,H43,N"
+      text="PENALTY WEBER substitution infraction 5 yards to the ORSU43." newcontext="H,1,5,H43">
+    <p_pn vh="V" code="SU" type="substitution infraction" result="ACCEPT" at="H38" yards="5"></p_pn>
+   </play>
+   <play hasball="ORSU" down="1" togo="5" spot="ORSU43" context="H,1,5,H43" playid="30,3,222" type="R" tokens="RUSH:TM,H40,"
+      text="TEAM rush for loss of 3 yards to the ORSU40." newcontext="H,2,8,H40">
+    <p_ru vh="H" name="TEAM" gain="-3"></p_ru>
+   </play>
+   <play hasball="ORSU" down="2" togo="8" spot="ORSU40" context="H,2,8,H40" playid="30,4,223" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of game, clock 00:00." newcontext="H,2,8,H40">
+   </play>
+   <drivesum plays="1" yards="2" top="0:25" driveindex="30" complete="Y"></drivesum>
+   <score final="Y" V="7" H="26"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="WEBER">
+    <firstdowns no="3" rush="0" pass="2" penalty="1"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="0" thirdatt="5" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:54"></misc>
+    <rush att="3" yds="-10" gain="1" loss="11" td="0" long="0"></rush>
+    <pass comp="9" att="16" int="1" yds="56" td="0" long="0" sacks="2" sackyds="11"></pass>
+    <rcv no="9" yds="56" td="0" long="0"></rcv>
+    <punt no="3" yds="114" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="38.0"></punt>
+    <defense tackua="12" tacka="6" tot_tack="18" tflua="1" tfla="0" tflyds="7" sacks="0" sackyds="0" brup="1"></defense>
+    <kr no="3" yds="50" td="0" long="0"></kr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ORSU">
+    <firstdowns no="6" rush="4" pass="2" penalty="0"></firstdowns>
+    <penalties no="2" yds="25"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:06"></misc>
+    <rush att="15" yds="88" gain="98" loss="10" td="0" long="0"></rush>
+    <pass comp="3" att="6" int="0" yds="64" td="1" long="33" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="64" td="1" long="33"></rcv>
+    <punt no="1" yds="27" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="27.0"></punt>
+    <ko no="3" yds="195" ob="0" tb="0"></ko>
+    <fg made="2" att="2" long="5" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="11" tacka="8" tot_tack="19" tflua="2" tfla="0" tflyds="11" sacks="2" sackyds="11" int="1" intyds="0"></defense>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <scoring td="1" fg="2" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="ORSU" down="2" togo="8" spot="ORSU40" context="H,2,8,H40" qtr="4" clock="00:00" vtoh="0" htoh="2"
+       lastplay="End of game, clock 00:00."></downtogo>
+ </plays>
+ <message text=""></message>
+ <dnp vh="V" id="WEBER">
+  <player name="Zach Smith" checkname="SMITH,ZACH" uni="4" class="JR" gp="0" code="4"></player>
+  <player name="Billy Green" checkname="GREEN,BILLY" uni="11" class="JR" gp="0" code="11"></player>
+  <player name="Kelly Hilinski" checkname="HILINSKI,KELLY" uni="16" class="JR" gp="0" code="16"></player>
+  <player name="Kory Wilson" checkname="WILSON,KORY" uni="18" class="FR" gp="0" code="18"></player>
+  <player name="S. Geisinger" checkname="GEISINGER,S" uni="20" class="FR" gp="0" code="20"></player>
+  <player name="Dre Snowden" checkname="SNOWDEN,DRE" uni="27" class="JR" gp="0" code="27"></player>
+  <player name="Elias Miller" checkname="MILLER,ELIAS" uni="29" class="FR" gp="0" code="29"></player>
+  <player name="Alphonso Marsh" checkname="MARSH,ALPHONSO" uni="30" class="JR" gp="0" code="30"></player>
+  <player name="John Leilua" checkname="LEILUA,JOHN" uni="44" class="FR" gp="0" code="44"></player>
+  <player name="Landon Stice" checkname="STICE,LANDON" uni="45" class="FR" gp="0" code="45"></player>
+  <player name="Romello Dixon" checkname="DIXON,ROMELLO" uni="51" class="JR" gp="0" code="51"></player>
+  <player name="Taylor Hintze" checkname="HINTZE,TAYLOR" uni="60" class="FR" gp="0" code="60"></player>
+  <player name="Brady Simpson" checkname="SIMPSON,BRADY" uni="69" class="SO" gp="0" code="69"></player>
+  <player name="I. Betancourt" checkname="BETANCOURT,I" uni="72" class="FR" gp="0" code="72"></player>
+  <player name="A.J. Wilcox" checkname="WILCOX,AJ" uni="75" class="JR" gp="0" code="75"></player>
+  <player name="Justin Turner" checkname="TURNER,JUSTIN" uni="76" class="SR" gp="0" code="76"></player>
+  <player name="Max Curtis" checkname="CURTIS,MAX" uni="77" class="JR" gp="0" code="77"></player>
+  <player name="Louis Mayela" checkname="MAYELA,LOUIS" uni="80" class="FR" gp="0" code="80"></player>
+  <player name="Connor McMahon" checkname="MCMAHON,CONNOR" uni="83" class="FR" gp="0" code="83"></player>
+  <player name="Martrel Holmes" checkname="HOLMES,MARTREL" uni="84" class="FR" gp="0" code="84"></player>
+  <player name="McKay Murphy" checkname="MURPHY,MCKAY" uni="90" class="SO" gp="0" code="90"></player>
+  <player name="D. Frazier" checkname="FRAZIER,D" uni="91" class="FR" gp="0" code="91"></player>
+  <player name="Aaron Blackwell" checkname="BLACKWELL,AARON" uni="92" class="FR" gp="0" code="92"></player>
+ </dnp>
+ <dnp vh="H" id="ORSU">
+  <player name="Mitchell, Nick" checkname="MITCHELL,NICK" uni="1D" class="FR" gp="0" code="1D"></player>
+  <player name="Irvine, Jay" checkname="IRVINE,JAY" uni="2D" class="FR" gp="0" code="2D"></player>
+  <player name="Cope, Ryan" checkname="COPE,RYAN" uni="2I" class="JR" gp="0" code="2I"></player>
+  <player name="Wilson, Shawn" checkname="WILSON,SHAWN" uni="2H" class="FR" gp="0" code="2H"></player>
+  <player name="Greaves, Marcus" checkname="GREAVES,MARCUS" uni="3B" class="SO" gp="0" code="3B"></player>
+  <player name="Hayes, Chris" checkname="HAYES,CHRIS" uni="20" class="SO" gp="0" code="20"></player>
+  <player name="Crawford, X." checkname="CRAWFORD,X" uni="22" class="FR" gp="0" code="22"></player>
+  <player name="Haskins, Damien" checkname="HASKINS,DAMIEN" uni="23" class="SO" gp="0" code="23"></player>
+  <player name="Bailey,Jaylynn" checkname="BAILEY,JAYLYNN" uni="25" class="SO" gp="0" code="25"></player>
+  <player name="Standish, Zach" checkname="STANDISH,ZACH" uni="28" class="FR" gp="0" code="28"></player>
+  <player name="Okonkwo, C." checkname="OKONKWO,C" uni="38" class="SO" gp="0" code="38"></player>
+  <player name="Rodriguez, D." checkname="RODRIGUEZ,D" uni="39" class="FR" gp="0" code="39"></player>
+  <player name="Ortiz, Ricky" checkname="ORTIZ,RICKY" uni="42" class="JR" gp="0" code="42"></player>
+  <player name="Liuchan, Ricky" checkname="LIUCHAN,RICKY" uni="44" class="FR" gp="0" code="44"></player>
+  <player name="Wallen, Shane" checkname="WALLEN,SHANE" uni="45" class="SR" gp="0" code="45"></player>
+  <player name="Choukair, J." checkname="CHOUKAIR,J" uni="46" class="FR" gp="0" code="46"></player>
+  <player name="Hufanga, T.J." checkname="HUFANGA,TJ" uni="53" class="SO" gp="0" code="53"></player>
+  <player name="Kelsey, Connor" checkname="KELSEY,CONNOR" uni="57" class="FR" gp="0" code="57"></player>
+  <player name="Hopkins, Will" checkname="HOPKINS,WILL" uni="60" class="SO" gp="0" code="60"></player>
+  <player name="Johnson, Mason" checkname="JOHNSON,MASON" uni="63" class="FR" gp="0" code="63"></player>
+  <player name="Moore, Trent" checkname="MOORE,TRENT" uni="67" class="FR" gp="0" code="67"></player>
+  <player name="Tauaho, Sosaia" checkname="TAUAHO,SOSAIA" uni="68" class="JR" gp="0" code="68"></player>
+  <player name="Schubert, P." checkname="SCHUBERT,P" uni="69" class="FR" gp="0" code="69"></player>
+  <player name="Olson, Robert" checkname="OLSON,ROBERT" uni="71" class="FR" gp="0" code="71"></player>
+  <player name="Brandel, Blake" checkname="BRANDEL,BLAKE" uni="73" class="FR" gp="0" code="73"></player>
+  <player name="Demogerontas, Y" checkname="DEMOGERONTAS,Y" uni="76" class="FR" gp="0" code="76"></player>
+  <player name="Curtius, Sam" checkname="CURTIUS,SAM" uni="78" class="SO" gp="0" code="78"></player>
+  <player name="Keenan, Bobby" checkname="KEENAN,BOBBY" uni="79" class="JR" gp="0" code="79"></player>
+  <player name="Togiai, Noah" checkname="TOGIAI,NOAH" uni="81" class="FR" gp="0" code="81"></player>
+  <player name="Wily-Matagi, T." checkname="WILY-MATAGI,T" uni="82" class="FR" gp="0" code="82"></player>
+  <player name="Kell, Drew" checkname="KELL,DREW" uni="87" class="FR" gp="0" code="87"></player>
+  <player name="Tago, Noke" checkname="TAGO,NOKE" uni="91" class="JR" gp="0" code="91"></player>
+ </dnp>
+ <longplays thresh="70">
+ </longplays>
+</fbgame>

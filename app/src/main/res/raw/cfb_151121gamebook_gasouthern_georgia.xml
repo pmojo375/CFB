@@ -1,0 +1,1591 @@
+<fbgame source="Tas Football" version="4.16.07" generated="11/22/2015">
+ <venue gameid="UGA1511" visid="GS" homeid="UGA" visname="Georgia Southern" homename="Georgia"
+      date="11/21/2015" location="Athens, Ga." stadium="Sanford Stadium"
+      start="7:07" end="10:18" nitegame="Y"
+      duration="3:11" attend="92746" temp="52" wind="Calm" weather="Overcast">
+  <officials ref="David Smith" ump="Jeff Roberson" line="Lane Thomas" lj="Mickey Bryson" bj="Roy Potts" fj="Andy Britton" sj="AnthonyJeffries" cj="Chad Lorance" alt="Chad Lorance"></officials>
+  <notes>
+   <note text="Replay Official: Rocky Goode"></note>
+  </notes>
+  <rules qtrs="4" mins="15" downs="4" yds="10" kospot="35" tbspot="20" kotbspot="25" patspot="3" safspot="20" td="6" fg="3" pat="1" patx="2" saf="2" defpat="2" rouge="1" field="100" toh="3" sackrush="Y" fgaplay="Y" netpunttb="Y"></rules>
+ </venue>
+ <team vh="V" code="253" id="GS" name="Georgia Southern" record="7-3" abb="S">
+  <linescore prds="5" line="0,7,7,3,0" score="17">
+   <lineprd prd="1" score="0"></lineprd>
+   <lineprd prd="2" score="7"></lineprd>
+   <lineprd prd="3" score="7"></lineprd>
+   <lineprd prd="4" score="3"></lineprd>
+   <lineprd prd="5" score="0"></lineprd>
+  </linescore>
+  <totals totoff_plays="60" totoff_yards="277" totoff_avg="4.6">
+   <firstdowns no="11" rush="9" pass="2" penalty="0"></firstdowns>
+   <penalties no="3" yds="25"></penalties>
+   <conversions thirdconv="6" thirdatt="16" fourthconv="0" fourthatt="1"></conversions>
+   <fumbles no="1" lost="1"></fumbles>
+   <misc yds="0" top="32:45" ona="0" onm="0" ptsto="7"></misc>
+   <redzone att="3" scores="1" points="7" tdrush="1" tdpass="0" fgmade="0" endfga="1" enddowns="1" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="53" yds="233" gain="259" loss="26" td="1" long="48"></rush>
+   <pass comp="4" att="7" int="0" yds="44" td="0" long="28" sacks="1" sackyds="8"></pass>
+   <rcv no="4" yds="44" td="0" long="28"></rcv>
+   <punt no="7" yds="261" long="44" blkd="0" tb="1" fc="3" plus50="0" inside20="0" avg="37.3"></punt>
+   <ko no="4" yds="260" ob="0" tb="2"></ko>
+   <fg made="1" att="2" long="48" blkd="0"></fg>
+   <pat kickatt="2" kickmade="2"></pat>
+   <defense tackua="29" tacka="30" tot_tack="59" tflua="4" tfla="2" tflyds="26" sacks="2" sackyds="20" brup="2" ff="2" fr="2" fryds="62"></defense>
+   <kr no="3" yds="72" td="0" long="31"></kr>
+   <pr no="1" yds="0" td="0" long="0"></pr>
+   <fr no="1" yds="62" td="1" long="62"></fr>
+   <scoring td="2" fg="1" patkick="2"></scoring>
+  </totals>
+  <player name="C. Williams" shortname="C. Williams" checkname="WILLIAMS,C" uni="1W" class="SR" gp="1" code="1W">
+   <defense tackua="0" tacka="1" tot_tack="1" fr="1" fryds="62"></defense>
+   <fr no="1" yds="62" td="1" long="62"></fr>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="L. Ramsby" shortname="L. Ramsby" checkname="RAMSBY,L" uni="1" class="SO" gp="1" code="1">
+   <rush att="12" yds="36" gain="49" loss="13" td="1" long="11"></rush>
+   <rcv no="1" yds="2" td="0" long="2"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="F. Upshaw" shortname="F. Upshaw" checkname="UPSHAW,F" uni="1U" class="JR" gp="1" code="1U">
+   <rush att="7" yds="67" gain="75" loss="8" td="0" long="48"></rush>
+   <pass comp="3" att="5" int="0" yds="47" td="0" long="28" sacks="1" sackyds="8"></pass>
+  </player>
+  <player name="W. Fields" shortname="W. Fields" checkname="FIELDS,W" uni="2F" class="FR" gp="1" code="2F">
+   <rush att="5" yds="14" gain="14" loss="0" td="0" long="6"></rush>
+  </player>
+  <player name="P. Flowe" shortname="P. Flowe" checkname="FLOWE,P" uni="4F" class="JR" gp="1" code="4F"></player>
+  <player name="K. Ellison" shortname="K. Ellison" checkname="ELLISON,K" uni="4" class="JR" gp="1" gs="1" opos="QB" code="4">
+   <rush att="8" yds="44" gain="44" loss="0" td="0" long="20"></rush>
+   <pass comp="1" att="2" int="0" yds="-3" td="0" long="0" sacks="0" sackyds="0"></pass>
+  </player>
+  <player name="R. Byrd" shortname="R. Byrd" checkname="BYRD,R" uni="5B" class="SR" gp="1" gs="1" opos="RG" code="5B"></player>
+  <player name="D. Jones" shortname="D. Jones" checkname="JONES,D" uni="5" class="JR" gp="1" gs="1" dpos="CB" code="5">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="B. Dawson" shortname="B. Dawson" checkname="DAWSON,B" uni="5D" class="JR" gp="1" gs="1" dpos="DE" code="5D">
+   <defense tackua="1" tacka="1" tot_tack="2" tflua="1" tfla="0" tflyds="7" sackua="1" sacka="0" sackyds="7"></defense>
+  </player>
+  <player name="D. White" shortname="D. White" checkname="WHITE,D" uni="6" class="SR" gp="1" gs="1" dpos="CB" code="6">
+   <defense tackua="4" tacka="1" tot_tack="5" brup="2" ff="1" fr="1" fryds="0"></defense>
+  </player>
+  <player name="M. Dobson" shortname="M. Dobson" checkname="DOBSON,M" uni="7" class="SR" gp="1" gs="1" dpos="FS" code="7">
+   <defense tackua="1" tacka="3" tot_tack="4"></defense>
+  </player>
+  <player name="M. Crockett" shortname="M. Crockett" checkname="CROCKETT,M" uni="9C" class="JR" gp="1" code="9C"></player>
+  <player name="Y. Koo" shortname="Y. Koo" checkname="KOO,Y" uni="9K" class="JR" gp="1" code="9K">
+   <ko no="4" yds="260" ob="0" tb="2"></ko>
+   <fg made="1" att="2" long="48" blkd="0"></fg>
+   <pat kickatt="2" kickmade="2"></pat>
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+   <scoring fg="1" patkick="2"></scoring>
+  </player>
+  <player name="J. Ward" shortname="J. Ward" checkname="WARD,J" uni="9W" class="SR" gp="1" code="9W"></player>
+  <player name="V. Harley" shortname="V. Harley" checkname="HARLEY,V" uni="10" class="JR" gp="1" code="10"></player>
+  <player name="B. Johnson" shortname="B. Johnson" checkname="JOHNSON,B" uni="12" class="JR" gp="1" code="12">
+   <rcv no="1" yds="28" td="0" long="28"></rcv>
+  </player>
+  <player name="T. Hicklin" shortname="T. Hicklin" checkname="HICKLIN,T" uni="14" class="SR" gp="1" code="14"></player>
+  <player name="A. Glover" shortname="A. Glover" checkname="GLOVER,A" uni="16" class="SR" gp="1" gs="1" dpos="SS" code="16">
+   <defense tackua="1" tacka="5" tot_tack="6"></defense>
+  </player>
+  <player name="M. Henry" shortname="M. Henry" checkname="HENRY,M" uni="17" class="FR" gp="1" code="17">
+   <rush att="1" yds="6" gain="6" loss="0" td="0" long="6"></rush>
+  </player>
+  <player name="K. Butler" shortname="K. Butler" checkname="BUTLER,K" uni="18" class="JR" gp="1" code="18"></player>
+  <player name="D. Keaton" shortname="D. Keaton" checkname="KEATON,D" uni="23" class="SR" gp="1" gs="1" opos="WR" code="23">
+   <kr no="3" yds="72" td="0" long="31"></kr>
+   <pr no="1" yds="0" td="0" long="0"></pr>
+   <fumbles no="1" lost="1"></fumbles>
+  </player>
+  <player name="R. Jones" shortname="R. Jones" checkname="JONES,R" uni="24" class="SR" gp="1" gs="1" dpos="CB" code="24">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="D. Gallon" shortname="D. Gallon" checkname="GALLON,D" uni="27" class="JR" gp="1" gs="1" dpos="LB" code="27">
+   <defense tackua="5" tacka="5" tot_tack="10" tflua="1" tfla="0" tflyds="3"></defense>
+  </player>
+  <player name="D. Godfrey" shortname="D. Godfrey" checkname="GODFREY,D" uni="29" class="FR" gp="1" code="29">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="R. Longoria" shortname="R. Longoria" checkname="LONGORIA,R" uni="31" class="SR" gp="1" gs="1" opos="WR" code="31"></player>
+  <player name="W. Bussey" shortname="W. Bussey" checkname="BUSSEY,W" uni="32" class="JR" gp="1" code="32">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="J. Dean" shortname="J. Dean" checkname="DEAN,J" uni="33" class="JR" gp="1" gs="1" opos="TE" code="33"></player>
+  <player name="C. DeLaRosa" shortname="C. DeLaRosa" checkname="DELAROSA,C" uni="34" class="SO" gp="1" code="34">
+   <defense tackua="0" tacka="2" tot_tack="2"></defense>
+  </player>
+  <player name="M. Breida" shortname="M. Breida" checkname="BREIDA,M" uni="36" class="JR" gp="1" gs="1" opos="TB" code="36">
+   <rush att="20" yds="66" gain="71" loss="5" td="0" long="23"></rush>
+   <rcv no="1" yds="-3" td="0" long="0"></rcv>
+  </player>
+  <player name="A. Williams" shortname="A. Williams" checkname="WILLIAMS,A" uni="37" class="SR" gp="1" gs="1" dpos="LB" code="37">
+   <defense tackua="6" tacka="3" tot_tack="9" tflua="1" tfla="0" tflyds="1" ff="1"></defense>
+  </player>
+  <player name="R. Sam" shortname="R. Sam" checkname="SAM,R" uni="39" class="JR" gp="1" code="39"></player>
+  <player name="R. George" shortname="R. George" checkname="GEORGE,R" uni="40" class="SO" gp="1" code="40"></player>
+  <player name="N. Govan" shortname="N. Govan" checkname="GOVAN,N" uni="42" class="JR" gp="1" code="42"></player>
+  <player name="I. Seise" shortname="I. Seise" checkname="SEISE,I" uni="44" class="FR" gp="1" code="44"></player>
+  <player name="C. Rediger" shortname="C. Rediger" checkname="REDIGER,C" uni="46" class="SR" gp="1" code="46"></player>
+  <player name="R. Nowicki" shortname="R. Nowicki" checkname="NOWICKI,R" uni="49" class="SR" gp="1" code="49">
+   <punt no="7" yds="261" long="44" blkd="0" tb="1" fc="3" plus50="0" inside20="0" avg="37.3"></punt>
+  </player>
+  <player name="J. Johnson" shortname="J. Johnson" checkname="JOHNSON,J" uni="51" class="JR" gp="1" code="51">
+   <defense tackua="1" tacka="3" tot_tack="4" tflua="1" tfla="1" tflyds="14" sackua="1" sacka="0" sackyds="13"></defense>
+  </player>
+  <player name="R. Alexander" shortname="R. Alexander" checkname="ALEXANDER,R" uni="52" class="SO" gp="1" code="52"></player>
+  <player name="J. Culbreth" shortname="J. Culbreth" checkname="CULBRETH,J" uni="58" class="FR" gp="1" gs="1" opos="LT" code="58"></player>
+  <player name="A. Kwon" shortname="A. Kwon" checkname="KWON,A" uni="60" class="JR" gp="1" gs="1" opos="C" code="60"></player>
+  <player name="R. Northrup" shortname="R. Northrup" checkname="NORTHRUP,R" uni="62" class="FR" gp="1" code="62"></player>
+  <player name="D. Foreman" shortname="D. Foreman" checkname="FOREMAN,D" uni="63" class="SR" gp="1" gs="1" opos="LG" code="63"></player>
+  <player name="C. Taylor" shortname="C. Taylor" checkname="TAYLOR,C" uni="67" class="FR" gp="1" code="67"></player>
+  <player name="M. Hunt" shortname="M. Hunt" checkname="HUNT,M" uni="73" class="SR" gp="1" code="73">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="T. Boynton" shortname="T. Boynton" checkname="BOYNTON,T" uni="77" class="SO" gp="1" gs="1" opos="RT" code="77"></player>
+  <player name="M. Cambell" shortname="M. Cambell" checkname="CAMBELL,M" uni="81" class="SO" gp="1" gs="1" opos="WR" code="81">
+   <rcv no="1" yds="17" td="0" long="17"></rcv>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="A. Sims" shortname="A. Sims" checkname="SIMS,A" uni="84" class="SR" gp="1" code="84"></player>
+  <player name="D. Heard" shortname="D. Heard" checkname="HEARD,D" uni="89" class="JR" gp="1" code="89"></player>
+  <player name="D. Sapp" shortname="D. Sapp" checkname="SAPP,D" uni="90" class="SO" gp="1" gs="1" dpos="DT" code="90">
+   <defense tackua="1" tacka="2" tot_tack="3"></defense>
+  </player>
+  <player name="L. Hunt" shortname="L. Hunt" checkname="HUNT,L" uni="91" class="FR" gp="1" gs="1" dpos="DE" code="91">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="J. Banta" shortname="J. Banta" checkname="BANTA,J" uni="97" class="SR" gp="1" code="97"></player>
+  <player name="J. Ellison" shortname="J. Ellison" checkname="ELLISON,J" uni="99" class="JR" gp="1" gs="1" dpos="NT" code="99">
+   <defense tackua="2" tacka="2" tot_tack="4" tflua="0" tfla="1" tflyds="1"></defense>
+  </player>
+ </team>
+ <team vh="H" code="257" id="UGA" name="Georgia" record="8-3" abb="G">
+  <linescore prds="5" line="7,0,7,3,6" score="23">
+   <lineprd prd="1" score="7"></lineprd>
+   <lineprd prd="2" score="0"></lineprd>
+   <lineprd prd="3" score="7"></lineprd>
+   <lineprd prd="4" score="3"></lineprd>
+   <lineprd prd="5" score="6"></lineprd>
+  </linescore>
+  <totals totoff_plays="55" totoff_yards="313" totoff_avg="5.7">
+   <firstdowns no="17" rush="9" pass="8" penalty="0"></firstdowns>
+   <penalties no="2" yds="15"></penalties>
+   <conversions thirdconv="2" thirdatt="10" fourthconv="1" fourthatt="1"></conversions>
+   <fumbles no="2" lost="2"></fumbles>
+   <misc yds="0" top="27:15" ona="0" onm="0" ptsto="7"></misc>
+   <redzone att="1" scores="1" points="7" tdrush="0" tdpass="1" fgmade="0" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="30" yds="130" gain="161" loss="31" td="2" long="25"></rush>
+   <pass comp="16" att="25" int="0" yds="183" td="1" long="27" sacks="2" sackyds="20"></pass>
+   <rcv no="16" yds="183" td="1" long="27"></rcv>
+   <punt no="5" yds="204" long="58" blkd="0" tb="0" fc="1" plus50="1" inside20="2" avg="40.8"></punt>
+   <ko no="4" yds="255" ob="0" tb="1"></ko>
+   <fg made="1" att="2" long="43" blkd="0"></fg>
+   <pat kickatt="2" kickmade="2"></pat>
+   <defense tackua="33" tacka="50" tot_tack="83" tflua="7" tfla="2" tflyds="29" sacks="1" sackyds="8" brup="1" fr="1" fryds="0"></defense>
+   <kr no="2" yds="67" td="0" long="39"></kr>
+   <pr no="3" yds="9" td="0" long="6"></pr>
+   <scoring td="3" fg="1" patkick="2"></scoring>
+  </totals>
+  <player name="Juwuan Briscoe" shortname="Juwuan Briscoe" checkname="BRISCOE,JUWUAN" uni="1B" class="FR" gp="1" code="1B"></player>
+  <player name="Sony Michel" shortname="Sony Michel" checkname="MICHEL,SONY" uni="1" class="SO" gp="1" gs="1" opos="TB" code="1">
+   <rush att="23" yds="132" gain="136" loss="4" td="1" long="25"></rush>
+   <rcv no="2" yds="13" td="0" long="12"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Terry Godwin" shortname="Terry Godwin" checkname="GODWIN,TERRY" uni="5" class="FR" gp="1" gs="1" opos="WR" code="5">
+   <rcv no="2" yds="22" td="1" long="12"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Natrez Patrick" shortname="Natrez Patrick" checkname="PATRICK,NATREZ" uni="6" class="FR" gp="1" code="6">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Lorenzo Carter" shortname="Lorenzo Carter" checkname="CARTER,LORENZO" uni="7" class="SO" gp="1" code="7"></player>
+  <player name="R. Wilkerson" shortname="R. Wilkerson" checkname="WILKERSON,R" uni="9" class="SO" gp="1" code="9"></player>
+  <player name="Faton Bauta" shortname="Faton Bauta" checkname="BAUTA,FATON" uni="10" class="JR" gp="1" code="10"></player>
+  <player name="Greyson Lambert" shortname="Greyson Lambert" checkname="LAMBERT,GREYSON" uni="11" class="JR" gp="1" gs="1" opos="QB" code="11">
+   <rush att="2" yds="-20" gain="0" loss="20" td="0" long="0"></rush>
+   <pass comp="16" att="25" int="0" yds="183" td="1" long="27" sacks="2" sackyds="20"></pass>
+  </player>
+  <player name="Brice Ramsey" shortname="Brice Ramsey" checkname="RAMSEY,BRICE" uni="12" class="SO" gp="1" code="12">
+   <punt no="5" yds="204" long="58" blkd="0" tb="0" fc="1" plus50="1" inside20="2" avg="40.8"></punt>
+  </player>
+  <player name="Marshall Morgan" shortname="Marshall Morgan" checkname="MORGAN,MARSHALL" uni="13" class="SR" gp="1" code="13">
+   <ko no="4" yds="255" ob="0" tb="1"></ko>
+   <fg made="1" att="2" long="43" blkd="0"></fg>
+   <pat kickatt="2" kickmade="2"></pat>
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+   <scoring fg="1" patkick="2"></scoring>
+  </player>
+  <player name="Malkom Parrish" shortname="Malkom Parrish" checkname="PARRISH,MALKOM" uni="14" class="SO" gp="1" gs="1" dpos="LC" code="14">
+   <defense tackua="1" tacka="2" tot_tack="3" tflua="1" tfla="0" tflyds="3" brup="1"></defense>
+  </player>
+  <player name="D'Andre Walker" shortname="D'Andre Walker" checkname="WALKER,D'ANDRE" uni="15" class="FR" gp="1" code="15"></player>
+  <player name="Isaiah McKenzie" shortname="Isaiah McKenzie" checkname="MCKENZIE,ISAIAH" uni="16" class="SO" gp="1" gs="1" opos="WR" code="16">
+   <rush att="2" yds="19" gain="23" loss="4" td="1" long="23"></rush>
+   <rcv no="1" yds="9" td="0" long="9"></rcv>
+   <pr no="3" yds="9" td="0" long="6"></pr>
+   <fumbles no="1" lost="1"></fumbles>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Davin Bellamy" shortname="Davin Bellamy" checkname="BELLAMY,DAVIN" uni="17" class="SO" gp="1" code="17">
+   <defense tackua="1" tacka="0" tot_tack="1" tflua="1" tfla="0" tflyds="8" sackua="1" sacka="0" sackyds="8"></defense>
+  </player>
+  <player name="Deandre Baker" shortname="Deandre Baker" checkname="BAKER,DEANDRE" uni="18" class="FR" gp="1" code="18"></player>
+  <player name="Jarvis Wilson" shortname="Jarvis Wilson" checkname="WILSON,JARVIS" uni="19" class="FR" gp="1" code="19"></player>
+  <player name="Quincy Mauger" shortname="Quincy Mauger" checkname="MAUGER,QUINCY" uni="20" class="JR" gp="1" gs="1" dpos="LS" code="20">
+   <defense tackua="3" tacka="3" tot_tack="6" tflua="1" tfla="0" tflyds="4"></defense>
+  </player>
+  <player name="Brendan Douglas" shortname="Brendan Douglas" checkname="DOUGLAS,BRENDAN" uni="22" class="JR" gp="1" code="22">
+   <rush att="2" yds="0" gain="2" loss="2" td="0" long="2"></rush>
+  </player>
+  <player name="S. Williams" shortname="S. Williams" checkname="WILLIAMS,S" uni="23" class="SO" gp="1" code="23"></player>
+  <player name="D. Sanders" shortname="D. Sanders" checkname="SANDERS,D" uni="24" class="SO" gp="1" gs="1" dpos="RS" code="24">
+   <defense tackua="2" tacka="3" tot_tack="5"></defense>
+  </player>
+  <player name="J. Abram" shortname="J. Abram" checkname="ABRAM,J" uni="25" class="FR" gp="1" code="25"></player>
+  <player name="M. Mitchell" shortname="M. Mitchell" checkname="MITCHELL,M" uni="26" class="SR" gp="1" gs="1" opos="WR" code="26">
+   <rcv no="5" yds="73" td="0" long="27"></rcv>
+   <fumbles no="1" lost="1"></fumbles>
+  </player>
+  <player name="Ben Souther" shortname="Ben Souther" checkname="SOUTHER,BEN" uni="29" class="SR" gp="1" code="29">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Kirby Choates" shortname="Kirby Choates" checkname="CHOATES,KIRBY" uni="33" class="FR" gp="1" code="33"></player>
+  <player name="Aaron Davis" shortname="Aaron Davis" checkname="DAVIS,AARON" uni="35" class="SO" gp="1" gs="1" dpos="BC" code="35">
+   <defense tackua="4" tacka="4" tot_tack="8"></defense>
+  </player>
+  <player name="Ryne Rankin" shortname="Ryne Rankin" checkname="RANKIN,RYNE" uni="38" class="JR" gp="1" code="38"></player>
+  <player name="R. Roundtree" shortname="R. Roundtree" checkname="ROUNDTREE,R" uni="39" class="FR" gp="1" code="39"></player>
+  <player name="Chuks Amaechi" shortname="Chuks Amaechi" checkname="AMAECHI,CHUKS" uni="41" class="JR" gp="1" code="41"></player>
+  <player name="Tim Kimbrough" shortname="Tim Kimbrough" checkname="KIMBROUGH,TIM" uni="42" class="JR" gp="1" gs="1" dpos="WILL" code="42">
+   <defense tackua="4" tacka="5" tot_tack="9"></defense>
+  </player>
+  <player name="Juwan Taylor" shortname="Juwan Taylor" checkname="TAYLOR,JUWAN" uni="44" class="FR" gp="1" code="44">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="Glenn Welch" shortname="Glenn Welch" checkname="WELCH,GLENN" uni="46" class="SO" gp="1" code="46"></player>
+  <player name="Christian Payne" shortname="Christian Payne" checkname="PAYNE,CHRISTIAN" uni="47" class="SO" gp="1" code="47"></player>
+  <player name="Quayvon Hicks" shortname="Quayvon Hicks" checkname="HICKS,QUAYVON" uni="48" class="SR" gp="1" code="48"></player>
+  <player name="Nathan Theus" shortname="Nathan Theus" checkname="THEUS,NATHAN" uni="49" class="SR" gp="1" code="49"></player>
+  <player name="Johnny O'Neal" shortname="Johnny O'Neal" checkname="O'NEAL,JOHNNY" uni="50" class="JR" gp="1" code="50"></player>
+  <player name="Jake Ganus" shortname="Jake Ganus" checkname="GANUS,JAKE" uni="51" class="SR" gp="1" gs="1" dpos="MIKE" code="51">
+   <defense tackua="3" tacka="7" tot_tack="10" tflua="1" tfla="0" tflyds="5"></defense>
+  </player>
+  <player name="B. Kublanow" shortname="B. Kublanow" checkname="KUBLANOW,B" uni="54" class="JR" gp="1" gs="1" opos="RG" code="54"></player>
+  <player name="Dyshon Sims" shortname="Dyshon Sims" checkname="SIMS,DYSHON" uni="55" class="SO" gp="1" code="55"></player>
+  <player name="Sterling Bailey" shortname="Sterling Bailey" checkname="BAILEY,STERLING" uni="58" class="SR" gp="1" gs="1" dpos="DE" code="58">
+   <defense tackua="2" tacka="1" tot_tack="3"></defense>
+  </player>
+  <player name="Jordan Jenkins" shortname="Jordan Jenkins" checkname="JENKINS,JORDAN" uni="59" class="SR" gp="1" gs="1" dpos="JACK" code="59">
+   <defense tackua="5" tacka="8" tot_tack="13" tflua="0" tfla="1" tflyds="2"></defense>
+  </player>
+  <player name="Hunter Long" shortname="Hunter Long" checkname="LONG,HUNTER" uni="66" class="SR" gp="1" gs="1" opos="C" code="66"></player>
+  <player name="Trent Frix" shortname="Trent Frix" checkname="FRIX,TRENT" uni="69" class="JR" gp="1" code="69"></player>
+  <player name="John Theus" shortname="John Theus" checkname="THEUS,JOHN" uni="71" class="SR" gp="1" gs="1" opos="RT" code="71"></player>
+  <player name="Kolton Houston" shortname="Kolton Houston" checkname="HOUSTON,KOLTON" uni="75" class="SR" gp="1" gs="1" opos="LG" code="75"></player>
+  <player name="Isaiah Wynn" shortname="Isaiah Wynn" checkname="WYNN,ISAIAH" uni="77" class="SO" gp="1" gs="1" opos="LT" code="77"></player>
+  <player name="Reggie Davis" shortname="Reggie Davis" checkname="DAVIS,REGGIE" uni="81" class="JR" gp="1" code="81">
+   <kr no="2" yds="67" td="0" long="39"></kr>
+  </player>
+  <player name="Michael Chigbu" shortname="Michael Chigbu" checkname="CHIGBU,MICHAEL" uni="82" class="FR" gp="1" code="82">
+   <rcv no="2" yds="12" td="0" long="7"></rcv>
+  </player>
+  <player name="Jeb Blazevich" shortname="Jeb Blazevich" checkname="BLAZEVICH,JEB" uni="83" class="SO" gp="1" gs="1" opos="TE" code="83">
+   <rcv no="1" yds="13" td="0" long="13"></rcv>
+  </player>
+  <player name="Leonard Floyd" shortname="Leonard Floyd" checkname="FLOYD,LEONARD" uni="84" class="JR" gp="1" gs="1" dpos="SAM" code="84">
+   <defense tackua="3" tacka="9" tot_tack="12" tflua="3" tfla="1" tflyds="7"></defense>
+  </player>
+  <player name="Jordan Davis" shortname="Jordan Davis" checkname="DAVIS,JORDAN" uni="85" class="SO" gp="1" code="85">
+   <rcv no="1" yds="24" td="0" long="24"></rcv>
+  </player>
+  <player name="Kenneth Towns" shortname="Kenneth Towns" checkname="TOWNS,KENNETH" uni="86" class="JR" gp="1" code="86">
+   <defense fr="1" fryds="0"></defense>
+  </player>
+  <player name="Jay Rome" shortname="Jay Rome" checkname="ROME,JAY" uni="87" class="SR" gp="1" code="87">
+   <rcv no="2" yds="17" td="0" long="13"></rcv>
+  </player>
+  <player name="James DeLoach" shortname="James DeLoach" checkname="DELOACH,JAMES" uni="89" class="SR" gp="1" gs="1" dpos="DT" code="89">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Josh Dawson" shortname="Josh Dawson" checkname="DAWSON,JOSH" uni="91" class="SR" gp="1" code="91">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Chris Mayes" shortname="Chris Mayes" checkname="MAYES,CHRIS" uni="93" class="SR" gp="1" gs="1" dpos="N" code="93">
+   <defense tackua="2" tacka="3" tot_tack="5"></defense>
+  </player>
+  <player name="Michael Barnett" shortname="Michael Barnett" checkname="BARNETT,MICHAEL" uni="94" class="FR" gp="1" code="94"></player>
+  <player name="DaQuan Hawkins" shortname="DaQuan Hawkins" checkname="HAWKINS,DAQUAN" uni="96" class="FR" gp="1" code="96">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="John Atkins" shortname="John Atkins" checkname="ATKINS,JOHN" uni="97" class="SO" gp="1" code="97"></player>
+  <player name="Team" shortname="Team" checkname="TEAM" uni="TM" class="FR" gp="1" code="198">
+   <rush att="1" yds="-1" gain="0" loss="1" td="0" long="0"></rush>
+  </player>
+ </team>
+ <scores>
+  <score vh="H" team="UGA" qtr="1" clock="11:08" type="TD" how="RUSH" yds="23" scorer="Isaiah McKenzie" patby="Marshall Morgan" pattype="KICK" patres="GOOD" plays="7" drive="61" top="3:52" vscore="0" hscore="7" driveindex="1"></score>
+  <score vh="V" team="GS" qtr="2" clock="03:47" type="TD" how="RUSH" yds="1" scorer="L. Ramsby" patby="Y. Koo" pattype="KICK" patres="GOOD" plays="11" drive="69" top="6:30" vscore="7" hscore="7" driveindex="8"></score>
+  <score vh="V" team="GS" qtr="3" clock="12:02" type="TD" how="FUMB" yds="62" scorer="C. Williams" patby="Y. Koo" pattype="KICK" patres="GOOD" vscore="14" hscore="7" driveindex="14"></score>
+  <score vh="H" team="UGA" qtr="3" clock="01:23" type="TD" how="PASS" yds="12" scorer="Terry Godwin" passer="Greyson Lambert" patby="Marshall Morgan" pattype="KICK" patres="GOOD" plays="6" drive="29" top="3:46" vscore="14" hscore="14" driveindex="19"></score>
+  <score vh="V" team="GS" qtr="4" clock="09:21" type="FG" yds="48" scorer="Y. Koo" plays="13" drive="44" top="7:02" vscore="17" hscore="14" driveindex="20"></score>
+  <score vh="H" team="UGA" qtr="4" clock="06:06" type="FG" yds="43" scorer="Marshall Morgan" plays="8" drive="49" top="3:15" vscore="17" hscore="17" driveindex="21"></score>
+  <score vh="H" team="UGA" qtr="5" clock="15:00" type="TD" how="RUSH" yds="25" scorer="Sony Michel" plays="1" drive="25" top="0:00" vscore="17" hscore="23" driveindex="28"></score>
+ </scores>
+ <fgas>
+  <fga vh="V" team="GS" kicker="Y. Koo" qtr="2" clock="12:28" distance="31" result="missed"></fga>
+  <fga vh="H" team="UGA" kicker="Marshall Morgan" qtr="2" clock="10:17" distance="48" result="missed"></fga>
+  <fga vh="V" team="GS" kicker="Y. Koo" qtr="4" clock="09:21" distance="48" result="good"></fga>
+  <fga vh="H" team="UGA" kicker="Marshall Morgan" qtr="4" clock="06:06" distance="43" result="good"></fga>
+ </fgas>
+ <drives>
+  <drive vh="H" team="UGA" start="KO,1,15:00,39" end="TD,1,11:08,100" plays="7" yards="61" top="3:52" start_how="KO" start_qtr="1" start_time="15:00" start_spot="UGA39" end_how="TD" end_qtr="1" end_time="11:08" end_spot="GS00" driveindex="1"></drive>
+  <drive vh="V" team="GS" start="KO,1,11:02,33" end="PUNT,1,09:07,31" plays="3" yards="-2" top="1:55" start_how="KO" start_qtr="1" start_time="11:02" start_spot="GS33" end_how="PUNT" end_qtr="1" end_time="09:07" end_spot="GS31" driveindex="2"></drive>
+  <drive vh="H" team="UGA" start="PUNT,1,09:07,38" end="PUNT,1,06:13,41" plays="6" yards="3" top="2:54" start_how="PUNT" start_qtr="1" start_time="09:07" start_spot="UGA38" end_how="PUNT" end_qtr="1" end_time="06:13" end_spot="UGA41" driveindex="3"></drive>
+  <drive vh="V" team="GS" start="PUNT,1,06:13,1" end="PUNT,1,04:39,7" plays="3" yards="6" top="1:34" start_how="PUNT" start_qtr="1" start_time="06:13" start_spot="GS01" end_how="PUNT" end_qtr="1" end_time="04:39" end_spot="GS07" driveindex="4"></drive>
+  <drive vh="H" team="UGA" start="PUNT,1,04:39,61" end="FUMB,1,02:48,92" plays="4" yards="31" top="1:51" start_how="PUNT" start_qtr="1" start_time="04:39" start_spot="GS39" end_how="FUMB" end_qtr="1" end_time="02:48" end_spot="GS08" driveindex="5"></drive>
+  <drive vh="V" team="GS" start="FUMB,1,02:48,8" end="FGA,2,12:28,86" plays="10" yards="78" top="5:20" start_how="FUMB" start_qtr="1" start_time="02:48" start_spot="GS08" end_how="FGA" end_qtr="2" end_time="12:28" end_spot="UGA14" rz="1" driveindex="6"></drive>
+  <drive vh="H" team="UGA" start="FGA,2,12:28,20" end="FGA,2,10:17,69" plays="6" yards="49" top="2:11" start_how="FGA" start_qtr="2" start_time="12:28" start_spot="UGA20" end_how="FGA" end_qtr="2" end_time="10:17" end_spot="GS31" driveindex="7"></drive>
+  <drive vh="V" team="GS" start="FGA,2,10:17,31" end="TD,2,03:47,100" plays="11" yards="69" top="6:30" start_how="FGA" start_qtr="2" start_time="10:17" start_spot="GS31" end_how="TD" end_qtr="2" end_time="03:47" end_spot="UGA00" rz="1" driveindex="8"></drive>
+  <drive vh="H" team="UGA" start="KO,2,03:47,25" end="PUNT,2,02:18,28" plays="3" yards="3" top="1:29" start_how="KO" start_qtr="2" start_time="03:47" start_spot="UGA25" end_how="PUNT" end_qtr="2" end_time="02:18" end_spot="UGA28" driveindex="9"></drive>
+  <drive vh="V" team="GS" start="PUNT,2,02:18,36" end="PUNT,2,00:37,41" plays="3" yards="5" top="1:41" start_how="PUNT" start_qtr="2" start_time="02:18" start_spot="GS36" end_how="PUNT" end_qtr="2" end_time="00:37" end_spot="GS41" driveindex="10"></drive>
+  <drive vh="H" team="UGA" start="PUNT,2,00:37,14" end="HALF,2,00:00,13" plays="1" yards="-1" top="0:37" start_how="PUNT" start_qtr="2" start_time="00:37" start_spot="UGA14" end_how="HALF" end_qtr="2" end_time="00:00" end_spot="UGA13" driveindex="11"></drive>
+  <drive vh="V" team="GS" start="KO,3,14:55,20" end="PUNT,3,12:51,28" plays="3" yards="8" top="2:04" start_how="KO" start_qtr="3" start_time="14:55" start_spot="GS20" end_how="PUNT" end_qtr="3" end_time="12:51" end_spot="GS28" driveindex="12"></drive>
+  <drive vh="H" team="UGA" start="PUNT,3,12:51,43" end="FUMB,3,12:02,62" plays="2" yards="19" top="0:49" start_how="PUNT" start_qtr="3" start_time="12:51" start_spot="UGA43" end_how="FUMB" end_qtr="3" end_time="12:02" end_spot="GS38" driveindex="13"></drive>
+  <drive vh="V" team="GS" start="FUMB,3,12:02,38" end="TD,3,12:02,38" plays="0" yards="0" top="0:00" start_how="FUMB" start_qtr="3" start_time="12:02" start_spot="GS38" end_how="TD" end_qtr="3" end_time="12:02" end_spot="GS38" driveindex="14"></drive>
+  <drive vh="H" team="UGA" start="KO,3,11:55,28" end="PUNT,3,09:15,40" plays="4" yards="12" top="2:40" start_how="KO" start_qtr="3" start_time="11:55" start_spot="UGA28" end_how="PUNT" end_qtr="3" end_time="09:15" end_spot="UGA40" driveindex="15"></drive>
+  <drive vh="V" team="GS" start="PUNT,3,09:15,13" end="PUNT,3,06:40,29" plays="4" yards="16" top="2:35" start_how="PUNT" start_qtr="3" start_time="09:15" start_spot="GS13" end_how="PUNT" end_qtr="3" end_time="06:40" end_spot="GS29" driveindex="16"></drive>
+  <drive vh="H" team="UGA" start="PUNT,3,06:40,30" end="PUNT,3,05:09,38" plays="3" yards="8" top="1:31" start_how="PUNT" start_qtr="3" start_time="06:40" start_spot="UGA30" end_how="PUNT" end_qtr="3" end_time="05:09" end_spot="UGA38" driveindex="17"></drive>
+  <drive vh="V" team="GS" start="PUNT,3,00:00,29" end="FUMB,3,05:09,29" plays="0" yards="0" top="0:00" start_how="PUNT" start_qtr="3" start_time="00:00" start_spot="GS29" end_how="FUMB" end_qtr="3" end_time="05:09" end_spot="GS29" driveindex="18"></drive>
+  <drive vh="H" team="UGA" start="FUMB,3,05:09,71" end="TD,3,01:23,100" plays="6" yards="29" top="3:46" start_how="FUMB" start_qtr="3" start_time="05:09" start_spot="GS29" end_how="TD" end_qtr="3" end_time="01:23" end_spot="GS00" rz="1" driveindex="19"></drive>
+  <drive vh="V" team="GS" start="KO,3,01:23,25" end="FG,4,09:21,69" plays="13" yards="44" top="7:02" start_how="KO" start_qtr="3" start_time="01:23" start_spot="GS25" end_how="FG" end_qtr="4" end_time="09:21" end_spot="UGA31" driveindex="20"></drive>
+  <drive vh="H" team="UGA" start="KO,4,09:21,25" end="FG,4,06:06,74" plays="8" yards="49" top="3:15" start_how="KO" start_qtr="4" start_time="09:21" start_spot="UGA25" end_how="FG" end_qtr="4" end_time="06:06" end_spot="GS26" driveindex="21"></drive>
+  <drive vh="V" team="GS" start="KO,4,05:59,24" end="PUNT,4,04:28,28" plays="3" yards="4" top="1:31" start_how="KO" start_qtr="4" start_time="05:59" start_spot="GS24" end_how="PUNT" end_qtr="4" end_time="04:28" end_spot="GS28" driveindex="22"></drive>
+  <drive vh="H" team="UGA" start="PUNT,4,04:28,28" end="PUNT,4,02:48,34" plays="3" yards="6" top="1:40" start_how="PUNT" start_qtr="4" start_time="04:28" start_spot="UGA28" end_how="PUNT" end_qtr="4" end_time="02:48" end_spot="UGA34" driveindex="23"></drive>
+  <drive vh="V" team="GS" start="PUNT,4,02:48,37" end="PUNT,4,00:33,60" plays="5" yards="23" top="2:15" start_how="PUNT" start_qtr="4" start_time="02:48" start_spot="GS37" end_how="PUNT" end_qtr="4" end_time="00:33" end_spot="UGA40" driveindex="24"></drive>
+  <drive vh="H" team="UGA" start="PUNT,4,00:33,20" end="HALF,4,00:00,39" plays="3" yards="19" top="0:33" start_how="PUNT" start_qtr="4" start_time="00:33" start_spot="UGA20" end_how="HALF" end_qtr="4" end_time="00:00" end_spot="UGA39" driveindex="25"></drive>
+  <drive vh="V" team="GS" start="POSS,5,15:00,75" end="DOWNS,5,15:00,81" plays="4" yards="6" top="0:00" start_how="POSS" start_qtr="5" start_time="15:00" start_spot="UGA25" end_how="DOWNS" end_qtr="5" end_time="15:00" end_spot="UGA19" rz="1" driveindex="26"></drive>
+  <drive vh="H" team="UGA" start="DOWNS,5,00:00,19" end="POSS,5,15:00,19" plays="0" yards="0" top="0:00" start_how="DOWNS" start_qtr="5" start_time="00:00" start_spot="UGA19" end_how="POSS" end_qtr="5" end_time="15:00" end_spot="UGA19" driveindex="27"></drive>
+  <drive vh="H" team="UGA" start="POSS,5,15:00,75" end="TD,5,15:00,100" plays="1" yards="25" top="0:00" start_how="POSS" start_qtr="5" start_time="15:00" start_spot="GS25" end_how="TD" end_qtr="5" end_time="15:00" end_spot="GS00" driveindex="28"></drive>
+ </drives>
+ <plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="GS" down="1" togo="10" spot="GS35" context="V,1,10,V35" playid="0,1,0" tokens="CMT:Georgia wins the toss and elects to receive."
+      text="Georgia wins the toss and elects to receive." newcontext="V,1,10,V35">
+   </play>
+   <comment text="Georgia Southern will defend the east goal."></comment>
+   <play hasball="GS" down="1" togo="10" spot="GS35" context="V,1,10,V35" playid="0,2,2" tokens="SPOT:V,V35,N"
+      text="GS ball on GS35." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS35" context="V,1,10,V35" playid="0,3,3" type="K" tokens="KO:9K,H00 RET:81,H39 TACK:29,9K"
+      text="Y. Koo kickoff 65 yards to the UGA0, Reggie Davis return 39 yards to the UGA39 (D. Godfrey;Y. Koo)." newcontext="H,1,10,H39">
+    <p_ko vh="V" name="Y. Koo" gain="65"></p_ko>
+    <p_kr vh="H" name="Reggie Davis" gain="39"></p_kr>
+    <p_tk vh="V" name="D. Godfrey" assist="Y"></p_tk>
+    <p_tk vh="V" name="Y. Koo" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H39,15:00" vh="H" spot="H39" clock="15:00" driveindex="1,3"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="UGA39" context="H,1,10,H39" playid="1,1,4" type="P" tokens="PASS:11,C,16,H48 TACK:5"
+      text="Greyson Lambert pass complete to Isaiah McKenzie for 9 yards to the UGA48 (D. Jones)." newcontext="H,2,1,H48">
+    <p_pa vh="H" qb="Greyson Lambert" result="COMP" rcv="Isaiah McKenzie" gain="9"></p_pa>
+    <p_tk vh="V" name="D. Jones"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="1" spot="UGA48" context="H,2,1,H48" playid="1,2,5" type="R" first="R" tokens="RUSH:1,V48, TACK:27"
+      text="Sony Michel rush for 4 yards to the GS48, 1ST DOWN UGA (D. Gallon)." newcontext="H,1,10,V48">
+    <p_ru vh="H" name="Sony Michel" gain="4"></p_ru>
+    <p_tk vh="V" name="D. Gallon"></p_tk>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="GS48" context="H,1,10,V48" playid="1,3,6" type="P" tokens="PASS:11,C,82,V41 OB: TACK:37"
+      text="Greyson Lambert pass complete to Michael Chigbu for 7 yards to the GS41, out-of-bounds (A. Williams)." ob="Y" newcontext="H,2,3,V41">
+    <p_pa vh="H" qb="Greyson Lambert" result="COMP" rcv="Michael Chigbu" gain="7"></p_pa>
+    <p_tk vh="V" name="A. Williams"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="3" spot="GS41" context="H,2,3,V41" playid="1,4,7" type="R" pcode="MI" first="R" tokens="RUSH:1,V36,MI TACK:37,7"
+      text="Sony Michel rush up middle for 5 yards to the GS36, 1ST DOWN UGA (A. Williams;M. Dobson)." newcontext="H,1,10,V36">
+    <p_ru vh="H" name="Sony Michel" gain="5"></p_ru>
+    <p_tk vh="V" name="A. Williams" assist="Y"></p_tk>
+    <p_tk vh="V" name="M. Dobson" assist="Y"></p_tk>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="GS36" context="H,1,10,V36" playid="1,5,8" type="R" pcode="LT" tokens="RUSH:1,V31,LT TACK:7"
+      text="Sony Michel rush over left tackle for 5 yards to the GS31 (M. Dobson)." newcontext="H,2,5,V31">
+    <p_ru vh="H" name="Sony Michel" gain="5"></p_ru>
+    <p_tk vh="V" name="M. Dobson"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="5" spot="GS31" context="H,2,5,V31" playid="1,6,9" type="P" first="P" tokens="PASS:11,C,26,V23 TACK:6,16"
+      text="Greyson Lambert pass complete to M. Mitchell for 8 yards to the GS23, 1ST DOWN UGA (D. White;A. Glover)." newcontext="H,1,10,V23">
+    <p_pa vh="H" qb="Greyson Lambert" result="COMP" rcv="M. Mitchell" gain="8"></p_pa>
+    <p_tk vh="V" name="D. White" assist="Y"></p_tk>
+    <p_tk vh="V" name="A. Glover" assist="Y"></p_tk>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="GS23" context="H,1,10,V23" playid="1,7,10" type="R" pcode="LL" first="R" score="Y" vscore="0" hscore="6" clock="11:08" tokens="RUSH:16,V00,LL T:11:08"
+      text="Isaiah McKenzie rush left for 23 yards to the GS0, 1ST DOWN UGA, TOUCHDOWN, clock 11:08." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Isaiah McKenzie" gain="23"></p_ru>
+   </play>
+   <play hasball="UGA" down="1" togo="0" spot="GS03" context="H,1,0,V03" playid="1,8,11" type="X" score="Y" vscore="0" hscore="7" tokens="PAT:K,13,G"
+      text="Marshall Morgan kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Marshall Morgan" qb="Marshall Morgan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="7"></score>
+   <drivesum plays="7" yards="61" top="3:52" driveindex="1" complete="Y"></drivesum>
+   <play hasball="UGA" down="1" togo="0" spot="UGA35" context="H,1,0,H35" playid="1,9,12" type="K" tokens="KO:13,V02 RET:23,V33 TACK:44,13"
+      text="Marshall Morgan kickoff 63 yards to the GS2, D. Keaton return 31 yards to the GS33 (Juwan Taylor;Marshall Morgan)." newcontext="V,1,10,V33">
+    <p_ko vh="H" name="Marshall Morgan" gain="63"></p_ko>
+    <p_kr vh="V" name="D. Keaton" gain="31"></p_kr>
+    <p_tk vh="H" name="Juwan Taylor" assist="Y"></p_tk>
+    <p_tk vh="H" name="Marshall Morgan" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V33,11:02" vh="V" spot="V33" clock="11:02" driveindex="2,12"></drivestart>
+   <play hasball="GS" down="1" togo="10" spot="GS33" context="V,1,10,V33" playid="2,1,13" clock="11:02" tokens="{DRIVE}:11:02"
+      text="GEORGIA SOUTHERN drive start at 11:02." newcontext="V,1,10,V33">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS33" context="V,1,10,V33" playid="2,2,14" type="R" pcode="MI" tokens="RUSH:36,V33,MI TACK:51,93"
+      text="M. Breida rush up middle for no gain to the GS33 (Jake Ganus;Chris Mayes)." newcontext="V,2,10,V33">
+    <p_ru vh="V" name="M. Breida" gain="0"></p_ru>
+    <p_tk vh="H" name="Jake Ganus" assist="Y"></p_tk>
+    <p_tk vh="H" name="Chris Mayes" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="10" spot="GS33" context="V,2,10,V33" playid="2,3,15" type="R" pcode="LL" tokens="RUSH:4,V34,LL TACK:84,89"
+      text="K. Ellison rush left for 1 yard to the GS34 (Leonard Floyd;James DeLoach)." newcontext="V,3,9,V34">
+    <p_ru vh="V" name="K. Ellison" gain="1"></p_ru>
+    <p_tk vh="H" name="Leonard Floyd" assist="Y"></p_tk>
+    <p_tk vh="H" name="James DeLoach" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="9" spot="GS34" context="V,3,9,V34" playid="2,4,16" type="P" tokens="PASS:4,C,36,V31 TACK:14"
+      text="K. Ellison pass complete to M. Breida for loss of 3 yards to the GS31 (Malkom Parrish)." newcontext="V,4,12,V31">
+    <p_pa vh="V" qb="K. Ellison" result="COMP" rcv="M. Breida" gain="-3"></p_pa>
+    <p_tk vh="H" name="Malkom Parrish"></p_tk>
+   </play>
+   <play hasball="GS" down="4" togo="12" spot="GS31" context="V,4,12,V31" playid="2,5,17" type="U" tokens="PUNT:49,H38 FC:16"
+      text="R. Nowicki punt 31 yards to the UGA38, fair catch by Isaiah McKenzie." newcontext="H,1,10,H38">
+    <p_pu vh="V" name="R. Nowicki" gain="31" fc="Isaiah McKenzie"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-2" top="1:55" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="H,H38,09:07" vh="H" spot="H38" clock="09:07" driveindex="3,17"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="UGA38" context="H,1,10,H38" playid="3,1,18" clock="09:07" tokens="{DRIVE}:09:07"
+      text="GEORGIA drive start at 09:07." newcontext="H,1,10,H38">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA38" context="H,1,10,H38" playid="3,2,19" type="R" pcode="LL" tokens="RUSH:1,H43,LL TACK:27,16"
+      text="Sony Michel rush left for 5 yards to the UGA43 (D. Gallon;A. Glover)." newcontext="H,2,5,H43">
+    <p_ru vh="H" name="Sony Michel" gain="5"></p_ru>
+    <p_tk vh="V" name="D. Gallon" assist="Y"></p_tk>
+    <p_tk vh="V" name="A. Glover" assist="Y"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="5" spot="UGA43" context="H,2,5,H43" playid="3,3,20" type="P" tokens="PASS:11,I,5,* BRUP:6"
+      text="Greyson Lambert pass incomplete to Terry Godwin (D. White)." newcontext="H,3,5,H43">
+    <p_pa vh="H" qb="Greyson Lambert" result="INC" rcv="Terry Godwin"></p_pa>
+    <p_bu vh="V" name="D. White"></p_bu>
+   </play>
+   <play hasball="UGA" down="3" togo="5" spot="UGA43" context="H,3,5,H43" playid="3,4,21" type="E" tokens="PEN:H,FS,A,71,H38,N"
+      text="PENALTY UGA false start (John Theus) 5 yards to the UGA38." newcontext="H,3,10,H38">
+    <p_pn vh="H" code="FS" type="false start" name="John Theus" result="ACCEPT" at="H43" yards="5"></p_pn>
+   </play>
+   <play hasball="UGA" down="3" togo="10" spot="UGA38" context="H,3,10,H38" playid="3,5,22" type="P" first="P" tokens="PASS:11,C,26,V49"
+      text="Greyson Lambert pass complete to M. Mitchell for 13 yards to the GS49, 1ST DOWN UGA." newcontext="H,1,10,V49">
+    <p_pa vh="H" qb="Greyson Lambert" result="COMP" rcv="M. Mitchell" gain="13"></p_pa>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="GS49" context="H,1,10,V49" playid="3,6,23" type="P" tokens="PASS:11,I,TM,*"
+      text="Greyson Lambert pass incomplete." newcontext="H,2,10,V49">
+    <p_pa vh="H" qb="Greyson Lambert" result="INC"></p_pa>
+   </play>
+   <play hasball="UGA" down="2" togo="10" spot="GS49" context="H,2,10,V49" playid="3,7,24" type="R" pcode="MI" tokens="RUSH:1,V46,MI TACK:37,51"
+      text="Sony Michel rush up middle for 3 yards to the GS46 (A. Williams;J. Johnson)." newcontext="H,3,7,V46">
+    <p_ru vh="H" name="Sony Michel" gain="3"></p_ru>
+    <p_tk vh="V" name="A. Williams" assist="Y"></p_tk>
+    <p_tk vh="V" name="J. Johnson" assist="Y"></p_tk>
+   </play>
+   <play hasball="UGA" down="3" togo="7" spot="GS46" context="H,3,7,V46" playid="3,8,25" type="P" tokens="PASS:11,S,TM,H41 SACK:51"
+      text="Greyson Lambert sacked for loss of 13 yards to the UGA41 (J. Johnson)." newcontext="H,4,20,H41">
+    <p_pa vh="H" qb="Greyson Lambert" result="SACK" gain="-13"></p_pa>
+    <p_tk vh="V" name="J. Johnson" sack="Y"></p_tk>
+   </play>
+   <play hasball="UGA" down="4" togo="20" spot="UGA41" context="H,4,20,H41" playid="3,9,26" type="U" tokens="PUNT:12,V01 DN:"
+      text="Brice Ramsey punt 58 yards to the GS1, downed." newcontext="V,1,10,V01">
+    <p_pu vh="H" name="Brice Ramsey" gain="58" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="3" top="2:54" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="V,V01,06:13" vh="V" spot="V01" clock="06:13" driveindex="4,26"></drivestart>
+   <play hasball="GS" down="1" togo="10" spot="GS01" context="V,1,10,V01" playid="4,1,27" clock="06:13" tokens="{DRIVE}:06:13"
+      text="GEORGIA SOUTHERN drive start at 06:13." newcontext="V,1,10,V01">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS01" context="V,1,10,V01" playid="4,2,28" type="P" tokens="PASS:4,I,12,*"
+      text="K. Ellison pass incomplete to B. Johnson." newcontext="V,2,10,V01">
+    <p_pa vh="V" qb="K. Ellison" result="INC" rcv="B. Johnson"></p_pa>
+   </play>
+   <play hasball="GS" down="2" togo="10" spot="GS01" context="V,2,10,V01" playid="4,3,29" type="R" pcode="RR" tokens="RUSH:4,V06,RR TACK:14,51"
+      text="K. Ellison rush right for 5 yards to the GS6 (Malkom Parrish;Jake Ganus)." newcontext="V,3,5,V06">
+    <p_ru vh="V" name="K. Ellison" gain="5"></p_ru>
+    <p_tk vh="H" name="Malkom Parrish" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jake Ganus" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="5" spot="GS06" context="V,3,5,V06" playid="4,4,30" type="R" pcode="RR" tokens="RUSH:2F,V07,RR TACK:59,96"
+      text="W. Fields rush right for 1 yard to the GS7 (Jordan Jenkins;DaQuan Hawkins)." newcontext="V,4,4,V07">
+    <p_ru vh="V" name="W. Fields" gain="1"></p_ru>
+    <p_tk vh="H" name="Jordan Jenkins" assist="Y"></p_tk>
+    <p_tk vh="H" name="DaQuan Hawkins" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="4" togo="4" spot="GS07" context="V,4,4,V07" playid="4,5,31" type="U" tokens="PUNT:49,V40 RET:16,V39 TACK:32"
+      text="R. Nowicki punt 33 yards to the GS40, Isaiah McKenzie return 1 yards to the GS39 (W. Bussey)." newcontext="H,1,10,V39">
+    <p_pu vh="V" name="R. Nowicki" gain="33"></p_pu>
+    <p_pr vh="H" name="Isaiah McKenzie" gain="1"></p_pr>
+    <p_tk vh="V" name="W. Bussey"></p_tk>
+   </play>
+   <drivesum plays="3" yards="6" top="1:34" driveindex="4" complete="Y"></drivesum>
+   <drivestart poss="H,V39,04:39" vh="H" spot="V39" clock="04:39" driveindex="5,31"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="GS39" context="H,1,10,V39" playid="5,1,32" clock="04:39" tokens="{DRIVE}:04:39"
+      text="GEORGIA drive start at 04:39." newcontext="H,1,10,V39">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="GS39" context="H,1,10,V39" playid="5,2,33" type="R" pcode="RR" tokens="RUSH:1,V34,RR TACK:5D,16"
+      text="Sony Michel rush right for 5 yards to the GS34 (B. Dawson;A. Glover)." newcontext="H,2,5,V34">
+    <p_ru vh="H" name="Sony Michel" gain="5"></p_ru>
+    <p_tk vh="V" name="B. Dawson" assist="Y"></p_tk>
+    <p_tk vh="V" name="A. Glover" assist="Y"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="5" spot="GS34" context="H,2,5,V34" playid="5,3,34" type="R" pcode="MI" tokens="RUSH:1,V30,MI TACK:37"
+      text="Sony Michel rush up middle for 4 yards to the GS30 (A. Williams)." newcontext="H,3,1,V30">
+    <p_ru vh="H" name="Sony Michel" gain="4"></p_ru>
+    <p_tk vh="V" name="A. Williams"></p_tk>
+   </play>
+   <play hasball="UGA" down="3" togo="1" spot="GS30" context="H,3,1,V30" playid="5,4,35" type="R" pcode="RR" first="R" tokens="RUSH:1,V24,RR TACK:6"
+      text="Sony Michel rush right for 6 yards to the GS24, 1ST DOWN UGA (D. White)." newcontext="H,1,10,V24">
+    <p_ru vh="H" name="Sony Michel" gain="6"></p_ru>
+    <p_tk vh="V" name="D. White"></p_tk>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="GS24" context="H,1,10,V24" playid="5,5,36" type="P" pcode="SL" turnover="F" tokens="PASS:11,C,26,V08,SL FORCE:6 FUMB:V,V08,6"
+      text="Greyson Lambert slant pass complete to M. Mitchell for 16 yards to the GS8, fumble forced by D. White, fumble by M. Mitchell recovered by GS D. White at GS8." newcontext="V,1,10,V08">
+    <p_pa vh="H" qb="Greyson Lambert" result="COMP" rcv="M. Mitchell" gain="16"></p_pa>
+    <p_fumb vh="H" name="M. Mitchell" at="V08" frvh="V" frname="D. White"></p_fumb>
+    <p_tk vh="V" name="D. White" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="4" yards="31" top="1:51" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="V,V08,02:48" vh="V" spot="V08" clock="02:48" driveindex="6,36"></drivestart>
+   <play hasball="GS" down="1" togo="10" spot="GS08" context="V,1,10,V08" playid="6,1,37" clock="02:48" tokens="{DRIVE}:02:48"
+      text="GEORGIA SOUTHERN drive start at 02:48." newcontext="V,1,10,V08">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS08" context="V,1,10,V08" playid="6,2,38" type="R" pcode="RR" tokens="RUSH:36,V15,RR TACK:84,20"
+      text="M. Breida rush right for 7 yards to the GS15 (Leonard Floyd;Quincy Mauger)." newcontext="V,2,3,V15">
+    <p_ru vh="V" name="M. Breida" gain="7"></p_ru>
+    <p_tk vh="H" name="Leonard Floyd" assist="Y"></p_tk>
+    <p_tk vh="H" name="Quincy Mauger" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="3" spot="GS15" context="V,2,3,V15" playid="6,3,39" type="#" clock="02:17" tokens="TOUT:V T:02:17"
+      text="Timeout Georgia Southern, clock 02:17." newcontext="V,2,3,V15">
+    <p_to vh="V" team="Georgia Southern"></p_to>
+   </play>
+   <play hasball="GS" down="2" togo="3" spot="GS15" context="V,2,3,V15" playid="6,4,40" type="R" pcode="LL" tokens="RUSH:36,V11,LL OB: TACK:20"
+      text="M. Breida rush left for loss of 4 yards to the GS11, out-of-bounds (Quincy Mauger)." ob="Y" newcontext="V,3,7,V11">
+    <p_ru vh="V" name="M. Breida" gain="-4"></p_ru>
+    <p_tk vh="H" name="Quincy Mauger"></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="7" spot="GS11" context="V,3,7,V11" playid="6,5,41" type="P" pcode="SL" first="P" tokens="PASS:1U,C,12,V39,SL TACK:20,24"
+      text="F. Upshaw slant pass complete to B. Johnson for 28 yards to the GS39, 1ST DOWN GS (Quincy Mauger;D. Sanders)." newcontext="V,1,10,V39">
+    <p_pa vh="V" qb="F. Upshaw" result="COMP" rcv="B. Johnson" gain="28"></p_pa>
+    <p_tk vh="H" name="Quincy Mauger" assist="Y"></p_tk>
+    <p_tk vh="H" name="D. Sanders" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS39" context="V,1,10,V39" playid="6,6,42" type="R" pcode="LL" tokens="RUSH:2F,V40,LL TACK:42,59"
+      text="W. Fields rush left for 1 yard to the GS40 (Tim Kimbrough;Jordan Jenkins)." newcontext="V,2,9,V40">
+    <p_ru vh="V" name="W. Fields" gain="1"></p_ru>
+    <p_tk vh="H" name="Tim Kimbrough" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jordan Jenkins" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="9" spot="GS40" context="V,2,9,V40" playid="6,7,43" type="R" pcode="MI" tokens="RUSH:1,V43,MI TACK:59,93"
+      text="L. Ramsby rush up middle for 3 yards to the GS43 (Jordan Jenkins;Chris Mayes)." newcontext="V,3,6,V43">
+    <p_ru vh="V" name="L. Ramsby" gain="3"></p_ru>
+    <p_tk vh="H" name="Jordan Jenkins" assist="Y"></p_tk>
+    <p_tk vh="H" name="Chris Mayes" assist="Y"></p_tk>
+   </play>
+   <score qtr="1" V="0" H="7"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="GS">
+    <firstdowns no="1" rush="0" pass="1" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:23"></misc>
+    <rush att="8" yds="14" gain="18" loss="4" td="0" long="7"></rush>
+    <pass comp="2" att="3" int="0" yds="25" td="0" long="28" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="25" td="0" long="28"></rcv>
+    <punt no="2" yds="64" long="33" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="32.0"></punt>
+    <ko no="1" yds="65" ob="0" tb="0"></ko>
+    <defense tackua="9" tacka="12" tot_tack="21" tflua="1" tfla="0" tflyds="13" sacks="1" sackyds="13" brup="1" ff="1" fr="1" fryds="0"></defense>
+    <kr no="1" yds="31" td="0" long="31"></kr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UGA">
+    <firstdowns no="6" rush="4" pass="2" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="08:37"></misc>
+    <rush att="10" yds="47" gain="60" loss="13" td="1" long="23"></rush>
+    <pass comp="5" att="7" int="0" yds="53" td="0" long="16" sacks="1" sackyds="13"></pass>
+    <rcv no="5" yds="53" td="0" long="16"></rcv>
+    <punt no="1" yds="58" long="58" blkd="0" tb="0" fc="0" plus50="1" inside20="1" avg="58.0"></punt>
+    <ko no="1" yds="63" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="2" tacka="18" tot_tack="20" tflua="2" tfla="0" tflyds="7" sacks="0" sackyds="0"></defense>
+    <kr no="1" yds="39" td="0" long="39"></kr>
+    <pr no="1" yds="1" td="0" long="1"></pr>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="GS" down="3" togo="6" spot="GS43" context="V,3,6,V43" playid="6,8,44" type="#" clock="15:00" tokens="Q:2 T:15:00"
+      text="Start of 2nd quarter, clock 15:00." newcontext="V,3,6,V43">
+   </play>
+   <play hasball="GS" down="3" togo="6" spot="GS43" context="V,3,6,V43" playid="6,9,45" type="R" pcode="LL" first="R" tokens="RUSH:1U,H09,LL OB: TACK:20"
+      text="F. Upshaw rush left for 48 yards to the UGA9, 1ST DOWN GS, out-of-bounds (Quincy Mauger)." ob="Y" newcontext="V,1,0,H09">
+    <p_ru vh="V" name="F. Upshaw" gain="48"></p_ru>
+    <p_tk vh="H" name="Quincy Mauger"></p_tk>
+   </play>
+   <play hasball="GS" down="1" togo="0" spot="UGA09" context="V,1,0,H09" playid="6,10,46" type="R" pcode="MI" tokens="RUSH:36,H07,MI TACK:59"
+      text="M. Breida rush up middle for 2 yards to the UGA7 (Jordan Jenkins)." newcontext="V,2,0,H07">
+    <p_ru vh="V" name="M. Breida" gain="2"></p_ru>
+    <p_tk vh="H" name="Jordan Jenkins"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="0" spot="UGA07" context="V,2,0,H07" playid="6,11,47" type="R" pcode="RR" tokens="RUSH:1U,H06,RR TACK:59,84"
+      text="F. Upshaw rush right for 1 yard to the UGA6 (Jordan Jenkins;Leonard Floyd)." newcontext="V,3,0,H06">
+    <p_ru vh="V" name="F. Upshaw" gain="1"></p_ru>
+    <p_tk vh="H" name="Jordan Jenkins" assist="Y"></p_tk>
+    <p_tk vh="H" name="Leonard Floyd" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="0" spot="UGA06" context="V,3,0,H06" playid="6,12,48" type="P" tokens="PASS:1U,S,TM,H14 SACK:17"
+      text="F. Upshaw sacked for loss of 8 yards to the UGA14 (Davin Bellamy)." newcontext="V,4,0,H14">
+    <p_pa vh="V" qb="F. Upshaw" result="SACK" gain="-8"></p_pa>
+    <p_tk vh="H" name="Davin Bellamy" sack="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="4" togo="0" spot="UGA14" context="V,4,0,H14" playid="6,13,49" type="F" clock="12:28" tokens="FGA:9K,31,M,H20,R T:12:28"
+      text="Y. Koo field goal attempt from 31 MISSED - wide right, spot at UGA20, clock 12:28." newcontext="H,1,10,H20">
+    <p_fg vh="V" name="Y. Koo" distance="31" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="10" yards="78" top="5:20" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="H,H20,12:28" vh="H" spot="H20" clock="12:28" driveindex="7,49"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="UGA20" context="H,1,10,H20" playid="7,1,50" clock="12:28" tokens="{DRIVE}:12:28"
+      text="GEORGIA drive start at 12:28." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA20" context="H,1,10,H20" playid="7,2,51" type="P" first="P" tokens="PASS:11,C,85,H44 TACK:24"
+      text="Greyson Lambert pass complete to Jordan Davis for 24 yards to the UGA44, 1ST DOWN UGA (R. Jones)." newcontext="H,1,10,H44">
+    <p_pa vh="H" qb="Greyson Lambert" result="COMP" rcv="Jordan Davis" gain="24"></p_pa>
+    <p_tk vh="V" name="R. Jones"></p_tk>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA44" context="H,1,10,H44" playid="7,3,52" type="P" first="P" tokens="PASS:11,C,26,V29 OB: TACK:27"
+      text="Greyson Lambert pass complete to M. Mitchell for 27 yards to the GS29, 1ST DOWN UGA, out-of-bounds (D. Gallon)." ob="Y" newcontext="H,1,10,V29">
+    <p_pa vh="H" qb="Greyson Lambert" result="COMP" rcv="M. Mitchell" gain="27"></p_pa>
+    <p_tk vh="V" name="D. Gallon"></p_tk>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="GS29" context="H,1,10,V29" playid="7,4,53" type="R" pcode="LT" tokens="RUSH:22,V31,LT TACK:99,51"
+      text="Brendan Douglas rush over left tackle for loss of 2 yards to the GS31 (J. Ellison;J. Johnson)." newcontext="H,2,12,V31">
+    <p_ru vh="H" name="Brendan Douglas" gain="-2"></p_ru>
+    <p_tk vh="V" name="J. Ellison" assist="Y"></p_tk>
+    <p_tk vh="V" name="J. Johnson" assist="Y"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="12" spot="GS31" context="H,2,12,V31" playid="7,5,54" type="P" tokens="PASS:11,I,16,*"
+      text="Greyson Lambert pass incomplete to Isaiah McKenzie." newcontext="H,3,12,V31">
+    <p_pa vh="H" qb="Greyson Lambert" result="INC" rcv="Isaiah McKenzie"></p_pa>
+   </play>
+   <play hasball="UGA" down="3" togo="12" spot="GS31" context="H,3,12,V31" playid="7,6,55" type="P" tokens="PASS:11,I,5,*"
+      text="Greyson Lambert pass incomplete to Terry Godwin." newcontext="H,4,12,V31">
+    <p_pa vh="H" qb="Greyson Lambert" result="INC" rcv="Terry Godwin"></p_pa>
+   </play>
+   <play hasball="UGA" down="4" togo="12" spot="GS31" context="H,4,12,V31" playid="7,7,56" type="F" clock="10:17" tokens="FGA:13,48,M,V31,S T:10:17"
+      text="Marshall Morgan field goal attempt from 48 MISSED - short, spot at GS31, clock 10:17." newcontext="V,1,10,V31">
+    <p_fg vh="H" name="Marshall Morgan" distance="48" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="6" yards="49" top="2:11" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="V,V31,10:17" vh="V" spot="V31" clock="10:17" driveindex="8,56"></drivestart>
+   <play hasball="GS" down="1" togo="10" spot="GS31" context="V,1,10,V31" playid="8,1,57" clock="10:17" tokens="{DRIVE}:10:17"
+      text="GEORGIA SOUTHERN drive start at 10:17." newcontext="V,1,10,V31">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS31" context="V,1,10,V31" playid="8,2,58" type="R" pcode="RR" tokens="RUSH:4,V39,RR TACK:35"
+      text="K. Ellison rush right for 8 yards to the GS39 (Aaron Davis)." newcontext="V,2,2,V39">
+    <p_ru vh="V" name="K. Ellison" gain="8"></p_ru>
+    <p_tk vh="H" name="Aaron Davis"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="2" spot="GS39" context="V,2,2,V39" playid="8,3,59" type="R" pcode="LT" first="R" tokens="RUSH:4,V41,LT TACK:59"
+      text="K. Ellison rush over left tackle for 2 yards to the GS41, 1ST DOWN GS (Jordan Jenkins)." newcontext="V,1,10,V41">
+    <p_ru vh="V" name="K. Ellison" gain="2"></p_ru>
+    <p_tk vh="H" name="Jordan Jenkins"></p_tk>
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS41" context="V,1,10,V41" playid="8,4,60" type="R" pcode="MI" tokens="RUSH:36,V43,MI TACK:42"
+      text="M. Breida rush up middle for 2 yards to the GS43 (Tim Kimbrough)." newcontext="V,2,8,V43">
+    <p_ru vh="V" name="M. Breida" gain="2"></p_ru>
+    <p_tk vh="H" name="Tim Kimbrough"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="8" spot="GS43" context="V,2,8,V43" playid="8,5,61" type="R" pcode="LL" tokens="RUSH:4,V47,LL TACK:42"
+      text="K. Ellison rush left for 4 yards to the GS47 (Tim Kimbrough)." newcontext="V,3,4,V47">
+    <p_ru vh="V" name="K. Ellison" gain="4"></p_ru>
+    <p_tk vh="H" name="Tim Kimbrough"></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="4" spot="GS47" context="V,3,4,V47" playid="8,6,62" type="R" pcode="QD" first="R" tokens="RUSH:4,H33,QD TACK:59"
+      text="K. Ellison rush quarterback draw for 20 yards to the UGA33, 1ST DOWN GS (Jordan Jenkins)." newcontext="V,1,10,H33">
+    <p_ru vh="V" name="K. Ellison" gain="20"></p_ru>
+    <p_tk vh="H" name="Jordan Jenkins"></p_tk>
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="UGA33" context="V,1,10,H33" playid="8,7,63" type="R" pcode="MI" tokens="RUSH:1,H28,MI TACK:51"
+      text="L. Ramsby rush up middle for 5 yards to the UGA28 (Jake Ganus)." newcontext="V,2,5,H28">
+    <p_ru vh="V" name="L. Ramsby" gain="5"></p_ru>
+    <p_tk vh="H" name="Jake Ganus"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="5" spot="UGA28" context="V,2,5,H28" playid="8,8,64" type="R" pcode="MI" tokens="RUSH:4,H26,MI TACK:93"
+      text="K. Ellison rush up middle for 2 yards to the UGA26 (Chris Mayes)." newcontext="V,3,3,H26">
+    <p_ru vh="V" name="K. Ellison" gain="2"></p_ru>
+    <p_tk vh="H" name="Chris Mayes"></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="3" spot="UGA26" context="V,3,3,H26" playid="8,9,65" type="R" pcode="LL" first="R" tokens="RUSH:2F,H22,LL OB: TACK:24"
+      text="W. Fields rush left for 4 yards to the UGA22, 1ST DOWN GS, out-of-bounds (D. Sanders)." ob="Y" newcontext="V,1,10,H22">
+    <p_ru vh="V" name="W. Fields" gain="4"></p_ru>
+    <p_tk vh="H" name="D. Sanders"></p_tk>
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="UGA22" context="V,1,10,H22" playid="8,10,66" type="R" pcode="LT" tokens="RUSH:36,H19,LT TACK:35,59"
+      text="M. Breida rush over left tackle for 3 yards to the UGA19 (Aaron Davis;Jordan Jenkins)." newcontext="V,2,7,H19">
+    <p_ru vh="V" name="M. Breida" gain="3"></p_ru>
+    <p_tk vh="H" name="Aaron Davis" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jordan Jenkins" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="7" spot="UGA19" context="V,2,7,H19" playid="8,11,67" type="E" tokens="PEN:V,FS,A,63,H24,N"
+      text="PENALTY GS false start (D. Foreman) 5 yards to the UGA24." newcontext="V,2,12,H24">
+    <p_pn vh="V" code="FS" type="false start" name="D. Foreman" result="ACCEPT" at="H19" yards="5"></p_pn>
+   </play>
+   <play hasball="GS" down="2" togo="12" spot="UGA24" context="V,2,12,H24" playid="8,12,68" type="R" pcode="LL" first="R" tokens="RUSH:36,H01,LL OB: TACK:35"
+      text="M. Breida rush left for 23 yards to the UGA1, 1ST DOWN GS, out-of-bounds (Aaron Davis)." ob="Y" newcontext="V,1,0,H01">
+    <p_ru vh="V" name="M. Breida" gain="23"></p_ru>
+    <p_tk vh="H" name="Aaron Davis"></p_tk>
+   </play>
+   <play hasball="GS" down="1" togo="0" spot="UGA01" context="V,1,0,H01" playid="8,13,69" type="R" pcode="MI" score="Y" vscore="6" hscore="7" clock="03:47" tokens="RUSH:1,H00,MI T:03:47"
+      text="L. Ramsby rush up middle for 1 yard to the UGA0, TOUCHDOWN, clock 03:47." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="L. Ramsby" gain="1"></p_ru>
+   </play>
+   <play hasball="GS" down="1" togo="0" spot="UGA03" context="V,1,0,H03" playid="8,14,70" type="X" score="Y" vscore="7" hscore="7" tokens="PAT:K,9K,G"
+      text="Y. Koo kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Y. Koo" qb="Y. Koo" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="7"></score>
+   <drivesum plays="11" yards="69" top="6:30" driveindex="8" complete="Y"></drivesum>
+   <play hasball="GS" down="1" togo="0" spot="GS35" context="V,1,0,V35" playid="8,15,71" type="K" tokens="KO:9K,H00 TB:"
+      text="Y. Koo kickoff 65 yards to the UGA0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Y. Koo" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,03:47" vh="H" spot="H25" clock="03:47" driveindex="9,71"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="UGA25" context="H,1,10,H25" playid="9,1,72" clock="03:47" tokens="{DRIVE}:03:47"
+      text="GEORGIA drive start at 03:47." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA25" context="H,1,10,H25" playid="9,2,73" type="R" pcode="MI" tokens="RUSH:1,H29,MI TACK:27"
+      text="Sony Michel rush up middle for 4 yards to the UGA29 (D. Gallon)." newcontext="H,2,6,H29">
+    <p_ru vh="H" name="Sony Michel" gain="4"></p_ru>
+    <p_tk vh="V" name="D. Gallon"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="6" spot="UGA29" context="H,2,6,H29" playid="9,3,74" type="R" pcode="RR" tokens="RUSH:1,H28,RR"
+      text="Sony Michel rush right for loss of 1 yard to the UGA28." newcontext="H,3,7,H28">
+    <p_ru vh="H" name="Sony Michel" gain="-1"></p_ru>
+   </play>
+   <play hasball="UGA" down="3" togo="7" spot="UGA28" context="H,3,7,H28" playid="9,4,75" type="P" tokens="PASS:11,I,16,*"
+      text="Greyson Lambert pass incomplete to Isaiah McKenzie." newcontext="H,4,7,H28">
+    <p_pa vh="H" qb="Greyson Lambert" result="INC" rcv="Isaiah McKenzie"></p_pa>
+   </play>
+   <play hasball="UGA" down="4" togo="7" spot="UGA28" context="H,4,7,H28" playid="9,5,76" type="U" tokens="PUNT:12,V36 FC:23"
+      text="Brice Ramsey punt 36 yards to the GS36, fair catch by D. Keaton." newcontext="V,1,10,V36">
+    <p_pu vh="H" name="Brice Ramsey" gain="36" fc="D. Keaton"></p_pu>
+   </play>
+   <drivesum plays="3" yards="3" top="1:29" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="V,V36,02:18" vh="V" spot="V36" clock="02:18" driveindex="10,76"></drivestart>
+   <play hasball="GS" down="1" togo="10" spot="GS36" context="V,1,10,V36" playid="10,1,77" clock="02:18" tokens="{DRIVE}:02:18"
+      text="GEORGIA SOUTHERN drive start at 02:18." newcontext="V,1,10,V36">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS36" context="V,1,10,V36" playid="10,2,78" type="R" pcode="RT" tokens="RUSH:1,V40,RT TACK:14,51"
+      text="L. Ramsby rush over right tackle for 4 yards to the GS40 (Malkom Parrish;Jake Ganus)." newcontext="V,2,6,V40">
+    <p_ru vh="V" name="L. Ramsby" gain="4"></p_ru>
+    <p_tk vh="H" name="Malkom Parrish" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jake Ganus" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="6" spot="GS40" context="V,2,6,V40" playid="10,3,79" type="R" pcode="RR" tokens="RUSH:1,V35,RR TACK:51"
+      text="L. Ramsby rush right for loss of 5 yards to the GS35 (Jake Ganus)." newcontext="V,3,11,V35">
+    <p_ru vh="V" name="L. Ramsby" gain="-5"></p_ru>
+    <p_tk vh="H" name="Jake Ganus"></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="11" spot="GS35" context="V,3,11,V35" playid="10,4,80" type="R" pcode="LL" tokens="RUSH:17,V41,LL TACK:84,51"
+      text="M. Henry rush left for 6 yards to the GS41 (Leonard Floyd;Jake Ganus)." newcontext="V,4,5,V41">
+    <p_ru vh="V" name="M. Henry" gain="6"></p_ru>
+    <p_tk vh="H" name="Leonard Floyd" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jake Ganus" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="4" togo="5" spot="GS41" context="V,4,5,V41" playid="10,5,81" type="#" clock="00:47" tokens="TOUT:H T:00:47"
+      text="Timeout Georgia, clock 00:47." newcontext="V,4,5,V41">
+    <p_to vh="H" team="Georgia"></p_to>
+   </play>
+   <play hasball="GS" down="4" togo="5" spot="GS41" context="V,4,5,V41" playid="10,6,82" type="U" tokens="PUNT:49,H22 RET:16,H24 TACK:32 PEN:H,BL,A,41,H14,N D:1,10 SPOT:H,H14,Y"
+      text="R. Nowicki punt 37 yards to the UGA22, Isaiah McKenzie return 2 yards to the UGA24 (W. Bussey), PENALTY UGA illegal block (Chuks Amaechi) 10 yards to the UGA14, 1st and 10, UGA ball on UGA14." newcontext="H,1,10,H14">
+    <p_pu vh="V" name="R. Nowicki" gain="37"></p_pu>
+    <p_pr vh="H" name="Isaiah McKenzie" gain="2"></p_pr>
+    <p_tk vh="V" name="W. Bussey"></p_tk>
+    <p_pn vh="H" code="BL" type="illegal block" name="Chuks Amaechi" result="ACCEPT" at="H24" yards="10"></p_pn>
+   </play>
+   <drivesum plays="3" yards="5" top="1:41" driveindex="10" complete="Y"></drivesum>
+   <drivestart poss="H,H14,00:37" vh="H" spot="H14" clock="00:37" driveindex="11,82"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="UGA14" context="H,1,10,H14" playid="11,1,83" clock="00:37" tokens="{DRIVE}:00:37"
+      text="GEORGIA drive start at 00:37." newcontext="H,1,10,H14">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA14" context="H,1,10,H14" playid="11,2,84" type="R" tokens="RUSH:TM,H13,"
+      text="Team rush for loss of 1 yard to the UGA13." newcontext="H,2,11,H13">
+    <p_ru vh="H" name="Team" gain="-1"></p_ru>
+   </play>
+   <play hasball="UGA" down="2" togo="11" spot="UGA13" context="H,2,11,H13" playid="11,3,85" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of half, clock 00:00." newcontext="H,2,11,H13">
+   </play>
+   <drivesum plays="1" yards="-1" top="0:37" driveindex="11" complete="Y"></drivesum>
+   <score qtr="2" V="7" H="7"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="GS">
+    <firstdowns no="5" rush="5" pass="0" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="4" thirdatt="6" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="10:43"></misc>
+    <rush att="18" yds="122" gain="135" loss="13" td="1" long="41"></rush>
+    <pass comp="0" att="0" int="0" yds="0" td="0" long="0" sacks="1" sackyds="8"></pass>
+    <punt no="1" yds="37" long="4" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="37.0"></punt>
+    <ko no="1" yds="65" ob="0" tb="1"></ko>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="4" tacka="2" tot_tack="6" tflua="0" tfla="2" tflyds="2" sacks="0" sackyds="0"></defense>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UGA">
+    <firstdowns no="2" rush="0" pass="2" penalty="0"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="04:17"></misc>
+    <rush att="4" yds="0" gain="4" loss="4" td="0" long="0"></rush>
+    <pass comp="2" att="5" int="0" yds="51" td="0" long="11" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="51" td="0" long="11"></rcv>
+    <punt no="1" yds="36" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="36.0"></punt>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <defense tackua="13" tacka="8" tot_tack="21" tflua="2" tfla="0" tflyds="13" sacks="1" sackyds="8"></defense>
+    <pr no="1" yds="2" td="0" long="1"></pr>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="UGA" down="2" togo="11" spot="UGA13" context="H,2,11,H13" playid="11,4,86" type="#" clock="15:00" tokens="Q:3 T:15:00 SPOT:H,H35,N"
+      text="Start of 3rd quarter, clock 15:00, UGA ball on UGA35." newcontext="H,2,11,H35">
+   </play>
+   <play hasball="UGA" down="2" togo="11" spot="UGA35" context="H,2,11,H35" playid="11,5,87" type="K" tokens="KO:13,V00 RET:23,V20 OB: TACK:44"
+      text="Marshall Morgan kickoff 65 yards to the GS0, D. Keaton return 20 yards to the GS20, out-of-bounds (Juwan Taylor)." ob="Y" newcontext="V,1,10,V20">
+    <p_ko vh="H" name="Marshall Morgan" gain="65"></p_ko>
+    <p_kr vh="V" name="D. Keaton" gain="20"></p_kr>
+    <p_tk vh="H" name="Juwan Taylor"></p_tk>
+   </play>
+   <drivestart poss="V,V20,15:00" vh="V" spot="V20" clock="15:00" driveindex="12,87"></drivestart>
+   <play hasball="GS" down="1" togo="10" spot="GS20" context="V,1,10,V20" playid="12,1,88" type="#" clock="14:55" tokens="T:14:55"
+      text="Clock 14:55." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS20" context="V,1,10,V20" playid="12,2,89" type="R" pcode="RR" tokens="RUSH:36,V22,RR TACK:59"
+      text="M. Breida rush right for 2 yards to the GS22 (Jordan Jenkins)." newcontext="V,2,8,V22">
+    <p_ru vh="V" name="M. Breida" gain="2"></p_ru>
+    <p_tk vh="H" name="Jordan Jenkins"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="8" spot="GS22" context="V,2,8,V22" playid="12,3,90" type="R" pcode="MI" tokens="RUSH:36,V26,MI TACK:93"
+      text="M. Breida rush up middle for 4 yards to the GS26 (Chris Mayes)." newcontext="V,3,4,V26">
+    <p_ru vh="V" name="M. Breida" gain="4"></p_ru>
+    <p_tk vh="H" name="Chris Mayes"></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="4" spot="GS26" context="V,3,4,V26" playid="12,4,91" type="R" pcode="MI" tokens="RUSH:4,V28,MI TACK:42,51"
+      text="K. Ellison rush up middle for 2 yards to the GS28 (Tim Kimbrough;Jake Ganus)." newcontext="V,4,2,V28">
+    <p_ru vh="V" name="K. Ellison" gain="2"></p_ru>
+    <p_tk vh="H" name="Tim Kimbrough" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jake Ganus" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="4" togo="2" spot="GS28" context="V,4,2,V28" playid="12,5,92" type="U" tokens="PUNT:49,H37 RET:16,H43 TACK:73"
+      text="R. Nowicki punt 35 yards to the UGA37, Isaiah McKenzie return 6 yards to the UGA43 (M. Hunt)." newcontext="H,1,10,H43">
+    <p_pu vh="V" name="R. Nowicki" gain="35"></p_pu>
+    <p_pr vh="H" name="Isaiah McKenzie" gain="6"></p_pr>
+    <p_tk vh="V" name="M. Hunt"></p_tk>
+   </play>
+   <drivesum plays="3" yards="8" top="2:04" driveindex="12" complete="Y"></drivesum>
+   <drivestart poss="H,H43,12:51" vh="H" spot="H43" clock="12:51" driveindex="13,92"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="UGA43" context="H,1,10,H43" playid="13,1,93" clock="12:51" tokens="{DRIVE}:12:51"
+      text="GEORGIA drive start at 12:51." newcontext="H,1,10,H43">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA43" context="H,1,10,H43" playid="13,2,94" type="R" pcode="LL" first="R" tokens="RUSH:1,V34,LL TACK:16"
+      text="Sony Michel rush left for 23 yards to the GS34, 1ST DOWN UGA (A. Glover)." newcontext="H,1,10,V34">
+    <p_ru vh="H" name="Sony Michel" gain="23"></p_ru>
+    <p_tk vh="V" name="A. Glover"></p_tk>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="GS34" context="H,1,10,V34" playid="13,3,95" type="R" pcode="RR" score="Y" vscore="13" hscore="7" turnover="F" clock="12:02" tokens="RUSH:16,V35,RR FORCE:37 FUMB:V,V38,1W +:1W,H00 T:12:02"
+      text="Isaiah McKenzie rush right for loss of 1 yard to the GS35, fumble forced by A. Williams, fumble by Isaiah McKenzie recovered by GS C. Williams at GS38, C. Williams for 62 yards to the UGA0, TOUCHDOWN, clock 12:02." newcontext="V,1,0,H03">
+    <p_ru vh="H" name="Isaiah McKenzie" gain="-1"></p_ru>
+    <p_fr vh="V" name="C. Williams" gain="62"></p_fr>
+    <p_fumb vh="H" name="Isaiah McKenzie" at="V38" frvh="V" frname="C. Williams"></p_fumb>
+    <p_tk vh="V" name="A. Williams" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="2" yards="19" top="0:49" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="V,H03,12:02" vh="V" spot="H03" clock="12:02" driveindex="14,95"></drivestart>
+   <play hasball="GS" down="1" togo="0" spot="UGA03" context="V,1,0,H03" playid="14,1,96" type="X" score="Y" vscore="14" hscore="7" tokens="PAT:K,9K,G"
+      text="Y. Koo kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Y. Koo" qb="Y. Koo" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="7"></score>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="14" complete="Y"></drivesum>
+   <play hasball="GS" down="1" togo="0" spot="GS35" context="V,1,0,V35" playid="14,2,97" type="K" tokens="KO:9K,H00 RET:81,H28 TACK:81"
+      text="Y. Koo kickoff 65 yards to the UGA0, Reggie Davis return 28 yards to the UGA28 (M. Cambell)." newcontext="H,1,10,H28">
+    <p_ko vh="V" name="Y. Koo" gain="65"></p_ko>
+    <p_kr vh="H" name="Reggie Davis" gain="28"></p_kr>
+    <p_tk vh="V" name="M. Cambell"></p_tk>
+   </play>
+   <drivestart poss="H,H28,11:55" vh="H" spot="H28" clock="11:55" driveindex="15,97"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="UGA28" context="H,1,10,H28" playid="15,1,98" clock="11:55" tokens="{DRIVE}:11:55"
+      text="GEORGIA drive start at 11:55." newcontext="H,1,10,H28">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA28" context="H,1,10,H28" playid="15,2,99" type="P" pcode="MI" first="P" tokens="PASS:11,C,1,H40,MI TACK:91"
+      text="Greyson Lambert middle pass complete to Sony Michel for 12 yards to the UGA40, 1ST DOWN UGA (L. Hunt)." newcontext="H,1,10,H40">
+    <p_pa vh="H" qb="Greyson Lambert" result="COMP" rcv="Sony Michel" gain="12"></p_pa>
+    <p_tk vh="V" name="L. Hunt"></p_tk>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA40" context="H,1,10,H40" playid="15,3,100" type="R" pcode="MI" tokens="RUSH:1,H37,MI TACK:27"
+      text="Sony Michel rush up middle for loss of 3 yards to the UGA37 (D. Gallon)." newcontext="H,2,13,H37">
+    <p_ru vh="H" name="Sony Michel" gain="-3"></p_ru>
+    <p_tk vh="V" name="D. Gallon"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="13" spot="UGA37" context="H,2,13,H37" playid="15,4,101" type="P" tokens="PASS:11,S,TM,H30 SACK:5D"
+      text="Greyson Lambert sacked for loss of 7 yards to the UGA30 (B. Dawson)." newcontext="H,3,20,H30">
+    <p_pa vh="H" qb="Greyson Lambert" result="SACK" gain="-7"></p_pa>
+    <p_tk vh="V" name="B. Dawson" sack="Y"></p_tk>
+   </play>
+   <play hasball="UGA" down="3" togo="20" spot="UGA30" context="H,3,20,H30" playid="15,5,102" type="P" tokens="PASS:11,C,5,H40 TACK:51,27"
+      text="Greyson Lambert pass complete to Terry Godwin for 10 yards to the UGA40 (J. Johnson;D. Gallon)." newcontext="H,4,10,H40">
+    <p_pa vh="H" qb="Greyson Lambert" result="COMP" rcv="Terry Godwin" gain="10"></p_pa>
+    <p_tk vh="V" name="J. Johnson" assist="Y"></p_tk>
+    <p_tk vh="V" name="D. Gallon" assist="Y"></p_tk>
+   </play>
+   <play hasball="UGA" down="4" togo="10" spot="UGA40" context="H,4,10,H40" playid="15,6,103" type="U" tokens="PUNT:12,V12 DN:"
+      text="Brice Ramsey punt 48 yards to the GS12, downed." newcontext="V,1,10,V12">
+    <p_pu vh="H" name="Brice Ramsey" gain="48" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="4" yards="12" top="2:40" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="V,V12,09:15" vh="V" spot="V12" clock="09:15" driveindex="16,103"></drivestart>
+   <play hasball="GS" down="1" togo="10" spot="GS12" context="V,1,10,V12" playid="16,1,104" clock="09:15" tokens="{DRIVE}:09:15"
+      text="GEORGIA SOUTHERN drive start at 09:15." newcontext="V,1,10,V12">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS12" context="V,1,10,V12" playid="16,2,105" tokens="SPOT:V,V13,Y"
+      text="GS ball on GS13." newcontext="V,1,10,V13">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS13" context="V,1,10,V13" playid="16,3,106" type="R" pcode="MI" first="R" tokens="RUSH:1,V24,MI TACK:24"
+      text="L. Ramsby rush up middle for 11 yards to the GS24, 1ST DOWN GS (D. Sanders)." newcontext="V,1,10,V24">
+    <p_ru vh="V" name="L. Ramsby" gain="11"></p_ru>
+    <p_tk vh="H" name="D. Sanders"></p_tk>
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS24" context="V,1,10,V24" playid="16,4,107" type="R" pcode="MI" tokens="RUSH:36,V25,MI TACK:58,59"
+      text="M. Breida rush up middle for 1 yard to the GS25 (Sterling Bailey;Jordan Jenkins)." newcontext="V,2,9,V25">
+    <p_ru vh="V" name="M. Breida" gain="1"></p_ru>
+    <p_tk vh="H" name="Sterling Bailey" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jordan Jenkins" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="9" spot="GS25" context="V,2,9,V25" playid="16,5,108" type="R" pcode="LL" tokens="RUSH:36,V25,LL TACK:51,24"
+      text="M. Breida rush left for no gain to the GS25 (Jake Ganus;D. Sanders)." newcontext="V,3,9,V25">
+    <p_ru vh="V" name="M. Breida" gain="0"></p_ru>
+    <p_tk vh="H" name="Jake Ganus" assist="Y"></p_tk>
+    <p_tk vh="H" name="D. Sanders" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="9" spot="GS25" context="V,3,9,V25" playid="16,6,109" type="R" pcode="LL" tokens="RUSH:36,V29,LL TACK:59"
+      text="M. Breida rush left for 4 yards to the GS29 (Jordan Jenkins)." newcontext="V,4,5,V29">
+    <p_ru vh="V" name="M. Breida" gain="4"></p_ru>
+    <p_tk vh="H" name="Jordan Jenkins"></p_tk>
+   </play>
+   <play hasball="GS" down="4" togo="5" spot="GS29" context="V,4,5,V29" playid="16,7,110" type="U" tokens="PUNT:49,H30 FC:5"
+      text="R. Nowicki punt 41 yards to the UGA30, fair catch by Terry Godwin." newcontext="H,1,10,H30">
+    <p_pu vh="V" name="R. Nowicki" gain="41" fc="Terry Godwin"></p_pu>
+   </play>
+   <drivesum plays="4" yards="16" top="2:35" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="H,H30,06:40" vh="H" spot="H30" clock="06:40" driveindex="17,110"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="UGA30" context="H,1,10,H30" playid="17,1,111" clock="06:40" tokens="{DRIVE}:06:40"
+      text="GEORGIA drive start at 06:40." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA30" context="H,1,10,H30" playid="17,2,112" type="R" pcode="MI" tokens="RUSH:1,H33,MI TACK:99"
+      text="Sony Michel rush up middle for 3 yards to the UGA33 (J. Ellison)." newcontext="H,2,7,H33">
+    <p_ru vh="H" name="Sony Michel" gain="3"></p_ru>
+    <p_tk vh="V" name="J. Ellison"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="7" spot="UGA33" context="H,2,7,H33" playid="17,3,113" type="R" pcode="MI" tokens="RUSH:1,H38,MI TACK:90"
+      text="Sony Michel rush up middle for 5 yards to the UGA38 (D. Sapp)." newcontext="H,3,2,H38">
+    <p_ru vh="H" name="Sony Michel" gain="5"></p_ru>
+    <p_tk vh="V" name="D. Sapp"></p_tk>
+   </play>
+   <play hasball="UGA" down="3" togo="2" spot="UGA38" context="H,3,2,H38" playid="17,4,114" type="P" pcode="DP" tokens="PASS:11,I,26,*,DP BRUP:6"
+      text="Greyson Lambert deep pass incomplete to M. Mitchell (D. White)." newcontext="H,4,2,H38">
+    <p_pa vh="H" qb="Greyson Lambert" result="INC" rcv="M. Mitchell"></p_pa>
+    <p_bu vh="V" name="D. White"></p_bu>
+   </play>
+   <play hasball="UGA" down="4" togo="2" spot="UGA38" context="H,4,2,H38" playid="17,5,115" type="U" turnover="F" tokens="PUNT:12,V29 RET:23,V29 FUMB:H,V29,86"
+      text="Brice Ramsey punt 33 yards to the GS29, D. Keaton return 0 yards to the GS29, fumble by D. Keaton recovered by UGA Kenneth Towns at GS29." newcontext="H,1,10,V29">
+    <p_pu vh="H" name="Brice Ramsey" gain="33"></p_pu>
+    <p_pr vh="V" name="D. Keaton" gain="0"></p_pr>
+    <p_fumb vh="V" name="D. Keaton" at="V29" frvh="H" frname="Kenneth Towns"></p_fumb>
+   </play>
+   <drivesum plays="3" yards="8" top="1:31" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="H,V29,05:09" vh="H" spot="V29" clock="05:09" driveindex="19,115"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="GS29" context="H,1,10,V29" playid="19,1,116" clock="05:09" tokens="{DRIVE}:05:09"
+      text="GEORGIA drive start at 05:09." newcontext="H,1,10,V29">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="GS29" context="H,1,10,V29" playid="19,2,117" type="R" pcode="MI" tokens="RUSH:1,V26,MI TACK:37"
+      text="Sony Michel rush up middle for 3 yards to the GS26 (A. Williams)." newcontext="H,2,7,V26">
+    <p_ru vh="H" name="Sony Michel" gain="3"></p_ru>
+    <p_tk vh="V" name="A. Williams"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="7" spot="GS26" context="H,2,7,V26" playid="19,3,118" type="R" pcode="MI" tokens="RUSH:1,V23,MI TACK:27,34"
+      text="Sony Michel rush up middle for 3 yards to the GS23 (D. Gallon;C. DeLaRosa)." newcontext="H,3,4,V23">
+    <p_ru vh="H" name="Sony Michel" gain="3"></p_ru>
+    <p_tk vh="V" name="D. Gallon" assist="Y"></p_tk>
+    <p_tk vh="V" name="C. DeLaRosa" assist="Y"></p_tk>
+   </play>
+   <play hasball="UGA" down="3" togo="4" spot="GS23" context="H,3,4,V23" playid="19,4,119" type="R" pcode="LL" tokens="RUSH:1,V20,LL TACK:16,27"
+      text="Sony Michel rush left for 3 yards to the GS20 (A. Glover;D. Gallon)." newcontext="H,4,1,V20">
+    <p_ru vh="H" name="Sony Michel" gain="3"></p_ru>
+    <p_tk vh="V" name="A. Glover" assist="Y"></p_tk>
+    <p_tk vh="V" name="D. Gallon" assist="Y"></p_tk>
+   </play>
+   <play hasball="UGA" down="4" togo="1" spot="GS20" context="H,4,1,V20" playid="19,5,120" type="R" pcode="RR" first="R" tokens="RUSH:1,V17,RR TACK:90,1W"
+      text="Sony Michel rush right for 3 yards to the GS17, 1ST DOWN UGA (D. Sapp;C. Williams)." newcontext="H,1,10,V17">
+    <p_ru vh="H" name="Sony Michel" gain="3"></p_ru>
+    <p_tk vh="V" name="D. Sapp" assist="Y"></p_tk>
+    <p_tk vh="V" name="C. Williams" assist="Y"></p_tk>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="GS17" context="H,1,10,V17" playid="19,6,121" type="E" pcode="RR" tokens="RUSH:1,V14,RR TACK:16,51 PEN:V,OD,A,TM,V12,N NOPLAY:"
+      text="Sony Michel rush right for 3 yards to the GS14 (A. Glover;J. Johnson), PENALTY GS offside defense 5 yards to the GS12, NO PLAY." newcontext="H,1,5,V12">
+    <p_pn vh="V" code="OD" type="offside defense" result="ACCEPT" at="V17" yards="5"></p_pn>
+   </play>
+   <play hasball="UGA" down="1" togo="5" spot="GS12" context="H,1,5,V12" playid="19,7,122" type="#" clock="02:15" tokens="TOUT:H T:02:15"
+      text="Timeout Georgia, clock 02:15." newcontext="H,1,5,V12">
+    <p_to vh="H" team="Georgia"></p_to>
+   </play>
+   <play hasball="UGA" down="1" togo="5" spot="GS12" context="H,1,5,V12" playid="19,8,123" type="R" pcode="RR" tokens="RUSH:1,V12,RR TACK:37"
+      text="Sony Michel rush right for no gain to the GS12 (A. Williams)." newcontext="H,2,5,V12">
+    <p_ru vh="H" name="Sony Michel" gain="0"></p_ru>
+    <p_tk vh="V" name="A. Williams"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="5" spot="GS12" context="H,2,5,V12" playid="19,9,124" type="P" first="P" score="Y" vscore="14" hscore="13" clock="01:23" tokens="PASS:11,C,5,V00 T:01:23"
+      text="Greyson Lambert pass complete to Terry Godwin for 12 yards to the GS0, 1ST DOWN UGA, TOUCHDOWN, clock 01:23." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Greyson Lambert" result="COMP" rcv="Terry Godwin" gain="12"></p_pa>
+   </play>
+   <play hasball="UGA" down="1" togo="0" spot="GS03" context="H,1,0,V03" playid="19,10,125" type="X" score="Y" vscore="14" hscore="14" tokens="PAT:K,13,G"
+      text="Marshall Morgan kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Marshall Morgan" qb="Marshall Morgan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="14"></score>
+   <drivesum plays="6" yards="29" top="3:46" driveindex="19" complete="Y"></drivesum>
+   <play hasball="UGA" down="1" togo="0" spot="UGA35" context="H,1,0,H35" playid="19,11,126" type="K" tokens="KO:13,V00 TB:"
+      text="Marshall Morgan kickoff 65 yards to the GS0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Marshall Morgan" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,01:23" vh="V" spot="V25" clock="01:23" driveindex="20,126"></drivestart>
+   <play hasball="GS" down="1" togo="10" spot="GS25" context="V,1,10,V25" playid="20,1,127" clock="01:23" tokens="{DRIVE}:01:23"
+      text="GEORGIA SOUTHERN drive start at 01:23." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS25" context="V,1,10,V25" playid="20,2,128" type="R" pcode="MI" tokens="RUSH:36,V31,MI TACK:91,42"
+      text="M. Breida rush up middle for 6 yards to the GS31 (Josh Dawson;Tim Kimbrough)." newcontext="V,2,4,V31">
+    <p_ru vh="V" name="M. Breida" gain="6"></p_ru>
+    <p_tk vh="H" name="Josh Dawson" assist="Y"></p_tk>
+    <p_tk vh="H" name="Tim Kimbrough" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="4" spot="GS31" context="V,2,4,V31" playid="20,3,129" type="R" pcode="LT" first="R" tokens="RUSH:36,V35,LT TACK:58"
+      text="M. Breida rush over left tackle for 4 yards to the GS35, 1ST DOWN GS (Sterling Bailey)." newcontext="V,1,10,V35">
+    <p_ru vh="V" name="M. Breida" gain="4"></p_ru>
+    <p_tk vh="H" name="Sterling Bailey"></p_tk>
+   </play>
+   <score qtr="3" V="14" H="14"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="GS">
+    <firstdowns no="2" rush="2" pass="0" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="06:07"></misc>
+    <rush att="9" yds="34" gain="34" loss="0" td="0" long="0"></rush>
+    <punt no="2" yds="76" long="4" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="38.0"></punt>
+    <ko no="1" yds="65" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="11" tacka="8" tot_tack="19" tflua="3" tfla="0" tflyds="11" sacks="1" sackyds="7" brup="1" ff="1" fr="1" fryds="62"></defense>
+    <kr no="1" yds="20" td="0" long="0"></kr>
+    <pr no="1" yds="0" td="0" long="0"></pr>
+    <fr no="1" yds="62" td="1" long="62"></fr>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UGA">
+    <firstdowns no="4" rush="2" pass="2" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="08:53"></misc>
+    <rush att="11" yds="29" gain="43" loss="14" td="0" long="0"></rush>
+    <pass comp="3" att="4" int="0" yds="34" td="1" long="0" sacks="1" sackyds="7"></pass>
+    <rcv no="3" yds="34" td="1" long="0"></rcv>
+    <punt no="2" yds="81" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="40.5"></punt>
+    <ko no="2" yds="130" ob="0" tb="1"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="6" tacka="8" tot_tack="14" sacks="0" sackyds="0" fr="1" fryds="0"></defense>
+    <kr no="1" yds="28" td="0" long="0"></kr>
+    <pr no="1" yds="6" td="0" long="4"></pr>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="GS" down="1" togo="10" spot="GS35" context="V,1,10,V35" playid="20,4,130" type="#" clock="15:00" tokens="Q:4 T:15:00"
+      text="Start of 4th quarter, clock 15:00." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS35" context="V,1,10,V35" playid="20,5,131" type="R" pcode="MI" tokens="RUSH:2F,V37,MI TACK:84,42"
+      text="W. Fields rush up middle for 2 yards to the GS37 (Leonard Floyd;Tim Kimbrough)." newcontext="V,2,8,V37">
+    <p_ru vh="V" name="W. Fields" gain="2"></p_ru>
+    <p_tk vh="H" name="Leonard Floyd" assist="Y"></p_tk>
+    <p_tk vh="H" name="Tim Kimbrough" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="8" spot="GS37" context="V,2,8,V37" playid="20,6,132" type="R" pcode="MI" tokens="RUSH:36,V39,MI TACK:84,35"
+      text="M. Breida rush up middle for 2 yards to the GS39 (Leonard Floyd;Aaron Davis)." newcontext="V,3,6,V39">
+    <p_ru vh="V" name="M. Breida" gain="2"></p_ru>
+    <p_tk vh="H" name="Leonard Floyd" assist="Y"></p_tk>
+    <p_tk vh="H" name="Aaron Davis" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="6" spot="GS39" context="V,3,6,V39" playid="20,7,133" type="P" first="P" tokens="PASS:1U,C,81,H44"
+      text="F. Upshaw pass complete to M. Cambell for 17 yards to the UGA44, 1ST DOWN GS." newcontext="V,1,10,H44">
+    <p_pa vh="V" qb="F. Upshaw" result="COMP" rcv="M. Cambell" gain="17"></p_pa>
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="UGA44" context="V,1,10,H44" playid="20,8,134" type="R" pcode="LL" tokens="RUSH:1U,H35,LL OB: TACK:42"
+      text="F. Upshaw rush left for 9 yards to the UGA35, out-of-bounds (Tim Kimbrough)." ob="Y" newcontext="V,2,1,H35">
+    <p_ru vh="V" name="F. Upshaw" gain="9"></p_ru>
+    <p_tk vh="H" name="Tim Kimbrough"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="1" spot="UGA35" context="V,2,1,H35" playid="20,9,135" type="R" pcode="LL" tokens="RUSH:1U,H33,LL TACK:35 PEN:V,PF,A,TM,H48,N"
+      text="F. Upshaw rush left for 2 yards to the UGA33 (Aaron Davis), PENALTY GS personal foul 15 yards to the UGA48." newcontext="V,2,14,H48">
+    <p_ru vh="V" name="F. Upshaw" gain="2"></p_ru>
+    <p_tk vh="H" name="Aaron Davis"></p_tk>
+    <p_pn vh="V" code="PF" type="personal foul" result="ACCEPT" at="H33" yards="15"></p_pn>
+   </play>
+   <play hasball="GS" down="2" togo="14" spot="UGA48" context="V,2,14,H48" playid="20,10,136" tokens="D:2,14"
+      text="2nd and 14." newcontext="V,2,14,H48">
+   </play>
+   <play hasball="GS" down="2" togo="14" spot="UGA48" context="V,2,14,H48" playid="20,11,137" type="R" pcode="RR" tokens="RUSH:2F,H42,RR TACK:93,20"
+      text="W. Fields rush right for 6 yards to the UGA42 (Chris Mayes;Quincy Mauger)." newcontext="V,3,8,H42">
+    <p_ru vh="V" name="W. Fields" gain="6"></p_ru>
+    <p_tk vh="H" name="Chris Mayes" assist="Y"></p_tk>
+    <p_tk vh="H" name="Quincy Mauger" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="8" spot="UGA42" context="V,3,8,H42" playid="20,12,138" type="R" pcode="RR" first="R" tokens="RUSH:1,H31,RR TACK:35"
+      text="L. Ramsby rush right for 11 yards to the UGA31, 1ST DOWN GS (Aaron Davis)." newcontext="V,1,10,H31">
+    <p_ru vh="V" name="L. Ramsby" gain="11"></p_ru>
+    <p_tk vh="H" name="Aaron Davis"></p_tk>
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="UGA31" context="V,1,10,H31" playid="20,13,139" type="R" pcode="MI" tokens="RUSH:1,H32,MI TACK:84"
+      text="L. Ramsby rush up middle for loss of 1 yard to the UGA32 (Leonard Floyd)." newcontext="V,2,11,H32">
+    <p_ru vh="V" name="L. Ramsby" gain="-1"></p_ru>
+    <p_tk vh="H" name="Leonard Floyd"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="11" spot="UGA32" context="V,2,11,H32" playid="20,14,140" type="R" pcode="LL" tokens="RUSH:1U,H31,LL TACK:42,84"
+      text="F. Upshaw rush left for 1 yard to the UGA31 (Tim Kimbrough;Leonard Floyd)." newcontext="V,3,10,H31">
+    <p_ru vh="V" name="F. Upshaw" gain="1"></p_ru>
+    <p_tk vh="H" name="Tim Kimbrough" assist="Y"></p_tk>
+    <p_tk vh="H" name="Leonard Floyd" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="10" spot="UGA31" context="V,3,10,H31" playid="20,15,141" type="P" tokens="PASS:1U,I,81,* BRUP:14"
+      text="F. Upshaw pass incomplete to M. Cambell (Malkom Parrish)." newcontext="V,4,10,H31">
+    <p_pa vh="V" qb="F. Upshaw" result="INC" rcv="M. Cambell"></p_pa>
+    <p_bu vh="H" name="Malkom Parrish"></p_bu>
+   </play>
+   <play hasball="GS" down="4" togo="10" spot="UGA31" context="V,4,10,H31" playid="20,16,142" type="#" clock="09:26" tokens="TOUT:V T:09:26"
+      text="Timeout Georgia Southern, clock 09:26." newcontext="V,4,10,H31">
+    <p_to vh="V" team="Georgia Southern"></p_to>
+   </play>
+   <play hasball="GS" down="4" togo="10" spot="UGA31" context="V,4,10,H31" playid="20,17,143" type="F" score="Y" vscore="17" hscore="14" clock="09:21" tokens="FGA:9K,48,G T:09:21"
+      text="Y. Koo field goal attempt from 48 GOOD, clock 09:21." newcontext="V,1,0,V35">
+    <p_fg vh="V" name="Y. Koo" distance="48" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="17" H="14"></score>
+   <drivesum plays="13" yards="44" top="7:02" driveindex="20" complete="Y"></drivesum>
+   <play hasball="GS" down="1" togo="0" spot="GS35" context="V,1,0,V35" playid="20,18,144" type="K" tokens="KO:9K,H00 TB:"
+      text="Y. Koo kickoff 65 yards to the UGA0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Y. Koo" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,09:21" vh="H" spot="H25" clock="09:21" driveindex="21,144"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="UGA25" context="H,1,10,H25" playid="21,1,145" clock="09:21" tokens="{DRIVE}:09:21"
+      text="GEORGIA drive start at 09:21." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA25" context="H,1,10,H25" playid="21,2,146" type="P" pcode="SL" tokens="PASS:11,C,26,H34,SL TACK:6"
+      text="Greyson Lambert slant pass complete to M. Mitchell for 9 yards to the UGA34 (D. White)." newcontext="H,2,1,H34">
+    <p_pa vh="H" qb="Greyson Lambert" result="COMP" rcv="M. Mitchell" gain="9"></p_pa>
+    <p_tk vh="V" name="D. White"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="1" spot="UGA34" context="H,2,1,H34" playid="21,3,147" type="R" pcode="RR" first="R" tokens="RUSH:1,H39,RR TACK:99"
+      text="Sony Michel rush right for 5 yards to the UGA39, 1ST DOWN UGA (J. Ellison)." newcontext="H,1,10,H39">
+    <p_ru vh="H" name="Sony Michel" gain="5"></p_ru>
+    <p_tk vh="V" name="J. Ellison"></p_tk>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA39" context="H,1,10,H39" playid="21,4,148" type="R" pcode="LL" first="R" tokens="RUSH:1,V41,LL TACK:7,27"
+      text="Sony Michel rush left for 20 yards to the GS41, 1ST DOWN UGA (M. Dobson;D. Gallon)." newcontext="H,1,10,V41">
+    <p_ru vh="H" name="Sony Michel" gain="20"></p_ru>
+    <p_tk vh="V" name="M. Dobson" assist="Y"></p_tk>
+    <p_tk vh="V" name="D. Gallon" assist="Y"></p_tk>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="GS41" context="H,1,10,V41" playid="21,5,149" type="P" first="P" tokens="PASS:11,C,87,V28 TACK:6"
+      text="Greyson Lambert pass complete to Jay Rome for 13 yards to the GS28, 1ST DOWN UGA (D. White)." newcontext="H,1,10,V28">
+    <p_pa vh="H" qb="Greyson Lambert" result="COMP" rcv="Jay Rome" gain="13"></p_pa>
+    <p_tk vh="V" name="D. White"></p_tk>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="GS28" context="H,1,10,V28" playid="21,6,150" type="R" pcode="RR" tokens="RUSH:22,V26,RR TACK:37,16"
+      text="Brendan Douglas rush right for 2 yards to the GS26 (A. Williams;A. Glover)." newcontext="H,2,8,V26">
+    <p_ru vh="H" name="Brendan Douglas" gain="2"></p_ru>
+    <p_tk vh="V" name="A. Williams" assist="Y"></p_tk>
+    <p_tk vh="V" name="A. Glover" assist="Y"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="8" spot="GS26" context="H,2,8,V26" playid="21,7,151" type="P" tokens="PASS:11,I,1,*"
+      text="Greyson Lambert pass incomplete to Sony Michel." newcontext="H,3,8,V26">
+    <p_pa vh="H" qb="Greyson Lambert" result="INC" rcv="Sony Michel"></p_pa>
+   </play>
+   <play hasball="UGA" down="3" togo="8" spot="GS26" context="H,3,8,V26" playid="21,8,152" type="P" tokens="PASS:11,I,26,*"
+      text="Greyson Lambert pass incomplete to M. Mitchell." newcontext="H,4,8,V26">
+    <p_pa vh="H" qb="Greyson Lambert" result="INC" rcv="M. Mitchell"></p_pa>
+   </play>
+   <play hasball="UGA" down="4" togo="8" spot="GS26" context="H,4,8,V26" playid="21,9,153" type="F" score="Y" vscore="17" hscore="17" clock="06:06" tokens="FGA:13,43,G T:06:06"
+      text="Marshall Morgan field goal attempt from 43 GOOD, clock 06:06." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="Marshall Morgan" distance="43" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="17" H="17"></score>
+   <drivesum plays="8" yards="49" top="3:15" driveindex="21" complete="Y"></drivesum>
+   <play hasball="UGA" down="1" togo="0" spot="UGA35" context="H,1,0,H35" playid="21,10,154" type="K" tokens="KO:13,V03 RET:23,V24 OB: TACK:29"
+      text="Marshall Morgan kickoff 62 yards to the GS3, D. Keaton return 21 yards to the GS24, out-of-bounds (Ben Souther)." ob="Y" newcontext="V,1,10,V24">
+    <p_ko vh="H" name="Marshall Morgan" gain="62"></p_ko>
+    <p_kr vh="V" name="D. Keaton" gain="21"></p_kr>
+    <p_tk vh="H" name="Ben Souther"></p_tk>
+   </play>
+   <drivestart poss="V,V24,05:59" vh="V" spot="V24" clock="05:59" driveindex="22,154"></drivestart>
+   <play hasball="GS" down="1" togo="10" spot="GS24" context="V,1,10,V24" playid="22,1,155" clock="05:59" tokens="{DRIVE}:05:59"
+      text="GEORGIA SOUTHERN drive start at 05:59." newcontext="V,1,10,V24">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS24" context="V,1,10,V24" playid="22,2,156" type="R" pcode="RR" tokens="RUSH:36,V24,RR TACK:58"
+      text="M. Breida rush right for no gain to the GS24 (Sterling Bailey)." newcontext="V,2,10,V24">
+    <p_ru vh="V" name="M. Breida" gain="0"></p_ru>
+    <p_tk vh="H" name="Sterling Bailey"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="10" spot="GS24" context="V,2,10,V24" playid="22,3,157" type="R" pcode="MI" tokens="RUSH:1,V28,MI TACK:6"
+      text="L. Ramsby rush up middle for 4 yards to the GS28 (Natrez Patrick)." newcontext="V,3,6,V28">
+    <p_ru vh="V" name="L. Ramsby" gain="4"></p_ru>
+    <p_tk vh="H" name="Natrez Patrick"></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="6" spot="GS28" context="V,3,6,V28" playid="22,4,158" type="P" pcode="DP" tokens="PASS:1U,I,31,*,DP"
+      text="F. Upshaw deep pass incomplete to R. Longoria." newcontext="V,4,6,V28">
+    <p_pa vh="V" qb="F. Upshaw" result="INC" rcv="R. Longoria"></p_pa>
+   </play>
+   <play hasball="GS" down="4" togo="6" spot="GS28" context="V,4,6,V28" playid="22,5,159" type="U" tokens="PUNT:49,H28 FC:5"
+      text="R. Nowicki punt 44 yards to the UGA28, fair catch by Terry Godwin." newcontext="H,1,10,H28">
+    <p_pu vh="V" name="R. Nowicki" gain="44" fc="Terry Godwin"></p_pu>
+   </play>
+   <drivesum plays="3" yards="4" top="1:31" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="H,H28,04:28" vh="H" spot="H28" clock="04:28" driveindex="23,159"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="UGA28" context="H,1,10,H28" playid="23,1,160" clock="04:28" tokens="{DRIVE}:04:28"
+      text="GEORGIA drive start at 04:28." newcontext="H,1,10,H28">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA28" context="H,1,10,H28" playid="23,2,161" type="R" pcode="MI" tokens="RUSH:1,H30,MI TACK:99,90"
+      text="Sony Michel rush up middle for 2 yards to the UGA30 (J. Ellison;D. Sapp)." newcontext="H,2,8,H30">
+    <p_ru vh="H" name="Sony Michel" gain="2"></p_ru>
+    <p_tk vh="V" name="J. Ellison" assist="Y"></p_tk>
+    <p_tk vh="V" name="D. Sapp" assist="Y"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="8" spot="UGA30" context="H,2,8,H30" playid="23,3,162" type="P" tokens="PASS:11,C,87,H34"
+      text="Greyson Lambert pass complete to Jay Rome for 4 yards to the UGA34." newcontext="H,3,4,H34">
+    <p_pa vh="H" qb="Greyson Lambert" result="COMP" rcv="Jay Rome" gain="4"></p_pa>
+   </play>
+   <play hasball="UGA" down="3" togo="4" spot="UGA34" context="H,3,4,H34" playid="23,4,163" type="P" tokens="PASS:11,I,26,*"
+      text="Greyson Lambert pass incomplete to M. Mitchell." newcontext="H,4,4,H34">
+    <p_pa vh="H" qb="Greyson Lambert" result="INC" rcv="M. Mitchell"></p_pa>
+   </play>
+   <play hasball="UGA" down="4" togo="4" spot="UGA34" context="H,4,4,H34" playid="23,5,164" type="U" tokens="PUNT:12,V37 DN:"
+      text="Brice Ramsey punt 29 yards to the GS37, downed." newcontext="V,1,10,V37">
+    <p_pu vh="H" name="Brice Ramsey" gain="29"></p_pu>
+   </play>
+   <drivesum plays="3" yards="6" top="1:40" driveindex="23" complete="Y"></drivesum>
+   <drivestart poss="V,V37,02:48" vh="V" spot="V37" clock="02:48" driveindex="24,164"></drivestart>
+   <play hasball="GS" down="1" togo="10" spot="GS37" context="V,1,10,V37" playid="24,1,165" clock="02:48" tokens="{DRIVE}:02:48"
+      text="GEORGIA SOUTHERN drive start at 02:48." newcontext="V,1,10,V37">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="GS37" context="V,1,10,V37" playid="24,2,166" type="R" pcode="RR" tokens="RUSH:36,V46,RR OB: TACK:20"
+      text="M. Breida rush right for 9 yards to the GS46, out-of-bounds (Quincy Mauger)." ob="Y" newcontext="V,2,1,V46">
+    <p_ru vh="V" name="M. Breida" gain="9"></p_ru>
+    <p_tk vh="H" name="Quincy Mauger"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="1" spot="GS46" context="V,2,1,V46" playid="24,3,167" type="R" pcode="RR" first="R" tokens="RUSH:1,H44,RR TACK:24,35"
+      text="L. Ramsby rush right for 10 yards to the UGA44, 1ST DOWN GS (D. Sanders;Aaron Davis)." newcontext="V,1,10,H44">
+    <p_ru vh="V" name="L. Ramsby" gain="10"></p_ru>
+    <p_tk vh="H" name="D. Sanders" assist="Y"></p_tk>
+    <p_tk vh="H" name="Aaron Davis" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="UGA44" context="V,1,10,H44" playid="24,4,168" type="R" pcode="MI" tokens="RUSH:36,H42,MI TACK:42"
+      text="M. Breida rush up middle for 2 yards to the UGA42 (Tim Kimbrough)." newcontext="V,2,8,H42">
+    <p_ru vh="V" name="M. Breida" gain="2"></p_ru>
+    <p_tk vh="H" name="Tim Kimbrough"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="8" spot="UGA42" context="V,2,8,H42" playid="24,5,169" type="R" pcode="MI" tokens="RUSH:36,H42,MI TACK:84,51"
+      text="M. Breida rush up middle for no gain to the UGA42 (Leonard Floyd;Jake Ganus)." newcontext="V,3,8,H42">
+    <p_ru vh="V" name="M. Breida" gain="0"></p_ru>
+    <p_tk vh="H" name="Leonard Floyd" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jake Ganus" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="8" spot="UGA42" context="V,3,8,H42" playid="24,6,170" type="P" tokens="PASS:1U,C,1,H40 TACK:35,59"
+      text="F. Upshaw pass complete to L. Ramsby for 2 yards to the UGA40 (Aaron Davis;Jordan Jenkins)." newcontext="V,4,6,H40">
+    <p_pa vh="V" qb="F. Upshaw" result="COMP" rcv="L. Ramsby" gain="2"></p_pa>
+    <p_tk vh="H" name="Aaron Davis" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jordan Jenkins" assist="Y"></p_tk>
+   </play>
+   <play hasball="GS" down="4" togo="6" spot="UGA40" context="V,4,6,H40" playid="24,7,171" type="#" clock="00:39" tokens="TOUT:H T:00:39"
+      text="Timeout Georgia, clock 00:39." newcontext="V,4,6,H40">
+    <p_to vh="H" team="Georgia"></p_to>
+   </play>
+   <play hasball="GS" down="4" togo="6" spot="UGA40" context="V,4,6,H40" playid="24,8,172" type="U" tokens="PUNT:49,H00 TB:"
+      text="R. Nowicki punt 40 yards to the UGA0, touchback." newcontext="H,1,10,H20">
+    <p_pu vh="V" name="R. Nowicki" gain="40" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="5" yards="23" top="2:15" driveindex="24" complete="Y"></drivesum>
+   <drivestart poss="H,H20,00:33" vh="H" spot="H20" clock="00:33" driveindex="25,172"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="UGA20" context="H,1,10,H20" playid="25,1,173" clock="00:33" tokens="{DRIVE}:00:33"
+      text="GEORGIA drive start at 00:33." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA20" context="H,1,10,H20" playid="25,2,174" type="P" pcode="MI" first="P" tokens="PASS:11,C,83,H33,MI TACK:7,34"
+      text="Greyson Lambert middle pass complete to Jeb Blazevich for 13 yards to the UGA33, 1ST DOWN UGA (M. Dobson;C. DeLaRosa)." newcontext="H,1,10,H33">
+    <p_pa vh="H" qb="Greyson Lambert" result="COMP" rcv="Jeb Blazevich" gain="13"></p_pa>
+    <p_tk vh="V" name="M. Dobson" assist="Y"></p_tk>
+    <p_tk vh="V" name="C. DeLaRosa" assist="Y"></p_tk>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA33" context="H,1,10,H33" playid="25,3,175" type="P" tokens="PASS:11,C,82,H38 TACK:37"
+      text="Greyson Lambert pass complete to Michael Chigbu for 5 yards to the UGA38 (A. Williams)." newcontext="H,2,5,H38">
+    <p_pa vh="H" qb="Greyson Lambert" result="COMP" rcv="Michael Chigbu" gain="5"></p_pa>
+    <p_tk vh="V" name="A. Williams"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="5" spot="UGA38" context="H,2,5,H38" playid="25,4,176" type="P" tokens="PASS:11,C,1,H39 TACK:27"
+      text="Greyson Lambert pass complete to Sony Michel for 1 yard to the UGA39 (D. Gallon)." newcontext="H,3,4,H39">
+    <p_pa vh="H" qb="Greyson Lambert" result="COMP" rcv="Sony Michel" gain="1"></p_pa>
+    <p_tk vh="V" name="D. Gallon"></p_tk>
+   </play>
+   <play hasball="UGA" down="3" togo="4" spot="UGA39" context="H,3,4,H39" playid="25,5,177" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of game, clock 00:00." newcontext="H,3,4,H39">
+   </play>
+   <drivesum plays="3" yards="19" top="0:33" driveindex="25" complete="Y"></drivesum>
+   <score qtr="4" V="17" H="17"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="GS">
+    <firstdowns no="3" rush="2" pass="1" penalty="0"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="2" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:32"></misc>
+    <rush att="14" yds="57" gain="58" loss="1" td="0" long="0"></rush>
+    <pass comp="2" att="4" int="0" yds="19" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="19" td="0" long="0"></rcv>
+    <punt no="2" yds="84" long="3" blkd="0" tb="1" fc="1" plus50="0" inside20="0" avg="42.0"></punt>
+    <ko no="1" yds="65" ob="0" tb="1"></ko>
+    <fg made="1" att="1" long="48" blkd="0"></fg>
+    <defense tackua="5" tacka="8" tot_tack="13" sacks="0" sackyds="0"></defense>
+    <kr no="1" yds="21" td="0" long="0"></kr>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UGA">
+    <firstdowns no="4" rush="2" pass="2" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="05:28"></misc>
+    <rush att="4" yds="29" gain="29" loss="0" td="0" long="0"></rush>
+    <pass comp="6" att="9" int="0" yds="45" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="45" td="0" long="0"></rcv>
+    <punt no="1" yds="29" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="29.0"></punt>
+    <ko no="1" yds="62" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="43" blkd="0"></fg>
+    <defense tackua="9" tacka="14" tot_tack="23" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" brup="1"></defense>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="5" text="OT">
+   <comment text="Georgia wins the toss and elects to play defense."></comment>
+   <comment text="Georgia Southern will attack the west goal."></comment>
+   <play hasball="UGA" down="3" togo="4" spot="UGA39" context="H,3,4,H39" playid="25,6,178" type="#" clock="15:00" tokens="Q:5 T:15:00"
+      text="Start of OT  quarter, clock 15:00." newcontext="H,3,4,H39">
+   </play>
+   <play hasball="UGA" down="3" togo="4" spot="UGA39" context="H,3,4,H39" playid="25,7,181" tokens="POSS: SPOT:V,H25,Y D:1,10"
+      text="Change of possession, GS ball on UGA25, 1st and 10." newcontext="V,1,10,H25">
+   </play>
+   <drivestart poss="V,H25,15:00" vh="V" spot="H25" clock="15:00" driveindex="26,181"></drivestart>
+   <play hasball="GS" down="1" togo="10" spot="UGA25" context="V,1,10,H25" playid="26,1,182" clock="15:00" tokens="{DRIVE}:15:00"
+      text="GEORGIA SOUTHERN drive start at 15:00." newcontext="V,1,10,H25">
+   </play>
+   <play hasball="GS" down="1" togo="10" spot="UGA25" context="V,1,10,H25" playid="26,2,183" type="R" pcode="RR" tokens="RUSH:1,H29,RR TACK:84"
+      text="L. Ramsby rush right for loss of 4 yards to the UGA29 (Leonard Floyd)." newcontext="V,2,14,H29">
+    <p_ru vh="V" name="L. Ramsby" gain="-4"></p_ru>
+    <p_tk vh="H" name="Leonard Floyd"></p_tk>
+   </play>
+   <play hasball="GS" down="2" togo="14" spot="UGA29" context="V,2,14,H29" playid="26,3,184" type="R" pcode="RR" tokens="RUSH:36,H30,RR TACK:84"
+      text="M. Breida rush right for loss of 1 yard to the UGA30 (Leonard Floyd)." newcontext="V,3,15,H30">
+    <p_ru vh="V" name="M. Breida" gain="-1"></p_ru>
+    <p_tk vh="H" name="Leonard Floyd"></p_tk>
+   </play>
+   <play hasball="GS" down="3" togo="15" spot="UGA30" context="V,3,15,H30" playid="26,4,185" type="R" pcode="LL" tokens="RUSH:1U,H16,LL TACK:51"
+      text="F. Upshaw rush left for 14 yards to the UGA16 (Jake Ganus)." newcontext="V,4,1,H16">
+    <p_ru vh="V" name="F. Upshaw" gain="14"></p_ru>
+    <p_tk vh="H" name="Jake Ganus"></p_tk>
+   </play>
+   <play hasball="GS" down="4" togo="1" spot="UGA16" context="V,4,1,H16" playid="26,5,186" type="R" pcode="MI" tokens="RUSH:1,H19,MI TACK:59,84"
+      text="L. Ramsby rush up middle for loss of 3 yards to the UGA19 (Jordan Jenkins;Leonard Floyd)." newcontext="H,1,10,H19">
+    <p_ru vh="V" name="L. Ramsby" gain="-3"></p_ru>
+    <p_tk vh="H" name="Jordan Jenkins" assist="Y"></p_tk>
+    <p_tk vh="H" name="Leonard Floyd" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="4" yards="6" top="0:00" driveindex="26" complete="Y"></drivesum>
+   <drivestart poss="H,H19,15:00" vh="H" spot="H19" clock="15:00" driveindex="27,186"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="UGA19" context="H,1,10,H19" playid="27,1,187" tokens="POSS: SPOT:H,V25,Y D:1,10"
+      text="Change of possession, UGA ball on GS25, 1st and 10." newcontext="H,1,10,V25">
+   </play>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="27" complete="Y"></drivesum>
+   <drivestart poss="H,V25,15:00" vh="H" spot="V25" clock="15:00" driveindex="28,187"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="GS25" context="H,1,10,V25" playid="28,1,188" clock="15:00" tokens="{DRIVE}:15:00"
+      text="GEORGIA drive start at 15:00." newcontext="H,1,10,V25">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="GS25" context="H,1,10,V25" playid="28,2,189" type="#" clock="15:00" tokens="TOUT:V T:15:00"
+      text="Timeout Georgia Southern, clock 15:00." newcontext="H,1,10,V25">
+    <p_to vh="V" team="Georgia Southern"></p_to>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="GS25" context="H,1,10,V25" playid="28,3,190" type="R" pcode="LL" first="R" score="Y" vscore="17" hscore="23" clock="15:00" tokens="RUSH:1,V00,LL T:15:00"
+      text="Sony Michel rush left for 25 yards to the GS0, 1ST DOWN UGA, TOUCHDOWN, clock 15:00." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Sony Michel" gain="25"></p_ru>
+   </play>
+   <score V="17" H="23"></score>
+   <drivesum plays="1" yards="25" top="0:00" driveindex="28" complete="Y"></drivesum>
+   <score V="17" H="23"></score>
+   <qtrsummary vh="V" id="GS">
+    <firstdowns no="0" rush="0" pass="0" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="1" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="00:00"></misc>
+    <rush att="4" yds="6" gain="14" loss="8" td="0" long="0"></rush>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UGA">
+    <firstdowns no="1" rush="1" pass="0" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="0" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="00:00"></misc>
+    <rush att="1" yds="25" gain="25" loss="0" td="1" long="2"></rush>
+    <defense tackua="3" tacka="2" tot_tack="5" tflua="2" tfla="2" tflyds="8" sacks="0" sackyds="0"></defense>
+    <scoring td="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="UGA" down="1" togo="0" spot="GS03" context="H,1,0,V03" qtr="5" clock="00:00"
+       lastplay="Sony Michel rush left for 25 yards to the GS0, 1ST DOWN UGA, TOUCHDOWN, clock 15:00."></downtogo>
+ </plays>
+ <message text=""></message>
+ <dnp vh="V" id="GS">
+  <player name="C. Matthew" checkname="MATTHEW,C" uni="1M" class="FR" gp="0" code="1M"></player>
+  <player name="D. Glenn" checkname="GLENN,D" uni="1G" class="FR" gp="0" code="1G"></player>
+  <player name="T. Banks" checkname="BANKS,T" uni="2B" class="FR" gp="0" code="2B"></player>
+  <player name="R. Murray" checkname="MURRAY,R" uni="2" class="FR" gp="0" code="2"></player>
+  <player name="J. Bowdry" checkname="BOWDRY,J" uni="2Y" class="FR" gp="0" code="2Y"></player>
+  <player name="T. Stewart" checkname="STEWART,T" uni="2K" class="FR" gp="0" code="2K"></player>
+  <player name="R. Brown" checkname="BROWN,R" uni="2I" class="SR" gp="0" code="2I"></player>
+  <player name="C. Saggus" checkname="SAGGUS,C" uni="2S" class="JR" gp="0" code="2S"></player>
+  <player name="J. Schofill" checkname="SCHOFILL,J" uni="2C" class="FR" gp="0" code="2C"></player>
+  <player name="N. Hickey" checkname="HICKEY,N" uni="2H" class="FR" gp="0" code="2H"></player>
+  <player name="M. Hallback" checkname="HALLBACK,M" uni="3H" class="FR" gp="0" code="3H"></player>
+  <player name="K. Oehlbeck" checkname="OEHLBECK,K" uni="3K" class="SO" gp="0" code="3K"></player>
+  <player name="A. Hanks" checkname="HANKS,A" uni="4H" class="SR" gp="0" code="4H"></player>
+  <player name="J. Belvin" checkname="BELVIN,J" uni="4B" class="FR" gp="0" code="4B"></player>
+  <player name="L. Ecton" checkname="ECTON,L" uni="4E" class="FR" gp="0" code="4E"></player>
+  <player name="J. Banks" checkname="BANKS,J" uni="4C" class="FR" gp="0" code="4C"></player>
+  <player name="J. Abraham" checkname="ABRAHAM,J" uni="4A" class="JR" gp="0" code="4A"></player>
+  <player name="Z. Copeland" checkname="COPELAND,Z" uni="5C" class="FR" gp="0" code="5C"></player>
+  <player name="E. Ritland" checkname="RITLAND,E" uni="8R" class="FR" gp="0" code="8R"></player>
+  <player name="N. Sewak" checkname="SEWAK,N" uni="8S" class="SO" gp="0" code="8S"></player>
+  <player name="J. GreenStewart" checkname="GREENSTEWART,J" uni="9G" class="FR" gp="0" code="9G"></player>
+  <player name="K. Maye" checkname="MAYE,K" uni="11" class="SO" gp="0" code="11"></player>
+  <player name="Q. Howard" checkname="HOWARD,Q" uni="15" class="FR" gp="0" code="15"></player>
+  <player name="J. Moon" checkname="MOON,J" uni="22" class="FR" gp="0" code="22"></player>
+  <player name="R. Brice" checkname="BRICE,R" uni="25" class="JR" gp="0" code="25"></player>
+  <player name="J. Liptrot" checkname="LIPTROT,J" uni="30" class="FR" gp="0" code="30"></player>
+  <player name="E. Montgomery" checkname="MONTGOMERY,E" uni="35" class="FR" gp="0" code="35"></player>
+  <player name="Z. Yost" checkname="YOST,Z" uni="41" class="JR" gp="0" code="41"></player>
+  <player name="C. Thornton" checkname="THORNTON,C" uni="43" class="SO" gp="0" code="43"></player>
+  <player name="L. Richardson" checkname="RICHARDSON,L" uni="54" class="SR" gp="0" code="54"></player>
+  <player name="M. Flynn" checkname="FLYNN,M" uni="55" class="SO" gp="0" code="55"></player>
+  <player name="B. Kimble" checkname="KIMBLE,B" uni="59" class="FR" gp="0" code="59"></player>
+  <player name="T. Williams" checkname="WILLIAMS,T" uni="61" class="FR" gp="0" code="61"></player>
+  <player name="J. Cooper" checkname="COOPER,J" uni="64" class="FR" gp="0" code="64"></player>
+  <player name="T. Hill" checkname="HILL,T" uni="65" class="FR" gp="0" code="65"></player>
+  <player name="J. Morris" checkname="MORRIS,J" uni="66" class="SO" gp="0" code="66"></player>
+  <player name="Ch. Williams" checkname="WILLIAMS,CH" uni="68" class="FR" gp="0" code="68"></player>
+  <player name="D. Grall" checkname="GRALL,D" uni="69" class="FR" gp="0" code="69"></player>
+  <player name="J. Theus" checkname="THEUS,J" uni="70" class="FR" gp="0" code="70"></player>
+  <player name="M. Magana" checkname="MAGANA,M" uni="71" class="JR" gp="0" code="71"></player>
+  <player name="S. Gaddy" checkname="GADDY,S" uni="72" class="JR" gp="0" code="72"></player>
+  <player name="C. Rainey" checkname="RAINEY,C" uni="75" class="FR" gp="0" code="75"></player>
+  <player name="T. Baugus" checkname="BAUGUS,T" uni="76" class="FR" gp="0" code="76"></player>
+  <player name="J. Freeman" checkname="FREEMAN,J" uni="78" class="SO" gp="0" code="78"></player>
+  <player name="H. Warren" checkname="WARREN,H" uni="79" class="SO" gp="0" code="79"></player>
+  <player name="K. Ackerman" checkname="ACKERMAN,K" uni="80" class="FR" gp="0" code="80"></player>
+  <player name="O. Fortune" checkname="FORTUNE,O" uni="82" class="FR" gp="0" code="82"></player>
+  <player name="K. Williams" checkname="WILLIAMS,K" uni="83" class="JR" gp="0" code="83"></player>
+  <player name="T. Moorer" checkname="MOORER,T" uni="85" class="FR" gp="0" code="85"></player>
+  <player name="J. Kouassi" checkname="KOUASSI,J" uni="93" class="FR" gp="0" code="93"></player>
+  <player name="T. Griffin" checkname="GRIFFIN,T" uni="94" class="JR" gp="0" code="94"></player>
+  <player name="I. Bush" checkname="BUSH,I" uni="95" class="FR" gp="0" code="95"></player>
+ </dnp>
+ <dnp vh="H" id="UGA">
+  <player name="J. Ledbetter" checkname="LEDBETTER,J" uni="1L" class="FR" gp="0" code="1L"></player>
+  <player name="Jesse Jones" checkname="JONES,JESSE" uni="1J" class="SR" gp="0" code="1J"></player>
+  <player name="Nick Robinson" checkname="ROBINSON,NICK" uni="1R" class="FR" gp="0" code="1R"></player>
+  <player name="Keyon Brown" checkname="BROWN,KEYON" uni="1K" class="FR" gp="0" code="1K"></player>
+  <player name="Matt Price" checkname="PRICE,MATT" uni="2P" class="FR" gp="0" code="2P"></player>
+  <player name="Avery McNeely" checkname="MCNEELY,AVERY" uni="2M" class="SO" gp="0" code="2M"></player>
+  <player name="O. Enadeghe" checkname="ENADEGHE,O" uni="2E" class="FR" gp="0" code="2E"></player>
+  <player name="Colter Creswell" checkname="CRESWELL,COLTER" uni="2C" class="JR" gp="0" code="2C"></player>
+  <player name="Tramel Terry" checkname="TERRY,TRAMEL" uni="2T" class="SO" gp="0" code="2T"></player>
+  <player name="Jayson Stanley" checkname="STANLEY,JAYSON" uni="2" class="FR" gp="0" code="2"></player>
+  <player name="Jonah Guinn" checkname="GUINN,JONAH" uni="2G" class="JR" gp="0" code="2G"></player>
+  <player name="A.J. Turman" checkname="TURMAN,AJ" uni="3T" class="SO" gp="0" code="3T"></player>
+  <player name="Ridge Underwood" checkname="UNDERWOOD,RIDGE" uni="3U" class="JR" gp="0" code="3U"></player>
+  <player name="Roquan Smith" checkname="SMITH,ROQUAN" uni="3" class="FR" gp="0" code="3"></player>
+  <player name="Clay Johnson" checkname="JOHNSON,CLAY" uni="3J" class="JR" gp="0" code="3J"></player>
+  <player name="Devin Gillespie" checkname="GILLESPIE,DEVIN" uni="3G" class="JR" gp="0" code="3G"></player>
+  <player name="Keith Marshall" checkname="MARSHALL,KEITH" uni="4" class="JR" gp="0" code="4"></player>
+  <player name="Aulden Bynum" checkname="BYNUM,AULDEN" uni="4B" class="SO" gp="0" code="4B"></player>
+  <player name="Tommy Long" checkname="LONG,TOMMY" uni="4L" class="JR" gp="0" code="4L"></player>
+  <player name="C. Faulkner" checkname="FAULKNER,C" uni="4F" class="SR" gp="0" code="4F"></player>
+  <player name="Jared Chapple" checkname="CHAPPLE,JARED" uni="4C" class="SR" gp="0" code="4C"></player>
+  <player name="Pat Allen" checkname="ALLEN,PAT" uni="5A" class="FR" gp="0" code="5A"></player>
+  <player name="Shaun McGee" checkname="MCGEE,SHAUN" uni="8" class="SO" gp="0" code="8"></player>
+  <player name="Jos. Ledbetter" checkname="LEDBETTER,JOS" uni="8L" class="JR" gp="0" code="8L"></player>
+  <player name="J. Scott-Wesley" checkname="SCOTT-WESLEY,J" uni="8S" class="SR" gp="0" code="8S"></player>
+  <player name="T. Pritchard" checkname="PRITCHARD,T" uni="9P" class="JR" gp="0" code="9P"></player>
+  <player name="Tanner Stumpe" checkname="STUMPE,TANNER" uni="9S" class="FR" gp="0" code="9S"></player>
+  <player name="Will Cowart" checkname="COWART,WILL" uni="9C" class="FR" gp="0" code="9C"></player>
+  <player name="Patrick Beless" checkname="BELESS,PATRICK" uni="9B" class="SR" gp="0" code="9B"></player>
+  <player name="Nick Chubb" checkname="CHUBB,NICK" uni="27" class="SO" gp="0" code="27"></player>
+  <player name="Shaquery Wilson" checkname="WILSON,SHAQUERY" uni="28" class="FR" gp="0" code="28"></player>
+  <player name="Tae Crowder" checkname="CROWDER,TAE" uni="30" class="FR" gp="0" code="30"></player>
+  <player name="Shattle Fenteng" checkname="FENTENG,SHATTLE" uni="31" class="JR" gp="0" code="31"></player>
+  <player name="Collin Barber" checkname="BARBER,COLLIN" uni="32" class="SR" gp="0" code="32"></player>
+  <player name="Rico McGraw" checkname="MCGRAW,RICO" uni="36" class="FR" gp="0" code="36"></player>
+  <player name="Devin Bowman" checkname="BOWMAN,DEVIN" uni="37" class="SR" gp="0" code="37"></player>
+  <player name="Nick Moore" checkname="MOORE,NICK" uni="43" class="FR" gp="0" code="43"></player>
+  <player name="Reggie Carter" checkname="CARTER,REGGIE" uni="45" class="JR" gp="0" code="45"></player>
+  <player name="Lamont Gaillard" checkname="GAILLARD,LAMONT" uni="53" class="FR" gp="0" code="53"></player>
+  <player name="Billy Seward" checkname="SEWARD,BILLY" uni="56" class="SO" gp="0" code="56"></player>
+  <player name="John Huff" checkname="HUFF,JOHN" uni="57" class="SR" gp="0" code="57"></player>
+  <player name="Jake Edwards" checkname="EDWARDS,JAKE" uni="64" class="FR" gp="0" code="64"></player>
+  <player name="Kendall Baker" checkname="BAKER,KENDALL" uni="65" class="FR" gp="0" code="65"></player>
+  <player name="Sam Madden" checkname="MADDEN,SAM" uni="67" class="FR" gp="0" code="67"></player>
+  <player name="Greg Pyke" checkname="PYKE,GREG" uni="73" class="JR" gp="0" code="73"></player>
+  <player name="Thomas Swilley" checkname="SWILLEY,THOMAS" uni="74" class="SO" gp="0" code="74"></player>
+  <player name="T. Thompson" checkname="THOMPSON,T" uni="78" class="FR" gp="0" code="78"></player>
+  <player name="Charlie Hegedus" checkname="HEGEDUS,CHARLIE" uni="80" class="JR" gp="0" code="80"></player>
+  <player name="Jackson Harris" checkname="HARRIS,JACKSON" uni="88" class="FR" gp="0" code="88"></player>
+  <player name="Chauncey Rivers" checkname="RIVERS,CHAUNCEY" uni="90" class="FR" gp="0" code="90"></player>
+  <player name="Justin Young" checkname="YOUNG,JUSTIN" uni="92" class="FR" gp="0" code="92"></player>
+  <player name="R. Blankenship" checkname="BLANKENSHIP,R" uni="98" class="FR" gp="0" code="98"></player>
+ </dnp>
+ <longplays thresh="70">
+ </longplays>
+</fbgame>

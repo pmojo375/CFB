@@ -1,0 +1,1754 @@
+<fbgame source="Tas Football" version="4.16.07" generated="11/1/2015">
+ <venue gameid="STANWSU" visid="STAN" homeid="WSU" visname="Stanford" homename="Washington State"
+      date="10/31/2015" location="Pullman, Wash." stadium="Martin Stadium"
+      start="7:36pm" end="11:17" leaguegame="Y" nitegame="Y"
+      duration="3:41" attend="30012" temp="52" wind="10-20 W" weather="Raining">
+  <officials ref="Michael Batlan" ump="Matt Jordan" line="Bob Day" lj="Jeff Robinson" bj="Justin Nelson" fj="John Morton" sj="Bernie Hulscher" cj="John Love" alt="John Love"></officials>
+  <rules qtrs="4" mins="15" downs="4" yds="10" kospot="35" tbspot="20" kotbspot="25" patspot="3" safspot="20" td="6" fg="3" pat="1" patx="2" saf="2" defpat="2" rouge="1" field="100" toh="3" sackrush="Y" fgaplay="Y" netpunttb="Y"></rules>
+ </venue>
+ <team vh="V" code="674" id="STAN" name="Stanford" record="7-1" conf-record="6-0" abb="S" rank="8">
+  <linescore prds="4" line="3,0,17,10" score="30">
+   <lineprd prd="1" score="3"></lineprd>
+   <lineprd prd="2" score="0"></lineprd>
+   <lineprd prd="3" score="17"></lineprd>
+   <lineprd prd="4" score="10"></lineprd>
+  </linescore>
+  <totals totoff_plays="59" totoff_yards="312" totoff_avg="5.3">
+   <firstdowns no="15" rush="9" pass="5" penalty="1"></firstdowns>
+   <penalties no="4" yds="35"></penalties>
+   <conversions thirdconv="4" thirdatt="13" fourthconv="0" fourthatt="0"></conversions>
+   <fumbles no="2" lost="1"></fumbles>
+   <misc yds="0" top="30:19" ona="0" onm="0" ptsto="10"></misc>
+   <redzone att="5" scores="5" points="23" tdrush="2" tdpass="0" fgmade="3" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="40" yds="226" gain="257" loss="31" td="3" long="59"></rush>
+   <pass comp="10" att="19" int="1" yds="86" td="0" long="17" sacks="4" sackyds="24"></pass>
+   <rcv no="10" yds="86" td="0" long="17"></rcv>
+   <punt no="5" yds="190" long="55" blkd="0" tb="0" fc="0" plus50="1" inside20="2" avg="38.0"></punt>
+   <ko no="7" yds="432" ob="2" tb="2"></ko>
+   <fg made="3" att="3" long="32" blkd="0"></fg>
+   <pat kickatt="3" kickmade="3"></pat>
+   <defense tackua="45" tacka="16" tot_tack="61" tflua="5" tfla="0" tflyds="24" sacks="3" sackyds="19" brup="3" qbh="3" int="2" intyds="23"></defense>
+   <kr no="6" yds="68" td="0" long="23"></kr>
+   <pr no="1" yds="3" td="0" long="3"></pr>
+   <ir no="2" yds="23" td="0" long="14"></ir>
+   <scoring td="3" fg="3" patkick="3"></scoring>
+  </totals>
+  <player name="Rector,M" shortname="Rector,M" checkname="RECTOR,M" uni="0C" class="SR" gp="1" gs="1" opos="WR" code="0C">
+   <rcv no="1" yds="7" td="0" long="7"></rcv>
+  </player>
+  <player name="Owusu,F" shortname="Owusu,F" checkname="OWUSU,F" uni="0F" class="JR" gp="1" gs="1" opos="WR" code="0F">
+   <rcv no="1" yds="7" td="0" long="7"></rcv>
+  </player>
+  <player name="Hogan,K" shortname="Hogan,K" checkname="HOGAN,K" uni="0H" class="SR" gp="1" gs="1" opos="QB" code="0H">
+   <rush att="14" yds="112" gain="138" loss="26" td="2" long="59"></rush>
+   <pass comp="10" att="19" int="1" yds="86" td="0" long="17" sacks="4" sackyds="24"></pass>
+   <fumbles no="1" lost="1"></fumbles>
+   <scoring td="2"></scoring>
+  </player>
+  <player name="McCaffrey,C" shortname="McCaffrey,C" checkname="MCCAFFREY,C" uni="0E" class="SO" gp="1" gs="1" opos="RB" code="0E">
+   <rush att="22" yds="107" gain="112" loss="5" td="0" long="30"></rush>
+   <rcv no="4" yds="26" td="0" long="10"></rcv>
+   <pr no="1" yds="3" td="0" long="3"></pr>
+  </player>
+  <player name="Irwin,T" shortname="Irwin,T" checkname="IRWIN,T" uni="0B" class="FR" gp="1" gs="1" opos="WR" code="0B">
+   <rcv no="1" yds="4" td="0" long="4"></rcv>
+  </player>
+  <player name="Schultz,D" shortname="Schultz,D" checkname="SCHULTZ,D" uni="0I" class="SO" gp="1" code="0I">
+   <kr no="2" yds="38" td="0" long="23"></kr>
+  </player>
+  <player name="Stallworth,R" shortname="Stallworth,R" checkname="STALLWORTH,R" uni="1C" class="SR" gp="1" code="1C"></player>
+  <player name="Brandt-Sims,I" shortname="Brandt-Sims,I" checkname="BRANDT-SIMS,I" uni="2A" class="SO" gp="1" code="2A"></player>
+  <player name="Wright,R" shortname="Wright,R" checkname="WRIGHT,R" uni="2B" class="SR" gp="1" code="2B">
+   <rush att="4" yds="7" gain="7" loss="0" td="1" long="3"></rush>
+   <kr no="1" yds="21" td="0" long="21"></kr>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Love,B" shortname="Love,B" checkname="LOVE,B" uni="2J" class="FR" gp="1" code="2J">
+   <rcv no="2" yds="25" td="0" long="14"></rcv>
+  </player>
+  <player name="Simmons,B" shortname="Simmons,B" checkname="SIMMONS,B" uni="2" class="SO" gp="1" code="2"></player>
+  <player name="Ukropina,C" shortname="Ukropina,C" checkname="UKROPINA,C" uni="3D" class="SR" gp="1" code="3D">
+   <ko no="3" yds="189" ob="0" tb="1"></ko>
+   <fg made="3" att="3" long="32" blkd="0"></fg>
+   <pat kickatt="3" kickmade="3"></pat>
+   <scoring fg="3" patkick="3"></scoring>
+  </player>
+  <player name="Davis,N" shortname="Davis,N" checkname="DAVIS,N" uni="3" class="SR" gp="1" code="3"></player>
+  <player name="Robinson,A" shortname="Robinson,A" checkname="ROBINSON,A" uni="4G" class="JR" gp="1" code="4G">
+   <punt no="3" yds="124" long="55" blkd="0" tb="0" fc="0" plus50="1" inside20="0" avg="41.3"></punt>
+  </player>
+  <player name="Martinez,B" shortname="Martinez,B" checkname="MARTINEZ,B" uni="4" class="SR" gp="1" gs="1" dpos="ILB" code="4">
+   <defense tackua="10" tacka="1" tot_tack="11" tflua="1" tfla="0" tflyds="2"></defense>
+  </player>
+  <player name="Whitfield,K" shortname="Whitfield,K" checkname="WHITFIELD,K" uni="5" class="SR" gp="1" gs="1" dpos="FS" code="5">
+   <defense tackua="2" tacka="1" tot_tack="3"></defense>
+  </player>
+  <player name="Shuler,G" shortname="Shuler,G" checkname="SHULER,G" uni="5B" class="SR" gp="1" gs="1" opos="C" code="5B"></player>
+  <player name="Thomas,T" shortname="Thomas,T" checkname="THOMAS,T" uni="6" class="JR" gp="1" code="6">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Hall,AT" shortname="Hall,AT" checkname="HALL,AT" uni="7E" class="SO" gp="1" code="7E"></player>
+  <player name="Shittu,A" shortname="Shittu,A" checkname="SHITTU,A" uni="7" class="SR" gp="1" gs="1" dpos="DE" code="7">
+   <defense tackua="4" tacka="4" tot_tack="8" tflua="1" tfla="0" tflyds="11" sackua="1" sacka="0" sackyds="11"></defense>
+  </player>
+  <player name="Reid,J" shortname="Reid,J" checkname="REID,J" uni="8" class="FR" gp="1" code="8"></player>
+  <player name="Edwards,B" shortname="Edwards,B" checkname="EDWARDS,B" uni="9" class="FR" gp="1" code="9"></player>
+  <player name="Alexander,T" shortname="Alexander,T" checkname="ALEXANDER,T" uni="11" class="SO" gp="1" code="11">
+   <defense brup="1"></defense>
+  </player>
+  <player name="Holder,A" shortname="Holder,A" checkname="HOLDER,A" uni="13" class="SO" gp="1" gs="1" dpos="CB" code="13">
+   <defense tackua="3" tacka="1" tot_tack="4"></defense>
+  </player>
+  <player name="Bailey,J" shortname="Bailey,J" checkname="BAILEY,J" uni="14" class="FR" gp="1" code="14">
+   <punt no="2" yds="66" long="36" blkd="0" tb="0" fc="0" plus50="0" inside20="2" avg="33.0"></punt>
+   <ko no="4" yds="243" ob="2" tb="1"></ko>
+  </player>
+  <player name="Perez,J" shortname="Perez,J" checkname="PEREZ,J" uni="15" class="SO" gp="1" code="15">
+   <defense tackua="5" tacka="1" tot_tack="6"></defense>
+  </player>
+  <player name="Scarlett,B" shortname="Scarlett,B" checkname="SCARLETT,B" uni="17" class="SR" gp="1" gs="1" dpos="DE" code="17">
+   <defense tackua="2" tacka="1" tot_tack="3" tflua="1" tfla="0" tflyds="5" sackua="1" sacka="0" sackyds="5" brup="1" qbh="1"></defense>
+  </player>
+  <player name="Hooper,A" shortname="Hooper,A" checkname="HOOPER,A" uni="18" class="JR" gp="1" gs="1" opos="TE" code="18">
+   <rcv no="1" yds="17" td="0" long="17"></rcv>
+  </player>
+  <player name="Okereke,B" shortname="Okereke,B" checkname="OKEREKE,B" uni="20" class="SO" gp="1" code="20"></player>
+  <player name="Harris,R" shortname="Harris,R" checkname="HARRIS,R" uni="21" class="SR" gp="1" gs="1" dpos="CB" code="21">
+   <defense tackua="2" tacka="1" tot_tack="3" brup="1"></defense>
+  </player>
+  <player name="Buncom,F" shortname="Buncom,F" checkname="BUNCOM,F" uni="22" class="FR" gp="1" code="22"></player>
+  <player name="Murphy,A" shortname="Murphy,A" checkname="MURPHY,A" uni="23" class="SO" gp="1" code="23"></player>
+  <player name="Meeks,Q" shortname="Meeks,Q" checkname="MEEKS,Q" uni="24" class="FR" gp="1" gs="1" dpos="NB" code="24">
+   <defense tackua="4" tacka="2" tot_tack="6" tflua="1" tfla="0" tflyds="3" int="2" intyds="23"></defense>
+   <ir no="2" yds="23" td="0" long="14"></ir>
+  </player>
+  <player name="Lloyd,D" shortname="Lloyd,D" checkname="LLOYD,D" uni="29" class="SR" gp="1" gs="1" dpos="SS" code="29">
+   <defense tackua="5" tacka="0" tot_tack="5"></defense>
+  </player>
+  <player name="Jones,C" shortname="Jones,C" checkname="JONES,C" uni="30" class="SR" gp="1" code="30">
+   <kr no="1" yds="1" td="0" long="1"></kr>
+   <fumbles no="1" lost="0"></fumbles>
+  </player>
+  <player name="Branch,M" shortname="Branch,M" checkname="BRANCH,M" uni="31" class="FR" gp="1" code="31">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="Alfieri,J" shortname="Alfieri,J" checkname="ALFIERI,J" uni="32" class="SO" gp="1" gs="1" dpos="OLB" code="32">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="Tyler,M" shortname="Tyler,M" checkname="TYLER,M" uni="33" class="JR" gp="1" code="33"></player>
+  <player name="Kalambayi,P" shortname="Kalambayi,P" checkname="KALAMBAYI,P" uni="34" class="JR" gp="1" gs="1" dpos="OLB" code="34">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="Marx,D" shortname="Marx,D" checkname="MARX,D" uni="35" class="SO" gp="1" code="35">
+   <kr no="1" yds="0" td="0" long="0"></kr>
+  </player>
+  <player name="Palma,K" shortname="Palma,K" checkname="PALMA,K" uni="44" class="JR" gp="1" gs="1" dpos="ILB" code="44">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Yules,S" shortname="Yules,S" checkname="YULES,S" uni="47" class="SR" gp="1" code="47"></player>
+  <player name="Anderson,K" shortname="Anderson,K" checkname="ANDERSON,K" uni="48" class="SR" gp="1" code="48">
+   <defense tackua="1" tacka="2" tot_tack="3" tflua="1" tfla="0" tflyds="3" sackua="1" sacka="0" sackyds="3"></defense>
+  </player>
+  <player name="Shober,S" shortname="Shober,S" checkname="SHOBER,S" uni="50" class="SR" gp="1" code="50"></player>
+  <player name="Garnett,J" shortname="Garnett,J" checkname="GARNETT,J" uni="51" class="SR" gp="1" gs="1" opos="LG" code="51"></player>
+  <player name="Toohill,C" shortname="Toohill,C" checkname="TOOHILL,C" uni="52" class="FR" gp="1" code="52"></player>
+  <player name="Lohn,N" shortname="Lohn,N" checkname="LOHN,N" uni="55" class="SR" gp="1" code="55">
+   <defense qbh="1"></defense>
+  </player>
+  <player name="Caspers,J" shortname="Caspers,J" checkname="CASPERS,J" uni="57" class="SR" gp="1" gs="1" opos="RG" code="57"></player>
+  <player name="Bright,D" shortname="Bright,D" checkname="BRIGHT,D" uni="64" class="JR" gp="1" code="64"></player>
+  <player name="Miller,R" shortname="Miller,R" checkname="MILLER,R" uni="67" class="SR" gp="1" code="67"></player>
+  <player name="Keller,CJ" shortname="Keller,CJ" checkname="KELLER,CJ" uni="68" class="SO" gp="1" code="68"></player>
+  <player name="Fanaika,B" shortname="Fanaika,B" checkname="FANAIKA,B" uni="71" class="SO" gp="1" code="71"></player>
+  <player name="Austin,B" shortname="Austin,B" checkname="AUSTIN,B" uni="74" class="SR" gp="1" code="74"></player>
+  <player name="Tucker,C" shortname="Tucker,C" checkname="TUCKER,C" uni="77" class="SO" gp="1" gs="1" opos="RT" code="77"></player>
+  <player name="Murphy,K" shortname="Murphy,K" checkname="MURPHY,K" uni="78" class="SR" gp="1" gs="1" opos="LT" code="78"></player>
+  <player name="Harrell,C" shortname="Harrell,C" checkname="HARRELL,C" uni="82" class="SR" gp="1" code="82"></player>
+  <player name="Taboada,G" shortname="Taboada,G" checkname="TABOADA,G" uni="88" class="JR" gp="1" code="88">
+   <kr no="1" yds="8" td="0" long="8"></kr>
+  </player>
+  <player name="Cajuste,D" shortname="Cajuste,D" checkname="CAJUSTE,D" uni="89" class="SR" gp="1" code="89"></player>
+  <player name="Thomas,S" shortname="Thomas,S" checkname="THOMAS,S" uni="90" class="SO" gp="1" code="90">
+   <defense tackua="1" tacka="0" tot_tack="1" qbh="1"></defense>
+  </player>
+ </team>
+ <team vh="H" code="754" id="WSU" name="Washington State" record="5-3" conf-record="3-2" abb="W">
+  <linescore prds="4" line="3,9,10,6" score="28">
+   <lineprd prd="1" score="3"></lineprd>
+   <lineprd prd="2" score="9"></lineprd>
+   <lineprd prd="3" score="10"></lineprd>
+   <lineprd prd="4" score="6"></lineprd>
+  </linescore>
+  <totals totoff_plays="86" totoff_yards="442" totoff_avg="5.1">
+   <firstdowns no="26" rush="5" pass="19" penalty="2"></firstdowns>
+   <penalties no="4" yds="30"></penalties>
+   <conversions thirdconv="2" thirdatt="14" fourthconv="3" fourthatt="3"></conversions>
+   <fumbles no="0" lost="0"></fumbles>
+   <misc yds="0" top="29:41" ona="0" onm="0" ptsto="3"></misc>
+   <redzone att="6" scores="6" points="25" tdrush="0" tdpass="2" fgmade="4" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="23" yds="88" gain="107" loss="19" td="0" long="17"></rush>
+   <pass comp="35" att="63" int="2" yds="354" td="2" long="33" sacks="3" sackyds="19"></pass>
+   <rcv no="35" yds="354" td="2" long="33"></rcv>
+   <punt no="4" yds="160" long="48" blkd="0" tb="1" fc="1" plus50="0" inside20="0" avg="40.0"></punt>
+   <ko no="7" yds="288" ob="0" tb="1"></ko>
+   <fg made="5" att="6" long="47" blkd="0"></fg>
+   <pat kickatt="1" kickmade="1" passatt="1" passmade="0"></pat>
+   <defense tackua="37" tacka="30" tot_tack="67" tflua="6" tfla="4" tflyds="30" sacks="4" sackyds="24" brup="1" ff="1" fr="1" fryds="0" int="1" intyds="0"></defense>
+   <kr no="3" yds="65" td="0" long="34"></kr>
+   <pr no="1" yds="20" td="0" long="20"></pr>
+   <ir no="1" yds="0" td="0" long="0"></ir>
+   <scoring td="2" fg="5" patkick="1"></scoring>
+  </totals>
+  <player name="White, C." shortname="White, C." checkname="WHITE,C" uni="0D" class="SO" gp="1" gs="1" dpos="CB" code="0D"></player>
+  <player name="Priester, Kyrin" shortname="Priester, Kyrin" checkname="PRIESTER,KYRIN" uni="1" class="SO" gp="1" code="1">
+   <rcv no="1" yds="2" td="0" long="2"></rcv>
+  </player>
+  <player name="McLennan, Ivan" shortname="McLennan, Ivan" checkname="MCLENNAN,IVAN" uni="3" class="SR" gp="1" gs="1" dpos="RUSH" code="3">
+   <defense tackua="2" tacka="2" tot_tack="4"></defense>
+  </player>
+  <player name="Falk, Luke" shortname="Falk, Luke" checkname="FALK,LUKE" uni="4" class="SO" gp="1" gs="1" opos="QB" code="4">
+   <rush att="5" yds="-7" gain="12" loss="19" td="0" long="9"></rush>
+   <pass comp="35" att="61" int="2" yds="354" td="2" long="33" sacks="3" sackyds="19"></pass>
+   <pat passatt="1" passmade="0"></pat>
+  </player>
+  <player name="Green, Calvin" shortname="Green, Calvin" checkname="GREEN,CALVIN" uni="5" class="SO" gp="1" code="5">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Allison, J." shortname="Allison, J." checkname="ALLISON,J" uni="8" class="SR" gp="1" gs="1" dpos="WILL" code="8">
+   <defense tackua="4" tacka="2" tot_tack="6"></defense>
+  </player>
+  <player name="Charme, Zach" shortname="Charme, Zach" checkname="CHARME,ZACH" uni="9E" class="FR" gp="1" code="9E">
+   <punt no="4" yds="160" long="48" blkd="0" tb="1" fc="1" plus50="0" inside20="0" avg="40.0"></punt>
+  </player>
+  <player name="Marks, Gabe" shortname="Marks, Gabe" checkname="MARKS,GABE" uni="9" class="JR" gp="1" gs="1" opos="Z" code="9">
+   <rcv no="6" yds="83" td="1" long="22"></rcv>
+   <pr no="1" yds="20" td="0" long="20"></pr>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Parker,Kirkland" shortname="Parker,Kirkland" checkname="PARKER,KIRKLAND" uni="10" class="SO" gp="1" code="10">
+   <defense tackua="2" tacka="3" tot_tack="5"></defense>
+  </player>
+  <player name="Martin Jr., Tav" shortname="Martin Jr., Tav" checkname="MARTIN JR.,TAV" uni="12" class="FR" gp="1" code="12">
+   <rcv no="2" yds="29" td="0" long="17"></rcv>
+   <kr no="3" yds="65" td="0" long="34"></kr>
+  </player>
+  <player name="Lewis, Robert" shortname="Lewis, Robert" checkname="LEWIS,ROBERT" uni="15" class="SO" gp="1" gs="1" opos="H" code="15">
+   <rcv no="3" yds="22" td="0" long="13"></rcv>
+  </player>
+  <player name="Luani, Shalom" shortname="Luani, Shalom" checkname="LUANI,SHALOM" uni="18" class="JR" gp="1" gs="1" dpos="FS" code="18">
+   <defense tackua="4" tacka="1" tot_tack="5" brup="1" fr="1" fryds="0"></defense>
+  </player>
+  <player name="Teglovic,Colton" shortname="Teglovic,Colton" checkname="TEGLOVIC,COLTON" uni="19" class="JR" gp="1" code="19">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Taylor, Paris" shortname="Taylor, Paris" checkname="TAYLOR,PARIS" uni="20" class="JR" gp="1" code="20"></player>
+  <player name="Cracraft, River" shortname="Cracraft, River" checkname="CRACRAFT,RIVER" uni="21" class="JR" gp="1" gs="1" opos="Y" code="21">
+   <rcv no="4" yds="48" td="1" long="33"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Wicks, Gerard" shortname="Wicks, Gerard" checkname="WICKS,GERARD" uni="23" class="SO" gp="1" gs="1" opos="RB" code="23">
+   <rush att="12" yds="78" gain="78" loss="0" td="0" long="17"></rush>
+   <rcv no="2" yds="-1" td="0" long="2"></rcv>
+  </player>
+  <player name="Harrington, K." shortname="Harrington, K." checkname="HARRINGTON,K" uni="24" class="FR" gp="1" code="24">
+   <rush att="1" yds="0" gain="0" loss="0" td="0" long="0"></rush>
+   <rcv no="5" yds="29" td="0" long="24"></rcv>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Morrow, Jamal" shortname="Morrow, Jamal" checkname="MORROW,JAMAL" uni="25" class="SO" gp="1" code="25">
+   <rush att="5" yds="17" gain="17" loss="0" td="0" long="6"></rush>
+  </player>
+  <player name="Baker, Tyler" shortname="Baker, Tyler" checkname="BAKER,TYLER" uni="26" class="SR" gp="1" code="26">
+   <rcv no="2" yds="24" td="0" long="15"></rcv>
+  </player>
+  <player name="Pippins, Mar." shortname="Pippins, Mar." checkname="PIPPINS,MAR" uni="27" class="SO" gp="1" gs="1" dpos="CB" code="27">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="Lemora, Darius" shortname="Lemora, Darius" checkname="LEMORA,DARIUS" uni="28" class="SO" gp="1" code="28"></player>
+  <player name="Henry, Parker" shortname="Henry, Parker" checkname="HENRY,PARKER" uni="29" class="JR" gp="1" gs="1" dpos="NCKL" code="29">
+   <defense tackua="5" tacka="5" tot_tack="10" tflua="0" tfla="1" tflyds="1" int="1" intyds="0"></defense>
+   <ir no="1" yds="0" td="0" long="0"></ir>
+  </player>
+  <player name="Taliulu, Taylor" shortname="Taliulu, Taylor" checkname="TALIULU,TAYLOR" uni="30" class="SR" gp="1" gs="1" dpos="SS" code="30">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="Dale, Hunter" shortname="Dale, Hunter" checkname="DALE,HUNTER" uni="35" class="FR" gp="1" code="35"></player>
+  <player name="Fossum, Kaleb" shortname="Fossum, Kaleb" checkname="FOSSUM,KALEB" uni="38" class="FR" gp="1" code="38"></player>
+  <player name="Palacio, Kache" shortname="Palacio, Kache" checkname="PALACIO,KACHE" uni="40" class="SR" gp="1" code="40">
+   <defense tackua="1" tacka="1" tot_tack="2" tflua="1" tfla="0" tflyds="3" sackua="1" sacka="0" sackyds="3"></defense>
+  </player>
+  <player name="Porter, Aaron" shortname="Porter, Aaron" checkname="PORTER,AARON" uni="43" class="JR" gp="1" code="43"></player>
+  <player name="Leniu, Chandler" shortname="Leniu, Chandler" checkname="LENIU,CHANDLER" uni="44" class="FR" gp="1" code="44">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Tago, Logan" shortname="Tago, Logan" checkname="TAGO,LOGAN" uni="45" class="FR" gp="1" code="45"></player>
+  <player name="Powell, Erik" shortname="Powell, Erik" checkname="POWELL,ERIK" uni="46" class="SO" gp="1" code="46">
+   <ko no="7" yds="288" ob="0" tb="1"></ko>
+   <fg made="5" att="6" long="47" blkd="0"></fg>
+   <pat kickatt="1" kickmade="1"></pat>
+   <scoring fg="5" patkick="1"></scoring>
+  </player>
+  <player name="Pelluer, Peyton" shortname="Pelluer, Peyton" checkname="PELLUER,PEYTON" uni="47" class="SO" gp="1" gs="1" dpos="MIKE" code="47">
+   <defense tackua="4" tacka="6" tot_tack="10" tflua="0" tfla="1" tflyds="1"></defense>
+  </player>
+  <player name="Lee, Alijah" shortname="Lee, Alijah" checkname="LEE,ALIJAH" uni="48" class="FR" gp="1" code="48"></player>
+  <player name="Mata'afa, Herc." shortname="Mata'afa, Herc." checkname="MATA'AFA,HERC" uni="50" class="FR" gp="1" code="50">
+   <defense tackua="3" tacka="1" tot_tack="4" tflua="1" tfla="0" tflyds="2"></defense>
+  </player>
+  <player name="Luvu, Frankie" shortname="Luvu, Frankie" checkname="LUVU,FRANKIE" uni="51" class="SO" gp="1" code="51">
+   <defense tackua="0" tacka="2" tot_tack="2"></defense>
+  </player>
+  <player name="DeRider, Nate" shortname="DeRider, Nate" checkname="DERIDER,NATE" uni="54" class="SO" gp="1" code="54">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Dahl, Joe" shortname="Dahl, Joe" checkname="DAHL,JOE" uni="56" class="SR" gp="1" gs="1" opos="LT" code="56"></player>
+  <player name="Sorenson, Riley" shortname="Sorenson, Riley" checkname="SORENSON,RILEY" uni="58" class="FR" gp="1" gs="1" opos="C" code="58"></player>
+  <player name="Madison, Cole" shortname="Madison, Cole" checkname="MADISON,COLE" uni="61" class="SO" gp="1" gs="1" opos="RT" code="61"></player>
+  <player name="Eklund, Gunnar" shortname="Eklund, Gunnar" checkname="EKLUND,GUNNAR" uni="63" class="SR" gp="1" gs="1" opos="LF" code="63"></player>
+  <player name="Flor, Sam" shortname="Flor, Sam" checkname="FLOR,SAM" uni="64" class="JR" gp="1" code="64"></player>
+  <player name="Gravelle, Lucas" shortname="Gravelle, Lucas" checkname="GRAVELLE,LUCAS" uni="71" class="SO" gp="1" code="71"></player>
+  <player name="Middleton, Ed." shortname="Middleton, Ed." checkname="MIDDLETON,ED" uni="73" class="JR" gp="1" gs="1" opos="RG" code="73"></player>
+  <player name="Salmonson, B.J." shortname="Salmonson, B.J." checkname="SALMONSON,BJ" uni="75" class="SO" gp="1" code="75"></player>
+  <player name="O'Connell, Cody" shortname="O'Connell, Cody" checkname="O'CONNELL,CODY" uni="76" class="SO" gp="1" code="76"></player>
+  <player name="Williams, Dom" shortname="Williams, Dom" checkname="WILLIAMS,DOM" uni="80" class="SR" gp="1" gs="1" opos="X" code="80">
+   <rcv no="7" yds="94" td="0" long="27"></rcv>
+  </player>
+  <player name="Sweet, Kyle" shortname="Sweet, Kyle" checkname="SWEET,KYLE" uni="83" class="FR" gp="1" code="83">
+   <rcv no="2" yds="17" td="0" long="11"></rcv>
+  </player>
+  <player name="Thompson, John" shortname="Thompson, John" checkname="THOMPSON,JOHN" uni="85" class="JR" gp="1" code="85">
+   <rcv no="1" yds="7" td="0" long="7"></rcv>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Ekuale, Daniel" shortname="Ekuale, Daniel" checkname="EKUALE,DANIEL" uni="90" class="SO" gp="1" code="90">
+   <defense tackua="1" tacka="1" tot_tack="2" tflua="1" tfla="0" tflyds="1"></defense>
+  </player>
+  <player name="Barber, Robert" shortname="Barber, Robert" checkname="BARBER,ROBERT" uni="92" class="JR" gp="1" gs="1" dpos="NT" code="92">
+   <defense tackua="1" tacka="0" tot_tack="1" tflua="1" tfla="0" tflyds="9" sackua="1" sacka="0" sackyds="9"></defense>
+  </player>
+  <player name="Tapa, Ngalu" shortname="Tapa, Ngalu" checkname="TAPA,NGALU" uni="95" class="FR" gp="1" code="95"></player>
+  <player name="Vaeao, Destiny" shortname="Vaeao, Destiny" checkname="VAEAO,DESTINY" uni="97" class="SR" gp="1" gs="1" dpos="T" code="97">
+   <defense tackua="1" tacka="1" tot_tack="2" tflua="1" tfla="0" tflyds="3" sackua="1" sacka="0" sackyds="3" ff="1"></defense>
+  </player>
+  <player name="Paulo, Darryl" shortname="Paulo, Darryl" checkname="PAULO,DARRYL" uni="99" class="SR" gp="1" gs="1" dpos="E" code="99">
+   <defense tackua="2" tacka="2" tot_tack="4" tflua="1" tfla="2" tflyds="10" sackua="1" sacka="0" sackyds="9"></defense>
+  </player>
+  <player name="TEAM" shortname="TEAM" checkname="TEAM" uni="TM" class="FR" gp="1" code="198">
+   <pass comp="0" att="2" int="0" yds="0" td="0" long="0" sacks="0" sackyds="0"></pass>
+  </player>
+ </team>
+ <scores>
+  <score vh="V" team="STAN" qtr="1" clock="09:08" type="FG" yds="32" scorer="Ukropina,C" plays="7" drive="34" top="4:02" vscore="3" hscore="0" driveindex="3"></score>
+  <score vh="H" team="WSU" qtr="1" clock="02:28" type="FG" yds="46" scorer="Powell, Erik" plays="4" drive="2" top="1:08" vscore="3" hscore="3" driveindex="8"></score>
+  <score vh="H" team="WSU" qtr="2" clock="08:41" type="FG" yds="23" scorer="Powell, Erik" plays="13" drive="64" top="4:48" vscore="3" hscore="6" driveindex="10"></score>
+  <score vh="H" team="WSU" qtr="2" clock="03:45" type="FG" yds="47" scorer="Powell, Erik" plays="8" drive="56" top="2:27" vscore="3" hscore="9" driveindex="12"></score>
+  <score vh="H" team="WSU" qtr="2" clock="00:00" type="FG" yds="28" scorer="Powell, Erik" plays="8" drive="69" top="1:03" vscore="3" hscore="12" driveindex="14"></score>
+  <score vh="H" team="WSU" qtr="3" clock="11:53" type="FG" yds="28" scorer="Powell, Erik" plays="10" drive="54" top="3:07" vscore="3" hscore="15" driveindex="15"></score>
+  <score vh="V" team="STAN" qtr="3" clock="09:15" type="TD" how="RUSH" yds="2" scorer="Wright,R" patby="Ukropina,C" pattype="KICK" patres="GOOD" plays="6" drive="59" top="2:31" vscore="10" hscore="15" driveindex="16"></score>
+  <score vh="H" team="WSU" qtr="3" clock="07:52" type="TD" how="PASS" yds="19" scorer="Marks, Gabe" passer="Falk, Luke" patby="Powell, Erik" pattype="KICK" patres="GOOD" plays="4" drive="75" top="1:23" vscore="10" hscore="22" driveindex="17"></score>
+  <score vh="V" team="STAN" qtr="3" clock="03:39" type="FG" yds="32" scorer="Ukropina,C" plays="9" drive="41" top="4:02" vscore="13" hscore="22" driveindex="18"></score>
+  <score vh="V" team="STAN" qtr="3" clock="02:17" type="TD" how="RUSH" yds="59" scorer="Hogan,K" patby="Ukropina,C" pattype="KICK" patres="GOOD" plays="1" drive="59" top="0:12" vscore="20" hscore="22" driveindex="20"></score>
+  <score vh="V" team="STAN" qtr="4" clock="14:19" type="TD" how="RUSH" yds="6" scorer="Hogan,K" patby="Ukropina,C" pattype="KICK" patres="GOOD" plays="4" drive="17" top="2:13" vscore="27" hscore="22" driveindex="22"></score>
+  <score vh="H" team="WSU" qtr="4" clock="07:56" type="TD" how="PASS" yds="1" scorer="Cracraft, River" passer="Falk, Luke" patby="Falk, Luke" pattype="PASS" patres="FAIL" plays="15" drive="81" top="6:18" vscore="27" hscore="28" driveindex="23"></score>
+  <score vh="V" team="STAN" qtr="4" clock="01:54" type="FG" yds="19" scorer="Ukropina,C" plays="5" drive="37" top="1:33" vscore="30" hscore="28" driveindex="26"></score>
+ </scores>
+ <fgas>
+  <fga vh="V" team="STAN" kicker="Ukropina,C" qtr="1" clock="09:08" distance="32" result="good"></fga>
+  <fga vh="H" team="WSU" kicker="Powell, Erik" qtr="1" clock="02:28" distance="46" result="good"></fga>
+  <fga vh="H" team="WSU" kicker="Powell, Erik" qtr="2" clock="08:41" distance="23" result="good"></fga>
+  <fga vh="H" team="WSU" kicker="Powell, Erik" qtr="2" clock="03:45" distance="47" result="good"></fga>
+  <fga vh="H" team="WSU" kicker="Powell, Erik" qtr="2" clock="00:00" distance="28" result="good"></fga>
+  <fga vh="H" team="WSU" kicker="Powell, Erik" qtr="3" clock="11:53" distance="28" result="good"></fga>
+  <fga vh="V" team="STAN" kicker="Ukropina,C" qtr="3" clock="03:39" distance="32" result="good"></fga>
+  <fga vh="V" team="STAN" kicker="Ukropina,C" qtr="4" clock="01:54" distance="19" result="good"></fga>
+  <fga vh="H" team="WSU" kicker="Powell, Erik" qtr="4" clock="00:00" distance="43" result="missed"></fga>
+ </fgas>
+ <drives>
+  <drive vh="V" team="STAN" start="KO,1,15:00,39" end="PUNT,1,13:35,54" plays="4" yards="15" top="1:25" start_how="KO" start_qtr="1" start_time="15:00" start_spot="STAN39" end_how="PUNT" end_qtr="1" end_time="13:35" end_spot="WSU46" driveindex="1"></drive>
+  <drive vh="H" team="WSU" start="PUNT,1,13:35,10" end="PUNT,1,13:10,10" plays="3" yards="0" top="0:25" start_how="PUNT" start_qtr="1" start_time="13:35" start_spot="WSU10" end_how="PUNT" end_qtr="1" end_time="13:10" end_spot="WSU10" driveindex="2"></drive>
+  <drive vh="V" team="STAN" start="PUNT,1,13:10,52" end="FG,1,09:08,86" plays="7" yards="34" top="4:02" start_how="PUNT" start_qtr="1" start_time="13:10" start_spot="WSU48" end_how="FG" end_qtr="1" end_time="09:08" end_spot="WSU14" rz="1" driveindex="3"></drive>
+  <drive vh="H" team="WSU" start="KO,1,09:00,36" end="PUNT,1,06:40,25" plays="3" yards="-11" top="2:20" start_how="KO" start_qtr="1" start_time="09:00" start_spot="WSU36" end_how="PUNT" end_qtr="1" end_time="06:40" end_spot="WSU25" driveindex="4"></drive>
+  <drive vh="V" team="STAN" start="PUNT,1,06:40,40" end="FUMB,1,06:08,48" plays="2" yards="8" top="0:32" start_how="PUNT" start_qtr="1" start_time="06:40" start_spot="STAN40" end_how="FUMB" end_qtr="1" end_time="06:08" end_spot="STAN48" driveindex="5"></drive>
+  <drive vh="H" team="WSU" start="FUMB,1,06:08,52" end="PUNT,1,05:09,52" plays="3" yards="0" top="0:59" start_how="FUMB" start_qtr="1" start_time="06:08" start_spot="STAN48" end_how="PUNT" end_qtr="1" end_time="05:09" end_spot="STAN48" driveindex="6"></drive>
+  <drive vh="V" team="STAN" start="PUNT,1,05:09,20" end="INT,1,03:36,23" plays="3" yards="3" top="1:33" start_how="PUNT" start_qtr="1" start_time="05:09" start_spot="STAN20" end_how="INT" end_qtr="1" end_time="03:36" end_spot="STAN23" driveindex="7"></drive>
+  <drive vh="H" team="WSU" start="INT,1,03:36,69" end="FG,1,02:28,71" plays="4" yards="2" top="1:08" start_how="INT" start_qtr="1" start_time="03:36" start_spot="STAN31" end_how="FG" end_qtr="1" end_time="02:28" end_spot="STAN29" driveindex="8"></drive>
+  <drive vh="V" team="STAN" start="KO,1,02:24,35" end="PUNT,2,13:29,34" plays="6" yards="-1" top="3:55" start_how="KO" start_qtr="1" start_time="02:24" start_spot="STAN35" end_how="PUNT" end_qtr="2" end_time="13:29" end_spot="STAN34" driveindex="9"></drive>
+  <drive vh="H" team="WSU" start="PUNT,2,13:29,30" end="FG,2,08:41,94" plays="13" yards="64" top="4:48" start_how="PUNT" start_qtr="2" start_time="13:29" start_spot="WSU30" end_how="FG" end_qtr="2" end_time="08:41" end_spot="STAN06" rz="1" driveindex="10"></drive>
+  <drive vh="V" team="STAN" start="KO,2,08:36,41" end="PUNT,2,06:12,56" plays="5" yards="15" top="2:24" start_how="KO" start_qtr="2" start_time="08:36" start_spot="STAN41" end_how="PUNT" end_qtr="2" end_time="06:12" end_spot="WSU44" driveindex="11"></drive>
+  <drive vh="H" team="WSU" start="PUNT,2,06:12,14" end="FG,2,03:45,70" plays="8" yards="56" top="2:27" start_how="PUNT" start_qtr="2" start_time="06:12" start_spot="WSU14" end_how="FG" end_qtr="2" end_time="03:45" end_spot="STAN30" rz="1" driveindex="12"></drive>
+  <drive vh="V" team="STAN" start="KO,2,03:42,34" end="PUNT,2,01:03,45" plays="5" yards="11" top="2:39" start_how="KO" start_qtr="2" start_time="03:42" start_spot="STAN34" end_how="PUNT" end_qtr="2" end_time="01:03" end_spot="STAN45" driveindex="13"></drive>
+  <drive vh="H" team="WSU" start="PUNT,2,01:03,20" end="FG,3,15:00,89" plays="8" yards="69" top="1:03" start_how="PUNT" start_qtr="2" start_time="01:03" start_spot="WSU20" end_how="FG" end_qtr="3" end_time="15:00" end_spot="STAN11" rz="1" driveindex="14"></drive>
+  <drive vh="H" team="WSU" start="KO,3,15:00,35" end="FG,3,11:53,89" plays="10" yards="54" top="3:07" start_how="KO" start_qtr="3" start_time="15:00" start_spot="WSU35" end_how="FG" end_qtr="3" end_time="11:53" end_spot="STAN11" rz="1" driveindex="15"></drive>
+  <drive vh="V" team="STAN" start="KO,3,11:46,41" end="TD,3,09:15,100" plays="6" yards="59" top="2:31" start_how="KO" start_qtr="3" start_time="11:46" start_spot="STAN41" end_how="TD" end_qtr="3" end_time="09:15" end_spot="WSU00" rz="1" driveindex="16"></drive>
+  <drive vh="H" team="WSU" start="KO,3,09:15,25" end="TD,3,07:52,100" plays="4" yards="75" top="1:23" start_how="KO" start_qtr="3" start_time="09:15" start_spot="WSU25" end_how="TD" end_qtr="3" end_time="07:52" end_spot="STAN00" rz="1" driveindex="17"></drive>
+  <drive vh="V" team="STAN" start="KO,3,07:41,45" end="FG,3,03:39,86" plays="9" yards="41" top="4:02" start_how="KO" start_qtr="3" start_time="07:41" start_spot="STAN45" end_how="FG" end_qtr="3" end_time="03:39" end_spot="WSU14" rz="1" driveindex="18"></drive>
+  <drive vh="H" team="WSU" start="KO,3,03:39,35" end="PUNT,3,02:29,23" plays="3" yards="-12" top="1:10" start_how="KO" start_qtr="3" start_time="03:39" start_spot="WSU35" end_how="PUNT" end_qtr="3" end_time="02:29" end_spot="WSU23" driveindex="19"></drive>
+  <drive vh="V" team="STAN" start="PUNT,3,02:29,41" end="TD,3,02:17,100" plays="1" yards="59" top="0:12" start_how="PUNT" start_qtr="3" start_time="02:29" start_spot="STAN41" end_how="TD" end_qtr="3" end_time="02:17" end_spot="WSU00" driveindex="20"></drive>
+  <drive vh="H" team="WSU" start="KO,3,02:10,18" end="INT,3,01:32,20" plays="2" yards="2" top="0:38" start_how="KO" start_qtr="3" start_time="02:10" start_spot="WSU18" end_how="INT" end_qtr="3" end_time="01:32" end_spot="WSU20" driveindex="21"></drive>
+  <drive vh="V" team="STAN" start="INT,3,01:32,83" end="TD,4,14:19,100" plays="4" yards="17" top="2:13" start_how="INT" start_qtr="3" start_time="01:32" start_spot="WSU17" end_how="TD" end_qtr="4" end_time="14:19" end_spot="WSU00" rz="1" driveindex="22"></drive>
+  <drive vh="H" team="WSU" start="KO,4,14:14,19" end="TD,4,07:56,100" plays="15" yards="81" top="6:18" start_how="KO" start_qtr="4" start_time="14:14" start_spot="WSU19" end_how="TD" end_qtr="4" end_time="07:56" end_spot="STAN00" rz="1" driveindex="23"></drive>
+  <drive vh="V" team="STAN" start="KO,4,07:56,25" end="PUNT,4,05:08,39" plays="5" yards="14" top="2:48" start_how="KO" start_qtr="4" start_time="07:56" start_spot="STAN25" end_how="PUNT" end_qtr="4" end_time="05:08" end_spot="STAN39" driveindex="24"></drive>
+  <drive vh="H" team="WSU" start="PUNT,4,05:08,28" end="INT,4,03:27,45" plays="4" yards="17" top="1:41" start_how="PUNT" start_qtr="4" start_time="05:08" start_spot="WSU28" end_how="INT" end_qtr="4" end_time="03:27" end_spot="WSU45" driveindex="25"></drive>
+  <drive vh="V" team="STAN" start="INT,4,03:27,61" end="FG,4,01:54,98" plays="5" yards="37" top="1:33" start_how="INT" start_qtr="4" start_time="03:27" start_spot="WSU39" end_how="FG" end_qtr="4" end_time="01:54" end_spot="WSU02" rz="1" driveindex="26"></drive>
+  <drive vh="H" team="WSU" start="KO,4,01:54,25" end="FGA,4,00:00,73" plays="12" yards="48" top="1:54" start_how="KO" start_qtr="4" start_time="01:54" start_spot="WSU25" end_how="FGA" end_qtr="4" end_time="00:00" end_spot="STAN27" driveindex="27"></drive>
+  <drive vh="V" team="STAN" start="FGA,4,00:00,27" end="HALF,4,00:00,27" plays="0" yards="0" top="0:00" start_how="FGA" start_qtr="4" start_time="00:00" start_spot="STAN27" end_how="HALF" end_qtr="4" end_time="00:00" end_spot="STAN27" driveindex="28"></drive>
+ </drives>
+ <plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="STAN" down="1" togo="10" spot="STAN35" context="V,1,10,V35" playid="0,1,0" tokens="CMT:Stanford wins toss, will receive.  WSU to defend West goal."
+      text="Stanford wins toss, will receive.  WSU to defend West goal." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="STAN" down="1" togo="10" spot="STAN35" context="V,1,10,V35" playid="0,2,1" tokens="SPOT:H,H35,N"
+      text="WSU ball on WSU35." newcontext="H,1,10,H35">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU35" context="H,1,10,H35" playid="0,3,2" type="K" tokens="KO:46,V39 RET:35,V39"
+      text="Powell, Erik kickoff 26 yards to the STAN39, Marx,D return 0 yards to the STAN39." newcontext="V,1,10,V39">
+    <p_ko vh="H" name="Powell, Erik" gain="26"></p_ko>
+    <p_kr vh="V" name="Marx,D" gain="0"></p_kr>
+   </play>
+   <drivestart poss="V,V39,15:00" vh="V" spot="V39" clock="15:00" driveindex="1,2"></drivestart>
+   <play hasball="STAN" down="1" togo="10" spot="STAN39" context="V,1,10,V39" playid="1,1,3" type="#" clock="15:00" tokens="T:15:00"
+      text="Clock 15:00." newcontext="V,1,10,V39">
+   </play>
+   <play hasball="STAN" down="1" togo="10" spot="STAN39" context="V,1,10,V39" playid="1,2,4" clock="15:00" tokens="{DRIVE}:15:00 SPOT:V,V39,Y"
+      text="STANFORD drive start at 15:00, STAN ball on STAN39." newcontext="V,1,10,V39">
+   </play>
+   <play hasball="STAN" down="1" togo="10" spot="STAN39" context="V,1,10,V39" playid="1,3,5" type="R" first="R" tokens="RUSH:0E,H45, TACK:47"
+      text="McCaffrey,C rush for 16 yards to the WSU45, 1ST DOWN STAN (Pelluer, Peyton)." newcontext="V,1,10,H45">
+    <p_ru vh="V" name="McCaffrey,C" gain="16"></p_ru>
+    <p_tk vh="H" name="Pelluer, Peyton"></p_tk>
+   </play>
+   <play hasball="STAN" down="1" togo="10" spot="WSU45" context="V,1,10,H45" playid="1,4,6" type="P" tokens="PASS:0H,I,0I,*"
+      text="Hogan,K pass incomplete to Schultz,D." newcontext="V,2,10,H45">
+    <p_pa vh="V" qb="Hogan,K" result="INC" rcv="Schultz,D"></p_pa>
+   </play>
+   <play hasball="STAN" down="2" togo="10" spot="WSU45" context="V,2,10,H45" playid="1,5,7" type="R" tokens="RUSH:0E,H46, TACK:47,99"
+      text="McCaffrey,C rush for loss of 1 yard to the WSU46 (Pelluer, Peyton;Paulo, Darryl)." newcontext="V,3,11,H46">
+    <p_ru vh="V" name="McCaffrey,C" gain="-1"></p_ru>
+    <p_tk vh="H" name="Pelluer, Peyton" assist="Y"></p_tk>
+    <p_tk vh="H" name="Paulo, Darryl" assist="Y"></p_tk>
+   </play>
+   <play hasball="STAN" down="3" togo="11" spot="WSU46" context="V,3,11,H46" playid="1,6,8" type="P" tokens="PASS:0H,I,2B,*"
+      text="Hogan,K pass incomplete to Wright,R." newcontext="V,4,11,H46">
+    <p_pa vh="V" qb="Hogan,K" result="INC" rcv="Wright,R"></p_pa>
+   </play>
+   <play hasball="STAN" down="4" togo="11" spot="WSU46" context="V,4,11,H46" playid="1,7,9" type="U" tokens="PUNT:14,H10 DN:"
+      text="Bailey,J punt 36 yards to the WSU10, downed." newcontext="H,1,10,H10">
+    <p_pu vh="V" name="Bailey,J" gain="36" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="4" yards="15" top="1:25" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="H,H10,13:35" vh="H" spot="H10" clock="13:35" driveindex="2,9"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU10" context="H,1,10,H10" playid="2,1,10" clock="13:35" tokens="{DRIVE}:13:35"
+      text="WASHINGTON STATE drive start at 13:35." newcontext="H,1,10,H10">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU10" context="H,1,10,H10" playid="2,2,11" type="P" tokens="PASS:4,I,21,*"
+      text="Falk, Luke pass incomplete to Cracraft, River." newcontext="H,2,10,H10">
+    <p_pa vh="H" qb="Falk, Luke" result="INC" rcv="Cracraft, River"></p_pa>
+   </play>
+   <play hasball="WSU" down="2" togo="10" spot="WSU10" context="H,2,10,H10" playid="2,3,12" type="P" tokens="PASS:4,I,9,*"
+      text="Falk, Luke pass incomplete to Marks, Gabe." newcontext="H,3,10,H10">
+    <p_pa vh="H" qb="Falk, Luke" result="INC" rcv="Marks, Gabe"></p_pa>
+   </play>
+   <play hasball="WSU" down="3" togo="10" spot="WSU10" context="H,3,10,H10" playid="2,4,13" type="P" tokens="PASS:4,I,21,*"
+      text="Falk, Luke pass incomplete to Cracraft, River." newcontext="H,4,10,H10">
+    <p_pa vh="H" qb="Falk, Luke" result="INC" rcv="Cracraft, River"></p_pa>
+   </play>
+   <play hasball="WSU" down="4" togo="10" spot="WSU10" context="H,4,10,H10" playid="2,5,14" type="U" tokens="PUNT:9E,V49 RET:0E,H48 TACK:5,29"
+      text="Charme, Zach punt 41 yards to the STAN49, McCaffrey,C return 3 yards to the WSU48 (Green, Calvin;Henry, Parker)." newcontext="V,1,10,H48">
+    <p_pu vh="H" name="Charme, Zach" gain="41"></p_pu>
+    <p_pr vh="V" name="McCaffrey,C" gain="3"></p_pr>
+    <p_tk vh="H" name="Green, Calvin" assist="Y"></p_tk>
+    <p_tk vh="H" name="Henry, Parker" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="0" top="0:25" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="V,H48,13:10" vh="V" spot="H48" clock="13:10" driveindex="3,14"></drivestart>
+   <play hasball="STAN" down="1" togo="10" spot="WSU48" context="V,1,10,H48" playid="3,1,15" clock="13:10" tokens="{DRIVE}:13:10"
+      text="STANFORD drive start at 13:10." newcontext="V,1,10,H48">
+   </play>
+   <play hasball="STAN" down="1" togo="10" spot="WSU48" context="V,1,10,H48" playid="3,2,16" type="P" first="P" tokens="PASS:0H,C,18,H31"
+      text="Hogan,K pass complete to Hooper,A for 17 yards to the WSU31, 1ST DOWN STAN." newcontext="V,1,10,H31">
+    <p_pa vh="V" qb="Hogan,K" result="COMP" rcv="Hooper,A" gain="17"></p_pa>
+   </play>
+   <play hasball="STAN" down="1" togo="10" spot="WSU31" context="V,1,10,H31" playid="3,3,17" type="R" tokens="RUSH:0E,H28, TACK:18,97"
+      text="McCaffrey,C rush for 3 yards to the WSU28 (Luani, Shalom;Vaeao, Destiny)." newcontext="V,2,7,H28">
+    <p_ru vh="V" name="McCaffrey,C" gain="3"></p_ru>
+    <p_tk vh="H" name="Luani, Shalom" assist="Y"></p_tk>
+    <p_tk vh="H" name="Vaeao, Destiny" assist="Y"></p_tk>
+   </play>
+   <play hasball="STAN" down="2" togo="7" spot="WSU28" context="V,2,7,H28" playid="3,4,18" type="R" first="R" tokens="RUSH:0E,H12, OB: TACK:29,10"
+      text="McCaffrey,C rush for 16 yards to the WSU12, 1ST DOWN STAN, out-of-bounds (Henry, Parker;Parker,Kirkland)." ob="Y" newcontext="V,1,10,H12">
+    <p_ru vh="V" name="McCaffrey,C" gain="16"></p_ru>
+    <p_tk vh="H" name="Henry, Parker" assist="Y"></p_tk>
+    <p_tk vh="H" name="Parker,Kirkland" assist="Y"></p_tk>
+   </play>
+   <play hasball="STAN" down="1" togo="10" spot="WSU12" context="V,1,10,H12" playid="3,5,19" type="R" tokens="RUSH:0E,H12, TACK:29"
+      text="McCaffrey,C rush for no gain to the WSU12 (Henry, Parker)." newcontext="V,2,10,H12">
+    <p_ru vh="V" name="McCaffrey,C" gain="0"></p_ru>
+    <p_tk vh="H" name="Henry, Parker"></p_tk>
+   </play>
+   <play hasball="STAN" down="2" togo="10" spot="WSU12" context="V,2,10,H12" playid="3,6,20" type="P" tokens="PASS:0H,S,TM,H21 SACK:99"
+      text="Hogan,K sacked for loss of 9 yards to the WSU21 (Paulo, Darryl)." newcontext="V,3,19,H21">
+    <p_pa vh="V" qb="Hogan,K" result="SACK" gain="-9"></p_pa>
+    <p_tk vh="H" name="Paulo, Darryl" sack="Y"></p_tk>
+   </play>
+   <play hasball="STAN" down="3" togo="19" spot="WSU21" context="V,3,19,H21" playid="3,7,21" type="P" tokens="PASS:0H,C,0F,H14 TACK:47,3"
+      text="Hogan,K pass complete to Owusu,F for 7 yards to the WSU14 (Pelluer, Peyton;McLennan, Ivan)." newcontext="V,4,12,H14">
+    <p_pa vh="V" qb="Hogan,K" result="COMP" rcv="Owusu,F" gain="7"></p_pa>
+    <p_tk vh="H" name="Pelluer, Peyton" assist="Y"></p_tk>
+    <p_tk vh="H" name="McLennan, Ivan" assist="Y"></p_tk>
+   </play>
+   <play hasball="STAN" down="4" togo="12" spot="WSU14" context="V,4,12,H14" playid="3,8,22" type="F" score="Y" vscore="3" hscore="0" clock="09:08" tokens="FGA:3D,32,G T:09:08"
+      text="Ukropina,C field goal attempt from 32 GOOD, clock 09:08." newcontext="V,1,0,V35">
+    <p_fg vh="V" name="Ukropina,C" distance="32" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="3" H="0"></score>
+   <drivesum plays="7" yards="34" top="4:02" driveindex="3" complete="Y"></drivesum>
+   <play hasball="STAN" down="1" togo="0" spot="STAN35" context="V,1,0,V35" playid="3,9,23" type="K" tokens="KO:14,H02 RET:12,H36 TACK:31"
+      text="Bailey,J kickoff 63 yards to the WSU2, Martin Jr., Tav return 34 yards to the WSU36 (Branch,M)." newcontext="H,1,10,H36">
+    <p_ko vh="V" name="Bailey,J" gain="63"></p_ko>
+    <p_kr vh="H" name="Martin Jr., Tav" gain="34"></p_kr>
+    <p_tk vh="V" name="Branch,M"></p_tk>
+   </play>
+   <drivestart poss="H,H36,09:00" vh="H" spot="H36" clock="09:00" driveindex="4,23"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU36" context="H,1,10,H36" playid="4,1,24" clock="09:00" tokens="{DRIVE}:09:00"
+      text="WASHINGTON STATE drive start at 09:00." newcontext="H,1,10,H36">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU36" context="H,1,10,H36" playid="4,2,25" type="P" tokens="PASS:4,C,1,H38 TACK:48,7"
+      text="Falk, Luke pass complete to Priester, Kyrin for 2 yards to the WSU38 (Anderson,K;Shittu,A)." newcontext="H,2,8,H38">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Priester, Kyrin" gain="2"></p_pa>
+    <p_tk vh="V" name="Anderson,K" assist="Y"></p_tk>
+    <p_tk vh="V" name="Shittu,A" assist="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="8" spot="WSU38" context="H,2,8,H38" playid="4,3,26" type="P" tokens="PASS:4,S,TM,H33 SACK:17"
+      text="Falk, Luke sacked for loss of 5 yards to the WSU33 (Scarlett,B)." newcontext="H,3,13,H33">
+    <p_pa vh="H" qb="Falk, Luke" result="SACK" gain="-5"></p_pa>
+    <p_tk vh="V" name="Scarlett,B" sack="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="13" spot="WSU33" context="H,3,13,H33" playid="4,4,27" type="E" tokens="PEN:H,FS,A,63,H28,N DEAD:"
+      text="PENALTY WSU false start (Eklund, Gunnar) 5 yards to the WSU28, deadball foul." newcontext="H,3,18,H28">
+    <p_pn vh="H" code="FS" type="false start" name="Eklund, Gunnar" result="ACCEPT" at="H33" yards="5"></p_pn>
+   </play>
+   <play hasball="WSU" down="3" togo="18" spot="WSU28" context="H,3,18,H28" playid="4,5,28" type="P" tokens="PASS:4,S,TM,H25 SACK:48"
+      text="Falk, Luke sacked for loss of 3 yards to the WSU25 (Anderson,K)." newcontext="H,4,21,H25">
+    <p_pa vh="H" qb="Falk, Luke" result="SACK" gain="-3"></p_pa>
+    <p_tk vh="V" name="Anderson,K" sack="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="4" togo="21" spot="WSU25" context="H,4,21,H25" playid="4,6,29" type="U" tokens="PUNT:9E,V40 OB:"
+      text="Charme, Zach punt 35 yards to the STAN40, out-of-bounds." ob="Y" newcontext="V,1,10,V40">
+    <p_pu vh="H" name="Charme, Zach" gain="35" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-11" top="2:20" driveindex="4" complete="Y"></drivesum>
+   <drivestart poss="V,V40,06:40" vh="V" spot="V40" clock="06:40" driveindex="5,29"></drivestart>
+   <play hasball="STAN" down="1" togo="10" spot="STAN40" context="V,1,10,V40" playid="5,1,30" clock="06:40" tokens="{DRIVE}:06:40"
+      text="STANFORD drive start at 06:40." newcontext="V,1,10,V40">
+   </play>
+   <play hasball="STAN" down="1" togo="10" spot="STAN40" context="V,1,10,V40" playid="5,2,31" type="P" first="P" tokens="PASS:0H,C,2J,H49 OB: TACK:18"
+      text="Hogan,K pass complete to Love,B for 11 yards to the WSU49, 1ST DOWN STAN, out-of-bounds (Luani, Shalom)." ob="Y" newcontext="V,1,10,H49">
+    <p_pa vh="V" qb="Hogan,K" result="COMP" rcv="Love,B" gain="11"></p_pa>
+    <p_tk vh="H" name="Luani, Shalom"></p_tk>
+   </play>
+   <play hasball="STAN" down="1" togo="10" spot="WSU49" context="V,1,10,H49" playid="5,3,32" type="P" turnover="F" tokens="PASS:0H,F,TM,V48 SACK:97 FUMB:H,V48,18"
+      text="Hogan,K sacked for loss of 3 yards to the STAN48 (Vaeao, Destiny), fumble by Hogan,K recovered by WSU Luani, Shalom at STAN48." newcontext="H,1,10,V48">
+    <p_pa vh="V" qb="Hogan,K" result="FUMB" gain="-3"></p_pa>
+    <p_fumb vh="V" name="Hogan,K" at="V48" frvh="H" frname="Luani, Shalom"></p_fumb>
+    <p_tk vh="H" name="Vaeao, Destiny" sack="Y"></p_tk>
+   </play>
+   <drivesum plays="2" yards="8" top="0:32" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="H,V48,06:08" vh="H" spot="V48" clock="06:08" driveindex="6,32"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="STAN48" context="H,1,10,V48" playid="6,1,33" clock="06:08" tokens="{DRIVE}:06:08"
+      text="WASHINGTON STATE drive start at 06:08." newcontext="H,1,10,V48">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="STAN48" context="H,1,10,V48" playid="6,2,34" type="P" tokens="PASS:4,I,80,*"
+      text="Falk, Luke pass incomplete to Williams, Dom." newcontext="H,2,10,V48">
+    <p_pa vh="H" qb="Falk, Luke" result="INC" rcv="Williams, Dom"></p_pa>
+   </play>
+   <play hasball="WSU" down="2" togo="10" spot="STAN48" context="H,2,10,V48" playid="6,3,35" type="R" tokens="RUSH:25,V48, TACK:7"
+      text="Morrow, Jamal rush for no gain to the STAN48 (Shittu,A)." newcontext="H,3,10,V48">
+    <p_ru vh="H" name="Morrow, Jamal" gain="0"></p_ru>
+    <p_tk vh="V" name="Shittu,A"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="10" spot="STAN48" context="H,3,10,V48" playid="6,4,36" type="P" tokens="PASS:4,D,9,*"
+      text="Falk, Luke pass incomplete to Marks, Gabe, dropped pass." newcontext="H,4,10,V48">
+    <p_pa vh="H" qb="Falk, Luke" result="DROP" rcv="Marks, Gabe"></p_pa>
+   </play>
+   <play hasball="WSU" down="4" togo="10" spot="STAN48" context="H,4,10,V48" playid="6,5,37" type="U" tokens="PUNT:9E,V00 TB:"
+      text="Charme, Zach punt 48 yards to the STAN0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="Charme, Zach" gain="48" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="0" top="0:59" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="V,V20,05:09" vh="V" spot="V20" clock="05:09" driveindex="7,37"></drivestart>
+   <play hasball="STAN" down="1" togo="10" spot="STAN20" context="V,1,10,V20" playid="7,1,38" clock="05:09" tokens="{DRIVE}:05:09"
+      text="STANFORD drive start at 05:09." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="STAN" down="1" togo="10" spot="STAN20" context="V,1,10,V20" playid="7,2,39" type="R" tokens="RUSH:0E,V25, TACK:30"
+      text="McCaffrey,C rush for 5 yards to the STAN25 (Taliulu, Taylor)." newcontext="V,2,5,V25">
+    <p_ru vh="V" name="McCaffrey,C" gain="5"></p_ru>
+    <p_tk vh="H" name="Taliulu, Taylor"></p_tk>
+   </play>
+   <play hasball="STAN" down="2" togo="5" spot="STAN25" context="V,2,5,V25" playid="7,3,40" type="R" tokens="RUSH:0H,V23, TACK:50"
+      text="Hogan,K rush for loss of 2 yards to the STAN23 (Mata'afa, Herc.)." newcontext="V,3,7,V23">
+    <p_ru vh="V" name="Hogan,K" gain="-2"></p_ru>
+    <p_tk vh="H" name="Mata'afa, Herc."></p_tk>
+   </play>
+   <play hasball="STAN" down="3" togo="7" spot="STAN23" context="V,3,7,V23" playid="7,4,41" type="P" turnover="I" tokens="PASS:0H,X,29,V31 RET:29,V31"
+      text="Hogan,K pass intercepted by Henry, Parker at the STAN31, Henry, Parker return 0 yards to the STAN31." newcontext="H,1,10,V31">
+    <p_pa vh="V" qb="Hogan,K" result="INT"></p_pa>
+    <p_ir vh="H" name="Henry, Parker" at="V31" gain="0"></p_ir>
+   </play>
+   <drivesum plays="3" yards="3" top="1:33" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="H,V31,03:36" vh="H" spot="V31" clock="03:36" driveindex="8,41"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="STAN31" context="H,1,10,V31" playid="8,1,42" clock="03:36" tokens="{DRIVE}:03:36"
+      text="WASHINGTON STATE drive start at 03:36." newcontext="H,1,10,V31">
+   </play>
+   <comment text="Previous play reviewed, call stands."></comment>
+   <play hasball="WSU" down="1" togo="10" spot="STAN31" context="H,1,10,V31" playid="8,2,44" type="R" tokens="RUSH:23,V26, TACK:24"
+      text="Wicks, Gerard rush for 5 yards to the STAN26 (Meeks,Q)." newcontext="H,2,5,V26">
+    <p_ru vh="H" name="Wicks, Gerard" gain="5"></p_ru>
+    <p_tk vh="V" name="Meeks,Q"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="5" spot="STAN26" context="H,2,5,V26" playid="8,3,45" type="P" tokens="PASS:4,C,23,V29 TACK:24"
+      text="Falk, Luke pass complete to Wicks, Gerard for loss of 3 yards to the STAN29 (Meeks,Q)." newcontext="H,3,8,V29">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Wicks, Gerard" gain="-3"></p_pa>
+    <p_tk vh="V" name="Meeks,Q"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="8" spot="STAN29" context="H,3,8,V29" playid="8,4,46" type="P" tokens="PASS:4,D,21,*"
+      text="Falk, Luke pass incomplete to Cracraft, River, dropped pass." newcontext="H,4,8,V29">
+    <p_pa vh="H" qb="Falk, Luke" result="DROP" rcv="Cracraft, River"></p_pa>
+   </play>
+   <play hasball="WSU" down="4" togo="8" spot="STAN29" context="H,4,8,V29" playid="8,5,47" type="F" score="Y" vscore="3" hscore="3" clock="02:28" tokens="FGA:46,46,G T:02:28"
+      text="Powell, Erik field goal attempt from 46 GOOD, clock 02:28." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="Powell, Erik" distance="46" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="3" H="3"></score>
+   <drivesum plays="4" yards="2" top="1:08" driveindex="8" complete="Y"></drivesum>
+   <play hasball="WSU" down="1" togo="0" spot="WSU35" context="H,1,0,H35" playid="8,6,48" type="K" tokens="KO:46,V27 RET:88,V35 TACK:19,51"
+      text="Powell, Erik kickoff 38 yards to the STAN27, Taboada,G return 8 yards to the STAN35 (Teglovic,Colton;Luvu, Frankie)." newcontext="V,1,10,V35">
+    <p_ko vh="H" name="Powell, Erik" gain="38"></p_ko>
+    <p_kr vh="V" name="Taboada,G" gain="8"></p_kr>
+    <p_tk vh="H" name="Teglovic,Colton" assist="Y"></p_tk>
+    <p_tk vh="H" name="Luvu, Frankie" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V35,02:24" vh="V" spot="V35" clock="02:24" driveindex="9,48"></drivestart>
+   <play hasball="STAN" down="1" togo="10" spot="STAN35" context="V,1,10,V35" playid="9,1,49" clock="02:24" tokens="{DRIVE}:02:24"
+      text="STANFORD drive start at 02:24." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="STAN" down="1" togo="10" spot="STAN35" context="V,1,10,V35" playid="9,2,50" type="R" tokens="RUSH:0E,V36, TACK:44"
+      text="McCaffrey,C rush for 1 yard to the STAN36 (Leniu, Chandler)." newcontext="V,2,9,V36">
+    <p_ru vh="V" name="McCaffrey,C" gain="1"></p_ru>
+    <p_tk vh="H" name="Leniu, Chandler"></p_tk>
+   </play>
+   <play hasball="STAN" down="2" togo="9" spot="STAN36" context="V,2,9,V36" playid="9,3,51" type="R" tokens="RUSH:0E,V42, TACK:8,29"
+      text="McCaffrey,C rush for 6 yards to the STAN42 (Allison, J.;Henry, Parker)." newcontext="V,3,3,V42">
+    <p_ru vh="V" name="McCaffrey,C" gain="6"></p_ru>
+    <p_tk vh="H" name="Allison, J." assist="Y"></p_tk>
+    <p_tk vh="H" name="Henry, Parker" assist="Y"></p_tk>
+   </play>
+   <play hasball="STAN" down="3" togo="3" spot="STAN42" context="V,3,3,V42" playid="9,4,52" type="R" first="R" tokens="RUSH:2B,V45, TACK:50"
+      text="Wright,R rush for 3 yards to the STAN45, 1ST DOWN STAN (Mata'afa, Herc.)." newcontext="V,1,10,V45">
+    <p_ru vh="V" name="Wright,R" gain="3"></p_ru>
+    <p_tk vh="H" name="Mata'afa, Herc."></p_tk>
+   </play>
+   <play hasball="STAN" down="1" togo="10" spot="STAN45" context="V,1,10,V45" playid="9,5,53" type="E" tokens="RUSH:0E,V44, TACK:18 PEN:V,HO,A,1C,V35,N NOPLAY:"
+      text="McCaffrey,C rush for loss of 1 yard to the STAN44 (Luani, Shalom), PENALTY STAN holding (Stallworth,R) 10 yards to the STAN35, NO PLAY." newcontext="V,1,20,V35">
+    <p_pn vh="V" code="HO" type="holding" name="Stallworth,R" result="ACCEPT" at="V45" yards="10"></p_pn>
+   </play>
+   <play hasball="STAN" down="1" togo="20" spot="STAN35" context="V,1,20,V35" playid="9,6,54" type="P" tokens="PASS:0H,C,0E,V35 TACK:8"
+      text="Hogan,K pass complete to McCaffrey,C for no gain to the STAN35 (Allison, J.)." newcontext="V,2,20,V35">
+    <p_pa vh="V" qb="Hogan,K" result="COMP" rcv="McCaffrey,C" gain="0"></p_pa>
+    <p_tk vh="H" name="Allison, J."></p_tk>
+   </play>
+   <score qtr="1" V="3" H="3"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="STAN">
+    <firstdowns no="5" rush="3" pass="2" penalty="0"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="10:00"></misc>
+    <rush att="12" yds="35" gain="50" loss="15" td="0" long="16"></rush>
+    <pass comp="4" att="7" int="1" yds="35" td="0" long="17" sacks="2" sackyds="12"></pass>
+    <rcv no="4" yds="35" td="0" long="17"></rcv>
+    <punt no="1" yds="36" long="36" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="36.0"></punt>
+    <ko no="1" yds="63" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="32" blkd="0"></fg>
+    <defense tackua="6" tacka="2" tot_tack="8" tflua="3" tfla="0" tflyds="11" sacks="2" sackyds="8"></defense>
+    <kr no="2" yds="8" td="0" long="8"></kr>
+    <pr no="1" yds="3" td="0" long="3"></pr>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WSU">
+    <firstdowns no="0" rush="0" pass="0" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="0" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="05:00"></misc>
+    <rush att="4" yds="-3" gain="5" loss="8" td="0" long="5"></rush>
+    <pass comp="2" att="8" int="0" yds="-1" td="0" long="2" sacks="2" sackyds="8"></pass>
+    <rcv no="2" yds="-1" td="0" long="2"></rcv>
+    <punt no="3" yds="124" long="48" blkd="0" tb="1" fc="0" plus50="0" inside20="0" avg="41.3"></punt>
+    <ko no="2" yds="64" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="46" blkd="0"></fg>
+    <defense tackua="10" tacka="14" tot_tack="24" tflua="3" tfla="2" tflyds="15" sacks="2" sackyds="12" ff="1" fr="1" fryds="0" int="1" intyds="0"></defense>
+    <kr no="1" yds="34" td="0" long="34"></kr>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="STAN" down="2" togo="20" spot="STAN35" context="V,2,20,V35" playid="9,7,55" type="#" clock="15:00" tokens="Q:2 T:15:00"
+      text="Start of 2nd quarter, clock 15:00." newcontext="V,2,20,V35">
+   </play>
+   <play hasball="STAN" down="2" togo="20" spot="STAN35" context="V,2,20,V35" playid="9,8,56" type="P" tokens="PASS:0H,S,TM,V32 SACK:40"
+      text="Hogan,K sacked for loss of 3 yards to the STAN32 (Palacio, Kache)." newcontext="V,3,23,V32">
+    <p_pa vh="V" qb="Hogan,K" result="SACK" gain="-3"></p_pa>
+    <p_tk vh="H" name="Palacio, Kache" sack="Y"></p_tk>
+   </play>
+   <play hasball="STAN" down="3" togo="23" spot="STAN32" context="V,3,23,V32" playid="9,9,57" type="#" clock="14:11" tokens="TOUT:V T:14:11"
+      text="Timeout Stanford, clock 14:11." newcontext="V,3,23,V32">
+    <p_to vh="V" team="Stanford"></p_to>
+   </play>
+   <play hasball="STAN" down="3" togo="23" spot="STAN32" context="V,3,23,V32" playid="9,10,58" type="R" tokens="RUSH:0E,V34, TACK:40,47"
+      text="McCaffrey,C rush for 2 yards to the STAN34 (Palacio, Kache;Pelluer, Peyton)." newcontext="V,4,21,V34">
+    <p_ru vh="V" name="McCaffrey,C" gain="2"></p_ru>
+    <p_tk vh="H" name="Palacio, Kache" assist="Y"></p_tk>
+    <p_tk vh="H" name="Pelluer, Peyton" assist="Y"></p_tk>
+   </play>
+   <play hasball="STAN" down="4" togo="21" spot="STAN34" context="V,4,21,V34" playid="9,11,59" type="U" tokens="PUNT:4G,H30 OB:"
+      text="Robinson,A punt 36 yards to the WSU30, out-of-bounds." ob="Y" newcontext="H,1,10,H30">
+    <p_pu vh="V" name="Robinson,A" gain="36" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="-1" top="3:55" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="H,H30,13:29" vh="H" spot="H30" clock="13:29" driveindex="10,59"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU30" context="H,1,10,H30" playid="10,1,60" clock="13:29" tokens="{DRIVE}:13:29"
+      text="WASHINGTON STATE drive start at 13:29." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU30" context="H,1,10,H30" playid="10,2,61" type="R" tokens="RUSH:25,H32, TACK:17,7"
+      text="Morrow, Jamal rush for 2 yards to the WSU32 (Scarlett,B;Shittu,A)." newcontext="H,2,8,H32">
+    <p_ru vh="H" name="Morrow, Jamal" gain="2"></p_ru>
+    <p_tk vh="V" name="Scarlett,B" assist="Y"></p_tk>
+    <p_tk vh="V" name="Shittu,A" assist="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="8" spot="WSU32" context="H,2,8,H32" playid="10,3,62" type="P" first="P" tokens="PASS:4,C,9,H43 TACK:29"
+      text="Falk, Luke pass complete to Marks, Gabe for 11 yards to the WSU43, 1ST DOWN WSU (Lloyd,D)." newcontext="H,1,10,H43">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Marks, Gabe" gain="11"></p_pa>
+    <p_tk vh="V" name="Lloyd,D"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU43" context="H,1,10,H43" playid="10,4,63" type="R" tokens="RUSH:23,H47, TACK:4"
+      text="Wicks, Gerard rush for 4 yards to the WSU47 (Martinez,B)." newcontext="H,2,6,H47">
+    <p_ru vh="H" name="Wicks, Gerard" gain="4"></p_ru>
+    <p_tk vh="V" name="Martinez,B"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="6" spot="WSU47" context="H,2,6,H47" playid="10,5,64" type="R" tokens="RUSH:25,V50, OB: TACK:21,24"
+      text="Morrow, Jamal rush for 3 yards to the 50 yardline, out-of-bounds (Harris,R;Meeks,Q)." ob="Y" newcontext="H,3,3,H50">
+    <p_ru vh="H" name="Morrow, Jamal" gain="3"></p_ru>
+    <p_tk vh="V" name="Harris,R" assist="Y"></p_tk>
+    <p_tk vh="V" name="Meeks,Q" assist="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="3" spot="WSU50" context="H,3,3,H50" playid="10,6,65" type="P" first="P" tokens="PASS:4,C,15,V37 TACK:24,44"
+      text="Falk, Luke pass complete to Lewis, Robert for 13 yards to the STAN37, 1ST DOWN WSU (Meeks,Q;Palma,K)." newcontext="H,1,10,V37">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Lewis, Robert" gain="13"></p_pa>
+    <p_tk vh="V" name="Meeks,Q" assist="Y"></p_tk>
+    <p_tk vh="V" name="Palma,K" assist="Y"></p_tk>
+   </play>
+   <comment text="Stanford's Kevin Palma injured on play."></comment>
+   <play hasball="WSU" down="1" togo="10" spot="STAN37" context="H,1,10,V37" playid="10,7,67" type="P" tokens="PASS:4,C,24,V37 TACK:4"
+      text="Falk, Luke pass complete to Harrington, K. for no gain to the STAN37 (Martinez,B)." newcontext="H,2,10,V37">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Harrington, K." gain="0"></p_pa>
+    <p_tk vh="V" name="Martinez,B"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="10" spot="STAN37" context="H,2,10,V37" playid="10,8,68" type="P" first="P" tokens="PASS:4,C,26,V22"
+      text="Falk, Luke pass complete to Baker, Tyler for 15 yards to the STAN22, 1ST DOWN WSU." newcontext="H,1,10,V22">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Baker, Tyler" gain="15"></p_pa>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="STAN22" context="H,1,10,V22" playid="10,9,69" type="P" tokens="PASS:4,C,9,V14"
+      text="Falk, Luke pass complete to Marks, Gabe for 8 yards to the STAN14." newcontext="H,2,2,V14">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Marks, Gabe" gain="8"></p_pa>
+   </play>
+   <play hasball="WSU" down="2" togo="2" spot="STAN14" context="H,2,2,V14" playid="10,10,70" type="P" first="P" tokens="PASS:4,C,15,V09 TACK:24"
+      text="Falk, Luke pass complete to Lewis, Robert for 5 yards to the STAN9, 1ST DOWN WSU (Meeks,Q)." newcontext="H,1,0,V09">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Lewis, Robert" gain="5"></p_pa>
+    <p_tk vh="V" name="Meeks,Q"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="0" spot="STAN09" context="H,1,0,V09" playid="10,11,71" type="R" tokens="RUSH:4,V06,"
+      text="Falk, Luke rush for 3 yards to the STAN6." newcontext="H,2,0,V06">
+    <p_ru vh="H" name="Falk, Luke" gain="3"></p_ru>
+   </play>
+   <play hasball="WSU" down="2" togo="0" spot="STAN06" context="H,2,0,V06" playid="10,12,72" type="P" tokens="PASS:4,I,85,*"
+      text="Falk, Luke pass incomplete to Thompson, John." newcontext="H,3,0,V06">
+    <p_pa vh="H" qb="Falk, Luke" result="INC" rcv="Thompson, John"></p_pa>
+   </play>
+   <play hasball="WSU" down="3" togo="0" spot="STAN06" context="H,3,0,V06" playid="10,13,73" type="P" tokens="PASS:4,I,9,*"
+      text="Falk, Luke pass incomplete to Marks, Gabe." newcontext="H,4,0,V06">
+    <p_pa vh="H" qb="Falk, Luke" result="INC" rcv="Marks, Gabe"></p_pa>
+   </play>
+   <play hasball="WSU" down="4" togo="0" spot="STAN06" context="H,4,0,V06" playid="10,14,74" type="F" score="Y" vscore="3" hscore="6" clock="08:41" tokens="FGA:46,23,G T:08:41"
+      text="Powell, Erik field goal attempt from 23 GOOD, clock 08:41." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="Powell, Erik" distance="23" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="3" H="6"></score>
+   <drivesum plays="13" yards="64" top="4:48" driveindex="10" complete="Y"></drivesum>
+   <play hasball="WSU" down="1" togo="0" spot="WSU35" context="H,1,0,H35" playid="10,15,75" type="K" tokens="KO:46,V26 RET:0I,V41 TACK:54"
+      text="Powell, Erik kickoff 39 yards to the STAN26, Schultz,D return 15 yards to the STAN41 (DeRider, Nate)." newcontext="V,1,10,V41">
+    <p_ko vh="H" name="Powell, Erik" gain="39"></p_ko>
+    <p_kr vh="V" name="Schultz,D" gain="15"></p_kr>
+    <p_tk vh="H" name="DeRider, Nate"></p_tk>
+   </play>
+   <drivestart poss="V,V41,08:36" vh="V" spot="V41" clock="08:36" driveindex="11,75"></drivestart>
+   <play hasball="STAN" down="1" togo="10" spot="STAN41" context="V,1,10,V41" playid="11,1,76" clock="08:36" tokens="{DRIVE}:08:36"
+      text="STANFORD drive start at 08:36." newcontext="V,1,10,V41">
+   </play>
+   <play hasball="STAN" down="1" togo="10" spot="STAN41" context="V,1,10,V41" playid="11,2,77" type="R" tokens="RUSH:0E,V44, TACK:18"
+      text="McCaffrey,C rush for 3 yards to the STAN44 (Luani, Shalom)." newcontext="V,2,7,V44">
+    <p_ru vh="V" name="McCaffrey,C" gain="3"></p_ru>
+    <p_tk vh="H" name="Luani, Shalom"></p_tk>
+   </play>
+   <play hasball="STAN" down="2" togo="7" spot="STAN44" context="V,2,7,V44" playid="11,3,78" type="P" tokens="PASS:0H,I,0C,*"
+      text="Hogan,K pass incomplete to Rector,M." newcontext="V,3,7,V44">
+    <p_pa vh="V" qb="Hogan,K" result="INC" rcv="Rector,M"></p_pa>
+   </play>
+   <comment text="Previous play called interception for TD.  Overturned on replay."></comment>
+   <comment text="Sideline warning, WSU."></comment>
+   <play hasball="STAN" down="3" togo="7" spot="STAN44" context="V,3,7,V44" playid="11,4,81" type="E" first="E" tokens="PASS:0H,I,2B,* PEN:H,HO,A,10,H46,N NOPLAY:"
+      text="Hogan,K pass incomplete to Wright,R, PENALTY WSU holding (Parker,Kirkland) 10 yards to the WSU46, 1ST DOWN STAN, NO PLAY." newcontext="V,1,10,H46">
+    <p_pn vh="H" code="HO" type="holding" name="Parker,Kirkland" result="ACCEPT" at="V44" yards="10"></p_pn>
+   </play>
+   <play hasball="STAN" down="1" togo="10" spot="WSU46" context="V,1,10,H46" playid="11,5,82" type="R" tokens="RUSH:0E,H47, TACK:90"
+      text="McCaffrey,C rush for loss of 1 yard to the WSU47 (Ekuale, Daniel)." newcontext="V,2,11,H47">
+    <p_ru vh="V" name="McCaffrey,C" gain="-1"></p_ru>
+    <p_tk vh="H" name="Ekuale, Daniel"></p_tk>
+   </play>
+   <play hasball="STAN" down="2" togo="11" spot="WSU47" context="V,2,11,H47" playid="11,6,83" type="P" tokens="PASS:0H,I,18,*"
+      text="Hogan,K pass incomplete to Hooper,A." newcontext="V,3,11,H47">
+    <p_pa vh="V" qb="Hogan,K" result="INC" rcv="Hooper,A"></p_pa>
+   </play>
+   <play hasball="STAN" down="3" togo="11" spot="WSU47" context="V,3,11,H47" playid="11,7,84" type="R" tokens="RUSH:0E,H44, TACK:50"
+      text="McCaffrey,C rush for 3 yards to the WSU44 (Mata'afa, Herc.)." newcontext="V,4,8,H44">
+    <p_ru vh="V" name="McCaffrey,C" gain="3"></p_ru>
+    <p_tk vh="H" name="Mata'afa, Herc."></p_tk>
+   </play>
+   <play hasball="STAN" down="4" togo="8" spot="WSU44" context="V,4,8,H44" playid="11,8,85" type="U" tokens="PUNT:14,H14 OB:"
+      text="Bailey,J punt 30 yards to the WSU14, out-of-bounds." ob="Y" newcontext="H,1,10,H14">
+    <p_pu vh="V" name="Bailey,J" gain="30" in20="Y" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="5" yards="15" top="2:24" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="H,H14,06:12" vh="H" spot="H14" clock="06:12" driveindex="12,85"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU14" context="H,1,10,H14" playid="12,1,86" clock="06:12" tokens="{DRIVE}:06:12"
+      text="WASHINGTON STATE drive start at 06:12." newcontext="H,1,10,H14">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU14" context="H,1,10,H14" playid="12,2,87" type="P" tokens="PASS:4,C,83,H20 OB: TACK:5"
+      text="Falk, Luke pass complete to Sweet, Kyle for 6 yards to the WSU20, out-of-bounds (Whitfield,K)." ob="Y" newcontext="H,2,4,H20">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Sweet, Kyle" gain="6"></p_pa>
+    <p_tk vh="V" name="Whitfield,K"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="4" spot="WSU20" context="H,2,4,H20" playid="12,3,88" type="R" first="R" tokens="RUSH:23,H37, OB: TACK:21"
+      text="Wicks, Gerard rush for 17 yards to the WSU37, 1ST DOWN WSU, out-of-bounds (Harris,R)." ob="Y" newcontext="H,1,10,H37">
+    <p_ru vh="H" name="Wicks, Gerard" gain="17"></p_ru>
+    <p_tk vh="V" name="Harris,R"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU37" context="H,1,10,H37" playid="12,4,89" type="P" first="P" tokens="PASS:4,C,80,V36"
+      text="Falk, Luke pass complete to Williams, Dom for 27 yards to the STAN36, 1ST DOWN WSU." newcontext="H,1,10,V36">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Williams, Dom" gain="27"></p_pa>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="STAN36" context="H,1,10,V36" playid="12,5,90" type="R" first="R" tokens="RUSH:23,V19, TACK:29"
+      text="Wicks, Gerard rush for 17 yards to the STAN19, 1ST DOWN WSU (Lloyd,D)." newcontext="H,1,10,V19">
+    <p_ru vh="H" name="Wicks, Gerard" gain="17"></p_ru>
+    <p_tk vh="V" name="Lloyd,D"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="STAN19" context="H,1,10,V19" playid="12,6,91" type="P" tokens="PASS:4,D,24,*"
+      text="Falk, Luke pass incomplete to Harrington, K., dropped pass." newcontext="H,2,10,V19">
+    <p_pa vh="H" qb="Falk, Luke" result="DROP" rcv="Harrington, K."></p_pa>
+   </play>
+   <play hasball="WSU" down="2" togo="10" spot="STAN19" context="H,2,10,V19" playid="12,7,92" type="P" tokens="PASS:4,I,9,*"
+      text="Falk, Luke pass incomplete to Marks, Gabe." newcontext="H,3,10,V19">
+    <p_pa vh="H" qb="Falk, Luke" result="INC" rcv="Marks, Gabe"></p_pa>
+   </play>
+   <play hasball="WSU" down="3" togo="10" spot="STAN19" context="H,3,10,V19" playid="12,8,93" type="P" tokens="PASS:4,S,TM,V30 SACK:7"
+      text="Falk, Luke sacked for loss of 11 yards to the STAN30 (Shittu,A)." newcontext="H,4,21,V30">
+    <p_pa vh="H" qb="Falk, Luke" result="SACK" gain="-11"></p_pa>
+    <p_tk vh="V" name="Shittu,A" sack="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="4" togo="21" spot="STAN30" context="H,4,21,V30" playid="12,9,94" type="F" score="Y" vscore="3" hscore="9" clock="03:45" tokens="FGA:46,47,G T:03:45"
+      text="Powell, Erik field goal attempt from 47 GOOD, clock 03:45." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="Powell, Erik" distance="47" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="3" H="9"></score>
+   <drivesum plays="8" yards="56" top="2:27" driveindex="12" complete="Y"></drivesum>
+   <play hasball="WSU" down="1" togo="0" spot="WSU35" context="H,1,0,H35" playid="12,10,95" type="K" tokens="KO:46,V33 RET:30,V34 FUMB:V,V34,30"
+      text="Powell, Erik kickoff 32 yards to the STAN33, Jones,C return 1 yards to the STAN34, fumble by Jones,C recovered by STAN Jones,C at STAN34." newcontext="V,1,10,V34">
+    <p_ko vh="H" name="Powell, Erik" gain="32"></p_ko>
+    <p_kr vh="V" name="Jones,C" gain="1"></p_kr>
+    <p_fumb vh="V" name="Jones,C" at="V34" frvh="V" frname="Jones,C"></p_fumb>
+   </play>
+   <drivestart poss="V,V34,03:42" vh="V" spot="V34" clock="03:42" driveindex="13,95"></drivestart>
+   <play hasball="STAN" down="1" togo="10" spot="STAN34" context="V,1,10,V34" playid="13,1,96" clock="03:42" tokens="{DRIVE}:03:42"
+      text="STANFORD drive start at 03:42." newcontext="V,1,10,V34">
+   </play>
+   <play hasball="STAN" down="1" togo="10" spot="STAN34" context="V,1,10,V34" playid="13,2,97" type="P" tokens="PASS:0H,C,0B,V38 TACK:8"
+      text="Hogan,K pass complete to Irwin,T for 4 yards to the STAN38 (Allison, J.)." newcontext="V,2,6,V38">
+    <p_pa vh="V" qb="Hogan,K" result="COMP" rcv="Irwin,T" gain="4"></p_pa>
+    <p_tk vh="H" name="Allison, J."></p_tk>
+   </play>
+   <play hasball="STAN" down="2" togo="6" spot="STAN38" context="V,2,6,V38" playid="13,3,98" type="#" clock="03:12" tokens="TOUT:V T:03:12"
+      text="Timeout Stanford, clock 03:12." newcontext="V,2,6,V38">
+    <p_to vh="V" team="Stanford"></p_to>
+   </play>
+   <play hasball="STAN" down="2" togo="6" spot="STAN38" context="V,2,6,V38" playid="13,4,99" type="P" first="P" tokens="PASS:0H,C,0E,V48 TACK:29"
+      text="Hogan,K pass complete to McCaffrey,C for 10 yards to the STAN48, 1ST DOWN STAN (Henry, Parker)." newcontext="V,1,10,V48">
+    <p_pa vh="V" qb="Hogan,K" result="COMP" rcv="McCaffrey,C" gain="10"></p_pa>
+    <p_tk vh="H" name="Henry, Parker"></p_tk>
+   </play>
+   <play hasball="STAN" down="1" togo="10" spot="STAN48" context="V,1,10,V48" playid="13,5,100" type="R" tokens="RUSH:0E,V47,"
+      text="McCaffrey,C rush for loss of 1 yard to the STAN47." newcontext="V,2,11,V47">
+    <p_ru vh="V" name="McCaffrey,C" gain="-1"></p_ru>
+   </play>
+   <play hasball="STAN" down="2" togo="11" spot="STAN47" context="V,2,11,V47" playid="13,6,101" type="P" tokens="PASS:0H,S,TM,V38 SACK:92"
+      text="Hogan,K sacked for loss of 9 yards to the STAN38 (Barber, Robert)." newcontext="V,3,20,V38">
+    <p_pa vh="V" qb="Hogan,K" result="SACK" gain="-9"></p_pa>
+    <p_tk vh="H" name="Barber, Robert" sack="Y"></p_tk>
+   </play>
+   <play hasball="STAN" down="3" togo="20" spot="STAN38" context="V,3,20,V38" playid="13,7,102" type="#" clock="01:25" tokens="TOUT:H T:01:25"
+      text="Timeout Washington State, clock 01:25." newcontext="V,3,20,V38">
+    <p_to vh="H" team="Washington State"></p_to>
+   </play>
+   <play hasball="STAN" down="3" togo="20" spot="STAN38" context="V,3,20,V38" playid="13,8,103" type="P" tokens="PASS:0H,C,0E,V45 TACK:27 PEN:V,PI,D"
+      text="Hogan,K pass complete to McCaffrey,C for 7 yards to the STAN45 (Pippins, Mar.), PENALTY STAN pass interference declined." newcontext="V,4,13,V45">
+    <p_pa vh="V" qb="Hogan,K" result="COMP" rcv="McCaffrey,C" gain="7"></p_pa>
+    <p_tk vh="H" name="Pippins, Mar."></p_tk>
+    <p_pn vh="V" code="PI" type="pass interference" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="STAN" down="4" togo="13" spot="STAN45" context="V,4,13,V45" playid="13,9,104" type="#" clock="01:16" tokens="TOUT:H T:01:16"
+      text="Timeout Washington State, clock 01:16." newcontext="V,4,13,V45">
+    <p_to vh="H" team="Washington State"></p_to>
+   </play>
+   <play hasball="STAN" down="4" togo="13" spot="STAN45" context="V,4,13,V45" playid="13,10,105" type="U" tokens="PUNT:4G,H00 RET:9,H20 TACK:32"
+      text="Robinson,A punt 55 yards to the WSU0, Marks, Gabe return 20 yards to the WSU20 (Alfieri,J)." newcontext="H,1,10,H20">
+    <p_pu vh="V" name="Robinson,A" gain="55"></p_pu>
+    <p_pr vh="H" name="Marks, Gabe" gain="20"></p_pr>
+    <p_tk vh="V" name="Alfieri,J"></p_tk>
+   </play>
+   <drivesum plays="5" yards="11" top="2:39" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="H,H20,01:03" vh="H" spot="H20" clock="01:03" driveindex="14,105"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU20" context="H,1,10,H20" playid="14,1,106" clock="01:03" tokens="{DRIVE}:01:03"
+      text="WASHINGTON STATE drive start at 01:03." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU20" context="H,1,10,H20" playid="14,2,107" type="P" tokens="PASS:4,I,80,*"
+      text="Falk, Luke pass incomplete to Williams, Dom." newcontext="H,2,10,H20">
+    <p_pa vh="H" qb="Falk, Luke" result="INC" rcv="Williams, Dom"></p_pa>
+   </play>
+   <play hasball="WSU" down="2" togo="10" spot="WSU20" context="H,2,10,H20" playid="14,3,108" type="P" first="P" tokens="PASS:4,C,9,H35 TACK:15"
+      text="Falk, Luke pass complete to Marks, Gabe for 15 yards to the WSU35, 1ST DOWN WSU (Perez,J)." newcontext="H,1,10,H35">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Marks, Gabe" gain="15"></p_pa>
+    <p_tk vh="V" name="Perez,J"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU35" context="H,1,10,H35" playid="14,4,109" type="P" tokens="PASS:4,I,9,*"
+      text="Falk, Luke pass incomplete to Marks, Gabe." newcontext="H,2,10,H35">
+    <p_pa vh="H" qb="Falk, Luke" result="INC" rcv="Marks, Gabe"></p_pa>
+   </play>
+   <play hasball="WSU" down="2" togo="10" spot="WSU35" context="H,2,10,H35" playid="14,5,110" type="P" first="P" tokens="PASS:4,C,24,V41 TACK:32"
+      text="Falk, Luke pass complete to Harrington, K. for 24 yards to the STAN41, 1ST DOWN WSU (Alfieri,J)." newcontext="H,1,10,V41">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Harrington, K." gain="24"></p_pa>
+    <p_tk vh="V" name="Alfieri,J"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="STAN41" context="H,1,10,V41" playid="14,6,111" type="P" tokens="PASS:4,I,9,*"
+      text="Falk, Luke pass incomplete to Marks, Gabe." newcontext="H,2,10,V41">
+    <p_pa vh="H" qb="Falk, Luke" result="INC" rcv="Marks, Gabe"></p_pa>
+   </play>
+   <play hasball="WSU" down="2" togo="10" spot="STAN41" context="H,2,10,V41" playid="14,7,112" type="P" first="P" tokens="PASS:4,C,12,V24 TACK:29"
+      text="Falk, Luke pass complete to Martin Jr., Tav for 17 yards to the STAN24, 1ST DOWN WSU (Lloyd,D)." newcontext="H,1,10,V24">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Martin Jr., Tav" gain="17"></p_pa>
+    <p_tk vh="V" name="Lloyd,D"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="STAN24" context="H,1,10,V24" playid="14,8,113" type="P" tokens="PASS:TM,I,TM,*"
+      text="TEAM pass incomplete." newcontext="H,2,10,V24">
+    <p_pa vh="H" qb="TEAM" result="INC"></p_pa>
+   </play>
+   <play hasball="WSU" down="2" togo="10" spot="STAN24" context="H,2,10,V24" playid="14,9,114" type="E" first="E" tokens="PASS:TM,I,80,* PEN:V,PI,A,13,V11,1 NOPLAY:"
+      text="TEAM pass incomplete to Williams, Dom, PENALTY STAN pass interference (Holder,A) 13 yards to the STAN11, 1ST DOWN WSU, NO PLAY." newcontext="H,1,10,V11">
+    <p_pn vh="V" code="PI" type="pass interference" name="Holder,A" result="ACCEPT" at="V24" yards="13"></p_pn>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="STAN11" context="H,1,10,V11" playid="14,10,115" type="F" score="Y" vscore="3" hscore="12" clock="00:00" tokens="FGA:46,28,G T:00:00"
+      text="Powell, Erik field goal attempt from 28 GOOD, clock 00:00." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="Powell, Erik" distance="28" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="3" H="12"></score>
+   <play hasball="WSU" down="1" togo="0" spot="WSU35" context="H,1,0,H35" playid="14,11,116" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of half, clock 00:00." newcontext="H,1,0,H35">
+   </play>
+   <drivesum plays="8" yards="69" top="1:03" driveindex="14" complete="Y"></drivesum>
+   <score qtr="2" V="3" H="12"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="STAN">
+    <firstdowns no="2" rush="0" pass="1" penalty="1"></firstdowns>
+    <penalties no="1" yds="13"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="06:42"></misc>
+    <rush att="7" yds="-6" gain="8" loss="14" td="0" long="0"></rush>
+    <pass comp="3" att="5" int="0" yds="21" td="0" long="0" sacks="2" sackyds="12"></pass>
+    <rcv no="3" yds="21" td="0" long="0"></rcv>
+    <punt no="3" yds="121" long="19" blkd="0" tb="0" fc="0" plus50="1" inside20="1" avg="40.3"></punt>
+    <defense tackua="12" tacka="6" tot_tack="18" tflua="1" tfla="0" tflyds="11" sacks="1" sackyds="11"></defense>
+    <kr no="2" yds="16" td="0" long="7"></kr>
+    <fumbles no="1" lost="0"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WSU">
+    <firstdowns no="11" rush="2" pass="8" penalty="1"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:18"></misc>
+    <rush att="7" yds="35" gain="46" loss="11" td="0" long="12"></rush>
+    <pass comp="11" att="19" int="0" yds="141" td="0" long="25" sacks="1" sackyds="11"></pass>
+    <rcv no="11" yds="141" td="0" long="25"></rcv>
+    <ko no="2" yds="71" ob="0" tb="0"></ko>
+    <fg made="3" att="3" long="1" blkd="0"></fg>
+    <defense tackua="9" tacka="2" tot_tack="11" tflua="3" tfla="0" tflyds="13" sacks="2" sackyds="12"></defense>
+    <pr no="1" yds="20" td="0" long="20"></pr>
+    <scoring fg="3"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <comment text="WSU to receive.  Stanford defends West goal."></comment>
+   <play hasball="WSU" down="1" togo="0" spot="WSU35" context="H,1,0,H35" playid="14,12,117" type="#" clock="15:00" tokens="Q:3 T:15:00"
+      text="Start of 3rd quarter, clock 15:00." newcontext="H,1,0,H35">
+   </play>
+   <play hasball="WSU" down="1" togo="0" spot="WSU35" context="H,1,0,H35" playid="14,13,119" tokens="SPOT:V,V35,N"
+      text="STAN ball on STAN35." newcontext="V,1,0,V35">
+   </play>
+   <play hasball="STAN" down="1" togo="0" spot="STAN35" context="V,1,0,V35" playid="14,14,120" type="K" tokens="KO:14,H06 OB: SPOT:H,H35,Y"
+      text="Bailey,J kickoff 59 yards to the WSU6, out-of-bounds, WSU ball on WSU35." ob="Y" newcontext="H,1,10,H35">
+    <p_ko vh="V" name="Bailey,J" gain="59" result="O"></p_ko>
+   </play>
+   <drivestart poss="H,H35,15:00" vh="H" spot="H35" clock="15:00" driveindex="15,120"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU35" context="H,1,10,H35" playid="15,1,121" clock="15:00" tokens="{DRIVE}:15:00"
+      text="WASHINGTON STATE drive start at 15:00." newcontext="H,1,10,H35">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU35" context="H,1,10,H35" playid="15,2,122" type="P" first="P" tokens="PASS:4,C,80,H49 TACK:4"
+      text="Falk, Luke pass complete to Williams, Dom for 14 yards to the WSU49, 1ST DOWN WSU (Martinez,B)." newcontext="H,1,10,H49">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Williams, Dom" gain="14"></p_pa>
+    <p_tk vh="V" name="Martinez,B"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU49" context="H,1,10,H49" playid="15,3,123" type="R" tokens="RUSH:23,V48, OB: TACK:13"
+      text="Wicks, Gerard rush for 3 yards to the STAN48, out-of-bounds (Holder,A)." ob="Y" newcontext="H,2,7,V48">
+    <p_ru vh="H" name="Wicks, Gerard" gain="3"></p_ru>
+    <p_tk vh="V" name="Holder,A"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="7" spot="STAN48" context="H,2,7,V48" playid="15,4,124" type="P" first="P" tokens="PASS:4,C,83,V37 TACK:15"
+      text="Falk, Luke pass complete to Sweet, Kyle for 11 yards to the STAN37, 1ST DOWN WSU (Perez,J)." newcontext="H,1,10,V37">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Sweet, Kyle" gain="11"></p_pa>
+    <p_tk vh="V" name="Perez,J"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="STAN37" context="H,1,10,V37" playid="15,5,125" type="P" first="P" tokens="PASS:4,C,80,V26 TACK:13"
+      text="Falk, Luke pass complete to Williams, Dom for 11 yards to the STAN26, 1ST DOWN WSU (Holder,A)." newcontext="H,1,10,V26">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Williams, Dom" gain="11"></p_pa>
+    <p_tk vh="V" name="Holder,A"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="STAN26" context="H,1,10,V26" playid="15,6,126" type="P" tokens="PASS:4,I,25,*"
+      text="Falk, Luke pass incomplete to Morrow, Jamal." newcontext="H,2,10,V26">
+    <p_pa vh="H" qb="Falk, Luke" result="INC" rcv="Morrow, Jamal"></p_pa>
+   </play>
+   <play hasball="WSU" down="2" togo="10" spot="STAN26" context="H,2,10,V26" playid="15,7,127" type="P" first="P" tokens="PASS:4,C,12,V14 TACK:17"
+      text="Falk, Luke pass complete to Martin Jr., Tav for 12 yards to the STAN14, 1ST DOWN WSU (Scarlett,B)." newcontext="H,1,10,V14">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Martin Jr., Tav" gain="12"></p_pa>
+    <p_tk vh="V" name="Scarlett,B"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="STAN14" context="H,1,10,V14" playid="15,8,128" type="P" tokens="PASS:4,C,21,V11 TACK:4"
+      text="Falk, Luke pass complete to Cracraft, River for 3 yards to the STAN11 (Martinez,B)." newcontext="H,2,7,V11">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Cracraft, River" gain="3"></p_pa>
+    <p_tk vh="V" name="Martinez,B"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="7" spot="STAN11" context="H,2,7,V11" playid="15,9,129" type="P" tokens="PASS:4,I,1,*"
+      text="Falk, Luke pass incomplete to Priester, Kyrin." newcontext="H,3,7,V11">
+    <p_pa vh="H" qb="Falk, Luke" result="INC" rcv="Priester, Kyrin"></p_pa>
+   </play>
+   <play hasball="WSU" down="3" togo="7" spot="STAN11" context="H,3,7,V11" playid="15,10,130" type="P" tokens="PASS:4,I,9,* BRUP:21"
+      text="Falk, Luke pass incomplete to Marks, Gabe (Harris,R)." newcontext="H,4,7,V11">
+    <p_pa vh="H" qb="Falk, Luke" result="INC" rcv="Marks, Gabe"></p_pa>
+    <p_bu vh="V" name="Harris,R"></p_bu>
+   </play>
+   <play hasball="WSU" down="4" togo="7" spot="STAN11" context="H,4,7,V11" playid="15,11,131" type="F" score="Y" vscore="3" hscore="15" clock="11:53" tokens="FGA:46,28,G T:11:53"
+      text="Powell, Erik field goal attempt from 28 GOOD, clock 11:53." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="Powell, Erik" distance="28" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="3" H="15"></score>
+   <drivesum plays="10" yards="54" top="3:07" driveindex="15" complete="Y"></drivesum>
+   <play hasball="WSU" down="1" togo="0" spot="WSU35" context="H,1,0,H35" playid="15,12,132" type="K" tokens="KO:46,V20 RET:2B,V41 TACK:47,51"
+      text="Powell, Erik kickoff 45 yards to the STAN20, Wright,R return 21 yards to the STAN41 (Pelluer, Peyton;Luvu, Frankie)." newcontext="V,1,10,V41">
+    <p_ko vh="H" name="Powell, Erik" gain="45"></p_ko>
+    <p_kr vh="V" name="Wright,R" gain="21"></p_kr>
+    <p_tk vh="H" name="Pelluer, Peyton" assist="Y"></p_tk>
+    <p_tk vh="H" name="Luvu, Frankie" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V41,11:46" vh="V" spot="V41" clock="11:46" driveindex="16,132"></drivestart>
+   <play hasball="STAN" down="1" togo="10" spot="STAN41" context="V,1,10,V41" playid="16,1,133" clock="11:46" tokens="{DRIVE}:11:46"
+      text="STANFORD drive start at 11:46." newcontext="V,1,10,V41">
+   </play>
+   <play hasball="STAN" down="1" togo="10" spot="STAN41" context="V,1,10,V41" playid="16,2,134" type="P" first="P" tokens="PASS:0H,C,2J,H45 TACK:30,10"
+      text="Hogan,K pass complete to Love,B for 14 yards to the WSU45, 1ST DOWN STAN (Taliulu, Taylor;Parker,Kirkland)." newcontext="V,1,10,H45">
+    <p_pa vh="V" qb="Hogan,K" result="COMP" rcv="Love,B" gain="14"></p_pa>
+    <p_tk vh="H" name="Taliulu, Taylor" assist="Y"></p_tk>
+    <p_tk vh="H" name="Parker,Kirkland" assist="Y"></p_tk>
+   </play>
+   <play hasball="STAN" down="1" togo="10" spot="WSU45" context="V,1,10,H45" playid="16,3,135" type="R" tokens="RUSH:0E,H41, TACK:99"
+      text="McCaffrey,C rush for 4 yards to the WSU41 (Paulo, Darryl)." newcontext="V,2,6,H41">
+    <p_ru vh="V" name="McCaffrey,C" gain="4"></p_ru>
+    <p_tk vh="H" name="Paulo, Darryl"></p_tk>
+   </play>
+   <play hasball="STAN" down="2" togo="6" spot="WSU41" context="V,2,6,H41" playid="16,4,136" type="P" tokens="PASS:0H,D,2J,*"
+      text="Hogan,K pass incomplete to Love,B, dropped pass." newcontext="V,3,6,H41">
+    <p_pa vh="V" qb="Hogan,K" result="DROP" rcv="Love,B"></p_pa>
+   </play>
+   <play hasball="STAN" down="3" togo="6" spot="WSU41" context="V,3,6,H41" playid="16,5,137" type="R" first="R" tokens="RUSH:0H,H02, TACK:27"
+      text="Hogan,K rush for 39 yards to the WSU2, 1ST DOWN STAN (Pippins, Mar.)." newcontext="V,1,0,H02">
+    <p_ru vh="V" name="Hogan,K" gain="39"></p_ru>
+    <p_tk vh="H" name="Pippins, Mar."></p_tk>
+   </play>
+   <play hasball="STAN" down="1" togo="0" spot="WSU02" context="V,1,0,H02" playid="16,6,138" type="R" tokens="RUSH:2B,H02, TACK:90,8"
+      text="Wright,R rush for no gain to the WSU2 (Ekuale, Daniel;Allison, J.)." newcontext="V,2,0,H02">
+    <p_ru vh="V" name="Wright,R" gain="0"></p_ru>
+    <p_tk vh="H" name="Ekuale, Daniel" assist="Y"></p_tk>
+    <p_tk vh="H" name="Allison, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="STAN" down="2" togo="0" spot="WSU02" context="V,2,0,H02" playid="16,7,139" type="R" score="Y" vscore="9" hscore="15" clock="09:15" tokens="RUSH:2B,H00, T:09:15"
+      text="Wright,R rush for 2 yards to the WSU0, TOUCHDOWN, clock 09:15." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Wright,R" gain="2"></p_ru>
+   </play>
+   <play hasball="STAN" down="1" togo="0" spot="WSU03" context="V,1,0,H03" playid="16,8,140" type="X" score="Y" vscore="10" hscore="15" tokens="PAT:K,3D,G"
+      text="Ukropina,C kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Ukropina,C" qb="Ukropina,C" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="10" H="15"></score>
+   <drivesum plays="6" yards="59" top="2:31" driveindex="16" complete="Y"></drivesum>
+   <play hasball="STAN" down="1" togo="0" spot="STAN35" context="V,1,0,V35" playid="16,9,141" type="K" tokens="KO:14,H00 TB:"
+      text="Bailey,J kickoff 65 yards to the WSU0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Bailey,J" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,09:15" vh="H" spot="H25" clock="09:15" driveindex="17,141"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU25" context="H,1,10,H25" playid="17,1,142" clock="09:15" tokens="{DRIVE}:09:15"
+      text="WASHINGTON STATE drive start at 09:15." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU25" context="H,1,10,H25" playid="17,2,143" type="P" tokens="PASS:4,C,80,H32 TACK:5"
+      text="Falk, Luke pass complete to Williams, Dom for 7 yards to the WSU32 (Whitfield,K)." newcontext="H,2,3,H32">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Williams, Dom" gain="7"></p_pa>
+    <p_tk vh="V" name="Whitfield,K"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="3" spot="WSU32" context="H,2,3,H32" playid="17,3,144" type="P" first="P" tokens="PASS:4,C,21,V35 TACK:4"
+      text="Falk, Luke pass complete to Cracraft, River for 33 yards to the STAN35, 1ST DOWN WSU (Martinez,B)." newcontext="H,1,10,V35">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Cracraft, River" gain="33"></p_pa>
+    <p_tk vh="V" name="Martinez,B"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="STAN35" context="H,1,10,V35" playid="17,4,145" type="R" first="R" tokens="RUSH:23,V19, OB: TACK:15"
+      text="Wicks, Gerard rush for 16 yards to the STAN19, 1ST DOWN WSU, out-of-bounds (Perez,J)." ob="Y" newcontext="H,1,10,V19">
+    <p_ru vh="H" name="Wicks, Gerard" gain="16"></p_ru>
+    <p_tk vh="V" name="Perez,J"></p_tk>
+   </play>
+   <comment text="Stanford's Jordan Perez injured on play."></comment>
+   <play hasball="WSU" down="1" togo="10" spot="STAN19" context="H,1,10,V19" playid="17,5,147" type="P" first="P" score="Y" vscore="10" hscore="21" clock="07:52" tokens="PASS:4,C,9,V00 T:07:52"
+      text="Falk, Luke pass complete to Marks, Gabe for 19 yards to the STAN0, 1ST DOWN WSU, TOUCHDOWN, clock 07:52." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Marks, Gabe" gain="19"></p_pa>
+   </play>
+   <comment text="Previous play reviewed, call  confirmed."></comment>
+   <play hasball="WSU" down="1" togo="0" spot="STAN03" context="H,1,0,V03" playid="17,6,149" type="X" score="Y" vscore="10" hscore="22" tokens="PAT:K,46,G"
+      text="Powell, Erik kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Powell, Erik" qb="Powell, Erik" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="10" H="22"></score>
+   <drivesum plays="4" yards="75" top="1:23" driveindex="17" complete="Y"></drivesum>
+   <play hasball="WSU" down="1" togo="0" spot="WSU35" context="H,1,0,H35" playid="17,7,150" type="K" tokens="KO:46,V22 RET:0I,V45 TACK:29"
+      text="Powell, Erik kickoff 43 yards to the STAN22, Schultz,D return 23 yards to the STAN45 (Henry, Parker)." newcontext="V,1,10,V45">
+    <p_ko vh="H" name="Powell, Erik" gain="43"></p_ko>
+    <p_kr vh="V" name="Schultz,D" gain="23"></p_kr>
+    <p_tk vh="H" name="Henry, Parker"></p_tk>
+   </play>
+   <drivestart poss="V,V45,07:41" vh="V" spot="V45" clock="07:41" driveindex="18,150"></drivestart>
+   <play hasball="STAN" down="1" togo="10" spot="STAN45" context="V,1,10,V45" playid="18,1,151" clock="07:41" tokens="{DRIVE}:07:41"
+      text="STANFORD drive start at 07:41." newcontext="V,1,10,V45">
+   </play>
+   <play hasball="STAN" down="1" togo="10" spot="STAN45" context="V,1,10,V45" playid="18,2,152" type="R" tokens="RUSH:0E,V43, TACK:29,99"
+      text="McCaffrey,C rush for loss of 2 yards to the STAN43 (Henry, Parker;Paulo, Darryl)." newcontext="V,2,12,V43">
+    <p_ru vh="V" name="McCaffrey,C" gain="-2"></p_ru>
+    <p_tk vh="H" name="Henry, Parker" assist="Y"></p_tk>
+    <p_tk vh="H" name="Paulo, Darryl" assist="Y"></p_tk>
+   </play>
+   <play hasball="STAN" down="2" togo="12" spot="STAN43" context="V,2,12,V43" playid="18,3,153" type="P" tokens="PASS:0H,C,0C,V50 TACK:10"
+      text="Hogan,K pass complete to Rector,M for 7 yards to the 50 yardline (Parker,Kirkland)." newcontext="V,3,5,V50">
+    <p_pa vh="V" qb="Hogan,K" result="COMP" rcv="Rector,M" gain="7"></p_pa>
+    <p_tk vh="H" name="Parker,Kirkland"></p_tk>
+   </play>
+   <play hasball="STAN" down="3" togo="5" spot="STAN50" context="V,3,5,V50" playid="18,4,154" type="R" first="R" tokens="RUSH:0H,H34, TACK:18"
+      text="Hogan,K rush for 16 yards to the WSU34, 1ST DOWN STAN (Luani, Shalom)." newcontext="V,1,10,H34">
+    <p_ru vh="V" name="Hogan,K" gain="16"></p_ru>
+    <p_tk vh="H" name="Luani, Shalom"></p_tk>
+   </play>
+   <play hasball="STAN" down="1" togo="10" spot="WSU34" context="V,1,10,H34" playid="18,5,155" type="R" tokens="RUSH:0E,H29, TACK:50,29"
+      text="McCaffrey,C rush for 5 yards to the WSU29 (Mata'afa, Herc.;Henry, Parker)." newcontext="V,2,5,H29">
+    <p_ru vh="V" name="McCaffrey,C" gain="5"></p_ru>
+    <p_tk vh="H" name="Mata'afa, Herc." assist="Y"></p_tk>
+    <p_tk vh="H" name="Henry, Parker" assist="Y"></p_tk>
+   </play>
+   <play hasball="STAN" down="2" togo="5" spot="WSU29" context="V,2,5,H29" playid="18,6,156" type="P" first="P" tokens="PASS:0H,C,0E,H20 TACK:3,47"
+      text="Hogan,K pass complete to McCaffrey,C for 9 yards to the WSU20, 1ST DOWN STAN (McLennan, Ivan;Pelluer, Peyton)." newcontext="V,1,10,H20">
+    <p_pa vh="V" qb="Hogan,K" result="COMP" rcv="McCaffrey,C" gain="9"></p_pa>
+    <p_tk vh="H" name="McLennan, Ivan" assist="Y"></p_tk>
+    <p_tk vh="H" name="Pelluer, Peyton" assist="Y"></p_tk>
+   </play>
+   <comment text="Previous play reviewed, call stands."></comment>
+   <play hasball="STAN" down="1" togo="10" spot="WSU20" context="V,1,10,H20" playid="18,7,158" type="P" tokens="PASS:0H,I,18,*"
+      text="Hogan,K pass incomplete to Hooper,A." newcontext="V,2,10,H20">
+    <p_pa vh="V" qb="Hogan,K" result="INC" rcv="Hooper,A"></p_pa>
+   </play>
+   <play hasball="STAN" down="2" togo="10" spot="WSU20" context="V,2,10,H20" playid="18,8,159" type="R" tokens="RUSH:0H,H14, TACK:8"
+      text="Hogan,K rush for 6 yards to the WSU14 (Allison, J.)." newcontext="V,3,4,H14">
+    <p_ru vh="V" name="Hogan,K" gain="6"></p_ru>
+    <p_tk vh="H" name="Allison, J."></p_tk>
+   </play>
+   <play hasball="STAN" down="3" togo="4" spot="WSU14" context="V,3,4,H14" playid="18,9,160" type="P" tokens="PASS:0H,I,18,*"
+      text="Hogan,K pass incomplete to Hooper,A." newcontext="V,4,4,H14">
+    <p_pa vh="V" qb="Hogan,K" result="INC" rcv="Hooper,A"></p_pa>
+   </play>
+   <play hasball="STAN" down="4" togo="4" spot="WSU14" context="V,4,4,H14" playid="18,10,161" type="F" score="Y" vscore="13" hscore="22" clock="03:39" tokens="FGA:3D,32,G T:03:39"
+      text="Ukropina,C field goal attempt from 32 GOOD, clock 03:39." newcontext="V,1,0,V35">
+    <p_fg vh="V" name="Ukropina,C" distance="32" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="13" H="22"></score>
+   <drivesum plays="9" yards="41" top="4:02" driveindex="18" complete="Y"></drivesum>
+   <play hasball="STAN" down="1" togo="0" spot="STAN35" context="V,1,0,V35" playid="18,11,162" type="K" tokens="KO:14,H09 OB: SPOT:H,H35,Y"
+      text="Bailey,J kickoff 56 yards to the WSU9, out-of-bounds, WSU ball on WSU35." ob="Y" newcontext="H,1,10,H35">
+    <p_ko vh="V" name="Bailey,J" gain="56" result="O"></p_ko>
+   </play>
+   <drivestart poss="H,H35,03:39" vh="H" spot="H35" clock="03:39" driveindex="19,162"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU35" context="H,1,10,H35" playid="19,1,163" clock="03:39" tokens="{DRIVE}:03:39"
+      text="WASHINGTON STATE drive start at 03:39." newcontext="H,1,10,H35">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU35" context="H,1,10,H35" playid="19,2,164" type="P" tokens="PASS:4,C,24,H33 TACK:4"
+      text="Falk, Luke pass complete to Harrington, K. for loss of 2 yards to the WSU33 (Martinez,B)." newcontext="H,2,12,H33">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Harrington, K." gain="-2"></p_pa>
+    <p_tk vh="V" name="Martinez,B"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="12" spot="WSU33" context="H,2,12,H33" playid="19,3,165" type="E" tokens="PASS:4,C,21,H38 TACK:4 PEN:H,HO,A,24,H23,N NOPLAY:"
+      text="Falk, Luke pass complete to Cracraft, River for 5 yards to the WSU38 (Martinez,B), PENALTY WSU holding (Harrington, K.) 10 yards to the WSU23, NO PLAY." newcontext="H,2,22,H23">
+    <p_pn vh="H" code="HO" type="holding" name="Harrington, K." result="ACCEPT" at="H33" yards="10"></p_pn>
+   </play>
+   <play hasball="WSU" down="2" togo="22" spot="WSU23" context="H,2,22,H23" playid="19,4,166" type="P" tokens="PASS:4,I,85,* BRUP:11"
+      text="Falk, Luke pass incomplete to Thompson, John (Alexander,T)." newcontext="H,3,22,H23">
+    <p_pa vh="H" qb="Falk, Luke" result="INC" rcv="Thompson, John"></p_pa>
+    <p_bu vh="V" name="Alexander,T"></p_bu>
+   </play>
+   <play hasball="WSU" down="3" togo="22" spot="WSU23" context="H,3,22,H23" playid="19,5,167" type="P" tokens="PASS:4,I,12,*"
+      text="Falk, Luke pass incomplete to Martin Jr., Tav." newcontext="H,4,22,H23">
+    <p_pa vh="H" qb="Falk, Luke" result="INC" rcv="Martin Jr., Tav"></p_pa>
+   </play>
+   <play hasball="WSU" down="4" togo="22" spot="WSU23" context="H,4,22,H23" playid="19,6,168" type="U" tokens="PUNT:9E,V41 FC:0E"
+      text="Charme, Zach punt 36 yards to the STAN41, fair catch by McCaffrey,C." newcontext="V,1,10,V41">
+    <p_pu vh="H" name="Charme, Zach" gain="36" fc="McCaffrey,C"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-12" top="1:10" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="V,V41,02:29" vh="V" spot="V41" clock="02:29" driveindex="20,168"></drivestart>
+   <play hasball="STAN" down="1" togo="10" spot="STAN41" context="V,1,10,V41" playid="20,1,169" clock="02:29" tokens="{DRIVE}:02:29"
+      text="STANFORD drive start at 02:29." newcontext="V,1,10,V41">
+   </play>
+   <play hasball="STAN" down="1" togo="10" spot="STAN41" context="V,1,10,V41" playid="20,2,170" type="R" first="R" score="Y" vscore="19" hscore="22" clock="02:17" tokens="RUSH:0H,H00, T:02:17"
+      text="Hogan,K rush for 59 yards to the WSU0, 1ST DOWN STAN, TOUCHDOWN, clock 02:17." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Hogan,K" gain="59"></p_ru>
+   </play>
+   <play hasball="STAN" down="1" togo="0" spot="WSU03" context="V,1,0,H03" playid="20,3,171" type="X" score="Y" vscore="20" hscore="22" tokens="PAT:K,3D,G"
+      text="Ukropina,C kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Ukropina,C" qb="Ukropina,C" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="20" H="22"></score>
+   <drivesum plays="1" yards="59" top="0:12" driveindex="20" complete="Y"></drivesum>
+   <play hasball="STAN" down="1" togo="0" spot="STAN35" context="V,1,0,V35" playid="20,4,172" type="K" tokens="KO:3D,H00 RET:12,H18 TACK:6"
+      text="Ukropina,C kickoff 65 yards to the WSU0, Martin Jr., Tav return 18 yards to the WSU18 (Thomas,T)." newcontext="H,1,10,H18">
+    <p_ko vh="V" name="Ukropina,C" gain="65"></p_ko>
+    <p_kr vh="H" name="Martin Jr., Tav" gain="18"></p_kr>
+    <p_tk vh="V" name="Thomas,T"></p_tk>
+   </play>
+   <drivestart poss="H,H18,02:10" vh="H" spot="H18" clock="02:10" driveindex="21,172"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU18" context="H,1,10,H18" playid="21,1,173" clock="02:10" tokens="{DRIVE}:02:10"
+      text="WASHINGTON STATE drive start at 02:10." newcontext="H,1,10,H18">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU18" context="H,1,10,H18" playid="21,2,174" type="R" tokens="RUSH:23,H20, TACK:7"
+      text="Wicks, Gerard rush for 2 yards to the WSU20 (Shittu,A)." newcontext="H,2,8,H20">
+    <p_ru vh="H" name="Wicks, Gerard" gain="2"></p_ru>
+    <p_tk vh="V" name="Shittu,A"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="8" spot="WSU20" context="H,2,8,H20" playid="21,3,175" type="P" turnover="I" tokens="PASS:4,X,24,H31 RET:24,H17 TACK:24"
+      text="Falk, Luke pass intercepted by Meeks,Q at the WSU31, Meeks,Q return 14 yards to the WSU17 (Harrington, K.)." newcontext="V,1,10,H17">
+    <p_pa vh="H" qb="Falk, Luke" result="INT"></p_pa>
+    <p_ir vh="V" name="Meeks,Q" at="H31" gain="14"></p_ir>
+    <p_tk vh="H" name="Harrington, K."></p_tk>
+   </play>
+   <drivesum plays="2" yards="2" top="0:38" driveindex="21" complete="Y"></drivesum>
+   <drivestart poss="V,H17,01:32" vh="V" spot="H17" clock="01:32" driveindex="22,175"></drivestart>
+   <play hasball="STAN" down="1" togo="10" spot="WSU17" context="V,1,10,H17" playid="22,1,176" clock="01:32" tokens="{DRIVE}:01:32"
+      text="STANFORD drive start at 01:32." newcontext="V,1,10,H17">
+   </play>
+   <play hasball="STAN" down="1" togo="10" spot="WSU17" context="V,1,10,H17" playid="22,2,177" type="R" tokens="RUSH:0E,H15, TACK:47"
+      text="McCaffrey,C rush for 2 yards to the WSU15 (Pelluer, Peyton)." newcontext="V,2,8,H15">
+    <p_ru vh="V" name="McCaffrey,C" gain="2"></p_ru>
+    <p_tk vh="H" name="Pelluer, Peyton"></p_tk>
+   </play>
+   <play hasball="STAN" down="2" togo="8" spot="WSU15" context="V,2,8,H15" playid="22,3,178" type="R" tokens="RUSH:0H,H08, TACK:18"
+      text="Hogan,K rush for 7 yards to the WSU8 (Luani, Shalom)." newcontext="V,3,1,H08">
+    <p_ru vh="V" name="Hogan,K" gain="7"></p_ru>
+    <p_tk vh="H" name="Luani, Shalom"></p_tk>
+   </play>
+   <score qtr="3" V="20" H="22"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="STAN">
+    <firstdowns no="5" rush="3" pass="2" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:35"></misc>
+    <rush att="11" yds="138" gain="140" loss="2" td="2" long="43"></rush>
+    <pass comp="3" att="6" int="0" yds="30" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="30" td="0" long="0"></rcv>
+    <ko no="4" yds="245" ob="2" tb="1"></ko>
+    <fg made="1" att="1" long="0" blkd="0"></fg>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="12" tacka="0" tot_tack="12" tflua="1" tfla="0" tflyds="2" sacks="0" sackyds="0" brup="2" int="1" intyds="14"></defense>
+    <kr no="2" yds="44" td="0" long="8"></kr>
+    <ir no="1" yds="14" td="0" long="14"></ir>
+    <scoring td="2" fg="1" patkick="2"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WSU">
+    <firstdowns no="7" rush="1" pass="6" penalty="0"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:25"></misc>
+    <rush att="3" yds="21" gain="21" loss="0" td="0" long="0"></rush>
+    <pass comp="9" att="15" int="1" yds="108" td="1" long="6" sacks="0" sackyds="0"></pass>
+    <rcv no="9" yds="108" td="1" long="6"></rcv>
+    <punt no="1" yds="36" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="36.0"></punt>
+    <ko no="2" yds="88" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="0" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="9" tacka="12" tot_tack="21" tflua="0" tfla="2" tflyds="2" sacks="0" sackyds="0"></defense>
+    <kr no="1" yds="18" td="0" long="0"></kr>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="STAN" down="3" togo="1" spot="WSU08" context="V,3,1,H08" playid="22,4,179" type="#" clock="15:00" tokens="Q:4 T:15:00"
+      text="Start of 4th quarter, clock 15:00." newcontext="V,3,1,H08">
+   </play>
+   <play hasball="STAN" down="3" togo="1" spot="WSU08" context="V,3,1,H08" playid="22,5,180" type="R" first="R" tokens="RUSH:2B,H06, TACK:8"
+      text="Wright,R rush for 2 yards to the WSU6, 1ST DOWN STAN (Allison, J.)." newcontext="V,1,0,H06">
+    <p_ru vh="V" name="Wright,R" gain="2"></p_ru>
+    <p_tk vh="H" name="Allison, J."></p_tk>
+   </play>
+   <play hasball="STAN" down="1" togo="0" spot="WSU06" context="V,1,0,H06" playid="22,6,181" type="R" score="Y" vscore="26" hscore="22" clock="14:19" tokens="RUSH:0H,H00, T:14:19"
+      text="Hogan,K rush for 6 yards to the WSU0, TOUCHDOWN, clock 14:19." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Hogan,K" gain="6"></p_ru>
+   </play>
+   <play hasball="STAN" down="1" togo="0" spot="WSU03" context="V,1,0,H03" playid="22,7,182" type="X" score="Y" vscore="27" hscore="22" tokens="PAT:K,3D,G"
+      text="Ukropina,C kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Ukropina,C" qb="Ukropina,C" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="27" H="22"></score>
+   <drivesum plays="4" yards="17" top="2:13" driveindex="22" complete="Y"></drivesum>
+   <play hasball="STAN" down="1" togo="0" spot="STAN35" context="V,1,0,V35" playid="22,8,183" type="K" tokens="KO:3D,H06 RET:12,H19 TACK:31"
+      text="Ukropina,C kickoff 59 yards to the WSU6, Martin Jr., Tav return 13 yards to the WSU19 (Branch,M)." newcontext="H,1,10,H19">
+    <p_ko vh="V" name="Ukropina,C" gain="59"></p_ko>
+    <p_kr vh="H" name="Martin Jr., Tav" gain="13"></p_kr>
+    <p_tk vh="V" name="Branch,M"></p_tk>
+   </play>
+   <drivestart poss="H,H19,14:14" vh="H" spot="H19" clock="14:14" driveindex="23,183"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU19" context="H,1,10,H19" playid="23,1,184" clock="14:14" tokens="{DRIVE}:14:14"
+      text="WASHINGTON STATE drive start at 14:14." newcontext="H,1,10,H19">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU19" context="H,1,10,H19" playid="23,2,185" type="P" tokens="PASS:4,I,9,* BRUP:17"
+      text="Falk, Luke pass incomplete to Marks, Gabe (Scarlett,B)." newcontext="H,2,10,H19">
+    <p_pa vh="H" qb="Falk, Luke" result="INC" rcv="Marks, Gabe"></p_pa>
+    <p_bu vh="V" name="Scarlett,B"></p_bu>
+   </play>
+   <play hasball="WSU" down="2" togo="10" spot="WSU19" context="H,2,10,H19" playid="23,3,186" type="P" tokens="PASS:4,I,85,* PEN:H,HO,D"
+      text="Falk, Luke pass incomplete to Thompson, John, PENALTY WSU holding declined." newcontext="H,3,10,H19">
+    <p_pa vh="H" qb="Falk, Luke" result="INC" rcv="Thompson, John"></p_pa>
+    <p_pn vh="H" code="HO" type="holding" name="Thompson, John" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="WSU" down="3" togo="10" spot="WSU19" context="H,3,10,H19" playid="23,4,187" type="P" first="P" tokens="PASS:4,C,9,H41 TACK:29"
+      text="Falk, Luke pass complete to Marks, Gabe for 22 yards to the WSU41, 1ST DOWN WSU (Lloyd,D)." newcontext="H,1,10,H41">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Marks, Gabe" gain="22"></p_pa>
+    <p_tk vh="V" name="Lloyd,D"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU41" context="H,1,10,H41" playid="23,5,188" type="P" tokens="PASS:4,C,23,H43 TACK:48,13"
+      text="Falk, Luke pass complete to Wicks, Gerard for 2 yards to the WSU43 (Anderson,K;Holder,A)." newcontext="H,2,8,H43">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Wicks, Gerard" gain="2"></p_pa>
+    <p_tk vh="V" name="Anderson,K" assist="Y"></p_tk>
+    <p_tk vh="V" name="Holder,A" assist="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="8" spot="WSU43" context="H,2,8,H43" playid="23,6,189" type="R" first="R" tokens="RUSH:4,V48,"
+      text="Falk, Luke rush for 9 yards to the STAN48, 1ST DOWN WSU." newcontext="H,1,10,V48">
+    <p_ru vh="H" name="Falk, Luke" gain="9"></p_ru>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="STAN48" context="H,1,10,V48" playid="23,7,190" type="R" tokens="RUSH:25,V42, OB: TACK:15,34"
+      text="Morrow, Jamal rush for 6 yards to the STAN42, out-of-bounds (Perez,J;Kalambayi,P)." ob="Y" newcontext="H,2,4,V42">
+    <p_ru vh="H" name="Morrow, Jamal" gain="6"></p_ru>
+    <p_tk vh="V" name="Perez,J" assist="Y"></p_tk>
+    <p_tk vh="V" name="Kalambayi,P" assist="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="4" spot="STAN42" context="H,2,4,V42" playid="23,8,191" type="R" first="R" tokens="RUSH:25,V36, TACK:13"
+      text="Morrow, Jamal rush for 6 yards to the STAN36, 1ST DOWN WSU (Holder,A)." newcontext="H,1,10,V36">
+    <p_ru vh="H" name="Morrow, Jamal" gain="6"></p_ru>
+    <p_tk vh="V" name="Holder,A"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="STAN36" context="H,1,10,V36" playid="23,9,192" type="E" tokens="PEN:H,FS,A,61,V41,N DEAD:"
+      text="PENALTY WSU false start (Madison, Cole) 5 yards to the STAN41, deadball foul." newcontext="H,1,15,V41">
+    <p_pn vh="H" code="FS" type="false start" name="Madison, Cole" result="ACCEPT" at="V36" yards="5"></p_pn>
+   </play>
+   <play hasball="WSU" down="1" togo="15" spot="STAN41" context="H,1,15,V41" playid="23,10,193" type="P" tokens="PASS:4,C,26,V32 TACK:4"
+      text="Falk, Luke pass complete to Baker, Tyler for 9 yards to the STAN32 (Martinez,B)." newcontext="H,2,6,V32">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Baker, Tyler" gain="9"></p_pa>
+    <p_tk vh="V" name="Martinez,B"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="6" spot="STAN32" context="H,2,6,V32" playid="23,11,194" type="P" first="P" tokens="PASS:4,C,21,V21 TACK:21"
+      text="Falk, Luke pass complete to Cracraft, River for 11 yards to the STAN21, 1ST DOWN WSU (Harris,R)." newcontext="H,1,10,V21">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Cracraft, River" gain="11"></p_pa>
+    <p_tk vh="V" name="Harris,R"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="STAN21" context="H,1,10,V21" playid="23,12,195" type="P" tokens="PASS:4,C,85,V14 TACK:4"
+      text="Falk, Luke pass complete to Thompson, John for 7 yards to the STAN14 (Martinez,B)." newcontext="H,2,3,V14">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Thompson, John" gain="7"></p_pa>
+    <p_tk vh="V" name="Martinez,B"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="3" spot="STAN14" context="H,2,3,V14" playid="23,13,196" type="P" tokens="PASS:4,I,80,*"
+      text="Falk, Luke pass incomplete to Williams, Dom." newcontext="H,3,3,V14">
+    <p_pa vh="H" qb="Falk, Luke" result="INC" rcv="Williams, Dom"></p_pa>
+   </play>
+   <play hasball="WSU" down="3" togo="3" spot="STAN14" context="H,3,3,V14" playid="23,14,197" type="R" tokens="RUSH:23,V12, TACK:90"
+      text="Wicks, Gerard rush for 2 yards to the STAN12 (Thomas,S)." newcontext="H,4,1,V12">
+    <p_ru vh="H" name="Wicks, Gerard" gain="2"></p_ru>
+    <p_tk vh="V" name="Thomas,S"></p_tk>
+   </play>
+   <play hasball="WSU" down="4" togo="1" spot="STAN12" context="H,4,1,V12" playid="23,15,198" type="P" first="P" tokens="PASS:4,C,9,V04 TACK:15"
+      text="Falk, Luke pass complete to Marks, Gabe for 8 yards to the STAN4, 1ST DOWN WSU (Perez,J)." newcontext="H,1,0,V04">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Marks, Gabe" gain="8"></p_pa>
+    <p_tk vh="V" name="Perez,J"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="0" spot="STAN04" context="H,1,0,V04" playid="23,16,199" type="R" tokens="RUSH:23,V01, TACK:4,7"
+      text="Wicks, Gerard rush for 3 yards to the STAN1 (Martinez,B;Shittu,A)." newcontext="H,2,0,V01">
+    <p_ru vh="H" name="Wicks, Gerard" gain="3"></p_ru>
+    <p_tk vh="V" name="Martinez,B" assist="Y"></p_tk>
+    <p_tk vh="V" name="Shittu,A" assist="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="0" spot="STAN01" context="H,2,0,V01" playid="23,17,200" type="P" score="Y" vscore="27" hscore="28" clock="07:56" tokens="PASS:4,C,21,V00 T:07:56"
+      text="Falk, Luke pass complete to Cracraft, River for 1 yard to the STAN0, TOUCHDOWN, clock 07:56." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Cracraft, River" gain="1"></p_pa>
+   </play>
+   <play hasball="WSU" down="1" togo="0" spot="STAN03" context="H,1,0,V03" playid="23,18,201" type="E" tokens="PAT:P,4,M PEN:V,RP,A,TM,V01,N NOPLAY:"
+      text="Falk, Luke pass attempt failed, PENALTY STAN roughing passer 2 yards to the STAN1, NO PLAY." newcontext="H,1,0,V01">
+    <p_pn vh="V" code="RP" type="roughing passer" result="ACCEPT" at="V03" yards="2"></p_pn>
+   </play>
+   <play hasball="WSU" down="1" togo="0" spot="STAN01" context="H,1,0,V01" playid="23,19,202" type="X" tokens="PAT:P,4,M"
+      text="Falk, Luke pass attempt failed." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Falk, Luke" qb="Falk, Luke" type="P" result="MISSED"></p_pat>
+   </play>
+   <score V="27" H="28"></score>
+   <drivesum plays="15" yards="81" top="6:18" driveindex="23" complete="Y"></drivesum>
+   <play hasball="WSU" down="1" togo="0" spot="WSU35" context="H,1,0,H35" playid="23,20,203" type="K" tokens="KO:46,V00 TB:"
+      text="Powell, Erik kickoff 65 yards to the STAN0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Powell, Erik" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,07:56" vh="V" spot="V25" clock="07:56" driveindex="24,203"></drivestart>
+   <play hasball="STAN" down="1" togo="10" spot="STAN25" context="V,1,10,V25" playid="24,1,204" clock="07:56" tokens="{DRIVE}:07:56"
+      text="STANFORD drive start at 07:56." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="STAN" down="1" togo="10" spot="STAN25" context="V,1,10,V25" playid="24,2,205" type="R" tokens="RUSH:0E,V30, TACK:29"
+      text="McCaffrey,C rush for 5 yards to the STAN30 (Henry, Parker)." newcontext="V,2,5,V30">
+    <p_ru vh="V" name="McCaffrey,C" gain="5"></p_ru>
+    <p_tk vh="H" name="Henry, Parker"></p_tk>
+   </play>
+   <play hasball="STAN" down="2" togo="5" spot="STAN30" context="V,2,5,V30" playid="24,3,206" type="R" first="R" tokens="RUSH:0E,V35, TACK:3"
+      text="McCaffrey,C rush for 5 yards to the STAN35, 1ST DOWN STAN (McLennan, Ivan)." newcontext="V,1,10,V35">
+    <p_ru vh="V" name="McCaffrey,C" gain="5"></p_ru>
+    <p_tk vh="H" name="McLennan, Ivan"></p_tk>
+   </play>
+   <play hasball="STAN" down="1" togo="10" spot="STAN35" context="V,1,10,V35" playid="24,4,207" type="R" tokens="RUSH:0H,V36, TACK:47"
+      text="Hogan,K rush for 1 yard to the STAN36 (Pelluer, Peyton)." newcontext="V,2,9,V36">
+    <p_ru vh="V" name="Hogan,K" gain="1"></p_ru>
+    <p_tk vh="H" name="Pelluer, Peyton"></p_tk>
+   </play>
+   <play hasball="STAN" down="2" togo="9" spot="STAN36" context="V,2,9,V36" playid="24,5,208" type="R" tokens="RUSH:0H,V39, TACK:3"
+      text="Hogan,K rush for 3 yards to the STAN39 (McLennan, Ivan)." newcontext="V,3,6,V39">
+    <p_ru vh="V" name="Hogan,K" gain="3"></p_ru>
+    <p_tk vh="H" name="McLennan, Ivan"></p_tk>
+   </play>
+   <play hasball="STAN" down="3" togo="6" spot="STAN39" context="V,3,6,V39" playid="24,6,209" type="P" tokens="PASS:0H,I,18,* BRUP:18"
+      text="Hogan,K pass incomplete to Hooper,A (Luani, Shalom)." newcontext="V,4,6,V39">
+    <p_pa vh="V" qb="Hogan,K" result="INC" rcv="Hooper,A"></p_pa>
+    <p_bu vh="H" name="Luani, Shalom"></p_bu>
+   </play>
+   <play hasball="STAN" down="4" togo="6" spot="STAN39" context="V,4,6,V39" playid="24,7,210" type="U" tokens="PUNT:4G,H28 DN:"
+      text="Robinson,A punt 33 yards to the WSU28, downed." newcontext="H,1,10,H28">
+    <p_pu vh="V" name="Robinson,A" gain="33"></p_pu>
+   </play>
+   <drivesum plays="5" yards="14" top="2:48" driveindex="24" complete="Y"></drivesum>
+   <drivestart poss="H,H28,05:08" vh="H" spot="H28" clock="05:08" driveindex="25,210"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU28" context="H,1,10,H28" playid="25,1,211" clock="05:08" tokens="{DRIVE}:05:08"
+      text="WASHINGTON STATE drive start at 05:08." newcontext="H,1,10,H28">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU28" context="H,1,10,H28" playid="25,2,212" type="R" tokens="RUSH:23,H31, TACK:4"
+      text="Wicks, Gerard rush for 3 yards to the WSU31 (Martinez,B)." newcontext="H,2,7,H31">
+    <p_ru vh="H" name="Wicks, Gerard" gain="3"></p_ru>
+    <p_tk vh="V" name="Martinez,B"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="7" spot="WSU31" context="H,2,7,H31" playid="25,3,213" type="R" tokens="RUSH:23,H35, TACK:34"
+      text="Wicks, Gerard rush for 4 yards to the WSU35 (Kalambayi,P)." newcontext="H,3,3,H35">
+    <p_ru vh="H" name="Wicks, Gerard" gain="4"></p_ru>
+    <p_tk vh="V" name="Kalambayi,P"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="3" spot="WSU35" context="H,3,3,H35" playid="25,4,214" type="E" first="E" tokens="PASS:4,S,TM,H29 SACK:32 PEN:V,HO,A,TM,H45,1 NOPLAY:"
+      text="Falk, Luke sacked for loss of 6 yards to the WSU29 (Alfieri,J), PENALTY STAN holding 10 yards to the WSU45, 1ST DOWN WSU, NO PLAY." newcontext="H,1,10,H45">
+    <p_pn vh="V" code="HO" type="holding" result="ACCEPT" at="H35" yards="10"></p_pn>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU45" context="H,1,10,H45" playid="25,5,215" type="P" tokens="PASS:4,I,80,* QBH:V,55"
+      text="Falk, Luke pass incomplete to Williams, Dom, QB hurry by Lohn,N." newcontext="H,2,10,H45">
+    <p_pa vh="H" qb="Falk, Luke" result="INC" rcv="Williams, Dom"></p_pa>
+    <p_qbh vh="V" name="Lohn,N"></p_qbh>
+   </play>
+   <play hasball="WSU" down="2" togo="10" spot="WSU45" context="H,2,10,H45" playid="25,6,216" type="P" turnover="I" tokens="PASS:4,X,24,H48 RET:24,H39 TACK:85"
+      text="Falk, Luke pass intercepted by Meeks,Q at the WSU48, Meeks,Q return 9 yards to the WSU39 (Thompson, John)." newcontext="V,1,10,H39">
+    <p_pa vh="H" qb="Falk, Luke" result="INT"></p_pa>
+    <p_ir vh="V" name="Meeks,Q" at="H48" gain="9"></p_ir>
+    <p_tk vh="H" name="Thompson, John"></p_tk>
+   </play>
+   <drivesum plays="4" yards="17" top="1:41" driveindex="25" complete="Y"></drivesum>
+   <drivestart poss="V,H39,03:27" vh="V" spot="H39" clock="03:27" driveindex="26,216"></drivestart>
+   <play hasball="STAN" down="1" togo="10" spot="WSU39" context="V,1,10,H39" playid="26,1,217" clock="03:27" tokens="{DRIVE}:03:27"
+      text="STANFORD drive start at 03:27." newcontext="V,1,10,H39">
+   </play>
+   <play hasball="STAN" down="1" togo="10" spot="WSU39" context="V,1,10,H39" playid="26,2,218" type="R" first="R" tokens="RUSH:0E,H09, TACK:10"
+      text="McCaffrey,C rush for 30 yards to the WSU9, 1ST DOWN STAN (Parker,Kirkland)." newcontext="V,1,0,H09">
+    <p_ru vh="V" name="McCaffrey,C" gain="30"></p_ru>
+    <p_tk vh="H" name="Parker,Kirkland"></p_tk>
+   </play>
+   <play hasball="STAN" down="1" togo="0" spot="WSU09" context="V,1,0,H09" playid="26,3,219" type="R" tokens="RUSH:0E,H05, TACK:10,47"
+      text="McCaffrey,C rush for 4 yards to the WSU5 (Parker,Kirkland;Pelluer, Peyton)." newcontext="V,2,0,H05">
+    <p_ru vh="V" name="McCaffrey,C" gain="4"></p_ru>
+    <p_tk vh="H" name="Parker,Kirkland" assist="Y"></p_tk>
+    <p_tk vh="H" name="Pelluer, Peyton" assist="Y"></p_tk>
+   </play>
+   <play hasball="STAN" down="2" togo="0" spot="WSU05" context="V,2,0,H05" playid="26,4,220" type="R" tokens="RUSH:0H,H04, TACK:47"
+      text="Hogan,K rush for 1 yard to the WSU4 (Pelluer, Peyton)." newcontext="V,3,0,H04">
+    <p_ru vh="V" name="Hogan,K" gain="1"></p_ru>
+    <p_tk vh="H" name="Pelluer, Peyton"></p_tk>
+   </play>
+   <play hasball="STAN" down="3" togo="0" spot="WSU04" context="V,3,0,H04" playid="26,5,221" type="#" clock="02:04" tokens="TOUT:H T:02:04"
+      text="Timeout Washington State, clock 02:04." newcontext="V,3,0,H04">
+    <p_to vh="H" team="Washington State"></p_to>
+   </play>
+   <play hasball="STAN" down="3" togo="0" spot="WSU04" context="V,3,0,H04" playid="26,6,222" type="#" clock="02:04" tokens="TOUT:V T:02:04"
+      text="Timeout Stanford, clock 02:04." newcontext="V,3,0,H04">
+    <p_to vh="V" team="Stanford"></p_to>
+   </play>
+   <play hasball="STAN" down="3" togo="0" spot="WSU04" context="V,3,0,H04" playid="26,7,223" type="R" tokens="RUSH:0E,H02, TACK:29"
+      text="McCaffrey,C rush for 2 yards to the WSU2 (Henry, Parker)." newcontext="V,4,0,H02">
+    <p_ru vh="V" name="McCaffrey,C" gain="2"></p_ru>
+    <p_tk vh="H" name="Henry, Parker"></p_tk>
+   </play>
+   <play hasball="STAN" down="4" togo="0" spot="WSU02" context="V,4,0,H02" playid="26,8,224" type="#" clock="01:58" tokens="TOUT:H T:01:58"
+      text="Timeout Washington State, clock 01:58." newcontext="V,4,0,H02">
+    <p_to vh="H" team="Washington State"></p_to>
+   </play>
+   <play hasball="STAN" down="4" togo="0" spot="WSU02" context="V,4,0,H02" playid="26,9,225" type="F" score="Y" vscore="30" hscore="28" clock="01:54" tokens="FGA:3D,19,G T:01:54"
+      text="Ukropina,C field goal attempt from 19 GOOD, clock 01:54." newcontext="V,1,0,V35">
+    <p_fg vh="V" name="Ukropina,C" distance="19" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="30" H="28"></score>
+   <drivesum plays="5" yards="37" top="1:33" driveindex="26" complete="Y"></drivesum>
+   <play hasball="STAN" down="1" togo="0" spot="STAN35" context="V,1,0,V35" playid="26,10,226" type="K" tokens="KO:3D,H00 TB:"
+      text="Ukropina,C kickoff 65 yards to the WSU0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Ukropina,C" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,01:54" vh="H" spot="H25" clock="01:54" driveindex="27,226"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU25" context="H,1,10,H25" playid="27,1,227" clock="01:54" tokens="{DRIVE}:01:54"
+      text="WASHINGTON STATE drive start at 01:54." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU25" context="H,1,10,H25" playid="27,2,228" type="P" tokens="PASS:4,C,80,H30 TACK:24"
+      text="Falk, Luke pass complete to Williams, Dom for 5 yards to the WSU30 (Meeks,Q)." newcontext="H,2,5,H30">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Williams, Dom" gain="5"></p_pa>
+    <p_tk vh="V" name="Meeks,Q"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="5" spot="WSU30" context="H,2,5,H30" playid="27,3,229" type="P" tokens="PASS:4,C,24,H34 TACK:7"
+      text="Falk, Luke pass complete to Harrington, K. for 4 yards to the WSU34 (Shittu,A)." newcontext="H,3,1,H34">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Harrington, K." gain="4"></p_pa>
+    <p_tk vh="V" name="Shittu,A"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="1" spot="WSU34" context="H,3,1,H34" playid="27,4,230" type="R" tokens="RUSH:24,H34, TACK:5,7"
+      text="Harrington, K. rush for no gain to the WSU34 (Whitfield,K;Shittu,A)." newcontext="H,4,1,H34">
+    <p_ru vh="H" name="Harrington, K." gain="0"></p_ru>
+    <p_tk vh="V" name="Whitfield,K" assist="Y"></p_tk>
+    <p_tk vh="V" name="Shittu,A" assist="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="4" togo="1" spot="WSU34" context="H,4,1,H34" playid="27,5,231" type="P" first="P" tokens="PASS:4,C,15,H38 TACK:15"
+      text="Falk, Luke pass complete to Lewis, Robert for 4 yards to the WSU38, 1ST DOWN WSU (Perez,J)." newcontext="H,1,10,H38">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Lewis, Robert" gain="4"></p_pa>
+    <p_tk vh="V" name="Perez,J"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU38" context="H,1,10,H38" playid="27,6,232" type="P" tokens="PASS:4,C,24,H41 OB:"
+      text="Falk, Luke pass complete to Harrington, K. for 3 yards to the WSU41, out-of-bounds." ob="Y" newcontext="H,2,7,H41">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Harrington, K." gain="3"></p_pa>
+   </play>
+   <play hasball="WSU" down="2" togo="7" spot="WSU41" context="H,2,7,H41" playid="27,7,233" type="P" tokens="PASS:4,I,TM,* QBH:V,90"
+      text="Falk, Luke pass incomplete, QB hurry by Thomas,S." newcontext="H,3,7,H41">
+    <p_pa vh="H" qb="Falk, Luke" result="INC"></p_pa>
+    <p_qbh vh="V" name="Thomas,S"></p_qbh>
+   </play>
+   <comment text="Previous play ruled fumble, overturned on replay."></comment>
+   <play hasball="WSU" down="3" togo="7" spot="WSU41" context="H,3,7,H41" playid="27,8,235" type="P" tokens="PASS:4,I,23,* QBH:V,17"
+      text="Falk, Luke pass incomplete to Wicks, Gerard, QB hurry by Scarlett,B." newcontext="H,4,7,H41">
+    <p_pa vh="H" qb="Falk, Luke" result="INC" rcv="Wicks, Gerard"></p_pa>
+    <p_qbh vh="V" name="Scarlett,B"></p_qbh>
+   </play>
+   <play hasball="WSU" down="4" togo="7" spot="WSU41" context="H,4,7,H41" playid="27,9,236" type="P" first="P" tokens="PASS:4,C,80,V36 TACK:29"
+      text="Falk, Luke pass complete to Williams, Dom for 23 yards to the STAN36, 1ST DOWN WSU (Lloyd,D)." newcontext="H,1,10,V36">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Williams, Dom" gain="23"></p_pa>
+    <p_tk vh="V" name="Lloyd,D"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="STAN36" context="H,1,10,V36" playid="27,10,237" type="P" tokens="PASS:TM,I,TM,*"
+      text="TEAM pass incomplete." newcontext="H,2,10,V36">
+    <p_pa vh="H" qb="TEAM" result="INC"></p_pa>
+   </play>
+   <play hasball="WSU" down="2" togo="10" spot="STAN36" context="H,2,10,V36" playid="27,11,238" type="P" tokens="PASS:4,C,80,V29 OB:"
+      text="Falk, Luke pass complete to Williams, Dom for 7 yards to the STAN29, out-of-bounds." ob="Y" newcontext="H,3,3,V29">
+    <p_pa vh="H" qb="Falk, Luke" result="COMP" rcv="Williams, Dom" gain="7"></p_pa>
+   </play>
+   <play hasball="WSU" down="3" togo="3" spot="STAN29" context="H,3,3,V29" playid="27,12,239" type="R" tokens="RUSH:23,V27, TACK:4"
+      text="Wicks, Gerard rush for 2 yards to the STAN27 (Martinez,B)." newcontext="H,4,1,V27">
+    <p_ru vh="H" name="Wicks, Gerard" gain="2"></p_ru>
+    <p_tk vh="V" name="Martinez,B"></p_tk>
+   </play>
+   <play hasball="WSU" down="4" togo="1" spot="STAN27" context="H,4,1,V27" playid="27,13,240" type="#" clock="00:04" tokens="TOUT:H T:00:04"
+      text="Timeout Washington State, clock 00:04." newcontext="H,4,1,V27">
+    <p_to vh="H" team="Washington State"></p_to>
+   </play>
+   <play hasball="WSU" down="4" togo="1" spot="STAN27" context="H,4,1,V27" playid="27,14,241" type="#" clock="00:04" tokens="TOUT:V T:00:04"
+      text="Timeout Stanford, clock 00:04." newcontext="H,4,1,V27">
+    <p_to vh="V" team="Stanford"></p_to>
+   </play>
+   <play hasball="WSU" down="4" togo="1" spot="STAN27" context="H,4,1,V27" playid="27,15,242" type="F" clock="00:00" tokens="FGA:46,43,M,V27,R T:00:00"
+      text="Powell, Erik field goal attempt from 43 MISSED - wide right, spot at STAN27, clock 00:00." newcontext="V,1,10,V27">
+    <p_fg vh="H" name="Powell, Erik" distance="43" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="12" yards="48" top="1:54" driveindex="27" complete="Y"></drivesum>
+   <drivestart poss="V,V27,00:00" vh="V" spot="V27" clock="00:00" driveindex="28,242"></drivestart>
+   <play hasball="STAN" down="1" togo="10" spot="STAN27" context="V,1,10,V27" playid="28,1,243" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of game, clock 00:00." newcontext="V,1,10,V27">
+   </play>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="28" complete="Y"></drivesum>
+   <score final="Y" V="30" H="28"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="STAN">
+    <firstdowns no="3" rush="3" pass="0" penalty="0"></firstdowns>
+    <penalties no="2" yds="12"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="05:02"></misc>
+    <rush att="10" yds="59" gain="59" loss="0" td="1" long="0"></rush>
+    <pass comp="0" att="1" int="0" yds="0" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <punt no="1" yds="33" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="33.0"></punt>
+    <ko no="2" yds="124" ob="0" tb="1"></ko>
+    <fg made="1" att="1" long="0" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="15" tacka="8" tot_tack="23" sacks="0" sackyds="0" brup="1" qbh="3" int="1" intyds="9"></defense>
+    <ir no="1" yds="9" td="0" long="0"></ir>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WSU">
+    <firstdowns no="8" rush="2" pass="5" penalty="1"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="1" thirdatt="5" fourthconv="3" fourthatt="3"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:58"></misc>
+    <rush att="9" yds="35" gain="35" loss="0" td="0" long="0"></rush>
+    <pass comp="13" att="21" int="1" yds="106" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="13" yds="106" td="1" long="0"></rcv>
+    <ko no="1" yds="65" ob="0" tb="1"></ko>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <pat passatt="1" passmade="0"></pat>
+    <defense tackua="9" tacka="2" tot_tack="11" sacks="0" sackyds="0" brup="1"></defense>
+    <kr no="1" yds="13" td="0" long="0"></kr>
+    <scoring td="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="V" id="STAN" down="1" togo="10" spot="STAN27" context="V,1,10,V27" qtr="4" clock="00:00" vtoh="2" htoh="3"
+       lastplay="End of game, clock 00:00."></downtogo>
+ </plays>
+ <message text=""></message>
+ <dnp vh="V" id="STAN">
+  <player name="Tyler,J" checkname="TYLER,J" uni="0D" class="FR" gp="0" code="0D"></player>
+  <player name="A.-Whiteside,JJ" checkname="A.-WHITESIDE,JJ" uni="1I" class="FR" gp="0" code="1I"></player>
+  <player name="Burns,R" checkname="BURNS,R" uni="1G" class="JR" gp="0" code="1G"></player>
+  <player name="Williams,R" checkname="WILLIAMS,R" uni="1E" class="FR" gp="0" code="1E"></player>
+  <player name="Jordan,D" checkname="JORDAN,D" uni="1A" class="SR" gp="0" code="1A"></player>
+  <player name="Beall,C" checkname="BEALL,C" uni="2G" class="FR" gp="0" code="2G"></player>
+  <player name="Davidson,N" checkname="DAVIDSON,N" uni="6F" class="SR" gp="0" code="6F"></player>
+  <player name="Chryst,K" checkname="CHRYST,K" uni="10" class="SO" gp="0" code="10"></player>
+  <player name="Gaertner,R" checkname="GAERTNER,R" uni="19" class="JR" gp="0" code="19"></player>
+  <player name="Scarlett,C" checkname="SCARLETT,C" uni="25" class="FR" gp="0" code="25"></player>
+  <player name="Sanders,B" checkname="SANDERS,B" uni="26" class="SR" gp="0" code="26"></player>
+  <player name="Barton,S" checkname="BARTON,S" uni="27" class="FR" gp="0" code="27"></player>
+  <player name="Franklin,D" checkname="FRANKLIN,D" uni="28" class="SO" gp="0" code="28"></player>
+  <player name="Pippens,R" checkname="PIPPENS,R" uni="38" class="SR" gp="0" code="38"></player>
+  <player name="McFadden,P" checkname="MCFADDEN,P" uni="42" class="JR" gp="0" code="42"></player>
+  <player name="Beecher,R" checkname="BEECHER,R" uni="43" class="FR" gp="0" code="43"></player>
+  <player name="Chandler,C" checkname="CHANDLER,C" uni="45" class="JR" gp="0" code="45"></player>
+  <player name="Krishnamurthi,S" checkname="KRISHNAMURTHI,S" uni="46" class="FR" gp="0" code="46"></player>
+  <player name="Burik,L" checkname="BURIK,L" uni="49" class="FR" gp="0" code="49"></player>
+  <player name="Rotto,T" checkname="ROTTO,T" uni="53" class="SR" gp="0" code="53"></player>
+  <player name="Wilson,N" checkname="WILSON,N" uni="54" class="FR" gp="0" code="54"></player>
+  <player name="Annan,W" checkname="ANNAN,W" uni="56" class="FR" gp="0" code="56"></player>
+  <player name="Hinds,L" checkname="HINDS,L" uni="60" class="JR" gp="0" code="60"></player>
+  <player name="Maihen,A" checkname="MAIHEN,A" uni="62" class="FR" gp="0" code="62"></player>
+  <player name="Chaffin,B" checkname="CHAFFIN,B" uni="65" class="FR" gp="0" code="65"></player>
+  <player name="Phillips,H" checkname="PHILLIPS,H" uni="66" class="SO" gp="0" code="66"></player>
+  <player name="Burkett,J" checkname="BURKETT,J" uni="73" class="SO" gp="0" code="73"></player>
+  <player name="Watkins,J" checkname="WATKINS,J" uni="75" class="SR" gp="0" code="75"></player>
+  <player name="Dreyer,J" checkname="DREYER,J" uni="76" class="FR" gp="0" code="76"></player>
+  <player name="Cotton,E" checkname="COTTON,E" uni="80" class="JR" gp="0" code="80"></player>
+  <player name="Crane,C" checkname="CRANE,C" uni="81" class="SR" gp="0" code="81"></player>
+  <player name="Foster,T" checkname="FOSTER,T" uni="85" class="JR" gp="0" code="85"></player>
+  <player name="Veach,L" checkname="VEACH,L" uni="86" class="SO" gp="0" code="86"></player>
+  <player name="Snyder,B" checkname="SNYDER,B" uni="87" class="FR" gp="0" code="87"></player>
+  <player name="Jackson,D" checkname="JACKSON,D" uni="97" class="FR" gp="0" code="97"></player>
+  <player name="Kaumatule,L" checkname="KAUMATULE,L" uni="99" class="SR" gp="0" code="99"></player>
+ </dnp>
+ <dnp vh="H" id="WSU">
+  <player name="Hilinski, Tyler" checkname="HILINSKI,TYLER" uni="0C" class="FR" gp="0" code="0C"></player>
+  <player name="Ennis, Connor" checkname="ENNIS,CONNOR" uni="0H" class="SO" gp="0" code="0H"></player>
+  <player name="Wilson, Kainoa" checkname="WILSON,KAINOA" uni="3C" class="FR" gp="0" code="3C"></player>
+  <player name="Celli, Kyle" checkname="CELLI,KYLE" uni="4D" class="FR" gp="0" code="4D"></player>
+  <player name="Roach, Willie" checkname="ROACH,WILLIE" uni="4A" class="JR" gp="0" code="4A"></player>
+  <player name="Fernandez, K." checkname="FERNANDEZ,K" uni="4C" class="FR" gp="0" code="4C"></player>
+  <player name="Bender, Peyton" checkname="BENDER,PEYTON" uni="6" class="FR" gp="0" code="6"></player>
+  <player name="Broughton, Tre." checkname="BROUGHTON,TRE" uni="16" class="JR" gp="0" code="16"></player>
+  <player name="Porter, Pat" checkname="PORTER,PAT" uni="17" class="SO" gp="0" code="17"></player>
+  <player name="Molton,Darrien" checkname="MOLTON,DARRIEN" uni="22" class="FR" gp="0" code="22"></player>
+  <player name="Dotson, Isaac" checkname="DOTSON,ISAAC" uni="31" class="SO" gp="0" code="31"></player>
+  <player name="Williams, James" checkname="WILLIAMS,JAMES" uni="32" class="FR" gp="0" code="32"></player>
+  <player name="Hanser, Dylan" checkname="HANSER,DYLAN" uni="33" class="SO" gp="0" code="33"></player>
+  <player name="Bucannon, David" checkname="BUCANNON,DAVID" uni="36" class="JR" gp="0" code="36"></player>
+  <player name="Cracraft,Skyler" checkname="CRACRAFT,SKYLER" uni="37" class="SR" gp="0" code="37"></player>
+  <player name="Breshears, Q." checkname="BRESHEARS,Q" uni="41" class="SR" gp="0" code="41"></player>
+  <player name="Hoyd III, Greg" checkname="HOYD III,GREG" uni="42" class="FR" gp="0" code="42"></player>
+  <player name="Schafer, Brett" checkname="SCHAFER,BRETT" uni="49" class="FR" gp="0" code="49"></player>
+  <player name="Coates, Reggie" checkname="COATES,REGGIE" uni="55" class="JR" gp="0" code="55"></player>
+  <player name="Griffin, Drew" checkname="GRIFFIN,DREW" uni="57" class="FR" gp="0" code="57"></player>
+  <player name="Dillard, Andre" checkname="DILLARD,ANDRE" uni="60" class="FR" gp="0" code="60"></player>
+  <player name="Christ, Moritz" checkname="CHRIST,MORITZ" uni="62" class="SR" gp="0" code="62"></player>
+  <player name="Seydel, Jacob" checkname="SEYDEL,JACOB" uni="66" class="SR" gp="0" code="66"></player>
+  <player name="McClain,Devonte" checkname="MCCLAIN,DEVONTE" uni="69" class="SR" gp="0" code="69"></player>
+  <player name="Evers, Brandon" checkname="EVERS,BRANDON" uni="74" class="FR" gp="0" code="74"></player>
+  <player name="Freeman, Carlos" checkname="FREEMAN,CARLOS" uni="78" class="SO" gp="0" code="78"></player>
+  <player name="Thompson, D.J." checkname="THOMPSON,DJ" uni="86" class="FR" gp="0" code="86"></player>
+  <player name="Lilienthal, Dan" checkname="LILIENTHAL,DAN" uni="87" class="SR" gp="0" code="87"></player>
+  <player name="Begg, Nick" checkname="BEGG,NICK" uni="89" class="FR" gp="0" code="89"></player>
+  <player name="Mitchell, Jere." checkname="MITCHELL,JERE" uni="98" class="JR" gp="0" code="98"></player>
+ </dnp>
+ <longplays thresh="70">
+ </longplays>
+</fbgame>

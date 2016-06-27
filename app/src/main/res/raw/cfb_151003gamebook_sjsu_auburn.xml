@@ -1,0 +1,1521 @@
+<fbgame source="Tas Football" version="4.16.07" generated="10/4/2015">
+ <venue gameid="AU05" visid="SJ" homeid="AU" visname="San Jose State" homename="Auburn"
+      date="10/3/2015" location="Auburn, AL" stadium="Jordan-Hare"
+      start="3:01" end="6:05"
+      duration="3:04" attend="87451" temp="63" wind="10 mph" weather="Cloudy">
+  <officials ref="Marvel July" ump="Rico Orsot" line="Tim Crowley" lj="David Young" bj="Robert Lewis" fj="Richard Corona" sj="Steve Heiman" cj="Greg Reid" alt="Greg Reid"></officials>
+  <rules qtrs="4" mins="15" downs="4" yds="10" kospot="35" tbspot="20" kotbspot="25" patspot="3" safspot="20" td="6" fg="3" pat="1" patx="2" saf="2" defpat="2" rouge="1" field="100" toh="3" sackrush="Y" fgaplay="Y" netpunttb="Y"></rules>
+ </venue>
+ <team vh="V" code="630" id="SJ" name="San Jose State" record="2-3" conf-record="1-1" abb="S">
+  <linescore prds="4" line="7,0,7,7" score="21">
+   <lineprd prd="1" score="7"></lineprd>
+   <lineprd prd="2" score="0"></lineprd>
+   <lineprd prd="3" score="7"></lineprd>
+   <lineprd prd="4" score="7"></lineprd>
+  </linescore>
+  <totals totoff_plays="71" totoff_yards="406" totoff_avg="5.7">
+   <firstdowns no="22" rush="9" pass="12" penalty="1"></firstdowns>
+   <penalties no="2" yds="15"></penalties>
+   <conversions thirdconv="6" thirdatt="12" fourthconv="1" fourthatt="3"></conversions>
+   <fumbles no="3" lost="2"></fumbles>
+   <misc yds="0" top="33:57" ona="1" onm="0" ptsto="0"></misc>
+   <redzone att="3" scores="3" points="21" tdrush="2" tdpass="1" fgmade="0" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="38" yds="182" gain="194" loss="12" td="2" long="26"></rush>
+   <pass comp="21" att="33" int="2" yds="224" td="1" long="24" sacks="1" sackyds="3"></pass>
+   <rcv no="21" yds="224" td="1" long="24"></rcv>
+   <punt no="1" yds="42" long="42" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="42.0"></punt>
+   <ko no="3" yds="160" ob="0" tb="0"></ko>
+   <pat kickatt="3" kickmade="3"></pat>
+   <defense tackua="40" tacka="18" tot_tack="58" tflua="3" tfla="2" tflyds="7" sacks="0" sackyds="0" brup="2" qbh="2" ff="3"></defense>
+   <kr no="2" yds="59" td="0" long="31"></kr>
+   <scoring td="3" patkick="3"></scoring>
+  </totals>
+  <player name="Chris Kearney" shortname="Chris Kearney" checkname="KEARNEY,CHRIS" uni="1K" class="SR" gp="1" code="1K"></player>
+  <player name="Tim Crawley" shortname="Tim Crawley" checkname="CRAWLEY,TIM" uni="2" class="JR" gp="1" code="02">
+   <rush att="1" yds="-2" gain="0" loss="2" td="0" long="0"></rush>
+   <rcv no="2" yds="26" td="0" long="24"></rcv>
+  </player>
+  <player name="Christian Tago" shortname="Christian Tago" checkname="TAGO,CHRISTIAN" uni="4" class="JR" gp="1" gs="1" dpos="LB" code="04">
+   <defense tackua="2" tacka="3" tot_tack="5"></defense>
+  </player>
+  <player name="Frank Ginda" shortname="Frank Ginda" checkname="GINDA,FRANK" uni="5G" class="FR" gp="1" gs="1" dpos="LB" code="5G">
+   <defense tackua="8" tacka="1" tot_tack="9" tflua="1" tfla="0" tflyds="2" qbh="1"></defense>
+  </player>
+  <player name="Epie Sona" shortname="Epie Sona" checkname="SONA,EPIE" uni="5S" class="JR" gp="1" code="5S"></player>
+  <player name="Clevel Wallace" shortname="Clevel Wallace" checkname="WALLACE,CLEVEL" uni="6W" class="JR" gp="1" gs="1" dpos="CB" code="6W">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Joe Gray" shortname="Joe Gray" checkname="GRAY,JOE" uni="6" class="SR" gp="1" gs="1" opos="QB" code="06">
+   <rush att="4" yds="2" gain="5" loss="3" td="1" long="4"></rush>
+   <pass comp="21" att="33" int="2" yds="224" td="1" long="24" sacks="1" sackyds="3"></pass>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Tyler Ervin" shortname="Tyler Ervin" checkname="ERVIN,TYLER" uni="7" class="SR" gp="1" gs="1" opos="RB" code="07">
+   <rush att="27" yds="160" gain="165" loss="5" td="1" long="26"></rush>
+   <rcv no="1" yds="11" td="0" long="11"></rcv>
+   <kr no="2" yds="59" td="0" long="31"></kr>
+   <fumbles no="1" lost="1"></fumbles>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Jimmy Pruitt" shortname="Jimmy Pruitt" checkname="PRUITT,JIMMY" uni="8" class="SR" gp="1" gs="1" dpos="CB" code="08">
+   <defense tackua="7" tacka="1" tot_tack="8" tflua="2" tfla="0" tflyds="4"></defense>
+  </player>
+  <player name="Mauri Mcknight" shortname="Mauri Mcknight" checkname="MCKNIGHT,MAURI" uni="10" class="SO" gp="1" gs="1" dpos="S" code="10">
+   <defense tackua="2" tacka="2" tot_tack="4"></defense>
+  </player>
+  <player name="Tyler Winston" shortname="Tyler Winston" checkname="WINSTON,TYLER" uni="15" class="JR" gp="1" gs="1" opos="WR" code="15">
+   <rcv no="4" yds="62" td="1" long="20"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Mich Carrizosa" shortname="Mich Carrizosa" checkname="CARRIZOSA,MICH" uni="17" class="SO" gp="1" code="17">
+   <punt no="1" yds="42" long="42" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="42.0"></punt>
+  </player>
+  <player name="Billy Freeman" shortname="Billy Freeman" checkname="FREEMAN,BILLY" uni="18" class="JR" gp="1" gs="1" opos="TE" code="18">
+   <rcv no="6" yds="59" td="0" long="14"></rcv>
+  </player>
+  <player name="Dakari Monroe" shortname="Dakari Monroe" checkname="MONROE,DAKARI" uni="19" class="FR" gp="1" code="19"></player>
+  <player name="Malik Roberson" shortname="Malik Roberson" checkname="ROBERSON,MALIK" uni="20" class="FR" gp="1" code="20">
+   <rush att="2" yds="7" gain="8" loss="1" td="0" long="8"></rush>
+   <rcv no="1" yds="17" td="0" long="17"></rcv>
+  </player>
+  <player name="Andre Chachere" shortname="Andre Chachere" checkname="CHACHERE,ANDRE" uni="21" class="SO" gp="1" code="21">
+   <defense brup="1"></defense>
+  </player>
+  <player name="Dominic Barnes" shortname="Dominic Barnes" checkname="BARNES,DOMINIC" uni="24" class="JR" gp="1" code="24"></player>
+  <player name="Chandl Hawkins" shortname="Chandl Hawkins" checkname="HAWKINS,CHANDL" uni="25" class="FR" gp="1" code="25"></player>
+  <player name="Vincente Miles" shortname="Vincente Miles" checkname="MILES,VINCENTE" uni="26" class="SR" gp="1" gs="1" dpos="S" code="26">
+   <defense tackua="6" tacka="3" tot_tack="9" brup="1" qbh="1" ff="1"></defense>
+  </player>
+  <player name="Simon Connette" shortname="Simon Connette" checkname="CONNETTE,SIMON" uni="28" class="SR" gp="1" code="28"></player>
+  <player name="William Ossai" shortname="William Ossai" checkname="OSSAI,WILLIAM" uni="29" class="SO" gp="1" gs="1" dpos="LB" code="29">
+   <defense tackua="3" tacka="1" tot_tack="4"></defense>
+  </player>
+  <player name="Brandon Monroe" shortname="Brandon Monroe" checkname="MONROE,BRANDON" uni="32" class="SO" gp="1" code="32"></player>
+  <player name="Brad Kuh" shortname="Brad Kuh" checkname="KUH,BRAD" uni="33" class="JR" gp="1" code="33"></player>
+  <player name="Bryce Crawford" shortname="Bryce Crawford" checkname="CRAWFORD,BRYCE" uni="38" class="FR" gp="1" code="38">
+   <ko no="3" yds="160" ob="0" tb="0"></ko>
+   <pat kickatt="3" kickmade="3"></pat>
+   <scoring patkick="3"></scoring>
+  </player>
+  <player name="Jeremy Kelly" shortname="Jeremy Kelly" checkname="KELLY,JEREMY" uni="39" class="FR" gp="1" code="39"></player>
+  <player name="Jarrod Lawson" shortname="Jarrod Lawson" checkname="LAWSON,JARROD" uni="40" class="JR" gp="1" code="40">
+   <rush att="3" yds="14" gain="14" loss="0" td="0" long="10"></rush>
+  </player>
+  <player name="Chris Dadson" shortname="Chris Dadson" checkname="DADSON,CHRIS" uni="41" class="JR" gp="1" code="41"></player>
+  <player name="Alex Manigo" shortname="Alex Manigo" checkname="MANIGO,ALEX" uni="42" class="JR" gp="1" code="42"></player>
+  <player name="Mark Amann" shortname="Mark Amann" checkname="AMANN,MARK" uni="44" class="JR" gp="1" code="44">
+   <defense tackua="3" tacka="2" tot_tack="5"></defense>
+  </player>
+  <player name="Ryan Disalvo" shortname="Ryan Disalvo" checkname="DISALVO,RYAN" uni="46" class="SR" gp="1" code="46"></player>
+  <player name="Shane Smith" shortname="Shane Smith" checkname="SMITH,SHANE" uni="49" class="JR" gp="1" gs="1" opos="FB" code="49">
+   <rcv no="1" yds="9" td="0" long="9"></rcv>
+  </player>
+  <player name="Isaiah Irving" shortname="Isaiah Irving" checkname="IRVING,ISAIAH" uni="53" class="JR" gp="1" gs="1" dpos="DE" code="53">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Moses Saucedo" shortname="Moses Saucedo" checkname="SAUCEDO,MOSES" uni="55" class="SR" gp="1" code="55">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Nate Falo" shortname="Nate Falo" checkname="FALO,NATE" uni="57" class="SR" gp="1" code="57"></player>
+  <player name="Bryson Bridges" shortname="Bryson Bridges" checkname="BRIDGES,BRYSON" uni="59" class="FR" gp="1" code="59"></player>
+  <player name="Jeremia Kolone" shortname="Jeremia Kolone" checkname="KOLONE,JEREMIA" uni="62" class="SO" gp="1" gs="1" opos="LG" code="62"></player>
+  <player name="Travis Miller" shortname="Travis Miller" checkname="MILLER,TRAVIS" uni="63" class="SO" gp="1" code="63">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Keoni Taylor" shortname="Keoni Taylor" checkname="TAYLOR,KEONI" uni="68" class="SO" gp="1" gs="1" opos="C" code="68"></player>
+  <player name="Wes Schweitzer" shortname="Wes Schweitzer" checkname="SCHWEITZER,WES" uni="72" class="SR" gp="1" gs="1" opos="LT" code="72"></player>
+  <player name="Chris Gonzalez" shortname="Chris Gonzalez" checkname="GONZALEZ,CHRIS" uni="74" class="SO" gp="1" gs="1" opos="RG" code="74"></player>
+  <player name="Nate Velichko" shortname="Nate Velichko" checkname="VELICHKO,NATE" uni="75" class="SO" gp="1" gs="1" opos="RT" code="75"></player>
+  <player name="Evan Sarver" shortname="Evan Sarver" checkname="SARVER,EVAN" uni="77" class="JR" gp="1" code="77"></player>
+  <player name="Jourdan Soares" shortname="Jourdan Soares" checkname="SOARES,JOURDAN" uni="82" class="SO" gp="1" code="82"></player>
+  <player name="Hansell Wilson" shortname="Hansell Wilson" checkname="WILSON,HANSELL" uni="87" class="SR" gp="1" gs="1" opos="WR" code="87">
+   <rush att="1" yds="1" gain="2" loss="1" td="0" long="0"></rush>
+   <rcv no="6" yds="40" td="0" long="11"></rcv>
+   <fumbles no="2" lost="1"></fumbles>
+  </player>
+  <player name="Josh Oliver" shortname="Josh Oliver" checkname="OLIVER,JOSH" uni="89" class="FR" gp="1" code="89"></player>
+  <player name="Nick Oreglia" shortname="Nick Oreglia" checkname="OREGLIA,NICK" uni="90" class="JR" gp="1" gs="1" dpos="DE" code="90">
+   <defense tackua="1" tacka="1" tot_tack="2" ff="1"></defense>
+  </player>
+  <player name="Keenan Sykes" shortname="Keenan Sykes" checkname="SYKES,KEENAN" uni="92" class="JR" gp="1" gs="1" dpos="DT" code="92">
+   <defense tackua="0" tacka="1" tot_tack="1" tflua="0" tfla="1" tflyds="0"></defense>
+  </player>
+  <player name="Loni Fa" shortname="Loni Fa" checkname="FA,LONI" uni="93" class="JR" gp="1" code="93">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="Eugene Taylor" shortname="Eugene Taylor" checkname="TAYLOR,EUGENE" uni="94" class="JR" gp="1" code="94"></player>
+  <player name="Cedric Lousi" shortname="Cedric Lousi" checkname="LOUSI,CEDRIC" uni="96" class="SR" gp="1" code="96">
+   <defense tackua="0" tacka="2" tot_tack="2"></defense>
+  </player>
+  <player name="Tony Popovich" shortname="Tony Popovich" checkname="POPOVICH,TONY" uni="98" class="SR" gp="1" gs="1" dpos="DT" code="98">
+   <defense tackua="0" tacka="1" tot_tack="1" tflua="0" tfla="1" tflyds="1"></defense>
+  </player>
+  <player name="Team" shortname="Team" checkname="TEAM" uni="TM" class="FR" gp="1" code="198">
+   <defense tackua="2" tacka="0" tot_tack="2" ff="1"></defense>
+  </player>
+ </team>
+ <team vh="H" code="37" id="AU" name="Auburn" record="3-2" conf-record="0-2" abb="A">
+  <linescore prds="4" line="14,7,7,7" score="35">
+   <lineprd prd="1" score="14"></lineprd>
+   <lineprd prd="2" score="7"></lineprd>
+   <lineprd prd="3" score="7"></lineprd>
+   <lineprd prd="4" score="7"></lineprd>
+  </linescore>
+  <totals totoff_plays="58" totoff_yards="342" totoff_avg="5.9">
+   <firstdowns no="15" rush="12" pass="3" penalty="0"></firstdowns>
+   <penalties no="1" yds="15"></penalties>
+   <conversions thirdconv="6" thirdatt="11" fourthconv="1" fourthatt="1"></conversions>
+   <fumbles no="4" lost="0"></fumbles>
+   <misc yds="0" top="26:03" ona="0" onm="0" ptsto="14"></misc>
+   <redzone att="5" scores="4" points="28" tdrush="4" tdpass="0" fgmade="0" endfga="1" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="48" yds="234" gain="249" loss="15" td="5" long="36"></rush>
+   <pass comp="6" att="10" int="0" yds="108" td="0" long="42" sacks="0" sackyds="0"></pass>
+   <rcv no="6" yds="108" td="0" long="42"></rcv>
+   <punt no="2" yds="81" long="48" blkd="0" tb="0" fc="1" plus50="0" inside20="2" avg="40.5"></punt>
+   <ko no="6" yds="386" ob="0" tb="4"></ko>
+   <fg made="0" att="2" long="0" blkd="0"></fg>
+   <pat kickatt="5" kickmade="5"></pat>
+   <defense tackua="38" tacka="32" tot_tack="70" tflua="4" tfla="0" tflyds="7" sacks="1" sackyds="3" brup="1" qbh="7" ff="2" fr="2" fryds="0" int="2" intyds="11"></defense>
+   <kr no="3" yds="142" td="0" long="61"></kr>
+   <ir no="2" yds="11" td="0" long="11"></ir>
+   <scoring td="5" patkick="5"></scoring>
+  </totals>
+  <player name="M. Adams" shortname="M. Adams" checkname="ADAMS,M" uni="1A" class="JR" gp="1" gs="1" dpos="DT" code="01">
+   <defense tackua="2" tacka="2" tot_tack="4" qbh="1" ff="1"></defense>
+  </player>
+  <player name="D. Williams" shortname="D. Williams" checkname="WILLIAMS,D" uni="1" class="SR" gp="1" gs="1" opos="WR" code="01">
+   <rcv no="1" yds="17" td="0" long="17"></rcv>
+  </player>
+  <player name="Tyler Stovall" shortname="Tyler Stovall" checkname="STOVALL,TYLER" uni="2S" class="SO" gp="1" code="29"></player>
+  <player name="Jonathan Jones" shortname="Jonathan Jones" checkname="JONES,JONATHAN" uni="3" class="SR" gp="1" gs="1" dpos="CB" code="03">
+   <defense tackua="4" tacka="0" tot_tack="4" fr="1" fryds="0"></defense>
+  </player>
+  <player name="Jeff Holland" shortname="Jeff Holland" checkname="HOLLAND,JEFF" uni="4H" class="FR" gp="1" code="04"></player>
+  <player name="Jason Smith" shortname="Jason Smith" checkname="SMITH,JASON" uni="4" class="SO" gp="1" code="04">
+  </player>
+  <player name="Ricardo Louis" shortname="Ricardo Louis" checkname="LOUIS,RICARDO" uni="5" class="SR" gp="1" code="05">
+   <rush att="4" yds="17" gain="19" loss="2" td="0" long="11"></rush>
+   <rcv no="3" yds="47" td="0" long="31"></rcv>
+  </player>
+  <player name="DaVonte Lambert" shortname="DaVonte Lambert" checkname="LAMBERT,DAVONTE" uni="6" class="SR" gp="1" gs="1" dpos="DE" code="06">
+   <defense tackua="1" tacka="3" tot_tack="4" qbh="1"></defense>
+  </player>
+  <player name="Jeremy Johnson" shortname="Jeremy Johnson" checkname="JOHNSON,JEREMY" uni="6J" class="JR" gp="1" code="06"></player>
+  <player name="C. McKinzy" shortname="C. McKinzy" checkname="MCKINZY,C" uni="8" class="SR" gp="1" gs="1" dpos="BUCK" code="08">
+   <defense tackua="2" tacka="2" tot_tack="4" tflua="1" tfla="0" tflyds="3" sackua="1" sacka="0" sackyds="3" qbh="3"></defense>
+  </player>
+  <player name="Roc Thomas" shortname="Roc Thomas" checkname="THOMAS,ROC" uni="9" class="SO" gp="1" code="09">
+   <rush att="4" yds="39" gain="39" loss="0" td="0" long="22"></rush>
+   <rcv no="1" yds="42" td="0" long="42"></rcv>
+  </player>
+  <player name="Byron Cowart" shortname="Byron Cowart" checkname="COWART,BYRON" uni="9C" class="FR" gp="1" code="09">
+   <defense qbh="1"></defense>
+  </player>
+  <player name="J. Wallace" shortname="J. Wallace" checkname="WALLACE,J" uni="12" class="SR" gp="1" code="12"></player>
+  <player name="Sean White" shortname="Sean White" checkname="WHITE,SEAN" uni="13" class="FR" gp="1" gs="1" opos="QB" code="13">
+   <rush att="4" yds="18" gain="18" loss="0" td="0" long="8"></rush>
+   <pass comp="6" att="10" int="0" yds="108" td="0" long="42" sacks="0" sackyds="0"></pass>
+   <fumbles no="2" lost="0"></fumbles>
+  </player>
+  <player name="Stephen Roberts" shortname="Stephen Roberts" checkname="ROBERTS,STEPHEN" uni="14" class="SO" gp="1" code="14">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="J. Mitchell" shortname="J. Mitchell" checkname="MITCHELL,J" uni="16" class="JR" gp="1" gs="1" dpos="LB" code="16">
+   <defense tackua="1" tacka="3" tot_tack="4"></defense>
+  </player>
+  <player name="Kris Frost" shortname="Kris Frost" checkname="FROST,KRIS" uni="17" class="SR" gp="1" gs="1" dpos="LB" code="17">
+   <defense tackua="5" tacka="7" tot_tack="12"></defense>
+  </player>
+  <player name="Carlton Davis" shortname="Carlton Davis" checkname="DAVIS,CARLTON" uni="18" class="FR" gp="1" code="18">
+   <defense tackua="0" tacka="1" tot_tack="1" int="1" intyds="0"></defense>
+   <ir no="1" yds="0" td="0" long="0"></ir>
+  </player>
+  <player name="Jeremiah Dinson" shortname="Jeremiah Dinson" checkname="DINSON,JEREMIAH" uni="20" class="FR" gp="1" code="20"></player>
+  <player name="Kerryon Johnson" shortname="Kerryon Johnson" checkname="JOHNSON,KERRYON" uni="21" class="FR" gp="1" gs="1" opos="RB" code="21">
+   <rush att="5" yds="21" gain="22" loss="1" td="0" long="8"></rush>
+  </player>
+  <player name="Johnathan Ford" shortname="Johnathan Ford" checkname="FORD,JOHNATHAN" uni="23" class="JR" gp="1" gs="1" dpos="S" code="23">
+   <defense tackua="11" tacka="3" tot_tack="14" ff="1"></defense>
+   <kr no="2" yds="81" td="0" long="58"></kr>
+  </player>
+  <player name="Blake Countess" shortname="Blake Countess" checkname="COUNTESS,BLAKE" uni="24" class="SR" gp="1" gs="1" dpos="CB" code="24">
+   <defense tackua="4" tacka="1" tot_tack="5" tflua="1" tfla="0" tflyds="1"></defense>
+   <kr no="1" yds="61" td="0" long="61"></kr>
+  </player>
+  <player name="Peyton Barber" shortname="Peyton Barber" checkname="BARBER,PEYTON" uni="25" class="SO" gp="1" gs="1" opos="RB" code="25">
+   <rush att="28" yds="147" gain="151" loss="4" td="5" long="36"></rush>
+   <fumbles no="1" lost="0"></fumbles>
+   <scoring td="5"></scoring>
+  </player>
+  <player name="Justin Garrett" shortname="Justin Garrett" checkname="GARRETT,JUSTIN" uni="26" class="SR" gp="1" gs="1" dpos="LB" code="26">
+   <defense tackua="1" tacka="2" tot_tack="3" tflua="1" tfla="0" tflyds="1" int="1" intyds="11"></defense>
+   <ir no="1" yds="11" td="0" long="11"></ir>
+  </player>
+  <player name="Chandler Cox" shortname="Chandler Cox" checkname="COX,CHANDLER" uni="27" class="FR" gp="1" code="27"></player>
+  <player name="Tray Matthews" shortname="Tray Matthews" checkname="MATTHEWS,TRAY" uni="28" class="SO" gp="1" gs="1" dpos="S" code="28">
+   <defense tackua="3" tacka="5" tot_tack="8" brup="1"></defense>
+  </player>
+  <player name="Kamryn Pettway" shortname="Kamryn Pettway" checkname="PETTWAY,KAMRYN" uni="36" class="FR" gp="1" code="36"></player>
+  <player name="Daniel Carlson" shortname="Daniel Carlson" checkname="CARLSON,DANIEL" uni="38" class="SO" gp="1" code="38">
+   <ko no="6" yds="386" ob="0" tb="4"></ko>
+   <fg made="0" att="2" long="0" blkd="0"></fg>
+   <pat kickatt="5" kickmade="5"></pat>
+   <scoring patkick="5"></scoring>
+  </player>
+  <player name="M. Atkinson" shortname="M. Atkinson" checkname="ATKINSON,M" uni="48" class="FR" gp="1" code="48">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Da. Williams" shortname="Da. Williams" checkname="WILLIAMS,DA" uni="49" class="FR" gp="1" code="49"></player>
+  <player name="Devonte Danzey" shortname="Devonte Danzey" checkname="DANZEY,DEVONTE" uni="53" class="SR" gp="1" code="53"></player>
+  <player name="Avery Young" shortname="Avery Young" checkname="YOUNG,AVERY" uni="56" class="JR" gp="1" gs="1" opos="RT" code="56"></player>
+  <player name="Deshaun Davis" shortname="Deshaun Davis" checkname="DAVIS,DESHAUN" uni="57" class="FR" gp="1" code="57"></player>
+  <player name="R. Kennion" shortname="R. Kennion" checkname="KENNION,R" uni="59" class="SO" gp="1" code="59"></player>
+  <player name="Alex Kozan" shortname="Alex Kozan" checkname="KOZAN,ALEX" uni="63" class="JR" gp="1" gs="1" opos="LG" code="63"></player>
+  <player name="Ike Powell" shortname="Ike Powell" checkname="POWELL,IKE" uni="69" class="SO" gp="1" code="69"></player>
+  <player name="Robert Leff" shortname="Robert Leff" checkname="LEFF,ROBERT" uni="70" class="JR" gp="1" code="70"></player>
+  <player name="Braden Smith" shortname="Braden Smith" checkname="SMITH,BRADEN" uni="71" class="SO" gp="1" gs="1" opos="RG" code="71"></player>
+  <player name="Shon Coleman" shortname="Shon Coleman" checkname="COLEMAN,SHON" uni="72" class="JR" gp="1" gs="1" opos="LT" code="72"></player>
+  <player name="Austin Golson" shortname="Austin Golson" checkname="GOLSON,AUSTIN" uni="73" class="SO" gp="1" gs="1" opos="C" code="73"></player>
+  <player name="Will Adams" shortname="Will Adams" checkname="ADAMS,WILL" uni="74" class="JR" gp="1" code="74"></player>
+  <player name="Andrew Williams" shortname="Andrew Williams" checkname="WILLIAMS,ANDREW" uni="79" class="FR" gp="1" code="79"></player>
+  <player name="Marcus Davis" shortname="Marcus Davis" checkname="DAVIS,MARCUS" uni="80" class="JR" gp="1" gs="1" opos="WR" code="80">
+   <rcv no="1" yds="2" td="0" long="2"></rcv>
+  </player>
+  <player name="Melvin Ray" shortname="Melvin Ray" checkname="RAY,MELVIN" uni="82" class="SR" gp="1" gs="1" opos="WR" code="82"></player>
+  <player name="Jalen Harris" shortname="Jalen Harris" checkname="HARRIS,JALEN" uni="85" class="FR" gp="1" code="85"></player>
+  <player name="Gray King" shortname="Gray King" checkname="KING,GRAY" uni="87" class="SO" gp="1" code="87"></player>
+  <player name="Maurice Swain" shortname="Maurice Swain" checkname="SWAIN,MAURICE" uni="90" class="JR" gp="1" code="90"></player>
+  <player name="Kevin Phillips" shortname="Kevin Phillips" checkname="PHILLIPS,KEVIN" uni="91" class="JR" gp="1" code="91">
+   <punt no="2" yds="81" long="48" blkd="0" tb="0" fc="1" plus50="0" inside20="2" avg="40.5"></punt>
+  </player>
+  <player name="D. Lawrence" shortname="D. Lawrence" checkname="LAWRENCE,D" uni="94" class="JR" gp="1" code="94">
+   <defense qbh="1"></defense>
+  </player>
+  <player name="D. Russell" shortname="D. Russell" checkname="RUSSELL,D" uni="95" class="FR" gp="1" gs="1" dpos="DT" code="95">
+   <defense tackua="2" tacka="3" tot_tack="5" tflua="1" tfla="0" tflyds="2" fr="1" fryds="0"></defense>
+  </player>
+  <player name="TEAM" shortname="TEAM" checkname="TEAM" uni="TM" class="FR" gp="1" code="198">
+   <rush att="3" yds="-8" gain="0" loss="8" td="0" long="0"></rush>
+   <fumbles no="1" lost="0"></fumbles>
+  </player>
+ </team>
+ <scores>
+  <score vh="H" team="AU" qtr="1" clock="09:54" type="TD" how="RUSH" yds="2" scorer="Peyton Barber" patby="Daniel Carlson" pattype="KICK" patres="GOOD" plays="5" drive="23" top="1:32" vscore="0" hscore="7" driveindex="3"></score>
+  <score vh="V" team="SJ" qtr="1" clock="04:55" type="TD" how="PASS" yds="18" scorer="Tyler Winston" passer="Joe Gray" patby="Bryce Crawford" pattype="KICK" patres="GOOD" plays="9" drive="69" top="4:48" vscore="7" hscore="7" driveindex="4"></score>
+  <score vh="H" team="AU" qtr="1" clock="02:32" type="TD" how="RUSH" yds="2" scorer="Peyton Barber" patby="Daniel Carlson" pattype="KICK" patres="GOOD" plays="7" drive="60" top="2:18" vscore="7" hscore="14" driveindex="5"></score>
+  <score vh="H" team="AU" qtr="2" clock="00:38" type="TD" how="RUSH" yds="5" scorer="Peyton Barber" patby="Daniel Carlson" pattype="KICK" patres="GOOD" plays="9" drive="74" top="3:20" vscore="7" hscore="21" driveindex="11"></score>
+  <score vh="V" team="SJ" qtr="3" clock="08:01" type="TD" how="RUSH" yds="1" scorer="Joe Gray" patby="Bryce Crawford" pattype="KICK" patres="GOOD" plays="14" drive="75" top="6:59" vscore="14" hscore="21" driveindex="13"></score>
+  <score vh="H" team="AU" qtr="3" clock="04:37" type="TD" how="RUSH" yds="1" scorer="Peyton Barber" patby="Daniel Carlson" pattype="KICK" patres="GOOD" plays="8" drive="24" top="3:14" vscore="14" hscore="28" driveindex="14"></score>
+  <score vh="V" team="SJ" qtr="4" clock="05:38" type="TD" how="RUSH" yds="2" scorer="Tyler Ervin" patby="Bryce Crawford" pattype="KICK" patres="GOOD" plays="8" drive="80" top="4:24" vscore="21" hscore="28" driveindex="17"></score>
+  <score vh="H" team="AU" qtr="4" clock="04:43" type="TD" how="RUSH" yds="36" scorer="Peyton Barber" patby="Daniel Carlson" pattype="KICK" patres="GOOD" plays="2" drive="45" top="0:53" vscore="21" hscore="35" driveindex="18"></score>
+ </scores>
+ <fgas>
+  <fga vh="H" team="AU" kicker="Daniel Carlson" qtr="2" clock="08:43" distance="55" result="missed"></fga>
+  <fga vh="H" team="AU" kicker="Daniel Carlson" qtr="4" clock="10:02" distance="25" result="missed"></fga>
+ </fgas>
+ <drives>
+  <drive vh="H" team="AU" start="KO,1,15:00,61" end="PUNT,1,13:38,62" plays="3" yards="1" top="1:22" start_how="KO" start_qtr="1" start_time="15:00" start_spot="SJ39" end_how="PUNT" end_qtr="1" end_time="13:38" end_spot="SJ38" driveindex="1"></drive>
+  <drive vh="V" team="SJ" start="PUNT,1,13:38,5" end="INT,1,11:26,28" plays="5" yards="23" top="2:12" start_how="PUNT" start_qtr="1" start_time="13:38" start_spot="SJ05" end_how="INT" end_qtr="1" end_time="11:26" end_spot="SJ28" driveindex="2"></drive>
+  <drive vh="H" team="AU" start="INT,1,11:26,77" end="TD,1,09:54,100" plays="5" yards="23" top="1:32" start_how="INT" start_qtr="1" start_time="11:26" start_spot="SJ23" end_how="TD" end_qtr="1" end_time="09:54" end_spot="SJ00" rz="1" driveindex="3"></drive>
+  <drive vh="V" team="SJ" start="KO,1,09:43,31" end="TD,1,04:55,100" plays="9" yards="69" top="4:48" start_how="KO" start_qtr="1" start_time="09:43" start_spot="SJ31" end_how="TD" end_qtr="1" end_time="04:55" end_spot="AU00" rz="1" driveindex="4"></drive>
+  <drive vh="H" team="AU" start="KO,1,04:50,40" end="TD,1,02:32,100" plays="7" yards="60" top="2:18" start_how="KO" start_qtr="1" start_time="04:50" start_spot="AU40" end_how="TD" end_qtr="1" end_time="02:32" end_spot="SJ00" rz="1" driveindex="5"></drive>
+  <drive vh="V" team="SJ" start="KO,1,02:32,25" end="DOWNS,1,00:00,69" plays="6" yards="44" top="2:32" start_how="KO" start_qtr="1" start_time="02:32" start_spot="SJ25" end_how="DOWNS" end_qtr="1" end_time="00:00" end_spot="AU31" driveindex="6"></drive>
+  <drive vh="H" team="AU" start="DOWNS,2,15:00,31" end="PUNT,2,13:35,39" plays="3" yards="8" top="1:25" start_how="DOWNS" start_qtr="2" start_time="15:00" start_spot="AU31" end_how="PUNT" end_qtr="2" end_time="13:35" end_spot="AU39" driveindex="7"></drive>
+  <drive vh="V" team="SJ" start="PUNT,2,13:35,13" end="FUMB,2,10:09,42" plays="7" yards="29" top="3:26" start_how="PUNT" start_qtr="2" start_time="13:35" start_spot="SJ13" end_how="FUMB" end_qtr="2" end_time="10:09" end_spot="SJ42" driveindex="8"></drive>
+  <drive vh="H" team="AU" start="FUMB,2,10:09,58" end="FGA,2,08:43,62" plays="4" yards="4" top="1:26" start_how="FUMB" start_qtr="2" start_time="10:09" start_spot="SJ42" end_how="FGA" end_qtr="2" end_time="08:43" end_spot="SJ38" driveindex="9"></drive>
+  <drive vh="V" team="SJ" start="FGA,2,08:43,38" end="FUMB,2,03:58,74" plays="9" yards="36" top="4:45" start_how="FGA" start_qtr="2" start_time="08:43" start_spot="SJ38" end_how="FUMB" end_qtr="2" end_time="03:58" end_spot="AU26" driveindex="10"></drive>
+  <drive vh="H" team="AU" start="FUMB,2,03:58,26" end="TD,2,00:38,100" plays="9" yards="74" top="3:20" start_how="FUMB" start_qtr="2" start_time="03:58" start_spot="AU26" end_how="TD" end_qtr="2" end_time="00:38" end_spot="SJ00" rz="1" driveindex="11"></drive>
+  <drive vh="V" team="SJ" start="KO,2,00:38,25" end="HALF,2,00:00,27" plays="1" yards="2" top="0:38" start_how="KO" start_qtr="2" start_time="00:38" start_spot="SJ25" end_how="HALF" end_qtr="2" end_time="00:00" end_spot="SJ27" driveindex="12"></drive>
+  <drive vh="V" team="SJ" start="KO,3,15:00,25" end="TD,3,08:01,100" plays="14" yards="75" top="6:59" start_how="KO" start_qtr="3" start_time="15:00" start_spot="SJ25" end_how="TD" end_qtr="3" end_time="08:01" end_spot="AU00" rz="1" driveindex="13"></drive>
+  <drive vh="H" team="AU" start="KO,3,07:51,76" end="TD,3,04:37,100" plays="8" yards="24" top="3:14" start_how="KO" start_qtr="3" start_time="07:51" start_spot="SJ24" end_how="TD" end_qtr="3" end_time="04:37" end_spot="SJ00" rz="1" driveindex="14"></drive>
+  <drive vh="V" team="SJ" start="KO,3,04:37,25" end="PUNT,3,02:33,45" plays="5" yards="20" top="2:04" start_how="KO" start_qtr="3" start_time="04:37" start_spot="SJ25" end_how="PUNT" end_qtr="3" end_time="02:33" end_spot="SJ45" driveindex="15"></drive>
+  <drive vh="H" team="AU" start="PUNT,3,02:33,13" end="FGA,4,10:02,92" plays="15" yards="79" top="7:31" start_how="PUNT" start_qtr="3" start_time="02:33" start_spot="AU13" end_how="FGA" end_qtr="4" end_time="10:02" end_spot="SJ08" rz="1" driveindex="16"></drive>
+  <drive vh="V" team="SJ" start="FGA,4,10:02,20" end="TD,4,05:38,100" plays="8" yards="80" top="4:24" start_how="FGA" start_qtr="4" start_time="10:02" start_spot="SJ20" end_how="TD" end_qtr="4" end_time="05:38" end_spot="AU00" rz="1" driveindex="17"></drive>
+  <drive vh="H" team="AU" start="KO,4,05:36,55" end="TD,4,04:43,100" plays="2" yards="45" top="0:53" start_how="KO" start_qtr="4" start_time="05:36" start_spot="SJ45" end_how="TD" end_qtr="4" end_time="04:43" end_spot="SJ00" driveindex="18"></drive>
+  <drive vh="V" team="SJ" start="KO,4,04:36,32" end="INT,4,02:45,60" plays="7" yards="28" top="1:51" start_how="KO" start_qtr="4" start_time="04:36" start_spot="SJ32" end_how="INT" end_qtr="4" end_time="02:45" end_spot="AU40" driveindex="19"></drive>
+  <drive vh="H" team="AU" start="INT,4,02:45,37" end="HALF,4,00:00,61" plays="4" yards="24" top="2:45" start_how="INT" start_qtr="4" start_time="02:45" start_spot="AU37" end_how="HALF" end_qtr="4" end_time="00:00" end_spot="SJ39" driveindex="20"></drive>
+ </drives>
+ <plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="SJ" down="1" togo="10" spot="SJ35" context="V,1,10,V35" playid="0,1,0" tokens="CMT:San Jose wins the toss and defers."
+      text="San Jose wins the toss and defers." newcontext="V,1,10,V35">
+   </play>
+   <comment text="Auburn will receive and defend the south goal."></comment>
+   <play hasball="SJ" down="1" togo="10" spot="SJ35" context="V,1,10,V35" playid="0,2,2" tokens="SPOT:V,V35,N"
+      text="SJ ball on SJ35." newcontext="V,1,10,V35">
+   </play>
+   <comment text="Previous play was under review for the spot."></comment>
+   <comment text="After the review, the previous spot was over ruled."></comment>
+   <play hasball="SJ" down="1" togo="10" spot="SJ35" context="V,1,10,V35" playid="0,3,3" type="K" tokens="KO:38,H00 RET:24,V39 OB:"
+      text="Bryce Crawford kickoff 65 yards to the AU0, Blake Countess return 61 yards to the SJ39, out-of-bounds." ob="Y" newcontext="H,1,10,V39">
+    <p_ko vh="V" name="Bryce Crawford" gain="65"></p_ko>
+    <p_kr vh="H" name="Blake Countess" gain="61"></p_kr>
+   </play>
+   <drivestart poss="H,V39,15:00" vh="H" spot="V39" clock="15:00" driveindex="1,3"></drivestart>
+   <play hasball="AU" down="1" togo="10" spot="SJ39" context="H,1,10,V39" playid="1,1,6" type="R" pcode="MI" tokens="RUSH:25,V39,MI TACK:90,4"
+      text="Peyton Barber rush up middle for no gain to the SJ39 (Nick Oreglia;Christian Tago)." newcontext="H,2,10,V39">
+    <p_ru vh="H" name="Peyton Barber" gain="0"></p_ru>
+    <p_tk vh="V" name="Nick Oreglia" assist="Y"></p_tk>
+    <p_tk vh="V" name="Christian Tago" assist="Y"></p_tk>
+   </play>
+   <play hasball="AU" down="2" togo="10" spot="SJ39" context="H,2,10,V39" playid="1,2,7" type="R" pcode="MI" tokens="RUSH:13,V38,MI TACK:53"
+      text="Sean White rush up middle for 1 yard to the SJ38 (Isaiah Irving)." newcontext="H,3,9,V38">
+    <p_ru vh="H" name="Sean White" gain="1"></p_ru>
+    <p_tk vh="V" name="Isaiah Irving"></p_tk>
+   </play>
+   <play hasball="AU" down="3" togo="9" spot="SJ38" context="H,3,9,V38" playid="1,3,8" type="P" pcode="RDSL" tokens="PASS:13,I,1,*,RDSL BRUP:21"
+      text="Sean White RDSL pass incomplete to D. Williams (Andre Chachere)." newcontext="H,4,9,V38">
+    <p_pa vh="H" qb="Sean White" result="INC" rcv="D. Williams"></p_pa>
+    <p_bu vh="V" name="Andre Chachere"></p_bu>
+   </play>
+   <play hasball="AU" down="4" togo="9" spot="SJ38" context="H,4,9,V38" playid="1,4,9" type="U" tokens="PUNT:91,V05 DN:"
+      text="Kevin Phillips punt 33 yards to the SJ5, downed." newcontext="V,1,10,V05">
+    <p_pu vh="H" name="Kevin Phillips" gain="33" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="1" top="1:22" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="V,V05,13:38" vh="V" spot="V05" clock="13:38" driveindex="2,9"></drivestart>
+   <play hasball="SJ" down="1" togo="10" spot="SJ05" context="V,1,10,V05" playid="2,1,10" clock="13:38" tokens="{DRIVE}:13:38"
+      text="SAN JOSE STATE drive start at 13:38." newcontext="V,1,10,V05">
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="SJ05" context="V,1,10,V05" playid="2,2,11" type="R" pcode="LG" tokens="RUSH:7,V10,LG TACK:17,28"
+      text="Tyler Ervin rush over left guard for 5 yards to the SJ10 (Kris Frost;Tray Matthews)." newcontext="V,2,5,V10">
+    <p_ru vh="V" name="Tyler Ervin" gain="5"></p_ru>
+    <p_tk vh="H" name="Kris Frost" assist="Y"></p_tk>
+    <p_tk vh="H" name="Tray Matthews" assist="Y"></p_tk>
+   </play>
+   <play hasball="SJ" down="2" togo="5" spot="SJ10" context="V,2,5,V10" playid="2,3,12" type="P" pcode="LF" tokens="PASS:6,I,18,*,LF"
+      text="Joe Gray LF pass incomplete to Billy Freeman." newcontext="V,3,5,V10">
+    <p_pa vh="V" qb="Joe Gray" result="INC" rcv="Billy Freeman"></p_pa>
+   </play>
+   <play hasball="SJ" down="3" togo="5" spot="SJ10" context="V,3,5,V10" playid="2,4,13" type="R" pcode="RE" first="R" tokens="RUSH:7,V29,RE OB: TACK:23"
+      text="Tyler Ervin rush over right end for 19 yards to the SJ29, 1ST DOWN SJ, out-of-bounds (Johnathan Ford)." ob="Y" newcontext="V,1,10,V29">
+    <p_ru vh="V" name="Tyler Ervin" gain="19"></p_ru>
+    <p_tk vh="H" name="Johnathan Ford"></p_tk>
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="SJ29" context="V,1,10,V29" playid="2,5,14" type="P" pcode="RF" tokens="PASS:6,C,49,V38,RF TACK:24"
+      text="Joe Gray RF pass complete to Shane Smith for 9 yards to the SJ38 (Blake Countess)." newcontext="V,2,1,V38">
+    <p_pa vh="V" qb="Joe Gray" result="COMP" rcv="Shane Smith" gain="9"></p_pa>
+    <p_tk vh="H" name="Blake Countess"></p_tk>
+   </play>
+   <play hasball="SJ" down="2" togo="1" spot="SJ38" context="V,2,1,V38" playid="2,6,15" type="E" pcode="MI" tokens="RUSH:7,V41,MI TACK:23 PEN:V,HO,A,89,V28,N NOPLAY:"
+      text="Tyler Ervin rush up middle for 3 yards to the SJ41 (Johnathan Ford), PENALTY SJ holding (Josh Oliver) 10 yards to the SJ28, NO PLAY." newcontext="V,2,11,V28">
+    <p_pn vh="V" code="HO" type="holding" name="Josh Oliver" result="ACCEPT" at="V38" yards="10"></p_pn>
+   </play>
+   <play hasball="SJ" down="2" togo="11" spot="SJ28" context="V,2,11,V28" playid="2,7,16" type="P" pcode="MI" turnover="I" tokens="PASS:6,X,26,V34,MI RET:26,V23 OB:"
+      text="Joe Gray middle pass intercepted by Justin Garrett at the SJ34, Justin Garrett return 11 yards to the SJ23, out-of-bounds." ob="Y" newcontext="H,1,10,V23">
+    <p_pa vh="V" qb="Joe Gray" result="INT"></p_pa>
+    <p_ir vh="H" name="Justin Garrett" at="V34" gain="11"></p_ir>
+   </play>
+   <comment text="The pass was deflected on a hit by Blake Countess."></comment>
+   <drivesum plays="5" yards="23" top="2:12" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="H,V23,13:38" vh="H" spot="V23" clock="13:38" driveindex="3,16"></drivestart>
+   <play hasball="AU" down="1" togo="10" spot="SJ23" context="H,1,10,V23" playid="3,1,18" clock="11:26" tokens="{DRIVE}:11:26"
+      text="AUBURN drive start at 11:26." newcontext="H,1,10,V23">
+   </play>
+   <play hasball="AU" down="1" togo="10" spot="SJ23" context="H,1,10,V23" playid="3,2,19" type="R" pcode="LT" tokens="RUSH:21,V15,LT TACK:8"
+      text="Kerryon Johnson rush over left tackle for 8 yards to the SJ15 (Jimmy Pruitt)." newcontext="H,2,2,V15">
+    <p_ru vh="H" name="Kerryon Johnson" gain="8"></p_ru>
+    <p_tk vh="V" name="Jimmy Pruitt"></p_tk>
+   </play>
+   <play hasball="AU" down="2" togo="2" spot="SJ15" context="H,2,2,V15" playid="3,3,20" type="R" pcode="MI" tokens="RUSH:21,V16,MI TACK:98,92"
+      text="Kerryon Johnson rush up middle for loss of 1 yard to the SJ16 (Tony Popovich;Keenan Sykes)." newcontext="H,3,3,V16">
+    <p_ru vh="H" name="Kerryon Johnson" gain="-1"></p_ru>
+    <p_tk vh="V" name="Tony Popovich" assist="Y"></p_tk>
+    <p_tk vh="V" name="Keenan Sykes" assist="Y"></p_tk>
+   </play>
+   <play hasball="AU" down="3" togo="3" spot="SJ16" context="H,3,3,V16" playid="3,4,21" type="R" pcode="LE" first="R" tokens="RUSH:5,V05,LE TACK:29"
+      text="Ricardo Louis rush over left end for 11 yards to the SJ5, 1ST DOWN AU (William Ossai)." newcontext="H,1,0,V05">
+    <p_ru vh="H" name="Ricardo Louis" gain="11"></p_ru>
+    <p_tk vh="V" name="William Ossai"></p_tk>
+   </play>
+   <play hasball="AU" down="1" togo="0" spot="SJ05" context="H,1,0,V05" playid="3,5,22" type="R" pcode="LG" tokens="RUSH:25,V02,LG TACK:5G"
+      text="Peyton Barber rush over left guard for 3 yards to the SJ2 (Frank Ginda)." newcontext="H,2,0,V02">
+    <p_ru vh="H" name="Peyton Barber" gain="3"></p_ru>
+    <p_tk vh="V" name="Frank Ginda"></p_tk>
+   </play>
+   <play hasball="AU" down="2" togo="0" spot="SJ02" context="H,2,0,V02" playid="3,6,23" type="R" pcode="LG" score="Y" vscore="0" hscore="6" clock="09:54" tokens="RUSH:25,V00,LG T:09:54"
+      text="Peyton Barber rush over left guard for 2 yards to the SJ0, TOUCHDOWN, clock 09:54." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Peyton Barber" gain="2"></p_ru>
+   </play>
+   <play hasball="AU" down="1" togo="0" spot="SJ03" context="H,1,0,V03" playid="3,7,24" type="X" score="Y" vscore="0" hscore="7" tokens="PAT:K,38,G"
+      text="Daniel Carlson kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Daniel Carlson" qb="Daniel Carlson" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="7"></score>
+   <drivesum plays="5" yards="23" top="1:32" driveindex="3" complete="Y"></drivesum>
+   <play hasball="AU" down="1" togo="0" spot="AU35" context="H,1,0,H35" playid="3,8,25" type="K" tokens="KO:38,V03 RET:7,V31 TACK:14"
+      text="Daniel Carlson kickoff 62 yards to the SJ3, Tyler Ervin return 28 yards to the SJ31 (Stephen Roberts)." newcontext="V,1,10,V31">
+    <p_ko vh="H" name="Daniel Carlson" gain="62"></p_ko>
+    <p_kr vh="V" name="Tyler Ervin" gain="28"></p_kr>
+    <p_tk vh="H" name="Stephen Roberts"></p_tk>
+   </play>
+   <drivestart poss="V,V31,09:43" vh="V" spot="V31" clock="09:43" driveindex="4,25"></drivestart>
+   <play hasball="SJ" down="1" togo="10" spot="SJ31" context="V,1,10,V31" playid="4,1,26" clock="09:43" tokens="{DRIVE}:09:43"
+      text="SAN JOSE STATE drive start at 09:43." newcontext="V,1,10,V31">
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="SJ31" context="V,1,10,V31" playid="4,2,27" type="R" pcode="RG" tokens="RUSH:7,V36,RG"
+      text="Tyler Ervin rush over right guard for 5 yards to the SJ36." newcontext="V,2,5,V36">
+    <p_ru vh="V" name="Tyler Ervin" gain="5"></p_ru>
+   </play>
+   <play hasball="SJ" down="2" togo="5" spot="SJ36" context="V,2,5,V36" playid="4,3,28" type="P" pcode="RSL" first="P" tokens="PASS:6,C,18,V50,RSL OB:"
+      text="Joe Gray RSL pass complete to Billy Freeman for 14 yards to the 50 yardline, 1ST DOWN SJ, out-of-bounds." ob="Y" newcontext="V,1,10,V50">
+    <p_pa vh="V" qb="Joe Gray" result="COMP" rcv="Billy Freeman" gain="14"></p_pa>
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="SJ50" context="V,1,10,V50" playid="4,4,29" type="R" pcode="MI" tokens="RUSH:7,H45,MI TACK:26,24"
+      text="Tyler Ervin rush up middle for 5 yards to the AU45 (Justin Garrett;Blake Countess)." newcontext="V,2,5,H45">
+    <p_ru vh="V" name="Tyler Ervin" gain="5"></p_ru>
+    <p_tk vh="H" name="Justin Garrett" assist="Y"></p_tk>
+    <p_tk vh="H" name="Blake Countess" assist="Y"></p_tk>
+   </play>
+   <play hasball="SJ" down="2" togo="5" spot="AU45" context="V,2,5,H45" playid="4,5,30" type="R" pcode="RV" tokens="RUSH:2,H47,RV OB: TACK:95"
+      text="Tim Crawley rush reverse for loss of 2 yards to the AU47, out-of-bounds (D. Russell)." ob="Y" newcontext="V,3,7,H47">
+    <p_ru vh="V" name="Tim Crawley" gain="-2"></p_ru>
+    <p_tk vh="H" name="D. Russell"></p_tk>
+   </play>
+   <play hasball="SJ" down="3" togo="7" spot="AU47" context="V,3,7,H47" playid="4,6,31" type="R" pcode="LG" tokens="RUSH:40,H44,LG TACK:95"
+      text="Jarrod Lawson rush over left guard for 3 yards to the AU44 (D. Russell)." newcontext="V,4,4,H44">
+    <p_ru vh="V" name="Jarrod Lawson" gain="3"></p_ru>
+    <p_tk vh="H" name="D. Russell"></p_tk>
+   </play>
+   <play hasball="SJ" down="4" togo="4" spot="AU44" context="V,4,4,H44" playid="4,7,32" type="P" pcode="MI" first="P" tokens="PASS:6,C,2,H20,MI TACK:28"
+      text="Joe Gray middle pass complete to Tim Crawley for 24 yards to the AU20, 1ST DOWN SJ (Tray Matthews)." newcontext="V,1,10,H20">
+    <p_pa vh="V" qb="Joe Gray" result="COMP" rcv="Tim Crawley" gain="24"></p_pa>
+    <p_tk vh="H" name="Tray Matthews"></p_tk>
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="AU20" context="V,1,10,H20" playid="4,8,33" type="P" pcode="RSC" tokens="PASS:6,C,87,H13,RSC TACK:23,18"
+      text="Joe Gray RSC pass complete to Hansell Wilson for 7 yards to the AU13 (Johnathan Ford;Carlton Davis)." newcontext="V,2,3,H13">
+    <p_pa vh="V" qb="Joe Gray" result="COMP" rcv="Hansell Wilson" gain="7"></p_pa>
+    <p_tk vh="H" name="Johnathan Ford" assist="Y"></p_tk>
+    <p_tk vh="H" name="Carlton Davis" assist="Y"></p_tk>
+   </play>
+   <play hasball="SJ" down="2" togo="3" spot="AU13" context="V,2,3,H13" playid="4,9,34" type="E" tokens="PEN:V,PR,A,64,H18,N"
+      text="PENALTY SJ illegal procedure (64) 5 yards to the AU18." newcontext="V,2,8,H18">
+    <p_pn vh="V" code="PR" type="illegal procedure" name="64" result="ACCEPT" at="H13" yards="5"></p_pn>
+   </play>
+   <play hasball="SJ" down="2" togo="8" spot="AU18" context="V,2,8,H18" playid="4,10,35" type="P" pcode="RSL" tokens="PASS:6,I,15,*,RSL QBH:H,8"
+      text="Joe Gray RSL pass incomplete to Tyler Winston, QB hurry by C. McKinzy." newcontext="V,3,8,H18">
+    <p_pa vh="V" qb="Joe Gray" result="INC" rcv="Tyler Winston"></p_pa>
+    <p_qbh vh="H" name="C. McKinzy"></p_qbh>
+   </play>
+   <play hasball="SJ" down="3" togo="8" spot="AU18" context="V,3,8,H18" playid="4,11,36" type="P" pcode="REZ" first="P" score="Y" vscore="6" hscore="7" clock="04:55" tokens="PASS:6,C,15,H00,REZ T:04:55"
+      text="Joe Gray REZ pass complete to Tyler Winston for 18 yards to the AU0, 1ST DOWN SJ, TOUCHDOWN, clock 04:55." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Joe Gray" result="COMP" rcv="Tyler Winston" gain="18"></p_pa>
+   </play>
+   <play hasball="SJ" down="1" togo="0" spot="AU03" context="V,1,0,H03" playid="4,12,37" type="X" score="Y" vscore="7" hscore="7" tokens="PAT:K,38,G"
+      text="Bryce Crawford kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Bryce Crawford" qb="Bryce Crawford" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="7"></score>
+   <drivesum plays="9" yards="69" top="4:48" driveindex="4" complete="Y"></drivesum>
+   <play hasball="SJ" down="1" togo="0" spot="SJ35" context="V,1,0,V35" playid="4,13,38" type="K" tokens="KO:38,H17 RET:23,H40 TACK:55"
+      text="Bryce Crawford kickoff 48 yards to the AU17, Johnathan Ford return 23 yards to the AU40 (Moses Saucedo)." newcontext="H,1,10,H40">
+    <p_ko vh="V" name="Bryce Crawford" gain="48"></p_ko>
+    <p_kr vh="H" name="Johnathan Ford" gain="23"></p_kr>
+    <p_tk vh="V" name="Moses Saucedo"></p_tk>
+   </play>
+   <drivestart poss="H,H40,04:50" vh="H" spot="H40" clock="04:50" driveindex="5,38"></drivestart>
+   <play hasball="AU" down="1" togo="10" spot="AU40" context="H,1,10,H40" playid="5,1,39" clock="04:50" tokens="{DRIVE}:04:50"
+      text="AUBURN drive start at 04:50." newcontext="H,1,10,H40">
+   </play>
+   <play hasball="AU" down="1" togo="10" spot="AU40" context="H,1,10,H40" playid="5,2,40" type="P" pcode="LSC" first="P" tokens="PASS:13,C,9,V18,LSC TACK:26"
+      text="Sean White LSC pass complete to Roc Thomas for 42 yards to the SJ18, 1ST DOWN AU (Vincente Miles)." newcontext="H,1,10,V18">
+    <p_pa vh="H" qb="Sean White" result="COMP" rcv="Roc Thomas" gain="42"></p_pa>
+    <p_tk vh="V" name="Vincente Miles"></p_tk>
+   </play>
+   <play hasball="AU" down="1" togo="10" spot="SJ18" context="H,1,10,V18" playid="5,3,41" type="R" pcode="LE" tokens="RUSH:13,V17,LE FORCE:26 FUMB:H,V17,13 OB: TACK:26"
+      text="Sean White rush over left end for 1 yard to the SJ17, fumble forced by Vincente Miles, fumble by Sean White recovered by AU Sean White at SJ17, out-of-bounds (Vincente Miles)." ob="Y" newcontext="H,2,9,V17">
+    <p_ru vh="H" name="Sean White" gain="1"></p_ru>
+    <p_fumb vh="H" name="Sean White" at="V17" frvh="H" frname="Sean White"></p_fumb>
+    <p_tk vh="V" name="Vincente Miles" ff="Y"></p_tk>
+    <p_tk vh="V" name="Vincente Miles"></p_tk>
+   </play>
+   <play hasball="AU" down="2" togo="9" spot="SJ17" context="H,2,9,V17" playid="5,4,42" type="R" pcode="MI" tokens="RUSH:21,V10,MI TACK:26"
+      text="Kerryon Johnson rush up middle for 7 yards to the SJ10 (Vincente Miles)." newcontext="H,3,2,V10">
+    <p_ru vh="H" name="Kerryon Johnson" gain="7"></p_ru>
+    <p_tk vh="V" name="Vincente Miles"></p_tk>
+   </play>
+   <play hasball="AU" down="3" togo="2" spot="SJ10" context="H,3,2,V10" playid="5,5,43" type="#" clock="03:52" tokens="TOUT:V T:03:52"
+      text="Timeout San Jose State, clock 03:52." newcontext="H,3,2,V10">
+    <p_to vh="V" team="San Jose State"></p_to>
+   </play>
+   <play hasball="AU" down="3" togo="2" spot="SJ10" context="H,3,2,V10" playid="5,6,44" type="R" pcode="LG" first="R" tokens="RUSH:25,V01,LG TACK:8"
+      text="Peyton Barber rush over left guard for 9 yards to the SJ1, 1ST DOWN AU (Jimmy Pruitt)." newcontext="H,1,0,V01">
+    <p_ru vh="H" name="Peyton Barber" gain="9"></p_ru>
+    <p_tk vh="V" name="Jimmy Pruitt"></p_tk>
+   </play>
+   <play hasball="AU" down="1" togo="0" spot="SJ01" context="H,1,0,V01" playid="5,7,45" type="R" pcode="MI" tokens="RUSH:25,V01,MI TACK:29"
+      text="Peyton Barber rush up middle for no gain to the SJ1 (William Ossai)." newcontext="H,2,0,V01">
+    <p_ru vh="H" name="Peyton Barber" gain="0"></p_ru>
+    <p_tk vh="V" name="William Ossai"></p_tk>
+   </play>
+   <play hasball="AU" down="2" togo="0" spot="SJ01" context="H,2,0,V01" playid="5,8,46" type="R" pcode="MI" tokens="RUSH:25,V02,MI TACK:8"
+      text="Peyton Barber rush up middle for loss of 1 yard to the SJ2 (Jimmy Pruitt)." newcontext="H,3,0,V02">
+    <p_ru vh="H" name="Peyton Barber" gain="-1"></p_ru>
+    <p_tk vh="V" name="Jimmy Pruitt"></p_tk>
+   </play>
+   <play hasball="AU" down="3" togo="0" spot="SJ02" context="H,3,0,V02" playid="5,9,47" type="R" pcode="RT" score="Y" vscore="7" hscore="13" clock="02:32" tokens="RUSH:25,V00,RT T:02:32"
+      text="Peyton Barber rush over right tackle for 2 yards to the SJ0, TOUCHDOWN, clock 02:32." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Peyton Barber" gain="2"></p_ru>
+   </play>
+   <play hasball="AU" down="1" togo="0" spot="SJ03" context="H,1,0,V03" playid="5,10,48" type="X" score="Y" vscore="7" hscore="14" tokens="PAT:K,38,G"
+      text="Daniel Carlson kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Daniel Carlson" qb="Daniel Carlson" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="14"></score>
+   <drivesum plays="7" yards="60" top="2:18" driveindex="5" complete="Y"></drivesum>
+   <play hasball="AU" down="1" togo="0" spot="AU35" context="H,1,0,H35" playid="5,11,49" type="K" tokens="KO:38,V00 TB:"
+      text="Daniel Carlson kickoff 65 yards to the SJ0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Daniel Carlson" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,02:32" vh="V" spot="V25" clock="02:32" driveindex="6,49"></drivestart>
+   <play hasball="SJ" down="1" togo="10" spot="SJ25" context="V,1,10,V25" playid="6,1,50" clock="02:32" tokens="{DRIVE}:02:32"
+      text="SAN JOSE STATE drive start at 02:32." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="SJ25" context="V,1,10,V25" playid="6,2,51" type="R" pcode="LE" first="R" tokens="RUSH:7,H49,LE OB: TACK:23"
+      text="Tyler Ervin rush over left end for 26 yards to the AU49, 1ST DOWN SJ, out-of-bounds (Johnathan Ford)." ob="Y" newcontext="V,1,10,H49">
+    <p_ru vh="V" name="Tyler Ervin" gain="26"></p_ru>
+    <p_tk vh="H" name="Johnathan Ford"></p_tk>
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="AU49" context="V,1,10,H49" playid="6,3,52" type="P" pcode="LF" first="P" tokens="PASS:6,C,18,H38,LF TACK:3"
+      text="Joe Gray LF pass complete to Billy Freeman for 11 yards to the AU38, 1ST DOWN SJ (Jonathan Jones)." newcontext="V,1,10,H38">
+    <p_pa vh="V" qb="Joe Gray" result="COMP" rcv="Billy Freeman" gain="11"></p_pa>
+    <p_tk vh="H" name="Jonathan Jones"></p_tk>
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="AU38" context="V,1,10,H38" playid="6,4,53" type="R" pcode="MI" tokens="RUSH:7,H34,MI TACK:17"
+      text="Tyler Ervin rush up middle for 4 yards to the AU34 (Kris Frost)." newcontext="V,2,6,H34">
+    <p_ru vh="V" name="Tyler Ervin" gain="4"></p_ru>
+    <p_tk vh="H" name="Kris Frost"></p_tk>
+   </play>
+   <play hasball="SJ" down="2" togo="6" spot="AU34" context="V,2,6,H34" playid="6,5,54" type="P" pcode="MI" tokens="PASS:6,I,87,*,MI"
+      text="Joe Gray middle pass incomplete to Hansell Wilson." newcontext="V,3,6,H34">
+    <p_pa vh="V" qb="Joe Gray" result="INC" rcv="Hansell Wilson"></p_pa>
+   </play>
+   <play hasball="SJ" down="3" togo="6" spot="AU34" context="V,3,6,H34" playid="6,6,55" type="P" pcode="LF" tokens="PASS:6,C,87,H31,LF TACK:3"
+      text="Joe Gray LF pass complete to Hansell Wilson for 3 yards to the AU31 (Jonathan Jones)." newcontext="V,4,3,H31">
+    <p_pa vh="V" qb="Joe Gray" result="COMP" rcv="Hansell Wilson" gain="3"></p_pa>
+    <p_tk vh="H" name="Jonathan Jones"></p_tk>
+   </play>
+   <play hasball="SJ" down="4" togo="3" spot="AU31" context="V,4,3,H31" playid="6,7,56" type="P" pcode="RSL" tokens="PASS:6,I,15,*,RSL QBH:H,6"
+      text="Joe Gray RSL pass incomplete to Tyler Winston, QB hurry by DaVonte Lambert." newcontext="H,1,10,H31">
+    <p_pa vh="V" qb="Joe Gray" result="INC" rcv="Tyler Winston"></p_pa>
+    <p_qbh vh="H" name="DaVonte Lambert"></p_qbh>
+   </play>
+   <drivesum plays="6" yards="44" top="2:32" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="H,H31,00:00" vh="H" spot="H31" clock="00:00" driveindex="7,56"></drivestart>
+   <play hasball="AU" down="1" togo="10" spot="AU31" context="H,1,10,H31" playid="7,1,57" clock="00:00" tokens="{DRIVE}:00:00"
+      text="AUBURN drive start at 00:00." newcontext="H,1,10,H31">
+   </play>
+   <score qtr="1" V="7" H="14"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="SJ">
+    <firstdowns no="6" rush="2" pass="4" penalty="0"></firstdowns>
+    <penalties no="2" yds="15"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="1" fourthatt="2"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:43"></misc>
+    <rush att="8" yds="65" gain="67" loss="2" td="0" long="26"></rush>
+    <pass comp="7" att="12" int="1" yds="86" td="1" long="24" sacks="0" sackyds="0"></pass>
+    <rcv no="7" yds="86" td="1" long="24"></rcv>
+    <ko no="2" yds="113" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="12" tacka="4" tot_tack="16" tflua="1" tfla="2" tflyds="2" sacks="0" sackyds="0" brup="1" ff="1"></defense>
+    <kr no="1" yds="28" td="0" long="28"></kr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="AU">
+    <firstdowns no="3" rush="2" pass="1" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="3" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="05:17"></misc>
+    <rush att="13" yds="42" gain="44" loss="2" td="2" long="11"></rush>
+    <pass comp="1" att="2" int="0" yds="42" td="0" long="42" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="42" td="0" long="42"></rcv>
+    <punt no="1" yds="33" long="33" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="33.0"></punt>
+    <ko no="2" yds="127" ob="0" tb="1"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="10" tacka="6" tot_tack="16" tflua="1" tfla="0" tflyds="2" sacks="0" sackyds="0" qbh="2" int="1" intyds="11"></defense>
+    <kr no="2" yds="84" td="0" long="61"></kr>
+    <ir no="1" yds="11" td="0" long="11"></ir>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="AU" down="1" togo="10" spot="AU31" context="H,1,10,H31" playid="7,2,58" type="#" clock="15:00" tokens="Q:2 T:15:00"
+      text="Start of 2nd quarter, clock 15:00." newcontext="H,1,10,H31">
+   </play>
+   <play hasball="AU" down="1" togo="10" spot="AU31" context="H,1,10,H31" playid="7,3,59" type="R" pcode="RE" tokens="RUSH:25,H28,RE TACK:8"
+      text="Peyton Barber rush over right end for loss of 3 yards to the AU28 (Jimmy Pruitt)." newcontext="H,2,13,H28">
+    <p_ru vh="H" name="Peyton Barber" gain="-3"></p_ru>
+    <p_tk vh="V" name="Jimmy Pruitt"></p_tk>
+   </play>
+   <play hasball="AU" down="2" togo="13" spot="AU28" context="H,2,13,H28" playid="7,4,60" type="P" pcode="DP" tokens="PASS:13,D,4,*,DP"
+      text="Sean White deep pass incomplete to Jason Smith, dropped pass." newcontext="H,3,13,H28">
+    <p_pa vh="H" qb="Sean White" result="DROP" rcv="Jason Smith"></p_pa>
+   </play>
+   <play hasball="AU" down="3" togo="13" spot="AU28" context="H,3,13,H28" playid="7,5,61" type="P" pcode="MI" tokens="PASS:13,C,5,H39,MI TACK:26"
+      text="Sean White middle pass complete to Ricardo Louis for 11 yards to the AU39 (Vincente Miles)." newcontext="H,4,2,H39">
+    <p_pa vh="H" qb="Sean White" result="COMP" rcv="Ricardo Louis" gain="11"></p_pa>
+    <p_tk vh="V" name="Vincente Miles"></p_tk>
+   </play>
+   <play hasball="AU" down="4" togo="2" spot="AU39" context="H,4,2,H39" playid="7,6,62" type="U" tokens="PUNT:91,V13 FC:7"
+      text="Kevin Phillips punt 48 yards to the SJ13, fair catch by Tyler Ervin." newcontext="V,1,10,V13">
+    <p_pu vh="H" name="Kevin Phillips" gain="48" in20="Y" fc="Tyler Ervin"></p_pu>
+   </play>
+   <drivesum plays="3" yards="8" top="1:25" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="V,V13,13:35" vh="V" spot="V13" clock="13:35" driveindex="8,62"></drivestart>
+   <play hasball="SJ" down="1" togo="10" spot="SJ13" context="V,1,10,V13" playid="8,1,63" clock="13:35" tokens="{DRIVE}:13:35"
+      text="SAN JOSE STATE drive start at 13:35." newcontext="V,1,10,V13">
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="SJ13" context="V,1,10,V13" playid="8,2,64" type="P" pcode="RF" tokens="PASS:6,C,87,V20,RF TACK:23"
+      text="Joe Gray RF pass complete to Hansell Wilson for 7 yards to the SJ20 (Johnathan Ford)." newcontext="V,2,3,V20">
+    <p_pa vh="V" qb="Joe Gray" result="COMP" rcv="Hansell Wilson" gain="7"></p_pa>
+    <p_tk vh="H" name="Johnathan Ford"></p_tk>
+   </play>
+   <play hasball="SJ" down="2" togo="3" spot="SJ20" context="V,2,3,V20" playid="8,3,65" type="R" pcode="MI" first="R" tokens="RUSH:7,V24,MI TACK:8,28"
+      text="Tyler Ervin rush up middle for 4 yards to the SJ24, 1ST DOWN SJ (C. McKinzy;Tray Matthews)." newcontext="V,1,10,V24">
+    <p_ru vh="V" name="Tyler Ervin" gain="4"></p_ru>
+    <p_tk vh="H" name="C. McKinzy" assist="Y"></p_tk>
+    <p_tk vh="H" name="Tray Matthews" assist="Y"></p_tk>
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="SJ24" context="V,1,10,V24" playid="8,4,66" type="R" pcode="RG" tokens="RUSH:7,V29,RG TACK:17,16"
+      text="Tyler Ervin rush over right guard for 5 yards to the SJ29 (Kris Frost;J. Mitchell)." newcontext="V,2,5,V29">
+    <p_ru vh="V" name="Tyler Ervin" gain="5"></p_ru>
+    <p_tk vh="H" name="Kris Frost" assist="Y"></p_tk>
+    <p_tk vh="H" name="J. Mitchell" assist="Y"></p_tk>
+   </play>
+   <play hasball="SJ" down="2" togo="5" spot="SJ29" context="V,2,5,V29" playid="8,5,67" type="P" pcode="MI" first="P" tokens="PASS:6,C,18,V36,MI TACK:23"
+      text="Joe Gray middle pass complete to Billy Freeman for 7 yards to the SJ36, 1ST DOWN SJ (Johnathan Ford)." newcontext="V,1,10,V36">
+    <p_pa vh="V" qb="Joe Gray" result="COMP" rcv="Billy Freeman" gain="7"></p_pa>
+    <p_tk vh="H" name="Johnathan Ford"></p_tk>
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="SJ36" context="V,1,10,V36" playid="8,6,68" type="R" pcode="MI" tokens="RUSH:7,V39,MI TACK:16,17"
+      text="Tyler Ervin rush up middle for 3 yards to the SJ39 (J. Mitchell;Kris Frost)." newcontext="V,2,7,V39">
+    <p_ru vh="V" name="Tyler Ervin" gain="3"></p_ru>
+    <p_tk vh="H" name="J. Mitchell" assist="Y"></p_tk>
+    <p_tk vh="H" name="Kris Frost" assist="Y"></p_tk>
+   </play>
+   <play hasball="SJ" down="2" togo="7" spot="SJ39" context="V,2,7,V39" playid="8,7,69" type="P" pcode="RSL" tokens="PASS:6,I,18,*,RSL QBH:H,8 QBH:H,94"
+      text="Joe Gray RSL pass incomplete to Billy Freeman, QB hurry by C. McKinzy, QB hurry by D. Lawrence." newcontext="V,3,7,V39">
+    <p_pa vh="V" qb="Joe Gray" result="INC" rcv="Billy Freeman"></p_pa>
+    <p_qbh vh="H" name="D. Lawrence"></p_qbh>
+   </play>
+   <play hasball="SJ" down="3" togo="7" spot="SJ39" context="V,3,7,V39" playid="8,8,70" type="P" pcode="MI" turnover="F" tokens="PASS:6,C,87,V47,MI FORCE:23 FUMB:H,V42,95"
+      text="Joe Gray middle pass complete to Hansell Wilson for 8 yards to the SJ47, fumble forced by Johnathan Ford, fumble by Hansell Wilson recovered by AU D. Russell at SJ42." newcontext="H,1,10,V42">
+    <p_pa vh="V" qb="Joe Gray" result="COMP" rcv="Hansell Wilson" gain="8"></p_pa>
+    <p_fumb vh="V" name="Hansell Wilson" at="V42" frvh="H" frname="D. Russell"></p_fumb>
+    <p_tk vh="H" name="Johnathan Ford" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="7" yards="29" top="3:26" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="H,V42,10:09" vh="H" spot="V42" clock="10:09" driveindex="9,70"></drivestart>
+   <play hasball="AU" down="1" togo="10" spot="SJ42" context="H,1,10,V42" playid="9,1,71" clock="10:09" tokens="{DRIVE}:10:09"
+      text="AUBURN drive start at 10:09." newcontext="H,1,10,V42">
+   </play>
+   <play hasball="AU" down="1" togo="10" spot="SJ42" context="H,1,10,V42" playid="9,2,72" type="R" pcode="RE" tokens="RUSH:5,V40,RE TACK:10"
+      text="Ricardo Louis rush over right end for 2 yards to the SJ40 (Mauri Mcknight)." newcontext="H,2,8,V40">
+    <p_ru vh="H" name="Ricardo Louis" gain="2"></p_ru>
+    <p_tk vh="V" name="Mauri Mcknight"></p_tk>
+   </play>
+   <play hasball="AU" down="2" togo="8" spot="SJ40" context="H,2,8,V40" playid="9,3,73" type="P" pcode="LSC" tokens="PASS:13,C,80,V38,LSC TACK:29"
+      text="Sean White LSC pass complete to Marcus Davis for 2 yards to the SJ38 (William Ossai)." newcontext="H,3,6,V38">
+    <p_pa vh="H" qb="Sean White" result="COMP" rcv="Marcus Davis" gain="2"></p_pa>
+    <p_tk vh="V" name="William Ossai"></p_tk>
+   </play>
+   <play hasball="AU" down="3" togo="6" spot="SJ38" context="H,3,6,V38" playid="9,4,74" type="P" pcode="LDSL" tokens="PASS:13,I,5,*,LDSL"
+      text="Sean White LDSL pass incomplete to Ricardo Louis." newcontext="H,4,6,V38">
+    <p_pa vh="H" qb="Sean White" result="INC" rcv="Ricardo Louis"></p_pa>
+   </play>
+   <play hasball="AU" down="4" togo="6" spot="SJ38" context="H,4,6,V38" playid="9,5,75" type="#" clock="08:47" tokens="TOUT:V T:08:47"
+      text="Timeout San Jose State, clock 08:47." newcontext="H,4,6,V38">
+    <p_to vh="V" team="San Jose State"></p_to>
+   </play>
+   <play hasball="AU" down="4" togo="6" spot="SJ38" context="H,4,6,V38" playid="9,6,76" type="F" clock="08:43" tokens="FGA:38,55,M,V38,R T:08:43"
+      text="Daniel Carlson field goal attempt from 55 MISSED - wide right, spot at SJ38, clock 08:43." newcontext="V,1,10,V38">
+    <p_fg vh="H" name="Daniel Carlson" distance="55" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="4" yards="4" top="1:26" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="V,V38,08:43" vh="V" spot="V38" clock="08:43" driveindex="10,76"></drivestart>
+   <play hasball="SJ" down="1" togo="10" spot="SJ38" context="V,1,10,V38" playid="10,1,77" clock="08:43" tokens="{DRIVE}:08:43"
+      text="SAN JOSE STATE drive start at 08:43." newcontext="V,1,10,V38">
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="SJ38" context="V,1,10,V38" playid="10,2,78" type="P" pcode="LF" tokens="PASS:6,C,18,V41,LF TACK:23"
+      text="Joe Gray LF pass complete to Billy Freeman for 3 yards to the SJ41 (Johnathan Ford)." newcontext="V,2,7,V41">
+    <p_pa vh="V" qb="Joe Gray" result="COMP" rcv="Billy Freeman" gain="3"></p_pa>
+    <p_tk vh="H" name="Johnathan Ford"></p_tk>
+   </play>
+   <play hasball="SJ" down="2" togo="7" spot="SJ41" context="V,2,7,V41" playid="10,3,79" type="R" pcode="RT" first="R" tokens="RUSH:7,V50,RT TACK:16"
+      text="Tyler Ervin rush over right tackle for 9 yards to the 50 yardline, 1ST DOWN SJ (J. Mitchell)." newcontext="V,1,10,V50">
+    <p_ru vh="V" name="Tyler Ervin" gain="9"></p_ru>
+    <p_tk vh="H" name="J. Mitchell"></p_tk>
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="SJ50" context="V,1,10,V50" playid="10,4,80" type="R" pcode="RT" tokens="RUSH:7,H42,RT TACK:17"
+      text="Tyler Ervin rush over right tackle for 8 yards to the AU42 (Kris Frost)." newcontext="V,2,2,H42">
+    <p_ru vh="V" name="Tyler Ervin" gain="8"></p_ru>
+    <p_tk vh="H" name="Kris Frost"></p_tk>
+   </play>
+   <play hasball="SJ" down="2" togo="2" spot="AU42" context="V,2,2,H42" playid="10,5,81" type="R" pcode="RG" tokens="RUSH:40,H41,RG TACK:17,1A"
+      text="Jarrod Lawson rush over right guard for 1 yard to the AU41 (Kris Frost;M. Adams)." newcontext="V,3,1,H41">
+    <p_ru vh="V" name="Jarrod Lawson" gain="1"></p_ru>
+    <p_tk vh="H" name="Kris Frost" assist="Y"></p_tk>
+    <p_tk vh="H" name="M. Adams" assist="Y"></p_tk>
+   </play>
+   <play hasball="SJ" down="3" togo="1" spot="AU41" context="V,3,1,H41" playid="10,6,82" type="R" pcode="LG" first="R" tokens="RUSH:40,H31,LG TACK:28,23"
+      text="Jarrod Lawson rush over left guard for 10 yards to the AU31, 1ST DOWN SJ (Tray Matthews;Johnathan Ford)." newcontext="V,1,10,H31">
+    <p_ru vh="V" name="Jarrod Lawson" gain="10"></p_ru>
+    <p_tk vh="H" name="Tray Matthews" assist="Y"></p_tk>
+    <p_tk vh="H" name="Johnathan Ford" assist="Y"></p_tk>
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="AU31" context="V,1,10,H31" playid="10,7,83" type="R" pcode="RT" tokens="RUSH:7,H23,RT TACK:17"
+      text="Tyler Ervin rush over right tackle for 8 yards to the AU23 (Kris Frost)." newcontext="V,2,2,H23">
+    <p_ru vh="V" name="Tyler Ervin" gain="8"></p_ru>
+    <p_tk vh="H" name="Kris Frost"></p_tk>
+   </play>
+   <play hasball="SJ" down="2" togo="2" spot="AU23" context="V,2,2,H23" playid="10,8,84" type="R" pcode="RG" tokens="RUSH:7,H24,RG TACK:26"
+      text="Tyler Ervin rush over right guard for loss of 1 yard to the AU24 (Justin Garrett)." newcontext="V,3,3,H24">
+    <p_ru vh="V" name="Tyler Ervin" gain="-1"></p_ru>
+    <p_tk vh="H" name="Justin Garrett"></p_tk>
+   </play>
+   <play hasball="SJ" down="3" togo="3" spot="AU24" context="V,3,3,H24" playid="10,9,85" type="R" pcode="RG" tokens="RUSH:7,H22,RG TACK:8"
+      text="Tyler Ervin rush over right guard for 2 yards to the AU22 (C. McKinzy)." newcontext="V,4,1,H22">
+    <p_ru vh="V" name="Tyler Ervin" gain="2"></p_ru>
+    <p_tk vh="H" name="C. McKinzy"></p_tk>
+   </play>
+   <play hasball="SJ" down="4" togo="1" spot="AU22" context="V,4,1,H22" playid="10,10,86" type="R" pcode="MI" turnover="F" tokens="RUSH:7,H21,MI FORCE:1A FUMB:H,H26,3"
+      text="Tyler Ervin rush up middle for 1 yard to the AU21, fumble forced by M. Adams, fumble by Tyler Ervin recovered by AU Jonathan Jones at AU26." newcontext="H,1,10,H26">
+    <p_ru vh="V" name="Tyler Ervin" gain="1"></p_ru>
+    <p_fumb vh="V" name="Tyler Ervin" at="H26" frvh="H" frname="Jonathan Jones"></p_fumb>
+    <p_tk vh="H" name="M. Adams" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="9" yards="36" top="4:45" driveindex="10" complete="Y"></drivesum>
+   <drivestart poss="H,H26,03:58" vh="H" spot="H26" clock="03:58" driveindex="11,86"></drivestart>
+   <play hasball="AU" down="1" togo="10" spot="AU26" context="H,1,10,H26" playid="11,1,87" clock="03:58" tokens="{DRIVE}:03:58"
+      text="AUBURN drive start at 03:58." newcontext="H,1,10,H26">
+   </play>
+   <play hasball="AU" down="1" togo="10" spot="AU26" context="H,1,10,H26" playid="11,2,88" type="R" pcode="MI" tokens="RUSH:25,H32,MI TACK:63"
+      text="Peyton Barber rush up middle for 6 yards to the AU32 (Travis Miller)." newcontext="H,2,4,H32">
+    <p_ru vh="H" name="Peyton Barber" gain="6"></p_ru>
+    <p_tk vh="V" name="Travis Miller"></p_tk>
+   </play>
+   <play hasball="AU" down="2" togo="4" spot="AU32" context="H,2,4,H32" playid="11,3,89" type="R" pcode="RE" first="R" tokens="RUSH:13,H40,RE FORCE:TM FUMB:H,H43,36"
+      text="Sean White rush over right end for 8 yards to the AU40, fumble forced by Team, fumble by Sean White recovered by AU Kamryn Pettway at AU43, 1ST DOWN AU." newcontext="H,1,10,H43">
+    <p_ru vh="H" name="Sean White" gain="8"></p_ru>
+    <p_fumb vh="H" name="Sean White" at="H43" frvh="H" frname="Kamryn Pettway"></p_fumb>
+    <p_tk vh="V" name="Team" ff="Y"></p_tk>
+   </play>
+   <play hasball="AU" down="1" togo="10" spot="AU43" context="H,1,10,H43" playid="11,4,90" type="R" pcode="MI" tokens="MISC-FUMB:TM RUSH:TM,H41,MI"
+      text="Fumble by TEAM, TEAM rush up middle for loss of 2 yards to the AU41." newcontext="H,2,12,H41">
+    <p_ru vh="H" name="TEAM" gain="-2"></p_ru>
+   </play>
+   <play hasball="AU" down="2" togo="12" spot="AU41" context="H,2,12,H41" playid="11,5,91" type="P" pcode="RF" first="P" tokens="PASS:13,C,1,V42,RF TACK:TM"
+      text="Sean White RF pass complete to D. Williams for 17 yards to the SJ42, 1ST DOWN AU (Team)." newcontext="H,1,10,V42">
+    <p_pa vh="H" qb="Sean White" result="COMP" rcv="D. Williams" gain="17"></p_pa>
+    <p_tk vh="V" name="Team"></p_tk>
+   </play>
+   <play hasball="AU" down="1" togo="10" spot="SJ42" context="H,1,10,V42" playid="11,6,92" type="R" pcode="RT" tokens="RUSH:9,V39,RT TACK:4"
+      text="Roc Thomas rush over right tackle for 3 yards to the SJ39 (Christian Tago)." newcontext="H,2,7,V39">
+    <p_ru vh="H" name="Roc Thomas" gain="3"></p_ru>
+    <p_tk vh="V" name="Christian Tago"></p_tk>
+   </play>
+   <play hasball="AU" down="2" togo="7" spot="SJ39" context="H,2,7,V39" playid="11,7,93" type="R" pcode="MI" tokens="RUSH:5,V41,MI TACK:5G"
+      text="Ricardo Louis rush up middle for loss of 2 yards to the SJ41 (Frank Ginda)." newcontext="H,3,9,V41">
+    <p_ru vh="H" name="Ricardo Louis" gain="-2"></p_ru>
+    <p_tk vh="V" name="Frank Ginda"></p_tk>
+   </play>
+   <play hasball="AU" down="3" togo="9" spot="SJ41" context="H,3,9,V41" playid="11,8,94" type="#" clock="01:28" tokens="TOUT:H T:01:28"
+      text="Timeout Auburn, clock 01:28." newcontext="H,3,9,V41">
+    <p_to vh="H" team="Auburn"></p_to>
+   </play>
+   <play hasball="AU" down="3" togo="9" spot="SJ41" context="H,3,9,V41" playid="11,9,95" type="P" pcode="RSL" first="P" tokens="PASS:13,C,5,V10,RSL TACK:8 QBH:V,26"
+      text="Sean White RSL pass complete to Ricardo Louis for 31 yards to the SJ10, 1ST DOWN AU (Jimmy Pruitt), QB hurry by Vincente Miles." newcontext="H,1,0,V10">
+    <p_pa vh="H" qb="Sean White" result="COMP" rcv="Ricardo Louis" gain="31"></p_pa>
+    <p_tk vh="V" name="Jimmy Pruitt"></p_tk>
+    <p_qbh vh="V" name="Vincente Miles"></p_qbh>
+   </play>
+   <play hasball="AU" down="1" togo="0" spot="SJ10" context="H,1,0,V10" playid="11,10,96" type="R" pcode="MI" tokens="RUSH:25,V05,MI FORCE:90 FUMB:H,V05,25"
+      text="Peyton Barber rush up middle for 5 yards to the SJ5, fumble forced by Nick Oreglia, fumble by Peyton Barber recovered by AU Peyton Barber at SJ5." newcontext="H,2,0,V05">
+    <p_ru vh="H" name="Peyton Barber" gain="5"></p_ru>
+    <p_fumb vh="H" name="Peyton Barber" at="V05" frvh="H" frname="Peyton Barber"></p_fumb>
+    <p_tk vh="V" name="Nick Oreglia" ff="Y"></p_tk>
+   </play>
+   <play hasball="AU" down="2" togo="0" spot="SJ05" context="H,2,0,V05" playid="11,11,97" type="R" pcode="RE" score="Y" vscore="7" hscore="20" clock="00:38" tokens="RUSH:25,V00,RE T:00:38"
+      text="Peyton Barber rush over right end for 5 yards to the SJ0, TOUCHDOWN, clock 00:38." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Peyton Barber" gain="5"></p_ru>
+   </play>
+   <play hasball="AU" down="1" togo="0" spot="SJ03" context="H,1,0,V03" playid="11,12,98" type="X" score="Y" vscore="7" hscore="21" tokens="PAT:K,38,G"
+      text="Daniel Carlson kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Daniel Carlson" qb="Daniel Carlson" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="21"></score>
+   <drivesum plays="9" yards="74" top="3:20" driveindex="11" complete="Y"></drivesum>
+   <play hasball="AU" down="1" togo="0" spot="AU35" context="H,1,0,H35" playid="11,13,99" type="K" tokens="KO:38,V00 TB:"
+      text="Daniel Carlson kickoff 65 yards to the SJ0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Daniel Carlson" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,00:38" vh="V" spot="V25" clock="00:38" driveindex="12,99"></drivestart>
+   <play hasball="SJ" down="1" togo="10" spot="SJ25" context="V,1,10,V25" playid="12,1,100" clock="00:38" tokens="{DRIVE}:00:38"
+      text="SAN JOSE STATE drive start at 00:38." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="SJ25" context="V,1,10,V25" playid="12,2,101" type="P" pcode="LSC" tokens="PASS:6,C,2,V27,LSC TACK:24"
+      text="Joe Gray LSC pass complete to Tim Crawley for 2 yards to the SJ27 (Blake Countess)." newcontext="V,2,8,V27">
+    <p_pa vh="V" qb="Joe Gray" result="COMP" rcv="Tim Crawley" gain="2"></p_pa>
+    <p_tk vh="H" name="Blake Countess"></p_tk>
+   </play>
+   <play hasball="SJ" down="2" togo="8" spot="SJ27" context="V,2,8,V27" playid="12,3,102" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of half, clock 00:00." newcontext="V,2,8,V27">
+   </play>
+   <drivesum plays="1" yards="2" top="0:38" driveindex="12" complete="Y"></drivesum>
+   <score qtr="2" V="7" H="21"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="SJ">
+    <firstdowns no="4" rush="3" pass="1" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="2" lost="2"></fumbles>
+    <misc yds="0" top="08:49"></misc>
+    <rush att="11" yds="45" gain="50" loss="5" td="0" long="0"></rush>
+    <pass comp="5" att="6" int="0" yds="22" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="22" td="0" long="0"></rcv>
+    <defense tackua="11" tacka="0" tot_tack="11" tflua="2" tfla="0" tflyds="5" sacks="0" sackyds="0" qbh="1" ff="2"></defense>
+    <fumbles no="2" lost="2"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="AU">
+    <firstdowns no="3" rush="1" pass="2" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="3" lost="0"></fumbles>
+    <misc yds="0" top="06:11"></misc>
+    <rush att="9" yds="25" gain="32" loss="7" td="1" long="0"></rush>
+    <pass comp="4" att="6" int="0" yds="61" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="61" td="0" long="0"></rcv>
+    <punt no="1" yds="48" long="15" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="48.0"></punt>
+    <ko no="1" yds="65" ob="0" tb="1"></ko>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="11" tacka="10" tot_tack="21" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" qbh="2" ff="2" fr="2" fryds="0"></defense>
+    <fumbles no="3" lost="0"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="SJ" down="2" togo="8" spot="SJ27" context="V,2,8,V27" playid="12,4,103" type="#" clock="15:00" tokens="Q:3 T:15:00 SPOT:H,H35,N"
+      text="Start of 3rd quarter, clock 15:00, AU ball on AU35." newcontext="H,2,8,H35">
+   </play>
+   <play hasball="AU" down="2" togo="8" spot="AU35" context="H,2,8,H35" playid="12,5,104" type="K" tokens="KO:38,V00 TB:"
+      text="Daniel Carlson kickoff 65 yards to the SJ0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Daniel Carlson" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,15:00" vh="V" spot="V25" clock="15:00" driveindex="13,104"></drivestart>
+   <play hasball="SJ" down="1" togo="10" spot="SJ25" context="V,1,10,V25" playid="13,1,105" clock="15:00" tokens="{DRIVE}:15:00"
+      text="SAN JOSE STATE drive start at 15:00." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="SJ25" context="V,1,10,V25" playid="13,2,106" type="R" pcode="MI" tokens="RUSH:7,V34,MI TACK:17"
+      text="Tyler Ervin rush up middle for 9 yards to the SJ34 (Kris Frost)." newcontext="V,2,1,V34">
+    <p_ru vh="V" name="Tyler Ervin" gain="9"></p_ru>
+    <p_tk vh="H" name="Kris Frost"></p_tk>
+   </play>
+   <play hasball="SJ" down="2" togo="1" spot="SJ34" context="V,2,1,V34" playid="13,3,107" type="R" pcode="RG" first="R" tokens="RUSH:7,V36,RG TACK:17,6"
+      text="Tyler Ervin rush over right guard for 2 yards to the SJ36, 1ST DOWN SJ (Kris Frost;DaVonte Lambert)." newcontext="V,1,10,V36">
+    <p_ru vh="V" name="Tyler Ervin" gain="2"></p_ru>
+    <p_tk vh="H" name="Kris Frost" assist="Y"></p_tk>
+    <p_tk vh="H" name="DaVonte Lambert" assist="Y"></p_tk>
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="SJ36" context="V,1,10,V36" playid="13,4,108" type="R" pcode="RG" tokens="RUSH:7,V41,RG TACK:17,95"
+      text="Tyler Ervin rush over right guard for 5 yards to the SJ41 (Kris Frost;D. Russell)." newcontext="V,2,5,V41">
+    <p_ru vh="V" name="Tyler Ervin" gain="5"></p_ru>
+    <p_tk vh="H" name="Kris Frost" assist="Y"></p_tk>
+    <p_tk vh="H" name="D. Russell" assist="Y"></p_tk>
+   </play>
+   <play hasball="SJ" down="2" togo="5" spot="SJ41" context="V,2,5,V41" playid="13,5,109" type="R" pcode="RG" first="R" tokens="RUSH:20,V49,RG TACK:1A"
+      text="Malik Roberson rush over right guard for 8 yards to the SJ49, 1ST DOWN SJ (M. Adams)." newcontext="V,1,10,V49">
+    <p_ru vh="V" name="Malik Roberson" gain="8"></p_ru>
+    <p_tk vh="H" name="M. Adams"></p_tk>
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="SJ49" context="V,1,10,V49" playid="13,6,110" type="R" pcode="LE" tokens="RUSH:20,V48,LE TACK:24"
+      text="Malik Roberson rush over left end for loss of 1 yard to the SJ48 (Blake Countess)." newcontext="V,2,11,V48">
+    <p_ru vh="V" name="Malik Roberson" gain="-1"></p_ru>
+    <p_tk vh="H" name="Blake Countess"></p_tk>
+   </play>
+   <play hasball="SJ" down="2" togo="11" spot="SJ48" context="V,2,11,V48" playid="13,7,111" type="P" pcode="RF" tokens="PASS:6,I,20,*,RF QBH:H,8"
+      text="Joe Gray RF pass incomplete to Malik Roberson, QB hurry by C. McKinzy." newcontext="V,3,11,V48">
+    <p_pa vh="V" qb="Joe Gray" result="INC" rcv="Malik Roberson"></p_pa>
+    <p_qbh vh="H" name="C. McKinzy"></p_qbh>
+   </play>
+   <play hasball="SJ" down="3" togo="11" spot="SJ48" context="V,3,11,V48" playid="13,8,112" type="P" pcode="RSC" first="P" tokens="PASS:6,C,7,H41,RSC TACK:23"
+      text="Joe Gray RSC pass complete to Tyler Ervin for 11 yards to the AU41, 1ST DOWN SJ (Johnathan Ford)." newcontext="V,1,10,H41">
+    <p_pa vh="V" qb="Joe Gray" result="COMP" rcv="Tyler Ervin" gain="11"></p_pa>
+    <p_tk vh="H" name="Johnathan Ford"></p_tk>
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="AU41" context="V,1,10,H41" playid="13,9,113" type="R" pcode="MI" tokens="RUSH:7,H37,MI TACK:6,95"
+      text="Tyler Ervin rush up middle for 4 yards to the AU37 (DaVonte Lambert;D. Russell)." newcontext="V,2,6,H37">
+    <p_ru vh="V" name="Tyler Ervin" gain="4"></p_ru>
+    <p_tk vh="H" name="DaVonte Lambert" assist="Y"></p_tk>
+    <p_tk vh="H" name="D. Russell" assist="Y"></p_tk>
+   </play>
+   <play hasball="SJ" down="2" togo="6" spot="AU37" context="V,2,6,H37" playid="13,10,114" type="P" pcode="RF" first="P" tokens="PASS:6,C,18,H24,RF TACK:3"
+      text="Joe Gray RF pass complete to Billy Freeman for 13 yards to the AU24, 1ST DOWN SJ (Jonathan Jones)." newcontext="V,1,10,H24">
+    <p_pa vh="V" qb="Joe Gray" result="COMP" rcv="Billy Freeman" gain="13"></p_pa>
+    <p_tk vh="H" name="Jonathan Jones"></p_tk>
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="AU24" context="V,1,10,H24" playid="13,11,115" type="R" pcode="LE" tokens="RUSH:87,H25,LE FUMB:V,H25,87 +:87,H23 OB: TACK:24"
+      text="Hansell Wilson rush over left end for loss of 1 yard to the AU25, fumble by Hansell Wilson recovered by SJ Hansell Wilson at AU25, Hansell Wilson for 2 yards to the AU23, out-of-bounds (Blake Countess)." ob="Y" newcontext="V,2,9,H23">
+    <p_ru vh="V" name="Hansell Wilson" gain="-1"></p_ru>
+    <p_fumb vh="V" name="Hansell Wilson" at="H25" frvh="V" frname="Hansell Wilson"></p_fumb>
+    <p_cont vh="V" name="Hansell Wilson" context="RUSH" at="H25" gain="2"></p_cont>
+    <p_tk vh="H" name="Blake Countess"></p_tk>
+   </play>
+   <play hasball="SJ" down="2" togo="9" spot="AU23" context="V,2,9,H23" playid="13,12,116" type="P" pcode="LSC" first="P" tokens="PASS:6,C,20,H06,LSC TACK:23"
+      text="Joe Gray LSC pass complete to Malik Roberson for 17 yards to the AU6, 1ST DOWN SJ (Johnathan Ford)." newcontext="V,1,0,H06">
+    <p_pa vh="V" qb="Joe Gray" result="COMP" rcv="Malik Roberson" gain="17"></p_pa>
+    <p_tk vh="H" name="Johnathan Ford"></p_tk>
+   </play>
+   <play hasball="SJ" down="1" togo="0" spot="AU06" context="V,1,0,H06" playid="13,13,117" type="R" pcode="LE" tokens="RUSH:7,H01,LE"
+      text="Tyler Ervin rush over left end for 5 yards to the AU1." newcontext="V,2,0,H01">
+    <p_ru vh="V" name="Tyler Ervin" gain="5"></p_ru>
+   </play>
+   <comment text="The previous touchdown is under further review."></comment>
+   <comment text="After the review, the player was ruled out of bounds."></comment>
+   <play hasball="SJ" down="2" togo="0" spot="AU01" context="V,2,0,H01" playid="13,14,120" type="R" pcode="RG" tokens="RUSH:7,H01,RG TACK:8,1A"
+      text="Tyler Ervin rush over right guard for no gain to the AU1 (C. McKinzy;M. Adams)." newcontext="V,3,0,H01">
+    <p_ru vh="V" name="Tyler Ervin" gain="0"></p_ru>
+    <p_tk vh="H" name="C. McKinzy" assist="Y"></p_tk>
+    <p_tk vh="H" name="M. Adams" assist="Y"></p_tk>
+   </play>
+   <play hasball="SJ" down="3" togo="0" spot="AU01" context="V,3,0,H01" playid="13,15,121" type="R" pcode="QS" score="Y" vscore="13" hscore="21" clock="08:01" tokens="RUSH:6,H00,QS T:08:01"
+      text="Joe Gray rush quarterback sneak for 1 yard to the AU0, TOUCHDOWN, clock 08:01." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Joe Gray" gain="1"></p_ru>
+   </play>
+   <comment text="The previous play was a touchdown is under further review."></comment>
+   <comment text="The ruling on the field stands as called."></comment>
+   <play hasball="SJ" down="1" togo="0" spot="AU03" context="V,1,0,H03" playid="13,16,124" type="X" score="Y" vscore="14" hscore="21" tokens="PAT:K,38,G"
+      text="Bryce Crawford kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Bryce Crawford" qb="Bryce Crawford" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="21"></score>
+   <drivesum plays="14" yards="75" top="6:59" driveindex="13" complete="Y"></drivesum>
+   <play hasball="SJ" down="1" togo="0" spot="SJ35" context="V,1,0,V35" playid="13,17,125" type="K" tokens="KO:38,H18 RET:23,V24 TACK:8"
+      text="Bryce Crawford kickoff 47 yards to the AU18, Johnathan Ford return 58 yards to the SJ24 (Jimmy Pruitt)." newcontext="H,1,10,V24">
+    <p_ko vh="V" name="Bryce Crawford" gain="47"></p_ko>
+    <p_kr vh="H" name="Johnathan Ford" gain="58"></p_kr>
+    <p_tk vh="V" name="Jimmy Pruitt"></p_tk>
+   </play>
+   <drivestart poss="H,V24,07:51" vh="H" spot="V24" clock="07:51" driveindex="14,125"></drivestart>
+   <play hasball="AU" down="1" togo="10" spot="SJ24" context="H,1,10,V24" playid="14,1,126" clock="07:51" tokens="{DRIVE}:07:51"
+      text="AUBURN drive start at 07:51." newcontext="H,1,10,V24">
+   </play>
+   <play hasball="AU" down="1" togo="10" spot="SJ24" context="H,1,10,V24" playid="14,2,127" type="R" pcode="MI" tokens="RUSH:25,V20,MI TACK:4"
+      text="Peyton Barber rush up middle for 4 yards to the SJ20 (Christian Tago)." newcontext="H,2,6,V20">
+    <p_ru vh="H" name="Peyton Barber" gain="4"></p_ru>
+    <p_tk vh="V" name="Christian Tago"></p_tk>
+   </play>
+   <play hasball="AU" down="2" togo="6" spot="SJ20" context="H,2,6,V20" playid="14,3,128" type="P" pcode="RF" tokens="PASS:13,I,82,*,RF BRUP:26 QBH:V,5G"
+      text="Sean White RF pass incomplete to Melvin Ray (Vincente Miles), QB hurry by Frank Ginda." newcontext="H,3,6,V20">
+    <p_pa vh="H" qb="Sean White" result="INC" rcv="Melvin Ray"></p_pa>
+    <p_bu vh="V" name="Vincente Miles"></p_bu>
+    <p_qbh vh="V" name="Frank Ginda"></p_qbh>
+   </play>
+   <play hasball="AU" down="3" togo="6" spot="SJ20" context="H,3,6,V20" playid="14,4,129" type="R" pcode="MI" tokens="RUSH:13,V15,MI TACK:5G"
+      text="Sean White rush up middle for 5 yards to the SJ15 (Frank Ginda)." newcontext="H,4,1,V15">
+    <p_ru vh="H" name="Sean White" gain="5"></p_ru>
+    <p_tk vh="V" name="Frank Ginda"></p_tk>
+   </play>
+   <play hasball="AU" down="4" togo="1" spot="SJ15" context="H,4,1,V15" playid="14,5,130" type="R" pcode="LG" first="R" tokens="RUSH:25,V13,LG TACK:5G"
+      text="Peyton Barber rush over left guard for 2 yards to the SJ13, 1ST DOWN AU (Frank Ginda)." newcontext="H,1,10,V13">
+    <p_ru vh="H" name="Peyton Barber" gain="2"></p_ru>
+    <p_tk vh="V" name="Frank Ginda"></p_tk>
+   </play>
+   <play hasball="AU" down="1" togo="10" spot="SJ13" context="H,1,10,V13" playid="14,6,131" type="R" pcode="RT" tokens="RUSH:25,V09,RT TACK:26"
+      text="Peyton Barber rush over right tackle for 4 yards to the SJ9 (Vincente Miles)." newcontext="H,2,6,V09">
+    <p_ru vh="H" name="Peyton Barber" gain="4"></p_ru>
+    <p_tk vh="V" name="Vincente Miles"></p_tk>
+   </play>
+   <play hasball="AU" down="2" togo="6" spot="SJ09" context="H,2,6,V09" playid="14,7,132" type="R" pcode="MI" first="R" tokens="RUSH:25,V03,MI TACK:93"
+      text="Peyton Barber rush up middle for 6 yards to the SJ3, 1ST DOWN AU (Loni Fa)." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Peyton Barber" gain="6"></p_ru>
+    <p_tk vh="V" name="Loni Fa"></p_tk>
+   </play>
+   <play hasball="AU" down="1" togo="0" spot="SJ03" context="H,1,0,V03" playid="14,8,133" type="R" pcode="MI" tokens="RUSH:25,V01,MI TACK:5G,4"
+      text="Peyton Barber rush up middle for 2 yards to the SJ1 (Frank Ginda;Christian Tago)." newcontext="H,2,0,V01">
+    <p_ru vh="H" name="Peyton Barber" gain="2"></p_ru>
+    <p_tk vh="V" name="Frank Ginda" assist="Y"></p_tk>
+    <p_tk vh="V" name="Christian Tago" assist="Y"></p_tk>
+   </play>
+   <play hasball="AU" down="2" togo="0" spot="SJ01" context="H,2,0,V01" playid="14,9,134" type="R" pcode="MI" score="Y" vscore="14" hscore="27" clock="04:37" tokens="RUSH:25,V00,MI T:04:37"
+      text="Peyton Barber rush up middle for 1 yard to the SJ0, TOUCHDOWN, clock 04:37." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Peyton Barber" gain="1"></p_ru>
+   </play>
+   <play hasball="AU" down="1" togo="0" spot="SJ03" context="H,1,0,V03" playid="14,10,135" type="X" score="Y" vscore="14" hscore="28" tokens="PAT:K,38,G"
+      text="Daniel Carlson kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Daniel Carlson" qb="Daniel Carlson" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="28"></score>
+   <drivesum plays="8" yards="24" top="3:14" driveindex="14" complete="Y"></drivesum>
+   <play hasball="AU" down="1" togo="0" spot="AU35" context="H,1,0,H35" playid="14,11,136" type="K" tokens="KO:38,V00 TB:"
+      text="Daniel Carlson kickoff 65 yards to the SJ0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Daniel Carlson" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,04:37" vh="V" spot="V25" clock="04:37" driveindex="15,136"></drivestart>
+   <play hasball="SJ" down="1" togo="10" spot="SJ25" context="V,1,10,V25" playid="15,1,137" clock="04:37" tokens="{DRIVE}:04:37"
+      text="SAN JOSE STATE drive start at 04:37." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="SJ25" context="V,1,10,V25" playid="15,2,138" type="P" pcode="LF" tokens="PASS:6,C,15,V32,LF TACK:23,17"
+      text="Joe Gray LF pass complete to Tyler Winston for 7 yards to the SJ32 (Johnathan Ford;Kris Frost)." newcontext="V,2,3,V32">
+    <p_pa vh="V" qb="Joe Gray" result="COMP" rcv="Tyler Winston" gain="7"></p_pa>
+    <p_tk vh="H" name="Johnathan Ford" assist="Y"></p_tk>
+    <p_tk vh="H" name="Kris Frost" assist="Y"></p_tk>
+   </play>
+   <play hasball="SJ" down="2" togo="3" spot="SJ32" context="V,2,3,V32" playid="15,3,139" type="R" pcode="MI" first="R" tokens="RUSH:7,V41,MI TACK:28,95"
+      text="Tyler Ervin rush up middle for 9 yards to the SJ41, 1ST DOWN SJ (Tray Matthews;D. Russell)." newcontext="V,1,10,V41">
+    <p_ru vh="V" name="Tyler Ervin" gain="9"></p_ru>
+    <p_tk vh="H" name="Tray Matthews" assist="Y"></p_tk>
+    <p_tk vh="H" name="D. Russell" assist="Y"></p_tk>
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="SJ41" context="V,1,10,V41" playid="15,4,140" type="P" pcode="LSL" tokens="PASS:6,I,18,*,LSL QBH:H,9C"
+      text="Joe Gray LSL pass incomplete to Billy Freeman, QB hurry by Byron Cowart." newcontext="V,2,10,V41">
+    <p_pa vh="V" qb="Joe Gray" result="INC" rcv="Billy Freeman"></p_pa>
+    <p_qbh vh="H" name="Byron Cowart"></p_qbh>
+   </play>
+   <play hasball="SJ" down="2" togo="10" spot="SJ41" context="V,2,10,V41" playid="15,5,141" type="R" pcode="RT" tokens="RUSH:6,V45,RT TACK:28"
+      text="Joe Gray rush over right tackle for 4 yards to the SJ45 (Tray Matthews)." newcontext="V,3,6,V45">
+    <p_ru vh="V" name="Joe Gray" gain="4"></p_ru>
+    <p_tk vh="H" name="Tray Matthews"></p_tk>
+   </play>
+   <play hasball="SJ" down="3" togo="6" spot="SJ45" context="V,3,6,V45" playid="15,6,142" type="P" pcode="MI" tokens="PASS:6,I,18,*,MI"
+      text="Joe Gray middle pass incomplete to Billy Freeman." newcontext="V,4,6,V45">
+    <p_pa vh="V" qb="Joe Gray" result="INC" rcv="Billy Freeman"></p_pa>
+   </play>
+   <play hasball="SJ" down="4" togo="6" spot="SJ45" context="V,4,6,V45" playid="15,7,143" type="U" tokens="PUNT:17,H13 FC:80"
+      text="Mich Carrizosa punt 42 yards to the AU13, fair catch by Marcus Davis." newcontext="H,1,10,H13">
+    <p_pu vh="V" name="Mich Carrizosa" gain="42" in20="Y" fc="Marcus Davis"></p_pu>
+   </play>
+   <drivesum plays="5" yards="20" top="2:04" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="H,H13,02:33" vh="H" spot="H13" clock="02:33" driveindex="16,143"></drivestart>
+   <play hasball="AU" down="1" togo="10" spot="AU13" context="H,1,10,H13" playid="16,1,144" clock="02:33" tokens="{DRIVE}:02:33"
+      text="AUBURN drive start at 02:33." newcontext="H,1,10,H13">
+   </play>
+   <play hasball="AU" down="1" togo="10" spot="AU13" context="H,1,10,H13" playid="16,2,145" type="R" pcode="LT" tokens="RUSH:25,H17,LT TACK:10,96"
+      text="Peyton Barber rush over left tackle for 4 yards to the AU17 (Mauri Mcknight;Cedric Lousi)." newcontext="H,2,6,H17">
+    <p_ru vh="H" name="Peyton Barber" gain="4"></p_ru>
+    <p_tk vh="V" name="Mauri Mcknight" assist="Y"></p_tk>
+    <p_tk vh="V" name="Cedric Lousi" assist="Y"></p_tk>
+   </play>
+   <play hasball="AU" down="2" togo="6" spot="AU17" context="H,2,6,H17" playid="16,3,146" type="R" pcode="MI" first="R" tokens="RUSH:25,H25,MI TACK:93"
+      text="Peyton Barber rush up middle for 8 yards to the AU25, 1ST DOWN AU (Loni Fa)." newcontext="H,1,10,H25">
+    <p_ru vh="H" name="Peyton Barber" gain="8"></p_ru>
+    <p_tk vh="V" name="Loni Fa"></p_tk>
+   </play>
+   <play hasball="AU" down="1" togo="10" spot="AU25" context="H,1,10,H25" playid="16,4,147" type="P" pcode="LSC" tokens="PASS:13,C,5,H30,LSC OB: TACK:6W"
+      text="Sean White LSC pass complete to Ricardo Louis for 5 yards to the AU30, out-of-bounds (Clevel Wallace)." ob="Y" newcontext="H,2,5,H30">
+    <p_pa vh="H" qb="Sean White" result="COMP" rcv="Ricardo Louis" gain="5"></p_pa>
+    <p_tk vh="V" name="Clevel Wallace"></p_tk>
+   </play>
+   <play hasball="AU" down="2" togo="5" spot="AU30" context="H,2,5,H30" playid="16,5,148" type="R" pcode="QD" tokens="RUSH:21,H34,QD TACK:26,29"
+      text="Kerryon Johnson rush quarterback draw for 4 yards to the AU34 (Vincente Miles;William Ossai)." newcontext="H,3,1,H34">
+    <p_ru vh="H" name="Kerryon Johnson" gain="4"></p_ru>
+    <p_tk vh="V" name="Vincente Miles" assist="Y"></p_tk>
+    <p_tk vh="V" name="William Ossai" assist="Y"></p_tk>
+   </play>
+   <play hasball="AU" down="3" togo="1" spot="AU34" context="H,3,1,H34" playid="16,6,149" type="R" pcode="LG" first="R" tokens="RUSH:21,H37,LG TACK:4,26"
+      text="Kerryon Johnson rush over left guard for 3 yards to the AU37, 1ST DOWN AU (Christian Tago;Vincente Miles)." newcontext="H,1,10,H37">
+    <p_ru vh="H" name="Kerryon Johnson" gain="3"></p_ru>
+    <p_tk vh="V" name="Christian Tago" assist="Y"></p_tk>
+    <p_tk vh="V" name="Vincente Miles" assist="Y"></p_tk>
+   </play>
+   <score qtr="3" V="14" H="28"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="SJ">
+    <firstdowns no="6" rush="3" pass="3" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="09:03"></misc>
+    <rush att="12" yds="47" gain="49" loss="2" td="1" long="0"></rush>
+    <pass comp="4" att="7" int="0" yds="48" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="48" td="0" long="0"></rcv>
+    <punt no="1" yds="42" long="42" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="42.0"></punt>
+    <ko no="1" yds="47" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="8" tacka="8" tot_tack="16" sacks="0" sackyds="0" brup="1" qbh="1"></defense>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="AU">
+    <firstdowns no="4" rush="4" pass="0" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="1" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="05:57"></misc>
+    <rush att="11" yds="43" gain="43" loss="0" td="1" long="0"></rush>
+    <pass comp="1" att="2" int="0" yds="5" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="5" td="0" long="0"></rcv>
+    <ko no="2" yds="130" ob="0" tb="2"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="8" tacka="12" tot_tack="20" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" qbh="2"></defense>
+    <kr no="1" yds="58" td="0" long="0"></kr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="AU" down="1" togo="10" spot="AU37" context="H,1,10,H37" playid="16,7,150" type="#" clock="15:00" tokens="Q:4 T:15:00"
+      text="Start of 4th quarter, clock 15:00." newcontext="H,1,10,H37">
+   </play>
+   <play hasball="AU" down="1" togo="10" spot="AU37" context="H,1,10,H37" playid="16,8,151" type="R" pcode="LG" tokens="RUSH:9,H44,LG TACK:10"
+      text="Roc Thomas rush over left guard for 7 yards to the AU44 (Mauri Mcknight)." newcontext="H,2,3,H44">
+    <p_ru vh="H" name="Roc Thomas" gain="7"></p_ru>
+    <p_tk vh="V" name="Mauri Mcknight"></p_tk>
+   </play>
+   <play hasball="AU" down="2" togo="3" spot="AU44" context="H,2,3,H44" playid="16,9,152" type="R" pcode="RT" first="R" tokens="RUSH:25,H50,RT TACK:44"
+      text="Peyton Barber rush over right tackle for 6 yards to the 50 yardline, 1ST DOWN AU (Mark Amann)." newcontext="H,1,10,H50">
+    <p_ru vh="H" name="Peyton Barber" gain="6"></p_ru>
+    <p_tk vh="V" name="Mark Amann"></p_tk>
+   </play>
+   <play hasball="AU" down="1" togo="10" spot="AU50" context="H,1,10,H50" playid="16,10,153" type="R" pcode="MI" first="R" tokens="RUSH:9,V28,MI TACK:26,96"
+      text="Roc Thomas rush up middle for 22 yards to the SJ28, 1ST DOWN AU (Vincente Miles;Cedric Lousi)." newcontext="H,1,10,V28">
+    <p_ru vh="H" name="Roc Thomas" gain="22"></p_ru>
+    <p_tk vh="V" name="Vincente Miles" assist="Y"></p_tk>
+    <p_tk vh="V" name="Cedric Lousi" assist="Y"></p_tk>
+   </play>
+   <play hasball="AU" down="1" togo="10" spot="SJ28" context="H,1,10,V28" playid="16,11,154" type="R" pcode="LG" tokens="RUSH:9,V21,LG TACK:8,44"
+      text="Roc Thomas rush over left guard for 7 yards to the SJ21 (Jimmy Pruitt;Mark Amann)." newcontext="H,2,3,V21">
+    <p_ru vh="H" name="Roc Thomas" gain="7"></p_ru>
+    <p_tk vh="V" name="Jimmy Pruitt" assist="Y"></p_tk>
+    <p_tk vh="V" name="Mark Amann" assist="Y"></p_tk>
+   </play>
+   <play hasball="AU" down="2" togo="3" spot="SJ21" context="H,2,3,V21" playid="16,12,155" type="R" pcode="RE" tokens="RUSH:25,V20,RE TACK:5G"
+      text="Peyton Barber rush over right end for 1 yard to the SJ20 (Frank Ginda)." newcontext="H,3,2,V20">
+    <p_ru vh="H" name="Peyton Barber" gain="1"></p_ru>
+    <p_tk vh="V" name="Frank Ginda"></p_tk>
+   </play>
+   <play hasball="AU" down="3" togo="2" spot="SJ20" context="H,3,2,V20" playid="16,13,156" type="R" pcode="RG" first="R" tokens="RUSH:25,V17,RG TACK:5G"
+      text="Peyton Barber rush over right guard for 3 yards to the SJ17, 1ST DOWN AU (Frank Ginda)." newcontext="H,1,10,V17">
+    <p_ru vh="H" name="Peyton Barber" gain="3"></p_ru>
+    <p_tk vh="V" name="Frank Ginda"></p_tk>
+   </play>
+   <play hasball="AU" down="1" togo="10" spot="SJ17" context="H,1,10,V17" playid="16,14,157" type="R" pcode="MI" tokens="RUSH:25,V14,MI TACK:10,44"
+      text="Peyton Barber rush up middle for 3 yards to the SJ14 (Mauri Mcknight;Mark Amann)." newcontext="H,2,7,V14">
+    <p_ru vh="H" name="Peyton Barber" gain="3"></p_ru>
+    <p_tk vh="V" name="Mauri Mcknight" assist="Y"></p_tk>
+    <p_tk vh="V" name="Mark Amann" assist="Y"></p_tk>
+   </play>
+   <play hasball="AU" down="2" togo="7" spot="SJ14" context="H,2,7,V14" playid="16,15,158" type="R" pcode="LE" tokens="RUSH:5,V08,LE OB: TACK:44"
+      text="Ricardo Louis rush over left end for 6 yards to the SJ8, out-of-bounds (Mark Amann)." ob="Y" newcontext="H,3,1,V08">
+    <p_ru vh="H" name="Ricardo Louis" gain="6"></p_ru>
+    <p_tk vh="V" name="Mark Amann"></p_tk>
+   </play>
+   <play hasball="AU" down="3" togo="1" spot="SJ08" context="H,3,1,V08" playid="16,16,159" type="R" pcode="MI" tokens="RUSH:25,V08,MI TACK:44"
+      text="Peyton Barber rush up middle for no gain to the SJ8 (Mark Amann)." newcontext="H,4,1,V08">
+    <p_ru vh="H" name="Peyton Barber" gain="0"></p_ru>
+    <p_tk vh="V" name="Mark Amann"></p_tk>
+   </play>
+   <play hasball="AU" down="4" togo="1" spot="SJ08" context="H,4,1,V08" playid="16,17,160" type="F" clock="10:02" tokens="FGA:38,25,M,V20,L T:10:02"
+      text="Daniel Carlson field goal attempt from 25 MISSED - wide left, spot at SJ20, clock 10:02." newcontext="V,1,10,V20">
+    <p_fg vh="H" name="Daniel Carlson" distance="25" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="15" yards="79" top="7:31" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="V,V20,10:02" vh="V" spot="V20" clock="10:02" driveindex="17,160"></drivestart>
+   <play hasball="SJ" down="1" togo="10" spot="SJ20" context="V,1,10,V20" playid="17,1,161" clock="10:02" tokens="{DRIVE}:10:02"
+      text="SAN JOSE STATE drive start at 10:02." newcontext="V,1,10,V20">
+   </play>
+   <comment text="The snap was mishandled by the holder on the field goal."></comment>
+   <play hasball="SJ" down="1" togo="10" spot="SJ20" context="V,1,10,V20" playid="17,2,163" type="P" pcode="MI" tokens="PASS:6,C,87,V29,MI TACK:23"
+      text="Joe Gray middle pass complete to Hansell Wilson for 9 yards to the SJ29 (Johnathan Ford)." newcontext="V,2,1,V29">
+    <p_pa vh="V" qb="Joe Gray" result="COMP" rcv="Hansell Wilson" gain="9"></p_pa>
+    <p_tk vh="H" name="Johnathan Ford"></p_tk>
+   </play>
+   <play hasball="SJ" down="2" togo="1" spot="SJ29" context="V,2,1,V29" playid="17,3,164" type="R" pcode="LE" first="R" tokens="RUSH:7,V48,LE OB: TACK:3"
+      text="Tyler Ervin rush over left end for 19 yards to the SJ48, 1ST DOWN SJ, out-of-bounds (Jonathan Jones)." ob="Y" newcontext="V,1,10,V48">
+    <p_ru vh="V" name="Tyler Ervin" gain="19"></p_ru>
+    <p_tk vh="H" name="Jonathan Jones"></p_tk>
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="SJ48" context="V,1,10,V48" playid="17,4,165" type="R" pcode="LT" tokens="RUSH:7,H49,LT TACK:6"
+      text="Tyler Ervin rush over left tackle for 3 yards to the AU49 (DaVonte Lambert)." newcontext="V,2,7,H49">
+    <p_ru vh="V" name="Tyler Ervin" gain="3"></p_ru>
+    <p_tk vh="H" name="DaVonte Lambert"></p_tk>
+   </play>
+   <play hasball="SJ" down="2" togo="7" spot="AU49" context="V,2,7,H49" playid="17,5,166" type="P" pcode="LSC" first="P" tokens="PASS:6,C,15,H32,LSC OB: TACK:28"
+      text="Joe Gray LSC pass complete to Tyler Winston for 17 yards to the AU32, 1ST DOWN SJ, out-of-bounds (Tray Matthews)." ob="Y" newcontext="V,1,10,H32">
+    <p_pa vh="V" qb="Joe Gray" result="COMP" rcv="Tyler Winston" gain="17"></p_pa>
+    <p_tk vh="H" name="Tray Matthews"></p_tk>
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="AU32" context="V,1,10,H32" playid="17,6,167" type="R" pcode="LG" tokens="RUSH:7,H29,LG TACK:6,26"
+      text="Tyler Ervin rush over left guard for 3 yards to the AU29 (DaVonte Lambert;Justin Garrett)." newcontext="V,2,7,H29">
+    <p_ru vh="V" name="Tyler Ervin" gain="3"></p_ru>
+    <p_tk vh="H" name="DaVonte Lambert" assist="Y"></p_tk>
+    <p_tk vh="H" name="Justin Garrett" assist="Y"></p_tk>
+   </play>
+   <play hasball="SJ" down="2" togo="7" spot="AU29" context="V,2,7,H29" playid="17,7,168" type="P" pcode="MI" first="P" tokens="PASS:6,C,18,H18,MI TACK:23"
+      text="Joe Gray middle pass complete to Billy Freeman for 11 yards to the AU18, 1ST DOWN SJ (Johnathan Ford)." newcontext="V,1,10,H18">
+    <p_pa vh="V" qb="Joe Gray" result="COMP" rcv="Billy Freeman" gain="11"></p_pa>
+    <p_tk vh="H" name="Johnathan Ford"></p_tk>
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="AU18" context="V,1,10,H18" playid="17,8,169" type="R" pcode="MI" tokens="RUSH:7,H17,MI TACK:16,28"
+      text="Tyler Ervin rush up middle for 1 yard to the AU17 (J. Mitchell;Tray Matthews)." newcontext="V,2,9,H17">
+    <p_ru vh="V" name="Tyler Ervin" gain="1"></p_ru>
+    <p_tk vh="H" name="J. Mitchell" assist="Y"></p_tk>
+    <p_tk vh="H" name="Tray Matthews" assist="Y"></p_tk>
+   </play>
+   <play hasball="SJ" down="2" togo="9" spot="AU17" context="V,2,9,H17" playid="17,9,170" type="#" clock="05:49" tokens="TOUT:V T:05:49"
+      text="Timeout San Jose State, clock 05:49." newcontext="V,2,9,H17">
+    <p_to vh="V" team="San Jose State"></p_to>
+   </play>
+   <play hasball="SJ" down="2" togo="9" spot="AU17" context="V,2,9,H17" playid="17,10,171" type="E" pcode="REZ" first="E" tokens="PASS:6,I,15,*,REZ BRUP:24 PEN:H,PI,A,24,H02,1 NOPLAY:"
+      text="Joe Gray REZ pass incomplete to Tyler Winston (Blake Countess), PENALTY AU pass interference (Blake Countess) 15 yards to the AU2, 1ST DOWN SJ, NO PLAY." newcontext="V,1,0,H02">
+    <p_pn vh="H" code="PI" type="pass interference" name="Blake Countess" result="ACCEPT" at="H17" yards="15"></p_pn>
+   </play>
+   <play hasball="SJ" down="1" togo="0" spot="AU02" context="V,1,0,H02" playid="17,11,172" type="R" pcode="MI" score="Y" vscore="20" hscore="28" clock="05:38" tokens="RUSH:7,H00,MI T:05:38"
+      text="Tyler Ervin rush up middle for 2 yards to the AU0, TOUCHDOWN, clock 05:38." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Tyler Ervin" gain="2"></p_ru>
+   </play>
+   <play hasball="SJ" down="1" togo="0" spot="AU03" context="V,1,0,H03" playid="17,12,173" type="X" score="Y" vscore="21" hscore="28" tokens="PAT:K,38,G"
+      text="Bryce Crawford kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Bryce Crawford" qb="Bryce Crawford" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="21" H="28"></score>
+   <play hasball="SJ" down="1" togo="0" spot="SJ35" context="V,1,0,V35" playid="17,13,174" type="#" clock="05:38" tokens="TOUT:H T:05:38"
+      text="Timeout Auburn, clock 05:38." newcontext="V,1,0,V35">
+    <p_to vh="H" team="Auburn"></p_to>
+   </play>
+   <drivesum plays="8" yards="80" top="4:24" driveindex="17" complete="Y"></drivesum>
+   <play hasball="SJ" down="1" togo="0" spot="SJ35" context="V,1,0,V35" playid="17,14,175" type="K" tokens="KO:38,V45 ONSIDE:H,1 SPOT:H,V45,Y"
+      text="Bryce Crawford kickoff 10 yards to the SJ45, on-side kick, recovered by AU D. Williams on SJ45." newcontext="H,1,10,V45">
+    <p_ko vh="V" name="Bryce Crawford" gain="10" result="N"></p_ko>
+   </play>
+   <drivestart poss="H,V45,05:36" vh="H" spot="V45" clock="05:36" driveindex="18,175"></drivestart>
+   <play hasball="AU" down="1" togo="10" spot="SJ45" context="H,1,10,V45" playid="18,1,176" clock="05:36" tokens="{DRIVE}:05:36"
+      text="AUBURN drive start at 05:36." newcontext="H,1,10,V45">
+   </play>
+   <play hasball="AU" down="1" togo="10" spot="SJ45" context="H,1,10,V45" playid="18,2,177" type="R" pcode="MI" tokens="RUSH:25,V36,MI TACK:5G"
+      text="Peyton Barber rush up middle for 9 yards to the SJ36 (Frank Ginda)." newcontext="H,2,1,V36">
+    <p_ru vh="H" name="Peyton Barber" gain="9"></p_ru>
+    <p_tk vh="V" name="Frank Ginda"></p_tk>
+   </play>
+   <play hasball="AU" down="2" togo="1" spot="SJ36" context="H,2,1,V36" playid="18,3,178" type="R" pcode="MI" first="R" score="Y" vscore="21" hscore="34" clock="04:43" tokens="RUSH:25,V00,MI T:04:43"
+      text="Peyton Barber rush up middle for 36 yards to the SJ0, 1ST DOWN AU, TOUCHDOWN, clock 04:43." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Peyton Barber" gain="36"></p_ru>
+   </play>
+   <play hasball="AU" down="1" togo="0" spot="SJ03" context="H,1,0,V03" playid="18,4,179" type="X" score="Y" vscore="21" hscore="35" tokens="PAT:K,38,G"
+      text="Daniel Carlson kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="Daniel Carlson" qb="Daniel Carlson" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="21" H="35"></score>
+   <drivesum plays="2" yards="45" top="0:53" driveindex="18" complete="Y"></drivesum>
+   <play hasball="AU" down="1" togo="0" spot="AU35" context="H,1,0,H35" playid="18,5,180" type="K" tokens="KO:38,V01 RET:7,V32 TACK:48"
+      text="Daniel Carlson kickoff 64 yards to the SJ1, Tyler Ervin return 31 yards to the SJ32 (M. Atkinson)." newcontext="V,1,10,V32">
+    <p_ko vh="H" name="Daniel Carlson" gain="64"></p_ko>
+    <p_kr vh="V" name="Tyler Ervin" gain="31"></p_kr>
+    <p_tk vh="H" name="M. Atkinson"></p_tk>
+   </play>
+   <drivestart poss="V,V32,04:36" vh="V" spot="V32" clock="04:36" driveindex="19,180"></drivestart>
+   <play hasball="SJ" down="1" togo="10" spot="SJ32" context="V,1,10,V32" playid="19,1,181" clock="04:36" tokens="{DRIVE}:04:36"
+      text="SAN JOSE STATE drive start at 04:36." newcontext="V,1,10,V32">
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="SJ32" context="V,1,10,V32" playid="19,2,182" type="P" pcode="RF" tokens="PASS:6,I,6,*,RF BRUP:28 QBH:H,1A"
+      text="Joe Gray RF pass incomplete to Joe Gray (Tray Matthews), QB hurry by M. Adams." newcontext="V,2,10,V32">
+    <p_pa vh="V" qb="Joe Gray" result="INC" rcv="Joe Gray"></p_pa>
+    <p_bu vh="H" name="Tray Matthews"></p_bu>
+    <p_qbh vh="H" name="M. Adams"></p_qbh>
+   </play>
+   <play hasball="SJ" down="2" togo="10" spot="SJ32" context="V,2,10,V32" playid="19,3,183" type="R" pcode="RE" tokens="RUSH:6,V32,RE OB:"
+      text="Joe Gray rush over right end for no gain to the SJ32, out-of-bounds." ob="Y" newcontext="V,3,10,V32">
+    <p_ru vh="V" name="Joe Gray" gain="0"></p_ru>
+   </play>
+   <play hasball="SJ" down="3" togo="10" spot="SJ32" context="V,3,10,V32" playid="19,4,184" type="#" clock="03:52" tokens="TOUT:V T:03:52"
+      text="Timeout San Jose State, clock 03:52." newcontext="V,3,10,V32">
+    <p_to vh="V" team="San Jose State"></p_to>
+   </play>
+   <play hasball="SJ" down="3" togo="10" spot="SJ32" context="V,3,10,V32" playid="19,5,185" type="P" pcode="RSC" first="P" tokens="PASS:6,C,87,V43,RSC TACK:17"
+      text="Joe Gray RSC pass complete to Hansell Wilson for 11 yards to the SJ43, 1ST DOWN SJ (Kris Frost)." newcontext="V,1,10,V43">
+    <p_pa vh="V" qb="Joe Gray" result="COMP" rcv="Hansell Wilson" gain="11"></p_pa>
+    <p_tk vh="H" name="Kris Frost"></p_tk>
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="SJ43" context="V,1,10,V43" playid="19,6,186" type="P" pcode="LSL" first="P" tokens="PASS:6,C,15,H37,LSL OB: TACK:23"
+      text="Joe Gray LSL pass complete to Tyler Winston for 20 yards to the AU37, 1ST DOWN SJ, out-of-bounds (Johnathan Ford)." ob="Y" newcontext="V,1,10,H37">
+    <p_pa vh="V" qb="Joe Gray" result="COMP" rcv="Tyler Winston" gain="20"></p_pa>
+    <p_tk vh="H" name="Johnathan Ford"></p_tk>
+   </play>
+   <play hasball="SJ" down="1" togo="10" spot="AU37" context="V,1,10,H37" playid="19,7,187" type="P" tokens="PASS:6,S,TM,H40 SACK:8"
+      text="Joe Gray sacked for loss of 3 yards to the AU40 (C. McKinzy)." newcontext="V,2,13,H40">
+    <p_pa vh="V" qb="Joe Gray" result="SACK" gain="-3"></p_pa>
+    <p_tk vh="H" name="C. McKinzy" sack="Y"></p_tk>
+   </play>
+   <play hasball="SJ" down="2" togo="13" spot="AU40" context="V,2,13,H40" playid="19,8,188" type="#" clock="02:52" tokens="TOUT:V T:02:52"
+      text="Timeout San Jose State, clock 02:52." newcontext="V,2,13,H40">
+    <p_to vh="V" team="San Jose State"></p_to>
+   </play>
+   <play hasball="SJ" down="2" togo="13" spot="AU40" context="V,2,13,H40" playid="19,9,189" type="P" pcode="LF" tokens="PASS:6,I,18,*,LF"
+      text="Joe Gray LF pass incomplete to Billy Freeman." newcontext="V,3,13,H40">
+    <p_pa vh="V" qb="Joe Gray" result="INC" rcv="Billy Freeman"></p_pa>
+   </play>
+   <play hasball="SJ" down="3" togo="13" spot="AU40" context="V,3,13,H40" playid="19,10,190" type="P" pcode="RF" turnover="I" tokens="PASS:6,X,18,H37,RF RET:18,H37"
+      text="Joe Gray RF pass intercepted by Carlton Davis at the AU37, Carlton Davis return 0 yards to the AU37." newcontext="H,1,10,H37">
+    <p_pa vh="V" qb="Joe Gray" result="INT"></p_pa>
+    <p_ir vh="H" name="Carlton Davis" at="H37" gain="0"></p_ir>
+   </play>
+   <drivesum plays="7" yards="28" top="1:51" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="H,H37,02:45" vh="H" spot="H37" clock="02:45" driveindex="20,190"></drivestart>
+   <play hasball="AU" down="1" togo="10" spot="AU37" context="H,1,10,H37" playid="20,1,191" clock="02:45" tokens="{DRIVE}:02:45"
+      text="AUBURN drive start at 02:45." newcontext="H,1,10,H37">
+   </play>
+   <play hasball="AU" down="1" togo="10" spot="AU37" context="H,1,10,H37" playid="20,2,192" type="R" pcode="RG" tokens="RUSH:25,H39,RG TACK:5G"
+      text="Peyton Barber rush over right guard for 2 yards to the AU39 (Frank Ginda)." newcontext="H,2,8,H39">
+    <p_ru vh="H" name="Peyton Barber" gain="2"></p_ru>
+    <p_tk vh="V" name="Frank Ginda"></p_tk>
+   </play>
+   <play hasball="AU" down="2" togo="8" spot="AU39" context="H,2,8,H39" playid="20,3,193" type="R" pcode="RT" first="R" tokens="RUSH:25,V33,RT TACK:8"
+      text="Peyton Barber rush over right tackle for 28 yards to the SJ33, 1ST DOWN AU (Jimmy Pruitt)." newcontext="H,1,10,V33">
+    <p_ru vh="H" name="Peyton Barber" gain="28"></p_ru>
+    <p_tk vh="V" name="Jimmy Pruitt"></p_tk>
+   </play>
+   <play hasball="AU" down="1" togo="10" spot="SJ33" context="H,1,10,V33" playid="20,4,194" type="R" pcode="TK" tokens="RUSH:TM,V36,TK"
+      text="TEAM rush TK for loss of 3 yards to the SJ36." newcontext="H,2,13,V36">
+    <p_ru vh="H" name="TEAM" gain="-3"></p_ru>
+   </play>
+   <play hasball="AU" down="2" togo="13" spot="SJ36" context="H,2,13,V36" playid="20,5,195" type="R" pcode="TK" tokens="RUSH:TM,V39,TK"
+      text="TEAM rush TK for loss of 3 yards to the SJ39." newcontext="H,3,16,V39">
+    <p_ru vh="H" name="TEAM" gain="-3"></p_ru>
+   </play>
+   <play hasball="AU" down="3" togo="16" spot="SJ39" context="H,3,16,V39" playid="20,6,196" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of game, clock 00:00." newcontext="H,3,16,V39">
+   </play>
+   <drivesum plays="4" yards="24" top="2:45" driveindex="20" complete="Y"></drivesum>
+   <score final="Y" V="21" H="35"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="SJ">
+    <firstdowns no="6" rush="1" pass="4" penalty="1"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:22"></misc>
+    <rush att="7" yds="25" gain="28" loss="3" td="1" long="0"></rush>
+    <pass comp="5" att="8" int="1" yds="68" td="0" long="0" sacks="1" sackyds="3"></pass>
+    <rcv no="5" yds="68" td="0" long="0"></rcv>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="9" tacka="6" tot_tack="15" sacks="0" sackyds="0"></defense>
+    <kr no="1" yds="31" td="0" long="3"></kr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="AU">
+    <firstdowns no="5" rush="5" pass="0" penalty="0"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:38"></misc>
+    <rush att="15" yds="124" gain="130" loss="6" td="1" long="25"></rush>
+    <ko no="1" yds="64" ob="0" tb="0"></ko>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="9" tacka="4" tot_tack="13" tflua="1" tfla="0" tflyds="3" sacks="1" sackyds="3" brup="1" qbh="1" int="1" intyds="0"></defense>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="AU" down="3" togo="16" spot="SJ39" context="H,3,16,V39" qtr="4" clock="00:00" vtoh="3" htoh="1"
+       lastplay="End of game, clock 00:00."></downtogo>
+ </plays>
+ <dnp vh="V" id="SJ">
+  <player name="Tre Hartley" checkname="HARTLEY,TRE" uni="1H" class="FR" gp="0" code="1H"></player>
+  <player name="Chad Miller" checkname="MILLER,CHAD" uni="1M" class="FR" gp="0" code="1M"></player>
+  <player name="Tae'On Mason" checkname="MASON,TAE'ON" uni="1" class="FR" gp="0" code="01"></player>
+  <player name="Thomas Tucker" checkname="TUCKER,THOMAS" uni="3" class="SO" gp="0" code="03"></player>
+  <player name="Kenny Potter" checkname="POTTER,KENNY" uni="5" class="JR" gp="0" code="05"></player>
+  <player name="David Williams" checkname="WILLIAMS,DAVID" uni="7W" class="FR" gp="0" code="7W"></player>
+  <player name="Christian Hill" checkname="HILL,CHRISTIAN" uni="8H" class="SR" gp="0" code="8H"></player>
+  <player name="Malik Watson" checkname="WATSON,MALIK" uni="8W" class="JR" gp="0" code="8W"></player>
+  <player name="Justin Holmes" checkname="HOLMES,JUSTIN" uni="9" class="FR" gp="0" code="09"></player>
+  <player name="Jared Leaf" checkname="LEAF,JARED" uni="11" class="SR" gp="0" code="11"></player>
+  <player name="Austin Lopez" checkname="LOPEZ,AUSTIN" uni="12" class="SR" gp="0" code="12"></player>
+  <player name="Mitch Ravizza" checkname="RAVIZZA,MITCH" uni="13" class="JR" gp="0" code="13"></player>
+  <player name="Dehlon Preston" checkname="PRESTON,DEHLON" uni="14" class="FR" gp="0" code="14"></player>
+  <player name="Josh Love" checkname="LOVE,JOSH" uni="16" class="FR" gp="0" code="16"></player>
+  <player name="Thai Cottrell" checkname="COTTRELL,THAI" uni="22" class="FR" gp="0" code="22"></player>
+  <player name="Ray Iv Lomas" checkname="LOMAS,RAY IV" uni="23" class="SO" gp="0" code="23"></player>
+  <player name="Anthon Carlsen" checkname="CARLSEN,ANTHON" uni="27" class="SO" gp="0" code="27"></player>
+  <player name="Trevon Bierria" checkname="BIERRIA,TREVON" uni="30" class="FR" gp="0" code="30"></player>
+  <player name="Ethan Aguayo" checkname="AGUAYO,ETHAN" uni="31" class="FR" gp="0" code="31"></player>
+  <player name="Zamore Zigler" checkname="ZIGLER,ZAMORE" uni="34" class="FR" gp="0" code="34"></player>
+  <player name="Darrio Hancock" checkname="HANCOCK,DARRIO" uni="35" class="JR" gp="0" code="35"></player>
+  <player name="Malik Hayes" checkname="HAYES,MALIK" uni="36" class="FR" gp="0" code="36"></player>
+  <player name="Mikal Berry" checkname="BERRY,MIKAL" uni="43" class="SO" gp="0" code="43"></player>
+  <player name="Aaron Watkins" checkname="WATKINS,AARON" uni="45" class="JR" gp="0" code="45"></player>
+  <player name="Jesse Osuna" checkname="OSUNA,JESSE" uni="48" class="FR" gp="0" code="48"></player>
+  <player name="Nick Diaz" checkname="DIAZ,NICK" uni="50" class="JR" gp="0" code="50"></player>
+  <player name="Owen Roberts" checkname="ROBERTS,OWEN" uni="51" class="FR" gp="0" code="51"></player>
+  <player name="Charles Nelson" checkname="NELSON,CHARLES" uni="54" class="FR" gp="0" code="54"></player>
+  <player name="Doug Blacksill" checkname="BLACKSILL,DOUG" uni="56" class="SR" gp="0" code="56"></player>
+  <player name="Michae Talafus" checkname="TALAFUS,MICHAE" uni="60" class="JR" gp="0" code="60"></player>
+  <player name="Do Fredrickson" checkname="FREDRICKSON,DO" uni="66" class="FR" gp="0" code="66"></player>
+  <player name="Nico Aimonetti" checkname="AIMONETTI,NICO" uni="67" class="SO" gp="0" code="67"></player>
+  <player name="Trevor Bloom" checkname="BLOOM,TREVOR" uni="70" class="FR" gp="0" code="70"></player>
+  <player name="Kyle Wright" checkname="WRIGHT,KYLE" uni="76" class="JR" gp="0" code="76"></player>
+  <player name="Deano Motes" checkname="MOTES,DEANO" uni="78" class="FR" gp="0" code="78"></player>
+  <player name="Troy Kowalski" checkname="KOWALSKI,TROY" uni="79" class="FR" gp="0" code="79"></player>
+  <player name="Ray Surry" checkname="SURRY,RAY" uni="80" class="FR" gp="0" code="80"></player>
+  <player name="Colin Baker" checkname="BAKER,COLIN" uni="81" class="FR" gp="0" code="81"></player>
+  <player name="Matt Spadaro" checkname="SPADARO,MATT" uni="83" class="FR" gp="0" code="83"></player>
+  <player name="Bailey Gaither" checkname="GAITHER,BAILEY" uni="84" class="FR" gp="0" code="84"></player>
+  <player name="Levander Moore" checkname="MOORE,LEVANDER" uni="86" class="JR" gp="0" code="86"></player>
+  <player name="Luka Hendricks" checkname="HENDRICKS,LUKA" uni="91" class="FR" gp="0" code="91"></player>
+  <player name="Brett Foley" checkname="FOLEY,BRETT" uni="95" class="FR" gp="0" code="95"></player>
+  <player name="Corey Adolphus" checkname="ADOLPHUS,COREY" uni="97" class="FR" gp="0" code="97"></player>
+  <player name="Joseph Melo" checkname="MELO,JOSEPH" uni="99" class="FR" gp="0" code="99"></player>
+ </dnp>
+ <dnp vh="H" id="AU">
+  <player name="T. Tuberville" checkname="TUBERVILLE,T" uni="1T" class="SR" gp="0" code="16"></player>
+  <player name="Tyler Queen" checkname="QUEEN,TYLER" uni="1Q" class="FR" gp="0" code="15"></player>
+  <player name="T.J. Davis" checkname="DAVIS,TJ" uni="1D" class="JR" gp="0" code="13"></player>
+  <player name="Austin Dupper" checkname="DUPPER,AUSTIN" uni="2D" class="JR" gp="0" code="25"></player>
+  <player name="Will Hastings" checkname="HASTINGS,WILL" uni="3H" class="SR" gp="0" code="31"></player>
+  <player name="M. Sherwood" checkname="SHERWOOD,M" uni="3S" class="SO" gp="0" code="36"></player>
+  <player name="Duncan McKinney" checkname="MCKINNEY,DUNCAN" uni="3M" class="SR" gp="0" code="31"></player>
+  <player name="Thomas Taylor" checkname="TAYLOR,THOMAS" uni="4T" class="FR" gp="0" code="44"></player>
+  <player name="Greg Hall" checkname="HALL,GREG" uni="4G" class="JR" gp="0" code="41"></player>
+  <player name="Keenan Sweeney" checkname="SWEENEY,KEENAN" uni="4S" class="FR" gp="0" code="42"></player>
+  <player name="Lawyer Tillman" checkname="TILLMAN,LAWYER" uni="4L" class="SR" gp="0" code="48"></player>
+  <player name="Tony Stevens" checkname="STEVENS,TONY" uni="8S" class="JR" gp="0" code="08"></player>
+  <player name="Stanton Truitt" checkname="TRUITT,STANTON" uni="10" class="FR" gp="0" code="10"></player>
+  <player name="Markell Boston" checkname="BOSTON,MARKELL" uni="11" class="FR" gp="0" code="11"></player>
+  <player name="Joshua Holsey" checkname="HOLSEY,JOSHUA" uni="15" class="SR" gp="0" code="15"></player>
+  <player name="Nick Ruffin" checkname="RUFFIN,NICK" uni="19" class="SO" gp="0" code="19"></player>
+  <player name="Tim Irvin" checkname="IRVIN,TIM" uni="22" class="FR" gp="0" code="22"></player>
+  <player name="Jovon Robinson" checkname="ROBINSON,JOVON" uni="29" class="JR" gp="0" code="29"></player>
+  <player name="Tre' Williams" checkname="WILLIAMS,TRE'" uni="30" class="SO" gp="0" code="30"></player>
+  <player name="Javaris Davis" checkname="DAVIS,JAVARIS" uni="31" class="FR" gp="0" code="31"></player>
+  <player name="Alec Brown" checkname="BROWN,ALEC" uni="32" class="SO" gp="0" code="32"></player>
+  <player name="Kenny Flowers" checkname="FLOWERS,KENNY" uni="33" class="SR" gp="0" code="33"></player>
+  <player name="Tyler LaFlamme" checkname="LAFLAMME,TYLER" uni="35" class="FR" gp="0" code="35"></player>
+  <player name="Logan Rice" checkname="RICE,LOGAN" uni="37" class="FR" gp="0" code="37"></player>
+  <player name="Robert Muschamp" checkname="MUSCHAMP,ROBERT" uni="39" class="FR" gp="0" code="39"></player>
+  <player name="Daniel Pond" checkname="POND,DANIEL" uni="40" class="SR" gp="0" code="40"></player>
+  <player name="Jordan Colbert" checkname="COLBERT,JORDAN" uni="41" class="FR" gp="0" code="41"></player>
+  <player name="Gimel President" checkname="PRESIDENT,GIMEL" uni="42" class="JR" gp="0" code="42"></player>
+  <player name="Ian Shannon" checkname="SHANNON,IAN" uni="43" class="FR" gp="0" code="43"></player>
+  <player name="Keymiya Harrell" checkname="HARRELL,KEYMIYA" uni="45" class="SR" gp="0" code="45"></player>
+  <player name="Chris Laye" checkname="LAYE,CHRIS" uni="46" class="FR" gp="0" code="46"></player>
+  <player name="Cameron Toney" checkname="TONEY,CAMERON" uni="47" class="SO" gp="0" code="47"></player>
+  <player name="Richard McBryde" checkname="MCBRYDE,RICHARD" uni="51" class="FR" gp="0" code="51"></player>
+  <player name="Xavier Dampeer" checkname="DAMPEER,XAVIER" uni="52" class="SR" gp="0" code="52"></player>
+  <player name="Kaleb Kim" checkname="KIM,KALEB" uni="54" class="FR" gp="0" code="54"></player>
+  <player name="Carl Lawson" checkname="LAWSON,CARL" uni="55" class="SO" gp="0" code="55"></player>
+  <player name="Josh Shockley" checkname="SHOCKLEY,JOSH" uni="58" class="FR" gp="0" code="58"></player>
+  <player name="Ryan Meneely" checkname="MENEELY,RYAN" uni="61" class="FR" gp="0" code="61"></player>
+  <player name="J. Johnson" checkname="JOHNSON,J" uni="62" class="FR" gp="0" code="62"></player>
+  <player name="Mike Horton" checkname="HORTON,MIKE" uni="64" class="FR" gp="0" code="64"></player>
+  <player name="Tucker Brown" checkname="BROWN,TUCKER" uni="65" class="FR" gp="0" code="65"></player>
+  <player name="Bailey Sharp" checkname="SHARP,BAILEY" uni="66" class="FR" gp="0" code="66"></player>
+  <player name="Tyler Carr" checkname="CARR,TYLER" uni="67" class="FR" gp="0" code="67"></player>
+  <player name="Zach Wade" checkname="WADE,ZACH" uni="68" class="FR" gp="0" code="68"></player>
+  <player name="Deon Mix" checkname="MIX,DEON" uni="75" class="SO" gp="0" code="75"></player>
+  <player name="Jordan Diamond" checkname="DIAMOND,JORDAN" uni="76" class="JR" gp="0" code="76"></player>
+  <player name="Marquel Harrell" checkname="HARRELL,MARQUEL" uni="77" class="FR" gp="0" code="77"></player>
+  <player name="Darius Slayton" checkname="SLAYTON,DARIUS" uni="81" class="FR" gp="0" code="81"></player>
+  <player name="Ryan Davis" checkname="DAVIS,RYAN" uni="83" class="FR" gp="0" code="83"></player>
+  <player name="J. Stoudemire" checkname="STOUDEMIRE,J" uni="86" class="FR" gp="0" code="86"></player>
+  <player name="Griffin King" checkname="KING,GRIFFIN" uni="89" class="FR" gp="0" code="89"></player>
+  <player name="Thomas-Thornton" checkname="THOMAS-THORNTON" uni="92" class="FR" gp="0" code="92"></player>
+  <player name="Tyler Carter" checkname="CARTER,TYLER" uni="93" class="FR" gp="0" code="93"></player>
+  <player name="Aaron Garrison" checkname="GARRISON,AARON" uni="96" class="SO" gp="0" code="96"></player>
+  <player name="Gary Walker" checkname="WALKER,GARY" uni="97" class="FR" gp="0" code="97"></player>
+ </dnp>
+ <longplays thresh="70">
+ </longplays>
+</fbgame>

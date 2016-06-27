@@ -1,0 +1,1862 @@
+<fbgame source="Tas Football" version="4.16.07" generated="10/18/2015">
+ <venue gameid="FMISSMEM" visid="OM" homeid="MEM" visname="Ole Miss" homename="Memphis"
+      date="10/17/2015" location="Memphis, Tenn." stadium="Liberty Bowl Stadium"
+      start="11:05 am" end="2:36"
+      duration="3:31" attend="60241" temp="57" wind="NNE @ 5" weather="sunny">
+  <officials ref="Brad Rogers" ump="Rick Lowe" line="Jay Vines" lj="Will McDonald" bj="Michael Wilson" fj="Grant Jackson" sj="Richard Rooker" cj="Kevin Vicknair" alt="Kevin Vicknair"></officials>
+  <rules qtrs="4" mins="15" downs="4" yds="10" kospot="35" tbspot="20" kotbspot="25" patspot="3" safspot="20" td="6" fg="3" pat="1" patx="2" saf="2" defpat="2" rouge="1" field="100" toh="3" sackrush="Y" fgaplay="Y" netpunttb="Y"></rules>
+ </venue>
+ <team vh="V" code="433" id="OM" name="Ole Miss" record="5-2" conf-record="2-1" abb="O">
+  <linescore prds="4" line="14,0,10,0" score="24">
+   <lineprd prd="1" score="14"></lineprd>
+   <lineprd prd="2" score="0"></lineprd>
+   <lineprd prd="3" score="10"></lineprd>
+   <lineprd prd="4" score="0"></lineprd>
+  </linescore>
+  <totals totoff_plays="72" totoff_yards="480" totoff_avg="6.7">
+   <firstdowns no="25" rush="4" pass="20" penalty="1"></firstdowns>
+   <penalties no="8" yds="90"></penalties>
+   <conversions thirdconv="4" thirdatt="13" fourthconv="0" fourthatt="2"></conversions>
+   <fumbles no="0" lost="0"></fumbles>
+   <misc yds="0" top="22:32" ona="0" onm="0" ptsto="0"></misc>
+   <redzone att="3" scores="2" points="10" tdrush="0" tdpass="1" fgmade="1" endfga="0" enddowns="1" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="24" yds="40" gain="70" loss="30" td="0" long="13"></rush>
+   <pass comp="34" att="48" int="2" yds="440" td="3" long="68" sacks="2" sackyds="16"></pass>
+   <rcv no="34" yds="440" td="3" long="68"></rcv>
+   <punt no="5" yds="192" long="46" blkd="0" tb="0" fc="2" plus50="0" inside20="1" avg="38.4"></punt>
+   <ko no="5" yds="313" ob="1" tb="2"></ko>
+   <fg made="1" att="1" long="24" blkd="0"></fg>
+   <pat kickatt="3" kickmade="3"></pat>
+   <defense tackua="65" tacka="20" tot_tack="85" tflua="7" tfla="6" tflyds="46" sacks="2" sackyds="10" brup="5" qbh="1" int="1" intyds="2"></defense>
+   <kr no="2" yds="23" td="0" long="19"></kr>
+   <pr no="1" yds="0" td="0" long="0"></pr>
+   <ir no="1" yds="2" td="0" long="2"></ir>
+   <scoring td="3" fg="1" patkick="3"></scoring>
+  </totals>
+  <player name="K. Webster" shortname="K. Webster" checkname="WEBSTER,K" uni="1F" class="SO" gp="1" code="1F">
+   <defense tackua="4" tacka="0" tot_tack="4" brup="1"></defense>
+  </player>
+  <player name="Channing Ward" shortname="Channing Ward" checkname="WARD,CHANNING" uni="1W" class="SR" gp="1" code="1W">
+   <defense tackua="1" tacka="0" tot_tack="1" brup="1"></defense>
+  </player>
+  <player name="Tony Bridges" shortname="Tony Bridges" checkname="BRIDGES,TONY" uni="1B" class="JR" gp="1" gs="1" dpos="CB" code="1B">
+   <defense tackua="3" tacka="0" tot_tack="3"></defense>
+  </player>
+  <player name="L. Treadwell" shortname="L. Treadwell" checkname="TREADWELL,L" uni="1A" class="JR" gp="1" gs="1" opos="WR" code="1A">
+   <pass comp="1" att="1" int="0" yds="68" td="1" long="68" sacks="0" sackyds="0"></pass>
+   <rcv no="14" yds="144" td="1" long="21"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Cale Luke" shortname="Cale Luke" checkname="LUKE,CALE" uni="2L" class="SO" gp="1" code="2L"></player>
+  <player name="Terry Caldwell" shortname="Terry Caldwell" checkname="CALDWELL,TERRY" uni="2C" class="JR" gp="1" code="2C">
+   <defense tackua="4" tacka="1" tot_tack="5" tflua="1" tfla="0" tflyds="4"></defense>
+  </player>
+  <player name="C.J. Moore" shortname="C.J. Moore" checkname="MOORE,CJ" uni="2M" class="SO" gp="1" code="2M"></player>
+  <player name="C.J. Hampton" shortname="C.J. Hampton" checkname="HAMPTON,CJ" uni="3B" class="SO" gp="1" gs="1" dpos="FS" code="3B">
+   <defense tackua="10" tacka="1" tot_tack="11"></defense>
+  </player>
+  <player name="D. Stringfellow" shortname="D. Stringfellow" checkname="STRINGFELLOW,D" uni="3A" class="SO" gp="1" code="3A">
+   <rcv no="4" yds="72" td="1" long="23"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Q. Burdette" shortname="Q. Burdette" checkname="BURDETTE,Q" uni="4A" class="SR" gp="1" code="4A"></player>
+  <player name="D. Nkemdiche" shortname="D. Nkemdiche" checkname="NKEMDICHE,D" uni="4B" class="SR" gp="1" gs="1" dpos="OLB" code="4B">
+   <defense tackua="2" tacka="1" tot_tack="3" tflua="0" tfla="1" tflyds="1"></defense>
+  </player>
+  <player name="R. Nkemdiche" shortname="R. Nkemdiche" checkname="NKEMDICHE,R" uni="5B" class="JR" gp="1" gs="1" dpos="DT" code="5B">
+   <rush att="1" yds="0" gain="0" loss="0" td="0" long="0"></rush>
+  </player>
+  <player name="Jaylen Walton" shortname="Jaylen Walton" checkname="WALTON,JAYLEN" uni="6A" class="SR" gp="1" gs="1" opos="RB" code="6A">
+   <rush att="7" yds="39" gain="39" loss="0" td="0" long="13"></rush>
+   <rcv no="1" yds="0" td="0" long="0"></rcv>
+   <kr no="2" yds="23" td="0" long="19"></kr>
+  </player>
+  <player name="Fadol Brown" shortname="Fadol Brown" checkname="BROWN,FADOL" uni="6B" class="JR" gp="1" gs="1" dpos="DE" code="6B">
+   <defense tackua="4" tacka="2" tot_tack="6" tflua="1" tfla="0" tflyds="7" sackua="1" sacka="0" sackyds="7"></defense>
+  </player>
+  <player name="Trae Elston" shortname="Trae Elston" checkname="ELSTON,TRAE" uni="7B" class="SR" gp="1" gs="1" dpos="ROVR" code="7B">
+   <defense tackua="3" tacka="1" tot_tack="4" brup="1"></defense>
+  </player>
+  <player name="Q. Adeboyejo" shortname="Q. Adeboyejo" checkname="ADEBOYEJO,Q" uni="8A" class="JR" gp="1" gs="1" opos="SLOT" code="8A">
+   <rcv no="2" yds="94" td="1" long="68"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="Chief Brown" shortname="Chief Brown" checkname="BROWN,CHIEF" uni="8B" class="SR" gp="1" code="8B">
+   <defense tackua="0" tacka="1" tot_tack="1" tflua="0" tfla="1" tflyds="1"></defense>
+  </player>
+  <player name="Ryan Buchanan" shortname="Ryan Buchanan" checkname="BUCHANAN,RYAN" uni="9A" class="SO" gp="1" code="9A"></player>
+  <player name="Will Gleeson" shortname="Will Gleeson" checkname="GLEESON,WILL" uni="9G" class="SO" gp="1" code="9G">
+   <punt no="5" yds="192" long="46" blkd="0" tb="0" fc="2" plus50="0" inside20="1" avg="38.4"></punt>
+  </player>
+  <player name="Breeland Speaks" shortname="Breeland Speaks" checkname="SPEAKS,BREELAND" uni="9B" class="FR" gp="1" code="9B">
+   <defense tackua="3" tacka="3" tot_tack="6" tflua="2" tfla="0" tflyds="24"></defense>
+  </player>
+  <player name="Chad Kelly" shortname="Chad Kelly" checkname="KELLY,CHAD" uni="10" class="JR" gp="1" gs="1" opos="QB" code="10">
+   <rush att="8" yds="-2" gain="19" loss="21" td="0" long="8"></rush>
+   <pass comp="33" att="47" int="2" yds="372" td="2" long="26" sacks="2" sackyds="16"></pass>
+  </player>
+  <player name="Markell Pack" shortname="Markell Pack" checkname="PACK,MARKELL" uni="11" class="SO" gp="1" code="11">
+   <rcv no="1" yds="10" td="0" long="10"></rcv>
+  </player>
+  <player name="Jeremy Liggins" shortname="Jeremy Liggins" checkname="LIGGINS,JEREMY" uni="15" class="JR" gp="1" gs="1" dpos="CB" code="15"></player>
+  <player name="Collins Moore" shortname="Collins Moore" checkname="MOORE,COLLINS" uni="16" class="SR" gp="1" code="16">
+   <pr no="1" yds="0" td="0" long="0"></pr>
+  </player>
+  <player name="Evan Engram" shortname="Evan Engram" checkname="ENGRAM,EVAN" uni="17" class="JR" gp="1" gs="1" opos="TE" code="17">
+   <rcv no="4" yds="24" td="0" long="11"></rcv>
+  </player>
+  <player name="Derrick Jones" shortname="Derrick Jones" checkname="JONES,DERRICK" uni="19" class="JR" gp="1" code="19">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="C. Russell" shortname="C. Russell" checkname="RUSSELL,C" uni="20" class="SR" gp="1" code="20">
+   <defense tackua="4" tacka="1" tot_tack="5"></defense>
+  </player>
+  <player name="Akeem Judd" shortname="Akeem Judd" checkname="JUDD,AKEEM" uni="21" class="JR" gp="1" gs="1" dpos="MLB" code="21">
+   <rush att="1" yds="0" gain="0" loss="0" td="0" long="0"></rush>
+  </player>
+  <player name="Jordan Wilkins" shortname="Jordan Wilkins" checkname="WILKINS,JORDAN" uni="22" class="SO" gp="1" code="22">
+   <rush att="6" yds="5" gain="12" loss="7" td="0" long="5"></rush>
+  </player>
+  <player name="Carlos Davis" shortname="Carlos Davis" checkname="DAVIS,CARLOS" uni="23" class="JR" gp="1" code="23">
+   <defense tackua="4" tacka="1" tot_tack="5" tflua="0" tfla="1" tflyds="1"></defense>
+  </player>
+  <player name="Tayler Polk" shortname="Tayler Polk" checkname="POLK,TAYLER" uni="24" class="SO" gp="1" code="24"></player>
+  <player name="Marquis Haynes" shortname="Marquis Haynes" checkname="HAYNES,MARQUIS" uni="27" class="SO" gp="1" gs="1" dpos="DE" code="27">
+   <defense tackua="3" tacka="1" tot_tack="4" tflua="0" tfla="1" tflyds="2" qbh="1"></defense>
+  </player>
+  <player name="Cameron Ordway" shortname="Cameron Ordway" checkname="ORDWAY,CAMERON" uni="28" class="FR" gp="1" code="28"></player>
+  <player name="A.J. Moore" shortname="A.J. Moore" checkname="MOORE,AJ" uni="30" class="SO" gp="1" code="30"></player>
+  <player name="DeMarquis Gates" shortname="DeMarquis Gates" checkname="GATES,DEMARQUIS" uni="31" class="SO" gp="1" code="31">
+   <defense tackua="5" tacka="2" tot_tack="7" tflua="1" tfla="0" tflyds="1" brup="1"></defense>
+  </player>
+  <player name="Temario Strong" shortname="Temario Strong" checkname="STRONG,TEMARIO" uni="32" class="JR" gp="1" code="32">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="D.K. Buford" shortname="D.K. Buford" checkname="BUFORD,DK" uni="35" class="FR" gp="1" code="35"></player>
+  <player name="Zedrick Woods" shortname="Zedrick Woods" checkname="WOODS,ZEDRICK" uni="36" class="FR" gp="1" code="36"></player>
+  <player name="Luke Davis" shortname="Luke Davis" checkname="DAVIS,LUKE" uni="37" class="SO" gp="1" code="37"></player>
+  <player name="Mike Hilton" shortname="Mike Hilton" checkname="HILTON,MIKE" uni="38" class="SR" gp="1" gs="1" dpos="NICK" code="38">
+   <defense tackua="10" tacka="1" tot_tack="11" tflua="2" tfla="1" tflyds="5" sackua="1" sacka="0" sackyds="3" brup="1" int="1" intyds="2"></defense>
+   <ir no="1" yds="2" td="0" long="2"></ir>
+  </player>
+  <player name="John Youngblood" shortname="John Youngblood" checkname="YOUNGBLOOD,JOHN" uni="47" class="JR" gp="1" code="47">
+   <defense tackua="0" tacka="2" tot_tack="2"></defense>
+  </player>
+  <player name="Sean Rawlings" shortname="Sean Rawlings" checkname="RAWLINGS,SEAN" uni="50" class="FR" gp="1" gs="1" opos="RT" code="50"></player>
+  <player name="Will Few" shortname="Will Few" checkname="FEW,WILL" uni="53" class="JR" gp="1" code="53"></player>
+  <player name="W. Hamilton" shortname="W. Hamilton" checkname="HAMILTON,W" uni="56" class="SR" gp="1" gs="1" dpos="NT" code="56">
+   <defense tackua="2" tacka="1" tot_tack="3" tflua="0" tfla="1" tflyds="0"></defense>
+  </player>
+  <player name="Ben Still" shortname="Ben Still" checkname="STILL,BEN" uni="64" class="SR" gp="1" gs="1" opos="C" code="64">
+   <rush att="1" yds="-2" gain="0" loss="2" td="0" long="0"></rush>
+  </player>
+  <player name="Justin Bell" shortname="Justin Bell" checkname="BELL,JUSTIN" uni="68" class="SR" gp="1" gs="1" opos="RG" code="68">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="Jordan Sims" shortname="Jordan Sims" checkname="SIMS,JORDAN" uni="70" class="FR" gp="1" code="70"></player>
+  <player name="C. Morris" shortname="C. Morris" checkname="MORRIS,C" uni="71" class="SO" gp="1" code="71"></player>
+  <player name="Aaron Morris" shortname="Aaron Morris" checkname="MORRIS,AARON" uni="72" class="SR" gp="1" code="72"></player>
+  <player name="Rod Taylor" shortname="Rod Taylor" checkname="TAYLOR,ROD" uni="73" class="SO" gp="1" code="73"></player>
+  <player name="Fahn Cooper" shortname="Fahn Cooper" checkname="COOPER,FAHN" uni="74" class="SR" gp="1" gs="1" opos="LT" code="74"></player>
+  <player name="Daronte Bouldin" shortname="Daronte Bouldin" checkname="BOULDIN,DARONTE" uni="76" class="SO" gp="1" code="76"></player>
+  <player name="Javon Patterson" shortname="Javon Patterson" checkname="PATTERSON,JAVON" uni="79" class="FR" gp="1" gs="1" opos="LG" code="79"></player>
+  <player name="Trey Bledsoe" shortname="Trey Bledsoe" checkname="BLEDSOE,TREY" uni="81" class="SO" gp="1" code="81"></player>
+  <player name="Dillon Barrett" shortname="Dillon Barrett" checkname="BARRETT,DILLON" uni="83" class="SR" gp="1" code="83"></player>
+  <player name="Hunter Thurley" shortname="Hunter Thurley" checkname="THURLEY,HUNTER" uni="84" class="JR" gp="1" code="84"></player>
+  <player name="Matt Brown" shortname="Matt Brown" checkname="BROWN,MATT" uni="87" class="JR" gp="1" code="87"></player>
+  <player name="Cody Core" shortname="Cody Core" checkname="CORE,CODY" uni="88" class="SR" gp="1" gs="1" opos="WR" code="88">
+   <rcv no="6" yds="83" td="0" long="26"></rcv>
+  </player>
+  <player name="Taz Zettergren" shortname="Taz Zettergren" checkname="ZETTERGREN,TAZ" uni="89" class="JR" gp="1" code="89">
+   <rcv no="2" yds="13" td="0" long="12"></rcv>
+  </player>
+  <player name="Nathan Noble" shortname="Nathan Noble" checkname="NOBLE,NATHAN" uni="91" class="JR" gp="1" code="91">
+   <ko no="5" yds="313" ob="1" tb="2"></ko>
+  </player>
+  <player name="D.J. Jones" shortname="D.J. Jones" checkname="JONES,DJ" uni="93" class="JR" gp="1" code="93">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="Gary Wunderlich" shortname="Gary Wunderlich" checkname="WUNDERLICH,GARY" uni="97" class="SO" gp="1" code="97">
+   <fg made="1" att="1" long="24" blkd="0"></fg>
+   <pat kickatt="3" kickmade="3"></pat>
+   <scoring fg="1" patkick="3"></scoring>
+  </player>
+ </team>
+ <team vh="H" code="404" id="MEM" name="Memphis" record="6-0" conf-record="2-0" abb="M">
+  <linescore prds="4" line="7,17,7,6" score="37">
+   <lineprd prd="1" score="7"></lineprd>
+   <lineprd prd="2" score="17"></lineprd>
+   <lineprd prd="3" score="7"></lineprd>
+   <lineprd prd="4" score="6"></lineprd>
+  </linescore>
+  <totals totoff_plays="94" totoff_yards="491" totoff_avg="5.2">
+   <firstdowns no="31" rush="7" pass="21" penalty="3"></firstdowns>
+   <penalties no="10" yds="80"></penalties>
+   <conversions thirdconv="12" thirdatt="20" fourthconv="0" fourthatt="0"></conversions>
+   <fumbles no="0" lost="0"></fumbles>
+   <misc yds="0" top="37:28" ona="0" onm="0" ptsto="7"></misc>
+   <redzone att="6" scores="6" points="30" tdrush="1" tdpass="2" fgmade="3" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="41" yds="107" gain="148" loss="41" td="1" long="13"></rush>
+   <pass comp="39" att="53" int="1" yds="384" td="3" long="36" sacks="2" sackyds="10"></pass>
+   <rcv no="39" yds="384" td="3" long="36"></rcv>
+   <punt no="5" yds="188" long="49" blkd="0" tb="0" fc="3" plus50="0" inside20="3" avg="37.6"></punt>
+   <ko no="8" yds="517" ob="0" tb="6"></ko>
+   <fg made="3" att="3" long="42" blkd="0"></fg>
+   <pat kickatt="4" kickmade="4"></pat>
+   <defense tackua="54" tacka="8" tot_tack="62" tflua="6" tfla="2" tflyds="31" sacks="2" sackyds="16" brup="3" int="2" intyds="28"></defense>
+   <kr no="2" yds="37" td="0" long="19"></kr>
+   <pr no="2" yds="20" td="0" long="15"></pr>
+   <ir no="2" yds="28" td="0" long="16"></ir>
+   <scoring td="4" fg="3" patkick="4"></scoring>
+  </totals>
+  <player name="LANIER, C" shortname="LANIER, C" checkname="LANIER,C" uni="1Z" class="JR" gp="1" code="1Z"></player>
+  <player name="NORTHERN, Ty" shortname="NORTHERN, Ty" checkname="NORTHERN,TY" uni="2" class="JR" gp="1" code="2"></player>
+  <player name="MILLER, Anthony" shortname="MILLER, Anthony" checkname="MILLER,ANTHONY" uni="3" class="SO" gp="1" code="3">
+   <rcv no="10" yds="132" td="1" long="36"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="FARRIS, Isaiah" shortname="FARRIS, Isaiah" checkname="FARRIS,ISAIAH" uni="4I" class="SR" gp="1" code="4I"></player>
+  <player name="FRAZIER, Mose" shortname="FRAZIER, Mose" checkname="FRAZIER,MOSE" uni="5" class="SR" gp="1" gs="1" opos="WR" code="5">
+   <rcv no="8" yds="83" td="1" long="31"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="AVERY, Genard" shortname="AVERY, Genard" checkname="AVERY,GENARD" uni="6" class="SO" gp="1" gs="1" dpos="WLB" code="6">
+   <defense tackua="6" tacka="1" tot_tack="7" tflua="1" tfla="1" tflyds="6"></defense>
+  </player>
+  <player name="MAULET, Arthur" shortname="MAULET, Arthur" checkname="MAULET,ARTHUR" uni="8" class="JR" gp="1" gs="1" dpos="CB" code="8">
+   <defense tackua="6" tacka="0" tot_tack="6" int="1" intyds="12"></defense>
+   <ir no="1" yds="12" td="0" long="12"></ir>
+  </player>
+  <player name="NELSON, D" shortname="NELSON, D" checkname="NELSON,D" uni="10" class="JR" gp="1" gs="1" dpos="CB" code="10">
+   <defense tackua="6" tacka="0" tot_tack="6"></defense>
+  </player>
+  <player name="CRAFT, Sam" shortname="CRAFT, Sam" checkname="CRAFT,SAM" uni="11" class="JR" gp="1" gs="1" opos="RB" code="11">
+   <rush att="8" yds="20" gain="26" loss="6" td="1" long="8"></rush>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="LYNCH, Paxton" shortname="LYNCH, Paxton" checkname="LYNCH,PAXTON" uni="12" class="JR" gp="1" gs="1" opos="QB" code="12">
+   <rush att="8" yds="3" gain="13" loss="10" td="0" long="6"></rush>
+   <pass comp="39" att="53" int="1" yds="384" td="3" long="36" sacks="2" sackyds="10"></pass>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="MONTGOMERY, D" shortname="MONTGOMERY, D" checkname="MONTGOMERY,D" uni="13" class="JR" gp="1" code="13">
+   <defense tackua="2" tacka="0" tot_tack="2" tflua="1" tfla="0" tflyds="11" sackua="1" sacka="0" sackyds="11"></defense>
+  </player>
+  <player name="BRADY, Latarius" shortname="BRADY, Latarius" checkname="BRADY,LATARIUS" uni="14" class="JR" gp="1" code="14"></player>
+  <player name="JOHNSON, C" shortname="JOHNSON, C" checkname="JOHNSON,C" uni="15" class="SO" gp="1" gs="1" dpos="DE" code="15">
+   <defense tackua="3" tacka="1" tot_tack="4" tflua="2" tfla="1" tflyds="7" sackua="1" sacka="0" sackyds="5" brup="1"></defense>
+  </player>
+  <player name="McMANIS, Wynton" shortname="McMANIS, Wynton" checkname="MCMANIS,WYNTON" uni="16" class="SR" gp="1" gs="1" dpos="SLB" code="16">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="MORLEY, Chris" shortname="MORLEY, Chris" checkname="MORLEY,CHRIS" uni="17" class="JR" gp="1" code="17">
+   <defense tackua="7" tacka="0" tot_tack="7" tflua="1" tfla="0" tflyds="1"></defense>
+  </player>
+  <player name="PROCTOR, R" shortname="PROCTOR, R" checkname="PROCTOR,R" uni="18" class="SO" gp="1" code="18">
+   <rcv no="3" yds="27" td="0" long="18"></rcv>
+   <pr no="2" yds="20" td="0" long="15"></pr>
+  </player>
+  <player name="OGLESBY, J" shortname="OGLESBY, J" checkname="OGLESBY,J" uni="19" class="FR" gp="1" code="19">
+   <rush att="1" yds="-19" gain="0" loss="19" td="0" long="0"></rush>
+   <rcv no="4" yds="14" td="0" long="9"></rcv>
+   <kr no="2" yds="37" td="0" long="19"></kr>
+  </player>
+  <player name="ROSS, B.J." shortname="ROSS, B.J." checkname="ROSS,BJ" uni="23" class="JR" gp="1" code="23"></player>
+  <player name="COOPER, Jarvis" shortname="COOPER, Jarvis" checkname="COOPER,JARVIS" uni="25" class="SO" gp="1" code="25">
+   <rush att="17" yds="76" gain="77" loss="1" td="0" long="13"></rush>
+   <rcv no="1" yds="11" td="0" long="11"></rcv>
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="HENDERSON, J" shortname="HENDERSON, J" checkname="HENDERSON,J" uni="26" class="FR" gp="1" code="26"></player>
+  <player name="WITTY, Dion" shortname="WITTY, Dion" checkname="WITTY,DION" uni="27" class="SR" gp="1" code="27">
+   <defense tackua="6" tacka="0" tot_tack="6" int="1" intyds="16"></defense>
+   <ir no="1" yds="16" td="0" long="16"></ir>
+  </player>
+  <player name="DORCEUS, D" shortname="DORCEUS, D" checkname="DORCEUS,D" uni="28" class="SO" gp="1" code="28">
+   <rush att="5" yds="22" gain="25" loss="3" td="0" long="13"></rush>
+   <rcv no="2" yds="23" td="0" long="13"></rcv>
+  </player>
+  <player name="WHITE, Shareef" shortname="WHITE, Shareef" checkname="WHITE,SHAREEF" uni="30" class="SO" gp="1" code="30">
+   <defense tackua="4" tacka="0" tot_tack="4"></defense>
+  </player>
+  <player name="TERRY, D" shortname="TERRY, D" checkname="TERRY,D" uni="32" class="SO" gp="1" gs="1" dpos="SS" code="32"></player>
+  <player name="SUMPTER, P" shortname="SUMPTER, P" checkname="SUMPTER,P" uni="33" class="SO" gp="1" code="33"></player>
+  <player name="DILLON, Jackson" shortname="DILLON, Jackson" checkname="DILLON,JACKSON" uni="34" class="JR" gp="1" gs="1" dpos="DAWG" code="34">
+   <defense tackua="2" tacka="1" tot_tack="3" tflua="1" tfla="0" tflyds="6"></defense>
+  </player>
+  <player name="MICHAEL, Evan" shortname="MICHAEL, Evan" checkname="MICHAEL,EVAN" uni="35" class="SO" gp="1" code="35"></player>
+  <player name="SMITH, Spencer" shortname="SMITH, Spencer" checkname="SMITH,SPENCER" uni="36" class="SO" gp="1" code="36">
+   <punt no="4" yds="159" long="49" blkd="0" tb="0" fc="2" plus50="0" inside20="2" avg="39.8"></punt>
+  </player>
+  <player name="CHARETTE, Tyler" shortname="CHARETTE, Tyler" checkname="CHARETTE,TYLER" uni="38" class="JR" gp="1" code="38">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="BALL, Reggis" shortname="BALL, Reggis" checkname="BALL,REGGIS" uni="39" class="SR" gp="1" gs="1" dpos="FS" code="39">
+   <defense tackua="4" tacka="0" tot_tack="4" brup="1"></defense>
+  </player>
+  <player name="CROSS, Alan" shortname="CROSS, Alan" checkname="CROSS,ALAN" uni="40" class="SR" gp="1" gs="1" opos="TE" code="40">
+   <rcv no="6" yds="41" td="1" long="13"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="MORGAN, Trevor" shortname="MORGAN, Trevor" checkname="MORGAN,TREVOR" uni="41" class="JR" gp="1" code="41"></player>
+  <player name="ROBINSON, Noah" shortname="ROBINSON, Noah" checkname="ROBINSON,NOAH" uni="45" class="SO" gp="1" code="45">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="ELLIOTT, Jake" shortname="ELLIOTT, Jake" checkname="ELLIOTT,JAKE" uni="46" class="JR" gp="1" code="46">
+   <ko no="8" yds="517" ob="0" tb="6"></ko>
+   <fg made="3" att="3" long="42" blkd="0"></fg>
+   <pat kickatt="4" kickmade="4"></pat>
+   <scoring fg="3" patkick="4"></scoring>
+  </player>
+  <player name="JACOBS, Nick" shortname="JACOBS, Nick" checkname="JACOBS,NICK" uni="47" class="SO" gp="1" code="47">
+   <punt no="1" yds="29" long="29" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="29.0"></punt>
+  </player>
+  <player name="SUTTLES, Ernest" shortname="SUTTLES, Ernest" checkname="SUTTLES,ERNEST" uni="48" class="SO" gp="1" gs="1" dpos="DE" code="48"></player>
+  <player name="HARDEN, Lenard" shortname="HARDEN, Lenard" checkname="HARDEN,LENARD" uni="50" class="JR" gp="1" code="50">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="PEGUES, Leonard" shortname="PEGUES, Leonard" checkname="PEGUES,LEONARD" uni="53" class="SR" gp="1" code="53">
+   <defense tackua="2" tacka="1" tot_tack="3"></defense>
+  </player>
+  <player name="KYSER, Drew" shortname="KYSER, Drew" checkname="KYSER,DREW" uni="54" class="FR" gp="1" gs="1" opos="C" dpos="MLB" code="54"></player>
+  <player name="PENNINGTON, D" shortname="PENNINGTON, D" checkname="PENNINGTON,D" uni="58" class="JR" gp="1" gs="1" dpos="NT" code="58">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="USELTON, Tyler" shortname="USELTON, Tyler" checkname="USELTON,TYLER" uni="63" class="SR" gp="1" gs="1" opos="LG" code="63"></player>
+  <player name="COLLINS, Zach" shortname="COLLINS, Zach" checkname="COLLINS,ZACH" uni="64" class="SO" gp="1" code="64"></player>
+  <player name="ROBERSON, C" shortname="ROBERSON, C" checkname="ROBERSON,C" uni="65" class="JR" gp="1" code="65"></player>
+  <player name="SIMMONS, Micah" shortname="SIMMONS, Micah" checkname="SIMMONS,MICAH" uni="70" class="SR" gp="1" code="70"></player>
+  <player name="KUHN, Gabe" shortname="KUHN, Gabe" checkname="KUHN,GABE" uni="71" class="SO" gp="1" gs="1" opos="RG" code="71"></player>
+  <player name="TATE, Trevon" shortname="TATE, Trevon" checkname="TATE,TREVON" uni="72" class="FR" gp="1" gs="1" opos="RT" code="72"></player>
+  <player name="STANNARD, M" shortname="STANNARD, M" checkname="STANNARD,M" uni="75" class="JR" gp="1" code="75"></player>
+  <player name="FALLIN, Taylor" shortname="FALLIN, Taylor" checkname="FALLIN,TAYLOR" uni="77" class="SR" gp="1" gs="1" opos="LT" code="77"></player>
+  <player name="MONTIEL, Daniel" shortname="MONTIEL, Daniel" checkname="MONTIEL,DANIEL" uni="80" class="JR" gp="1" code="80">
+   <rcv no="1" yds="17" td="0" long="17"></rcv>
+  </player>
+  <player name="YOUNG, Robby" shortname="YOUNG, Robby" checkname="YOUNG,ROBBY" uni="84" class="SO" gp="1" code="84"></player>
+  <player name="JONES, Tevin" shortname="JONES, Tevin" checkname="JONES,TEVIN" uni="87" class="SR" gp="1" gs="1" opos="WR" code="87">
+   <rush att="1" yds="7" gain="7" loss="0" td="0" long="7"></rush>
+   <rcv no="1" yds="7" td="0" long="7"></rcv>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="BISHOP, Drew" shortname="BISHOP, Drew" checkname="BISHOP,DREW" uni="88" class="JR" gp="1" code="88"></player>
+  <player name="MAYHUE, Phil" shortname="MAYHUE, Phil" checkname="MAYHUE,PHIL" uni="89" class="SO" gp="1" gs="1" opos="WR" code="89">
+   <rcv no="3" yds="29" td="0" long="21"></rcv>
+  </player>
+  <player name="HUNTER, Ricky" shortname="HUNTER, Ricky" checkname="HUNTER,RICKY" uni="91" class="SR" gp="1" code="91">
+   <defense brup="1"></defense>
+  </player>
+  <player name="EDWARDS, M" shortname="EDWARDS, M" checkname="EDWARDS,M" uni="95" class="JR" gp="1" code="95"></player>
+  <player name="TEAM" shortname="TEAM" checkname="TEAM" uni="TM" class="FR" gp="1" code="198">
+   <rush att="1" yds="-2" gain="0" loss="2" td="0" long="0"></rush>
+  </player>
+ </team>
+ <scores>
+  <score vh="V" team="OM" qtr="1" clock="14:40" type="TD" how="PASS" yds="68" scorer="Q. Adeboyejo" passer="L. Treadwell" patby="Gary Wunderlich" pattype="KICK" patres="GOOD" plays="2" drive="75" top="0:20" vscore="7" hscore="0" driveindex="1"></score>
+  <score vh="V" team="OM" qtr="1" clock="09:44" type="TD" how="PASS" yds="23" scorer="D. Stringfellow" passer="Chad Kelly" patby="Gary Wunderlich" pattype="KICK" patres="GOOD" plays="8" drive="90" top="2:33" vscore="14" hscore="0" driveindex="3"></score>
+  <score vh="H" team="MEM" qtr="1" clock="02:12" type="TD" how="PASS" yds="1" scorer="CROSS, Alan" passer="LYNCH, Paxton" patby="ELLIOTT, Jake" pattype="KICK" patres="GOOD" plays="10" drive="70" top="3:24" vscore="14" hscore="7" driveindex="6"></score>
+  <score vh="H" team="MEM" qtr="2" clock="03:49" type="FG" yds="23" scorer="ELLIOTT, Jake" plays="7" drive="35" top="2:45" vscore="14" hscore="10" driveindex="10"></score>
+  <score vh="H" team="MEM" qtr="2" clock="02:52" type="TD" how="RUSH" yds="4" scorer="CRAFT, Sam" patby="ELLIOTT, Jake" pattype="KICK" patres="GOOD" plays="3" drive="30" top="0:48" vscore="14" hscore="17" driveindex="12"></score>
+  <score vh="H" team="MEM" qtr="2" clock="00:34" type="TD" how="PASS" yds="6" scorer="MILLER, Anthony" passer="LYNCH, Paxton" patby="ELLIOTT, Jake" pattype="KICK" patres="GOOD" plays="6" drive="34" top="1:22" vscore="14" hscore="24" driveindex="14"></score>
+  <score vh="H" team="MEM" qtr="3" clock="11:31" type="TD" how="PASS" yds="31" scorer="FRAZIER, Mose" passer="LYNCH, Paxton" patby="ELLIOTT, Jake" pattype="KICK" patres="GOOD" plays="10" drive="82" top="3:23" vscore="14" hscore="31" driveindex="16"></score>
+  <score vh="V" team="OM" qtr="3" clock="06:59" type="TD" how="PASS" yds="6" scorer="L. Treadwell" passer="Chad Kelly" patby="Gary Wunderlich" pattype="KICK" patres="GOOD" plays="5" drive="68" top="1:04" vscore="21" hscore="31" driveindex="19"></score>
+  <score vh="V" team="OM" qtr="3" clock="00:16" type="FG" yds="24" scorer="Gary Wunderlich" plays="12" drive="77" top="3:44" vscore="24" hscore="31" driveindex="21"></score>
+  <score vh="H" team="MEM" qtr="4" clock="09:44" type="FG" yds="42" scorer="ELLIOTT, Jake" plays="9" drive="36" top="2:48" vscore="24" hscore="34" driveindex="24"></score>
+  <score vh="H" team="MEM" qtr="4" clock="00:55" type="FG" yds="27" scorer="ELLIOTT, Jake" plays="16" drive="70" top="7:57" vscore="24" hscore="37" driveindex="26"></score>
+ </scores>
+ <fgas>
+  <fga vh="H" team="MEM" kicker="ELLIOTT, Jake" qtr="2" clock="03:49" distance="23" result="good"></fga>
+  <fga vh="V" team="OM" kicker="Gary Wunderlich" qtr="3" clock="00:16" distance="24" result="good"></fga>
+  <fga vh="H" team="MEM" kicker="ELLIOTT, Jake" qtr="4" clock="09:44" distance="42" result="good"></fga>
+  <fga vh="H" team="MEM" kicker="ELLIOTT, Jake" qtr="4" clock="00:55" distance="27" result="good"></fga>
+ </fgas>
+ <drives>
+  <drive vh="V" team="OM" start="KO,1,15:00,25" end="TD,1,14:40,100" plays="2" yards="75" top="0:20" start_how="KO" start_qtr="1" start_time="15:00" start_spot="OM25" end_how="TD" end_qtr="1" end_time="14:40" end_spot="MEM00" driveindex="1"></drive>
+  <drive vh="H" team="MEM" start="KO,1,14:33,28" end="PUNT,1,12:17,61" plays="6" yards="33" top="2:16" start_how="KO" start_qtr="1" start_time="14:33" start_spot="MEM28" end_how="PUNT" end_qtr="1" end_time="12:17" end_spot="OM39" driveindex="2"></drive>
+  <drive vh="V" team="OM" start="PUNT,1,12:17,10" end="TD,1,09:44,100" plays="8" yards="90" top="2:33" start_how="PUNT" start_qtr="1" start_time="12:17" start_spot="OM10" end_how="TD" end_qtr="1" end_time="09:44" end_spot="MEM00" driveindex="3"></drive>
+  <drive vh="H" team="MEM" start="KO,1,09:44,35" end="PUNT,1,08:05,44" plays="5" yards="9" top="1:39" start_how="KO" start_qtr="1" start_time="09:44" start_spot="MEM35" end_how="PUNT" end_qtr="1" end_time="08:05" end_spot="MEM44" driveindex="4"></drive>
+  <drive vh="V" team="OM" start="PUNT,1,08:05,24" end="PUNT,1,05:36,34" plays="6" yards="10" top="2:29" start_how="PUNT" start_qtr="1" start_time="08:05" start_spot="OM24" end_how="PUNT" end_qtr="1" end_time="05:36" end_spot="OM34" driveindex="5"></drive>
+  <drive vh="H" team="MEM" start="PUNT,1,05:36,30" end="TD,1,02:12,100" plays="10" yards="70" top="3:24" start_how="PUNT" start_qtr="1" start_time="05:36" start_spot="MEM30" end_how="TD" end_qtr="1" end_time="02:12" end_spot="OM00" rz="1" driveindex="6"></drive>
+  <drive vh="V" team="OM" start="KO,1,02:12,25" end="DOWNS,2,11:55,84" plays="14" yards="59" top="5:17" start_how="KO" start_qtr="1" start_time="02:12" start_spot="OM25" end_how="DOWNS" end_qtr="2" end_time="11:55" end_spot="MEM16" rz="1" driveindex="7"></drive>
+  <drive vh="H" team="MEM" start="DOWNS,2,11:55,16" end="INT,2,08:23,63" plays="8" yards="47" top="3:32" start_how="DOWNS" start_qtr="2" start_time="11:55" start_spot="MEM16" end_how="INT" end_qtr="2" end_time="08:23" end_spot="OM37" driveindex="8"></drive>
+  <drive vh="V" team="OM" start="INT,2,08:23,35" end="PUNT,2,06:34,15" plays="3" yards="-20" top="1:49" start_how="INT" start_qtr="2" start_time="08:23" start_spot="OM35" end_how="PUNT" end_qtr="2" end_time="06:34" end_spot="OM15" driveindex="9"></drive>
+  <drive vh="H" team="MEM" start="PUNT,2,06:34,60" end="FG,2,03:49,95" plays="7" yards="35" top="2:45" start_how="PUNT" start_qtr="2" start_time="06:34" start_spot="OM40" end_how="FG" end_qtr="2" end_time="03:49" end_spot="OM05" rz="1" driveindex="10"></drive>
+  <drive vh="V" team="OM" start="KO,2,03:49,25" end="INT,2,03:40,25" plays="1" yards="0" top="0:09" start_how="KO" start_qtr="2" start_time="03:49" start_spot="OM25" end_how="INT" end_qtr="2" end_time="03:40" end_spot="OM25" driveindex="11"></drive>
+  <drive vh="H" team="MEM" start="INT,2,03:40,70" end="TD,2,02:52,100" plays="3" yards="30" top="0:48" start_how="INT" start_qtr="2" start_time="03:40" start_spot="OM30" end_how="TD" end_qtr="2" end_time="02:52" end_spot="OM00" rz="1" driveindex="12"></drive>
+  <drive vh="V" team="OM" start="KO,2,02:52,25" end="DOWNS,2,01:56,34" plays="4" yards="9" top="0:56" start_how="KO" start_qtr="2" start_time="02:52" start_spot="OM25" end_how="DOWNS" end_qtr="2" end_time="01:56" end_spot="OM34" driveindex="13"></drive>
+  <drive vh="H" team="MEM" start="DOWNS,2,01:56,66" end="TD,2,00:34,100" plays="6" yards="34" top="1:22" start_how="DOWNS" start_qtr="2" start_time="01:56" start_spot="OM34" end_how="TD" end_qtr="2" end_time="00:34" end_spot="OM00" rz="1" driveindex="14"></drive>
+  <drive vh="V" team="OM" start="KO,2,00:32,7" end="HALF,2,00:00,24" plays="3" yards="17" top="0:32" start_how="KO" start_qtr="2" start_time="00:32" start_spot="OM07" end_how="HALF" end_qtr="2" end_time="00:00" end_spot="OM24" driveindex="15"></drive>
+  <drive vh="H" team="MEM" start="KO,3,14:54,18" end="TD,3,11:31,100" plays="10" yards="82" top="3:23" start_how="KO" start_qtr="3" start_time="14:54" start_spot="MEM18" end_how="TD" end_qtr="3" end_time="11:31" end_spot="OM00" driveindex="16"></drive>
+  <drive vh="V" team="OM" start="KO,3,11:26,34" end="PUNT,3,10:50,39" plays="3" yards="5" top="0:36" start_how="KO" start_qtr="3" start_time="11:26" start_spot="OM34" end_how="PUNT" end_qtr="3" end_time="10:50" end_spot="OM39" driveindex="17"></drive>
+  <drive vh="H" team="MEM" start="PUNT,3,10:50,15" end="PUNT,3,08:03,21" plays="6" yards="6" top="2:47" start_how="PUNT" start_qtr="3" start_time="10:50" start_spot="MEM15" end_how="PUNT" end_qtr="3" end_time="08:03" end_spot="MEM21" driveindex="18"></drive>
+  <drive vh="V" team="OM" start="PUNT,3,08:03,32" end="TD,3,06:59,100" plays="5" yards="68" top="1:04" start_how="PUNT" start_qtr="3" start_time="08:03" start_spot="OM32" end_how="TD" end_qtr="3" end_time="06:59" end_spot="MEM00" rz="1" driveindex="19"></drive>
+  <drive vh="H" team="MEM" start="KO,3,06:59,25" end="PUNT,3,04:00,53" plays="7" yards="28" top="2:59" start_how="KO" start_qtr="3" start_time="06:59" start_spot="MEM25" end_how="PUNT" end_qtr="3" end_time="04:00" end_spot="OM47" driveindex="20"></drive>
+  <drive vh="V" team="OM" start="PUNT,3,04:00,16" end="FG,3,00:16,93" plays="12" yards="77" top="3:44" start_how="PUNT" start_qtr="3" start_time="04:00" start_spot="OM16" end_how="FG" end_qtr="3" end_time="00:16" end_spot="MEM07" rz="1" driveindex="21"></drive>
+  <drive vh="H" team="MEM" start="KO,3,00:16,25" end="PUNT,4,13:49,33" plays="3" yards="8" top="1:27" start_how="KO" start_qtr="3" start_time="00:16" start_spot="MEM25" end_how="PUNT" end_qtr="4" end_time="13:49" end_spot="MEM33" driveindex="22"></drive>
+  <drive vh="V" team="OM" start="PUNT,4,13:49,18" end="PUNT,4,12:32,24" plays="3" yards="6" top="1:17" start_how="PUNT" start_qtr="4" start_time="13:49" start_spot="OM18" end_how="PUNT" end_qtr="4" end_time="12:32" end_spot="OM24" driveindex="23"></drive>
+  <drive vh="H" team="MEM" start="PUNT,4,12:32,40" end="FG,4,09:44,76" plays="9" yards="36" top="2:48" start_how="PUNT" start_qtr="4" start_time="12:32" start_spot="MEM40" end_how="FG" end_qtr="4" end_time="09:44" end_spot="OM24" rz="1" driveindex="24"></drive>
+  <drive vh="V" team="OM" start="KO,4,09:44,25" end="PUNT,4,08:52,50" plays="4" yards="25" top="0:52" start_how="KO" start_qtr="4" start_time="09:44" start_spot="OM25" end_how="PUNT" end_qtr="4" end_time="08:52" end_spot="OM50" driveindex="25"></drive>
+  <drive vh="H" team="MEM" start="PUNT,4,08:52,21" end="FG,4,00:55,91" plays="16" yards="70" top="7:57" start_how="PUNT" start_qtr="4" start_time="08:52" start_spot="MEM21" end_how="FG" end_qtr="4" end_time="00:55" end_spot="OM09" rz="1" driveindex="26"></drive>
+  <drive vh="V" team="OM" start="KO,4,00:55,25" end="INT,4,00:08,54" plays="5" yards="29" top="0:47" start_how="KO" start_qtr="4" start_time="00:55" start_spot="OM25" end_how="INT" end_qtr="4" end_time="00:08" end_spot="MEM46" driveindex="27"></drive>
+  <drive vh="H" team="MEM" start="INT,4,00:08,40" end="HALF,4,00:00,38" plays="1" yards="-2" top="0:08" start_how="INT" start_qtr="4" start_time="00:08" start_spot="MEM40" end_how="HALF" end_qtr="4" end_time="00:00" end_spot="MEM38" driveindex="28"></drive>
+ </drives>
+ <plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="OM" down="1" togo="10" spot="OM35" context="V,1,10,V35" playid="0,1,0" tokens="CMT:Memphis wins the toss and defers"
+      text="Memphis wins the toss and defers" newcontext="V,1,10,V35">
+   </play>
+   <comment text="Memphis will kick off and defend the north goal"></comment>
+   <play hasball="OM" down="1" togo="10" spot="OM35" context="V,1,10,V35" playid="0,2,2" tokens="SPOT:H,H35,N"
+      text="MEM ball on MEM35." newcontext="H,1,10,H35">
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="MEM35" context="H,1,10,H35" playid="0,3,3" type="K" tokens="KO:46,V00 TB:"
+      text="ELLIOTT, Jake kickoff 65 yards to the OM0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="ELLIOTT, Jake" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,15:00" vh="V" spot="V25" clock="15:00" driveindex="1,3"></drivestart>
+   <play hasball="OM" down="1" togo="10" spot="OM25" context="V,1,10,V25" playid="1,1,4" type="P" tokens="PASS:10,C,1A,V32 OB: TACK:6"
+      text="Chad Kelly pass complete to L. Treadwell for 7 yards to the OM32, out-of-bounds (AVERY, Genard)." ob="Y" newcontext="V,2,3,V32">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="L. Treadwell" gain="7"></p_pa>
+    <p_tk vh="H" name="AVERY, Genard"></p_tk>
+   </play>
+   <play hasball="OM" down="2" togo="3" spot="OM32" context="V,2,3,V32" playid="1,2,5" type="P" first="P" score="Y" vscore="6" hscore="0" clock="14:40" tokens="PASS:1A,C,8A,H00 T:14:40"
+      text="L. Treadwell pass complete to Q. Adeboyejo for 68 yards to the MEM0, 1ST DOWN OM, TOUCHDOWN, clock 14:40." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="L. Treadwell" result="COMP" rcv="Q. Adeboyejo" gain="68"></p_pa>
+   </play>
+   <play hasball="OM" down="1" togo="0" spot="MEM03" context="V,1,0,H03" playid="1,3,6" type="X" score="Y" vscore="7" hscore="0" tokens="PAT:K,97,G"
+      text="Gary Wunderlich kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Gary Wunderlich" qb="Gary Wunderlich" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="0"></score>
+   <drivesum plays="2" yards="75" top="0:20" driveindex="1" complete="Y"></drivesum>
+   <play hasball="OM" down="1" togo="0" spot="OM35" context="V,1,0,V35" playid="1,4,7" type="K" tokens="KO:91,H09 RET:19,H28 TACK:19"
+      text="Nathan Noble kickoff 56 yards to the MEM9, OGLESBY, J return 19 yards to the MEM28 (Derrick Jones)." newcontext="H,1,10,H28">
+    <p_ko vh="V" name="Nathan Noble" gain="56"></p_ko>
+    <p_kr vh="H" name="OGLESBY, J" gain="19"></p_kr>
+    <p_tk vh="V" name="Derrick Jones"></p_tk>
+   </play>
+   <drivestart poss="H,H28,14:33" vh="H" spot="H28" clock="14:33" driveindex="2,7"></drivestart>
+   <play hasball="MEM" down="1" togo="10" spot="MEM28" context="H,1,10,H28" playid="2,1,8" clock="14:33" tokens="{DRIVE}:14:33"
+      text="MEMPHIS drive start at 14:33." newcontext="H,1,10,H28">
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="MEM28" context="H,1,10,H28" playid="2,2,9" type="P" first="P" tokens="PASS:12,C,40,H38 TACK:3B"
+      text="LYNCH, Paxton pass complete to CROSS, Alan for 10 yards to the MEM38, 1ST DOWN MEM (C.J. Hampton)." newcontext="H,1,10,H38">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="CROSS, Alan" gain="10"></p_pa>
+    <p_tk vh="V" name="C.J. Hampton"></p_tk>
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="MEM38" context="H,1,10,H38" playid="2,3,10" type="P" tokens="PASS:12,I,89,*"
+      text="LYNCH, Paxton pass incomplete to MAYHUE, Phil." newcontext="H,2,10,H38">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="INC" rcv="MAYHUE, Phil"></p_pa>
+   </play>
+   <play hasball="MEM" down="2" togo="10" spot="MEM38" context="H,2,10,H38" playid="2,4,11" type="R" tokens="RUSH:11,H46, OB: TACK:7B"
+      text="CRAFT, Sam rush for 8 yards to the MEM46, out-of-bounds (Trae Elston)." ob="Y" newcontext="H,3,2,H46">
+    <p_ru vh="H" name="CRAFT, Sam" gain="8"></p_ru>
+    <p_tk vh="V" name="Trae Elston"></p_tk>
+   </play>
+   <play hasball="MEM" down="3" togo="2" spot="MEM46" context="H,3,2,H46" playid="2,5,12" type="E" first="E" tokens="PASS:12,I,40,* PEN:V,PF,A,5B,V39,1 NOPLAY:"
+      text="LYNCH, Paxton pass incomplete to CROSS, Alan, PENALTY OM personal foul (R. Nkemdiche) 15 yards to the OM39, 1ST DOWN MEM, NO PLAY." newcontext="H,1,10,V39">
+    <p_pn vh="V" code="PF" type="personal foul" name="R. Nkemdiche" result="ACCEPT" at="H46" yards="15"></p_pn>
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="OM39" context="H,1,10,V39" playid="2,6,13" type="R" tokens="RUSH:11,V38, TACK:1F"
+      text="CRAFT, Sam rush for 1 yard to the OM38 (K. Webster)." newcontext="H,2,9,V38">
+    <p_ru vh="H" name="CRAFT, Sam" gain="1"></p_ru>
+    <p_tk vh="V" name="K. Webster"></p_tk>
+   </play>
+   <play hasball="MEM" down="2" togo="9" spot="OM38" context="H,2,9,V38" playid="2,7,14" type="E" tokens="PASS:19,C,40,V04 TACK:1F PEN:H,ID,A,TM,V43,N NOPLAY:"
+      text="OGLESBY, J pass complete to CROSS, Alan for 34 yards to the OM4 (K. Webster), PENALTY MEM ineligible downfield on pass 5 yards to the OM43, NO PLAY." newcontext="H,2,14,V43">
+    <p_pn vh="H" code="ID" type="ineligible downfield on pass" result="ACCEPT" at="V38" yards="5"></p_pn>
+   </play>
+   <play hasball="MEM" down="2" togo="14" spot="OM43" context="H,2,14,V43" playid="2,8,15" type="P" tokens="PASS:12,S,TM,V46 SACK:38"
+      text="LYNCH, Paxton sacked for loss of 3 yards to the OM46 (Mike Hilton)." newcontext="H,3,17,V46">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="SACK" gain="-3"></p_pa>
+    <p_tk vh="V" name="Mike Hilton" sack="Y"></p_tk>
+   </play>
+   <play hasball="MEM" down="3" togo="17" spot="OM46" context="H,3,17,V46" playid="2,9,16" type="P" tokens="PASS:12,C,19,V39 OB: TACK:38"
+      text="LYNCH, Paxton pass complete to OGLESBY, J for 7 yards to the OM39, out-of-bounds (Mike Hilton)." ob="Y" newcontext="H,4,10,V39">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="OGLESBY, J" gain="7"></p_pa>
+    <p_tk vh="V" name="Mike Hilton"></p_tk>
+   </play>
+   <play hasball="MEM" down="4" togo="10" spot="OM39" context="H,4,10,V39" playid="2,10,17" type="U" tokens="PUNT:47,V10 FC:16"
+      text="JACOBS, Nick punt 29 yards to the OM10, fair catch by Collins Moore." newcontext="V,1,10,V10">
+    <p_pu vh="H" name="JACOBS, Nick" gain="29" in20="Y" fc="Collins Moore"></p_pu>
+   </play>
+   <drivesum plays="6" yards="33" top="2:16" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="V,V10,12:17" vh="V" spot="V10" clock="12:17" driveindex="3,17"></drivestart>
+   <play hasball="OM" down="1" togo="10" spot="OM10" context="V,1,10,V10" playid="3,1,18" clock="12:17" tokens="{DRIVE}:12:17"
+      text="OLE MISS drive start at 12:17." newcontext="V,1,10,V10">
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="OM10" context="V,1,10,V10" playid="3,2,19" type="P" first="P" tokens="PASS:10,C,88,V21 TACK:34"
+      text="Chad Kelly pass complete to Cody Core for 11 yards to the OM21, 1ST DOWN OM (DILLON, Jackson)." newcontext="V,1,10,V21">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="Cody Core" gain="11"></p_pa>
+    <p_tk vh="H" name="DILLON, Jackson"></p_tk>
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="OM21" context="V,1,10,V21" playid="3,3,20" type="E" tokens="PEN:V,FS,A,75,V16,N"
+      text="PENALTY OM false start (Robert Conyers) 5 yards to the OM16." newcontext="V,1,15,V16">
+    <p_pn vh="V" code="FS" type="false start" name="Robert Conyers" result="ACCEPT" at="V21" yards="5"></p_pn>
+   </play>
+   <play hasball="OM" down="1" togo="15" spot="OM16" context="V,1,15,V16" playid="3,4,21" type="R" tokens="RUSH:6A,V16, TACK:58"
+      text="Jaylen Walton rush for no gain to the OM16 (PENNINGTON, D)." newcontext="V,2,15,V16">
+    <p_ru vh="V" name="Jaylen Walton" gain="0"></p_ru>
+    <p_tk vh="H" name="PENNINGTON, D"></p_tk>
+   </play>
+   <play hasball="OM" down="2" togo="15" spot="OM16" context="V,2,15,V16" playid="3,5,22" type="P" first="P" tokens="PASS:10,C,1A,V31 TACK:53"
+      text="Chad Kelly pass complete to L. Treadwell for 15 yards to the OM31, 1ST DOWN OM (PEGUES, Leonard)." newcontext="V,1,10,V31">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="L. Treadwell" gain="15"></p_pa>
+    <p_tk vh="H" name="PEGUES, Leonard"></p_tk>
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="OM31" context="V,1,10,V31" playid="3,6,23" type="P" first="P" tokens="PASS:10,C,88,H43 TACK:8"
+      text="Chad Kelly pass complete to Cody Core for 26 yards to the MEM43, 1ST DOWN OM (MAULET, Arthur)." newcontext="V,1,10,H43">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="Cody Core" gain="26"></p_pa>
+    <p_tk vh="H" name="MAULET, Arthur"></p_tk>
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="MEM43" context="V,1,10,H43" playid="3,7,24" type="P" first="P" tokens="PASS:10,C,88,H33 TACK:10"
+      text="Chad Kelly pass complete to Cody Core for 10 yards to the MEM33, 1ST DOWN OM (NELSON, D)." newcontext="V,1,10,H33">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="Cody Core" gain="10"></p_pa>
+    <p_tk vh="H" name="NELSON, D"></p_tk>
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="MEM33" context="V,1,10,H33" playid="3,8,25" type="R" tokens="RUSH:6A,H31, TACK:6"
+      text="Jaylen Walton rush for 2 yards to the MEM31 (AVERY, Genard)." newcontext="V,2,8,H31">
+    <p_ru vh="V" name="Jaylen Walton" gain="2"></p_ru>
+    <p_tk vh="H" name="AVERY, Genard"></p_tk>
+   </play>
+   <play hasball="OM" down="2" togo="8" spot="MEM31" context="V,2,8,H31" playid="3,9,26" type="P" first="P" tokens="PASS:10,C,88,H23 TACK:10"
+      text="Chad Kelly pass complete to Cody Core for 8 yards to the MEM23, 1ST DOWN OM (NELSON, D)." newcontext="V,1,10,H23">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="Cody Core" gain="8"></p_pa>
+    <p_tk vh="H" name="NELSON, D"></p_tk>
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="MEM23" context="V,1,10,H23" playid="3,10,27" type="P" first="P" score="Y" vscore="13" hscore="0" clock="09:44" tokens="PASS:10,C,3A,H00 T:09:44"
+      text="Chad Kelly pass complete to D. Stringfellow for 23 yards to the MEM0, 1ST DOWN OM, TOUCHDOWN, clock 09:44." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="D. Stringfellow" gain="23"></p_pa>
+   </play>
+   <play hasball="OM" down="1" togo="0" spot="MEM03" context="V,1,0,H03" playid="3,11,28" type="X" score="Y" vscore="14" hscore="0" tokens="PAT:K,97,G"
+      text="Gary Wunderlich kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Gary Wunderlich" qb="Gary Wunderlich" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="0"></score>
+   <drivesum plays="8" yards="90" top="2:33" driveindex="3" complete="Y"></drivesum>
+   <play hasball="OM" down="1" togo="0" spot="OM35" context="V,1,0,V35" playid="3,12,29" type="K" tokens="KO:91,H03 OB: SPOT:H,H35,Y"
+      text="Nathan Noble kickoff 62 yards to the MEM3, out-of-bounds, MEM ball on MEM35." ob="Y" newcontext="H,1,10,H35">
+    <p_ko vh="V" name="Nathan Noble" gain="62" result="O"></p_ko>
+   </play>
+   <drivestart poss="H,H35,09:44" vh="H" spot="H35" clock="09:44" driveindex="4,29"></drivestart>
+   <play hasball="MEM" down="1" togo="10" spot="MEM35" context="H,1,10,H35" playid="4,1,30" clock="09:44" tokens="{DRIVE}:09:44"
+      text="MEMPHIS drive start at 09:44." newcontext="H,1,10,H35">
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="MEM35" context="H,1,10,H35" playid="4,2,31" type="P" first="P" tokens="PASS:12,C,89,V44 TACK:38"
+      text="LYNCH, Paxton pass complete to MAYHUE, Phil for 21 yards to the OM44, 1ST DOWN MEM (Mike Hilton)." newcontext="H,1,10,V44">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="MAYHUE, Phil" gain="21"></p_pa>
+    <p_tk vh="V" name="Mike Hilton"></p_tk>
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="OM44" context="H,1,10,V44" playid="4,3,32" type="P" tokens="PASS:12,C,5,V42 TACK:6B PEN:H,HO,A,40,H48,N"
+      text="LYNCH, Paxton pass complete to FRAZIER, Mose for 2 yards to the OM42 (Fadol Brown), PENALTY MEM holding (CROSS, Alan) 10 yards to the MEM48." newcontext="H,1,18,H48">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="FRAZIER, Mose" gain="2"></p_pa>
+    <p_tk vh="V" name="Fadol Brown"></p_tk>
+    <p_pn vh="H" code="HO" type="holding" name="CROSS, Alan" result="ACCEPT" at="V42" yards="10"></p_pn>
+   </play>
+   <play hasball="MEM" down="1" togo="18" spot="MEM48" context="H,1,18,H48" playid="4,4,33" tokens="D:1,18"
+      text="1st and 18." newcontext="H,1,18,H48">
+   </play>
+   <play hasball="MEM" down="1" togo="18" spot="MEM48" context="H,1,18,H48" playid="4,5,34" type="P" tokens="PASS:12,C,5,V49 TACK:38"
+      text="LYNCH, Paxton pass complete to FRAZIER, Mose for 3 yards to the OM49 (Mike Hilton)." newcontext="H,2,15,V49">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="FRAZIER, Mose" gain="3"></p_pa>
+    <p_tk vh="V" name="Mike Hilton"></p_tk>
+   </play>
+   <play hasball="MEM" down="2" togo="15" spot="OM49" context="H,2,15,V49" playid="4,6,35" type="P" tokens="PASS:12,I,3,*"
+      text="LYNCH, Paxton pass incomplete to MILLER, Anthony." newcontext="H,3,15,V49">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="INC" rcv="MILLER, Anthony"></p_pa>
+   </play>
+   <play hasball="MEM" down="3" togo="15" spot="OM49" context="H,3,15,V49" playid="4,7,36" type="P" tokens="PASS:12,S,TM,H44 SACK:6B"
+      text="LYNCH, Paxton sacked for loss of 7 yards to the MEM44 (Fadol Brown)." newcontext="H,4,22,H44">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="SACK" gain="-7"></p_pa>
+    <p_tk vh="V" name="Fadol Brown" sack="Y"></p_tk>
+   </play>
+   <play hasball="MEM" down="4" togo="22" spot="MEM44" context="H,4,22,H44" playid="4,8,37" type="U" tokens="PUNT:36,V24 OB:"
+      text="SMITH, Spencer punt 32 yards to the OM24, out-of-bounds." ob="Y" newcontext="V,1,10,V24">
+    <p_pu vh="H" name="SMITH, Spencer" gain="32" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="5" yards="9" top="1:39" driveindex="4" complete="Y"></drivesum>
+   <drivestart poss="V,V24,08:05" vh="V" spot="V24" clock="08:05" driveindex="5,37"></drivestart>
+   <play hasball="OM" down="1" togo="10" spot="OM24" context="V,1,10,V24" playid="5,1,38" clock="08:05" tokens="{DRIVE}:08:05"
+      text="OLE MISS drive start at 08:05." newcontext="V,1,10,V24">
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="OM24" context="V,1,10,V24" playid="5,2,39" type="P" tokens="PASS:10,I,6A,*"
+      text="Chad Kelly pass incomplete to Jaylen Walton." newcontext="V,2,10,V24">
+    <p_pa vh="V" qb="Chad Kelly" result="INC" rcv="Jaylen Walton"></p_pa>
+   </play>
+   <play hasball="OM" down="2" togo="10" spot="OM24" context="V,2,10,V24" playid="5,3,40" type="R" tokens="RUSH:10,V30, OB: TACK:6"
+      text="Chad Kelly rush for 6 yards to the OM30, out-of-bounds (AVERY, Genard)." ob="Y" newcontext="V,3,4,V30">
+    <p_ru vh="V" name="Chad Kelly" gain="6"></p_ru>
+    <p_tk vh="H" name="AVERY, Genard"></p_tk>
+   </play>
+   <play hasball="OM" down="3" togo="4" spot="OM30" context="V,3,4,V30" playid="5,4,41" type="P" tokens="PASS:10,C,89,V31 TACK:8"
+      text="Chad Kelly pass complete to Taz Zettergren for 1 yard to the OM31 (MAULET, Arthur)." newcontext="V,4,3,V31">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="Taz Zettergren" gain="1"></p_pa>
+    <p_tk vh="H" name="MAULET, Arthur"></p_tk>
+   </play>
+   <play hasball="OM" down="4" togo="3" spot="OM31" context="V,4,3,V31" playid="5,5,42" type="E" first="E" tokens="PUNT:9G,H32 RET:18,H31 PEN:H,RK,A,25,V46,1 NOPLAY:"
+      text="Will Gleeson punt 37 yards to the MEM32, PROCTOR, R return to the MEM31, PENALTY MEM roughing the kicker (COOPER, Jarvis) 15 yards to the OM46, 1ST DOWN OM, NO PLAY." newcontext="V,1,10,V46">
+    <p_pn vh="H" code="RK" type="roughing the kicker" name="COOPER, Jarvis" result="ACCEPT" at="V31" yards="15"></p_pn>
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="OM46" context="V,1,10,V46" playid="5,6,43" type="E" tokens="PEN:V,FS,A,1A,V41,N"
+      text="PENALTY OM false start (L. Treadwell) 5 yards to the OM41." newcontext="V,1,15,V41">
+    <p_pn vh="V" code="FS" type="false start" name="L. Treadwell" result="ACCEPT" at="V46" yards="5"></p_pn>
+   </play>
+   <play hasball="OM" down="1" togo="15" spot="OM41" context="V,1,15,V41" playid="5,7,44" type="P" tokens="PASS:10,I,TM,* BRUP:15"
+      text="Chad Kelly pass incomplete (JOHNSON, C)." newcontext="V,2,15,V41">
+    <p_pa vh="V" qb="Chad Kelly" result="INC"></p_pa>
+    <p_bu vh="H" name="JOHNSON, C"></p_bu>
+   </play>
+   <play hasball="OM" down="2" togo="15" spot="OM41" context="V,2,15,V41" playid="5,8,45" type="R" tokens="RUSH:10,V36, TACK:6"
+      text="Chad Kelly rush for loss of 5 yards to the OM36 (AVERY, Genard)." newcontext="V,3,20,V36">
+    <p_ru vh="V" name="Chad Kelly" gain="-5"></p_ru>
+    <p_tk vh="H" name="AVERY, Genard"></p_tk>
+   </play>
+   <play hasball="OM" down="3" togo="20" spot="OM36" context="V,3,20,V36" playid="5,9,46" type="R" tokens="RUSH:64,V34, TACK:15"
+      text="Ben Still rush for loss of 2 yards to the OM34 (JOHNSON, C)." newcontext="V,4,22,V34">
+    <p_ru vh="V" name="Ben Still" gain="-2"></p_ru>
+    <p_tk vh="H" name="JOHNSON, C"></p_tk>
+   </play>
+   <play hasball="OM" down="4" togo="22" spot="OM34" context="V,4,22,V34" playid="5,10,47" type="U" tokens="PUNT:9G,H25 RET:18,H30 TACK:23"
+      text="Will Gleeson punt 41 yards to the MEM25, PROCTOR, R return 5 yards to the MEM30 (Carlos Davis)." newcontext="H,1,10,H30">
+    <p_pu vh="V" name="Will Gleeson" gain="41"></p_pu>
+    <p_pr vh="H" name="PROCTOR, R" gain="5"></p_pr>
+    <p_tk vh="V" name="Carlos Davis"></p_tk>
+   </play>
+   <drivesum plays="6" yards="10" top="2:29" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="H,H30,05:36" vh="H" spot="H30" clock="05:36" driveindex="6,47"></drivestart>
+   <play hasball="MEM" down="1" togo="10" spot="MEM30" context="H,1,10,H30" playid="6,1,48" clock="05:36" tokens="{DRIVE}:05:36"
+      text="MEMPHIS drive start at 05:36." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="MEM30" context="H,1,10,H30" playid="6,2,49" type="E" tokens="PASS:12,C,87,H34 TACK:1B PEN:H,ID,A,18,H25,N NOPLAY:"
+      text="LYNCH, Paxton pass complete to JONES, Tevin for 4 yards to the MEM34 (Tony Bridges), PENALTY MEM ineligible downfield on pass (PROCTOR, R) 5 yards to the MEM25, NO PLAY." newcontext="H,1,15,H25">
+    <p_pn vh="H" code="ID" type="ineligible downfield on pass" name="PROCTOR, R" result="ACCEPT" at="H30" yards="5"></p_pn>
+   </play>
+   <play hasball="MEM" down="1" togo="15" spot="MEM25" context="H,1,15,H25" playid="6,3,50" type="P" tokens="PASS:12,B,TM,* BRUP:1W"
+      text="LYNCH, Paxton pass incomplete (Channing Ward)." newcontext="H,2,15,H25">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="BRUP"></p_pa>
+    <p_bu vh="V" name="Channing Ward"></p_bu>
+   </play>
+   <play hasball="MEM" down="2" togo="15" spot="MEM25" context="H,2,15,H25" playid="6,4,51" type="R" tokens="RUSH:25,H31, TACK:1B"
+      text="COOPER, Jarvis rush for 6 yards to the MEM31 (Tony Bridges)." newcontext="H,3,9,H31">
+    <p_ru vh="H" name="COOPER, Jarvis" gain="6"></p_ru>
+    <p_tk vh="V" name="Tony Bridges"></p_tk>
+   </play>
+   <play hasball="MEM" down="3" togo="9" spot="MEM31" context="H,3,9,H31" playid="6,5,52" type="P" first="P" tokens="PASS:12,C,25,H42 OB: TACK:1F PEN:V,PF,A,27,V43,1"
+      text="LYNCH, Paxton pass complete to COOPER, Jarvis for 11 yards to the MEM42, 1ST DOWN MEM, out-of-bounds (K. Webster), PENALTY OM personal foul (Marquis Haynes) 15 yards to the OM43, 1ST DOWN MEM." ob="Y" newcontext="H,1,10,V43">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="COOPER, Jarvis" gain="11"></p_pa>
+    <p_tk vh="V" name="K. Webster"></p_tk>
+    <p_pn vh="V" code="PF" type="personal foul" name="Marquis Haynes" result="ACCEPT" at="H42" yards="15"></p_pn>
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="OM43" context="H,1,10,V43" playid="6,6,53" tokens="D:1,10"
+      text="1st and 10." newcontext="H,1,10,V43">
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="OM43" context="H,1,10,V43" playid="6,7,54" type="R" tokens="RUSH:25,V35, TACK:23"
+      text="COOPER, Jarvis rush for 8 yards to the OM35 (Carlos Davis)." newcontext="H,2,2,V35">
+    <p_ru vh="H" name="COOPER, Jarvis" gain="8"></p_ru>
+    <p_tk vh="V" name="Carlos Davis"></p_tk>
+   </play>
+   <play hasball="MEM" down="2" togo="2" spot="OM35" context="H,2,2,V35" playid="6,8,55" type="R" first="R" tokens="RUSH:25,V32, TACK:27"
+      text="COOPER, Jarvis rush for 3 yards to the OM32, 1ST DOWN MEM (Marquis Haynes)." newcontext="H,1,10,V32">
+    <p_ru vh="H" name="COOPER, Jarvis" gain="3"></p_ru>
+    <p_tk vh="V" name="Marquis Haynes"></p_tk>
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="OM32" context="H,1,10,V32" playid="6,9,56" type="P" tokens="PASS:12,C,87,V25 OB: TACK:1B"
+      text="LYNCH, Paxton pass complete to JONES, Tevin for 7 yards to the OM25, out-of-bounds (Tony Bridges)." ob="Y" newcontext="H,2,3,V25">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="JONES, Tevin" gain="7"></p_pa>
+    <p_tk vh="V" name="Tony Bridges"></p_tk>
+   </play>
+   <play hasball="MEM" down="2" togo="3" spot="OM25" context="H,2,3,V25" playid="6,10,57" type="R" first="R" tokens="RUSH:25,V20, TACK:23"
+      text="COOPER, Jarvis rush for 5 yards to the OM20, 1ST DOWN MEM (Carlos Davis)." newcontext="H,1,10,V20">
+    <p_ru vh="H" name="COOPER, Jarvis" gain="5"></p_ru>
+    <p_tk vh="V" name="Carlos Davis"></p_tk>
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="OM20" context="H,1,10,V20" playid="6,11,58" type="R" tokens="RUSH:12,V14, OB:"
+      text="LYNCH, Paxton rush for 6 yards to the OM14, out-of-bounds." ob="Y" newcontext="H,2,4,V14">
+    <p_ru vh="H" name="LYNCH, Paxton" gain="6"></p_ru>
+   </play>
+   <play hasball="MEM" down="2" togo="4" spot="OM14" context="H,2,4,V14" playid="6,12,59" type="#" clock="02:33" tokens="RUSH:25,V00, T:02:33 NOPLAY:"
+      text="COOPER, Jarvis rush for 14 yards to the OM0, clock 02:33, NO PLAY." newcontext="H,2,4,V14">
+   </play>
+   <comment text="Official review on previous play (TD). Ruling on field overturned."></comment>
+   <play hasball="MEM" down="2" togo="4" spot="OM14" context="H,2,4,V14" playid="6,13,61" type="R" first="R" tokens="RUSH:25,V01, TACK:23"
+      text="COOPER, Jarvis rush for 13 yards to the OM1, 1ST DOWN MEM (Carlos Davis)." newcontext="H,1,0,V01">
+    <p_ru vh="H" name="COOPER, Jarvis" gain="13"></p_ru>
+    <p_tk vh="V" name="Carlos Davis"></p_tk>
+   </play>
+   <play hasball="MEM" down="1" togo="0" spot="OM01" context="H,1,0,V01" playid="6,14,62" type="P" score="Y" vscore="14" hscore="6" clock="02:12" tokens="PASS:12,C,40,V00 T:02:12"
+      text="LYNCH, Paxton pass complete to CROSS, Alan for 1 yard to the OM0, TOUCHDOWN, clock 02:12." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="CROSS, Alan" gain="1"></p_pa>
+   </play>
+   <comment text="Official review on previous play (TD). Ruling on field upheld."></comment>
+   <play hasball="MEM" down="1" togo="0" spot="OM03" context="H,1,0,V03" playid="6,15,64" type="X" score="Y" vscore="14" hscore="7" tokens="PAT:K,46,G"
+      text="ELLIOTT, Jake kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="ELLIOTT, Jake" qb="ELLIOTT, Jake" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="7"></score>
+   <drivesum plays="10" yards="70" top="3:24" driveindex="6" complete="Y"></drivesum>
+   <play hasball="MEM" down="1" togo="0" spot="MEM35" context="H,1,0,H35" playid="6,16,65" type="K" tokens="KO:46,V00 TB:"
+      text="ELLIOTT, Jake kickoff 65 yards to the OM0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="ELLIOTT, Jake" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,02:12" vh="V" spot="V25" clock="02:12" driveindex="7,65"></drivestart>
+   <play hasball="OM" down="1" togo="10" spot="OM25" context="V,1,10,V25" playid="7,1,66" clock="02:12" tokens="{DRIVE}:02:12"
+      text="OLE MISS drive start at 02:12." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="OM25" context="V,1,10,V25" playid="7,2,67" type="P" first="P" tokens="PASS:10,C,1A,V35 TACK:10"
+      text="Chad Kelly pass complete to L. Treadwell for 10 yards to the OM35, 1ST DOWN OM (NELSON, D)." newcontext="V,1,10,V35">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="L. Treadwell" gain="10"></p_pa>
+    <p_tk vh="H" name="NELSON, D"></p_tk>
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="OM35" context="V,1,10,V35" playid="7,3,68" type="P" first="P" tokens="PASS:10,C,17,V46 TACK:17"
+      text="Chad Kelly pass complete to Evan Engram for 11 yards to the OM46, 1ST DOWN OM (MORLEY, Chris)." newcontext="V,1,10,V46">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="Evan Engram" gain="11"></p_pa>
+    <p_tk vh="H" name="MORLEY, Chris"></p_tk>
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="OM46" context="V,1,10,V46" playid="7,4,69" type="P" tokens="PASS:10,C,1A,H49 TACK:27"
+      text="Chad Kelly pass complete to L. Treadwell for 5 yards to the MEM49 (WITTY, Dion)." newcontext="V,2,5,H49">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="L. Treadwell" gain="5"></p_pa>
+    <p_tk vh="H" name="WITTY, Dion"></p_tk>
+   </play>
+   <play hasball="OM" down="2" togo="5" spot="MEM49" context="V,2,5,H49" playid="7,5,70" type="R" tokens="RUSH:22,H45, TACK:38"
+      text="Jordan Wilkins rush for 4 yards to the MEM45 (CHARETTE, Tyler)." newcontext="V,3,1,H45">
+    <p_ru vh="V" name="Jordan Wilkins" gain="4"></p_ru>
+    <p_tk vh="H" name="CHARETTE, Tyler"></p_tk>
+   </play>
+   <play hasball="OM" down="3" togo="1" spot="MEM45" context="V,3,1,H45" playid="7,6,71" type="R" first="R" tokens="RUSH:22,H43, TACK:27"
+      text="Jordan Wilkins rush for 2 yards to the MEM43, 1ST DOWN OM (WITTY, Dion)." newcontext="V,1,10,H43">
+    <p_ru vh="V" name="Jordan Wilkins" gain="2"></p_ru>
+    <p_tk vh="H" name="WITTY, Dion"></p_tk>
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="MEM43" context="V,1,10,H43" playid="7,7,72" type="R" tokens="RUSH:10,H38, TACK:30"
+      text="Chad Kelly rush for 5 yards to the MEM38 (WHITE, Shareef)." newcontext="V,2,5,H38">
+    <p_ru vh="V" name="Chad Kelly" gain="5"></p_ru>
+    <p_tk vh="H" name="WHITE, Shareef"></p_tk>
+   </play>
+   <score qtr="1" V="14" H="7"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="OM">
+    <firstdowns no="11" rush="1" pass="9" penalty="1"></firstdowns>
+    <penalties no="4" yds="40"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:34"></misc>
+    <rush att="8" yds="12" gain="19" loss="7" td="0" long="6"></rush>
+    <pass comp="12" att="14" int="0" yds="195" td="2" long="68" sacks="0" sackyds="0"></pass>
+    <rcv no="12" yds="195" td="2" long="68"></rcv>
+    <punt no="1" yds="41" long="41" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="41.0"></punt>
+    <ko no="2" yds="118" ob="1" tb="0"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="18" tacka="0" tot_tack="18" tflua="2" tfla="0" tflyds="10" sacks="2" sackyds="10" brup="1"></defense>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="MEM">
+    <firstdowns no="8" rush="3" pass="3" penalty="2"></firstdowns>
+    <penalties no="4" yds="35"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:26"></misc>
+    <rush att="10" yds="40" gain="50" loss="10" td="0" long="13"></rush>
+    <pass comp="8" att="11" int="0" yds="62" td="1" long="21" sacks="2" sackyds="10"></pass>
+    <rcv no="8" yds="62" td="1" long="21"></rcv>
+    <punt no="2" yds="61" long="32" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="30.5"></punt>
+    <ko no="2" yds="130" ob="0" tb="2"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="18" tacka="0" tot_tack="18" tflua="2" tfla="0" tflyds="7" sacks="0" sackyds="0" brup="1"></defense>
+    <kr no="1" yds="19" td="0" long="19"></kr>
+    <pr no="1" yds="5" td="0" long="5"></pr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="OM" down="2" togo="5" spot="MEM38" context="V,2,5,H38" playid="7,8,73" type="#" clock="15:00" tokens="Q:2 T:15:00"
+      text="Start of 2nd quarter, clock 15:00." newcontext="V,2,5,H38">
+   </play>
+   <play hasball="OM" down="2" togo="5" spot="MEM38" context="V,2,5,H38" playid="7,9,74" type="R" first="R" tokens="RUSH:22,H33, TACK:53"
+      text="Jordan Wilkins rush for 5 yards to the MEM33, 1ST DOWN OM (PEGUES, Leonard)." newcontext="V,1,10,H33">
+    <p_ru vh="V" name="Jordan Wilkins" gain="5"></p_ru>
+    <p_tk vh="H" name="PEGUES, Leonard"></p_tk>
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="MEM33" context="V,1,10,H33" playid="7,10,75" type="E" tokens="PASS:10,I,1A,* BRUP:10 PEN:V,PI,A,1A,H48,N NOPLAY:"
+      text="Chad Kelly pass incomplete to L. Treadwell (NELSON, D), PENALTY OM pass interference (L. Treadwell) 15 yards to the MEM48, NO PLAY." newcontext="V,1,25,H48">
+    <p_pn vh="V" code="PI" type="pass interference" name="L. Treadwell" result="ACCEPT" at="H33" yards="15"></p_pn>
+   </play>
+   <play hasball="OM" down="1" togo="25" spot="MEM48" context="V,1,25,H48" playid="7,11,76" type="P" tokens="PASS:10,C,6A,H48 TACK:17"
+      text="Chad Kelly pass complete to Jaylen Walton for no gain to the MEM48 (MORLEY, Chris)." newcontext="V,2,25,H48">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="Jaylen Walton" gain="0"></p_pa>
+    <p_tk vh="H" name="MORLEY, Chris"></p_tk>
+   </play>
+   <play hasball="OM" down="2" togo="25" spot="MEM48" context="V,2,25,H48" playid="7,12,77" type="P" tokens="PASS:10,C,3A,H30 TACK:39"
+      text="Chad Kelly pass complete to D. Stringfellow for 18 yards to the MEM30 (BALL, Reggis)." newcontext="V,3,7,H30">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="D. Stringfellow" gain="18"></p_pa>
+    <p_tk vh="H" name="BALL, Reggis"></p_tk>
+   </play>
+   <play hasball="OM" down="3" togo="7" spot="MEM30" context="V,3,7,H30" playid="7,13,78" type="P" first="P" tokens="PASS:10,C,1A,H19 TACK:27"
+      text="Chad Kelly pass complete to L. Treadwell for 11 yards to the MEM19, 1ST DOWN OM (WITTY, Dion)." newcontext="V,1,10,H19">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="L. Treadwell" gain="11"></p_pa>
+    <p_tk vh="H" name="WITTY, Dion"></p_tk>
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="MEM19" context="V,1,10,H19" playid="7,14,79" type="R" tokens="RUSH:10,H11, TACK:8"
+      text="Chad Kelly rush for 8 yards to the MEM11 (MAULET, Arthur)." newcontext="V,2,2,H11">
+    <p_ru vh="V" name="Chad Kelly" gain="8"></p_ru>
+    <p_tk vh="H" name="MAULET, Arthur"></p_tk>
+   </play>
+   <comment text="Memphis #8 Maulet receiving assistance on the field."></comment>
+   <comment text="Ole Miss #75 Conyers receiving assistnace on the field"></comment>
+   <play hasball="OM" down="2" togo="2" spot="MEM11" context="V,2,2,H11" playid="7,15,82" type="R" tokens="RUSH:22,H10, TACK:16,53"
+      text="Jordan Wilkins rush for 1 yard to the MEM10 (McMANIS, Wynton;PEGUES, Leonard)." newcontext="V,3,1,H10">
+    <p_ru vh="V" name="Jordan Wilkins" gain="1"></p_ru>
+    <p_tk vh="H" name="McMANIS, Wynton" assist="Y"></p_tk>
+    <p_tk vh="H" name="PEGUES, Leonard" assist="Y"></p_tk>
+   </play>
+   <play hasball="OM" down="3" togo="1" spot="MEM10" context="V,3,1,H10" playid="7,16,83" tokens="QB:V,9A"
+      text="Ryan Buchanan at QB for Ole Miss." newcontext="V,3,1,H10">
+   </play>
+   <play hasball="OM" down="3" togo="1" spot="MEM10" context="V,3,1,H10" playid="7,17,84" type="R" tokens="RUSH:5B,H10, TACK:45,34"
+      text="R. Nkemdiche rush for no gain to the MEM10 (ROBINSON, Noah;DILLON, Jackson)." newcontext="V,4,1,H10">
+    <p_ru vh="V" name="R. Nkemdiche" gain="0"></p_ru>
+    <p_tk vh="H" name="ROBINSON, Noah" assist="Y"></p_tk>
+    <p_tk vh="H" name="DILLON, Jackson" assist="Y"></p_tk>
+   </play>
+   <comment text="Ole Miss #5 Nkemdiche receiving assitance on the field."></comment>
+   <play hasball="OM" down="4" togo="1" spot="MEM10" context="V,4,1,H10" playid="7,18,86" tokens="QB:V,10"
+      text="Chad Kelly at QB for Ole Miss." newcontext="V,4,1,H10">
+   </play>
+   <play hasball="OM" down="4" togo="1" spot="MEM10" context="V,4,1,H10" playid="7,19,87" type="R" tokens="RUSH:22,H16, TACK:34"
+      text="Jordan Wilkins rush for loss of 6 yards to the MEM16 (DILLON, Jackson)." newcontext="H,1,10,H16">
+    <p_ru vh="V" name="Jordan Wilkins" gain="-6"></p_ru>
+    <p_tk vh="H" name="DILLON, Jackson"></p_tk>
+   </play>
+   <drivesum plays="14" yards="59" top="5:17" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="H,H16,11:55" vh="H" spot="H16" clock="11:55" driveindex="8,87"></drivestart>
+   <play hasball="MEM" down="1" togo="10" spot="MEM16" context="H,1,10,H16" playid="8,1,88" clock="11:55" tokens="{DRIVE}:11:55"
+      text="MEMPHIS drive start at 11:55." newcontext="H,1,10,H16">
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="MEM16" context="H,1,10,H16" playid="8,2,89" type="R" tokens="RUSH:25,H19, TACK:4B"
+      text="COOPER, Jarvis rush for 3 yards to the MEM19 (D. Nkemdiche)." newcontext="H,2,7,H19">
+    <p_ru vh="H" name="COOPER, Jarvis" gain="3"></p_ru>
+    <p_tk vh="V" name="D. Nkemdiche"></p_tk>
+   </play>
+   <play hasball="MEM" down="2" togo="7" spot="MEM19" context="H,2,7,H19" playid="8,3,90" type="P" tokens="PASS:12,C,19,H15 TACK:2C"
+      text="LYNCH, Paxton pass complete to OGLESBY, J for loss of 4 yards to the MEM15 (Terry Caldwell)." newcontext="H,3,11,H15">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="OGLESBY, J" gain="-4"></p_pa>
+    <p_tk vh="V" name="Terry Caldwell"></p_tk>
+   </play>
+   <play hasball="MEM" down="3" togo="11" spot="MEM15" context="H,3,11,H15" playid="8,4,91" type="E" tokens="PEN:H,FS,A,3,H10,N"
+      text="PENALTY MEM false start (MILLER, Anthony) 5 yards to the MEM10." newcontext="H,3,16,H10">
+    <p_pn vh="H" code="FS" type="false start" name="MILLER, Anthony" result="ACCEPT" at="H15" yards="5"></p_pn>
+   </play>
+   <play hasball="MEM" down="3" togo="16" spot="MEM10" context="H,3,16,H10" playid="8,5,92" type="P" first="P" tokens="PASS:12,C,3,H46 OB: TACK:7B"
+      text="LYNCH, Paxton pass complete to MILLER, Anthony for 36 yards to the MEM46, 1ST DOWN MEM, out-of-bounds (Trae Elston)." ob="Y" newcontext="H,1,10,H46">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="MILLER, Anthony" gain="36"></p_pa>
+    <p_tk vh="V" name="Trae Elston"></p_tk>
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="MEM46" context="H,1,10,H46" playid="8,6,93" type="P" tokens="PASS:12,I,89,*"
+      text="LYNCH, Paxton pass incomplete to MAYHUE, Phil." newcontext="H,2,10,H46">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="INC" rcv="MAYHUE, Phil"></p_pa>
+   </play>
+   <play hasball="MEM" down="2" togo="10" spot="MEM46" context="H,2,10,H46" playid="8,7,94" type="R" tokens="RUSH:25,H48, TACK:20"
+      text="COOPER, Jarvis rush for 2 yards to the MEM48 (C. Russell)." newcontext="H,3,8,H48">
+    <p_ru vh="H" name="COOPER, Jarvis" gain="2"></p_ru>
+    <p_tk vh="V" name="C. Russell"></p_tk>
+   </play>
+   <play hasball="MEM" down="3" togo="8" spot="MEM48" context="H,3,8,H48" playid="8,8,95" type="P" first="P" tokens="PASS:12,C,3,V39 OB: TACK:3B"
+      text="LYNCH, Paxton pass complete to MILLER, Anthony for 13 yards to the OM39, 1ST DOWN MEM, out-of-bounds (C.J. Hampton)." ob="Y" newcontext="H,1,10,V39">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="MILLER, Anthony" gain="13"></p_pa>
+    <p_tk vh="V" name="C.J. Hampton"></p_tk>
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="OM39" context="H,1,10,V39" playid="8,9,96" type="R" tokens="RUSH:25,V37, TACK:9B,31"
+      text="COOPER, Jarvis rush for 2 yards to the OM37 (Breeland Speaks;DeMarquis Gates)." newcontext="H,2,8,V37">
+    <p_ru vh="H" name="COOPER, Jarvis" gain="2"></p_ru>
+    <p_tk vh="V" name="Breeland Speaks" assist="Y"></p_tk>
+    <p_tk vh="V" name="DeMarquis Gates" assist="Y"></p_tk>
+   </play>
+   <play hasball="MEM" down="2" togo="8" spot="OM37" context="H,2,8,V37" playid="8,10,97" type="P" turnover="I" tokens="PASS:12,X,38,V33 RET:38,V35 TACK:87"
+      text="LYNCH, Paxton pass intercepted by Mike Hilton at the OM33, Mike Hilton return 2 yards to the OM35 (JONES, Tevin)." newcontext="V,1,10,V35">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="INT"></p_pa>
+    <p_ir vh="V" name="Mike Hilton" at="V33" gain="2"></p_ir>
+    <p_tk vh="H" name="JONES, Tevin"></p_tk>
+   </play>
+   <drivesum plays="8" yards="47" top="3:32" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="V,V35,08:23" vh="V" spot="V35" clock="08:23" driveindex="9,97"></drivestart>
+   <play hasball="OM" down="1" togo="10" spot="OM35" context="V,1,10,V35" playid="9,1,98" clock="08:23" tokens="{DRIVE}:08:23"
+      text="OLE MISS drive start at 08:23." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="OM35" context="V,1,10,V35" playid="9,2,99" type="E" tokens="PASS:10,I,1A,* PEN:V,HO,A,68,V25,N NOPLAY:"
+      text="Chad Kelly pass incomplete to L. Treadwell, PENALTY OM holding (Justin Bell) 10 yards to the OM25, NO PLAY." newcontext="V,1,20,V25">
+    <p_pn vh="V" code="HO" type="holding" name="Justin Bell" result="ACCEPT" at="V35" yards="10"></p_pn>
+   </play>
+   <play hasball="OM" down="1" togo="20" spot="OM25" context="V,1,20,V25" playid="9,3,100" type="R" tokens="RUSH:10,V25, TACK:15"
+      text="Chad Kelly rush for no gain to the OM25 (JOHNSON, C)." newcontext="V,2,20,V25">
+    <p_ru vh="V" name="Chad Kelly" gain="0"></p_ru>
+    <p_tk vh="H" name="JOHNSON, C"></p_tk>
+   </play>
+   <play hasball="OM" down="2" togo="20" spot="OM25" context="V,2,20,V25" playid="9,4,101" type="P" tokens="PASS:10,I,1A,* BRUP:39"
+      text="Chad Kelly pass incomplete to L. Treadwell (BALL, Reggis)." newcontext="V,3,20,V25">
+    <p_pa vh="V" qb="Chad Kelly" result="INC" rcv="L. Treadwell"></p_pa>
+    <p_bu vh="H" name="BALL, Reggis"></p_bu>
+   </play>
+   <play hasball="OM" down="3" togo="20" spot="OM25" context="V,3,20,V25" playid="9,5,102" type="E" tokens="PASS:10,C,1A,H40 TACK:12 PEN:V,HO,A,74,V15,N NOPLAY:"
+      text="Chad Kelly pass complete to L. Treadwell for 35 yards to the MEM40 (LYNCH, Paxton), PENALTY OM holding (Fahn Cooper) 10 yards to the OM15, NO PLAY." newcontext="V,3,30,V15">
+    <p_pn vh="V" code="HO" type="holding" name="Fahn Cooper" result="ACCEPT" at="V25" yards="10"></p_pn>
+   </play>
+   <play hasball="OM" down="3" togo="30" spot="OM15" context="V,3,30,V15" playid="9,6,103" type="P" tokens="PASS:10,C,17,V15 TACK:10"
+      text="Chad Kelly pass complete to Evan Engram for no gain to the OM15 (NELSON, D)." newcontext="V,4,30,V15">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="Evan Engram" gain="0"></p_pa>
+    <p_tk vh="H" name="NELSON, D"></p_tk>
+   </play>
+   <play hasball="OM" down="4" togo="30" spot="OM15" context="V,4,30,V15" playid="9,7,104" type="U" tokens="PUNT:9G,H45 RET:18,V40 TACK:32"
+      text="Will Gleeson punt 40 yards to the MEM45, PROCTOR, R return 15 yards to the OM40 (Temario Strong)." newcontext="H,1,10,V40">
+    <p_pu vh="V" name="Will Gleeson" gain="40"></p_pu>
+    <p_pr vh="H" name="PROCTOR, R" gain="15"></p_pr>
+    <p_tk vh="V" name="Temario Strong"></p_tk>
+   </play>
+   <drivesum plays="3" yards="-20" top="1:49" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="H,V40,06:34" vh="H" spot="V40" clock="06:34" driveindex="10,104"></drivestart>
+   <play hasball="MEM" down="1" togo="10" spot="OM40" context="H,1,10,V40" playid="10,1,105" clock="06:34" tokens="{DRIVE}:06:34"
+      text="MEMPHIS drive start at 06:34." newcontext="H,1,10,V40">
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="OM40" context="H,1,10,V40" playid="10,2,106" type="P" first="P" tokens="PASS:12,C,40,V27 TACK:3B"
+      text="LYNCH, Paxton pass complete to CROSS, Alan for 13 yards to the OM27, 1ST DOWN MEM (C.J. Hampton)." newcontext="H,1,10,V27">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="CROSS, Alan" gain="13"></p_pa>
+    <p_tk vh="V" name="C.J. Hampton"></p_tk>
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="OM27" context="H,1,10,V27" playid="10,3,107" type="R" tokens="RUSH:12,V26, TACK:2C"
+      text="LYNCH, Paxton rush for 1 yard to the OM26 (Terry Caldwell)." newcontext="H,2,9,V26">
+    <p_ru vh="H" name="LYNCH, Paxton" gain="1"></p_ru>
+    <p_tk vh="V" name="Terry Caldwell"></p_tk>
+   </play>
+   <play hasball="MEM" down="2" togo="9" spot="OM26" context="H,2,9,V26" playid="10,4,108" type="P" first="P" tokens="PASS:12,C,18,V08 OB: TACK:3B"
+      text="LYNCH, Paxton pass complete to PROCTOR, R for 18 yards to the OM8, 1ST DOWN MEM, out-of-bounds (C.J. Hampton)." ob="Y" newcontext="H,1,0,V08">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="PROCTOR, R" gain="18"></p_pa>
+    <p_tk vh="V" name="C.J. Hampton"></p_tk>
+   </play>
+   <play hasball="MEM" down="1" togo="0" spot="OM08" context="H,1,0,V08" playid="10,5,109" type="P" tokens="PASS:12,I,40,* BRUP:7B"
+      text="LYNCH, Paxton pass incomplete to CROSS, Alan (Trae Elston)." newcontext="H,2,0,V08">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="INC" rcv="CROSS, Alan"></p_pa>
+    <p_bu vh="V" name="Trae Elston"></p_bu>
+   </play>
+   <play hasball="MEM" down="2" togo="0" spot="OM08" context="H,2,0,V08" playid="10,6,110" type="R" tokens="RUSH:28,V06, TACK:6B"
+      text="DORCEUS, D rush for 2 yards to the OM6 (Fadol Brown)." newcontext="H,3,0,V06">
+    <p_ru vh="H" name="DORCEUS, D" gain="2"></p_ru>
+    <p_tk vh="V" name="Fadol Brown"></p_tk>
+   </play>
+   <play hasball="MEM" down="3" togo="0" spot="OM06" context="H,3,0,V06" playid="10,7,111" type="R" tokens="RUSH:12,V05, TACK:6B"
+      text="LYNCH, Paxton rush for 1 yard to the OM5 (Fadol Brown)." newcontext="H,4,0,V05">
+    <p_ru vh="H" name="LYNCH, Paxton" gain="1"></p_ru>
+    <p_tk vh="V" name="Fadol Brown"></p_tk>
+   </play>
+   <play hasball="MEM" down="4" togo="0" spot="OM05" context="H,4,0,V05" playid="10,8,112" type="F" score="Y" vscore="14" hscore="10" clock="03:49" tokens="FGA:46,23,G T:03:49"
+      text="ELLIOTT, Jake field goal attempt from 23 GOOD, clock 03:49." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="ELLIOTT, Jake" distance="23" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="14" H="10"></score>
+   <drivesum plays="7" yards="35" top="2:45" driveindex="10" complete="Y"></drivesum>
+   <play hasball="MEM" down="1" togo="0" spot="MEM35" context="H,1,0,H35" playid="10,9,113" type="K" tokens="KO:46,V00 TB:"
+      text="ELLIOTT, Jake kickoff 65 yards to the OM0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="ELLIOTT, Jake" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,03:49" vh="V" spot="V25" clock="03:49" driveindex="11,113"></drivestart>
+   <play hasball="OM" down="1" togo="10" spot="OM25" context="V,1,10,V25" playid="11,1,114" clock="03:49" tokens="{DRIVE}:03:49"
+      text="OLE MISS drive start at 03:49." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="OM25" context="V,1,10,V25" playid="11,2,115" type="P" turnover="I" tokens="PASS:10,X,27,V46 RET:27,V30 TACK:68"
+      text="Chad Kelly pass intercepted by WITTY, Dion at the OM46, WITTY, Dion return 16 yards to the OM30 (Justin Bell)." newcontext="H,1,10,V30">
+    <p_pa vh="V" qb="Chad Kelly" result="INT"></p_pa>
+    <p_ir vh="H" name="WITTY, Dion" at="V46" gain="16"></p_ir>
+    <p_tk vh="V" name="Justin Bell"></p_tk>
+   </play>
+   <drivesum plays="1" yards="0" top="0:09" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="H,V30,03:40" vh="H" spot="V30" clock="03:40" driveindex="12,115"></drivestart>
+   <play hasball="MEM" down="1" togo="10" spot="OM30" context="H,1,10,V30" playid="12,1,116" clock="03:40" tokens="{DRIVE}:03:40"
+      text="MEMPHIS drive start at 03:40." newcontext="H,1,10,V30">
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="OM30" context="H,1,10,V30" playid="12,2,117" type="P" tokens="PASS:12,C,40,V32 TACK:38"
+      text="LYNCH, Paxton pass complete to CROSS, Alan for loss of 2 yards to the OM32 (Mike Hilton)." newcontext="H,2,12,V32">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="CROSS, Alan" gain="-2"></p_pa>
+    <p_tk vh="V" name="Mike Hilton"></p_tk>
+   </play>
+   <play hasball="MEM" down="2" togo="12" spot="OM32" context="H,2,12,V32" playid="12,3,118" type="E" first="E" tokens="PASS:12,I,28,* BRUP:56 PEN:V,RP,A,6,V17,1 NOPLAY:"
+      text="LYNCH, Paxton pass incomplete to DORCEUS, D (W. Hamilton), PENALTY OM roughing passer (6) 15 yards to the OM17, 1ST DOWN MEM, NO PLAY." newcontext="H,1,10,V17">
+    <p_pn vh="V" code="RP" type="roughing passer" name="6" result="ACCEPT" at="V32" yards="15"></p_pn>
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="OM17" context="H,1,10,V17" playid="12,4,119" type="P" first="P" tokens="PASS:12,C,28,V04 TACK:3B"
+      text="LYNCH, Paxton pass complete to DORCEUS, D for 13 yards to the OM4, 1ST DOWN MEM (C.J. Hampton)." newcontext="H,1,0,V04">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="DORCEUS, D" gain="13"></p_pa>
+    <p_tk vh="V" name="C.J. Hampton"></p_tk>
+   </play>
+   <play hasball="MEM" down="1" togo="0" spot="OM04" context="H,1,0,V04" playid="12,5,120" type="R" score="Y" vscore="14" hscore="16" clock="02:52" tokens="RUSH:11,V00, T:02:52"
+      text="CRAFT, Sam rush for 4 yards to the OM0, TOUCHDOWN, clock 02:52." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="CRAFT, Sam" gain="4"></p_ru>
+   </play>
+   <play hasball="MEM" down="1" togo="0" spot="OM03" context="H,1,0,V03" playid="12,6,121" type="X" score="Y" vscore="14" hscore="17" tokens="PAT:K,46,G"
+      text="ELLIOTT, Jake kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="ELLIOTT, Jake" qb="ELLIOTT, Jake" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="17"></score>
+   <drivesum plays="3" yards="30" top="0:48" driveindex="12" complete="Y"></drivesum>
+   <play hasball="MEM" down="1" togo="0" spot="MEM35" context="H,1,0,H35" playid="12,7,122" type="K" tokens="KO:46,V00 TB:"
+      text="ELLIOTT, Jake kickoff 65 yards to the OM0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="ELLIOTT, Jake" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,02:52" vh="V" spot="V25" clock="02:52" driveindex="13,122"></drivestart>
+   <play hasball="OM" down="1" togo="10" spot="OM25" context="V,1,10,V25" playid="13,1,123" clock="02:52" tokens="{DRIVE}:02:52"
+      text="OLE MISS drive start at 02:52." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="OM25" context="V,1,10,V25" playid="13,2,124" type="P" tokens="PASS:10,I,1A,*"
+      text="Chad Kelly pass incomplete to L. Treadwell." newcontext="V,2,10,V25">
+    <p_pa vh="V" qb="Chad Kelly" result="INC" rcv="L. Treadwell"></p_pa>
+   </play>
+   <play hasball="OM" down="2" togo="10" spot="OM25" context="V,2,10,V25" playid="13,3,125" type="P" tokens="PASS:10,C,1A,V34 TACK:6"
+      text="Chad Kelly pass complete to L. Treadwell for 9 yards to the OM34 (AVERY, Genard)." newcontext="V,3,1,V34">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="L. Treadwell" gain="9"></p_pa>
+    <p_tk vh="H" name="AVERY, Genard"></p_tk>
+   </play>
+   <play hasball="OM" down="3" togo="1" spot="OM34" context="V,3,1,V34" playid="13,4,126" type="R" tokens="RUSH:21,V34, TACK:13"
+      text="Akeem Judd rush for no gain to the OM34 (MONTGOMERY, D)." newcontext="V,4,1,V34">
+    <p_ru vh="V" name="Akeem Judd" gain="0"></p_ru>
+    <p_tk vh="H" name="MONTGOMERY, D"></p_tk>
+   </play>
+   <play hasball="OM" down="4" togo="1" spot="OM34" context="V,4,1,V34" playid="13,5,127" type="R" tokens="RUSH:10,V34, TACK:58"
+      text="Chad Kelly rush for no gain to the OM34 (PENNINGTON, D)." newcontext="H,1,10,V34">
+    <p_ru vh="V" name="Chad Kelly" gain="0"></p_ru>
+    <p_tk vh="H" name="PENNINGTON, D"></p_tk>
+   </play>
+   <drivesum plays="4" yards="9" top="0:56" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="H,V34,01:56" vh="H" spot="V34" clock="01:56" driveindex="14,127"></drivestart>
+   <play hasball="MEM" down="1" togo="10" spot="OM34" context="H,1,10,V34" playid="14,1,128" clock="01:56" tokens="{DRIVE}:01:56"
+      text="MEMPHIS drive start at 01:56." newcontext="H,1,10,V34">
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="OM34" context="H,1,10,V34" playid="14,2,129" type="R" tokens="RUSH:12,V32, TACK:9B,93"
+      text="LYNCH, Paxton rush for 2 yards to the OM32 (Breeland Speaks;D.J. Jones)." newcontext="H,2,8,V32">
+    <p_ru vh="H" name="LYNCH, Paxton" gain="2"></p_ru>
+    <p_tk vh="V" name="Breeland Speaks" assist="Y"></p_tk>
+    <p_tk vh="V" name="D.J. Jones" assist="Y"></p_tk>
+   </play>
+   <play hasball="MEM" down="2" togo="8" spot="OM32" context="H,2,8,V32" playid="14,3,130" type="P" tokens="PASS:12,I,TM,* BRUP:1F"
+      text="LYNCH, Paxton pass incomplete (K. Webster)." newcontext="H,3,8,V32">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="INC"></p_pa>
+    <p_bu vh="V" name="K. Webster"></p_bu>
+   </play>
+   <play hasball="MEM" down="3" togo="8" spot="OM32" context="H,3,8,V32" playid="14,4,131" type="P" tokens="PASS:12,C,3,V27 TACK:38 PEN:H,HO,A,40,V37,N"
+      text="LYNCH, Paxton pass complete to MILLER, Anthony for 5 yards to the OM27 (Mike Hilton), PENALTY MEM holding (CROSS, Alan) 10 yards to the OM37." newcontext="H,3,13,V37">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="MILLER, Anthony" gain="5"></p_pa>
+    <p_tk vh="V" name="Mike Hilton"></p_tk>
+    <p_pn vh="H" code="HO" type="holding" name="CROSS, Alan" result="ACCEPT" at="V27" yards="10"></p_pn>
+   </play>
+   <play hasball="MEM" down="3" togo="13" spot="OM37" context="H,3,13,V37" playid="14,5,132" tokens="D:3,13"
+      text="3rd and 13." newcontext="H,3,13,V37">
+   </play>
+   <play hasball="MEM" down="3" togo="13" spot="OM37" context="H,3,13,V37" playid="14,6,133" type="P" first="P" tokens="PASS:12,C,3,V23 TACK:3B"
+      text="LYNCH, Paxton pass complete to MILLER, Anthony for 14 yards to the OM23, 1ST DOWN MEM (C.J. Hampton)." newcontext="H,1,10,V23">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="MILLER, Anthony" gain="14"></p_pa>
+    <p_tk vh="V" name="C.J. Hampton"></p_tk>
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="OM23" context="H,1,10,V23" playid="14,7,134" type="P" first="P" tokens="PASS:12,C,5,V06 OB:"
+      text="LYNCH, Paxton pass complete to FRAZIER, Mose for 17 yards to the OM6, 1ST DOWN MEM, out-of-bounds." ob="Y" newcontext="H,1,0,V06">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="FRAZIER, Mose" gain="17"></p_pa>
+   </play>
+   <play hasball="MEM" down="1" togo="0" spot="OM06" context="H,1,0,V06" playid="14,8,135" type="P" score="Y" vscore="14" hscore="23" clock="00:34" tokens="PASS:12,C,3,V00 T:00:34"
+      text="LYNCH, Paxton pass complete to MILLER, Anthony for 6 yards to the OM0, TOUCHDOWN, clock 00:34." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="MILLER, Anthony" gain="6"></p_pa>
+   </play>
+   <comment text="Previous play under review. Ruling on the field stands."></comment>
+   <play hasball="MEM" down="1" togo="0" spot="OM03" context="H,1,0,V03" playid="14,9,137" type="X" score="Y" vscore="14" hscore="24" tokens="PAT:K,46,G"
+      text="ELLIOTT, Jake kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="ELLIOTT, Jake" qb="ELLIOTT, Jake" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="24"></score>
+   <drivesum plays="6" yards="34" top="1:22" driveindex="14" complete="Y"></drivesum>
+   <play hasball="MEM" down="1" togo="0" spot="MEM35" context="H,1,0,H35" playid="14,10,138" type="K" tokens="KO:46,V03 RET:6A,V07"
+      text="ELLIOTT, Jake kickoff 62 yards to the OM3, Jaylen Walton return 4 yards to the OM7." newcontext="V,1,10,V07">
+    <p_ko vh="H" name="ELLIOTT, Jake" gain="62"></p_ko>
+    <p_kr vh="V" name="Jaylen Walton" gain="4"></p_kr>
+   </play>
+   <drivestart poss="V,V07,00:32" vh="V" spot="V07" clock="00:32" driveindex="15,138"></drivestart>
+   <play hasball="OM" down="1" togo="10" spot="OM07" context="V,1,10,V07" playid="15,1,139" clock="00:32" tokens="{DRIVE}:00:32"
+      text="OLE MISS drive start at 00:32." newcontext="V,1,10,V07">
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="OM07" context="V,1,10,V07" playid="15,2,140" type="R" first="R" tokens="RUSH:6A,V20, OB: TACK:27"
+      text="Jaylen Walton rush for 13 yards to the OM20, 1ST DOWN OM, out-of-bounds (WITTY, Dion)." ob="Y" newcontext="V,1,10,V20">
+    <p_ru vh="V" name="Jaylen Walton" gain="13"></p_ru>
+    <p_tk vh="H" name="WITTY, Dion"></p_tk>
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="OM20" context="V,1,10,V20" playid="15,3,141" type="P" first="P" tokens="PASS:10,C,1A,V35 OB: TACK:8"
+      text="Chad Kelly pass complete to L. Treadwell for 15 yards to the OM35, 1ST DOWN OM, out-of-bounds (MAULET, Arthur)." ob="Y" newcontext="V,1,10,V35">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="L. Treadwell" gain="15"></p_pa>
+    <p_tk vh="H" name="MAULET, Arthur"></p_tk>
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="OM35" context="V,1,10,V35" playid="15,4,142" type="P" tokens="PASS:10,S,TM,V24 SACK:13"
+      text="Chad Kelly sacked for loss of 11 yards to the OM24 (MONTGOMERY, D)." newcontext="V,2,21,V24">
+    <p_pa vh="V" qb="Chad Kelly" result="SACK" gain="-11"></p_pa>
+    <p_tk vh="H" name="MONTGOMERY, D" sack="Y"></p_tk>
+   </play>
+   <play hasball="OM" down="2" togo="21" spot="OM24" context="V,2,21,V24" playid="15,5,143" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of half, clock 00:00." newcontext="V,2,21,V24">
+   </play>
+   <drivesum plays="3" yards="17" top="0:32" driveindex="15" complete="Y"></drivesum>
+   <score qtr="2" V="14" H="24"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="OM">
+    <firstdowns no="4" rush="2" pass="2" penalty="0"></firstdowns>
+    <penalties no="4" yds="50"></penalties>
+    <conversions thirdconv="2" thirdatt="5" fourthconv="0" fourthatt="2"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:33"></misc>
+    <rush att="10" yds="10" gain="27" loss="17" td="0" long="7"></rush>
+    <pass comp="6" att="9" int="1" yds="53" td="0" long="0" sacks="1" sackyds="11"></pass>
+    <rcv no="6" yds="53" td="0" long="0"></rcv>
+    <punt no="1" yds="40" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="40.0"></punt>
+    <defense tackua="16" tacka="4" tot_tack="20" tflua="2" tfla="0" tflyds="6" sacks="0" sackyds="0" brup="2" int="1" intyds="2"></defense>
+    <kr no="1" yds="4" td="0" long="4"></kr>
+    <ir no="1" yds="2" td="0" long="2"></ir>
+   </qtrsummary>
+   <qtrsummary vh="H" id="MEM">
+    <firstdowns no="8" rush="0" pass="7" penalty="1"></firstdowns>
+    <penalties no="2" yds="15"></penalties>
+    <conversions thirdconv="3" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:27"></misc>
+    <rush att="8" yds="17" gain="17" loss="0" td="1" long="0"></rush>
+    <pass comp="11" att="15" int="1" yds="129" td="1" long="15" sacks="0" sackyds="0"></pass>
+    <rcv no="11" yds="129" td="1" long="15"></rcv>
+    <ko no="3" yds="192" ob="0" tb="2"></ko>
+    <fg made="1" att="1" long="23" blkd="0"></fg>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="15" tacka="4" tot_tack="19" tflua="2" tfla="0" tflyds="17" sacks="1" sackyds="11" brup="1" int="1" intyds="16"></defense>
+    <pr no="1" yds="15" td="0" long="10"></pr>
+    <ir no="1" yds="16" td="0" long="16"></ir>
+    <scoring td="2" fg="1" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="OM" down="2" togo="21" spot="OM24" context="V,2,21,V24" playid="15,6,144" type="#" clock="15:00" tokens="Q:3 T:15:00 SPOT:V,V35,N"
+      text="Start of 3rd quarter, clock 15:00, OM ball on OM35." newcontext="V,2,21,V35">
+   </play>
+   <play hasball="OM" down="2" togo="21" spot="OM35" context="V,2,21,V35" playid="15,7,145" type="K" tokens="KO:91,H00 RET:19,H18 TACK:1W"
+      text="Nathan Noble kickoff 65 yards to the MEM0, OGLESBY, J return 18 yards to the MEM18 (Channing Ward)." newcontext="H,1,10,H18">
+    <p_ko vh="V" name="Nathan Noble" gain="65"></p_ko>
+    <p_kr vh="H" name="OGLESBY, J" gain="18"></p_kr>
+    <p_tk vh="V" name="Channing Ward"></p_tk>
+   </play>
+   <drivestart poss="H,H18,14:54" vh="H" spot="H18" clock="14:54" driveindex="16,145"></drivestart>
+   <play hasball="MEM" down="1" togo="10" spot="MEM18" context="H,1,10,H18" playid="16,1,146" clock="14:54" tokens="{DRIVE}:14:54"
+      text="MEMPHIS drive start at 14:54." newcontext="H,1,10,H18">
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="MEM18" context="H,1,10,H18" playid="16,2,147" type="P" tokens="PASS:12,C,3,H25 TACK:56"
+      text="LYNCH, Paxton pass complete to MILLER, Anthony for 7 yards to the MEM25 (W. Hamilton)." newcontext="H,2,3,H25">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="MILLER, Anthony" gain="7"></p_pa>
+    <p_tk vh="V" name="W. Hamilton"></p_tk>
+   </play>
+   <play hasball="MEM" down="2" togo="3" spot="MEM25" context="H,2,3,H25" playid="16,3,148" type="P" first="P" tokens="PASS:12,C,89,H34 TACK:3B"
+      text="LYNCH, Paxton pass complete to MAYHUE, Phil for 9 yards to the MEM34, 1ST DOWN MEM (C.J. Hampton)." newcontext="H,1,10,H34">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="MAYHUE, Phil" gain="9"></p_pa>
+    <p_tk vh="V" name="C.J. Hampton"></p_tk>
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="MEM34" context="H,1,10,H34" playid="16,4,149" type="P" tokens="PASS:12,I,3,*"
+      text="LYNCH, Paxton pass incomplete to MILLER, Anthony." newcontext="H,2,10,H34">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="INC" rcv="MILLER, Anthony"></p_pa>
+   </play>
+   <play hasball="MEM" down="2" togo="10" spot="MEM34" context="H,2,10,H34" playid="16,5,150" type="R" tokens="RUSH:11,H36, TACK:9B,47"
+      text="CRAFT, Sam rush for 2 yards to the MEM36 (Breeland Speaks;John Youngblood)." newcontext="H,3,8,H36">
+    <p_ru vh="H" name="CRAFT, Sam" gain="2"></p_ru>
+    <p_tk vh="V" name="Breeland Speaks" assist="Y"></p_tk>
+    <p_tk vh="V" name="John Youngblood" assist="Y"></p_tk>
+   </play>
+   <play hasball="MEM" down="3" togo="8" spot="MEM36" context="H,3,8,H36" playid="16,6,151" type="P" first="P" tokens="PASS:12,C,3,H47"
+      text="LYNCH, Paxton pass complete to MILLER, Anthony for 11 yards to the MEM47, 1ST DOWN MEM." newcontext="H,1,10,H47">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="MILLER, Anthony" gain="11"></p_pa>
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="MEM47" context="H,1,10,H47" playid="16,7,152" type="P" first="P" tokens="PASS:12,C,3,V42 TACK:38"
+      text="LYNCH, Paxton pass complete to MILLER, Anthony for 11 yards to the OM42, 1ST DOWN MEM (Mike Hilton)." newcontext="H,1,10,V42">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="MILLER, Anthony" gain="11"></p_pa>
+    <p_tk vh="V" name="Mike Hilton"></p_tk>
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="OM42" context="H,1,10,V42" playid="16,8,153" type="P" tokens="PASS:12,I,3,* BRUP:38"
+      text="LYNCH, Paxton pass incomplete to MILLER, Anthony (Mike Hilton)." newcontext="H,2,10,V42">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="INC" rcv="MILLER, Anthony"></p_pa>
+    <p_bu vh="V" name="Mike Hilton"></p_bu>
+   </play>
+   <play hasball="MEM" down="2" togo="10" spot="OM42" context="H,2,10,V42" playid="16,9,154" type="R" tokens="RUSH:11,V39, TACK:31,6B"
+      text="CRAFT, Sam rush for 3 yards to the OM39 (DeMarquis Gates;Fadol Brown)." newcontext="H,3,7,V39">
+    <p_ru vh="H" name="CRAFT, Sam" gain="3"></p_ru>
+    <p_tk vh="V" name="DeMarquis Gates" assist="Y"></p_tk>
+    <p_tk vh="V" name="Fadol Brown" assist="Y"></p_tk>
+   </play>
+   <play hasball="MEM" down="3" togo="7" spot="OM39" context="H,3,7,V39" playid="16,10,155" type="P" first="P" tokens="PASS:12,C,5,V31 OB:"
+      text="LYNCH, Paxton pass complete to FRAZIER, Mose for 8 yards to the OM31, 1ST DOWN MEM, out-of-bounds." ob="Y" newcontext="H,1,10,V31">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="FRAZIER, Mose" gain="8"></p_pa>
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="OM31" context="H,1,10,V31" playid="16,11,156" type="P" first="P" score="Y" vscore="14" hscore="30" clock="11:31" tokens="PASS:12,C,5,V00 T:11:31"
+      text="LYNCH, Paxton pass complete to FRAZIER, Mose for 31 yards to the OM0, 1ST DOWN MEM, TOUCHDOWN, clock 11:31." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="FRAZIER, Mose" gain="31"></p_pa>
+   </play>
+   <play hasball="MEM" down="1" togo="0" spot="OM03" context="H,1,0,V03" playid="16,12,157" type="X" score="Y" vscore="14" hscore="31" tokens="PAT:K,46,G"
+      text="ELLIOTT, Jake kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="ELLIOTT, Jake" qb="ELLIOTT, Jake" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="31"></score>
+   <play hasball="MEM" down="1" togo="0" spot="MEM35" context="H,1,0,H35" playid="16,13,158" type="E" tokens="PEN:H,UC,A,5,H20,N"
+      text="PENALTY MEM unsportsmanlike conduct (FRAZIER, Mose) 15 yards to the MEM20." newcontext="H,1,0,H20">
+    <p_pn vh="H" code="UC" type="unsportsmanlike conduct" name="FRAZIER, Mose" result="ACCEPT" at="H35" yards="15"></p_pn>
+   </play>
+   <drivesum plays="10" yards="82" top="3:23" driveindex="16" complete="Y"></drivesum>
+   <play hasball="MEM" down="1" togo="0" spot="MEM20" context="H,1,0,H20" playid="16,14,159" type="K" tokens="KO:46,V15 RET:6A,V34 TACK:50,25"
+      text="ELLIOTT, Jake kickoff 65 yards to the OM15, Jaylen Walton return 19 yards to the OM34 (HARDEN, Lenard;COOPER, Jarvis)." newcontext="V,1,10,V34">
+    <p_ko vh="H" name="ELLIOTT, Jake" gain="65"></p_ko>
+    <p_kr vh="V" name="Jaylen Walton" gain="19"></p_kr>
+    <p_tk vh="H" name="HARDEN, Lenard" assist="Y"></p_tk>
+    <p_tk vh="H" name="COOPER, Jarvis" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V34,11:26" vh="V" spot="V34" clock="11:26" driveindex="17,159"></drivestart>
+   <play hasball="OM" down="1" togo="10" spot="OM34" context="V,1,10,V34" playid="17,1,160" clock="11:26" tokens="{DRIVE}:11:26"
+      text="OLE MISS drive start at 11:26." newcontext="V,1,10,V34">
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="OM34" context="V,1,10,V34" playid="17,2,161" type="R" tokens="RUSH:6A,V39, TACK:17"
+      text="Jaylen Walton rush for 5 yards to the OM39 (MORLEY, Chris)." newcontext="V,2,5,V39">
+    <p_ru vh="V" name="Jaylen Walton" gain="5"></p_ru>
+    <p_tk vh="H" name="MORLEY, Chris"></p_tk>
+   </play>
+   <play hasball="OM" down="2" togo="5" spot="OM39" context="V,2,5,V39" playid="17,3,162" type="P" tokens="PASS:10,B,88,* BRUP:91"
+      text="Chad Kelly pass incomplete to Cody Core (HUNTER, Ricky)." newcontext="V,3,5,V39">
+    <p_pa vh="V" qb="Chad Kelly" result="BRUP" rcv="Cody Core"></p_pa>
+    <p_bu vh="H" name="HUNTER, Ricky"></p_bu>
+   </play>
+   <play hasball="OM" down="3" togo="5" spot="OM39" context="V,3,5,V39" playid="17,4,163" type="P" tokens="PASS:10,I,88,*"
+      text="Chad Kelly pass incomplete to Cody Core." newcontext="V,4,5,V39">
+    <p_pa vh="V" qb="Chad Kelly" result="INC" rcv="Cody Core"></p_pa>
+   </play>
+   <play hasball="OM" down="4" togo="5" spot="OM39" context="V,4,5,V39" playid="17,5,164" type="U" tokens="PUNT:9G,H15 OB:"
+      text="Will Gleeson punt 46 yards to the MEM15, out-of-bounds." ob="Y" newcontext="H,1,10,H15">
+    <p_pu vh="V" name="Will Gleeson" gain="46" in20="Y" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="5" top="0:36" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="H,H15,10:50" vh="H" spot="H15" clock="10:50" driveindex="18,164"></drivestart>
+   <play hasball="MEM" down="1" togo="10" spot="MEM15" context="H,1,10,H15" playid="18,1,165" clock="10:50" tokens="{DRIVE}:10:50"
+      text="MEMPHIS drive start at 10:50." newcontext="H,1,10,H15">
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="MEM15" context="H,1,10,H15" playid="18,2,166" type="R" tokens="RUSH:25,H14, TACK:23,56"
+      text="COOPER, Jarvis rush for loss of 1 yard to the MEM14 (Carlos Davis;W. Hamilton)." newcontext="H,2,11,H14">
+    <p_ru vh="H" name="COOPER, Jarvis" gain="-1"></p_ru>
+    <p_tk vh="V" name="Carlos Davis" assist="Y"></p_tk>
+    <p_tk vh="V" name="W. Hamilton" assist="Y"></p_tk>
+   </play>
+   <play hasball="MEM" down="2" togo="11" spot="MEM14" context="H,2,11,H14" playid="18,3,167" type="R" tokens="RUSH:87,H21, TACK:1B"
+      text="JONES, Tevin rush for 7 yards to the MEM21 (Tony Bridges)." newcontext="H,3,4,H21">
+    <p_ru vh="H" name="JONES, Tevin" gain="7"></p_ru>
+    <p_tk vh="V" name="Tony Bridges"></p_tk>
+   </play>
+   <play hasball="MEM" down="3" togo="4" spot="MEM21" context="H,3,4,H21" playid="18,4,168" type="P" first="P" tokens="PASS:12,C,40,H29 TACK:4B"
+      text="LYNCH, Paxton pass complete to CROSS, Alan for 8 yards to the MEM29, 1ST DOWN MEM (D. Nkemdiche)." newcontext="H,1,10,H29">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="CROSS, Alan" gain="8"></p_pa>
+    <p_tk vh="V" name="D. Nkemdiche"></p_tk>
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="MEM29" context="H,1,10,H29" playid="18,5,169" type="R" tokens="RUSH:19,H10, TACK:9B"
+      text="OGLESBY, J rush for loss of 19 yards to the MEM10 (Breeland Speaks)." newcontext="H,2,29,H10">
+    <p_ru vh="H" name="OGLESBY, J" gain="-19"></p_ru>
+    <p_tk vh="V" name="Breeland Speaks"></p_tk>
+   </play>
+   <play hasball="MEM" down="2" togo="29" spot="MEM10" context="H,2,29,H10" playid="18,6,170" type="P" tokens="PASS:12,C,40,H21 TACK:20"
+      text="LYNCH, Paxton pass complete to CROSS, Alan for 11 yards to the MEM21 (C. Russell)." newcontext="H,3,18,H21">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="CROSS, Alan" gain="11"></p_pa>
+    <p_tk vh="V" name="C. Russell"></p_tk>
+   </play>
+   <play hasball="MEM" down="3" togo="18" spot="MEM21" context="H,3,18,H21" playid="18,7,171" type="P" tokens="PASS:12,I,87,*"
+      text="LYNCH, Paxton pass incomplete to JONES, Tevin." newcontext="H,4,18,H21">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="INC" rcv="JONES, Tevin"></p_pa>
+   </play>
+   <play hasball="MEM" down="4" togo="18" spot="MEM21" context="H,4,18,H21" playid="18,8,172" type="U" tokens="PUNT:36,V32 FC:16"
+      text="SMITH, Spencer punt 47 yards to the OM32, fair catch by Collins Moore." newcontext="V,1,10,V32">
+    <p_pu vh="H" name="SMITH, Spencer" gain="47" fc="Collins Moore"></p_pu>
+   </play>
+   <drivesum plays="6" yards="6" top="2:47" driveindex="18" complete="Y"></drivesum>
+   <drivestart poss="V,V32,08:03" vh="V" spot="V32" clock="08:03" driveindex="19,172"></drivestart>
+   <play hasball="OM" down="1" togo="10" spot="OM32" context="V,1,10,V32" playid="19,1,173" clock="08:03" tokens="{DRIVE}:08:03"
+      text="OLE MISS drive start at 08:03." newcontext="V,1,10,V32">
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="OM32" context="V,1,10,V32" playid="19,2,174" type="P" first="P" tokens="PASS:10,C,88,H42 OB: TACK:27"
+      text="Chad Kelly pass complete to Cody Core for 26 yards to the MEM42, 1ST DOWN OM, out-of-bounds (WITTY, Dion)." ob="Y" newcontext="V,1,10,H42">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="Cody Core" gain="26"></p_pa>
+    <p_tk vh="H" name="WITTY, Dion"></p_tk>
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="MEM42" context="V,1,10,H42" playid="19,3,175" type="R" tokens="RUSH:6A,H35, TACK:30"
+      text="Jaylen Walton rush for 7 yards to the MEM35 (WHITE, Shareef)." newcontext="V,2,3,H35">
+    <p_ru vh="V" name="Jaylen Walton" gain="7"></p_ru>
+    <p_tk vh="H" name="WHITE, Shareef"></p_tk>
+   </play>
+   <play hasball="OM" down="2" togo="3" spot="MEM35" context="V,2,3,H35" playid="19,4,176" type="R" first="R" tokens="RUSH:6A,H27, TACK:30"
+      text="Jaylen Walton rush for 8 yards to the MEM27, 1ST DOWN OM (WHITE, Shareef)." newcontext="V,1,10,H27">
+    <p_ru vh="V" name="Jaylen Walton" gain="8"></p_ru>
+    <p_tk vh="H" name="WHITE, Shareef"></p_tk>
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="MEM27" context="V,1,10,H27" playid="19,5,177" type="P" first="P" tokens="PASS:10,C,1A,H06 TACK:27"
+      text="Chad Kelly pass complete to L. Treadwell for 21 yards to the MEM6, 1ST DOWN OM (WITTY, Dion)." newcontext="V,1,0,H06">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="L. Treadwell" gain="21"></p_pa>
+    <p_tk vh="H" name="WITTY, Dion"></p_tk>
+   </play>
+   <play hasball="OM" down="1" togo="0" spot="MEM06" context="V,1,0,H06" playid="19,6,178" type="P" score="Y" vscore="20" hscore="31" clock="06:59" tokens="PASS:10,C,1A,H00 T:06:59"
+      text="Chad Kelly pass complete to L. Treadwell for 6 yards to the MEM0, TOUCHDOWN, clock 06:59." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="L. Treadwell" gain="6"></p_pa>
+   </play>
+   <play hasball="OM" down="1" togo="0" spot="MEM03" context="V,1,0,H03" playid="19,7,179" type="X" score="Y" vscore="21" hscore="31" tokens="PAT:K,97,G"
+      text="Gary Wunderlich kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="Gary Wunderlich" qb="Gary Wunderlich" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="21" H="31"></score>
+   <drivesum plays="5" yards="68" top="1:04" driveindex="19" complete="Y"></drivesum>
+   <play hasball="OM" down="1" togo="0" spot="OM35" context="V,1,0,V35" playid="19,8,180" type="K" tokens="KO:91,H00 TB:"
+      text="Nathan Noble kickoff 65 yards to the MEM0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Nathan Noble" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,06:59" vh="H" spot="H25" clock="06:59" driveindex="20,180"></drivestart>
+   <play hasball="MEM" down="1" togo="10" spot="MEM25" context="H,1,10,H25" playid="20,1,181" clock="06:59" tokens="{DRIVE}:06:59"
+      text="MEMPHIS drive start at 06:59." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="MEM25" context="H,1,10,H25" playid="20,2,182" type="R" first="R" tokens="RUSH:28,H38, TACK:56"
+      text="DORCEUS, D rush for 13 yards to the MEM38, 1ST DOWN MEM (W. Hamilton)." newcontext="H,1,10,H38">
+    <p_ru vh="H" name="DORCEUS, D" gain="13"></p_ru>
+    <p_tk vh="V" name="W. Hamilton"></p_tk>
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="MEM38" context="H,1,10,H38" playid="20,3,183" type="P" tokens="PASS:12,C,18,H40 TACK:2C"
+      text="LYNCH, Paxton pass complete to PROCTOR, R for 2 yards to the MEM40 (Terry Caldwell)." newcontext="H,2,8,H40">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="PROCTOR, R" gain="2"></p_pa>
+    <p_tk vh="V" name="Terry Caldwell"></p_tk>
+   </play>
+   <play hasball="MEM" down="2" togo="8" spot="MEM40" context="H,2,8,H40" playid="20,4,184" type="P" tokens="PASS:12,C,89,H39 TACK:8B,38"
+      text="LYNCH, Paxton pass complete to MAYHUE, Phil for loss of 1 yard to the MEM39 (Chief Brown;Mike Hilton)." newcontext="H,3,9,H39">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="MAYHUE, Phil" gain="-1"></p_pa>
+    <p_tk vh="V" name="Chief Brown" assist="Y"></p_tk>
+    <p_tk vh="V" name="Mike Hilton" assist="Y"></p_tk>
+   </play>
+   <play hasball="MEM" down="3" togo="9" spot="MEM39" context="H,3,9,H39" playid="20,5,185" type="P" first="P" tokens="PASS:12,C,28,H49 TACK:2C"
+      text="LYNCH, Paxton pass complete to DORCEUS, D for 10 yards to the MEM49, 1ST DOWN MEM (Terry Caldwell)." newcontext="H,1,10,H49">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="DORCEUS, D" gain="10"></p_pa>
+    <p_tk vh="V" name="Terry Caldwell"></p_tk>
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="MEM49" context="H,1,10,H49" playid="20,6,186" type="P" tokens="PASS:12,C,18,V44 TACK:20"
+      text="LYNCH, Paxton pass complete to PROCTOR, R for 7 yards to the OM44 (C. Russell)." newcontext="H,2,3,V44">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="PROCTOR, R" gain="7"></p_pa>
+    <p_tk vh="V" name="C. Russell"></p_tk>
+   </play>
+   <play hasball="MEM" down="2" togo="3" spot="OM44" context="H,2,3,V44" playid="20,7,187" type="R" tokens="RUSH:28,V47, TACK:27,4B"
+      text="DORCEUS, D rush for loss of 3 yards to the OM47 (Marquis Haynes;D. Nkemdiche)." newcontext="H,3,6,V47">
+    <p_ru vh="H" name="DORCEUS, D" gain="-3"></p_ru>
+    <p_tk vh="V" name="Marquis Haynes" assist="Y"></p_tk>
+    <p_tk vh="V" name="D. Nkemdiche" assist="Y"></p_tk>
+   </play>
+   <play hasball="MEM" down="3" togo="6" spot="OM47" context="H,3,6,V47" playid="20,8,188" type="P" tokens="PASS:12,I,3,*"
+      text="LYNCH, Paxton pass incomplete to MILLER, Anthony." newcontext="H,4,6,V47">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="INC" rcv="MILLER, Anthony"></p_pa>
+   </play>
+   <play hasball="MEM" down="4" togo="6" spot="OM47" context="H,4,6,V47" playid="20,9,189" type="U" tokens="PUNT:36,V16 FC:16"
+      text="SMITH, Spencer punt 31 yards to the OM16, fair catch by Collins Moore." newcontext="V,1,10,V16">
+    <p_pu vh="H" name="SMITH, Spencer" gain="31" in20="Y" fc="Collins Moore"></p_pu>
+   </play>
+   <drivesum plays="7" yards="28" top="2:59" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="V,V16,04:00" vh="V" spot="V16" clock="04:00" driveindex="21,189"></drivestart>
+   <play hasball="OM" down="1" togo="10" spot="OM16" context="V,1,10,V16" playid="21,1,190" clock="04:00" tokens="{DRIVE}:04:00"
+      text="OLE MISS drive start at 04:00." newcontext="V,1,10,V16">
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="OM16" context="V,1,10,V16" playid="21,2,191" type="P" tokens="PASS:10,C,17,V25 TACK:6"
+      text="Chad Kelly pass complete to Evan Engram for 9 yards to the OM25 (AVERY, Genard)." newcontext="V,2,1,V25">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="Evan Engram" gain="9"></p_pa>
+    <p_tk vh="H" name="AVERY, Genard"></p_tk>
+   </play>
+   <play hasball="OM" down="2" togo="1" spot="OM25" context="V,2,1,V25" playid="21,3,192" type="P" first="P" tokens="PASS:10,C,1A,V41 TACK:39"
+      text="Chad Kelly pass complete to L. Treadwell for 16 yards to the OM41, 1ST DOWN OM (BALL, Reggis)." newcontext="V,1,10,V41">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="L. Treadwell" gain="16"></p_pa>
+    <p_tk vh="H" name="BALL, Reggis"></p_tk>
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="OM41" context="V,1,10,V41" playid="21,4,193" type="P" tokens="PASS:10,I,88,*"
+      text="Chad Kelly pass incomplete to Cody Core." newcontext="V,2,10,V41">
+    <p_pa vh="V" qb="Chad Kelly" result="INC" rcv="Cody Core"></p_pa>
+   </play>
+   <play hasball="OM" down="2" togo="10" spot="OM41" context="V,2,10,V41" playid="21,5,194" type="P" tokens="PASS:10,C,17,V45 TACK:17"
+      text="Chad Kelly pass complete to Evan Engram for 4 yards to the OM45 (MORLEY, Chris)." newcontext="V,3,6,V45">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="Evan Engram" gain="4"></p_pa>
+    <p_tk vh="H" name="MORLEY, Chris"></p_tk>
+   </play>
+   <play hasball="OM" down="3" togo="6" spot="OM45" context="V,3,6,V45" playid="21,6,195" type="P" first="P" tokens="PASS:10,C,1A,H46 TACK:12"
+      text="Chad Kelly pass complete to L. Treadwell for 9 yards to the MEM46, 1ST DOWN OM (LYNCH, Paxton)." newcontext="V,1,10,H46">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="L. Treadwell" gain="9"></p_pa>
+    <p_tk vh="H" name="LYNCH, Paxton"></p_tk>
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="MEM46" context="V,1,10,H46" playid="21,7,196" type="P" first="P" tokens="PASS:10,C,89,H34 TACK:39"
+      text="Chad Kelly pass complete to Taz Zettergren for 12 yards to the MEM34, 1ST DOWN OM (BALL, Reggis)." newcontext="V,1,10,H34">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="Taz Zettergren" gain="12"></p_pa>
+    <p_tk vh="H" name="BALL, Reggis"></p_tk>
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="MEM34" context="V,1,10,H34" playid="21,8,197" type="P" first="P" tokens="PASS:10,C,3A,H24 TACK:8"
+      text="Chad Kelly pass complete to D. Stringfellow for 10 yards to the MEM24, 1ST DOWN OM (MAULET, Arthur)." newcontext="V,1,10,H24">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="D. Stringfellow" gain="10"></p_pa>
+    <p_tk vh="H" name="MAULET, Arthur"></p_tk>
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="MEM24" context="V,1,10,H24" playid="21,9,198" type="P" first="P" tokens="PASS:10,C,11,H14 TACK:10"
+      text="Chad Kelly pass complete to Markell Pack for 10 yards to the MEM14, 1ST DOWN OM (NELSON, D)." newcontext="V,1,10,H14">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="Markell Pack" gain="10"></p_pa>
+    <p_tk vh="H" name="NELSON, D"></p_tk>
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="MEM14" context="V,1,10,H14" playid="21,10,199" type="P" tokens="PASS:10,C,1A,H06 TACK:10"
+      text="Chad Kelly pass complete to L. Treadwell for 8 yards to the MEM6 (NELSON, D)." newcontext="V,2,2,H06">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="L. Treadwell" gain="8"></p_pa>
+    <p_tk vh="H" name="NELSON, D"></p_tk>
+   </play>
+   <play hasball="OM" down="2" togo="2" spot="MEM06" context="V,2,2,H06" playid="21,11,200" type="P" tokens="PASS:10,C,1A,H07 TACK:6,15"
+      text="Chad Kelly pass complete to L. Treadwell for loss of 1 yard to the MEM7 (AVERY, Genard;JOHNSON, C)." newcontext="V,3,3,H07">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="L. Treadwell" gain="-1"></p_pa>
+    <p_tk vh="H" name="AVERY, Genard" assist="Y"></p_tk>
+    <p_tk vh="H" name="JOHNSON, C" assist="Y"></p_tk>
+   </play>
+   <play hasball="OM" down="3" togo="3" spot="MEM07" context="V,3,3,H07" playid="21,12,201" type="P" tokens="PASS:10,I,17,*"
+      text="Chad Kelly pass incomplete to Evan Engram." newcontext="V,4,3,H07">
+    <p_pa vh="V" qb="Chad Kelly" result="INC" rcv="Evan Engram"></p_pa>
+   </play>
+   <play hasball="OM" down="4" togo="3" spot="MEM07" context="V,4,3,H07" playid="21,13,202" type="F" score="Y" vscore="24" hscore="31" clock="00:16" tokens="FGA:97,24,G T:00:16"
+      text="Gary Wunderlich field goal attempt from 24 GOOD, clock 00:16." newcontext="V,1,0,V35">
+    <p_fg vh="V" name="Gary Wunderlich" distance="24" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="24" H="31"></score>
+   <drivesum plays="12" yards="77" top="3:44" driveindex="21" complete="Y"></drivesum>
+   <play hasball="OM" down="1" togo="0" spot="OM35" context="V,1,0,V35" playid="21,14,203" type="K" tokens="KO:91,H00 TB:"
+      text="Nathan Noble kickoff 65 yards to the MEM0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Nathan Noble" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,00:16" vh="H" spot="H25" clock="00:16" driveindex="22,203"></drivestart>
+   <play hasball="MEM" down="1" togo="10" spot="MEM25" context="H,1,10,H25" playid="22,1,204" clock="00:16" tokens="{DRIVE}:00:16"
+      text="MEMPHIS drive start at 00:16." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="MEM25" context="H,1,10,H25" playid="22,2,205" type="P" tokens="PASS:12,C,19,H34 TACK:38"
+      text="LYNCH, Paxton pass complete to OGLESBY, J for 9 yards to the MEM34 (Mike Hilton)." newcontext="H,2,1,H34">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="OGLESBY, J" gain="9"></p_pa>
+    <p_tk vh="V" name="Mike Hilton"></p_tk>
+   </play>
+   <score qtr="3" V="24" H="31"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="OM">
+    <firstdowns no="8" rush="1" pass="7" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="05:29"></misc>
+    <rush att="3" yds="20" gain="20" loss="0" td="0" long="0"></rush>
+    <pass comp="12" att="16" int="0" yds="130" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="12" yds="130" td="1" long="0"></rcv>
+    <punt no="1" yds="46" long="5" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="46.0"></punt>
+    <ko no="3" yds="195" ob="0" tb="2"></ko>
+    <fg made="1" att="1" long="24" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="13" tacka="10" tot_tack="23" tflua="1" tfla="6" tflyds="24" sacks="0" sackyds="0" brup="1"></defense>
+    <kr no="1" yds="19" td="0" long="15"></kr>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="MEM">
+    <firstdowns no="8" rush="1" pass="7" penalty="0"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="4" thirdatt="6" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:31"></misc>
+    <rush att="7" yds="2" gain="25" loss="23" td="0" long="0"></rush>
+    <pass comp="13" att="17" int="0" yds="123" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="13" yds="123" td="1" long="0"></rcv>
+    <punt no="2" yds="78" long="15" blkd="0" tb="0" fc="2" plus50="0" inside20="1" avg="39.0"></punt>
+    <ko no="1" yds="65" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="13" tacka="4" tot_tack="17" tflua="0" tfla="2" tflyds="1" sacks="0" sackyds="0" brup="1"></defense>
+    <kr no="1" yds="18" td="0" long="0"></kr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="MEM" down="2" togo="1" spot="MEM34" context="H,2,1,H34" playid="22,3,206" type="#" clock="15:00" tokens="Q:4 T:15:00"
+      text="Start of 4th quarter, clock 15:00." newcontext="H,2,1,H34">
+   </play>
+   <play hasball="MEM" down="2" togo="1" spot="MEM34" context="H,2,1,H34" playid="22,4,207" type="R" tokens="RUSH:11,H33, TACK:31"
+      text="CRAFT, Sam rush for loss of 1 yard to the MEM33 (DeMarquis Gates)." newcontext="H,3,2,H33">
+    <p_ru vh="H" name="CRAFT, Sam" gain="-1"></p_ru>
+    <p_tk vh="V" name="DeMarquis Gates"></p_tk>
+   </play>
+   <play hasball="MEM" down="3" togo="2" spot="MEM33" context="H,3,2,H33" playid="22,5,208" type="R" tokens="RUSH:12,H33, TACK:9B"
+      text="LYNCH, Paxton rush for no gain to the MEM33 (Breeland Speaks)." newcontext="H,4,2,H33">
+    <p_ru vh="H" name="LYNCH, Paxton" gain="0"></p_ru>
+    <p_tk vh="V" name="Breeland Speaks"></p_tk>
+   </play>
+   <play hasball="MEM" down="4" togo="2" spot="MEM33" context="H,4,2,H33" playid="22,6,209" type="U" tokens="PUNT:36,V18 RET:16,V18 TACK:39"
+      text="SMITH, Spencer punt 49 yards to the OM18, Collins Moore return 0 yards to the OM18 (BALL, Reggis)." newcontext="V,1,10,V18">
+    <p_pu vh="H" name="SMITH, Spencer" gain="49" in20="Y"></p_pu>
+    <p_pr vh="V" name="Collins Moore" gain="0"></p_pr>
+    <p_tk vh="H" name="BALL, Reggis"></p_tk>
+   </play>
+   <drivesum plays="3" yards="8" top="1:27" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="V,V18,13:49" vh="V" spot="V18" clock="13:49" driveindex="23,209"></drivestart>
+   <play hasball="OM" down="1" togo="10" spot="OM18" context="V,1,10,V18" playid="23,1,210" clock="13:49" tokens="{DRIVE}:13:49"
+      text="OLE MISS drive start at 13:49." newcontext="V,1,10,V18">
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="OM18" context="V,1,10,V18" playid="23,2,211" type="P" tokens="PASS:10,C,88,V20 OB: TACK:17"
+      text="Chad Kelly pass complete to Cody Core for 2 yards to the OM20, out-of-bounds (MORLEY, Chris)." ob="Y" newcontext="V,2,8,V20">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="Cody Core" gain="2"></p_pa>
+    <p_tk vh="H" name="MORLEY, Chris"></p_tk>
+   </play>
+   <play hasball="OM" down="2" togo="8" spot="OM20" context="V,2,8,V20" playid="23,3,212" type="R" tokens="RUSH:6A,V24, TACK:30"
+      text="Jaylen Walton rush for 4 yards to the OM24 (WHITE, Shareef)." newcontext="V,3,4,V24">
+    <p_ru vh="V" name="Jaylen Walton" gain="4"></p_ru>
+    <p_tk vh="H" name="WHITE, Shareef"></p_tk>
+   </play>
+   <play hasball="OM" down="3" togo="4" spot="OM24" context="V,3,4,V24" playid="23,4,213" type="P" tokens="PASS:10,I,17,*"
+      text="Chad Kelly pass incomplete to Evan Engram." newcontext="V,4,4,V24">
+    <p_pa vh="V" qb="Chad Kelly" result="INC" rcv="Evan Engram"></p_pa>
+   </play>
+   <play hasball="OM" down="4" togo="4" spot="OM24" context="V,4,4,V24" playid="23,5,214" type="U" tokens="PUNT:9G,H40 FC:18"
+      text="Will Gleeson punt 36 yards to the MEM40, fair catch by PROCTOR, R." newcontext="H,1,10,H40">
+    <p_pu vh="V" name="Will Gleeson" gain="36" fc="PROCTOR, R"></p_pu>
+   </play>
+   <drivesum plays="3" yards="6" top="1:17" driveindex="23" complete="Y"></drivesum>
+   <drivestart poss="H,H40,12:32" vh="H" spot="H40" clock="12:32" driveindex="24,214"></drivestart>
+   <play hasball="MEM" down="1" togo="10" spot="MEM40" context="H,1,10,H40" playid="24,1,215" clock="12:32" tokens="{DRIVE}:12:32"
+      text="MEMPHIS drive start at 12:32." newcontext="H,1,10,H40">
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="MEM40" context="H,1,10,H40" playid="24,2,216" type="P" tokens="PASS:12,B,40,* BRUP:31"
+      text="LYNCH, Paxton pass incomplete to CROSS, Alan (DeMarquis Gates)." newcontext="H,2,10,H40">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="BRUP" rcv="CROSS, Alan"></p_pa>
+    <p_bu vh="V" name="DeMarquis Gates"></p_bu>
+   </play>
+   <play hasball="MEM" down="2" togo="10" spot="MEM40" context="H,2,10,H40" playid="24,3,217" type="P" first="P" tokens="PASS:12,C,3,V39 TACK:1F"
+      text="LYNCH, Paxton pass complete to MILLER, Anthony for 21 yards to the OM39, 1ST DOWN MEM (K. Webster)." newcontext="H,1,10,V39">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="MILLER, Anthony" gain="21"></p_pa>
+    <p_tk vh="V" name="K. Webster"></p_tk>
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="OM39" context="H,1,10,V39" playid="24,4,218" type="P" tokens="PASS:12,I,3,*"
+      text="LYNCH, Paxton pass incomplete to MILLER, Anthony." newcontext="H,2,10,V39">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="INC" rcv="MILLER, Anthony"></p_pa>
+   </play>
+   <play hasball="MEM" down="2" togo="10" spot="OM39" context="H,2,10,V39" playid="24,5,219" type="R" tokens="RUSH:28,V33, TACK:27"
+      text="DORCEUS, D rush for 6 yards to the OM33 (Marquis Haynes)." newcontext="H,3,4,V33">
+    <p_ru vh="H" name="DORCEUS, D" gain="6"></p_ru>
+    <p_tk vh="V" name="Marquis Haynes"></p_tk>
+   </play>
+   <play hasball="MEM" down="3" togo="4" spot="OM33" context="H,3,4,V33" playid="24,6,220" type="P" first="P" tokens="PASS:12,C,3,V25 TACK:7B"
+      text="LYNCH, Paxton pass complete to MILLER, Anthony for 8 yards to the OM25, 1ST DOWN MEM (Trae Elston)." newcontext="H,1,10,V25">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="MILLER, Anthony" gain="8"></p_pa>
+    <p_tk vh="V" name="Trae Elston"></p_tk>
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="OM25" context="H,1,10,V25" playid="24,7,221" type="P" tokens="PASS:12,C,19,V23 TACK:38"
+      text="LYNCH, Paxton pass complete to OGLESBY, J for 2 yards to the OM23 (Mike Hilton)." newcontext="H,2,8,V23">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="OGLESBY, J" gain="2"></p_pa>
+    <p_tk vh="V" name="Mike Hilton"></p_tk>
+   </play>
+   <play hasball="MEM" down="2" togo="8" spot="OM23" context="H,2,8,V23" playid="24,8,222" type="R" tokens="RUSH:28,V19, TACK:31"
+      text="DORCEUS, D rush for 4 yards to the OM19 (DeMarquis Gates)." newcontext="H,3,4,V19">
+    <p_ru vh="H" name="DORCEUS, D" gain="4"></p_ru>
+    <p_tk vh="V" name="DeMarquis Gates"></p_tk>
+   </play>
+   <play hasball="MEM" down="3" togo="4" spot="OM19" context="H,3,4,V19" playid="24,9,223" type="P" tokens="PASS:12,I,TM,* QBH:V,27"
+      text="LYNCH, Paxton pass incomplete, QB hurry by Marquis Haynes." newcontext="H,4,4,V19">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="INC"></p_pa>
+    <p_qbh vh="V" name="Marquis Haynes"></p_qbh>
+   </play>
+   <play hasball="MEM" down="4" togo="4" spot="OM19" context="H,4,4,V19" playid="24,10,224" type="E" tokens="PEN:H,DG,A,TM,V24,N"
+      text="PENALTY MEM delay of game 5 yards to the OM24." newcontext="H,4,9,V24">
+    <p_pn vh="H" code="DG" type="delay of game" result="ACCEPT" at="V19" yards="5"></p_pn>
+   </play>
+   <play hasball="MEM" down="4" togo="9" spot="OM24" context="H,4,9,V24" playid="24,11,225" type="F" score="Y" vscore="24" hscore="34" clock="09:44" tokens="FGA:46,42,G T:09:44"
+      text="ELLIOTT, Jake field goal attempt from 42 GOOD, clock 09:44." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="ELLIOTT, Jake" distance="42" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="24" H="34"></score>
+   <drivesum plays="9" yards="36" top="2:48" driveindex="24" complete="Y"></drivesum>
+   <play hasball="MEM" down="1" togo="0" spot="MEM35" context="H,1,0,H35" playid="24,12,226" type="K" tokens="KO:46,V00 TB:"
+      text="ELLIOTT, Jake kickoff 65 yards to the OM0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="ELLIOTT, Jake" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,09:44" vh="V" spot="V25" clock="09:44" driveindex="25,226"></drivestart>
+   <play hasball="OM" down="1" togo="10" spot="OM25" context="V,1,10,V25" playid="25,1,227" clock="09:44" tokens="{DRIVE}:09:44"
+      text="OLE MISS drive start at 09:44." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="OM25" context="V,1,10,V25" playid="25,2,228" type="P" first="P" tokens="PASS:10,C,8A,H49 TACK:17"
+      text="Chad Kelly pass complete to Q. Adeboyejo for 26 yards to the MEM49, 1ST DOWN OM (MORLEY, Chris)." newcontext="V,1,10,H49">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="Q. Adeboyejo" gain="26"></p_pa>
+    <p_tk vh="H" name="MORLEY, Chris"></p_tk>
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="MEM49" context="V,1,10,H49" playid="25,3,229" type="R" tokens="RUSH:22,H50, TACK:17"
+      text="Jordan Wilkins rush for loss of 1 yard to the 50 yardline (MORLEY, Chris)." newcontext="V,2,11,V50">
+    <p_ru vh="V" name="Jordan Wilkins" gain="-1"></p_ru>
+    <p_tk vh="H" name="MORLEY, Chris"></p_tk>
+   </play>
+   <play hasball="OM" down="2" togo="11" spot="OM50" context="V,2,11,V50" playid="25,4,230" type="P" tokens="PASS:10,I,1A,*"
+      text="Chad Kelly pass incomplete to L. Treadwell." newcontext="V,3,11,V50">
+    <p_pa vh="V" qb="Chad Kelly" result="INC" rcv="L. Treadwell"></p_pa>
+   </play>
+   <play hasball="OM" down="3" togo="11" spot="OM50" context="V,3,11,V50" playid="25,5,231" type="P" tokens="PASS:10,I,88,*"
+      text="Chad Kelly pass incomplete to Cody Core." newcontext="V,4,11,V50">
+    <p_pa vh="V" qb="Chad Kelly" result="INC" rcv="Cody Core"></p_pa>
+   </play>
+   <play hasball="OM" down="4" togo="11" spot="OM50" context="V,4,11,V50" playid="25,6,232" type="U" tokens="PUNT:9G,H21 FC:18"
+      text="Will Gleeson punt 29 yards to the MEM21, fair catch by PROCTOR, R." newcontext="H,1,10,H21">
+    <p_pu vh="V" name="Will Gleeson" gain="29" fc="PROCTOR, R"></p_pu>
+   </play>
+   <drivesum plays="4" yards="25" top="0:52" driveindex="25" complete="Y"></drivesum>
+   <drivestart poss="H,H21,08:52" vh="H" spot="H21" clock="08:52" driveindex="26,232"></drivestart>
+   <play hasball="MEM" down="1" togo="10" spot="MEM21" context="H,1,10,H21" playid="26,1,233" clock="08:52" tokens="{DRIVE}:08:52"
+      text="MEMPHIS drive start at 08:52." newcontext="H,1,10,H21">
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="MEM21" context="H,1,10,H21" playid="26,2,234" type="R" tokens="RUSH:11,H16, TACK:9B"
+      text="CRAFT, Sam rush for loss of 5 yards to the MEM16 (Breeland Speaks)." newcontext="H,2,15,H16">
+    <p_ru vh="H" name="CRAFT, Sam" gain="-5"></p_ru>
+    <p_tk vh="V" name="Breeland Speaks"></p_tk>
+   </play>
+   <play hasball="MEM" down="2" togo="15" spot="MEM16" context="H,2,15,H16" playid="26,3,235" type="P" tokens="PASS:12,C,5,H23 TACK:31"
+      text="LYNCH, Paxton pass complete to FRAZIER, Mose for 7 yards to the MEM23 (DeMarquis Gates)." newcontext="H,3,8,H23">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="FRAZIER, Mose" gain="7"></p_pa>
+    <p_tk vh="V" name="DeMarquis Gates"></p_tk>
+   </play>
+   <play hasball="MEM" down="3" togo="8" spot="MEM23" context="H,3,8,H23" playid="26,4,236" type="P" first="P" tokens="PASS:12,C,5,H33"
+      text="LYNCH, Paxton pass complete to FRAZIER, Mose for 10 yards to the MEM33, 1ST DOWN MEM." newcontext="H,1,10,H33">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="FRAZIER, Mose" gain="10"></p_pa>
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="MEM33" context="H,1,10,H33" playid="26,5,237" type="P" first="P" tokens="PASS:12,C,80,V50 TACK:3B"
+      text="LYNCH, Paxton pass complete to MONTIEL, Daniel for 17 yards to the 50 yardline, 1ST DOWN MEM (C.J. Hampton)." newcontext="H,1,10,H50">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="MONTIEL, Daniel" gain="17"></p_pa>
+    <p_tk vh="V" name="C.J. Hampton"></p_tk>
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="MEM50" context="H,1,10,H50" playid="26,6,238" type="R" tokens="RUSH:25,V48, TACK:31"
+      text="COOPER, Jarvis rush for 2 yards to the OM48 (DeMarquis Gates)." newcontext="H,2,8,V48">
+    <p_ru vh="H" name="COOPER, Jarvis" gain="2"></p_ru>
+    <p_tk vh="V" name="DeMarquis Gates"></p_tk>
+   </play>
+   <play hasball="MEM" down="2" togo="8" spot="OM48" context="H,2,8,V48" playid="26,7,239" type="R" tokens="RUSH:25,V42, TACK:38"
+      text="COOPER, Jarvis rush for 6 yards to the OM42 (Mike Hilton)." newcontext="H,3,2,V42">
+    <p_ru vh="H" name="COOPER, Jarvis" gain="6"></p_ru>
+    <p_tk vh="V" name="Mike Hilton"></p_tk>
+   </play>
+   <play hasball="MEM" down="3" togo="2" spot="OM42" context="H,3,2,V42" playid="26,8,240" type="R" first="R" tokens="RUSH:25,V37, TACK:3B"
+      text="COOPER, Jarvis rush for 5 yards to the OM37, 1ST DOWN MEM (C.J. Hampton)." newcontext="H,1,10,V37">
+    <p_ru vh="H" name="COOPER, Jarvis" gain="5"></p_ru>
+    <p_tk vh="V" name="C.J. Hampton"></p_tk>
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="OM37" context="H,1,10,V37" playid="26,9,241" type="P" tokens="PASS:12,C,5,V32 TACK:3B"
+      text="LYNCH, Paxton pass complete to FRAZIER, Mose for 5 yards to the OM32 (C.J. Hampton)." newcontext="H,2,5,V32">
+    <p_pa vh="H" qb="LYNCH, Paxton" result="COMP" rcv="FRAZIER, Mose" gain="5"></p_pa>
+    <p_tk vh="V" name="C.J. Hampton"></p_tk>
+   </play>
+   <play hasball="MEM" down="2" togo="5" spot="OM32" context="H,2,5,V32" playid="26,10,242" type="#" clock="04:40" tokens="TOUT:V T:04:40"
+      text="Timeout Ole Miss, clock 04:40." newcontext="H,2,5,V32">
+    <p_to vh="V" team="Ole Miss"></p_to>
+   </play>
+   <play hasball="MEM" down="2" togo="5" spot="OM32" context="H,2,5,V32" playid="26,11,243" type="R" first="R" tokens="RUSH:25,V23, TACK:3B,20"
+      text="COOPER, Jarvis rush for 9 yards to the OM23, 1ST DOWN MEM (C.J. Hampton;C. Russell)." newcontext="H,1,10,V23">
+    <p_ru vh="H" name="COOPER, Jarvis" gain="9"></p_ru>
+    <p_tk vh="V" name="C.J. Hampton" assist="Y"></p_tk>
+    <p_tk vh="V" name="C. Russell" assist="Y"></p_tk>
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="OM23" context="H,1,10,V23" playid="26,12,244" type="R" tokens="RUSH:25,V18, TACK:47,6B"
+      text="COOPER, Jarvis rush for 5 yards to the OM18 (John Youngblood;Fadol Brown)." newcontext="H,2,5,V18">
+    <p_ru vh="H" name="COOPER, Jarvis" gain="5"></p_ru>
+    <p_tk vh="V" name="John Youngblood" assist="Y"></p_tk>
+    <p_tk vh="V" name="Fadol Brown" assist="Y"></p_tk>
+   </play>
+   <play hasball="MEM" down="2" togo="5" spot="OM18" context="H,2,5,V18" playid="26,13,245" type="R" tokens="RUSH:25,V16, TACK:20"
+      text="COOPER, Jarvis rush for 2 yards to the OM16 (C. Russell)." newcontext="H,3,3,V16">
+    <p_ru vh="H" name="COOPER, Jarvis" gain="2"></p_ru>
+    <p_tk vh="V" name="C. Russell"></p_tk>
+   </play>
+   <play hasball="MEM" down="3" togo="3" spot="OM16" context="H,3,3,V16" playid="26,14,246" type="#" clock="03:18" tokens="TOUT:V T:03:18"
+      text="Timeout Ole Miss, clock 03:18." newcontext="H,3,3,V16">
+    <p_to vh="V" team="Ole Miss"></p_to>
+   </play>
+   <play hasball="MEM" down="3" togo="3" spot="OM16" context="H,3,3,V16" playid="26,15,247" type="R" first="R" tokens="RUSH:11,V08, TACK:1F"
+      text="CRAFT, Sam rush for 8 yards to the OM8, 1ST DOWN MEM (K. Webster)." newcontext="H,1,0,V08">
+    <p_ru vh="H" name="CRAFT, Sam" gain="8"></p_ru>
+    <p_tk vh="V" name="K. Webster"></p_tk>
+   </play>
+   <play hasball="MEM" down="1" togo="0" spot="OM08" context="H,1,0,V08" playid="26,16,248" type="E" tokens="PEN:H,FS,A,80,V13,N"
+      text="PENALTY MEM false start (MONTIEL, Daniel) 5 yards to the OM13." newcontext="H,1,0,V13">
+    <p_pn vh="H" code="FS" type="false start" name="MONTIEL, Daniel" result="ACCEPT" at="V08" yards="5"></p_pn>
+   </play>
+   <play hasball="MEM" down="1" togo="0" spot="OM13" context="H,1,0,V13" playid="26,17,249" type="R" tokens="RUSH:25,V11, OB: TACK:2C,7B"
+      text="COOPER, Jarvis rush for 2 yards to the OM11, out-of-bounds (Terry Caldwell;Trae Elston)." ob="Y" newcontext="H,2,0,V11">
+    <p_ru vh="H" name="COOPER, Jarvis" gain="2"></p_ru>
+    <p_tk vh="V" name="Terry Caldwell" assist="Y"></p_tk>
+    <p_tk vh="V" name="Trae Elston" assist="Y"></p_tk>
+   </play>
+   <play hasball="MEM" down="2" togo="0" spot="OM11" context="H,2,0,V11" playid="26,18,250" type="E" tokens="PEN:H,FS,A,TM,V16,N"
+      text="PENALTY MEM false start 5 yards to the OM16." newcontext="H,2,0,V16">
+    <p_pn vh="H" code="FS" type="false start" result="ACCEPT" at="V11" yards="5"></p_pn>
+   </play>
+   <play hasball="MEM" down="2" togo="0" spot="OM16" context="H,2,0,V16" playid="26,19,251" type="R" tokens="RUSH:12,V13, TACK:31"
+      text="LYNCH, Paxton rush for 3 yards to the OM13 (DeMarquis Gates)." newcontext="H,3,0,V13">
+    <p_ru vh="H" name="LYNCH, Paxton" gain="3"></p_ru>
+    <p_tk vh="V" name="DeMarquis Gates"></p_tk>
+   </play>
+   <play hasball="MEM" down="3" togo="0" spot="OM13" context="H,3,0,V13" playid="26,20,252" type="#" clock="01:44" tokens="TOUT:V T:01:44"
+      text="Timeout Ole Miss, clock 01:44." newcontext="H,3,0,V13">
+    <p_to vh="V" team="Ole Miss"></p_to>
+   </play>
+   <play hasball="MEM" down="3" togo="0" spot="OM13" context="H,3,0,V13" playid="26,21,253" type="R" tokens="RUSH:25,V09, TACK:27"
+      text="COOPER, Jarvis rush for 4 yards to the OM9 (Marquis Haynes)." newcontext="H,4,0,V09">
+    <p_ru vh="H" name="COOPER, Jarvis" gain="4"></p_ru>
+    <p_tk vh="V" name="Marquis Haynes"></p_tk>
+   </play>
+   <play hasball="MEM" down="4" togo="0" spot="OM09" context="H,4,0,V09" playid="26,22,254" type="#" clock="00:58" tokens="TOUT:H T:00:58"
+      text="Timeout Memphis, clock 00:58." newcontext="H,4,0,V09">
+    <p_to vh="H" team="Memphis"></p_to>
+   </play>
+   <play hasball="MEM" down="4" togo="0" spot="OM09" context="H,4,0,V09" playid="26,23,255" type="F" score="Y" vscore="24" hscore="37" clock="00:55" tokens="FGA:46,27,G T:00:55"
+      text="ELLIOTT, Jake field goal attempt from 27 GOOD, clock 00:55." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="ELLIOTT, Jake" distance="27" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="24" H="37"></score>
+   <drivesum plays="16" yards="70" top="7:57" driveindex="26" complete="Y"></drivesum>
+   <play hasball="MEM" down="1" togo="0" spot="MEM35" context="H,1,0,H35" playid="26,24,256" type="K" tokens="KO:46,V00 TB:"
+      text="ELLIOTT, Jake kickoff 65 yards to the OM0, touchback." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="ELLIOTT, Jake" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V25,00:55" vh="V" spot="V25" clock="00:55" driveindex="27,256"></drivestart>
+   <play hasball="OM" down="1" togo="10" spot="OM25" context="V,1,10,V25" playid="27,1,257" clock="00:55" tokens="{DRIVE}:00:55"
+      text="OLE MISS drive start at 00:55." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="OM25" context="V,1,10,V25" playid="27,2,258" type="P" tokens="PASS:10,S,TM,V20 SACK:15"
+      text="Chad Kelly sacked for loss of 5 yards to the OM20 (JOHNSON, C)." newcontext="V,2,15,V20">
+    <p_pa vh="V" qb="Chad Kelly" result="SACK" gain="-5"></p_pa>
+    <p_tk vh="H" name="JOHNSON, C" sack="Y"></p_tk>
+   </play>
+   <play hasball="OM" down="2" togo="15" spot="OM20" context="V,2,15,V20" playid="27,3,259" type="P" tokens="PASS:10,C,1A,V33 OB: TACK:16"
+      text="Chad Kelly pass complete to L. Treadwell for 13 yards to the OM33, out-of-bounds (McMANIS, Wynton)." ob="Y" newcontext="V,3,2,V33">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="L. Treadwell" gain="13"></p_pa>
+    <p_tk vh="H" name="McMANIS, Wynton"></p_tk>
+   </play>
+   <play hasball="OM" down="3" togo="2" spot="OM33" context="V,3,2,V33" playid="27,4,260" type="P" first="P" tokens="PASS:10,C,3A,H46 TACK:8"
+      text="Chad Kelly pass complete to D. Stringfellow for 21 yards to the MEM46, 1ST DOWN OM (MAULET, Arthur)." newcontext="V,1,10,H46">
+    <p_pa vh="V" qb="Chad Kelly" result="COMP" rcv="D. Stringfellow" gain="21"></p_pa>
+    <p_tk vh="H" name="MAULET, Arthur"></p_tk>
+   </play>
+   <play hasball="OM" down="1" togo="10" spot="MEM46" context="V,1,10,H46" playid="27,5,261" type="P" tokens="PASS:10,I,8A,*"
+      text="Chad Kelly pass incomplete to Q. Adeboyejo." newcontext="V,2,10,H46">
+    <p_pa vh="V" qb="Chad Kelly" result="INC" rcv="Q. Adeboyejo"></p_pa>
+   </play>
+   <play hasball="OM" down="2" togo="10" spot="MEM46" context="V,2,10,H46" playid="27,6,262" type="P" turnover="I" tokens="PASS:10,X,8,H28 RET:8,H40"
+      text="Chad Kelly pass intercepted by MAULET, Arthur at the MEM28, MAULET, Arthur return 12 yards to the MEM40." newcontext="H,1,10,H40">
+    <p_pa vh="V" qb="Chad Kelly" result="INT"></p_pa>
+    <p_ir vh="H" name="MAULET, Arthur" at="H28" gain="12"></p_ir>
+   </play>
+   <drivesum plays="5" yards="29" top="0:47" driveindex="27" complete="Y"></drivesum>
+   <drivestart poss="H,H40,00:08" vh="H" spot="H40" clock="00:08" driveindex="28,262"></drivestart>
+   <play hasball="MEM" down="1" togo="10" spot="MEM40" context="H,1,10,H40" playid="28,1,263" clock="00:08" tokens="{DRIVE}:00:08"
+      text="MEMPHIS drive start at 00:08." newcontext="H,1,10,H40">
+   </play>
+   <play hasball="MEM" down="1" togo="10" spot="MEM40" context="H,1,10,H40" playid="28,2,264" type="R" tokens="RUSH:TM,H38,"
+      text="TEAM rush for loss of 2 yards to the MEM38." newcontext="H,2,12,H38">
+    <p_ru vh="H" name="TEAM" gain="-2"></p_ru>
+   </play>
+   <play hasball="MEM" down="2" togo="12" spot="MEM38" context="H,2,12,H38" playid="28,3,265" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of game, clock 00:00." newcontext="H,2,12,H38">
+   </play>
+   <drivesum plays="1" yards="-2" top="0:08" driveindex="28" complete="Y"></drivesum>
+   <score final="Y" V="24" H="37"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="OM">
+    <firstdowns no="2" rush="0" pass="2" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="02:56"></misc>
+    <rush att="3" yds="-2" gain="4" loss="6" td="0" long="0"></rush>
+    <pass comp="4" att="9" int="1" yds="62" td="0" long="0" sacks="1" sackyds="5"></pass>
+    <rcv no="4" yds="62" td="0" long="0"></rcv>
+    <punt no="2" yds="65" long="0" blkd="0" tb="0" fc="2" plus50="0" inside20="0" avg="32.5"></punt>
+    <defense tackua="18" tacka="6" tot_tack="24" tflua="2" tfla="0" tflyds="6" sacks="0" sackyds="0" brup="1" qbh="1"></defense>
+    <pr no="1" yds="0" td="0" long="0"></pr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="MEM">
+    <firstdowns no="7" rush="3" pass="4" penalty="0"></firstdowns>
+    <penalties no="3" yds="15"></penalties>
+    <conversions thirdconv="4" thirdatt="7" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="12:04"></misc>
+    <rush att="16" yds="48" gain="56" loss="8" td="0" long="0"></rush>
+    <pass comp="7" att="10" int="0" yds="70" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="7" yds="70" td="0" long="0"></rcv>
+    <punt no="1" yds="49" long="2" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="49.0"></punt>
+    <ko no="2" yds="130" ob="0" tb="2"></ko>
+    <fg made="2" att="2" long="19" blkd="0"></fg>
+    <defense tackua="8" tacka="0" tot_tack="8" tflua="2" tfla="0" tflyds="6" sacks="1" sackyds="5" int="1" intyds="12"></defense>
+    <ir no="1" yds="12" td="0" long="0"></ir>
+    <scoring fg="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="MEM" down="2" togo="12" spot="MEM38" context="H,2,12,H38" qtr="4" clock="00:00" vtoh="3" htoh="1"
+       lastplay="End of game, clock 00:00."></downtogo>
+ </plays>
+ <message text=""></message>
+ <dnp vh="V" id="OM">
+  <player name="Kailo Moore" checkname="MOORE,KAILO" uni="1K" class="JR" gp="0" code="1K"></player>
+  <player name="Will Easter" checkname="EASTER,WILL" uni="1E" class="JR" gp="0" code="1E"></player>
+  <player name="Drew Davis" checkname="DAVIS,DREW" uni="1X" class="JR" gp="0" code="1X"></player>
+  <player name="C.J. Johnson" checkname="JOHNSON,CJ" uni="1J" class="SR" gp="0" code="1J"></player>
+  <player name="Van Jefferson" checkname="JEFFERSON,VAN" uni="1V" class="FR" gp="0" code="1V"></player>
+  <player name="Eric Swinney" checkname="SWINNEY,ERIC" uni="2E" class="FR" gp="0" code="2E"></player>
+  <player name="DeVante Kincade" checkname="KINCADE,DEVANTE" uni="2A" class="SO" gp="0" code="2A"></player>
+  <player name="Ray Ray Smith" checkname="SMITH,RAY RAY" uni="2S" class="SO" gp="0" code="2S"></player>
+  <player name="Tee Shepard" checkname="SHEPARD,TEE" uni="2B" class="JR" gp="0" code="2B"></player>
+  <player name="J. Rattliffe" checkname="RATTLIFFE,J" uni="2R" class="FR" gp="0" code="2R"></player>
+  <player name="Josh Johnson" checkname="JOHNSON,JOSH" uni="3F" class="SO" gp="0" code="3F"></player>
+  <player name="Justin Anderson" checkname="ANDERSON,JUSTIN" uni="3J" class="SO" gp="0" code="3J"></player>
+  <player name="J-P Sherling" checkname="SHERLING,J-P" uni="3S" class="SO" gp="0" code="3S"></player>
+  <player name="DaMarkus Lodge" checkname="LODGE,DAMARKUS" uni="7A" class="FR" gp="0" code="7A"></player>
+  <player name="Ross Donelly" checkname="DONELLY,ROSS" uni="9D" class="FR" gp="0" code="9D"></player>
+  <player name="Tony Conner" checkname="CONNER,TONY" uni="12" class="JR" gp="0" code="12"></player>
+  <player name="Eugene Brazley" checkname="BRAZLEY,EUGENE" uni="13" class="SO" gp="0" code="13"></player>
+  <player name="Victor Evans" checkname="EVANS,VICTOR" uni="14" class="FR" gp="0" code="14"></player>
+  <player name="Brandon Bell" checkname="BELL,BRANDON" uni="29" class="JR" gp="0" code="29"></player>
+  <player name="N. Vanderburg" checkname="VANDERBURG,N" uni="33" class="SO" gp="0" code="33"></player>
+  <player name="Martin Johnson" checkname="JOHNSON,MARTIN" uni="39" class="JR" gp="0" code="39"></player>
+  <player name="G. McDowell" checkname="MCDOWELL,G" uni="42" class="FR" gp="0" code="42"></player>
+  <player name="Ty Quick" checkname="QUICK,TY" uni="43" class="SO" gp="0" code="43"></player>
+  <player name="Tyler Putman" checkname="PUTMAN,TYLER" uni="55" class="FR" gp="0" code="55"></player>
+  <player name="Chadwick Lamar" checkname="LAMAR,CHADWICK" uni="57" class="FR" gp="0" code="57"></player>
+  <player name="Jacob Feeley" checkname="FEELEY,JACOB" uni="63" class="JR" gp="0" code="63"></player>
+  <player name="Robert Conyers" checkname="CONYERS,ROBERT" uni="75" class="JR" gp="0" code="75"></player>
+  <player name="Talbot Buys" checkname="BUYS,TALBOT" uni="77" class="JR" gp="0" code="77"></player>
+  <player name="Laremy Tunsil" checkname="TUNSIL,LAREMY" uni="78" class="JR" gp="0" code="78"></player>
+  <player name="Elliot Markuson" checkname="MARKUSON,ELLIOT" uni="80" class="SO" gp="0" code="80"></player>
+  <player name="Dylan Dyer" checkname="DYER,DYLAN" uni="82" class="SR" gp="0" code="82"></player>
+  <player name="Alex Weber" checkname="WEBER,ALEX" uni="85" class="FR" gp="0" code="85"></player>
+  <player name="Jordan Gallegos" checkname="GALLEGOS,JORDAN" uni="86" class="JR" gp="0" code="86"></player>
+  <player name="A. Pappanastos" checkname="PAPPANASTOS,A" uni="92" class="SO" gp="0" code="92"></player>
+  <player name="Issac Gross" checkname="GROSS,ISSAC" uni="94" class="SR" gp="0" code="94"></player>
+  <player name="Grant Warren" checkname="WARREN,GRANT" uni="98" class="SO" gp="0" code="98"></player>
+ </dnp>
+ <dnp vh="H" id="MEM">
+  <player name="HOLGORSEN, Clay" checkname="HOLGORSEN,CLAY" uni="1O" class="FR" gp="0" code="1O"></player>
+  <player name="JONES, Kedarian" checkname="JONES,KEDARIAN" uni="1E" class="FR" gp="0" code="1E"></player>
+  <player name="STEWART, Jason" checkname="STEWART,JASON" uni="1S" class="SR" gp="0" code="1S"></player>
+  <player name="LEE, Darius" checkname="LEE,DARIUS" uni="3H" class="SR" gp="0" code="3H"></player>
+  <player name="WIMS, Frank" checkname="WIMS,FRANK" uni="3S" class="JR" gp="0" code="3S"></player>
+  <player name="HOWARD, Devonte" checkname="HOWARD,DEVONTE" uni="4L" class="FR" gp="0" code="4L"></player>
+  <player name="WILKERSON, V" checkname="WILKERSON,V" uni="4G" class="FR" gp="0" code="4G"></player>
+  <player name="DAVIS, Robert" checkname="DAVIS,ROBERT" uni="4" class="SO" gp="0" code="4"></player>
+  <player name="SCOTT, Austin" checkname="SCOTT,AUSTIN" uni="5I" class="JR" gp="0" code="5I"></player>
+  <player name="DAVIS, Brady" checkname="DAVIS,BRADY" uni="7A" class="FR" gp="0" code="7A"></player>
+  <player name="AKINS, Curtis" checkname="AKINS,CURTIS" uni="7" class="FR" gp="0" code="7"></player>
+  <player name="COLLINS, Jamil" checkname="COLLINS,JAMIL" uni="9" class="SO" gp="0" code="9"></player>
+  <player name="PREWITT, Kam" checkname="PREWITT,KAM" uni="21" class="FR" gp="0" code="21"></player>
+  <player name="POLLARD, Tony" checkname="POLLARD,TONY" uni="22" class="FR" gp="0" code="22"></player>
+  <player name="WALLACE, T" checkname="WALLACE,T" uni="24" class="SO" gp="0" code="24"></player>
+  <player name="PORTER, Darian" checkname="PORTER,DARIAN" uni="29" class="SO" gp="0" code="29"></player>
+  <player name="YOUNG, Anthony" checkname="YOUNG,ANTHONY" uni="31" class="SO" gp="0" code="31"></player>
+  <player name="JORDAN, Deandre" checkname="JORDAN,DEANDRE" uni="43" class="SO" gp="0" code="43"></player>
+  <player name="NEVILLE, Jace" checkname="NEVILLE,JACE" uni="51" class="FR" gp="0" code="51"></player>
+  <player name="Belles, Tim" checkname="BELLES,TIM" uni="52" class="FR" gp="0" code="52"></player>
+  <player name="KARR, Alexander" checkname="KARR,ALEXANDER" uni="57" class="SO" gp="0" code="57"></player>
+  <player name="Williams, C" checkname="WILLIAMS,C" uni="60" class="FR" gp="0" code="60"></player>
+  <player name="MACK, Ryan" checkname="MACK,RYAN" uni="74" class="SR" gp="0" code="74"></player>
+  <player name="THOMAS, Nick" checkname="THOMAS,NICK" uni="78" class="FR" gp="0" code="78"></player>
+  <player name="SLADE, Mechane" checkname="SLADE,MECHANE" uni="81" class="FR" gp="0" code="81"></player>
+  <player name="HURD, Daniel" checkname="HURD,DANIEL" uni="83" class="SR" gp="0" code="83"></player>
+  <player name="McKILLION, Greg" checkname="MCKILLION,GREG" uni="85" class="JR" gp="0" code="85"></player>
+  <player name="MAGNIFICO, Joey" checkname="MAGNIFICO,JOEY" uni="86" class="FR" gp="0" code="86"></player>
+  <player name="CROSBY, Cortez" checkname="CROSBY,CORTEZ" uni="93" class="SO" gp="0" code="93"></player>
+  <player name="OUTING, Isadore" checkname="OUTING,ISADORE" uni="94" class="FR" gp="0" code="94"></player>
+  <player name="COOPER, E" checkname="COOPER,E" uni="97" class="FR" gp="0" code="97"></player>
+  <player name="GENTRY, Jared" checkname="GENTRY,JARED" uni="98" class="FR" gp="0" code="98"></player>
+ </dnp>
+ <longplays thresh="70">
+ </longplays>
+</fbgame>

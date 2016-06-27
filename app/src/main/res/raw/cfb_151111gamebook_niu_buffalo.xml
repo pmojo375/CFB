@@ -1,0 +1,1884 @@
+<fbgame source="Tas Football" version="4.16.07" generated="11/13/2015">
+ <venue gameid="NIU-UB" visid="NIU" homeid="UB" visname="Northern Illinois" homename="Buffalo"
+      date="11/11/2015" location="Buffalo, NY" stadium="UB Stadium"
+      start="8:00 pm" end="11:24 pm" leaguegame="Y" nitegame="Y"
+      duration="3:24" attend="17180" temp="45" wind="9SW" weather="Mostly Clear">
+  <officials ref="Greg Blum" ump="Brad Hudak" line="Robert Davis" lj="Jeff Meslow" bj="Todd Boyd" fj="Paul Sroka" sj="Gaylon Williams" cj="Kerry Ripley" alt="Kerry Ripley"></officials>
+  <rules qtrs="4" mins="15" downs="4" yds="10" kospot="35" tbspot="20" kotbspot="25" patspot="3" safspot="20" td="6" fg="3" pat="1" patx="2" saf="2" defpat="2" rouge="1" field="100" toh="3" sackrush="Y" fgaplay="Y" netpunttb="Y"></rules>
+ </venue>
+ <team vh="V" code="503" id="NIU" name="Northern Illinois" record="7-3" conf-record="5-1" abb="N">
+  <linescore prds="4" line="14,14,3,10" score="41">
+   <lineprd prd="1" score="14"></lineprd>
+   <lineprd prd="2" score="14"></lineprd>
+   <lineprd prd="3" score="3"></lineprd>
+   <lineprd prd="4" score="10"></lineprd>
+  </linescore>
+  <totals totoff_plays="91" totoff_yards="524" totoff_avg="5.8">
+   <firstdowns no="24" rush="16" pass="8" penalty="0"></firstdowns>
+   <penalties no="6" yds="59"></penalties>
+   <conversions thirdconv="6" thirdatt="19" fourthconv="3" fourthatt="4"></conversions>
+   <fumbles no="1" lost="1"></fumbles>
+   <misc yds="0" top="31:52" ona="0" onm="0" ptsto="7"></misc>
+   <redzone att="4" scores="4" points="24" tdrush="2" tdpass="1" fgmade="1" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="67" yds="334" gain="342" loss="8" td="3" long="58"></rush>
+   <pass comp="15" att="24" int="1" yds="190" td="2" long="68" sacks="1" sackyds="2"></pass>
+   <rcv no="15" yds="190" td="2" long="68"></rcv>
+   <punt no="5" yds="138" long="44" blkd="0" tb="0" fc="3" plus50="0" inside20="1" avg="27.6"></punt>
+   <ko no="8" yds="486" ob="1" tb="1"></ko>
+   <fg made="2" att="2" long="47" blkd="0"></fg>
+   <pat kickatt="5" kickmade="5"></pat>
+   <defense tackua="44" tacka="24" tot_tack="68" tflua="6" tfla="2" tflyds="28" sacks="2" sackyds="19" brup="3" qbh="3" blkd="1" int="3" intyds="5"></defense>
+   <kr no="6" yds="171" td="0" long="58"></kr>
+   <pr no="2" yds="11" td="0" long="6"></pr>
+   <ir no="3" yds="5" td="0" long="5"></ir>
+   <scoring td="5" fg="2" patkick="5"></scoring>
+  </totals>
+  <player name="SMALLS, Albert" shortname="SMALLS, Albert" checkname="SMALLS,ALBERT" uni="1" class="SO" gp="1" code="1"></player>
+  <player name="LURRY, Shawun" shortname="LURRY, Shawun" checkname="LURRY,SHAWUN" uni="1D" class="SO" gp="1" gs="1" dpos="CB" code="1D">
+   <defense tackua="6" tacka="2" tot_tack="8" int="1" intyds="0"></defense>
+   <ir no="1" yds="0" td="0" long="0"></ir>
+  </player>
+  <player name="ALLEN, Mycial" shortname="ALLEN, Mycial" checkname="ALLEN,MYCIAL" uni="2A" class="SO" gp="1" code="2A"></player>
+  <player name="MOORE, Marlon" shortname="MOORE, Marlon" checkname="MOORE,MARLON" uni="2" class="SR" gp="1" gs="1" dpos="FS" code="2">
+   <defense tackua="4" tacka="5" tot_tack="9" int="1" intyds="0"></defense>
+   <ir no="1" yds="0" td="0" long="0"></ir>
+  </player>
+  <player name="SAFFOLD, Ezra" shortname="SAFFOLD, Ezra" checkname="SAFFOLD,EZRA" uni="3" class="SO" gp="1" code="3"></player>
+  <player name="JONES, Bobby" shortname="JONES, Bobby" checkname="JONES,BOBBY" uni="6" class="SO" gp="1" code="6">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="MAXWELL, Desroy" shortname="MAXWELL, Desroy" checkname="MAXWELL,DESROY" uni="7" class="SR" gp="1" code="7"></player>
+  <player name="FLEMING, Ladell" shortname="FLEMING, Ladell" checkname="FLEMING,LADELL" uni="8" class="JR" gp="1" code="8"></player>
+  <player name="CAMPBELL, Elija" shortname="CAMPBELL, Elija" checkname="CAMPBELL,ELIJA" uni="9" class="JR" gp="1" code="9"></player>
+  <player name="LEWIS, Tommylee" shortname="LEWIS, Tommylee" checkname="LEWIS,TOMMYLEE" uni="10" class="SR" gp="1" gs="1" opos="WR" code="10"></player>
+  <player name="BRESCACIN, Juwa" shortname="BRESCACIN, Juwa" checkname="BRESCACIN,JUWA" uni="11" class="SR" gp="1" gs="1" opos="WR" code="11"></player>
+  <player name="AMBROSE, Jake" shortname="AMBROSE, Jake" checkname="AMBROSE,JAKE" uni="15" class="JR" gp="1" code="15">
+   <punt no="5" yds="138" long="44" blkd="0" tb="0" fc="3" plus50="0" inside20="1" avg="27.6"></punt>
+  </player>
+  <player name="CHEREN, Renard" shortname="CHEREN, Renard" checkname="CHEREN,RENARD" uni="16" class="FR" gp="1" gs="1" dpos="ROLB" code="16">
+   <defense tackua="2" tacka="0" tot_tack="2" tflua="1" tfla="0" tflyds="2"></defense>
+  </player>
+  <player name="GRAHAM, Ryan" shortname="GRAHAM, Ryan" checkname="GRAHAM,RYAN" uni="17" class="FR" gp="1" gs="1" opos="QB" code="17">
+   <rush att="18" yds="78" gain="80" loss="2" td="0" long="12"></rush>
+   <pass comp="15" att="24" int="1" yds="190" td="2" long="68" sacks="1" sackyds="2"></pass>
+   <fumbles no="1" lost="1"></fumbles>
+  </player>
+  <player name="BROWN, D.J." shortname="BROWN, D.J." checkname="BROWN,DJ" uni="18" class="FR" gp="1" code="18">
+   <kr no="1" yds="19" td="0" long="19"></kr>
+  </player>
+  <player name="GOLLADAY, Kenny" shortname="GOLLADAY, Kenny" checkname="GOLLADAY,KENNY" uni="19" class="JR" gp="1" code="19">
+   <rush att="1" yds="4" gain="4" loss="0" td="0" long="4"></rush>
+   <rcv no="6" yds="141" td="2" long="68"></rcv>
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+   <scoring td="2"></scoring>
+  </player>
+  <player name="JONES, Marcus" shortname="JONES, Marcus" checkname="JONES,MARCUS" uni="21" class="FR" gp="1" code="21">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="TURNER, Aregero" shortname="TURNER, Aregero" checkname="TURNER,AREGERO" uni="22" class="JR" gp="1" gs="1" opos="WR" code="22">
+   <rush att="4" yds="36" gain="36" loss="0" td="0" long="11"></rush>
+   <rcv no="9" yds="49" td="0" long="10"></rcv>
+   <kr no="5" yds="152" td="0" long="58"></kr>
+  </player>
+  <player name="HUFF, Jordan" shortname="HUFF, Jordan" checkname="HUFF,JORDAN" uni="23" class="SO" gp="1" code="23">
+   <rush att="12" yds="50" gain="52" loss="2" td="1" long="11"></rush>
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="MAYES, Brandon" shortname="MAYES, Brandon" checkname="MAYES,BRANDON" uni="24" class="SO" gp="1" gs="1" dpos="SS" code="24">
+   <defense tackua="7" tacka="1" tot_tack="8" tflua="1" tfla="0" tflyds="2" int="1" intyds="5"></defense>
+   <ir no="1" yds="5" td="0" long="5"></ir>
+  </player>
+  <player name="JOHNSON, Jawaun" shortname="JOHNSON, Jawaun" checkname="JOHNSON,JAWAUN" uni="27" class="FR" gp="1" code="27">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="BOUAGNON, Joel" shortname="BOUAGNON, Joel" checkname="BOUAGNON,JOEL" uni="28" class="JR" gp="1" gs="1" opos="RB" code="28">
+   <rush att="28" yds="156" gain="157" loss="1" td="2" long="58"></rush>
+   <scoring td="2"></scoring>
+  </player>
+  <player name="LOGAN, Paris" shortname="LOGAN, Paris" checkname="LOGAN,PARIS" uni="29" class="SR" gp="1" gs="1" dpos="CB" code="29">
+   <defense tackua="4" tacka="2" tot_tack="6" brup="2" qbh="1"></defense>
+  </player>
+  <player name="HUNT, Tifonte" shortname="HUNT, Tifonte" checkname="HUNT,TIFONTE" uni="30" class="FR" gp="1" code="30"></player>
+  <player name="BROOKS, Anthony" shortname="BROOKS, Anthony" checkname="BROOKS,ANTHONY" uni="31" class="JR" gp="1" code="31"></player>
+  <player name="PAYTON, Jamaal" shortname="PAYTON, Jamaal" checkname="PAYTON,JAMAAL" uni="33" class="JR" gp="1" code="33">
+   <defense tackua="2" tacka="2" tot_tack="4" tflua="0" tfla="1" tflyds="1"></defense>
+  </player>
+  <player name="HAGAN, Christia" shortname="HAGAN, Christia" checkname="HAGAN,CHRISTIA" uni="34" class="SO" gp="1" code="34">
+   <ko no="8" yds="486" ob="1" tb="1"></ko>
+   <fg made="2" att="2" long="47" blkd="0"></fg>
+   <pat kickatt="5" kickmade="5"></pat>
+   <scoring fg="2" patkick="5"></scoring>
+  </player>
+  <player name="WIMANN, Shane" shortname="WIMANN, Shane" checkname="WIMANN,SHANE" uni="35" class="SO" gp="1" code="35"></player>
+  <player name="STENDLER, Ryan" shortname="STENDLER, Ryan" checkname="STENDLER,RYAN" uni="39" class="SO" gp="1" code="39"></player>
+  <player name="FOLLIARD, Sean" shortname="FOLLIARD, Sean" checkname="FOLLIARD,SEAN" uni="40" class="JR" gp="1" gs="1" dpos="LOLB" code="40">
+   <defense tackua="0" tacka="5" tot_tack="5" tflua="0" tfla="1" tflyds="1"></defense>
+  </player>
+  <player name="SCHWAB, Alex" shortname="SCHWAB, Alex" checkname="SCHWAB,ALEX" uni="42" class="SO" gp="1" code="42">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="FORD, Perez" shortname="FORD, Perez" checkname="FORD,PEREZ" uni="44" class="SR" gp="1" gs="1" dpos="RE" code="44">
+   <defense tackua="3" tacka="0" tot_tack="3" tflua="1" tfla="0" tflyds="8" sackua="1" sacka="0" sackyds="8" qbh="1"></defense>
+  </player>
+  <player name="MAYS, Boomer" shortname="MAYS, Boomer" checkname="MAYS,BOOMER" uni="45" class="SR" gp="1" gs="1" dpos="MLB" code="45">
+   <defense tackua="2" tacka="4" tot_tack="6" tflua="1" tfla="0" tflyds="1" brup="1" qbh="1"></defense>
+  </player>
+  <player name="JONES-DAVIS, A" shortname="JONES-DAVIS, A" checkname="JONES-DAVIS,A" uni="48" class="FR" gp="1" code="48"></player>
+  <player name="SMAHA, Austin" shortname="SMAHA, Austin" checkname="SMAHA,AUSTIN" uni="50" class="JR" gp="1" code="50"></player>
+  <player name="CLINTON-EARL, C" shortname="CLINTON-EARL, C" checkname="CLINTON-EARL,C" uni="54" class="SR" gp="1" gs="1" dpos="LE" code="54">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="NESS, Andrew" shortname="NESS, Andrew" checkname="NESS,ANDREW" uni="55" class="SR" gp="1" gs="1" opos="C" code="55"></player>
+  <player name="COMPTON, Ben" shortname="COMPTON, Ben" checkname="COMPTON,BEN" uni="56" class="SR" gp="1" code="56">
+   <defense tackua="2" tacka="2" tot_tack="4" tflua="2" tfla="0" tflyds="13" sackua="1" sacka="0" sackyds="11" blkd="1"></defense>
+  </player>
+  <player name="CORCORAN, Josh" shortname="CORCORAN, Josh" checkname="CORCORAN,JOSH" uni="58" class="FR" gp="1" code="58">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="CONLON, Aidan" shortname="CONLON, Aidan" checkname="CONLON,AIDAN" uni="61" class="SR" gp="1" gs="1" opos="LG" code="61"></player>
+  <player name="SAK, Hayden" shortname="SAK, Hayden" checkname="SAK,HAYDEN" uni="63" class="FR" gp="1" code="63"></player>
+  <player name="RAMLET, Bobby" shortname="RAMLET, Bobby" checkname="RAMLET,BOBBY" uni="66" class="JR" gp="1" code="66"></player>
+  <player name="BROWN, Ron" shortname="BROWN, Ron" checkname="BROWN,RON" uni="68" class="JR" gp="1" code="68"></player>
+  <player name="THOMAS, Corey" shortname="THOMAS, Corey" checkname="THOMAS,COREY" uni="69" class="JR" gp="1" gs="1" dpos="NG" code="69"></player>
+  <player name="RUKA, Josh" shortname="RUKA, Josh" checkname="RUKA,JOSH" uni="70" class="JR" gp="1" gs="1" opos="RG" code="70"></player>
+  <player name="MYERS, Levon" shortname="MYERS, Levon" checkname="MYERS,LEVON" uni="71" class="JR" gp="1" gs="1" opos="LT" code="71"></player>
+  <player name="SCHARPING, Max" shortname="SCHARPING, Max" checkname="SCHARPING,MAX" uni="73" class="FR" gp="1" gs="1" opos="RT" code="73"></player>
+  <player name="HOWARD, Lincoln" shortname="HOWARD, Lincoln" checkname="HOWARD,LINCOLN" uni="74" class="JR" gp="1" code="74"></player>
+  <player name="BROWN, Dale" shortname="BROWN, Dale" checkname="BROWN,DALE" uni="76" class="FR" gp="1" code="76"></player>
+  <player name="GLASPER, Clay" shortname="GLASPER, Clay" checkname="GLASPER,CLAY" uni="81" class="JR" gp="1" code="81"></player>
+  <player name="BEEBE, Chad" shortname="BEEBE, Chad" checkname="BEEBE,CHAD" uni="82" class="JR" gp="1" gs="1" opos="WR" code="82">
+   <rush att="1" yds="13" gain="13" loss="0" td="0" long="13"></rush>
+   <pr no="2" yds="11" td="0" long="6"></pr>
+  </player>
+  <player name="LEE, William" shortname="LEE, William" checkname="LEE,WILLIAM" uni="90" class="SO" gp="1" code="90">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="JONES, Mario" shortname="JONES, Mario" checkname="JONES,MARIO" uni="92" class="JR" gp="1" gs="1" dpos="DT" code="92"></player>
+  <player name="DUNBAR, Ruben" shortname="DUNBAR, Ruben" checkname="DUNBAR,RUBEN" uni="95" class="SO" gp="1" code="95"></player>
+  <player name="TEAM" shortname="TEAM" checkname="TEAM" uni="TM" class="FR" gp="1" code="198">
+   <rush att="3" yds="-3" gain="0" loss="3" td="0" long="0"></rush>
+  </player>
+ </team>
+ <team vh="H" code="86" id="UB" name="Buffalo" record="5-5" conf-record="3-3" abb="U">
+  <linescore prds="4" line="3,0,13,14" score="30">
+   <lineprd prd="1" score="3"></lineprd>
+   <lineprd prd="2" score="0"></lineprd>
+   <lineprd prd="3" score="13"></lineprd>
+   <lineprd prd="4" score="14"></lineprd>
+  </linescore>
+  <totals totoff_plays="70" totoff_yards="432" totoff_avg="6.2">
+   <firstdowns no="23" rush="5" pass="15" penalty="3"></firstdowns>
+   <penalties no="5" yds="26"></penalties>
+   <conversions thirdconv="5" thirdatt="13" fourthconv="1" fourthatt="2"></conversions>
+   <fumbles no="0" lost="0"></fumbles>
+   <misc yds="0" top="28:08" ona="0" onm="0" ptsto="14"></misc>
+   <redzone att="3" scores="2" points="10" tdrush="0" tdpass="1" fgmade="1" endfga="1" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="23" yds="78" gain="107" loss="29" td="1" long="47"></rush>
+   <pass comp="31" att="47" int="3" yds="354" td="2" long="40" sacks="2" sackyds="19"></pass>
+   <rcv no="31" yds="354" td="2" long="40"></rcv>
+   <punt no="3" yds="107" long="40" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="35.7"></punt>
+   <ko no="6" yds="361" ob="0" tb="0"></ko>
+   <fg made="1" att="3" long="26" blkd="0"></fg>
+   <pat kickatt="4" kickmade="3"></pat>
+   <defense tackua="59" tacka="46" tot_tack="105" tflua="4" tfla="0" tflyds="6" sacks="1" sackyds="2" brup="2" ff="1" fr="1" fryds="0" int="1" intyds="68"></defense>
+   <kr no="6" yds="101" td="0" long="28"></kr>
+   <ir no="1" yds="68" td="1" long="68"></ir>
+   <scoring td="4" fg="1" patkick="3"></scoring>
+  </totals>
+  <player name="ROSS, Boise" shortname="ROSS, Boise" checkname="ROSS,BOISE" uni="1A" class="JR" gp="1" gs="1" dpos="CB" code="1A">
+   <defense tackua="3" tacka="0" tot_tack="3" brup="1"></defense>
+  </player>
+  <player name="HARGROVE, ISHMA" shortname="HARGROVE, ISHMA" checkname="HARGROVE,ISHMA" uni="1H" class="SO" gp="1" code="1H">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="TAYLOR, Anthone" shortname="TAYLOR, Anthone" checkname="TAYLOR,ANTHONE" uni="1" class="SR" gp="1" gs="1" opos="RB" code="1">
+   <rush att="12" yds="33" gain="36" loss="3" td="0" long="11"></rush>
+   <rcv no="2" yds="21" td="0" long="15"></rcv>
+   <kr no="1" yds="13" td="0" long="13"></kr>
+  </player>
+  <player name="JOHNSON, Jordan" shortname="JOHNSON, Jordan" checkname="JOHNSON,JORDAN" uni="2" class="JR" gp="1" code="2">
+   <rush att="6" yds="66" gain="70" loss="4" td="1" long="47"></rush>
+   <kr no="3" yds="58" td="0" long="28"></kr>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="ALOZIE, Okezie" shortname="ALOZIE, Okezie" checkname="ALOZIE,OKEZIE" uni="3" class="SR" gp="1" gs="1" dpos="ROLB" code="3">
+   <defense tackua="7" tacka="7" tot_tack="14" fr="1" fryds="0"></defense>
+  </player>
+  <player name="HOSEY, Gary" shortname="HOSEY, Gary" checkname="HOSEY,GARY" uni="4" class="FR" gp="1" code="4"></player>
+  <player name="BAKER, Marqus" shortname="BAKER, Marqus" checkname="BAKER,MARQUS" uni="5" class="SR" gp="1" gs="1" dpos="CB" code="5">
+   <defense tackua="6" tacka="3" tot_tack="9"></defense>
+  </player>
+  <player name="MCGILL, Marcus" shortname="MCGILL, Marcus" checkname="MCGILL,MARCUS" uni="7" class="SR" gp="1" gs="1" opos="WR" code="7">
+   <rcv no="7" yds="79" td="1" long="21"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="GLASS, Houston" shortname="GLASS, Houston" checkname="GLASS,HOUSTON" uni="8" class="JR" gp="1" code="8"></player>
+  <player name="SMILEY, Brandon" shortname="SMILEY, Brandon" checkname="SMILEY,BRANDON" uni="10" class="FR" gp="1" gs="1" opos="WR" code="10">
+   <rcv no="1" yds="14" td="0" long="14"></rcv>
+  </player>
+  <player name="GRASSMAN, Tyler" shortname="GRASSMAN, Tyler" checkname="GRASSMAN,TYLER" uni="11" class="SR" gp="1" code="11">
+   <punt no="3" yds="107" long="40" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="35.7"></punt>
+   <ko no="6" yds="361" ob="0" tb="0"></ko>
+  </player>
+  <player name="STANBACK, Brand" shortname="STANBACK, Brand" checkname="STANBACK,BRAND" uni="12" class="FR" gp="1" code="12">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="LISA, Collin" shortname="LISA, Collin" checkname="LISA,COLLIN" uni="13" class="SO" gp="1" code="13">
+   <rcv no="5" yds="73" td="1" long="35"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="WILLIAMS, Brand" shortname="WILLIAMS, Brand" checkname="WILLIAMS,BRAND" uni="14" class="FR" gp="1" code="14">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="EILAND, Jamarl" shortname="EILAND, Jamarl" checkname="EILAND,JAMARL" uni="15" class="SO" gp="1" code="15">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="LICATA, Joe" shortname="LICATA, Joe" checkname="LICATA,JOE" uni="16" class="SR" gp="1" gs="1" opos="QB" code="16">
+   <rush att="3" yds="-18" gain="1" loss="19" td="0" long="1"></rush>
+   <pass comp="31" att="47" int="3" yds="354" td="2" long="40" sacks="2" sackyds="19"></pass>
+  </player>
+  <player name="DADEBOE, Andrew" shortname="DADEBOE, Andrew" checkname="DADEBOE,ANDREW" uni="17" class="SO" gp="1" gs="1" dpos="SS" code="17">
+   <defense tackua="4" tacka="2" tot_tack="6"></defense>
+  </player>
+  <player name="MITCHESON, Adam" shortname="MITCHESON, Adam" checkname="MITCHESON,ADAM" uni="19" class="FR" gp="1" code="19">
+   <fg made="1" att="3" long="26" blkd="0"></fg>
+   <pat kickatt="4" kickmade="3"></pat>
+   <scoring fg="1" patkick="3"></scoring>
+  </player>
+  <player name="CAMPBELL, Devin" shortname="CAMPBELL, Devin" checkname="CAMPBELL,DEVIN" uni="21" class="SR" gp="1" code="21">
+   <kr no="2" yds="30" td="0" long="18"></kr>
+  </player>
+  <player name="WILLIAMS, DIAMO" shortname="WILLIAMS, DIAMO" checkname="WILLIAMS,DIAMO" uni="22" class="SO" gp="1" code="22"></player>
+  <player name="BERRY, Brandon" shortname="BERRY, Brandon" checkname="BERRY,BRANDON" uni="23" class="JR" gp="1" gs="1" dpos="LOLB" code="23">
+   <defense tackua="6" tacka="5" tot_tack="11" tflua="2" tfla="0" tflyds="3"></defense>
+  </player>
+  <player name="HAWKINS, Johnat" shortname="HAWKINS, Johnat" checkname="HAWKINS,JOHNAT" uni="24" class="FR" gp="1" code="24">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="COLLIER, Jordan" shortname="COLLIER, Jordan" checkname="COLLIER,JORDAN" uni="25" class="FR" gp="1" code="25"></player>
+  <player name="WILLIAMSON, Rya" shortname="WILLIAMSON, Rya" checkname="WILLIAMSON,RYA" uni="26" class="SO" gp="1" gs="1" dpos="FS" code="26">
+   <defense tackua="7" tacka="9" tot_tack="16"></defense>
+  </player>
+  <player name="GRASSMAN, Corbi" shortname="GRASSMAN, Corbi" checkname="GRASSMAN,CORBI" uni="27" class="JR" gp="1" code="27">
+   <defense tackua="1" tacka="1" tot_tack="2"></defense>
+  </player>
+  <player name="PATTERSON, Kend" shortname="PATTERSON, Kend" checkname="PATTERSON,KEND" uni="31" class="SR" gp="1" code="31"></player>
+  <player name="THREATS, Kyril" shortname="THREATS, Kyril" checkname="THREATS,KYRIL" uni="33" class="SR" gp="1" code="33"></player>
+  <player name="ANYANWU, Randy" shortname="ANYANWU, Randy" checkname="ANYANWU,RANDY" uni="34" class="FR" gp="1" code="34">
+   <defense tackua="1" tacka="1" tot_tack="2" tflua="1" tfla="0" tflyds="2" sackua="1" sacka="0" sackyds="2" ff="1"></defense>
+  </player>
+  <player name="STANCIL, C.J." shortname="STANCIL, C.J." checkname="STANCIL,CJ" uni="38" class="JR" gp="1" code="38">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="LEWIS, Cameron" shortname="LEWIS, Cameron" checkname="LEWIS,CAMERON" uni="39" class="FR" gp="1" code="39">
+   <defense tackua="2" tacka="2" tot_tack="4" int="1" intyds="68"></defense>
+   <ir no="1" yds="68" td="1" long="68"></ir>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="JACKSON, Solomo" shortname="JACKSON, Solomo" checkname="JACKSON,SOLOMO" uni="41" class="SO" gp="1" gs="1" dpos="RE" code="41">
+   <defense tackua="1" tacka="1" tot_tack="2" tflua="1" tfla="0" tflyds="1"></defense>
+  </player>
+  <player name="GILBO, Nick" shortname="GILBO, Nick" checkname="GILBO,NICK" uni="43" class="SR" gp="1" gs="1" dpos="MLB" code="43">
+   <defense tackua="11" tacka="8" tot_tack="19" brup="1"></defense>
+  </player>
+  <player name="MOLINICH, Glynn" shortname="MOLINICH, Glynn" checkname="MOLINICH,GLYNN" uni="44" class="SO" gp="1" code="44">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="PITZONKA, Travi" shortname="PITZONKA, Travi" checkname="PITZONKA,TRAVI" uni="52" class="SR" gp="1" code="52"></player>
+  <player name="CRAWFORD, Brand" shortname="CRAWFORD, Brand" checkname="CRAWFORD,BRAND" uni="55" class="JR" gp="1" gs="1" dpos="LE" code="55">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="FORD, Chris" shortname="FORD, Chris" checkname="FORD,CHRIS" uni="58" class="SO" gp="1" gs="1" dpos="DT" code="58">
+   <defense tackua="0" tacka="2" tot_tack="2"></defense>
+  </player>
+  <player name="O'HENLY, Tyler" shortname="O'HENLY, Tyler" checkname="O'HENLY,TYLER" uni="59" class="SO" gp="1" code="59"></player>
+  <player name="PERISSE, Max" shortname="PERISSE, Max" checkname="PERISSE,MAX" uni="66" class="JR" gp="1" gs="1" dpos="NT" code="66">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="KLING, John" shortname="KLING, John" checkname="KLING,JOHN" uni="70" class="SR" gp="1" gs="1" opos="LT" code="70"></player>
+  <player name="JOSEPH, Roubben" shortname="JOSEPH, Roubben" checkname="JOSEPH,ROUBBEN" uni="71" class="FR" gp="1" gs="1" opos="RG" code="71"></player>
+  <player name="BLODGETT, Rober" shortname="BLODGETT, Rober" checkname="BLODGETT,ROBER" uni="74" class="SR" gp="1" gs="1" opos="RT" code="74"></player>
+  <player name="FIDLER, Andy" shortname="FIDLER, Andy" checkname="FIDLER,ANDY" uni="76" class="FR" gp="1" gs="1" opos="LG" code="76"></player>
+  <player name="O'HAGAN, James" shortname="O'HAGAN, James" checkname="O'HAGAN,JAMES" uni="77" class="FR" gp="1" gs="1" opos="C" code="77"></player>
+  <player name="ROBINSON, Malco" shortname="ROBINSON, Malco" checkname="ROBINSON,MALCO" uni="80" class="JR" gp="1" code="80"></player>
+  <player name="ROGERS, Kevin" shortname="ROGERS, Kevin" checkname="ROGERS,KEVIN" uni="82" class="FR" gp="1" code="82"></player>
+  <player name="SCHRECK, Mason" shortname="SCHRECK, Mason" checkname="SCHRECK,MASON" uni="85" class="JR" gp="1" code="85">
+   <rcv no="2" yds="7" td="0" long="4"></rcv>
+  </player>
+  <player name="WILLOUGHBY, Ron" shortname="WILLOUGHBY, Ron" checkname="WILLOUGHBY,RON" uni="86" class="SR" gp="1" gs="1" opos="WR" code="86">
+   <rcv no="6" yds="101" td="0" long="40"></rcv>
+  </player>
+  <player name="MARTINEZ, Jacob" shortname="MARTINEZ, Jacob" checkname="MARTINEZ,JACOB" uni="88" class="SO" gp="1" code="88">
+   <rush att="1" yds="-2" gain="0" loss="2" td="0" long="0"></rush>
+  </player>
+  <player name="WEISER, Matt" shortname="WEISER, Matt" checkname="WEISER,MATT" uni="89" class="SR" gp="1" gs="1" opos="TE" code="89">
+   <rcv no="8" yds="59" td="0" long="13"></rcv>
+  </player>
+  <player name="BRANDON, Justin" shortname="BRANDON, Justin" checkname="BRANDON,JUSTIN" uni="90" class="FR" gp="1" code="90">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="HARRIS, Demone" shortname="HARRIS, Demone" checkname="HARRIS,DEMONE" uni="91" class="SO" gp="1" code="91">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="HARRIS, Charles" shortname="HARRIS, Charles" checkname="HARRIS,CHARLES" uni="92" class="FR" gp="1" code="92"></player>
+  <player name="KHOURY, Jake" shortname="KHOURY, Jake" checkname="KHOURY,JAKE" uni="95" class="FR" gp="1" code="95">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="SCHWARTZMEIER,G" shortname="SCHWARTZMEIER,G" checkname="SCHWARTZMEIER,G" uni="99" class="FR" gp="1" code="99"></player>
+  <player name="Team" shortname="Team" checkname="TEAM" uni="TM" class="" gp="1" code="198">
+   <rush att="1" yds="-1" gain="0" loss="1" td="0" long="0"></rush>
+  </player>
+ </team>
+ <scores>
+  <score vh="H" team="UB" qtr="1" clock="12:05" type="FG" yds="26" scorer="MITCHESON, Adam" plays="8" drive="60" top="2:55" vscore="0" hscore="3" driveindex="1"></score>
+  <score vh="V" team="NIU" qtr="1" clock="06:03" type="TD" how="PASS" yds="15" scorer="GOLLADAY, Kenny" passer="GRAHAM, Ryan" patby="HAGAN, Christia" pattype="KICK" patres="GOOD" plays="11" drive="59" top="3:24" vscore="7" hscore="3" driveindex="4"></score>
+  <score vh="V" team="NIU" qtr="1" clock="03:21" type="TD" how="RUSH" yds="58" scorer="BOUAGNON, Joel" patby="HAGAN, Christia" pattype="KICK" patres="GOOD" plays="4" drive="76" top="1:09" vscore="14" hscore="3" driveindex="6"></score>
+  <score vh="V" team="NIU" qtr="2" clock="08:25" type="TD" how="RUSH" yds="1" scorer="BOUAGNON, Joel" patby="HAGAN, Christia" pattype="KICK" patres="GOOD" plays="11" drive="77" top="3:33" vscore="21" hscore="3" driveindex="12"></score>
+  <score vh="V" team="NIU" qtr="2" clock="00:10" type="TD" how="RUSH" yds="1" scorer="HUFF, Jordan" patby="HAGAN, Christia" pattype="KICK" patres="GOOD" plays="10" drive="80" top="3:14" vscore="28" hscore="3" driveindex="14"></score>
+  <score vh="H" team="UB" qtr="3" clock="07:25" type="TD" how="PASS" yds="16" scorer="MCGILL, Marcus" passer="LICATA, Joe" patby="MITCHESON, Adam" pattype="KICK" patres="GOOD" plays="10" drive="67" top="4:33" vscore="28" hscore="10" driveindex="17"></score>
+  <score vh="V" team="NIU" qtr="3" clock="03:52" type="FG" yds="22" scorer="HAGAN, Christia" plays="10" drive="34" top="3:23" vscore="31" hscore="10" driveindex="18"></score>
+  <score vh="H" team="UB" qtr="3" clock="01:44" type="TD" how="RUSH" yds="47" scorer="JOHNSON, Jordan" patby="MITCHESON, Adam" pattype="KICK" patres="BLKD" plays="5" drive="78" top="2:03" vscore="31" hscore="16" driveindex="19"></score>
+  <score vh="H" team="UB" qtr="4" clock="13:27" type="TD" how="INT" yds="68" scorer="LEWIS, Cameron" patby="MITCHESON, Adam" pattype="KICK" patres="GOOD" vscore="31" hscore="23" driveindex="21"></score>
+  <score vh="V" team="NIU" qtr="4" clock="12:46" type="TD" how="PASS" yds="68" scorer="GOLLADAY, Kenny" passer="GRAHAM, Ryan" patby="HAGAN, Christia" pattype="KICK" patres="GOOD" plays="2" drive="67" top="0:35" vscore="38" hscore="23" driveindex="22"></score>
+  <score vh="H" team="UB" qtr="4" clock="06:46" type="TD" how="PASS" yds="35" scorer="LISA, Collin" passer="LICATA, Joe" patby="MITCHESON, Adam" pattype="KICK" patres="GOOD" plays="5" drive="57" top="1:08" vscore="38" hscore="30" driveindex="25"></score>
+  <score vh="V" team="NIU" qtr="4" clock="02:50" type="FG" yds="47" scorer="HAGAN, Christia" plays="4" drive="5" top="0:24" vscore="41" hscore="30" driveindex="28"></score>
+ </scores>
+ <fgas>
+  <fga vh="H" team="UB" kicker="MITCHESON, Adam" qtr="1" clock="12:05" distance="26" result="good"></fga>
+  <fga vh="H" team="UB" kicker="MITCHESON, Adam" qtr="1" clock="04:30" distance="41" result="missed"></fga>
+  <fga vh="H" team="UB" kicker="MITCHESON, Adam" qtr="2" clock="03:24" distance="36" result="missed"></fga>
+  <fga vh="V" team="NIU" kicker="HAGAN, Christia" qtr="3" clock="03:52" distance="22" result="good"></fga>
+  <fga vh="V" team="NIU" kicker="HAGAN, Christia" qtr="4" clock="02:50" distance="47" result="good"></fga>
+ </fgas>
+ <drives>
+  <drive vh="H" team="UB" start="KO,1,15:00,31" end="FG,1,12:05,91" plays="8" yards="60" top="2:55" start_how="KO" start_qtr="1" start_time="15:00" start_spot="UB31" end_how="FG" end_qtr="1" end_time="12:05" end_spot="NIU09" rz="1" driveindex="1"></drive>
+  <drive vh="V" team="NIU" start="KO,1,11:58,15" end="PUNT,1,10:50,23" plays="3" yards="8" top="1:08" start_how="KO" start_qtr="1" start_time="11:58" start_spot="NIU15" end_how="PUNT" end_qtr="1" end_time="10:50" end_spot="NIU23" driveindex="2"></drive>
+  <drive vh="H" team="UB" start="PUNT,1,10:50,33" end="PUNT,1,09:27,30" plays="3" yards="-3" top="1:23" start_how="PUNT" start_qtr="1" start_time="10:50" start_spot="UB33" end_how="PUNT" end_qtr="1" end_time="09:27" end_spot="UB30" driveindex="3"></drive>
+  <drive vh="V" team="NIU" start="PUNT,1,09:27,41" end="TD,1,06:03,100" plays="11" yards="59" top="3:24" start_how="PUNT" start_qtr="1" start_time="09:27" start_spot="NIU41" end_how="TD" end_qtr="1" end_time="06:03" end_spot="UB00" rz="1" driveindex="4"></drive>
+  <drive vh="H" team="UB" start="KO,1,06:03,35" end="FGA,1,04:30,76" plays="6" yards="41" top="1:33" start_how="KO" start_qtr="1" start_time="06:03" start_spot="UB35" end_how="FGA" end_qtr="1" end_time="04:30" end_spot="NIU24" driveindex="5"></drive>
+  <drive vh="V" team="NIU" start="FGA,1,04:30,24" end="TD,1,03:21,100" plays="4" yards="76" top="1:09" start_how="FGA" start_qtr="1" start_time="04:30" start_spot="NIU24" end_how="TD" end_qtr="1" end_time="03:21" end_spot="UB00" driveindex="6"></drive>
+  <drive vh="H" team="UB" start="KO,1,03:15,17" end="PUNT,1,01:22,25" plays="3" yards="8" top="1:53" start_how="KO" start_qtr="1" start_time="03:15" start_spot="UB17" end_how="PUNT" end_qtr="1" end_time="01:22" end_spot="UB25" driveindex="7"></drive>
+  <drive vh="V" team="NIU" start="PUNT,1,01:22,40" end="PUNT,1,00:28,41" plays="3" yards="1" top="0:54" start_how="PUNT" start_qtr="1" start_time="01:22" start_spot="NIU40" end_how="PUNT" end_qtr="1" end_time="00:28" end_spot="NIU41" driveindex="8"></drive>
+  <drive vh="H" team="UB" start="PUNT,1,00:28,33" end="INT,1,00:21,33" plays="1" yards="0" top="0:07" start_how="PUNT" start_qtr="1" start_time="00:28" start_spot="UB33" end_how="INT" end_qtr="1" end_time="00:21" end_spot="UB33" driveindex="9"></drive>
+  <drive vh="V" team="NIU" start="INT,1,00:21,40" end="PUNT,2,12:41,57" plays="7" yards="17" top="2:40" start_how="INT" start_qtr="1" start_time="00:21" start_spot="NIU40" end_how="PUNT" end_qtr="2" end_time="12:41" end_spot="UB43" driveindex="10"></drive>
+  <drive vh="H" team="UB" start="PUNT,2,12:41,50" end="INT,2,11:58,52" plays="2" yards="2" top="0:43" start_how="PUNT" start_qtr="2" start_time="12:41" start_spot="UB50" end_how="INT" end_qtr="2" end_time="11:58" end_spot="NIU48" driveindex="11"></drive>
+  <drive vh="V" team="NIU" start="INT,2,11:58,23" end="TD,2,08:25,100" plays="11" yards="77" top="3:33" start_how="INT" start_qtr="2" start_time="11:58" start_spot="NIU23" end_how="TD" end_qtr="2" end_time="08:25" end_spot="UB00" rz="1" driveindex="12"></drive>
+  <drive vh="H" team="UB" start="KO,2,08:20,23" end="FGA,2,03:24,81" plays="10" yards="58" top="4:56" start_how="KO" start_qtr="2" start_time="08:20" start_spot="UB23" end_how="FGA" end_qtr="2" end_time="03:24" end_spot="NIU19" rz="1" driveindex="13"></drive>
+  <drive vh="V" team="NIU" start="FGA,2,03:24,20" end="TD,2,00:10,100" plays="10" yards="80" top="3:14" start_how="FGA" start_qtr="2" start_time="03:24" start_spot="NIU20" end_how="TD" end_qtr="2" end_time="00:10" end_spot="UB00" rz="1" driveindex="14"></drive>
+  <drive vh="H" team="UB" start="KO,2,00:04,21" end="HALF,2,00:00,20" plays="1" yards="-1" top="0:04" start_how="KO" start_qtr="2" start_time="00:04" start_spot="UB21" end_how="HALF" end_qtr="2" end_time="00:00" end_spot="UB20" driveindex="15"></drive>
+  <drive vh="V" team="NIU" start="KO,3,14:55,28" end="FUMB,3,11:58,67" plays="8" yards="39" top="2:57" start_how="KO" start_qtr="3" start_time="14:55" start_spot="NIU28" end_how="FUMB" end_qtr="3" end_time="11:58" end_spot="UB33" driveindex="16"></drive>
+  <drive vh="H" team="UB" start="FUMB,3,11:58,33" end="TD,3,07:25,100" plays="10" yards="67" top="4:33" start_how="FUMB" start_qtr="3" start_time="11:58" start_spot="UB33" end_how="TD" end_qtr="3" end_time="07:25" end_spot="NIU00" rz="1" driveindex="17"></drive>
+  <drive vh="V" team="NIU" start="KO,3,07:15,60" end="FG,3,03:52,94" plays="10" yards="34" top="3:23" start_how="KO" start_qtr="3" start_time="07:15" start_spot="UB40" end_how="FG" end_qtr="3" end_time="03:52" end_spot="UB06" rz="1" driveindex="18"></drive>
+  <drive vh="H" team="UB" start="KO,3,03:47,22" end="TD,3,01:44,100" plays="5" yards="78" top="2:03" start_how="KO" start_qtr="3" start_time="03:47" start_spot="UB22" end_how="TD" end_qtr="3" end_time="01:44" end_spot="NIU00" driveindex="19"></drive>
+  <drive vh="V" team="NIU" start="KO,3,01:39,21" end="INT,4,13:27,63" plays="10" yards="42" top="3:12" start_how="KO" start_qtr="3" start_time="01:39" start_spot="NIU21" end_how="INT" end_qtr="4" end_time="13:27" end_spot="UB37" driveindex="20"></drive>
+  <drive vh="H" team="UB" start="INT,4,13:27,100" end="TD,4,13:27,100" plays="0" yards="0" top="0:00" start_how="INT" start_qtr="4" start_time="13:27" start_spot="NIU00" end_how="TD" end_qtr="4" end_time="13:27" end_spot="NIU00" driveindex="21"></drive>
+  <drive vh="V" team="NIU" start="KO,4,13:21,33" end="TD,4,12:46,100" plays="2" yards="67" top="0:35" start_how="KO" start_qtr="4" start_time="13:21" start_spot="NIU33" end_how="TD" end_qtr="4" end_time="12:46" end_spot="UB00" driveindex="22"></drive>
+  <drive vh="H" team="UB" start="KO,4,12:46,25" end="DOWNS,4,09:17,76" plays="9" yards="51" top="3:29" start_how="KO" start_qtr="4" start_time="12:46" start_spot="UB25" end_how="DOWNS" end_qtr="4" end_time="09:17" end_spot="NIU24" driveindex="23"></drive>
+  <drive vh="V" team="NIU" start="DOWNS,4,09:17,24" end="PUNT,4,07:54,33" plays="3" yards="9" top="1:23" start_how="DOWNS" start_qtr="4" start_time="09:17" start_spot="NIU24" end_how="PUNT" end_qtr="4" end_time="07:54" end_spot="NIU33" driveindex="24"></drive>
+  <drive vh="H" team="UB" start="PUNT,4,07:54,43" end="TD,4,06:46,100" plays="5" yards="57" top="1:08" start_how="PUNT" start_qtr="4" start_time="07:54" start_spot="UB43" end_how="TD" end_qtr="4" end_time="06:46" end_spot="NIU00" driveindex="25"></drive>
+  <drive vh="V" team="NIU" start="KO,4,06:38,28" end="PUNT,4,05:00,47" plays="4" yards="19" top="1:38" start_how="KO" start_qtr="4" start_time="06:38" start_spot="NIU28" end_how="PUNT" end_qtr="4" end_time="05:00" end_spot="NIU47" driveindex="26"></drive>
+  <drive vh="H" team="UB" start="PUNT,4,05:00,17" end="PUNT,4,03:14,3" plays="3" yards="-14" top="1:46" start_how="PUNT" start_qtr="4" start_time="05:00" start_spot="UB17" end_how="PUNT" end_qtr="4" end_time="03:14" end_spot="UB03" driveindex="27"></drive>
+  <drive vh="V" team="NIU" start="PUNT,4,03:14,65" end="FG,4,02:50,70" plays="4" yards="5" top="0:24" start_how="PUNT" start_qtr="4" start_time="03:14" start_spot="UB35" end_how="FG" end_qtr="4" end_time="02:50" end_spot="UB30" driveindex="28"></drive>
+  <drive vh="H" team="UB" start="KO,4,02:45,20" end="INT,4,01:37,55" plays="7" yards="35" top="1:08" start_how="KO" start_qtr="4" start_time="02:45" start_spot="UB20" end_how="INT" end_qtr="4" end_time="01:37" end_spot="NIU45" driveindex="29"></drive>
+  <drive vh="V" team="NIU" start="INT,4,01:37,37" end="HALF,4,00:00,34" plays="3" yards="-3" top="1:37" start_how="INT" start_qtr="4" start_time="01:37" start_spot="NIU37" end_how="HALF" end_qtr="4" end_time="00:00" end_spot="NIU34" driveindex="30"></drive>
+ </drives>
+ <plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="NIU" down="1" togo="10" spot="NIU35" context="V,1,10,V35" playid="0,1,0" tokens="CMT:Northern Illinois wins toss &amp; defers, Buffalo receive &amp; defend North."
+      text="Northern Illinois wins toss &amp; defers, Buffalo receive &amp; defend North." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="NIU35" context="V,1,10,V35" playid="0,2,1" tokens="SPOT:V,V35,N"
+      text="NIU ball on NIU35." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="NIU35" context="V,1,10,V35" playid="0,3,2" type="K" tokens="KO:34,H03 RET:2,H31 TACK:23"
+      text="HAGAN, Christia kickoff 62 yards to the UB3, JOHNSON, Jordan return 28 yards to the UB31 (HUFF, Jordan)." newcontext="H,1,10,H31">
+    <p_ko vh="V" name="HAGAN, Christia" gain="62"></p_ko>
+    <p_kr vh="H" name="JOHNSON, Jordan" gain="28"></p_kr>
+    <p_tk vh="V" name="HUFF, Jordan"></p_tk>
+   </play>
+   <drivestart poss="H,H31,15:00" vh="H" spot="H31" clock="15:00" driveindex="1,2"></drivestart>
+   <play hasball="UB" down="1" togo="10" spot="UB31" context="H,1,10,H31" playid="1,1,3" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,I,10,*"
+      text="[SGUN], LICATA, Joe pass incomplete to SMILEY, Brandon." newcontext="H,2,10,H31">
+    <p_pa vh="H" qb="LICATA, Joe" result="INC" rcv="SMILEY, Brandon"></p_pa>
+   </play>
+   <play hasball="UB" down="2" togo="10" spot="UB31" context="H,2,10,H31" playid="1,2,4" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,I,7,*"
+      text="[SGUN], LICATA, Joe pass incomplete to MCGILL, Marcus." newcontext="H,3,10,H31">
+    <p_pa vh="H" qb="LICATA, Joe" result="INC" rcv="MCGILL, Marcus"></p_pa>
+   </play>
+   <play hasball="UB" down="3" togo="10" spot="UB31" context="H,3,10,H31" playid="1,3,5" type="P" first="P" form="SGUN" tokens="FORM:SGUN PASS:16,C,7,H43 TACK:2"
+      text="[SGUN], LICATA, Joe pass complete to MCGILL, Marcus for 12 yards to the UB43, 1ST DOWN UB (MOORE, Marlon)." newcontext="H,1,10,H43">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="MCGILL, Marcus" gain="12"></p_pa>
+    <p_tk vh="V" name="MOORE, Marlon"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB43" context="H,1,10,H43" playid="1,4,6" type="P" first="P" form="PSTL" tokens="FORM:PSTL PASS:16,C,86,V17 TACK:45,29"
+      text="[PSTL], LICATA, Joe pass complete to WILLOUGHBY, Ron for 40 yards to the NIU17, 1ST DOWN UB (MAYS, Boomer;LOGAN, Paris)." newcontext="H,1,10,V17">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="WILLOUGHBY, Ron" gain="40"></p_pa>
+    <p_tk vh="V" name="MAYS, Boomer" assist="Y"></p_tk>
+    <p_tk vh="V" name="LOGAN, Paris" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="NIU17" context="H,1,10,V17" playid="1,5,7" type="R" form="PSTL" tokens="FORM:PSTL RUSH:1,V14, TACK:54"
+      text="[PSTL], TAYLOR, Anthone rush for 3 yards to the NIU14 (CLINTON-EARL, C)." newcontext="H,2,7,V14">
+    <p_ru vh="H" name="TAYLOR, Anthone" gain="3"></p_ru>
+    <p_tk vh="V" name="CLINTON-EARL, C"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="7" spot="NIU14" context="H,2,7,V14" playid="1,6,8" type="R" form="SGUN" tokens="FORM:SGUN RUSH:1,V08, TACK:24"
+      text="[SGUN], TAYLOR, Anthone rush for 6 yards to the NIU8 (MAYES, Brandon)." newcontext="H,3,1,V08">
+    <p_ru vh="H" name="TAYLOR, Anthone" gain="6"></p_ru>
+    <p_tk vh="V" name="MAYES, Brandon"></p_tk>
+   </play>
+   <play hasball="UB" down="3" togo="1" spot="NIU08" context="H,3,1,V08" playid="1,7,9" type="R" tokens="RUSH:1,V09, TACK:45"
+      text="TAYLOR, Anthone rush for loss of 1 yard to the NIU9 (MAYS, Boomer)." newcontext="H,4,2,V09">
+    <p_ru vh="H" name="TAYLOR, Anthone" gain="-1"></p_ru>
+    <p_tk vh="V" name="MAYS, Boomer"></p_tk>
+   </play>
+   <play hasball="UB" down="4" togo="2" spot="NIU09" context="H,4,2,V09" playid="1,8,10" type="F" score="Y" vscore="0" hscore="3" clock="12:05" tokens="FGA:19,26,G T:12:05"
+      text="MITCHESON, Adam field goal attempt from 26 GOOD, clock 12:05." newcontext="H,1,0,H35">
+    <p_fg vh="H" name="MITCHESON, Adam" distance="26" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="0" H="3"></score>
+   <drivesum plays="8" yards="60" top="2:55" driveindex="1" complete="Y"></drivesum>
+   <play hasball="UB" down="1" togo="0" spot="UB35" context="H,1,0,H35" playid="1,9,11" type="K" tokens="KO:11,V08 RET:22,V30 TACK:14 PEN:V,PF,A,8,V15,N D:1,10 SPOT:V,V15,Y"
+      text="GRASSMAN, Tyler kickoff 57 yards to the NIU8, TURNER, Aregero return 22 yards to the NIU30 (WILLIAMS, Brand), PENALTY NIU personal foul (FLEMING, Ladell) 15 yards to the NIU15, 1st and 10, NIU ball on NIU15." newcontext="V,1,10,V15">
+    <p_ko vh="H" name="GRASSMAN, Tyler" gain="57"></p_ko>
+    <p_kr vh="V" name="TURNER, Aregero" gain="22"></p_kr>
+    <p_tk vh="H" name="WILLIAMS, Brand"></p_tk>
+    <p_pn vh="V" code="PF" type="personal foul" name="FLEMING, Ladell" result="ACCEPT" at="V30" yards="15"></p_pn>
+   </play>
+   <drivestart poss="V,V15,11:58" vh="V" spot="V15" clock="11:58" driveindex="2,11"></drivestart>
+   <play hasball="NIU" down="1" togo="10" spot="NIU15" context="V,1,10,V15" playid="2,1,12" clock="11:58" tokens="{DRIVE}:11:58"
+      text="NORTHERN ILLINOIS drive start at 11:58." newcontext="V,1,10,V15">
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="NIU15" context="V,1,10,V15" playid="2,2,13" type="P" form="SGUN" tokens="FORM:SGUN PASS:17,I,22,*"
+      text="[SGUN], GRAHAM, Ryan pass incomplete to TURNER, Aregero." newcontext="V,2,10,V15">
+    <p_pa vh="V" qb="GRAHAM, Ryan" result="INC" rcv="TURNER, Aregero"></p_pa>
+   </play>
+   <play hasball="NIU" down="2" togo="10" spot="NIU15" context="V,2,10,V15" playid="2,3,14" type="R" form="PSTL" tokens="FORM:PSTL RUSH:19,V19, TACK:26"
+      text="[PSTL], GOLLADAY, Kenny rush for 4 yards to the NIU19 (WILLIAMSON, Rya)." newcontext="V,3,6,V19">
+    <p_ru vh="V" name="GOLLADAY, Kenny" gain="4"></p_ru>
+    <p_tk vh="H" name="WILLIAMSON, Rya"></p_tk>
+   </play>
+   <play hasball="NIU" down="3" togo="6" spot="NIU19" context="V,3,6,V19" playid="2,4,15" type="R" form="SGUN" tokens="FORM:SGUN RUSH:17,V23, TACK:23"
+      text="[SGUN], GRAHAM, Ryan rush for 4 yards to the NIU23 (BERRY, Brandon)." newcontext="V,4,2,V23">
+    <p_ru vh="V" name="GRAHAM, Ryan" gain="4"></p_ru>
+    <p_tk vh="H" name="BERRY, Brandon"></p_tk>
+   </play>
+   <play hasball="NIU" down="4" togo="2" spot="NIU23" context="V,4,2,V23" playid="2,5,16" type="U" tokens="PUNT:15,H33 FC:13"
+      text="AMBROSE, Jake punt 44 yards to the UB33, fair catch by LISA, Collin." newcontext="H,1,10,H33">
+    <p_pu vh="V" name="AMBROSE, Jake" gain="44" fc="LISA, Collin"></p_pu>
+   </play>
+   <drivesum plays="3" yards="8" top="1:08" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="H,H33,10:50" vh="H" spot="H33" clock="10:50" driveindex="3,16"></drivestart>
+   <play hasball="UB" down="1" togo="10" spot="UB33" context="H,1,10,H33" playid="3,1,17" clock="10:50" tokens="{DRIVE}:10:50"
+      text="BUFFALO drive start at 10:50." newcontext="H,1,10,H33">
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB33" context="H,1,10,H33" playid="3,2,18" type="R" form="PSTL" tokens="FORM:PSTL RUSH:2,H31, TACK:56"
+      text="[PSTL], JOHNSON, Jordan rush for loss of 2 yards to the UB31 (COMPTON, Ben)." newcontext="H,2,12,H31">
+    <p_ru vh="H" name="JOHNSON, Jordan" gain="-2"></p_ru>
+    <p_tk vh="V" name="COMPTON, Ben"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="12" spot="UB31" context="H,2,12,H31" playid="3,3,19" type="R" form="PSTL" tokens="FORM:PSTL RUSH:2,H35, TACK:90"
+      text="[PSTL], JOHNSON, Jordan rush for 4 yards to the UB35 (LEE, William)." newcontext="H,3,8,H35">
+    <p_ru vh="H" name="JOHNSON, Jordan" gain="4"></p_ru>
+    <p_tk vh="V" name="LEE, William"></p_tk>
+   </play>
+   <play hasball="UB" down="3" togo="8" spot="UB35" context="H,3,8,H35" playid="3,4,20" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,I,1,* QBH:V,45"
+      text="[SGUN], LICATA, Joe pass incomplete to TAYLOR, Anthone, QB hurry by MAYS, Boomer." newcontext="H,4,8,H35">
+    <p_pa vh="H" qb="LICATA, Joe" result="INC" rcv="TAYLOR, Anthone"></p_pa>
+    <p_qbh vh="V" name="MAYS, Boomer"></p_qbh>
+   </play>
+   <play hasball="UB" down="4" togo="8" spot="UB35" context="H,4,8,H35" playid="3,5,21" type="E" tokens="PEN:H,FS,A,33,H30,N"
+      text="PENALTY UB false start (THREATS, Kyril) 5 yards to the UB30." newcontext="H,4,13,H30">
+    <p_pn vh="H" code="FS" type="false start" name="THREATS, Kyril" result="ACCEPT" at="H35" yards="5"></p_pn>
+   </play>
+   <play hasball="UB" down="4" togo="13" spot="UB30" context="H,4,13,H30" playid="3,6,22" type="U" tokens="PUNT:11,V35 RET:82,V41 TACK:27,44"
+      text="GRASSMAN, Tyler punt 35 yards to the NIU35, BEEBE, Chad return 6 yards to the NIU41 (GRASSMAN, Corbi;MOLINICH, Glynn)." newcontext="V,1,10,V41">
+    <p_pu vh="H" name="GRASSMAN, Tyler" gain="35"></p_pu>
+    <p_pr vh="V" name="BEEBE, Chad" gain="6"></p_pr>
+    <p_tk vh="H" name="GRASSMAN, Corbi" assist="Y"></p_tk>
+    <p_tk vh="H" name="MOLINICH, Glynn" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="-3" top="1:23" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="V,V41,09:27" vh="V" spot="V41" clock="09:27" driveindex="4,22"></drivestart>
+   <play hasball="NIU" down="1" togo="10" spot="NIU41" context="V,1,10,V41" playid="4,1,23" clock="09:27" tokens="{DRIVE}:09:27"
+      text="NORTHERN ILLINOIS drive start at 09:27." newcontext="V,1,10,V41">
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="NIU41" context="V,1,10,V41" playid="4,2,24" type="R" form="PSTL" tokens="FORM:PSTL RUSH:28,V43, TACK:3"
+      text="[PSTL], BOUAGNON, Joel rush for 2 yards to the NIU43 (ALOZIE, Okezie)." newcontext="V,2,8,V43">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="2"></p_ru>
+    <p_tk vh="H" name="ALOZIE, Okezie"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="8" spot="NIU43" context="V,2,8,V43" playid="4,3,25" type="R" form="PSTL" tokens="FORM:PSTL RUSH:28,V47, TACK:43"
+      text="[PSTL], BOUAGNON, Joel rush for 4 yards to the NIU47 (GILBO, Nick)." newcontext="V,3,4,V47">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="4"></p_ru>
+    <p_tk vh="H" name="GILBO, Nick"></p_tk>
+   </play>
+   <play hasball="NIU" down="3" togo="4" spot="NIU47" context="V,3,4,V47" playid="4,4,26" type="R" form="SGUN" tokens="FORM:SGUN RUSH:28,V50, TACK:91"
+      text="[SGUN], BOUAGNON, Joel rush for 3 yards to the 50 yardline (HARRIS, Demone)." newcontext="V,4,1,V50">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="3"></p_ru>
+    <p_tk vh="H" name="HARRIS, Demone"></p_tk>
+   </play>
+   <play hasball="NIU" down="4" togo="1" spot="NIU50" context="V,4,1,V50" playid="4,5,27" type="R" first="R" form="SGUN" tokens="FORM:SGUN RUSH:28,H45, TACK:43,26"
+      text="[SGUN], BOUAGNON, Joel rush for 5 yards to the UB45, 1ST DOWN NIU (GILBO, Nick;WILLIAMSON, Rya)." newcontext="V,1,10,H45">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="5"></p_ru>
+    <p_tk vh="H" name="GILBO, Nick" assist="Y"></p_tk>
+    <p_tk vh="H" name="WILLIAMSON, Rya" assist="Y"></p_tk>
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="UB45" context="V,1,10,H45" playid="4,6,28" type="R" form="SGUN" tokens="FORM:SGUN RUSH:28,H45, TACK:58,3"
+      text="[SGUN], BOUAGNON, Joel rush for no gain to the UB45 (FORD, Chris;ALOZIE, Okezie)." newcontext="V,2,10,H45">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="0"></p_ru>
+    <p_tk vh="H" name="FORD, Chris" assist="Y"></p_tk>
+    <p_tk vh="H" name="ALOZIE, Okezie" assist="Y"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="10" spot="UB45" context="V,2,10,H45" playid="4,7,29" type="R" tokens="RUSH:17,H39, TACK:43"
+      text="GRAHAM, Ryan rush for 6 yards to the UB39 (GILBO, Nick)." newcontext="V,3,4,H39">
+    <p_ru vh="V" name="GRAHAM, Ryan" gain="6"></p_ru>
+    <p_tk vh="H" name="GILBO, Nick"></p_tk>
+   </play>
+   <play hasball="NIU" down="3" togo="4" spot="UB39" context="V,3,4,H39" playid="4,8,30" type="R" first="R" tokens="RUSH:23,H32, TACK:43"
+      text="HUFF, Jordan rush for 7 yards to the UB32, 1ST DOWN NIU (GILBO, Nick)." newcontext="V,1,10,H32">
+    <p_ru vh="V" name="HUFF, Jordan" gain="7"></p_ru>
+    <p_tk vh="H" name="GILBO, Nick"></p_tk>
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="UB32" context="V,1,10,H32" playid="4,9,31" type="R" tokens="RUSH:23,H27, TACK:26,3"
+      text="HUFF, Jordan rush for 5 yards to the UB27 (WILLIAMSON, Rya;ALOZIE, Okezie)." newcontext="V,2,5,H27">
+    <p_ru vh="V" name="HUFF, Jordan" gain="5"></p_ru>
+    <p_tk vh="H" name="WILLIAMSON, Rya" assist="Y"></p_tk>
+    <p_tk vh="H" name="ALOZIE, Okezie" assist="Y"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="5" spot="UB27" context="V,2,5,H27" playid="4,10,32" type="R" first="R" form="PSTL" tokens="FORM:PSTL RUSH:23,H16, TACK:5"
+      text="[PSTL], HUFF, Jordan rush for 11 yards to the UB16, 1ST DOWN NIU (BAKER, Marqus)." newcontext="V,1,10,H16">
+    <p_ru vh="V" name="HUFF, Jordan" gain="11"></p_ru>
+    <p_tk vh="H" name="BAKER, Marqus"></p_tk>
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="UB16" context="V,1,10,H16" playid="4,11,33" type="R" form="SGUN" tokens="FORM:SGUN RUSH:17,H15, TACK:17"
+      text="[SGUN], GRAHAM, Ryan rush for 1 yard to the UB15 (DADEBOE, Andrew)." newcontext="V,2,9,H15">
+    <p_ru vh="V" name="GRAHAM, Ryan" gain="1"></p_ru>
+    <p_tk vh="H" name="DADEBOE, Andrew"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="9" spot="UB15" context="V,2,9,H15" playid="4,12,34" type="P" first="P" score="Y" vscore="6" hscore="3" clock="06:03" form="PSTL" tokens="FORM:PSTL PASS:17,C,19,H00 T:06:03"
+      text="[PSTL], GRAHAM, Ryan pass complete to GOLLADAY, Kenny for 15 yards to the UB0, 1ST DOWN NIU, TOUCHDOWN, clock 06:03." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="GRAHAM, Ryan" result="COMP" rcv="GOLLADAY, Kenny" gain="15"></p_pa>
+   </play>
+   <play hasball="NIU" down="1" togo="0" spot="UB03" context="V,1,0,H03" playid="4,13,35" type="X" score="Y" vscore="7" hscore="3" tokens="PAT:K,34,G"
+      text="HAGAN, Christia kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="HAGAN, Christia" qb="HAGAN, Christia" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="3"></score>
+   <drivesum plays="11" yards="59" top="3:24" driveindex="4" complete="Y"></drivesum>
+   <play hasball="NIU" down="1" togo="0" spot="NIU35" context="V,1,0,V35" playid="4,14,36" type="K" tokens="KO:34,H01 OB: SPOT:H,H35,Y"
+      text="HAGAN, Christia kickoff 64 yards to the UB1, out-of-bounds, UB ball on UB35." ob="Y" newcontext="H,1,10,H35">
+    <p_ko vh="V" name="HAGAN, Christia" gain="64" result="O"></p_ko>
+   </play>
+   <drivestart poss="H,H35,06:03" vh="H" spot="H35" clock="06:03" driveindex="5,36"></drivestart>
+   <play hasball="UB" down="1" togo="10" spot="UB35" context="H,1,10,H35" playid="5,1,37" clock="06:03" tokens="{DRIVE}:06:03"
+      text="BUFFALO drive start at 06:03." newcontext="H,1,10,H35">
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB35" context="H,1,10,H35" playid="5,2,38" type="E" first="E" form="PSTL" tokens="FORM:PSTL PASS:16,I,86,* PEN:V,HO,A,8,H45,1 NOPLAY:"
+      text="[PSTL], LICATA, Joe pass incomplete to WILLOUGHBY, Ron, PENALTY NIU holding (FLEMING, Ladell) 10 yards to the UB45, 1ST DOWN UB, NO PLAY." newcontext="H,1,10,H45">
+    <p_pn vh="V" code="HO" type="holding" name="FLEMING, Ladell" result="ACCEPT" at="H35" yards="10"></p_pn>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB45" context="H,1,10,H45" playid="5,3,39" type="R" form="SGUN" tokens="FORM:SGUN RUSH:1,H43, TACK:33,40"
+      text="[SGUN], TAYLOR, Anthone rush for loss of 2 yards to the UB43 (PAYTON, Jamaal;FOLLIARD, Sean)." newcontext="H,2,12,H43">
+    <p_ru vh="H" name="TAYLOR, Anthone" gain="-2"></p_ru>
+    <p_tk vh="V" name="PAYTON, Jamaal" assist="Y"></p_tk>
+    <p_tk vh="V" name="FOLLIARD, Sean" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="12" spot="UB43" context="H,2,12,H43" playid="5,4,40" type="P" first="P" form="SGUN" tokens="FORM:SGUN PASS:16,C,86,V27 TACK:1D"
+      text="[SGUN], LICATA, Joe pass complete to WILLOUGHBY, Ron for 30 yards to the NIU27, 1ST DOWN UB (LURRY, Shawun)." newcontext="H,1,10,V27">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="WILLOUGHBY, Ron" gain="30"></p_pa>
+    <p_tk vh="V" name="LURRY, Shawun"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="NIU27" context="H,1,10,V27" playid="5,5,41" type="R" tokens="RUSH:1,V24, TACK:33"
+      text="TAYLOR, Anthone rush for 3 yards to the NIU24 (PAYTON, Jamaal)." newcontext="H,2,7,V24">
+    <p_ru vh="H" name="TAYLOR, Anthone" gain="3"></p_ru>
+    <p_tk vh="V" name="PAYTON, Jamaal"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="7" spot="NIU24" context="H,2,7,V24" playid="5,6,42" type="P" tokens="PASS:16,I,86,*"
+      text="LICATA, Joe pass incomplete to WILLOUGHBY, Ron." newcontext="H,3,7,V24">
+    <p_pa vh="H" qb="LICATA, Joe" result="INC" rcv="WILLOUGHBY, Ron"></p_pa>
+   </play>
+   <play hasball="UB" down="3" togo="7" spot="NIU24" context="H,3,7,V24" playid="5,7,43" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,I,80,*"
+      text="[SGUN], LICATA, Joe pass incomplete to ROBINSON, Malco." newcontext="H,4,7,V24">
+    <p_pa vh="H" qb="LICATA, Joe" result="INC" rcv="ROBINSON, Malco"></p_pa>
+   </play>
+   <play hasball="UB" down="4" togo="7" spot="NIU24" context="H,4,7,V24" playid="5,8,44" type="F" clock="04:30" tokens="FGA:19,41,M,V24,L T:04:30"
+      text="MITCHESON, Adam field goal attempt from 41 MISSED - wide left, spot at NIU24, clock 04:30." newcontext="V,1,10,V24">
+    <p_fg vh="H" name="MITCHESON, Adam" distance="41" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="6" yards="41" top="1:33" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="V,V24,04:30" vh="V" spot="V24" clock="04:30" driveindex="6,44"></drivestart>
+   <play hasball="NIU" down="1" togo="10" spot="NIU24" context="V,1,10,V24" playid="6,1,45" clock="04:30" tokens="{DRIVE}:04:30"
+      text="NORTHERN ILLINOIS drive start at 04:30." newcontext="V,1,10,V24">
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="NIU24" context="V,1,10,V24" playid="6,2,46" type="R" tokens="RUSH:28,V27, TACK:1A"
+      text="BOUAGNON, Joel rush for 3 yards to the NIU27 (ROSS, Boise)." newcontext="V,2,7,V27">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="3"></p_ru>
+    <p_tk vh="H" name="ROSS, Boise"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="7" spot="NIU27" context="V,2,7,V27" playid="6,3,47" type="R" first="R" tokens="RUSH:17,V35, OB: TACK:26"
+      text="GRAHAM, Ryan rush for 8 yards to the NIU35, 1ST DOWN NIU, out-of-bounds (WILLIAMSON, Rya)." ob="Y" newcontext="V,1,10,V35">
+    <p_ru vh="V" name="GRAHAM, Ryan" gain="8"></p_ru>
+    <p_tk vh="H" name="WILLIAMSON, Rya"></p_tk>
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="NIU35" context="V,1,10,V35" playid="6,4,48" type="P" form="PSTL" tokens="FORM:PSTL PASS:17,C,22,V42 TACK:17,5"
+      text="[PSTL], GRAHAM, Ryan pass complete to TURNER, Aregero for 7 yards to the NIU42 (DADEBOE, Andrew;BAKER, Marqus)." newcontext="V,2,3,V42">
+    <p_pa vh="V" qb="GRAHAM, Ryan" result="COMP" rcv="TURNER, Aregero" gain="7"></p_pa>
+    <p_tk vh="H" name="DADEBOE, Andrew" assist="Y"></p_tk>
+    <p_tk vh="H" name="BAKER, Marqus" assist="Y"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="3" spot="NIU42" context="V,2,3,V42" playid="6,5,49" type="R" first="R" score="Y" vscore="13" hscore="3" clock="03:21" form="PSTL" tokens="FORM:PSTL RUSH:28,H00, T:03:21"
+      text="[PSTL], BOUAGNON, Joel rush for 58 yards to the UB0, 1ST DOWN NIU, TOUCHDOWN, clock 03:21." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="58"></p_ru>
+   </play>
+   <play hasball="NIU" down="1" togo="0" spot="UB03" context="V,1,0,H03" playid="6,6,50" type="X" score="Y" vscore="14" hscore="3" tokens="PAT:K,34,G"
+      text="HAGAN, Christia kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="HAGAN, Christia" qb="HAGAN, Christia" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="3"></score>
+   <drivesum plays="4" yards="76" top="1:09" driveindex="6" complete="Y"></drivesum>
+   <play hasball="NIU" down="1" togo="0" spot="NIU35" context="V,1,0,V35" playid="6,7,51" type="K" tokens="KO:34,H04 RET:1,H17 TACK:58"
+      text="HAGAN, Christia kickoff 61 yards to the UB4, TAYLOR, Anthone return 13 yards to the UB17 (CORCORAN, Josh)." newcontext="H,1,10,H17">
+    <p_ko vh="V" name="HAGAN, Christia" gain="61"></p_ko>
+    <p_kr vh="H" name="TAYLOR, Anthone" gain="13"></p_kr>
+    <p_tk vh="V" name="CORCORAN, Josh"></p_tk>
+   </play>
+   <drivestart poss="H,H17,03:15" vh="H" spot="H17" clock="03:15" driveindex="7,51"></drivestart>
+   <play hasball="UB" down="1" togo="10" spot="UB17" context="H,1,10,H17" playid="7,1,52" clock="03:15" tokens="{DRIVE}:03:15"
+      text="BUFFALO drive start at 03:15." newcontext="H,1,10,H17">
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB17" context="H,1,10,H17" playid="7,2,53" type="R" form="SGUN" tokens="FORM:SGUN RUSH:16,H18, TACK:54"
+      text="[SGUN], LICATA, Joe rush for 1 yard to the UB18 (CLINTON-EARL, C)." newcontext="H,2,9,H18">
+    <p_ru vh="H" name="LICATA, Joe" gain="1"></p_ru>
+    <p_tk vh="V" name="CLINTON-EARL, C"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="9" spot="UB18" context="H,2,9,H18" playid="7,3,54" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,C,85,H21 TACK:2 PEN:H,PF,A,70,H11,N"
+      text="[SGUN], LICATA, Joe pass complete to SCHRECK, Mason for 3 yards to the UB21 (MOORE, Marlon), PENALTY UB personal foul (KLING, John) 10 yards to the UB11." newcontext="H,2,16,H11">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="SCHRECK, Mason" gain="3"></p_pa>
+    <p_tk vh="V" name="MOORE, Marlon"></p_tk>
+    <p_pn vh="H" code="PF" type="personal foul" name="KLING, John" result="ACCEPT" at="H21" yards="10"></p_pn>
+   </play>
+   <play hasball="UB" down="2" togo="16" spot="UB11" context="H,2,16,H11" playid="7,4,55" tokens="D:3,16"
+      text="3rd and 16." newcontext="H,3,16,H11">
+   </play>
+   <play hasball="UB" down="3" togo="16" spot="UB11" context="H,3,16,H11" playid="7,5,56" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,C,10,H25 TACK:19"
+      text="[SGUN], LICATA, Joe pass complete to SMILEY, Brandon for 14 yards to the UB25 (GOLLADAY, Kenny)." newcontext="H,4,2,H25">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="SMILEY, Brandon" gain="14"></p_pa>
+    <p_tk vh="V" name="GOLLADAY, Kenny"></p_tk>
+   </play>
+   <play hasball="UB" down="4" togo="2" spot="UB25" context="H,4,2,H25" playid="7,6,57" type="U" tokens="PUNT:11,V35 RET:82,V40 TACK:27"
+      text="GRASSMAN, Tyler punt 40 yards to the NIU35, BEEBE, Chad return 5 yards to the NIU40 (GRASSMAN, Corbi)." newcontext="V,1,10,V40">
+    <p_pu vh="H" name="GRASSMAN, Tyler" gain="40"></p_pu>
+    <p_pr vh="V" name="BEEBE, Chad" gain="5"></p_pr>
+    <p_tk vh="H" name="GRASSMAN, Corbi"></p_tk>
+   </play>
+   <drivesum plays="3" yards="8" top="1:53" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="V,V40,01:22" vh="V" spot="V40" clock="01:22" driveindex="8,57"></drivestart>
+   <play hasball="NIU" down="1" togo="10" spot="NIU40" context="V,1,10,V40" playid="8,1,58" clock="01:22" tokens="{DRIVE}:01:22"
+      text="NORTHERN ILLINOIS drive start at 01:22." newcontext="V,1,10,V40">
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="NIU40" context="V,1,10,V40" playid="8,2,59" type="P" tokens="PASS:17,I,7,* BRUP:43"
+      text="GRAHAM, Ryan pass incomplete to MAXWELL, Desroy (GILBO, Nick)." newcontext="V,2,10,V40">
+    <p_pa vh="V" qb="GRAHAM, Ryan" result="INC" rcv="MAXWELL, Desroy"></p_pa>
+    <p_bu vh="H" name="GILBO, Nick"></p_bu>
+   </play>
+   <play hasball="NIU" down="2" togo="10" spot="NIU40" context="V,2,10,V40" playid="8,3,60" type="P" form="PSTL" tokens="FORM:PSTL PASS:17,C,22,V41 TACK:1A"
+      text="[PSTL], GRAHAM, Ryan pass complete to TURNER, Aregero for 1 yard to the NIU41 (ROSS, Boise)." newcontext="V,3,9,V41">
+    <p_pa vh="V" qb="GRAHAM, Ryan" result="COMP" rcv="TURNER, Aregero" gain="1"></p_pa>
+    <p_tk vh="H" name="ROSS, Boise"></p_tk>
+   </play>
+   <play hasball="NIU" down="3" togo="9" spot="NIU41" context="V,3,9,V41" playid="8,4,61" type="P" form="PSTL" tokens="FORM:PSTL PASS:17,I,82,*"
+      text="[PSTL], GRAHAM, Ryan pass incomplete to BEEBE, Chad." newcontext="V,4,9,V41">
+    <p_pa vh="V" qb="GRAHAM, Ryan" result="INC" rcv="BEEBE, Chad"></p_pa>
+   </play>
+   <play hasball="NIU" down="4" togo="9" spot="NIU41" context="V,4,9,V41" playid="8,5,62" type="U" tokens="PUNT:15,H33 OB:"
+      text="AMBROSE, Jake punt 26 yards to the UB33, out-of-bounds." ob="Y" newcontext="H,1,10,H33">
+    <p_pu vh="V" name="AMBROSE, Jake" gain="26" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="1" top="0:54" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="H,H33,00:28" vh="H" spot="H33" clock="00:28" driveindex="9,62"></drivestart>
+   <play hasball="UB" down="1" togo="10" spot="UB33" context="H,1,10,H33" playid="9,1,63" clock="00:28" tokens="{DRIVE}:00:28"
+      text="BUFFALO drive start at 00:28." newcontext="H,1,10,H33">
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB33" context="H,1,10,H33" playid="9,2,64" type="P" turnover="I" form="SGUN" tokens="FORM:SGUN PASS:16,X,1D,V40 RET:1D,V40 OB:"
+      text="[SGUN], LICATA, Joe pass intercepted by LURRY, Shawun at the NIU40, LURRY, Shawun return 0 yards to the NIU40, out-of-bounds." ob="Y" newcontext="V,1,10,V40">
+    <p_pa vh="H" qb="LICATA, Joe" result="INT"></p_pa>
+    <p_ir vh="V" name="LURRY, Shawun" at="V40" gain="0"></p_ir>
+   </play>
+   <drivesum plays="1" yards="0" top="0:07" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="V,V40,00:21" vh="V" spot="V40" clock="00:21" driveindex="10,64"></drivestart>
+   <play hasball="NIU" down="1" togo="10" spot="NIU40" context="V,1,10,V40" playid="10,1,65" clock="00:21" tokens="{DRIVE}:00:21"
+      text="NORTHERN ILLINOIS drive start at 00:21." newcontext="V,1,10,V40">
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="NIU40" context="V,1,10,V40" playid="10,2,66" type="P" form="PSTL" tokens="FORM:PSTL PASS:17,D,22,*"
+      text="[PSTL], GRAHAM, Ryan pass incomplete to TURNER, Aregero, dropped pass." newcontext="V,2,10,V40">
+    <p_pa vh="V" qb="GRAHAM, Ryan" result="DROP" rcv="TURNER, Aregero"></p_pa>
+   </play>
+   <play hasball="NIU" down="2" togo="10" spot="NIU40" context="V,2,10,V40" playid="10,3,67" type="R" form="SGUN" tokens="FORM:SGUN RUSH:22,V47, TACK:26"
+      text="[SGUN], TURNER, Aregero rush for 7 yards to the NIU47 (WILLIAMSON, Rya)." newcontext="V,3,3,V47">
+    <p_ru vh="V" name="TURNER, Aregero" gain="7"></p_ru>
+    <p_tk vh="H" name="WILLIAMSON, Rya"></p_tk>
+   </play>
+   <score qtr="1" V="14" H="3"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="NIU">
+    <firstdowns no="6" rush="5" pass="1" penalty="0"></firstdowns>
+    <penalties no="2" yds="25"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:03"></misc>
+    <rush att="16" yds="128" gain="128" loss="0" td="1" long="58"></rush>
+    <pass comp="3" att="7" int="0" yds="23" td="1" long="15" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="23" td="1" long="15"></rcv>
+    <punt no="2" yds="70" long="44" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="35.0"></punt>
+    <ko no="3" yds="187" ob="1" tb="0"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="13" tacka="4" tot_tack="17" tflua="2" tfla="2" tflyds="5" sacks="0" sackyds="0" qbh="1" int="1" intyds="0"></defense>
+    <kr no="1" yds="22" td="0" long="22"></kr>
+    <pr no="2" yds="11" td="0" long="6"></pr>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UB">
+    <firstdowns no="4" rush="0" pass="3" penalty="1"></firstdowns>
+    <penalties no="2" yds="15"></penalties>
+    <conversions thirdconv="1" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:57"></misc>
+    <rush att="8" yds="12" gain="17" loss="5" td="0" long="6"></rush>
+    <pass comp="5" att="11" int="1" yds="99" td="0" long="40" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="99" td="0" long="40"></rcv>
+    <punt no="2" yds="75" long="40" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="37.5"></punt>
+    <ko no="1" yds="57" ob="0" tb="0"></ko>
+    <fg made="1" att="2" long="26" blkd="0"></fg>
+    <defense tackua="15" tacka="10" tot_tack="25" sacks="0" sackyds="0" brup="1"></defense>
+    <kr no="2" yds="41" td="0" long="28"></kr>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="NIU" down="3" togo="3" spot="NIU47" context="V,3,3,V47" playid="10,4,68" type="#" clock="15:00" tokens="Q:2 T:15:00"
+      text="Start of 2nd quarter, clock 15:00." newcontext="V,3,3,V47">
+   </play>
+   <play hasball="NIU" down="3" togo="3" spot="NIU47" context="V,3,3,V47" playid="10,5,69" type="R" tokens="RUSH:17,V49, TACK:43"
+      text="GRAHAM, Ryan rush for 2 yards to the NIU49 (GILBO, Nick)." newcontext="V,4,1,V49">
+    <p_ru vh="V" name="GRAHAM, Ryan" gain="2"></p_ru>
+    <p_tk vh="H" name="GILBO, Nick"></p_tk>
+   </play>
+   <play hasball="NIU" down="4" togo="1" spot="NIU49" context="V,4,1,V49" playid="10,6,70" type="R" first="R" form="PSTL" tokens="FORM:PSTL RUSH:28,V50, TACK:43,3"
+      text="[PSTL], BOUAGNON, Joel rush for 1 yard to the 50 yardline, 1ST DOWN NIU (GILBO, Nick;ALOZIE, Okezie)." newcontext="V,1,10,V50">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="1"></p_ru>
+    <p_tk vh="H" name="GILBO, Nick" assist="Y"></p_tk>
+    <p_tk vh="H" name="ALOZIE, Okezie" assist="Y"></p_tk>
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="NIU50" context="V,1,10,V50" playid="10,7,71" type="R" form="PSTL" tokens="FORM:PSTL RUSH:28,H47, TACK:26,43"
+      text="[PSTL], BOUAGNON, Joel rush for 3 yards to the UB47 (WILLIAMSON, Rya;GILBO, Nick)." newcontext="V,2,7,H47">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="3"></p_ru>
+    <p_tk vh="H" name="WILLIAMSON, Rya" assist="Y"></p_tk>
+    <p_tk vh="H" name="GILBO, Nick" assist="Y"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="7" spot="UB47" context="V,2,7,H47" playid="10,8,72" type="R" form="SGUN" tokens="FORM:SGUN RUSH:28,H47, TACK:43"
+      text="[SGUN], BOUAGNON, Joel rush for no gain to the UB47 (GILBO, Nick)." newcontext="V,3,7,H47">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="0"></p_ru>
+    <p_tk vh="H" name="GILBO, Nick"></p_tk>
+   </play>
+   <play hasball="NIU" down="3" togo="7" spot="UB47" context="V,3,7,H47" playid="10,9,73" type="R" form="SGUN" tokens="FORM:SGUN RUSH:17,H43, TACK:5"
+      text="[SGUN], GRAHAM, Ryan rush for 4 yards to the UB43 (BAKER, Marqus)." newcontext="V,4,3,H43">
+    <p_ru vh="V" name="GRAHAM, Ryan" gain="4"></p_ru>
+    <p_tk vh="H" name="BAKER, Marqus"></p_tk>
+   </play>
+   <play hasball="NIU" down="4" togo="3" spot="UB43" context="V,4,3,H43" playid="10,10,74" type="#" clock="12:48" form="PSTL" tokens="FORM:PSTL TOUT:H T:12:48"
+      text="[PSTL], timeout Buffalo, clock 12:48." newcontext="V,4,3,H43">
+    <p_to vh="H" team="Buffalo"></p_to>
+   </play>
+   <play hasball="NIU" down="4" togo="3" spot="UB43" context="V,4,3,H43" playid="10,11,75" type="U" tokens="PUNT:15,V50 OB:"
+      text="AMBROSE, Jake punt -7 yards to the 50 yardline, out-of-bounds." ob="Y" newcontext="H,1,10,H50">
+    <p_pu vh="V" name="AMBROSE, Jake" gain="-7" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="7" yards="17" top="2:40" driveindex="10" complete="Y"></drivesum>
+   <drivestart poss="H,H50,12:41" vh="H" spot="H50" clock="12:41" driveindex="11,75"></drivestart>
+   <play hasball="UB" down="1" togo="10" spot="UB50" context="H,1,10,H50" playid="11,1,76" clock="12:41" tokens="{DRIVE}:12:41"
+      text="BUFFALO drive start at 12:41." newcontext="H,1,10,H50">
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB50" context="H,1,10,H50" playid="11,2,77" type="R" tokens="RUSH:2,V48, TACK:56,2"
+      text="JOHNSON, Jordan rush for 2 yards to the NIU48 (COMPTON, Ben;MOORE, Marlon)." newcontext="H,2,8,V48">
+    <p_ru vh="H" name="JOHNSON, Jordan" gain="2"></p_ru>
+    <p_tk vh="V" name="COMPTON, Ben" assist="Y"></p_tk>
+    <p_tk vh="V" name="MOORE, Marlon" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="8" spot="NIU48" context="H,2,8,V48" playid="11,3,78" type="P" turnover="I" form="PSTL" tokens="FORM:PSTL PASS:16,X,2,V23 RET:2,V23 OB:"
+      text="[PSTL], LICATA, Joe pass intercepted by MOORE, Marlon at the NIU23, MOORE, Marlon return 0 yards to the NIU23, out-of-bounds." ob="Y" newcontext="V,1,10,V23">
+    <p_pa vh="H" qb="LICATA, Joe" result="INT"></p_pa>
+    <p_ir vh="V" name="MOORE, Marlon" at="V23" gain="0"></p_ir>
+   </play>
+   <drivesum plays="2" yards="2" top="0:43" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="V,V23,11:58" vh="V" spot="V23" clock="11:58" driveindex="12,78"></drivestart>
+   <play hasball="NIU" down="1" togo="10" spot="NIU23" context="V,1,10,V23" playid="12,1,79" clock="11:58" tokens="{DRIVE}:11:58"
+      text="NORTHERN ILLINOIS drive start at 11:58." newcontext="V,1,10,V23">
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="NIU23" context="V,1,10,V23" playid="12,2,80" type="R" first="R" tokens="RUSH:22,V34, TACK:43"
+      text="TURNER, Aregero rush for 11 yards to the NIU34, 1ST DOWN NIU (GILBO, Nick)." newcontext="V,1,10,V34">
+    <p_ru vh="V" name="TURNER, Aregero" gain="11"></p_ru>
+    <p_tk vh="H" name="GILBO, Nick"></p_tk>
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="NIU34" context="V,1,10,V34" playid="12,3,81" type="P" form="PSTL" tokens="FORM:PSTL PASS:17,I,19,* BRUP:1A"
+      text="[PSTL], GRAHAM, Ryan pass incomplete to GOLLADAY, Kenny (ROSS, Boise)." newcontext="V,2,10,V34">
+    <p_pa vh="V" qb="GRAHAM, Ryan" result="INC" rcv="GOLLADAY, Kenny"></p_pa>
+    <p_bu vh="H" name="ROSS, Boise"></p_bu>
+   </play>
+   <play hasball="NIU" down="2" togo="10" spot="NIU34" context="V,2,10,V34" playid="12,4,82" type="R" form="SGUN" tokens="FORM:SGUN RUSH:17,V42, OB: TACK:39"
+      text="[SGUN], GRAHAM, Ryan rush for 8 yards to the NIU42, out-of-bounds (LEWIS, Cameron)." ob="Y" newcontext="V,3,2,V42">
+    <p_ru vh="V" name="GRAHAM, Ryan" gain="8"></p_ru>
+    <p_tk vh="H" name="LEWIS, Cameron"></p_tk>
+   </play>
+   <play hasball="NIU" down="3" togo="2" spot="NIU42" context="V,3,2,V42" playid="12,5,83" type="R" first="R" form="PSTL" tokens="FORM:PSTL RUSH:28,V48, TACK:26,3"
+      text="[PSTL], BOUAGNON, Joel rush for 6 yards to the NIU48, 1ST DOWN NIU (WILLIAMSON, Rya;ALOZIE, Okezie)." newcontext="V,1,10,V48">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="6"></p_ru>
+    <p_tk vh="H" name="WILLIAMSON, Rya" assist="Y"></p_tk>
+    <p_tk vh="H" name="ALOZIE, Okezie" assist="Y"></p_tk>
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="NIU48" context="V,1,10,V48" playid="12,6,84" type="P" form="SGUN" tokens="FORM:SGUN PASS:17,C,22,H47 TACK:17"
+      text="[SGUN], GRAHAM, Ryan pass complete to TURNER, Aregero for 5 yards to the UB47 (DADEBOE, Andrew)." newcontext="V,2,5,H47">
+    <p_pa vh="V" qb="GRAHAM, Ryan" result="COMP" rcv="TURNER, Aregero" gain="5"></p_pa>
+    <p_tk vh="H" name="DADEBOE, Andrew"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="5" spot="UB47" context="V,2,5,H47" playid="12,7,85" type="P" first="P" form="SGUN" tokens="FORM:SGUN PASS:17,C,22,H37 OB: TACK:17"
+      text="[SGUN], GRAHAM, Ryan pass complete to TURNER, Aregero for 10 yards to the UB37, 1ST DOWN NIU, out-of-bounds (DADEBOE, Andrew)." ob="Y" newcontext="V,1,10,H37">
+    <p_pa vh="V" qb="GRAHAM, Ryan" result="COMP" rcv="TURNER, Aregero" gain="10"></p_pa>
+    <p_tk vh="H" name="DADEBOE, Andrew"></p_tk>
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="UB37" context="V,1,10,H37" playid="12,8,86" type="P" form="PSTL" tokens="FORM:PSTL PASS:17,C,22,H28 TACK:3"
+      text="[PSTL], GRAHAM, Ryan pass complete to TURNER, Aregero for 9 yards to the UB28 (ALOZIE, Okezie)." newcontext="V,2,1,H28">
+    <p_pa vh="V" qb="GRAHAM, Ryan" result="COMP" rcv="TURNER, Aregero" gain="9"></p_pa>
+    <p_tk vh="H" name="ALOZIE, Okezie"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="1" spot="UB28" context="V,2,1,H28" playid="12,9,87" type="R" first="R" tokens="RUSH:28,H08, TACK:17,3"
+      text="BOUAGNON, Joel rush for 20 yards to the UB8, 1ST DOWN NIU (DADEBOE, Andrew;ALOZIE, Okezie)." newcontext="V,1,0,H08">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="20"></p_ru>
+    <p_tk vh="H" name="DADEBOE, Andrew" assist="Y"></p_tk>
+    <p_tk vh="H" name="ALOZIE, Okezie" assist="Y"></p_tk>
+   </play>
+   <play hasball="NIU" down="1" togo="0" spot="UB08" context="V,1,0,H08" playid="12,10,88" type="E" form="PSTL" tokens="FORM:PSTL RUSH:28,H19, TACK:23 PEN:H,SU,A,17,H04,N NOPLAY:"
+      text="[PSTL], BOUAGNON, Joel rush for loss of 11 yards to the UB19 (BERRY, Brandon), PENALTY UB substitution infraction (DADEBOE, Andrew) 4 yards to the UB4, NO PLAY." newcontext="V,1,0,H04">
+    <p_pn vh="H" code="SU" type="substitution infraction" name="DADEBOE, Andrew" result="ACCEPT" at="H08" yards="4"></p_pn>
+   </play>
+   <play hasball="NIU" down="1" togo="0" spot="UB04" context="V,1,0,H04" playid="12,11,89" type="E" tokens="PEN:H,SU,A,TM,H02,N"
+      text="PENALTY UB substitution infraction 2 yards to the UB2." newcontext="V,1,0,H02">
+    <p_pn vh="H" code="SU" type="substitution infraction" result="ACCEPT" at="H04" yards="2"></p_pn>
+   </play>
+   <play hasball="NIU" down="1" togo="0" spot="UB02" context="V,1,0,H02" playid="12,12,90" type="R" form="PSTL" tokens="FORM:PSTL RUSH:28,H01, TACK:26,43"
+      text="[PSTL], BOUAGNON, Joel rush for 1 yard to the UB1 (WILLIAMSON, Rya;GILBO, Nick)." newcontext="V,2,0,H01">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="1"></p_ru>
+    <p_tk vh="H" name="WILLIAMSON, Rya" assist="Y"></p_tk>
+    <p_tk vh="H" name="GILBO, Nick" assist="Y"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="0" spot="UB01" context="V,2,0,H01" playid="12,13,91" type="R" form="PSTL" tokens="FORM:PSTL RUSH:28,H01, TACK:55"
+      text="[PSTL], BOUAGNON, Joel rush for no gain to the UB1 (CRAWFORD, Brand)." newcontext="V,3,0,H01">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="0"></p_ru>
+    <p_tk vh="H" name="CRAWFORD, Brand"></p_tk>
+   </play>
+   <play hasball="NIU" down="3" togo="0" spot="UB01" context="V,3,0,H01" playid="12,14,92" type="R" score="Y" vscore="20" hscore="3" clock="08:25" form="PSTL" tokens="FORM:PSTL RUSH:28,H00, T:08:25"
+      text="[PSTL], BOUAGNON, Joel rush for 1 yard to the UB0, TOUCHDOWN, clock 08:25." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="1"></p_ru>
+   </play>
+   <play hasball="NIU" down="1" togo="0" spot="UB03" context="V,1,0,H03" playid="12,15,93" type="X" score="Y" vscore="21" hscore="3" tokens="PAT:K,34,G"
+      text="HAGAN, Christia kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="HAGAN, Christia" qb="HAGAN, Christia" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="21" H="3"></score>
+   <drivesum plays="11" yards="77" top="3:33" driveindex="12" complete="Y"></drivesum>
+   <play hasball="NIU" down="1" togo="0" spot="NIU35" context="V,1,0,V35" playid="12,16,94" type="K" tokens="KO:34,H11 RET:21,H23 TACK:21"
+      text="HAGAN, Christia kickoff 54 yards to the UB11, CAMPBELL, Devin return 12 yards to the UB23 (JONES, Marcus)." newcontext="H,1,10,H23">
+    <p_ko vh="V" name="HAGAN, Christia" gain="54"></p_ko>
+    <p_kr vh="H" name="CAMPBELL, Devin" gain="12"></p_kr>
+    <p_tk vh="V" name="JONES, Marcus"></p_tk>
+   </play>
+   <drivestart poss="H,H23,08:20" vh="H" spot="H23" clock="08:20" driveindex="13,94"></drivestart>
+   <play hasball="UB" down="1" togo="10" spot="UB23" context="H,1,10,H23" playid="13,1,95" clock="08:20" tokens="{DRIVE}:08:20"
+      text="BUFFALO drive start at 08:20." newcontext="H,1,10,H23">
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB23" context="H,1,10,H23" playid="13,2,96" type="R" form="PSTL" tokens="FORM:PSTL RUSH:1,H23, TACK:33,27"
+      text="[PSTL], TAYLOR, Anthone rush for no gain to the UB23 (PAYTON, Jamaal;JOHNSON, Jawaun)." newcontext="H,2,10,H23">
+    <p_ru vh="H" name="TAYLOR, Anthone" gain="0"></p_ru>
+    <p_tk vh="V" name="PAYTON, Jamaal" assist="Y"></p_tk>
+    <p_tk vh="V" name="JOHNSON, Jawaun" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="10" spot="UB23" context="H,2,10,H23" playid="13,3,97" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,C,86,H30 TACK:1D"
+      text="[SGUN], LICATA, Joe pass complete to WILLOUGHBY, Ron for 7 yards to the UB30 (LURRY, Shawun)." newcontext="H,3,3,H30">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="WILLOUGHBY, Ron" gain="7"></p_pa>
+    <p_tk vh="V" name="LURRY, Shawun"></p_tk>
+   </play>
+   <play hasball="UB" down="3" togo="3" spot="UB30" context="H,3,3,H30" playid="13,4,98" type="P" first="P" form="SGUN" tokens="FORM:SGUN PASS:16,C,7,V49 TACK:6"
+      text="[SGUN], LICATA, Joe pass complete to MCGILL, Marcus for 21 yards to the NIU49, 1ST DOWN UB (JONES, Bobby)." newcontext="H,1,10,V49">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="MCGILL, Marcus" gain="21"></p_pa>
+    <p_tk vh="V" name="JONES, Bobby"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="NIU49" context="H,1,10,V49" playid="13,5,99" type="R" first="R" form="SGUN" tokens="FORM:SGUN RUSH:2,V32, TACK:2"
+      text="[SGUN], JOHNSON, Jordan rush for 17 yards to the NIU32, 1ST DOWN UB (MOORE, Marlon)." newcontext="H,1,10,V32">
+    <p_ru vh="H" name="JOHNSON, Jordan" gain="17"></p_ru>
+    <p_tk vh="V" name="MOORE, Marlon"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="NIU32" context="H,1,10,V32" playid="13,6,100" type="R" form="SGUN" tokens="FORM:SGUN RUSH:2,V34, TACK:24"
+      text="[SGUN], JOHNSON, Jordan rush for loss of 2 yards to the NIU34 (MAYES, Brandon)." newcontext="H,2,12,V34">
+    <p_ru vh="H" name="JOHNSON, Jordan" gain="-2"></p_ru>
+    <p_tk vh="V" name="MAYES, Brandon"></p_tk>
+   </play>
+   <comment text="Johnson lined up as QB last two plays."></comment>
+   <play hasball="UB" down="2" togo="12" spot="NIU34" context="H,2,12,V34" playid="13,7,102" type="P" first="P" form="SGUN" tokens="FORM:SGUN PASS:16,C,1,V19 TACK:33"
+      text="[SGUN], LICATA, Joe pass complete to TAYLOR, Anthone for 15 yards to the NIU19, 1ST DOWN UB (PAYTON, Jamaal)." newcontext="H,1,10,V19">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="TAYLOR, Anthone" gain="15"></p_pa>
+    <p_tk vh="V" name="PAYTON, Jamaal"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="NIU19" context="H,1,10,V19" playid="13,8,103" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,I,1,*"
+      text="[SGUN], LICATA, Joe pass incomplete to TAYLOR, Anthone." newcontext="H,2,10,V19">
+    <p_pa vh="H" qb="LICATA, Joe" result="INC" rcv="TAYLOR, Anthone"></p_pa>
+   </play>
+   <play hasball="UB" down="2" togo="10" spot="NIU19" context="H,2,10,V19" playid="13,9,104" type="R" form="PSTL" tokens="FORM:PSTL RUSH:1,V19, TACK:44"
+      text="[PSTL], TAYLOR, Anthone rush for no gain to the NIU19 (FORD, Perez)." newcontext="H,3,10,V19">
+    <p_ru vh="H" name="TAYLOR, Anthone" gain="0"></p_ru>
+    <p_tk vh="V" name="FORD, Perez"></p_tk>
+   </play>
+   <play hasball="UB" down="3" togo="10" spot="NIU19" context="H,3,10,V19" playid="13,10,105" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,C,89,V19 TACK:24,56"
+      text="[SGUN], LICATA, Joe pass complete to WEISER, Matt for no gain to the NIU19 (MAYES, Brandon;COMPTON, Ben)." newcontext="H,4,10,V19">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="WEISER, Matt" gain="0"></p_pa>
+    <p_tk vh="V" name="MAYES, Brandon" assist="Y"></p_tk>
+    <p_tk vh="V" name="COMPTON, Ben" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="4" togo="10" spot="NIU19" context="H,4,10,V19" playid="13,11,106" type="F" clock="03:24" tokens="FGA:19,36,M,V20,R T:03:24"
+      text="MITCHESON, Adam field goal attempt from 36 MISSED - wide right, spot at NIU20, clock 03:24." newcontext="V,1,10,V20">
+    <p_fg vh="H" name="MITCHESON, Adam" distance="36" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="10" yards="58" top="4:56" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="V,V20,03:24" vh="V" spot="V20" clock="03:24" driveindex="14,106"></drivestart>
+   <play hasball="NIU" down="1" togo="10" spot="NIU20" context="V,1,10,V20" playid="14,1,107" clock="03:24" tokens="{DRIVE}:03:24"
+      text="NORTHERN ILLINOIS drive start at 03:24." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="NIU20" context="V,1,10,V20" playid="14,2,108" type="R" form="SGUN" tokens="FORM:SGUN RUSH:22,V27, TACK:26"
+      text="[SGUN], TURNER, Aregero rush for 7 yards to the NIU27 (WILLIAMSON, Rya)." newcontext="V,2,3,V27">
+    <p_ru vh="V" name="TURNER, Aregero" gain="7"></p_ru>
+    <p_tk vh="H" name="WILLIAMSON, Rya"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="3" spot="NIU27" context="V,2,3,V27" playid="14,3,109" type="R" first="R" form="PSTL" tokens="FORM:PSTL RUSH:23,V38, TACK:3"
+      text="[PSTL], HUFF, Jordan rush for 11 yards to the NIU38, 1ST DOWN NIU (ALOZIE, Okezie)." newcontext="V,1,10,V38">
+    <p_ru vh="V" name="HUFF, Jordan" gain="11"></p_ru>
+    <p_tk vh="H" name="ALOZIE, Okezie"></p_tk>
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="NIU38" context="V,1,10,V38" playid="14,4,110" type="R" form="PSTL" tokens="FORM:PSTL RUSH:17,V44, TACK:12"
+      text="[PSTL], GRAHAM, Ryan rush for 6 yards to the NIU44 (STANBACK, Brand)." newcontext="V,2,4,V44">
+    <p_ru vh="V" name="GRAHAM, Ryan" gain="6"></p_ru>
+    <p_tk vh="H" name="STANBACK, Brand"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="4" spot="NIU44" context="V,2,4,V44" playid="14,5,111" type="P" first="P" form="PSTL" tokens="FORM:PSTL PASS:17,C,22,H49 OB: TACK:26"
+      text="[PSTL], GRAHAM, Ryan pass complete to TURNER, Aregero for 7 yards to the UB49, 1ST DOWN NIU, out-of-bounds (WILLIAMSON, Rya)." ob="Y" newcontext="V,1,10,H49">
+    <p_pa vh="V" qb="GRAHAM, Ryan" result="COMP" rcv="TURNER, Aregero" gain="7"></p_pa>
+    <p_tk vh="H" name="WILLIAMSON, Rya"></p_tk>
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="UB49" context="V,1,10,H49" playid="14,6,112" type="P" first="P" form="SGUN" tokens="FORM:SGUN PASS:17,C,19,H12 TACK:1A"
+      text="[SGUN], GRAHAM, Ryan pass complete to GOLLADAY, Kenny for 37 yards to the UB12, 1ST DOWN NIU (ROSS, Boise)." newcontext="V,1,10,H12">
+    <p_pa vh="V" qb="GRAHAM, Ryan" result="COMP" rcv="GOLLADAY, Kenny" gain="37"></p_pa>
+    <p_tk vh="H" name="ROSS, Boise"></p_tk>
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="UB12" context="V,1,10,H12" playid="14,7,113" type="R" form="PSTL" tokens="FORM:PSTL RUSH:23,H11, TACK:90"
+      text="[PSTL], HUFF, Jordan rush for 1 yard to the UB11 (BRANDON, Justin)." newcontext="V,2,9,H11">
+    <p_ru vh="V" name="HUFF, Jordan" gain="1"></p_ru>
+    <p_tk vh="H" name="BRANDON, Justin"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="9" spot="UB11" context="V,2,9,H11" playid="14,8,114" type="P" first="P" form="PSTL" tokens="FORM:PSTL PASS:17,C,19,H02 TACK:43,23"
+      text="[PSTL], GRAHAM, Ryan pass complete to GOLLADAY, Kenny for 9 yards to the UB2, 1ST DOWN NIU (GILBO, Nick;BERRY, Brandon)." newcontext="V,1,0,H02">
+    <p_pa vh="V" qb="GRAHAM, Ryan" result="COMP" rcv="GOLLADAY, Kenny" gain="9"></p_pa>
+    <p_tk vh="H" name="GILBO, Nick" assist="Y"></p_tk>
+    <p_tk vh="H" name="BERRY, Brandon" assist="Y"></p_tk>
+   </play>
+   <play hasball="NIU" down="1" togo="0" spot="UB02" context="V,1,0,H02" playid="14,9,115" type="R" form="PSTL" tokens="FORM:PSTL RUSH:23,H04, TACK:23"
+      text="[PSTL], HUFF, Jordan rush for loss of 2 yards to the UB4 (BERRY, Brandon)." newcontext="V,2,0,H04">
+    <p_ru vh="V" name="HUFF, Jordan" gain="-2"></p_ru>
+    <p_tk vh="H" name="BERRY, Brandon"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="0" spot="UB04" context="V,2,0,H04" playid="14,10,116" type="R" form="PSTL" tokens="FORM:PSTL RUSH:17,H01, TACK:43,1H"
+      text="[PSTL], GRAHAM, Ryan rush for 3 yards to the UB1 (GILBO, Nick;HARGROVE, ISHMA)." newcontext="V,3,0,H01">
+    <p_ru vh="V" name="GRAHAM, Ryan" gain="3"></p_ru>
+    <p_tk vh="H" name="GILBO, Nick" assist="Y"></p_tk>
+    <p_tk vh="H" name="HARGROVE, ISHMA" assist="Y"></p_tk>
+   </play>
+   <play hasball="NIU" down="3" togo="0" spot="UB01" context="V,3,0,H01" playid="14,11,117" type="#" clock="00:14" tokens="TOUT:V T:00:14"
+      text="Timeout Northern Illinois, clock 00:14." newcontext="V,3,0,H01">
+    <p_to vh="V" team="Northern Illinois"></p_to>
+   </play>
+   <play hasball="NIU" down="3" togo="0" spot="UB01" context="V,3,0,H01" playid="14,12,118" type="#" clock="00:14" tokens="TOUT:H T:00:14"
+      text="Timeout Buffalo, clock 00:14." newcontext="V,3,0,H01">
+    <p_to vh="H" team="Buffalo"></p_to>
+   </play>
+   <play hasball="NIU" down="3" togo="0" spot="UB01" context="V,3,0,H01" playid="14,13,119" type="R" score="Y" vscore="27" hscore="3" clock="00:10" form="SGUN" tokens="FORM:SGUN RUSH:23,H00, T:00:10"
+      text="[SGUN], HUFF, Jordan rush for 1 yard to the UB0, TOUCHDOWN, clock 00:10." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="HUFF, Jordan" gain="1"></p_ru>
+   </play>
+   <play hasball="NIU" down="1" togo="0" spot="UB03" context="V,1,0,H03" playid="14,14,120" type="X" score="Y" vscore="28" hscore="3" tokens="PAT:K,34,G"
+      text="HAGAN, Christia kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="HAGAN, Christia" qb="HAGAN, Christia" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="28" H="3"></score>
+   <drivesum plays="10" yards="80" top="3:14" driveindex="14" complete="Y"></drivesum>
+   <play hasball="NIU" down="1" togo="0" spot="NIU35" context="V,1,0,V35" playid="14,15,121" type="K" tokens="KO:34,H03 RET:21,H21 TACK:21"
+      text="HAGAN, Christia kickoff 62 yards to the UB3, CAMPBELL, Devin return 18 yards to the UB21 (JONES, Marcus)." newcontext="H,1,10,H21">
+    <p_ko vh="V" name="HAGAN, Christia" gain="62"></p_ko>
+    <p_kr vh="H" name="CAMPBELL, Devin" gain="18"></p_kr>
+    <p_tk vh="V" name="JONES, Marcus"></p_tk>
+   </play>
+   <drivestart poss="H,H21,00:04" vh="H" spot="H21" clock="00:04" driveindex="15,121"></drivestart>
+   <play hasball="UB" down="1" togo="10" spot="UB21" context="H,1,10,H21" playid="15,1,122" clock="00:04" tokens="{DRIVE}:00:04"
+      text="BUFFALO drive start at 00:04." newcontext="H,1,10,H21">
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB21" context="H,1,10,H21" playid="15,2,123" type="R" tokens="RUSH:TM,H20,"
+      text="Team rush for loss of 1 yard to the UB20." newcontext="H,2,11,H20">
+    <p_ru vh="H" name="Team" gain="-1"></p_ru>
+   </play>
+   <play hasball="UB" down="2" togo="11" spot="UB20" context="H,2,11,H20" playid="15,3,124" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of half, clock 00:00." newcontext="H,2,11,H20">
+   </play>
+   <drivesum plays="1" yards="-1" top="0:04" driveindex="15" complete="Y"></drivesum>
+   <score qtr="2" V="28" H="3"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="NIU">
+    <firstdowns no="9" rush="5" pass="4" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="3" thirdatt="5" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:06"></misc>
+    <rush att="19" yds="84" gain="86" loss="2" td="2" long="0"></rush>
+    <pass comp="6" att="7" int="0" yds="77" td="0" long="22" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="77" td="0" long="22"></rcv>
+    <punt no="1" yds="-7" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="-7.0"></punt>
+    <ko no="2" yds="116" ob="0" tb="0"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="8" tacka="6" tot_tack="14" tflua="1" tfla="0" tflyds="2" sacks="0" sackyds="0" int="1" intyds="0"></defense>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UB">
+    <firstdowns no="3" rush="1" pass="2" penalty="0"></firstdowns>
+    <penalties no="2" yds="6"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="05:54"></misc>
+    <rush att="6" yds="16" gain="19" loss="3" td="0" long="11"></rush>
+    <pass comp="4" att="6" int="1" yds="43" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="43" td="0" long="0"></rcv>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <defense tackua="16" tacka="14" tot_tack="30" tflua="1" tfla="0" tflyds="2" sacks="0" sackyds="0" brup="1"></defense>
+    <kr no="2" yds="30" td="0" long="0"></kr>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="UB" down="2" togo="11" spot="UB20" context="H,2,11,H20" playid="15,4,125" type="#" clock="15:00" tokens="Q:3 T:15:00 SPOT:H,H35,N"
+      text="Start of 3rd quarter, clock 15:00, UB ball on UB35." newcontext="H,2,11,H35">
+   </play>
+   <play hasball="UB" down="2" togo="11" spot="UB35" context="H,2,11,H35" playid="15,5,126" type="K" tokens="KO:11,V00 RET:22,V28 TACK:1H"
+      text="GRASSMAN, Tyler kickoff 65 yards to the NIU0, TURNER, Aregero return 28 yards to the NIU28 (HARGROVE, ISHMA)." newcontext="V,1,10,V28">
+    <p_ko vh="H" name="GRASSMAN, Tyler" gain="65"></p_ko>
+    <p_kr vh="V" name="TURNER, Aregero" gain="28"></p_kr>
+    <p_tk vh="H" name="HARGROVE, ISHMA"></p_tk>
+   </play>
+   <drivestart poss="V,V28,14:55" vh="V" spot="V28" clock="14:55" driveindex="16,126"></drivestart>
+   <play hasball="NIU" down="1" togo="10" spot="NIU28" context="V,1,10,V28" playid="16,1,127" clock="14:55" tokens="{DRIVE}:14:55"
+      text="NORTHERN ILLINOIS drive start at 14:55." newcontext="V,1,10,V28">
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="NIU28" context="V,1,10,V28" playid="16,2,128" type="R" form="SGUN" tokens="FORM:SGUN RUSH:28,V33, TACK:26"
+      text="[SGUN], BOUAGNON, Joel rush for 5 yards to the NIU33 (WILLIAMSON, Rya)." newcontext="V,2,5,V33">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="5"></p_ru>
+    <p_tk vh="H" name="WILLIAMSON, Rya"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="5" spot="NIU33" context="V,2,5,V33" playid="16,3,129" type="R" first="R" form="PSTL" tokens="FORM:PSTL RUSH:82,V46, TACK:26"
+      text="[PSTL], BEEBE, Chad rush for 13 yards to the NIU46, 1ST DOWN NIU (WILLIAMSON, Rya)." newcontext="V,1,10,V46">
+    <p_ru vh="V" name="BEEBE, Chad" gain="13"></p_ru>
+    <p_tk vh="H" name="WILLIAMSON, Rya"></p_tk>
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="NIU46" context="V,1,10,V46" playid="16,4,130" type="R" form="SGUN" tokens="FORM:SGUN RUSH:17,V50, TACK:43"
+      text="[SGUN], GRAHAM, Ryan rush for 4 yards to the 50 yardline (GILBO, Nick)." newcontext="V,2,6,V50">
+    <p_ru vh="V" name="GRAHAM, Ryan" gain="4"></p_ru>
+    <p_tk vh="H" name="GILBO, Nick"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="6" spot="NIU50" context="V,2,6,V50" playid="16,5,131" type="R" form="SGUN" tokens="FORM:SGUN RUSH:28,H48, TACK:23"
+      text="[SGUN], BOUAGNON, Joel rush for 2 yards to the UB48 (BERRY, Brandon)." newcontext="V,3,4,H48">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="2"></p_ru>
+    <p_tk vh="H" name="BERRY, Brandon"></p_tk>
+   </play>
+   <play hasball="NIU" down="3" togo="4" spot="UB48" context="V,3,4,H48" playid="16,6,132" type="R" first="R" form="SGUN" tokens="FORM:SGUN RUSH:17,H36, TACK:3"
+      text="[SGUN], GRAHAM, Ryan rush for 12 yards to the UB36, 1ST DOWN NIU (ALOZIE, Okezie)." newcontext="V,1,10,H36">
+    <p_ru vh="V" name="GRAHAM, Ryan" gain="12"></p_ru>
+    <p_tk vh="H" name="ALOZIE, Okezie"></p_tk>
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="UB36" context="V,1,10,H36" playid="16,7,133" type="R" form="SGUN" tokens="FORM:SGUN RUSH:28,H32, TACK:3"
+      text="[SGUN], BOUAGNON, Joel rush for 4 yards to the UB32 (ALOZIE, Okezie)." newcontext="V,2,6,H32">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="4"></p_ru>
+    <p_tk vh="H" name="ALOZIE, Okezie"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="6" spot="UB32" context="V,2,6,H32" playid="16,8,134" type="R" form="SGUN" tokens="FORM:SGUN RUSH:28,H31, TACK:43"
+      text="[SGUN], BOUAGNON, Joel rush for 1 yard to the UB31 (GILBO, Nick)." newcontext="V,3,5,H31">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="1"></p_ru>
+    <p_tk vh="H" name="GILBO, Nick"></p_tk>
+   </play>
+   <play hasball="NIU" down="3" togo="5" spot="UB31" context="V,3,5,H31" playid="16,9,135" type="P" turnover="F" form="SGUN" tokens="FORM:SGUN PASS:17,F,TM,H33 SACK:34 FUMB:H,H33,3"
+      text="[SGUN], GRAHAM, Ryan sacked for loss of 2 yards to the UB33 (ANYANWU, Randy), fumble by GRAHAM, Ryan recovered by UB ALOZIE, Okezie at UB33." newcontext="H,1,10,H33">
+    <p_pa vh="V" qb="GRAHAM, Ryan" result="FUMB" gain="-2"></p_pa>
+    <p_fumb vh="V" name="GRAHAM, Ryan" at="H33" frvh="H" frname="ALOZIE, Okezie"></p_fumb>
+    <p_tk vh="H" name="ANYANWU, Randy" sack="Y"></p_tk>
+   </play>
+   <drivesum plays="8" yards="39" top="2:57" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="H,H33,11:58" vh="H" spot="H33" clock="11:58" driveindex="17,135"></drivestart>
+   <play hasball="UB" down="1" togo="10" spot="UB33" context="H,1,10,H33" playid="17,1,136" clock="11:58" tokens="{DRIVE}:11:58"
+      text="BUFFALO drive start at 11:58." newcontext="H,1,10,H33">
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB33" context="H,1,10,H33" playid="17,2,137" type="R" tokens="RUSH:88,H31, TACK:16"
+      text="MARTINEZ, Jacob rush for loss of 2 yards to the UB31 (CHEREN, Renard)." newcontext="H,2,12,H31">
+    <p_ru vh="H" name="MARTINEZ, Jacob" gain="-2"></p_ru>
+    <p_tk vh="V" name="CHEREN, Renard"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="12" spot="UB31" context="H,2,12,H31" playid="17,3,138" type="P" first="P" form="SGUN" tokens="FORM:SGUN PASS:16,C,86,H44 OB: TACK:29"
+      text="[SGUN], LICATA, Joe pass complete to WILLOUGHBY, Ron for 13 yards to the UB44, 1ST DOWN UB, out-of-bounds (LOGAN, Paris)." ob="Y" newcontext="H,1,10,H44">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="WILLOUGHBY, Ron" gain="13"></p_pa>
+    <p_tk vh="V" name="LOGAN, Paris"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB44" context="H,1,10,H44" playid="17,4,139" type="P" form="PSTL" tokens="FORM:PSTL PASS:16,C,89,H49 TACK:24"
+      text="[PSTL], LICATA, Joe pass complete to WEISER, Matt for 5 yards to the UB49 (MAYES, Brandon)." newcontext="H,2,5,H49">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="WEISER, Matt" gain="5"></p_pa>
+    <p_tk vh="V" name="MAYES, Brandon"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="5" spot="UB49" context="H,2,5,H49" playid="17,5,140" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,C,85,V47 TACK:40,45"
+      text="[SGUN], LICATA, Joe pass complete to SCHRECK, Mason for 4 yards to the NIU47 (FOLLIARD, Sean;MAYS, Boomer)." newcontext="H,3,1,V47">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="SCHRECK, Mason" gain="4"></p_pa>
+    <p_tk vh="V" name="FOLLIARD, Sean" assist="Y"></p_tk>
+    <p_tk vh="V" name="MAYS, Boomer" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="3" togo="1" spot="NIU47" context="H,3,1,V47" playid="17,6,141" type="R" first="R" form="SGUN" tokens="FORM:SGUN RUSH:1,V42, TACK:29"
+      text="[SGUN], TAYLOR, Anthone rush for 5 yards to the NIU42, 1ST DOWN UB (LOGAN, Paris)." newcontext="H,1,10,V42">
+    <p_ru vh="H" name="TAYLOR, Anthone" gain="5"></p_ru>
+    <p_tk vh="V" name="LOGAN, Paris"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="NIU42" context="H,1,10,V42" playid="17,7,142" type="E" first="E" form="PSTL" tokens="FORM:PSTL PASS:16,I,86,* BRUP:29 PEN:V,PI,A,29,V30,N NOPLAY:"
+      text="[PSTL], LICATA, Joe pass incomplete to WILLOUGHBY, Ron (LOGAN, Paris), PENALTY NIU pass interference (LOGAN, Paris) 12 yards to the NIU30, 1ST DOWN UB, NO PLAY." newcontext="H,1,10,V30">
+    <p_pn vh="V" code="PI" type="pass interference" name="LOGAN, Paris" result="ACCEPT" at="V42" yards="12"></p_pn>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="NIU30" context="H,1,10,V30" playid="17,8,143" type="P" form="PSTL" tokens="FORM:PSTL PASS:16,C,86,V25 TACK:1D"
+      text="[PSTL], LICATA, Joe pass complete to WILLOUGHBY, Ron for 5 yards to the NIU25 (LURRY, Shawun)." newcontext="H,2,5,V25">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="WILLOUGHBY, Ron" gain="5"></p_pa>
+    <p_tk vh="V" name="LURRY, Shawun"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="5" spot="NIU25" context="H,2,5,V25" playid="17,9,144" type="R" tokens="RUSH:1,V24, TACK:44"
+      text="TAYLOR, Anthone rush for 1 yard to the NIU24 (FORD, Perez)." newcontext="H,3,4,V24">
+    <p_ru vh="H" name="TAYLOR, Anthone" gain="1"></p_ru>
+    <p_tk vh="V" name="FORD, Perez"></p_tk>
+   </play>
+   <play hasball="UB" down="3" togo="4" spot="NIU24" context="H,3,4,V24" playid="17,10,145" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,I,7,*"
+      text="[SGUN], LICATA, Joe pass incomplete to MCGILL, Marcus." newcontext="H,4,4,V24">
+    <p_pa vh="H" qb="LICATA, Joe" result="INC" rcv="MCGILL, Marcus"></p_pa>
+   </play>
+   <play hasball="UB" down="4" togo="4" spot="NIU24" context="H,4,4,V24" playid="17,11,146" type="P" first="P" form="SGUN" tokens="FORM:SGUN PASS:16,C,7,V16 TACK:1D"
+      text="[SGUN], LICATA, Joe pass complete to MCGILL, Marcus for 8 yards to the NIU16, 1ST DOWN UB (LURRY, Shawun)." newcontext="H,1,10,V16">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="MCGILL, Marcus" gain="8"></p_pa>
+    <p_tk vh="V" name="LURRY, Shawun"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="NIU16" context="H,1,10,V16" playid="17,12,147" type="P" first="P" score="Y" vscore="28" hscore="9" clock="07:25" tokens="PASS:16,C,7,V00 T:07:25"
+      text="LICATA, Joe pass complete to MCGILL, Marcus for 16 yards to the NIU0, 1ST DOWN UB, TOUCHDOWN, clock 07:25." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="MCGILL, Marcus" gain="16"></p_pa>
+   </play>
+   <play hasball="UB" down="1" togo="0" spot="NIU03" context="H,1,0,V03" playid="17,13,148" type="X" score="Y" vscore="28" hscore="10" tokens="PAT:K,19,G PEN:V,OS,D"
+      text="MITCHESON, Adam kick attempt good, PENALTY NIU offside declined." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="MITCHESON, Adam" qb="MITCHESON, Adam" type="K" result="GOOD" score="Y"></p_pat>
+    <p_pn vh="V" code="OS" type="offside" result="DECLINE"></p_pn>
+   </play>
+   <score V="28" H="10"></score>
+   <drivesum plays="10" yards="67" top="4:33" driveindex="17" complete="Y"></drivesum>
+   <play hasball="UB" down="1" togo="0" spot="UB35" context="H,1,0,H35" playid="17,14,149" type="K" tokens="KO:11,V02 RET:22,H40 TACK:39,14"
+      text="GRASSMAN, Tyler kickoff 63 yards to the NIU2, TURNER, Aregero return 58 yards to the UB40 (LEWIS, Cameron;WILLIAMS, Brand)." newcontext="V,1,10,H40">
+    <p_ko vh="H" name="GRASSMAN, Tyler" gain="63"></p_ko>
+    <p_kr vh="V" name="TURNER, Aregero" gain="58"></p_kr>
+    <p_tk vh="H" name="LEWIS, Cameron" assist="Y"></p_tk>
+    <p_tk vh="H" name="WILLIAMS, Brand" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,H40,07:15" vh="V" spot="H40" clock="07:15" driveindex="18,149"></drivestart>
+   <play hasball="NIU" down="1" togo="10" spot="UB40" context="V,1,10,H40" playid="18,1,150" clock="07:15" tokens="{DRIVE}:07:15"
+      text="NORTHERN ILLINOIS drive start at 07:15." newcontext="V,1,10,H40">
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="UB40" context="V,1,10,H40" playid="18,2,151" type="R" form="SGUN" tokens="FORM:SGUN RUSH:17,H33, TACK:43,26"
+      text="[SGUN], GRAHAM, Ryan rush for 7 yards to the UB33 (GILBO, Nick;WILLIAMSON, Rya)." newcontext="V,2,3,H33">
+    <p_ru vh="V" name="GRAHAM, Ryan" gain="7"></p_ru>
+    <p_tk vh="H" name="GILBO, Nick" assist="Y"></p_tk>
+    <p_tk vh="H" name="WILLIAMSON, Rya" assist="Y"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="3" spot="UB33" context="V,2,3,H33" playid="18,3,152" type="P" first="P" form="SGUN" tokens="FORM:SGUN PASS:17,C,22,H29 TACK:23"
+      text="[SGUN], GRAHAM, Ryan pass complete to TURNER, Aregero for 4 yards to the UB29, 1ST DOWN NIU (BERRY, Brandon)." newcontext="V,1,10,H29">
+    <p_pa vh="V" qb="GRAHAM, Ryan" result="COMP" rcv="TURNER, Aregero" gain="4"></p_pa>
+    <p_tk vh="H" name="BERRY, Brandon"></p_tk>
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="UB29" context="V,1,10,H29" playid="18,4,153" type="P" form="PSTL" tokens="FORM:PSTL PASS:17,C,19,H23 OB: TACK:5"
+      text="[PSTL], GRAHAM, Ryan pass complete to GOLLADAY, Kenny for 6 yards to the UB23, out-of-bounds (BAKER, Marqus)." ob="Y" newcontext="V,2,4,H23">
+    <p_pa vh="V" qb="GRAHAM, Ryan" result="COMP" rcv="GOLLADAY, Kenny" gain="6"></p_pa>
+    <p_tk vh="H" name="BAKER, Marqus"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="4" spot="UB23" context="V,2,4,H23" playid="18,5,154" type="R" form="PSTL" tokens="FORM:PSTL RUSH:23,H22, TACK:3,43"
+      text="[PSTL], HUFF, Jordan rush for 1 yard to the UB22 (ALOZIE, Okezie;GILBO, Nick)." newcontext="V,3,3,H22">
+    <p_ru vh="V" name="HUFF, Jordan" gain="1"></p_ru>
+    <p_tk vh="H" name="ALOZIE, Okezie" assist="Y"></p_tk>
+    <p_tk vh="H" name="GILBO, Nick" assist="Y"></p_tk>
+   </play>
+   <play hasball="NIU" down="3" togo="3" spot="UB22" context="V,3,3,H22" playid="18,6,155" type="R" form="PSTL" tokens="FORM:PSTL RUSH:17,H20, TACK:43"
+      text="[PSTL], GRAHAM, Ryan rush for 2 yards to the UB20 (GILBO, Nick)." newcontext="V,4,1,H20">
+    <p_ru vh="V" name="GRAHAM, Ryan" gain="2"></p_ru>
+    <p_tk vh="H" name="GILBO, Nick"></p_tk>
+   </play>
+   <play hasball="NIU" down="4" togo="1" spot="UB20" context="V,4,1,H20" playid="18,7,156" type="R" first="R" form="PSTL" tokens="FORM:PSTL RUSH:28,H10, TACK:5,66"
+      text="[PSTL], BOUAGNON, Joel rush for 10 yards to the UB10, 1ST DOWN NIU (BAKER, Marqus;PERISSE, Max)." newcontext="V,1,0,H10">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="10"></p_ru>
+    <p_tk vh="H" name="BAKER, Marqus" assist="Y"></p_tk>
+    <p_tk vh="H" name="PERISSE, Max" assist="Y"></p_tk>
+   </play>
+   <play hasball="NIU" down="1" togo="0" spot="UB10" context="V,1,0,H10" playid="18,8,157" type="R" form="SGUN" tokens="FORM:SGUN RUSH:28,H08, TACK:23,34"
+      text="[SGUN], BOUAGNON, Joel rush for 2 yards to the UB8 (BERRY, Brandon;ANYANWU, Randy)." newcontext="V,2,0,H08">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="2"></p_ru>
+    <p_tk vh="H" name="BERRY, Brandon" assist="Y"></p_tk>
+    <p_tk vh="H" name="ANYANWU, Randy" assist="Y"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="0" spot="UB08" context="V,2,0,H08" playid="18,9,158" type="R" form="SGUN" tokens="FORM:SGUN RUSH:28,H06, TACK:26,23"
+      text="[SGUN], BOUAGNON, Joel rush for 2 yards to the UB6 (WILLIAMSON, Rya;BERRY, Brandon)." newcontext="V,3,0,H06">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="2"></p_ru>
+    <p_tk vh="H" name="WILLIAMSON, Rya" assist="Y"></p_tk>
+    <p_tk vh="H" name="BERRY, Brandon" assist="Y"></p_tk>
+   </play>
+   <play hasball="NIU" down="3" togo="0" spot="UB06" context="V,3,0,H06" playid="18,10,159" type="P" form="SGUN" tokens="FORM:SGUN PASS:17,I,19,*"
+      text="[SGUN], GRAHAM, Ryan pass incomplete to GOLLADAY, Kenny." newcontext="V,4,0,H06">
+    <p_pa vh="V" qb="GRAHAM, Ryan" result="INC" rcv="GOLLADAY, Kenny"></p_pa>
+   </play>
+   <play hasball="NIU" down="4" togo="0" spot="UB06" context="V,4,0,H06" playid="18,11,160" type="F" score="Y" vscore="31" hscore="10" clock="03:52" tokens="FGA:34,22,G T:03:52"
+      text="HAGAN, Christia field goal attempt from 22 GOOD, clock 03:52." newcontext="V,1,0,V35">
+    <p_fg vh="V" name="HAGAN, Christia" distance="22" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="31" H="10"></score>
+   <drivesum plays="10" yards="34" top="3:23" driveindex="18" complete="Y"></drivesum>
+   <play hasball="NIU" down="1" togo="0" spot="NIU35" context="V,1,0,V35" playid="18,12,161" type="K" tokens="KO:34,H12 RET:2,H22 TACK:23"
+      text="HAGAN, Christia kickoff 53 yards to the UB12, JOHNSON, Jordan return 10 yards to the UB22 (HUFF, Jordan)." newcontext="H,1,10,H22">
+    <p_ko vh="V" name="HAGAN, Christia" gain="53"></p_ko>
+    <p_kr vh="H" name="JOHNSON, Jordan" gain="10"></p_kr>
+    <p_tk vh="V" name="HUFF, Jordan"></p_tk>
+   </play>
+   <drivestart poss="H,H22,03:47" vh="H" spot="H22" clock="03:47" driveindex="19,161"></drivestart>
+   <play hasball="UB" down="1" togo="10" spot="UB22" context="H,1,10,H22" playid="19,1,162" clock="03:47" tokens="{DRIVE}:03:47"
+      text="BUFFALO drive start at 03:47." newcontext="H,1,10,H22">
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB22" context="H,1,10,H22" playid="19,2,163" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,I,89,* BRUP:45 QBH:V,29"
+      text="[SGUN], LICATA, Joe pass incomplete to WEISER, Matt (MAYS, Boomer), QB hurry by LOGAN, Paris." newcontext="H,2,10,H22">
+    <p_pa vh="H" qb="LICATA, Joe" result="INC" rcv="WEISER, Matt"></p_pa>
+    <p_bu vh="V" name="MAYS, Boomer"></p_bu>
+    <p_qbh vh="V" name="LOGAN, Paris"></p_qbh>
+   </play>
+   <play hasball="UB" down="2" togo="10" spot="UB22" context="H,2,10,H22" playid="19,3,164" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,C,86,H28 TACK:2,1D"
+      text="[SGUN], LICATA, Joe pass complete to WILLOUGHBY, Ron for 6 yards to the UB28 (MOORE, Marlon;LURRY, Shawun)." newcontext="H,3,4,H28">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="WILLOUGHBY, Ron" gain="6"></p_pa>
+    <p_tk vh="V" name="MOORE, Marlon" assist="Y"></p_tk>
+    <p_tk vh="V" name="LURRY, Shawun" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="3" togo="4" spot="UB28" context="H,3,4,H28" playid="19,4,165" type="E" first="E" tokens="PEN:V,OS,A,45,H33,N"
+      text="PENALTY NIU offside (MAYS, Boomer) 5 yards to the UB33, 1ST DOWN UB." newcontext="H,1,10,H33">
+    <p_pn vh="V" code="OS" type="offside" name="MAYS, Boomer" result="ACCEPT" at="H28" yards="5"></p_pn>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB33" context="H,1,10,H33" playid="19,5,166" type="P" first="P" form="SGUN" tokens="FORM:SGUN PASS:16,C,89,H46 TACK:24"
+      text="[SGUN], LICATA, Joe pass complete to WEISER, Matt for 13 yards to the UB46, 1ST DOWN UB (MAYES, Brandon)." newcontext="H,1,10,H46">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="WEISER, Matt" gain="13"></p_pa>
+    <p_tk vh="V" name="MAYES, Brandon"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB46" context="H,1,10,H46" playid="19,6,167" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,C,89,V47 TACK:24"
+      text="[SGUN], LICATA, Joe pass complete to WEISER, Matt for 7 yards to the NIU47 (MAYES, Brandon)." newcontext="H,2,3,V47">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="WEISER, Matt" gain="7"></p_pa>
+    <p_tk vh="V" name="MAYES, Brandon"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="3" spot="NIU47" context="H,2,3,V47" playid="19,7,168" type="R" first="R" score="Y" vscore="31" hscore="16" clock="01:44" form="SGUN" tokens="FORM:SGUN RUSH:2,V00, T:01:44"
+      text="[SGUN], JOHNSON, Jordan rush for 47 yards to the NIU0, 1ST DOWN UB, TOUCHDOWN, clock 01:44." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="JOHNSON, Jordan" gain="47"></p_ru>
+   </play>
+   <play hasball="UB" down="1" togo="0" spot="NIU03" context="H,1,0,V03" playid="19,8,169" type="X" tokens="PAT:K,19,B BLOCK:56"
+      text="MITCHESON, Adam kick attempt failed (blocked) (blocked by COMPTON, Ben)." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="MITCHESON, Adam" qb="MITCHESON, Adam" type="K" result="BLOCKED"></p_pat>
+   </play>
+   <score V="31" H="16"></score>
+   <drivesum plays="5" yards="78" top="2:03" driveindex="19" complete="Y"></drivesum>
+   <play hasball="UB" down="1" togo="0" spot="UB35" context="H,1,0,H35" playid="19,9,170" type="K" tokens="KO:11,V00 RET:22,V21 TACK:24"
+      text="GRASSMAN, Tyler kickoff 65 yards to the NIU0, TURNER, Aregero return 21 yards to the NIU21 (HAWKINS, Johnat)." newcontext="V,1,10,V21">
+    <p_ko vh="H" name="GRASSMAN, Tyler" gain="65"></p_ko>
+    <p_kr vh="V" name="TURNER, Aregero" gain="21"></p_kr>
+    <p_tk vh="H" name="HAWKINS, Johnat"></p_tk>
+   </play>
+   <drivestart poss="V,V21,01:39" vh="V" spot="V21" clock="01:39" driveindex="20,170"></drivestart>
+   <play hasball="NIU" down="1" togo="10" spot="NIU21" context="V,1,10,V21" playid="20,1,171" clock="01:39" tokens="{DRIVE}:01:39"
+      text="NORTHERN ILLINOIS drive start at 01:39." newcontext="V,1,10,V21">
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="NIU21" context="V,1,10,V21" playid="20,2,172" type="R" first="R" form="SGUN" tokens="FORM:SGUN RUSH:22,V32, OB: TACK:5"
+      text="[SGUN], TURNER, Aregero rush for 11 yards to the NIU32, 1ST DOWN NIU, out-of-bounds (BAKER, Marqus)." ob="Y" newcontext="V,1,10,V32">
+    <p_ru vh="V" name="TURNER, Aregero" gain="11"></p_ru>
+    <p_tk vh="H" name="BAKER, Marqus"></p_tk>
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="NIU32" context="V,1,10,V32" playid="20,3,173" type="P" form="SGUN" tokens="FORM:SGUN PASS:17,C,22,V31 TACK:23"
+      text="[SGUN], GRAHAM, Ryan pass complete to TURNER, Aregero for loss of 1 yard to the NIU31 (BERRY, Brandon)." newcontext="V,2,11,V31">
+    <p_pa vh="V" qb="GRAHAM, Ryan" result="COMP" rcv="TURNER, Aregero" gain="-1"></p_pa>
+    <p_tk vh="H" name="BERRY, Brandon"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="11" spot="NIU31" context="V,2,11,V31" playid="20,4,174" type="P" form="SGUN" tokens="FORM:SGUN PASS:17,C,19,V37 TACK:39"
+      text="[SGUN], GRAHAM, Ryan pass complete to GOLLADAY, Kenny for 6 yards to the NIU37 (LEWIS, Cameron)." newcontext="V,3,5,V37">
+    <p_pa vh="V" qb="GRAHAM, Ryan" result="COMP" rcv="GOLLADAY, Kenny" gain="6"></p_pa>
+    <p_tk vh="H" name="LEWIS, Cameron"></p_tk>
+   </play>
+   <play hasball="NIU" down="3" togo="5" spot="NIU37" context="V,3,5,V37" playid="20,5,175" type="R" first="R" form="SGUN" tokens="FORM:SGUN RUSH:17,V44, TACK:3"
+      text="[SGUN], GRAHAM, Ryan rush for 7 yards to the NIU44, 1ST DOWN NIU (ALOZIE, Okezie)." newcontext="V,1,10,V44">
+    <p_ru vh="V" name="GRAHAM, Ryan" gain="7"></p_ru>
+    <p_tk vh="H" name="ALOZIE, Okezie"></p_tk>
+   </play>
+   <score qtr="3" V="31" H="16"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="NIU">
+    <firstdowns no="6" rush="5" pass="1" penalty="0"></firstdowns>
+    <penalties no="2" yds="17"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="08:19"></misc>
+    <rush att="16" yds="81" gain="83" loss="2" td="0" long="0"></rush>
+    <pass comp="4" att="5" int="0" yds="15" td="0" long="0" sacks="1" sackyds="2"></pass>
+    <rcv no="4" yds="15" td="0" long="0"></rcv>
+    <ko no="1" yds="53" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="22" blkd="0"></fg>
+    <defense tackua="10" tacka="4" tot_tack="14" tflua="1" tfla="0" tflyds="2" sacks="0" sackyds="0" brup="1" qbh="1" blkd="1"></defense>
+    <kr no="3" yds="107" td="0" long="36"></kr>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UB">
+    <firstdowns no="8" rush="2" pass="4" penalty="2"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:41"></misc>
+    <rush att="4" yds="51" gain="53" loss="2" td="1" long="30"></rush>
+    <pass comp="9" att="11" int="0" yds="77" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="9" yds="77" td="1" long="0"></rcv>
+    <ko no="3" yds="193" ob="0" tb="0"></ko>
+    <pat kickatt="2" kickmade="1"></pat>
+    <defense tackua="17" tacka="12" tot_tack="29" tflua="2" tfla="0" tflyds="3" sacks="1" sackyds="2" ff="1" fr="1" fryds="0"></defense>
+    <kr no="1" yds="10" td="0" long="0"></kr>
+    <scoring td="2" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="NIU" down="1" togo="10" spot="NIU44" context="V,1,10,V44" playid="20,6,176" type="#" clock="15:00" tokens="Q:4 T:15:00"
+      text="Start of 4th quarter, clock 15:00." newcontext="V,1,10,V44">
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="NIU44" context="V,1,10,V44" playid="20,7,177" type="R" form="SGUN" tokens="FORM:SGUN RUSH:23,V49, TACK:95"
+      text="[SGUN], HUFF, Jordan rush for 5 yards to the NIU49 (KHOURY, Jake)." newcontext="V,2,5,V49">
+    <p_ru vh="V" name="HUFF, Jordan" gain="5"></p_ru>
+    <p_tk vh="H" name="KHOURY, Jake"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="5" spot="NIU49" context="V,2,5,V49" playid="20,8,178" type="P" first="P" form="SGUN" tokens="FORM:SGUN PASS:17,C,22,H44 OB: TACK:17"
+      text="[SGUN], GRAHAM, Ryan pass complete to TURNER, Aregero for 7 yards to the UB44, 1ST DOWN NIU, out-of-bounds (DADEBOE, Andrew)." ob="Y" newcontext="V,1,10,H44">
+    <p_pa vh="V" qb="GRAHAM, Ryan" result="COMP" rcv="TURNER, Aregero" gain="7"></p_pa>
+    <p_tk vh="H" name="DADEBOE, Andrew"></p_tk>
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="UB44" context="V,1,10,H44" playid="20,9,179" type="R" form="PSTL" tokens="FORM:PSTL RUSH:23,H40, TACK:23"
+      text="[PSTL], HUFF, Jordan rush for 4 yards to the UB40 (BERRY, Brandon)." newcontext="V,2,6,H40">
+    <p_ru vh="V" name="HUFF, Jordan" gain="4"></p_ru>
+    <p_tk vh="H" name="BERRY, Brandon"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="6" spot="UB40" context="V,2,6,H40" playid="20,10,180" type="R" tokens="RUSH:23,H37, TACK:91"
+      text="HUFF, Jordan rush for 3 yards to the UB37 (HARRIS, Demone)." newcontext="V,3,3,H37">
+    <p_ru vh="V" name="HUFF, Jordan" gain="3"></p_ru>
+    <p_tk vh="H" name="HARRIS, Demone"></p_tk>
+   </play>
+   <play hasball="NIU" down="3" togo="3" spot="UB37" context="V,3,3,H37" playid="20,11,181" type="P" form="SGUN" tokens="FORM:SGUN PASS:17,I,11,*"
+      text="[SGUN], GRAHAM, Ryan pass incomplete to BRESCACIN, Juwa." newcontext="V,4,3,H37">
+    <p_pa vh="V" qb="GRAHAM, Ryan" result="INC" rcv="BRESCACIN, Juwa"></p_pa>
+   </play>
+   <play hasball="NIU" down="4" togo="3" spot="UB37" context="V,4,3,H37" playid="20,12,182" type="#" clock="13:39" form="SGUN" tokens="FORM:SGUN TOUT:V T:13:39"
+      text="[SGUN], timeout Northern Illinois, clock 13:39." newcontext="V,4,3,H37">
+    <p_to vh="V" team="Northern Illinois"></p_to>
+   </play>
+   <play hasball="NIU" down="4" togo="3" spot="UB37" context="V,4,3,H37" playid="20,13,183" type="P" score="Y" vscore="31" hscore="22" turnover="I" clock="13:27" form="SGUN" tokens="FORM:SGUN PASS:17,X,39,H32 RET:39,V00 T:13:27"
+      text="[SGUN], GRAHAM, Ryan pass intercepted by LEWIS, Cameron at the UB32, LEWIS, Cameron return 68 yards to the NIU0, TOUCHDOWN, clock 13:27." newcontext="H,1,0,V03">
+    <p_pa vh="V" qb="GRAHAM, Ryan" result="INT"></p_pa>
+    <p_ir vh="H" name="LEWIS, Cameron" at="H32" gain="68"></p_ir>
+   </play>
+   <drivesum plays="10" yards="42" top="3:12" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="H,V03,13:27" vh="H" spot="V03" clock="13:27" driveindex="21,183"></drivestart>
+   <play hasball="UB" down="1" togo="0" spot="NIU03" context="H,1,0,V03" playid="21,1,184" type="X" score="Y" vscore="31" hscore="23" tokens="PAT:K,19,G"
+      text="MITCHESON, Adam kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="MITCHESON, Adam" qb="MITCHESON, Adam" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="31" H="23"></score>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="21" complete="Y"></drivesum>
+   <play hasball="UB" down="1" togo="0" spot="UB35" context="H,1,0,H35" playid="21,2,185" type="K" tokens="KO:11,V14 RET:18,V33 TACK:38"
+      text="GRASSMAN, Tyler kickoff 51 yards to the NIU14, BROWN, D.J. return 19 yards to the NIU33 (STANCIL, C.J.)." newcontext="V,1,10,V33">
+    <p_ko vh="H" name="GRASSMAN, Tyler" gain="51"></p_ko>
+    <p_kr vh="V" name="BROWN, D.J." gain="19"></p_kr>
+    <p_tk vh="H" name="STANCIL, C.J."></p_tk>
+   </play>
+   <drivestart poss="V,V33,13:21" vh="V" spot="V33" clock="13:21" driveindex="22,185"></drivestart>
+   <play hasball="NIU" down="1" togo="10" spot="NIU33" context="V,1,10,V33" playid="22,1,186" clock="13:21" tokens="{DRIVE}:13:21"
+      text="NORTHERN ILLINOIS drive start at 13:21." newcontext="V,1,10,V33">
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="NIU33" context="V,1,10,V33" playid="22,2,187" type="R" form="PSTL" tokens="FORM:PSTL RUSH:28,V32, TACK:41"
+      text="[PSTL], BOUAGNON, Joel rush for loss of 1 yard to the NIU32 (JACKSON, Solomo)." newcontext="V,2,11,V32">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="-1"></p_ru>
+    <p_tk vh="H" name="JACKSON, Solomo"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="11" spot="NIU32" context="V,2,11,V32" playid="22,3,188" type="P" first="P" score="Y" vscore="37" hscore="23" clock="12:46" form="PSTL" tokens="FORM:PSTL PASS:17,C,19,H00 T:12:46"
+      text="[PSTL], GRAHAM, Ryan pass complete to GOLLADAY, Kenny for 68 yards to the UB0, 1ST DOWN NIU, TOUCHDOWN, clock 12:46." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="GRAHAM, Ryan" result="COMP" rcv="GOLLADAY, Kenny" gain="68"></p_pa>
+   </play>
+   <play hasball="NIU" down="1" togo="0" spot="UB03" context="V,1,0,H03" playid="22,4,189" type="X" score="Y" vscore="38" hscore="23" tokens="PAT:K,34,G"
+      text="HAGAN, Christia kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="HAGAN, Christia" qb="HAGAN, Christia" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="38" H="23"></score>
+   <drivesum plays="2" yards="67" top="0:35" driveindex="22" complete="Y"></drivesum>
+   <play hasball="NIU" down="1" togo="0" spot="NIU35" context="V,1,0,V35" playid="22,5,190" type="K" tokens="KO:34,H00 TB:"
+      text="HAGAN, Christia kickoff 65 yards to the UB0, touchback." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="HAGAN, Christia" gain="65" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H25,12:46" vh="H" spot="H25" clock="12:46" driveindex="23,190"></drivestart>
+   <play hasball="UB" down="1" togo="10" spot="UB25" context="H,1,10,H25" playid="23,1,191" clock="12:46" tokens="{DRIVE}:12:46"
+      text="BUFFALO drive start at 12:46." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB25" context="H,1,10,H25" playid="23,2,192" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,I,86,* BRUP:29"
+      text="[SGUN], LICATA, Joe pass incomplete to WILLOUGHBY, Ron (LOGAN, Paris)." newcontext="H,2,10,H25">
+    <p_pa vh="H" qb="LICATA, Joe" result="INC" rcv="WILLOUGHBY, Ron"></p_pa>
+    <p_bu vh="V" name="LOGAN, Paris"></p_bu>
+   </play>
+   <play hasball="UB" down="2" togo="10" spot="UB25" context="H,2,10,H25" playid="23,3,193" type="R" first="R" form="SGUN" tokens="FORM:SGUN RUSH:1,H36, TACK:45"
+      text="[SGUN], TAYLOR, Anthone rush for 11 yards to the UB36, 1ST DOWN UB (MAYS, Boomer)." newcontext="H,1,10,H36">
+    <p_ru vh="H" name="TAYLOR, Anthone" gain="11"></p_ru>
+    <p_tk vh="V" name="MAYS, Boomer"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB36" context="H,1,10,H36" playid="23,4,194" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,C,89,H45 OB: TACK:24"
+      text="[SGUN], LICATA, Joe pass complete to WEISER, Matt for 9 yards to the UB45, out-of-bounds (MAYES, Brandon)." ob="Y" newcontext="H,2,1,H45">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="WEISER, Matt" gain="9"></p_pa>
+    <p_tk vh="V" name="MAYES, Brandon"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="1" spot="UB45" context="H,2,1,H45" playid="23,5,195" type="R" first="R" form="SGUN" tokens="FORM:SGUN RUSH:1,V49, TACK:24"
+      text="[SGUN], TAYLOR, Anthone rush for 6 yards to the NIU49, 1ST DOWN UB (MAYES, Brandon)." newcontext="H,1,10,V49">
+    <p_ru vh="H" name="TAYLOR, Anthone" gain="6"></p_ru>
+    <p_tk vh="V" name="MAYES, Brandon"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="NIU49" context="H,1,10,V49" playid="23,6,196" type="P" first="P" tokens="PASS:16,C,13,V30 TACK:2,29"
+      text="LICATA, Joe pass complete to LISA, Collin for 19 yards to the NIU30, 1ST DOWN UB (MOORE, Marlon;LOGAN, Paris)." newcontext="H,1,10,V30">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="LISA, Collin" gain="19"></p_pa>
+    <p_tk vh="V" name="MOORE, Marlon" assist="Y"></p_tk>
+    <p_tk vh="V" name="LOGAN, Paris" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="NIU30" context="H,1,10,V30" playid="23,7,197" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,I,86,* QBH:V,44"
+      text="[SGUN], LICATA, Joe pass incomplete to WILLOUGHBY, Ron, QB hurry by FORD, Perez." newcontext="H,2,10,V30">
+    <p_pa vh="H" qb="LICATA, Joe" result="INC" rcv="WILLOUGHBY, Ron"></p_pa>
+    <p_qbh vh="V" name="FORD, Perez"></p_qbh>
+   </play>
+   <play hasball="UB" down="2" togo="10" spot="NIU30" context="H,2,10,V30" playid="23,8,198" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,C,7,V25 TACK:2,1D"
+      text="[SGUN], LICATA, Joe pass complete to MCGILL, Marcus for 5 yards to the NIU25 (MOORE, Marlon;LURRY, Shawun)." newcontext="H,3,5,V25">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="MCGILL, Marcus" gain="5"></p_pa>
+    <p_tk vh="V" name="MOORE, Marlon" assist="Y"></p_tk>
+    <p_tk vh="V" name="LURRY, Shawun" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="3" togo="5" spot="NIU25" context="H,3,5,V25" playid="23,9,199" type="R" form="SGUN" tokens="FORM:SGUN RUSH:1,V24, TACK:40,45"
+      text="[SGUN], TAYLOR, Anthone rush for 1 yard to the NIU24 (FOLLIARD, Sean;MAYS, Boomer)." newcontext="H,4,4,V24">
+    <p_ru vh="H" name="TAYLOR, Anthone" gain="1"></p_ru>
+    <p_tk vh="V" name="FOLLIARD, Sean" assist="Y"></p_tk>
+    <p_tk vh="V" name="MAYS, Boomer" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="4" togo="4" spot="NIU24" context="H,4,4,V24" playid="23,10,200" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,I,86,* BRUP:29"
+      text="[SGUN], LICATA, Joe pass incomplete to WILLOUGHBY, Ron (LOGAN, Paris)." newcontext="V,1,10,V24">
+    <p_pa vh="H" qb="LICATA, Joe" result="INC" rcv="WILLOUGHBY, Ron"></p_pa>
+    <p_bu vh="V" name="LOGAN, Paris"></p_bu>
+   </play>
+   <drivesum plays="9" yards="51" top="3:29" driveindex="23" complete="Y"></drivesum>
+   <drivestart poss="V,V24,09:17" vh="V" spot="V24" clock="09:17" driveindex="24,200"></drivestart>
+   <play hasball="NIU" down="1" togo="10" spot="NIU24" context="V,1,10,V24" playid="24,1,201" clock="09:17" tokens="{DRIVE}:09:17"
+      text="NORTHERN ILLINOIS drive start at 09:17." newcontext="V,1,10,V24">
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="NIU24" context="V,1,10,V24" playid="24,2,202" type="R" form="PSTL" tokens="FORM:PSTL RUSH:23,V27, TACK:3,23"
+      text="[PSTL], HUFF, Jordan rush for 3 yards to the NIU27 (ALOZIE, Okezie;BERRY, Brandon)." newcontext="V,2,7,V27">
+    <p_ru vh="V" name="HUFF, Jordan" gain="3"></p_ru>
+    <p_tk vh="H" name="ALOZIE, Okezie" assist="Y"></p_tk>
+    <p_tk vh="H" name="BERRY, Brandon" assist="Y"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="7" spot="NIU27" context="V,2,7,V27" playid="24,3,203" type="R" tokens="RUSH:17,V31, TACK:5"
+      text="GRAHAM, Ryan rush for 4 yards to the NIU31 (BAKER, Marqus)." newcontext="V,3,3,V31">
+    <p_ru vh="V" name="GRAHAM, Ryan" gain="4"></p_ru>
+    <p_tk vh="H" name="BAKER, Marqus"></p_tk>
+   </play>
+   <play hasball="NIU" down="3" togo="3" spot="NIU31" context="V,3,3,V31" playid="24,4,204" type="R" form="SGUN" tokens="FORM:SGUN RUSH:17,V33, TACK:5"
+      text="[SGUN], GRAHAM, Ryan rush for 2 yards to the NIU33 (BAKER, Marqus)." newcontext="V,4,1,V33">
+    <p_ru vh="V" name="GRAHAM, Ryan" gain="2"></p_ru>
+    <p_tk vh="H" name="BAKER, Marqus"></p_tk>
+   </play>
+   <play hasball="NIU" down="4" togo="1" spot="NIU33" context="V,4,1,V33" playid="24,5,205" type="U" tokens="PUNT:15,H28 FC:13 PEN:V,PF,A,30,H43,N D:1,10 SPOT:H,H43,Y"
+      text="AMBROSE, Jake punt 39 yards to the UB28, fair catch by LISA, Collin, PENALTY NIU personal foul (HUNT, Tifonte) 15 yards to the UB43, 1st and 10, UB ball on UB43." newcontext="H,1,10,H43">
+    <p_pu vh="V" name="AMBROSE, Jake" gain="39" fc="LISA, Collin"></p_pu>
+    <p_pn vh="V" code="PF" type="personal foul" name="HUNT, Tifonte" result="ACCEPT" at="H28" yards="15"></p_pn>
+   </play>
+   <drivesum plays="3" yards="9" top="1:23" driveindex="24" complete="Y"></drivesum>
+   <drivestart poss="H,H43,07:54" vh="H" spot="H43" clock="07:54" driveindex="25,205"></drivestart>
+   <play hasball="UB" down="1" togo="10" spot="UB43" context="H,1,10,H43" playid="25,1,206" clock="07:54" tokens="{DRIVE}:07:54"
+      text="BUFFALO drive start at 07:54." newcontext="H,1,10,H43">
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB43" context="H,1,10,H43" playid="25,2,207" type="P" tokens="PASS:16,C,7,V48 TACK:2"
+      text="LICATA, Joe pass complete to MCGILL, Marcus for 9 yards to the NIU48 (MOORE, Marlon)." newcontext="H,2,1,V48">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="MCGILL, Marcus" gain="9"></p_pa>
+    <p_tk vh="V" name="MOORE, Marlon"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="1" spot="NIU48" context="H,2,1,V48" playid="25,3,208" type="P" first="P" form="SGUN" tokens="FORM:SGUN PASS:16,C,13,V42 TACK:16"
+      text="[SGUN], LICATA, Joe pass complete to LISA, Collin for 6 yards to the NIU42, 1ST DOWN UB (CHEREN, Renard)." newcontext="H,1,10,V42">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="LISA, Collin" gain="6"></p_pa>
+    <p_tk vh="V" name="CHEREN, Renard"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="NIU42" context="H,1,10,V42" playid="25,4,209" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,C,89,V35 TACK:6"
+      text="[SGUN], LICATA, Joe pass complete to WEISER, Matt for 7 yards to the NIU35 (JONES, Bobby)." newcontext="H,2,3,V35">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="WEISER, Matt" gain="7"></p_pa>
+    <p_tk vh="V" name="JONES, Bobby"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="3" spot="NIU35" context="H,2,3,V35" playid="25,5,210" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,I,89,*"
+      text="[SGUN], LICATA, Joe pass incomplete to WEISER, Matt." newcontext="H,3,3,V35">
+    <p_pa vh="H" qb="LICATA, Joe" result="INC" rcv="WEISER, Matt"></p_pa>
+   </play>
+   <play hasball="UB" down="3" togo="3" spot="NIU35" context="H,3,3,V35" playid="25,6,211" type="P" first="P" score="Y" vscore="38" hscore="29" clock="06:46" form="SGUN" tokens="FORM:SGUN PASS:16,C,13,V00 T:06:46 PEN:V,PI,D"
+      text="[SGUN], LICATA, Joe pass complete to LISA, Collin for 35 yards to the NIU0, 1ST DOWN UB, TOUCHDOWN, clock 06:46, PENALTY NIU pass interference declined." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="LISA, Collin" gain="35"></p_pa>
+    <p_pn vh="V" code="PI" type="pass interference" name="ABRESCH, Jackso" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="UB" down="1" togo="0" spot="NIU03" context="H,1,0,V03" playid="25,7,212" type="E" tokens="PEN:V,OS,A,92,V01,N"
+      text="PENALTY NIU offside (JONES, Mario) 2 yards to the NIU1." newcontext="H,1,0,V01">
+    <p_pn vh="V" code="OS" type="offside" name="JONES, Mario" result="ACCEPT" at="V03" yards="2"></p_pn>
+   </play>
+   <play hasball="UB" down="1" togo="0" spot="NIU01" context="H,1,0,V01" playid="25,8,213" type="X" score="Y" vscore="38" hscore="30" tokens="PAT:K,19,G"
+      text="MITCHESON, Adam kick attempt good." newcontext="H,1,0,H35">
+    <p_pat vh="H" name="MITCHESON, Adam" qb="MITCHESON, Adam" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="38" H="30"></score>
+   <drivesum plays="5" yards="57" top="1:08" driveindex="25" complete="Y"></drivesum>
+   <play hasball="UB" down="1" togo="0" spot="UB35" context="H,1,0,H35" playid="25,9,214" type="K" tokens="KO:11,V05 RET:22,V28 TACK:39,15"
+      text="GRASSMAN, Tyler kickoff 60 yards to the NIU5, TURNER, Aregero return 23 yards to the NIU28 (LEWIS, Cameron;EILAND, Jamarl)." newcontext="V,1,10,V28">
+    <p_ko vh="H" name="GRASSMAN, Tyler" gain="60"></p_ko>
+    <p_kr vh="V" name="TURNER, Aregero" gain="23"></p_kr>
+    <p_tk vh="H" name="LEWIS, Cameron" assist="Y"></p_tk>
+    <p_tk vh="H" name="EILAND, Jamarl" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V28,06:38" vh="V" spot="V28" clock="06:38" driveindex="26,214"></drivestart>
+   <play hasball="NIU" down="1" togo="10" spot="NIU28" context="V,1,10,V28" playid="26,1,215" clock="06:38" tokens="{DRIVE}:06:38"
+      text="NORTHERN ILLINOIS drive start at 06:38." newcontext="V,1,10,V28">
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="NIU28" context="V,1,10,V28" playid="26,2,216" type="R" first="R" form="SGUN" tokens="FORM:SGUN RUSH:28,V38, TACK:58,26"
+      text="[SGUN], BOUAGNON, Joel rush for 10 yards to the NIU38, 1ST DOWN NIU (FORD, Chris;WILLIAMSON, Rya)." newcontext="V,1,10,V38">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="10"></p_ru>
+    <p_tk vh="H" name="FORD, Chris" assist="Y"></p_tk>
+    <p_tk vh="H" name="WILLIAMSON, Rya" assist="Y"></p_tk>
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="NIU38" context="V,1,10,V38" playid="26,3,217" type="P" form="SGUN" tokens="FORM:SGUN PASS:17,I,19,*"
+      text="[SGUN], GRAHAM, Ryan pass incomplete to GOLLADAY, Kenny." newcontext="V,2,10,V38">
+    <p_pa vh="V" qb="GRAHAM, Ryan" result="INC" rcv="GOLLADAY, Kenny"></p_pa>
+   </play>
+   <play hasball="NIU" down="2" togo="10" spot="NIU38" context="V,2,10,V38" playid="26,4,218" type="R" form="PSTL" tokens="FORM:PSTL RUSH:28,V46, TACK:43"
+      text="[PSTL], BOUAGNON, Joel rush for 8 yards to the NIU46 (GILBO, Nick)." newcontext="V,3,2,V46">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="8"></p_ru>
+    <p_tk vh="H" name="GILBO, Nick"></p_tk>
+   </play>
+   <play hasball="NIU" down="3" togo="2" spot="NIU46" context="V,3,2,V46" playid="26,5,219" type="R" tokens="RUSH:28,V47, TACK:43"
+      text="BOUAGNON, Joel rush for 1 yard to the NIU47 (GILBO, Nick)." newcontext="V,4,1,V47">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="1"></p_ru>
+    <p_tk vh="H" name="GILBO, Nick"></p_tk>
+   </play>
+   <play hasball="NIU" down="4" togo="1" spot="NIU47" context="V,4,1,V47" playid="26,6,220" type="#" clock="05:05" tokens="TOUT:V T:05:05"
+      text="Timeout Northern Illinois, clock 05:05." newcontext="V,4,1,V47">
+    <p_to vh="V" team="Northern Illinois"></p_to>
+   </play>
+   <play hasball="NIU" down="4" togo="1" spot="NIU47" context="V,4,1,V47" playid="26,7,221" type="U" tokens="PUNT:15,H17 FC:13"
+      text="AMBROSE, Jake punt 36 yards to the UB17, fair catch by LISA, Collin." newcontext="H,1,10,H17">
+    <p_pu vh="V" name="AMBROSE, Jake" gain="36" in20="Y" fc="LISA, Collin"></p_pu>
+   </play>
+   <drivesum plays="4" yards="19" top="1:38" driveindex="26" complete="Y"></drivesum>
+   <drivestart poss="H,H17,05:00" vh="H" spot="H17" clock="05:00" driveindex="27,221"></drivestart>
+   <play hasball="UB" down="1" togo="10" spot="UB17" context="H,1,10,H17" playid="27,1,222" clock="05:00" tokens="{DRIVE}:05:00"
+      text="BUFFALO drive start at 05:00." newcontext="H,1,10,H17">
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB17" context="H,1,10,H17" playid="27,2,223" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,S,TM,H09 SACK:44"
+      text="[SGUN], LICATA, Joe sacked for loss of 8 yards to the UB9 (FORD, Perez)." newcontext="H,2,18,H09">
+    <p_pa vh="H" qb="LICATA, Joe" result="SACK" gain="-8"></p_pa>
+    <p_tk vh="V" name="FORD, Perez" sack="Y"></p_tk>
+   </play>
+   <comment text="Play reviewed for fumble, play stands"></comment>
+   <play hasball="UB" down="2" togo="18" spot="UB09" context="H,2,18,H09" playid="27,3,225" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,C,13,H19 OB: TACK:29"
+      text="[SGUN], LICATA, Joe pass complete to LISA, Collin for 10 yards to the UB19, out-of-bounds (LOGAN, Paris)." ob="Y" newcontext="H,3,8,H19">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="LISA, Collin" gain="10"></p_pa>
+    <p_tk vh="V" name="LOGAN, Paris"></p_tk>
+   </play>
+   <play hasball="UB" down="3" togo="8" spot="UB19" context="H,3,8,H19" playid="27,4,226" type="E" tokens="PEN:H,FS,A,59,H14,N"
+      text="PENALTY UB false start (O'HENLY, Tyler) 5 yards to the UB14." newcontext="H,3,13,H14">
+    <p_pn vh="H" code="FS" type="false start" name="O'HENLY, Tyler" result="ACCEPT" at="H19" yards="5"></p_pn>
+   </play>
+   <play hasball="UB" down="3" togo="13" spot="UB14" context="H,3,13,H14" playid="27,5,227" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,S,TM,H03 SACK:56"
+      text="[SGUN], LICATA, Joe sacked for loss of 11 yards to the UB3 (COMPTON, Ben)." newcontext="H,4,24,H03">
+    <p_pa vh="H" qb="LICATA, Joe" result="SACK" gain="-11"></p_pa>
+    <p_tk vh="V" name="COMPTON, Ben" sack="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="4" togo="24" spot="UB03" context="H,4,24,H03" playid="27,6,228" type="U" tokens="PUNT:11,H35 DN:"
+      text="GRASSMAN, Tyler punt 32 yards to the UB35, downed." newcontext="V,1,10,H35">
+    <p_pu vh="H" name="GRASSMAN, Tyler" gain="32"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-14" top="1:46" driveindex="27" complete="Y"></drivesum>
+   <drivestart poss="V,H35,03:14" vh="V" spot="H35" clock="03:14" driveindex="28,228"></drivestart>
+   <play hasball="NIU" down="1" togo="10" spot="UB35" context="V,1,10,H35" playid="28,1,229" clock="03:14" tokens="{DRIVE}:03:14"
+      text="NORTHERN ILLINOIS drive start at 03:14." newcontext="V,1,10,H35">
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="UB35" context="V,1,10,H35" playid="28,2,230" type="R" form="SGUN" tokens="FORM:SGUN RUSH:28,H32, TACK:41,26"
+      text="[SGUN], BOUAGNON, Joel rush for 3 yards to the UB32 (JACKSON, Solomo;WILLIAMSON, Rya)." newcontext="V,2,7,H32">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="3"></p_ru>
+    <p_tk vh="H" name="JACKSON, Solomo" assist="Y"></p_tk>
+    <p_tk vh="H" name="WILLIAMSON, Rya" assist="Y"></p_tk>
+   </play>
+   <play hasball="NIU" down="2" togo="7" spot="UB32" context="V,2,7,H32" playid="28,3,231" type="#" clock="03:07" tokens="TOUT:H T:03:07"
+      text="Timeout Buffalo, clock 03:07." newcontext="V,2,7,H32">
+    <p_to vh="H" team="Buffalo"></p_to>
+   </play>
+   <play hasball="NIU" down="2" togo="7" spot="UB32" context="V,2,7,H32" playid="28,4,232" type="R" form="SGUN" tokens="FORM:SGUN RUSH:17,H32, TACK:3"
+      text="[SGUN], GRAHAM, Ryan rush for no gain to the UB32 (ALOZIE, Okezie)." newcontext="V,3,7,H32">
+    <p_ru vh="V" name="GRAHAM, Ryan" gain="0"></p_ru>
+    <p_tk vh="H" name="ALOZIE, Okezie"></p_tk>
+   </play>
+   <play hasball="NIU" down="3" togo="7" spot="UB32" context="V,3,7,H32" playid="28,5,233" type="#" clock="03:02" tokens="TOUT:H T:03:02"
+      text="Timeout Buffalo, clock 03:02." newcontext="V,3,7,H32">
+    <p_to vh="H" team="Buffalo"></p_to>
+   </play>
+   <play hasball="NIU" down="3" togo="7" spot="UB32" context="V,3,7,H32" playid="28,6,234" type="R" form="SGUN" tokens="FORM:SGUN RUSH:28,H30, TACK:23,5"
+      text="[SGUN], BOUAGNON, Joel rush for 2 yards to the UB30 (BERRY, Brandon;BAKER, Marqus)." newcontext="V,4,5,H30">
+    <p_ru vh="V" name="BOUAGNON, Joel" gain="2"></p_ru>
+    <p_tk vh="H" name="BERRY, Brandon" assist="Y"></p_tk>
+    <p_tk vh="H" name="BAKER, Marqus" assist="Y"></p_tk>
+   </play>
+   <play hasball="NIU" down="4" togo="5" spot="UB30" context="V,4,5,H30" playid="28,7,235" type="#" clock="02:56" tokens="TOUT:H T:02:56"
+      text="Timeout Buffalo, clock 02:56." newcontext="V,4,5,H30">
+    <p_to vh="H" team="Buffalo"></p_to>
+   </play>
+   <play hasball="NIU" down="4" togo="5" spot="UB30" context="V,4,5,H30" playid="28,8,236" type="F" score="Y" vscore="41" hscore="30" clock="02:50" tokens="FGA:34,47,G T:02:50"
+      text="HAGAN, Christia field goal attempt from 47 GOOD, clock 02:50." newcontext="V,1,0,V35">
+    <p_fg vh="V" name="HAGAN, Christia" distance="47" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="41" H="30"></score>
+   <drivesum plays="4" yards="5" top="0:24" driveindex="28" complete="Y"></drivesum>
+   <play hasball="NIU" down="1" togo="0" spot="NIU35" context="V,1,0,V35" playid="28,9,237" type="K" tokens="KO:34,H00 RET:2,H20 TACK:42"
+      text="HAGAN, Christia kickoff 65 yards to the UB0, JOHNSON, Jordan return 20 yards to the UB20 (SCHWAB, Alex)." newcontext="H,1,10,H20">
+    <p_ko vh="V" name="HAGAN, Christia" gain="65"></p_ko>
+    <p_kr vh="H" name="JOHNSON, Jordan" gain="20"></p_kr>
+    <p_tk vh="V" name="SCHWAB, Alex"></p_tk>
+   </play>
+   <drivestart poss="H,H20,02:45" vh="H" spot="H20" clock="02:45" driveindex="29,237"></drivestart>
+   <play hasball="UB" down="1" togo="10" spot="UB20" context="H,1,10,H20" playid="29,1,238" clock="02:45" tokens="{DRIVE}:02:45"
+      text="BUFFALO drive start at 02:45." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB20" context="H,1,10,H20" playid="29,2,239" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,I,89,*"
+      text="[SGUN], LICATA, Joe pass incomplete to WEISER, Matt." newcontext="H,2,10,H20">
+    <p_pa vh="H" qb="LICATA, Joe" result="INC" rcv="WEISER, Matt"></p_pa>
+   </play>
+   <play hasball="UB" down="2" togo="10" spot="UB20" context="H,2,10,H20" playid="29,3,240" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,C,7,H28 TACK:1D"
+      text="[SGUN], LICATA, Joe pass complete to MCGILL, Marcus for 8 yards to the UB28 (LURRY, Shawun)." newcontext="H,3,2,H28">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="MCGILL, Marcus" gain="8"></p_pa>
+    <p_tk vh="V" name="LURRY, Shawun"></p_tk>
+   </play>
+   <play hasball="UB" down="3" togo="2" spot="UB28" context="H,3,2,H28" playid="29,4,241" type="P" first="P" form="SGUN" tokens="FORM:SGUN PASS:16,C,13,H31 TACK:29"
+      text="[SGUN], LICATA, Joe pass complete to LISA, Collin for 3 yards to the UB31, 1ST DOWN UB (LOGAN, Paris)." newcontext="H,1,10,H31">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="LISA, Collin" gain="3"></p_pa>
+    <p_tk vh="V" name="LOGAN, Paris"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB31" context="H,1,10,H31" playid="29,5,242" type="P" first="P" form="SGUN" tokens="FORM:SGUN PASS:16,C,89,H42 TACK:2,40"
+      text="[SGUN], LICATA, Joe pass complete to WEISER, Matt for 11 yards to the UB42, 1ST DOWN UB (MOORE, Marlon;FOLLIARD, Sean)." newcontext="H,1,10,H42">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="WEISER, Matt" gain="11"></p_pa>
+    <p_tk vh="V" name="MOORE, Marlon" assist="Y"></p_tk>
+    <p_tk vh="V" name="FOLLIARD, Sean" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB42" context="H,1,10,H42" playid="29,6,243" type="P" form="SGUN" tokens="FORM:SGUN PASS:16,C,89,H49 OB: TACK:1D"
+      text="[SGUN], LICATA, Joe pass complete to WEISER, Matt for 7 yards to the UB49, out-of-bounds (LURRY, Shawun)." ob="Y" newcontext="H,2,3,H49">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="WEISER, Matt" gain="7"></p_pa>
+    <p_tk vh="V" name="LURRY, Shawun"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="3" spot="UB49" context="H,2,3,H49" playid="29,7,244" type="P" first="P" form="SGUN" tokens="FORM:SGUN PASS:16,C,1,V45 TACK:45,40"
+      text="[SGUN], LICATA, Joe pass complete to TAYLOR, Anthone for 6 yards to the NIU45, 1ST DOWN UB (MAYS, Boomer;FOLLIARD, Sean)." newcontext="H,1,10,V45">
+    <p_pa vh="H" qb="LICATA, Joe" result="COMP" rcv="TAYLOR, Anthone" gain="6"></p_pa>
+    <p_tk vh="V" name="MAYS, Boomer" assist="Y"></p_tk>
+    <p_tk vh="V" name="FOLLIARD, Sean" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="NIU45" context="H,1,10,V45" playid="29,8,245" type="P" turnover="I" form="SGUN" tokens="FORM:SGUN PASS:16,X,24,V32 RET:24,V37"
+      text="[SGUN], LICATA, Joe pass intercepted by MAYES, Brandon at the NIU32, MAYES, Brandon return 5 yards to the NIU37." newcontext="V,1,10,V37">
+    <p_pa vh="H" qb="LICATA, Joe" result="INT"></p_pa>
+    <p_ir vh="V" name="MAYES, Brandon" at="V32" gain="5"></p_ir>
+   </play>
+   <drivesum plays="7" yards="35" top="1:08" driveindex="29" complete="Y"></drivesum>
+   <drivestart poss="V,V37,01:37" vh="V" spot="V37" clock="01:37" driveindex="30,245"></drivestart>
+   <play hasball="NIU" down="1" togo="10" spot="NIU37" context="V,1,10,V37" playid="30,1,246" clock="01:37" tokens="{DRIVE}:01:37"
+      text="NORTHERN ILLINOIS drive start at 01:37." newcontext="V,1,10,V37">
+   </play>
+   <play hasball="NIU" down="1" togo="10" spot="NIU37" context="V,1,10,V37" playid="30,2,247" type="R" tokens="RUSH:TM,V36,"
+      text="TEAM rush for loss of 1 yard to the NIU36." newcontext="V,2,11,V36">
+    <p_ru vh="V" name="TEAM" gain="-1"></p_ru>
+   </play>
+   <play hasball="NIU" down="2" togo="11" spot="NIU36" context="V,2,11,V36" playid="30,3,248" type="R" tokens="RUSH:TM,V35,"
+      text="TEAM rush for loss of 1 yard to the NIU35." newcontext="V,3,12,V35">
+    <p_ru vh="V" name="TEAM" gain="-1"></p_ru>
+   </play>
+   <play hasball="NIU" down="3" togo="12" spot="NIU35" context="V,3,12,V35" playid="30,4,249" type="R" tokens="RUSH:TM,V34,"
+      text="TEAM rush for loss of 1 yard to the NIU34." newcontext="V,4,13,V34">
+    <p_ru vh="V" name="TEAM" gain="-1"></p_ru>
+   </play>
+   <play hasball="NIU" down="4" togo="13" spot="NIU34" context="V,4,13,V34" playid="30,5,250" type="#" clock="00:00" tokens="HALF: T:00:00"
+      text="End of game, clock 00:00." newcontext="V,4,13,V34">
+   </play>
+   <drivesum plays="3" yards="-3" top="1:37" driveindex="30" complete="Y"></drivesum>
+   <score final="Y" V="41" H="30"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="NIU">
+    <firstdowns no="3" rush="1" pass="2" penalty="0"></firstdowns>
+    <penalties no="2" yds="17"></penalties>
+    <conversions thirdconv="1" thirdatt="6" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:24"></misc>
+    <rush att="16" yds="41" gain="45" loss="4" td="0" long="0"></rush>
+    <pass comp="2" att="5" int="1" yds="75" td="1" long="31" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="75" td="1" long="31"></rcv>
+    <punt no="2" yds="75" long="0" blkd="0" tb="0" fc="2" plus50="0" inside20="1" avg="37.5"></punt>
+    <ko no="2" yds="130" ob="0" tb="1"></ko>
+    <fg made="1" att="1" long="25" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="13" tacka="10" tot_tack="23" tflua="2" tfla="0" tflyds="19" sacks="2" sackyds="19" brup="2" qbh="1" int="1" intyds="5"></defense>
+    <kr no="2" yds="42" td="0" long="0"></kr>
+    <ir no="1" yds="5" td="0" long="5"></ir>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UB">
+    <firstdowns no="8" rush="2" pass="6" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:36"></misc>
+    <rush att="5" yds="-1" gain="18" loss="19" td="0" long="0"></rush>
+    <pass comp="13" att="19" int="1" yds="135" td="1" long="0" sacks="2" sackyds="19"></pass>
+    <rcv no="13" yds="135" td="1" long="0"></rcv>
+    <punt no="1" yds="32" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="32.0"></punt>
+    <ko no="2" yds="111" ob="0" tb="0"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="11" tacka="10" tot_tack="21" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" int="1" intyds="68"></defense>
+    <kr no="1" yds="20" td="0" long="0"></kr>
+    <ir no="1" yds="68" td="1" long="68"></ir>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="V" id="NIU" down="4" togo="13" spot="NIU34" context="V,4,13,V34" qtr="4" clock="00:00" vtoh="2" htoh="3"
+       lastplay="End of game, clock 00:00."></downtogo>
+ </plays>
+ <message text=""></message>
+ <dnp vh="V" id="NIU">
+  <player name="FIEDLER, Tommy" checkname="FIEDLER,TOMMY" uni="1C" class="FR" gp="0" code="1C"></player>
+  <player name="ROTHERHAM, Char" checkname="ROTHERHAM,CHAR" uni="1E" class="FR" gp="0" code="1E"></player>
+  <player name="MADDIE, Anthony" checkname="MADDIE,ANTHONY" uni="1A" class="JR" gp="0" code="1A"></player>
+  <player name="SANTACATERINA,D" checkname="SANTACATERINA,D" uni="1B" class="FR" gp="0" code="1B"></player>
+  <player name="HILL, Jeffrey" checkname="HILL,JEFFREY" uni="2D" class="FR" gp="0" code="2D"></player>
+  <player name="KENNEDY, Corey" checkname="KENNEDY,COREY" uni="3A" class="FR" gp="0" code="3A"></player>
+  <player name="DEAN, Nolan" checkname="DEAN,NOLAN" uni="3B" class="FR" gp="0" code="3B"></player>
+  <player name="BLAKE, Christia" checkname="BLAKE,CHRISTIA" uni="4" class="SO" gp="0" code="4"></player>
+  <player name="HLAVA, Jake" checkname="HLAVA,JAKE" uni="4C" class="FR" gp="0" code="4C"></player>
+  <player name="HOWARD, Marquis" checkname="HOWARD,MARQUIS" uni="4B" class="FR" gp="0" code="4B"></player>
+  <player name="TODD, Malik" checkname="TODD,MALIK" uni="4A" class="FR" gp="0" code="4A"></player>
+  <player name="OLOOTU, Mayomi" checkname="OLOOTU,MAYOMI" uni="5" class="SO" gp="0" code="5"></player>
+  <player name="FLEURY, Mason" checkname="FLEURY,MASON" uni="5A" class="FR" gp="0" code="5A"></player>
+  <player name="HARE, Drew" checkname="HARE,DREW" uni="12" class="JR" gp="0" code="12"></player>
+  <player name="ABRESCH, Jackso" checkname="ABRESCH,JACKSO" uni="13" class="SO" gp="0" code="13"></player>
+  <player name="TEARS, Spencer" checkname="TEARS,SPENCER" uni="14" class="FR" gp="0" code="14"></player>
+  <player name="HARRIS, Keith" checkname="HARRIS,KEITH" uni="20" class="JR" gp="0" code="20"></player>
+  <player name="ORNE, Josh" checkname="ORNE,JOSH" uni="25" class="JR" gp="0" code="25"></player>
+  <player name="SMITH, Trequan" checkname="SMITH,TREQUAN" uni="26" class="FR" gp="0" code="26"></player>
+  <player name="RUSSELL, Jimmy" checkname="RUSSELL,JIMMY" uni="32" class="SO" gp="0" code="32"></player>
+  <player name="SMITH, Draco" checkname="SMITH,DRACO" uni="36" class="JR" gp="0" code="36"></player>
+  <player name="MASHACK, Taylor" checkname="MASHACK,TAYLOR" uni="37" class="JR" gp="0" code="37"></player>
+  <player name="GRADY, Cassius" checkname="GRADY,CASSIUS" uni="38" class="FR" gp="0" code="38"></player>
+  <player name="DANIELS, Will" checkname="DANIELS,WILL" uni="41" class="FR" gp="0" code="41"></player>
+  <player name="SMITH, Sutton" checkname="SMITH,SUTTON" uni="43" class="SO" gp="0" code="43"></player>
+  <player name="HARRIS, Terrell" checkname="HARRIS,TERRELL" uni="46" class="JR" gp="0" code="46"></player>
+  <player name="FISCHER, Aaron" checkname="FISCHER,AARON" uni="47" class="FR" gp="0" code="47"></player>
+  <player name="FOSTER, Traysho" checkname="FOSTER,TRAYSHO" uni="49" class="FR" gp="0" code="49"></player>
+  <player name="SULLIVAN, Cody" checkname="SULLIVAN,CODY" uni="52" class="SO" gp="0" code="52"></player>
+  <player name="WYNNE, Quintin" checkname="WYNNE,QUINTIN" uni="53" class="FR" gp="0" code="53"></player>
+  <player name="PUGH, Kyle" checkname="PUGH,KYLE" uni="57" class="FR" gp="0" code="57"></player>
+  <player name="HARMSTON, Ty" checkname="HARMSTON,TY" uni="59" class="FR" gp="0" code="59"></player>
+  <player name="SCHLEE, Alex" checkname="SCHLEE,ALEX" uni="60" class="FR" gp="0" code="60"></player>
+  <player name="SMITH, Mike" checkname="SMITH,MIKE" uni="62" class="FR" gp="0" code="62"></player>
+  <player name="SHIVELY, Luke" checkname="SHIVELY,LUKE" uni="64" class="FR" gp="0" code="64"></player>
+  <player name="VELOZ, Nathan" checkname="VELOZ,NATHAN" uni="65" class="FR" gp="0" code="65"></player>
+  <player name="KRAKLOW, Robert" checkname="KRAKLOW,ROBERT" uni="67" class="FR" gp="0" code="67"></player>
+  <player name="STECKLER, Jorda" checkname="STECKLER,JORDA" uni="72" class="FR" gp="0" code="72"></player>
+  <player name="HUGHES, Vince" checkname="HUGHES,VINCE" uni="75" class="FR" gp="0" code="75"></player>
+  <player name="EVANS, Shane" checkname="EVANS,SHANE" uni="77" class="FR" gp="0" code="77"></player>
+  <player name="MAILLOUX, Josh" checkname="MAILLOUX,JOSH" uni="78" class="FR" gp="0" code="78"></player>
+  <player name="TOPOLE, Scott" checkname="TOPOLE,SCOTT" uni="79" class="FR" gp="0" code="79"></player>
+  <player name="MONAGHAN, Skyle" checkname="MONAGHAN,SKYLE" uni="80" class="SO" gp="0" code="80"></player>
+  <player name="TENNENBAUM, Kev" checkname="TENNENBAUM,KEV" uni="84" class="SR" gp="0" code="84"></player>
+  <player name="MITCHELL, Malik" checkname="MITCHELL,MALIK" uni="85" class="SO" gp="0" code="85"></player>
+  <player name="BUIRGE, Adam" checkname="BUIRGE,ADAM" uni="86" class="FR" gp="0" code="86"></player>
+  <player name="TOLLIVER, Denze" checkname="TOLLIVER,DENZE" uni="87" class="FR" gp="0" code="87"></player>
+  <player name="CRAWFORD, Danie" checkname="CRAWFORD,DANIE" uni="88" class="FR" gp="0" code="88"></player>
+  <player name="LEE, Steven" checkname="LEE,STEVEN" uni="89" class="FR" gp="0" code="89"></player>
+  <player name="CHAMBERS, Russ" checkname="CHAMBERS,RUSS" uni="91" class="FR" gp="0" code="91"></player>
+  <player name="MOSLEY, Rajshaw" checkname="MOSLEY,RAJSHAW" uni="93" class="SO" gp="0" code="93"></player>
+  <player name="KELLY, Marcus" checkname="KELLY,MARCUS" uni="96" class="FR" gp="0" code="96"></player>
+  <player name="CORLEY, Herland" checkname="CORLEY,HERLAND" uni="97" class="FR" gp="0" code="97"></player>
+  <player name="ROBERTS, Ryan" checkname="ROBERTS,RYAN" uni="98" class="FR" gp="0" code="98"></player>
+  <player name="MALOLO, Siosifa" checkname="MALOLO,SIOSIFA" uni="99" class="SR" gp="0" code="99"></player>
+ </dnp>
+ <dnp vh="H" id="UB">
+  <player name="HENDERSON, Core" checkname="HENDERSON,CORE" uni="1C" class="FR" gp="0" code="1C"></player>
+  <player name="DOUBEK, Chris" checkname="DOUBEK,CHRIS" uni="1K" class="FR" gp="0" code="1K"></player>
+  <player name="CLARKE, Conor" checkname="CLARKE,CONOR" uni="1Z" class="JR" gp="0" code="1Z"></player>
+  <player name="MERCHANT, Chris" checkname="MERCHANT,CHRIS" uni="1M" class="FR" gp="0" code="1M"></player>
+  <player name="CANTALICIO, Tch" checkname="CANTALICIO,TCH" uni="1T" class="FR" gp="0" code="1T"></player>
+  <player name="DEMONTE, Michae" checkname="DEMONTE,MICHAE" uni="1D" class="SR" gp="0" code="1D"></player>
+  <player name="BARNES, Deion" checkname="BARNES,DEION" uni="1B" class="FR" gp="0" code="1B"></player>
+  <player name="THERRIEN, Todd" checkname="THERRIEN,TODD" uni="1N" class="SR" gp="0" code="1N"></player>
+  <player name="JACKSON, Tyree" checkname="JACKSON,TYREE" uni="3A" class="FR" gp="0" code="3A"></player>
+  <player name="DANIEL, Tony" checkname="DANIEL,TONY" uni="5A" class="SR" gp="0" code="5A"></player>
+  <player name="DADEBOE, Jeremi" checkname="DADEBOE,JEREMI" uni="6A" class="FR" gp="0" code="6A"></player>
+  <player name="MICHAEL, Collin" checkname="MICHAEL,COLLIN" uni="6" class="JR" gp="0" code="6"></player>
+  <player name="OSBORN, KJ" checkname="OSBORN,KJ" uni="8A" class="FR" gp="0" code="8A"></player>
+  <player name="HENDRICK, Torey" checkname="HENDRICK,TOREY" uni="9" class="FR" gp="0" code="9"></player>
+  <player name="ZAZZARA, J.R." checkname="ZAZZARA,JR" uni="18" class="FR" gp="0" code="18"></player>
+  <player name="FORMAN, Michael" checkname="FORMAN,MICHAEL" uni="20" class="SO" gp="0" code="20"></player>
+  <player name="LAMOUR, Dev" checkname="LAMOUR,DEV" uni="28" class="FR" gp="0" code="28"></player>
+  <player name="REED, Emmanuel" checkname="REED,EMMANUEL" uni="29" class="FR" gp="0" code="29"></player>
+  <player name="WILLIAMS, Debra" checkname="WILLIAMS,DEBRA" uni="30" class="JR" gp="0" code="30"></player>
+  <player name="NICHOLAS, Zach" checkname="NICHOLAS,ZACH" uni="32" class="SO" gp="0" code="32"></player>
+  <player name="REMBERT, Willia" checkname="REMBERT,WILLIA" uni="35" class="JR" gp="0" code="35"></player>
+  <player name="FRANKLIN, Jarre" checkname="FRANKLIN,JARRE" uni="36" class="JR" gp="0" code="36"></player>
+  <player name="WILSON, Terranc" checkname="WILSON,TERRANC" uni="37" class="FR" gp="0" code="37"></player>
+  <player name="SCHILLACE, Joe" checkname="SCHILLACE,JOE" uni="40" class="SO" gp="0" code="40"></player>
+  <player name="LIS, Greg" checkname="LIS,GREG" uni="42" class="SO" gp="0" code="42"></player>
+  <player name="SKIPWORTH, Came" checkname="SKIPWORTH,CAME" uni="45" class="FR" gp="0" code="45"></player>
+  <player name="AMES, Jake" checkname="AMES,JAKE" uni="47" class="FR" gp="0" code="47"></player>
+  <player name="WHITE, Will" checkname="WHITE,WILL" uni="48" class="FR" gp="0" code="48"></player>
+  <player name="EMER, Zach" checkname="EMER,ZACH" uni="49" class="FR" gp="0" code="49"></player>
+  <player name="HARTLEY, Skyler" checkname="HARTLEY,SKYLER" uni="54" class="FR" gp="0" code="54"></player>
+  <player name="RUGGERIO, Nico" checkname="RUGGERIO,NICO" uni="56" class="FR" gp="0" code="56"></player>
+  <player name="AMES, Nick" checkname="AMES,NICK" uni="57" class="FR" gp="0" code="57"></player>
+  <player name="MANOSALVAS, Bra" checkname="MANOSALVAS,BRA" uni="61" class="SO" gp="0" code="61"></player>
+  <player name="BYRON, Jacob" checkname="BYRON,JACOB" uni="62" class="SO" gp="0" code="62"></player>
+  <player name="GUY, Dillon" checkname="GUY,DILLON" uni="65" class="SR" gp="0" code="65"></player>
+  <player name="KSIEZARCZYK, Ev" checkname="KSIEZARCZYK,EV" uni="67" class="FR" gp="0" code="67"></player>
+  <player name="MURPHY, Matt" checkname="MURPHY,MATT" uni="72" class="FR" gp="0" code="72"></player>
+  <player name="MCCOY, Albert" checkname="MCCOY,ALBERT" uni="75" class="JR" gp="0" code="75"></player>
+  <player name="BOWMAN, Trey" checkname="BOWMAN,TREY" uni="78" class="JR" gp="0" code="78"></player>
+  <player name="GALLEY, Bill" checkname="GALLEY,BILL" uni="79" class="FR" gp="0" code="79"></player>
+  <player name="MABRY, Tyler" checkname="MABRY,TYLER" uni="81" class="FR" gp="0" code="81"></player>
+  <player name="NAGEL, Kyle" checkname="NAGEL,KYLE" uni="83" class="SO" gp="0" code="83"></player>
+  <player name="SEYBERT, Matt" checkname="SEYBERT,MATT" uni="84" class="FR" gp="0" code="84"></player>
+  <player name="TUTELA, Joe" checkname="TUTELA,JOE" uni="93" class="FR" gp="0" code="93"></player>
+  <player name="NICHOLAS, Myles" checkname="NICHOLAS,MYLES" uni="94" class="FR" gp="0" code="94"></player>
+  <player name="HWANG, Duke" checkname="HWANG,DUKE" uni="96" class="FR" gp="0" code="96"></player>
+  <player name="SMEKAL, Zach" checkname="SMEKAL,ZACH" uni="97" class="SO" gp="0" code="97"></player>
+  <player name="GONZALEZ, Chris" checkname="GONZALEZ,CHRIS" uni="98" class="FR" gp="0" code="98"></player>
+ </dnp>
+ <longplays thresh="70">
+ </longplays>
+</fbgame>
