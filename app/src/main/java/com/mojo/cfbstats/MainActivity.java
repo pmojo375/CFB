@@ -2,27 +2,25 @@ package com.mojo.cfbstats;
 
 import android.content.res.Resources;
 import android.os.AsyncTask;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.SparseArray;
-import android.widget.ArrayAdapter;
-import android.widget.ListAdapter;
 import android.widget.ListView;
+
+import com.orm.SugarContext;
 
 import org.xmlpull.v1.XmlPullParserException;
 
 import java.io.IOException;
 import java.io.InputStream;
 import java.lang.reflect.Field;
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
     XmlParser parser = new XmlParser();
     TeamBuilder teamBuilder = new TeamBuilder();
     ListView teamList;
+
 
     SparseArray<String> fbsTeams;
 
@@ -34,27 +32,20 @@ public class MainActivity extends AppCompatActivity {
 
         teamList = (ListView) findViewById(R.id.listView);
 
+        SugarContext.init(this);
+
         // TODO: add first run code
 
         // delete all entries in the database until a proper startup sequence is developed
-        Games.deleteAll(Games.class);
-
+        //Games.deleteAll(Games.class);
+/*
         try {
             initialGameParsing();
         } catch (IllegalAccessException e) {
             e.printStackTrace();
         }
-
-        // get the usable team list
-        fbsTeams = teamBuilder.getFBSTeams();
-
-        List codeList = new ArrayList();
-
-        for(int i = 0; i < fbsTeams.size(); i++) {
-            codeList.add(fbsTeams.keyAt(i));
-        }
-
-        teamList.setAdapter(new ArrayAdapter(this, R.layout.team_list_item, codeList));
+*/
+        teamList.setAdapter(new TeamListAdapter(this, R.layout.team_list_item, teamBuilder));
 
     }
 

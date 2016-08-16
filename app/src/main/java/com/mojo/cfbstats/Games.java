@@ -11,7 +11,6 @@ public class Games extends SugarRecord {
     int homeScore, awayScore, homeTeam, awayTeam;
 
     public Games() {
-
     }
 
     public Games(int homeTeam, int homeScore, int awayTeam, int awayScore) {

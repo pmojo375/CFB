@@ -1,10 +1,7 @@
 package com.mojo.cfbstats;
 
-import android.util.SparseArray;
-
 import java.util.ArrayList;
-import java.util.Collection;
-import java.util.HashMap;
+import java.util.List;
 
 /**
  * Created by Mojsiejenko on 6/21/16.
@@ -20,146 +17,68 @@ public class TeamBuilder {
             703, 704, 706, 709, 716, 718, 719, 721, 725, 726, 731, 732, 736, 742, 746, 749, 754,
             756, 768, 772, 774, 796, 811};
 
+    private int[] teamDrawables = {R.drawable.logo_458, R.drawable.logo_5, R.drawable.logo_8, R.drawable.logo_9,
+            R.drawable.logo_28, R.drawable.logo_29, R.drawable.logo_30, R.drawable.logo_31, R.drawable.logo_37,
+            R.drawable.logo_47, R.drawable.logo_51, R.drawable.logo_66, R.drawable.logo_67, R.drawable.logo_71,
+            R.drawable.logo_77, R.drawable.logo_86, R.drawable.logo_96, R.drawable.logo_107, R.drawable.logo_110,
+            R.drawable.logo_128, R.drawable.logo_129, R.drawable.logo_140, R.drawable.logo_147, R.drawable.logo_156,
+            R.drawable.logo_157, R.drawable.logo_164, R.drawable.logo_193, R.drawable.logo_196, R.drawable.logo_204,
+            R.drawable.logo_229, R.drawable.logo_231, R.drawable.logo_234, R.drawable.logo_235, R.drawable.logo_254,
+            R.drawable.logo_255, R.drawable.logo_257, R.drawable.logo_277, R.drawable.logo_288, R.drawable.logo_295,
+            R.drawable.logo_301, R.drawable.logo_306, R.drawable.logo_311, R.drawable.logo_312, R.drawable.logo_327,
+            R.drawable.logo_328, R.drawable.logo_331, R.drawable.logo_334, R.drawable.logo_365, R.drawable.logo_366,
+            R.drawable.logo_367, R.drawable.logo_388, R.drawable.logo_392, R.drawable.logo_400, R.drawable.logo_404,
+            R.drawable.logo_414, R.drawable.logo_415, R.drawable.logo_416, R.drawable.logo_418, R.drawable.logo_419,
+            R.drawable.logo_428, R.drawable.logo_430, R.drawable.logo_433, R.drawable.logo_434, R.drawable.logo_457,
+            R.drawable.logo_463, R.drawable.logo_465, R.drawable.logo_466, R.drawable.logo_472, R.drawable.logo_473,
+            R.drawable.logo_490, R.drawable.logo_497, R.drawable.logo_498, R.drawable.logo_503, R.drawable.logo_509,
+            R.drawable.logo_513, R.drawable.logo_518, R.drawable.logo_519, R.drawable.logo_521, R.drawable.logo_522,
+            R.drawable.logo_528, R.drawable.logo_529, R.drawable.logo_539, R.drawable.logo_545, R.drawable.logo_559,
+            R.drawable.logo_574, R.drawable.logo_587, R.drawable.logo_626, R.drawable.logo_630, R.drawable.logo_646,
+            R.drawable.logo_648, R.drawable.logo_651, R.drawable.logo_657, R.drawable.logo_663, R.drawable.logo_664,
+            R.drawable.logo_670, R.drawable.logo_671, R.drawable.logo_674, R.drawable.logo_688, R.drawable.logo_690,
+            R.drawable.logo_694, R.drawable.logo_697, R.drawable.logo_698, R.drawable.logo_700, R.drawable.logo_703,
+            R.drawable.logo_704, R.drawable.logo_706, R.drawable.logo_709, R.drawable.logo_716, R.drawable.logo_718,
+            R.drawable.logo_719, R.drawable.logo_721, R.drawable.logo_725, R.drawable.logo_726, R.drawable.logo_731,
+            R.drawable.logo_732, R.drawable.logo_736, R.drawable.logo_742, R.drawable.logo_746, R.drawable.logo_749,
+            R.drawable.logo_754, R.drawable.logo_756, R.drawable.logo_768, R.drawable.logo_772, R.drawable.logo_774,
+            R.drawable.logo_796, R.drawable.logo_811};
+
+    private String[] teamNames = {"Charlotte", "Akron", "Alabama", "UAB", "Arizona State", "Arizona", "Arkansas State",
+            "Arkansas", "Auburn", "Ball State", "Baylor", "Boise State", "Boston College", "Bowling Green",
+            "BYU", "Buffalo", "Fresno State", "California", "UCLA", "UCF", "Central Michigan", "Cincinnati",
+            "Clemson", "Colorado State", "Colorado", "Connecticut", "Duke", "East Carolina", "Eastern Michigan",
+            "Florida Atlantic", "Florida International", "Florida State", "Florida", "Georgia State", "Georgia Tech",
+            "Georgia", "Hawai'i", "Houston", "Idaho", "Illinois", "Indiana", "Iowa State", "Iowa", "Kansas State",
+            "Kansas", "Kent State", "Kentucky", "LSU", "Louisiana Tech", "Louisville", "Marshall", "Maryland",
+            "Massachusetts", "Memphis", "Miami (Ohio)", "Miami (Florida)", "Michigan State", "Michigan",
+            "Middle Tennessee", "Minnesota", "Mississippi State", "Mississippi", "Missouri", "North Carolina",
+            "Nebraska", "UNLV", "Nevada", "New Mexico State", "New Mexico", "North Carolina State", "North Texas",
+            "Louisiana-Monroe", "Northern Illinois", "Northwestern", "Notre Dame", "Ohio State", "Ohio",
+            "Oklahoma State", "Oklahoma", "Oregon State", "Oregon", "Penn State", "Pittsburgh", "Purdue",
+            "Rice", "Rutgers", "San Diego State", "San Jose State", "South Alabama", "South Carolina",
+            "South Florida", "USC", "SMU", "Southern Mississippi", "Texas State", "Louisiana-Lafayette",
+            "Stanford", "Syracuse", "Temple", "Tennessee", "Texas A&M", "TCU", "Texas Tech", "Texas",
+            "UTEP", "UTSA", "Toledo", "Troy", "Tulane", "Tulsa", "Air Force", "Army", "Navy", "Utah State",
+            "Utah", "Vanderbilt", "Virginia Tech", "Virginia", "Wake Forest", "Washington State", "Washington",
+            "West Virginia", "Western Kentucky", "Western Michigan", "Wisconsin", "Wyoming"};
+
+    int size = teamCodes.length;
+
+    List<TeamData> teams = new ArrayList<>();
+
     TeamBuilder() {
-        
+        if (size == teamNames.length) {
+            for (int i = 0; i < size; i++) {
+                teams.add(new TeamData(teamCodes[i], teamNames[i], teamDrawables[i]));
+            }
+        } else {
+            //error, arrays are different sizes!
+        }
     }
 
-    public int[] getTeamCodes() {
-        return teamCodes;
+    public List getTeams() {
+        return teams;
     }
 
-    // gets all 128 FBS teams in an key/set collection
-    public SparseArray<String> getFBSTeams() {
-        
-        SparseArray<String> teamsFBS = new SparseArray<String>();
-
-        teamsFBS.put(458, "Charlotte");
-        teamsFBS.put(5, "Akron");
-        teamsFBS.put(8, "Alabama");
-        teamsFBS.put(9, "UAB");
-        teamsFBS.put(28, "Arizona State");
-        teamsFBS.put(29, "Arizona");
-        teamsFBS.put(30, "Arkansas State");
-        teamsFBS.put(31, "Arkansas");
-        teamsFBS.put(37, "Auburn");
-        teamsFBS.put(47, "Ball State");
-        teamsFBS.put(51, "Baylor");
-        teamsFBS.put(66, "Boise State");
-        teamsFBS.put(67, "Boston College");
-        teamsFBS.put(71, "Bowling Green");
-        teamsFBS.put(77, "BYU");
-        teamsFBS.put(86, "Buffalo");
-        teamsFBS.put(96, "Fresno State");
-        teamsFBS.put(107, "California");
-        teamsFBS.put(110, "UCLA");
-        teamsFBS.put(128, "UCF");
-        teamsFBS.put(129, "Central Michigan");
-        teamsFBS.put(140, "Cincinnati");
-        teamsFBS.put(147, "Clemson");
-        teamsFBS.put(156, "Colorado State");
-        teamsFBS.put(157, "Colorado");
-        teamsFBS.put(164, "Connecticut");
-        teamsFBS.put(193, "Duke");
-        teamsFBS.put(196, "East Carolina");
-        teamsFBS.put(204, "Eastern Michigan");
-        teamsFBS.put(229, "Florida Atlantic");
-        teamsFBS.put(231, "Florida International");
-        teamsFBS.put(234, "Florida State");
-        teamsFBS.put(235, "Florida");
-        teamsFBS.put(254, "Georgia State");
-        teamsFBS.put(255, "Georgia Tech");
-        teamsFBS.put(257, "Georgia");
-        teamsFBS.put(277, "Hawai'i");
-        teamsFBS.put(288, "Houston");
-        teamsFBS.put(295, "Idaho");
-        teamsFBS.put(301, "Illinois");
-        teamsFBS.put(306, "Indiana");
-        teamsFBS.put(311, "Iowa State");
-        teamsFBS.put(312, "Iowa");
-        teamsFBS.put(327, "Kansas State");
-        teamsFBS.put(328, "Kansas");
-        teamsFBS.put(331, "Kent State");
-        teamsFBS.put(334, "Kentucky");
-        teamsFBS.put(365, "LSU");
-        teamsFBS.put(366, "Louisiana Tech");
-        teamsFBS.put(367, "Louisville");
-        teamsFBS.put(388, "Marshall");
-        teamsFBS.put(392, "Maryland");
-        teamsFBS.put(400, "Massachusetts");
-        teamsFBS.put(404, "Memphis");
-        teamsFBS.put(414, "Miami (Ohio)");
-        teamsFBS.put(415, "Miami (Florida)");
-        teamsFBS.put(416, "Michigan State");
-        teamsFBS.put(418, "Michigan");
-        teamsFBS.put(419, "Middle Tennessee");
-        teamsFBS.put(428, "Minnesota");
-        teamsFBS.put(430, "Mississippi State");
-        teamsFBS.put(433, "Mississippi");
-        teamsFBS.put(434, "Missouri");
-        teamsFBS.put(457, "North Carolina");
-        teamsFBS.put(463, "Nebraska");
-        teamsFBS.put(465, "UNLV");
-        teamsFBS.put(466, "Nevada");
-        teamsFBS.put(472, "New Mexico State");
-        teamsFBS.put(473, "New Mexico");
-        teamsFBS.put(490, "North Carolina State");
-        teamsFBS.put(497, "North Texas");
-        teamsFBS.put(498, "Louisiana-Monroe");
-        teamsFBS.put(503, "Northern Illinois");
-        teamsFBS.put(509, "Northwestern");
-        teamsFBS.put(513, "Notre Dame");
-        teamsFBS.put(518, "Ohio State");
-        teamsFBS.put(519, "Ohio");
-        teamsFBS.put(521, "Oklahoma State");
-        teamsFBS.put(522, "Oklahoma");
-        teamsFBS.put(528, "Oregon State");
-        teamsFBS.put(529, "Oregon");
-        teamsFBS.put(539, "Penn State");
-        teamsFBS.put(545, "Pittsburgh");
-        teamsFBS.put(559, "Purdue");
-        teamsFBS.put(574, "Rice");
-        teamsFBS.put(587, "Rutgers");
-        teamsFBS.put(626, "San Diego State");
-        teamsFBS.put(630, "San Jose State");
-        teamsFBS.put(646, "South Alabama");
-        teamsFBS.put(648, "South Carolina");
-        teamsFBS.put(651, "South Florida");
-        teamsFBS.put(657, "USC");
-        teamsFBS.put(663, "SMU");
-        teamsFBS.put(664, "Southern Mississippi");
-        teamsFBS.put(670, "Texas State");
-        teamsFBS.put(671, "Louisiana-Lafayette");
-        teamsFBS.put(674, "Stanford");
-        teamsFBS.put(688, "Syracuse");
-        teamsFBS.put(690, "Temple");
-        teamsFBS.put(694, "Tennessee");
-        teamsFBS.put(697, "Texas A&M");
-        teamsFBS.put(698, "TCU");
-        teamsFBS.put(700, "Texas Tech");
-        teamsFBS.put(703, "Texas");
-        teamsFBS.put(704, "UTEP");
-        teamsFBS.put(706, "UTSA");
-        teamsFBS.put(709, "Toledo");
-        teamsFBS.put(716, "Troy");
-        teamsFBS.put(718, "Tulane");
-        teamsFBS.put(719, "Tulsa");
-        teamsFBS.put(721, "Air Force");
-        teamsFBS.put(725, "Army");
-        teamsFBS.put(726, "Navy");
-        teamsFBS.put(731, "Utah State");
-        teamsFBS.put(732, "Utah");
-        teamsFBS.put(736, "Vanderbilt");
-        teamsFBS.put(742, "Virginia Tech");
-        teamsFBS.put(746, "Virginia");
-        teamsFBS.put(749, "Wake Forest");
-        teamsFBS.put(754, "Washington State");
-        teamsFBS.put(756, "Washington");
-        teamsFBS.put(768, "West Virginia");
-        teamsFBS.put(772, "Western Kentucky");
-        teamsFBS.put(774, "Western Michigan");
-        teamsFBS.put(796, "Wisconsin");
-        teamsFBS.put(811, "Wyoming");
-        
-        return teamsFBS;
-    }
 }
