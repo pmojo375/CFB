@@ -5,12 +5,13 @@ package com.mojo.cfbstats;
  */
 public class TeamData {
 
-    int id, drawable;
+    int id, drawable, background;
     String name;
 
-    TeamData(int id, String name, int drawable) {
+    TeamData(int id, String name, int drawable, int background) {
         this.id = id;
         this.name = name;
         this.drawable = drawable;
+        this.background = background;
     }
 }

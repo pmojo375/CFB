@@ -40,6 +40,7 @@ public class TeamListAdapter extends ArrayAdapter<TeamData> {
         ImageView teamLogo;
 
         TeamData teamData = getItem(position);
+        StatEngine engine = new StatEngine();
 
         if (teamData != null) {
             teamName = (TextView) view.findViewById(R.id.teamName);
@@ -51,12 +52,17 @@ public class TeamListAdapter extends ArrayAdapter<TeamData> {
                 teamName.setText(teamData.name);
             }
 
+            if (teamRecord != null) {
+                teamRecord.setText(engine.getRecord(teamData.id));
+            }
+
             if (teamLogo != null) {
 
                 teamLogo.setImageBitmap(
                         BitmapHandler.decodeSampledBitmapFromResource(
                                 activityContext.getResources(),
                                 teamData.drawable, 100, 100));
+
             }
         }
 

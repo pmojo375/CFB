@@ -8,6 +8,8 @@ import org.xmlpull.v1.XmlPullParserException;
 
 import java.io.IOException;
 import java.io.InputStream;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 /**
  * Created by Mojsiejenko on 6/19/16.
@@ -58,8 +60,8 @@ public class XmlParser {
             eventType = parser.next();
         } while (eventType != XmlPullParser.END_DOCUMENT);
 
-        Games game = new Games(homeCode, homeScore, awayCode, awayScore);
-        game.save();
+        Games games = new Games(homeCode, homeScore, awayCode, awayScore);
+        games.save();
 
     }
 
@@ -68,11 +70,11 @@ public class XmlParser {
 
         switch (tagName) {
             case "venue":
-                //try {
-                //    processVenue(parser);
-                //} catch(IOException | XmlPullParserException e) {
-                //    Log.e("processVenue", e.getLocalizedMessage());
-                //}
+                try {
+                    processVenue(parser);
+                } catch (IOException | XmlPullParserException e) {
+                    Log.e("processVenue", e.getLocalizedMessage());
+                }
                 break;
             case "team":
                 try {
@@ -92,6 +94,28 @@ public class XmlParser {
 
     private void processText(XmlPullParser parser) {
 
+    }
+
+    private void processVenue(XmlPullParser parser) throws IOException, XmlPullParserException {
+        String dateString;
+
+        dateString = parser.getAttributeValue(null, "date");
+
+        parseDate(dateString);
+    }
+
+    private Date parseDate(String dateInput) {
+
+        SimpleDateFormat formatter = new SimpleDateFormat("M/d/y");
+        Date parsed = new Date();
+
+        try {
+            parsed = formatter.parse(dateInput);
+        } catch (Exception e) {
+            System.out.println(e.getMessage());
+        }
+
+        return parsed;
     }
 
     private void processTeam(XmlPullParser parser) throws IOException, XmlPullParserException {

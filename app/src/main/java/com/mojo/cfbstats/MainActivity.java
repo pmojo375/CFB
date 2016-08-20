@@ -1,10 +1,13 @@
 package com.mojo.cfbstats;
 
+import android.content.Intent;
 import android.content.res.Resources;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.SparseArray;
+import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ListView;
 
 import com.orm.SugarContext;
@@ -36,16 +39,24 @@ public class MainActivity extends AppCompatActivity {
 
         // TODO: add first run code
 
-        // delete all entries in the database until a proper startup sequence is developed
-        //Games.deleteAll(Games.class);
-/*
         try {
             initialGameParsing();
         } catch (IllegalAccessException e) {
             e.printStackTrace();
         }
-*/
-        teamList.setAdapter(new TeamListAdapter(this, R.layout.team_list_item, teamBuilder));
+
+        TeamListAdapter teamListAdapter = new TeamListAdapter(this, R.layout.team_list_item, teamBuilder);
+
+        teamList.setAdapter(teamListAdapter);
+
+        teamList.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+                Intent teamPage = new Intent(MainActivity.this, TeamPage.class);
+                teamPage.putExtra("team", i);
+                startActivity(teamPage);
+            }
+        });
 
     }
 
@@ -54,8 +65,10 @@ public class MainActivity extends AppCompatActivity {
         // get the fields in the raw folder
         Field[] fields = R.raw.class.getFields();
 
-        processXML task = new processXML();
-        task.execute(fields);
+        if (Games.count(Games.class) == 0) {
+            processXML task = new processXML();
+            task.execute(fields);
+        }
 
     }
 
@@ -88,6 +101,8 @@ public class MainActivity extends AppCompatActivity {
                     parser.parse(in);
 
                     in.close();
+
+
                 } catch (XmlPullParserException | IOException e) {
                     e.printStackTrace();
                 }

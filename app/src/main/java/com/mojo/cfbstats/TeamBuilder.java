@@ -8,7 +8,7 @@ import java.util.List;
  */
 public class TeamBuilder {
 
-    private int[] teamCodes = {458, 5, 8, 9, 28, 29, 30, 31, 37, 47, 51, 66, 67, 71, 77, 86, 96, 107,
+    public int[] teamCodes = {458, 5, 8, 9, 28, 29, 30, 31, 37, 47, 51, 66, 67, 71, 77, 86, 96, 107,
             110, 128, 129, 140, 147, 156, 157, 164, 193, 196, 204, 229, 231, 234, 235, 254, 255,
             257, 277, 288, 295, 301, 306, 311, 312, 327, 328, 331, 334, 365, 366, 367, 388, 392,
             400, 404, 414, 415, 416, 418, 419, 428, 430, 433, 434, 457, 463, 465, 466, 472, 473,
@@ -44,6 +44,33 @@ public class TeamBuilder {
             R.drawable.logo_754, R.drawable.logo_756, R.drawable.logo_768, R.drawable.logo_772, R.drawable.logo_774,
             R.drawable.logo_796, R.drawable.logo_811};
 
+    private int[] teamBackground = {R.drawable.background_458, R.drawable.background_5, R.drawable.background_8, R.drawable.background_9,
+            R.drawable.background_28, R.drawable.background_29, R.drawable.background_30, R.drawable.background_31, R.drawable.background_37,
+            R.drawable.background_47, R.drawable.background_51, R.drawable.background_66, R.drawable.background_67, R.drawable.background_71,
+            R.drawable.background_77, R.drawable.background_86, R.drawable.background_96, R.drawable.background_107, R.drawable.background_110,
+            R.drawable.background_128, R.drawable.background_129, R.drawable.background_140, R.drawable.background_147, R.drawable.background_156,
+            R.drawable.background_157, R.drawable.background_164, R.drawable.background_193, R.drawable.background_196, R.drawable.background_204,
+            R.drawable.background_229, R.drawable.background_231, R.drawable.background_234, R.drawable.background_235, R.drawable.background_254,
+            R.drawable.background_255, R.drawable.background_257, R.drawable.background_277, R.drawable.background_288, R.drawable.background_295,
+            R.drawable.background_301, R.drawable.background_306, R.drawable.background_311, R.drawable.background_312, R.drawable.background_327,
+            R.drawable.background_328, R.drawable.background_331, R.drawable.background_334, R.drawable.background_365, R.drawable.background_366,
+            R.drawable.background_367, R.drawable.background_388, R.drawable.background_392, R.drawable.background_400, R.drawable.background_404,
+            R.drawable.background_414, R.drawable.background_415, R.drawable.background_416, R.drawable.background_418, R.drawable.background_419,
+            R.drawable.background_428, R.drawable.background_430, R.drawable.background_433, R.drawable.background_434, R.drawable.background_457,
+            R.drawable.background_463, R.drawable.background_465, R.drawable.background_466, R.drawable.background_472, R.drawable.background_473,
+            R.drawable.background_490, R.drawable.background_497, R.drawable.background_498, R.drawable.background_503, R.drawable.background_509,
+            R.drawable.background_513, R.drawable.background_518, R.drawable.background_519, R.drawable.background_521, R.drawable.background_522,
+            R.drawable.background_528, R.drawable.background_529, R.drawable.background_539, R.drawable.background_545, R.drawable.background_559,
+            R.drawable.background_574, R.drawable.background_587, R.drawable.background_626, R.drawable.background_630, R.drawable.background_646,
+            R.drawable.background_648, R.drawable.background_651, R.drawable.background_657, R.drawable.background_663, R.drawable.background_664,
+            R.drawable.background_670, R.drawable.background_671, R.drawable.background_674, R.drawable.background_688, R.drawable.background_690,
+            R.drawable.background_694, R.drawable.background_697, R.drawable.background_698, R.drawable.background_700, R.drawable.background_703,
+            R.drawable.background_704, R.drawable.background_706, R.drawable.background_709, R.drawable.background_716, R.drawable.background_718,
+            R.drawable.background_719, R.drawable.background_721, R.drawable.background_725, R.drawable.background_726, R.drawable.background_731,
+            R.drawable.background_732, R.drawable.background_736, R.drawable.background_742, R.drawable.background_746, R.drawable.background_749,
+            R.drawable.background_754, R.drawable.background_756, R.drawable.background_768, R.drawable.background_772, R.drawable.background_774,
+            R.drawable.background_796, R.drawable.background_811};
+
     private String[] teamNames = {"Charlotte", "Akron", "Alabama", "UAB", "Arizona State", "Arizona", "Arkansas State",
             "Arkansas", "Auburn", "Ball State", "Baylor", "Boise State", "Boston College", "Bowling Green",
             "BYU", "Buffalo", "Fresno State", "California", "UCLA", "UCF", "Central Michigan", "Cincinnati",
@@ -70,7 +97,7 @@ public class TeamBuilder {
     TeamBuilder() {
         if (size == teamNames.length) {
             for (int i = 0; i < size; i++) {
-                teams.add(new TeamData(teamCodes[i], teamNames[i], teamDrawables[i]));
+                teams.add(new TeamData(teamCodes[i], teamNames[i], teamDrawables[i], teamBackground[i]));
             }
         } else {
             //error, arrays are different sizes!
@@ -79,6 +106,20 @@ public class TeamBuilder {
 
     public List getTeams() {
         return teams;
+    }
+
+    public int findTeam(int id) {
+
+        int team = 0;
+
+        for (int i = 0; i < teamCodes.length; i++) {
+            if (teamCodes[i] == id) {
+                team = i;
+                break;
+            }
+        }
+
+        return team;
     }
 
 }
